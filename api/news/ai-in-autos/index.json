@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-02-the-ceo-of-the-self-driving-car-company-waymo-will-step-down-after-more-than-5-years.md",
-      "title": "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years.",
-      "excerpt": "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ...",
+      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-is-leaving-the-google-self-driving-affiliate.md",
+      "title": "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate",
+      "excerpt": "The move brings an end to the former auto executive’s leadership of Google parent Alphabet Inc.’s driverless car effort.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
+      "webUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://images.wsj.net/im-319923/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
-      "publishedDateTime": "2021-04-02T08:03:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "publishedDateTime": "2021-04-02T12:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

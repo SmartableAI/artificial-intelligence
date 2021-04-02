@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-01-jdcom-sells-off-cloud-ai-units-to-its-fintech-arm.md",
-      "title": "JD.com Sells Off Cloud, AI Units To Its FinTech Arm",
-      "excerpt": "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion.",
+      "path": "_news/2021-04-03-jd-technology-withdraws-ipo-application-in-shanghai-amid-chinas-fintech-rule-changes.md",
+      "title": "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes",
+      "excerpt": "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring.",
       "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
-      "originalUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg",
-          "width": 457,
-          "height": 274,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/02/58b58040-24b1-422c-abb7-a1322db9012e_4cbcb6ff.jpg?itok=vViMRtAY&v=1617370095",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
-      "publishedDateTime": "2021-03-31T11:28:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
+      "publishedDateTime": "2021-04-02T14:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

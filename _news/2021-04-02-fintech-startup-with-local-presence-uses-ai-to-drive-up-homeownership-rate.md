@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02
 webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech Startup uses AI to increase Homeownership rate"
+    excerpt: "Fintech startup, Home Lending Pal with local presence uses artificial intelligence to gear up homeownership rate"
+    publishedDateTime: 2021-04-02T18:19:00Z
+    webUrl: "https://techstory.in/fintech-startup-uses-ai-to-increase-homeownership-rate/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/gettyimages-1129146997_1200xx7006-3949-0-0.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "RVxdH9PaRJj+xwgtZd8Pqbeayfmut7fk1QxF4ShMtAEoZbSyZHbmO0Vz9tI2Y789Ey8K8+6MGovsul79uFbX/NIg6/tYXeBcgIs+sI0ClZMlTjChzJ345ICcGeUf1CljXfqnyFb2Lk11jiNlZf+JbZ6aa4a4pkg+zdWV/P01ugyq90db+vviLmSaQlfw6FehVmb1w+B7+POQhW03VMvPlEKRM094OAwnJwYHDXUM1mf+CK5OQn8p1h0Hy13k3BjEXMAOiNs/AXXLznM0s9YaxYiIZ5uRnohHnDCgWXq/azGYif6Av7S5rXG8+2E9cLcIC2asZNntoe2QseuCBCmrIxjGqpFe7jpUGZpcO2//Hpes0MWGsckjoNHpcjuVrCDYN2cAJT0kBXW6CBKckHg4ixOG4Mlwg2hCeYFsOs8/vmO9aBJlGu65TgwQAHCmM8z4ps8QAu+UbVlaEbScFhvAvSKCHDBuA5eTbvpnKANOFtLwMcqm3Yg/drQEuddhA6pQjfHRHoX261gyLM9ewbPgsw==;SGhNbT8Tjzzi/CVrjKB6WQ=="
 ---

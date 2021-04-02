@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How cloud enables banking transformation towards contextual finance"
-    excerpt: "Companies adapting to the new normal brought on by the pandemic have been forced to undergo a digital shift toward contactless payments and a surge in online transactions. As a result, many are looking to Banking-as-a-Service (BaaS) to enable innovative financial and payments services that can be embedded into digital apps and products."
-    publishedDateTime: 2021-04-01T15:00:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance"
+  - title: "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks"
+    excerpt: "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ..."
+    publishedDateTime: 2021-04-02T20:15:00Z
+    webUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/"
+    ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jordan-steranka-0qr7aadcze-unsplash-r.jpg"
-        width: 480
-        height: 270
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Kintent raises $4M seed round to simplify cybersecurity compliance with AI"
+    excerpt: "Kintent Inc., a startup helping companies comply with cybersecurity standards such as HIPAA, today announced that it has raised a $4 million seed funding round led by Tola Capital. The venture capital firm was joined by several prominent angel investors."
+    publishedDateTime: 2021-04-01T18:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png"
+        width: 867
+        height: 482
         isCached: true
 
 secured: "cGcKEYHAbv3Liu0G2G1K2M82gs1DUM7Vb6+xJyX2778fIgy/n2FnhnR3lmWJEHUhI8UrQoVxbofSYz23qgqUd7oDLVvQePjJ8jQUcnnDbR6f4TeqlR3whKWT1QqsfF5J8PYuJ35aO+Kh9LtSRLozpFTS94SSsurBH4vKLhSX39d6UaxFTwRKYw3g/VSaMtH6yjZDLFpLqA1LJrWG7aCL/NVpnNsWxK6YZNATTZAoX3YWsqboJ0yVo2MOuZnl6kFjQCRT0H8u2Nt79ewE4xSMvnATl/1pmsN6uM++6lkmj1AJvXWlAnaC3fA2IeuZf7nU7q9EUsNPBuve5oYEK/EZ5IeuXgm6Ob4F0U1S39rqW1+RMhAxxpCFB0gJLNJO5eIgCMTO7UJXK4u4PR9IPWaiWmATN/is8DlCMhqHVXZGIE2KnrZ3n4yNjmzQ7JHk439v71KB1xY8VvmxktLSip3cz3Uq+dJEO4GrjRmZgz8gdX8J/BkpfrMlFMaLMtFFlbOwXJwsZRopzq5vCpP9WrsgFA==;XnOuBSJofHEQuIo5id2mnA=="

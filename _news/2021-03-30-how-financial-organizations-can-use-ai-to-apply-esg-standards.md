@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Applications of Voice AI"
-    excerpt: "Applications of Voice AI By cio review - Companies in various sectors are adopting voice AI to improve productivity, accuracy, and communication with"
-    publishedDateTime: 2021-03-29T03:57:00Z
-    webUrl: "https://www.cioreview.com/news/applications-of-voice-ai-nid-33241-cid-200.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_5za1l0Os.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Regulators Want to Know How Financial Institutions Use AI and How They’re Mitigating Risks"
     excerpt: "Five federal agencies will publish a request for information Wednesday seeking feedback on 17 specific questions."
     publishedDateTime: 2021-03-30T17:42:00Z

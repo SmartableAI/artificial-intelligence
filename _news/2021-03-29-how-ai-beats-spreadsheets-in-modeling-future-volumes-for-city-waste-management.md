@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 2663
     height: 1498
     isCached: true
-
-related:
-  - title: "How AI beats spreadsheets in modelling future volumes for city waste management"
-    excerpt: "Growing cities tend to run out of land for waste management and new landfill sites. Artificial Intelligence can help city managers create more powerful long-term forecasts of solid waste volumes and landfill requirements,"
-    publishedDateTime: 2021-03-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoj-hab032421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/260168_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "UvmPs1igah6ZdbPgy1lDYQUiWVClHrjz+r/ShBE4XB/BoCzPOVEkAsZprQPdSUOgoMIO3JRkwN5h1JDilPeFGOrskT2dpB8s6ZHZZBGvTKesEorO2BrDvNcePxzCbppNXXv62kBDKK+uhilkucRZeR/AvCuFIFHYVg8aI50TumOoykXPr0oPZQJjR3wJrWFbznk2Nvw2s8hkQxMAQUIcLbPOIdABAwLxMI189SNW3Ox4cq5DVwwmnTZHmBOoYXa6d9eodBjaxckDY2zVq8ZA18EKlmUSxTiA2PPKIoonF0669TGdAekcKGJgMG9p0ZaMRBj+/Xllw/ecKzDKVKOz7+Uvu35Si3wm/LgrkM0mDKPgCuieMoJ1f9Cl6aCI4g495judLMVbfjrJI3HyFlhZmGrw1oq9rOtHmG9Ve0fIfyOrnk7wfYzxr0HuLjT3WRmeMuYL48owNeyd0rMI1+/9P4ncx4VcFbC0S4D8UsRBsab3vyxFtMFRpToDHGwee9qgbuZ2AkBQZtPkWCOj5spELg==;N+mZtKzuEnIfZcd2Nk0rHA=="
 ---

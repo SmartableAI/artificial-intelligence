@@ -44,9 +44,9 @@ related:
         height: 675
         isCached: true
   - title: "If Your Company Uses AI, It Needs an Institutional Review Board"
-    excerpt: "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ..."
+    excerpt: "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector."
     publishedDateTime: 2021-04-01T19:29:00Z
-    webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-text"
+    webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image"
     ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
     type: article

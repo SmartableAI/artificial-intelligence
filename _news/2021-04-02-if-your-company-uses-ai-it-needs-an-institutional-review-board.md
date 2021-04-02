@@ -1,10 +1,10 @@
 ---
 category: news
 title: "If Your Company Uses AI, It Needs an Institutional Review Board"
-excerpt: "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ..."
+excerpt: "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector."
 publishedDateTime: 2021-04-01T19:29:00Z
-originalUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-text"
-webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-text"
+originalUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image"
+webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image"
 ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
 type: article
@@ -88,6 +88,6 @@ related:
         height: 266
         isCached: true
 
-secured: "Az2+B7flR1ZDAEnXjC6ZLTR37qsritV6gbdjryL/+cyNtlEgmWrNnBp/pM4jy3MI6Si0qSo5Np75iVa+iKvzByIfWdzUMN2cQ7S4f/BiRePDcrvSqFxuQWzfAlMMaxT6ZgqUd3reC6cwixIid0KqN0zDBtTkGiEsuoSGyM2u5MU3Wjd83yxVJCBiE0GITUZT/sCHS+ACbKw2CP78U3yU0SXd4AqQQmIW9tQBPOnVRC+B11QLPgUsIDtcICPwsZfYh/XVaGIjko00F30D54Twlwz70VyiNCYN/o8r5HBLwx3Vu2efMUiDrdj7iO8QyoALgVybPW7s52EWDmlBlVxx+Gjrvki4ywvhCHMXlhwEpcoszor4pyU12nbmWhn/xImgU+rqQbHIKCbyJLKp6UL258DKw0PRu0uxb7qqoCvV/nPYBeHpY8q2jXwfIQlxA3yK3OuCWYWM32TxnkTs3HEDc0yIOplYAwkSAIODQy5RhXmcfrMKM8eBgKUI5406IG7C52BDp20UhcYreydlqXjSfA==;SCAEWNr/TjPLdri0GgRhVg=="
+secured: "PCcMBG99jJzTgUtwLDVy1Iy8nzzbyqLXtb0VNhsncDGM4Tfi9QeB5UmOvcDzXr86yKH1CsyE1aLwD6nhh3aAo9wY7ZMk0bmAM7+Axdzzx/+uluKxlvZsztuADzOuCRj71YEEPWGJqSQwy0wNubp3jTYSq7dJ3CHQbZI3u+JOC5blzwX6GId3YvV9A0BH7rT9/ujrzlsQfPQrJk0wyXcXv0u1Zo3yu7cUYMfCCO9Gi3H+L2tPe2MynbIysDa7lJMmYLU/ZxDQr4rG1+BgUQ0DIv/3o5FAXT7l2oAr8wKnQME4qHlsTyPtRv1cakR1Gayahda/kh280YIjQ1L7fBxGtoII5lmXZqrPW7icAlx6fcY=;qqnEKz99TtYf8suglOlvIQ=="
 ---
 

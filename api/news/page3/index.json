@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
+      "title": "The Future of Lab Robotics",
+      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "publishedDateTime": "2021-03-31T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
+      "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
+      "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gtc21-spring-sm-4-topics-collage-2-1200x600-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
+      "publishedDateTime": "2021-03-31T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
+      "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
+      "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-33_WA-Cardinal-Health-Post_2000x1006.jpg",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient.md",
       "title": "AI experts warn Facebook’s anti-bias tool is ‘completely insufficient’",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today published a blog post detailing Fairness Flow, an internal toolkit the company claims enables ...",
@@ -299,7 +445,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1064,160 +1210,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-scientists-used-ai-to-link-cryptomarkets-with-substance-abusers-on-reddit-and-twitter.md",
-      "title": "Scientists used AI to link cryptomarkets with substance abusers on Reddit and Twitter",
-      "excerpt": "An international team of researchers recently developed an AI system that pieces together bits of information from dark web cryptomarkets, Twitter, and Reddit in order to better understand ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/aidopefeat-796x407.jpg",
-          "width": 796,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
-      "publishedDateTime": "2021-03-30T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-celentialai-which-matches-software-engineers-with-jobs-raises-95m.md",
-      "title": "Celential.ai, which matches software engineers with jobs, raises $9.5M",
-      "excerpt": "Celential.ai, a startup leveraging AI to match software engineers with open roles, raised $9.5 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
-      "originalUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/employer-hero-e1615920570719.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
-      "publishedDateTime": "2021-03-30T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-artificial-intelligence-is-learning-to-categorize-and-talk-about-art.md",
-      "title": "Artificial Intelligence Is Learning To Categorize And Talk About Art",
-      "excerpt": "It’s hard enough for humans to categorize or discuss art, but it’s even more difficult for artificial intelligence. Several research groups have tried to apply machine learning to databases of artworks to sort and describe them in a meaningful way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/",
-      "originalUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063830b85c39ae0e8ce7e1c%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/amp/",
-      "publishedDateTime": "2021-03-30T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

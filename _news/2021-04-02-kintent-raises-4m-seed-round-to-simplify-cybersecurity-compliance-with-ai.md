@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-s
 webUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 867
     height: 482
     isCached: true
+
+related:
+  - title: "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks"
+    excerpt: "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ..."
+    publishedDateTime: 2021-04-02T20:15:00Z
+    webUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/"
+    ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Cybersecurity is key during digital transformation in the financial services sector"
+    excerpt: "In addition, the cloud enables artificial intelligence (AI) and machine learning (ML). The move to the cloud became imperative during the pandemic-related shutdown in 2020, as the majority of financial services workforces needed to work remotely."
+    publishedDateTime: 2021-03-31T16:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 18
+    images:
+      - url: "https://biz-file.com/c/2103/603603.jpg"
+        width: 900
+        height: 460
+        isCached: true
 
 secured: "p07E6v/pXMrZTGgbi+IlfM9D1bVtK95fhay3JGVA62QUc2OasYPNGY+ywAt0IEaaWSxVvlT6sLVUms41xnCpwZE35yy7/LUfFexWySB7GZQ0pOnMlPTcnP2TNPcxsuMzfce8DyJIASrFGzuFjDKSGVuluVxjSznG2OaHGxjP/TehMpEhDbEBBMXBKsiXAx2opMHCHm/gIyfyjA1IyDnE6Qc4IX8NRm1bsOutNoW1U1zBhI0MkxSqjAbNqEFfbblMpTKGa5I5XKMxFcSrljhzJKE/Ce4y4qfmAWAKLy5XE4ZP0uiwABpV+nOvbJSmMk/rumLy0bK7nGy+7/mD09PYXo++McPf875KKyn5jK0SgTQ=;UvUaeWX4iHgq1z6Gc1NCNw=="
 ---

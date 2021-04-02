@@ -40,6 +40,20 @@ related:
         width: 800
         height: 334
         isCached: true
+  - title: "Build a CI/CD pipeline for deploying custom machine learning models using AWS services"
+    excerpt: "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts."
+    publishedDateTime: 2021-04-02T20:06:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg"
+        width: 800
+        height: 692
+        isCached: true
 
 secured: "JY5mRE9kj302i4/cDCZyY76LOp3XC3hY9DctUxcTDjuyQfZesp5T3Deb8r1TwTse1GAft0iK7e3WtouItU/DRMV8V0lwTG3HV4GY8ObjfM1a9rQyZzTLgdX3mEhVzgw3bzRvvODtygx4ozgKeSVLNMIR5hJOnGCmdUH//7Yz8YFKfMLj7+erA1FA8SMlajRo6BIfQDvqEGcZ7mFYArQDmb192Yp1lu8Rd51IdpMXd585b/o+9suCk6Mw3Ivr9WziKtFZIlOo9KAAllxpAovmi54KwgHp5cVh1XstuLolKXbDsHhe+XlKLmSAfvYSkh2u0/YFvB2+VIit1Boz3lpZZH7t+kkp+ruSaooLFjYKj1soM/kSDpY6quoTimq+sR8zOYVkt8ffRodODcR4dAg5Av57C4w/WB5zdx5k3oWb2c59FW68IrLFDI94/8pBH256BfaGLDP5wdqkeT13JJ4z73m+bMpttod+JWduFtF7QS0iUhJ0fEB/DSvTm8VznGBSYObVTKlPhQ6nEvZTNifmcA==;okvTcmp7T9PvgkDSmZoUFg=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
+    excerpt: "The move brings an end to the former auto executive’s leadership of Google parent Alphabet Inc.’s driverless car effort."
+    publishedDateTime: 2021-04-02T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-319923/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
     excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
     publishedDateTime: 2021-04-02T15:03:00Z
@@ -70,7 +86,39 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
+    publishedDateTime: 2021-04-02T20:33:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CEO of Google's self-driving car spinoff steps down from job"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
+    publishedDateTime: 2021-04-02T20:04:00Z
+    webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
-secured: "ioIAs+0j9n6+VGkJk4MYqF8r6WIQJFM9DkhaGAwHE0EIsuCuPgX0EjlsNYGdRkIMt5/9TNniVMrfaWZGetm9hn6z4GDRuYC1GyMcxQcvwUarjknu3LwcT4AeABkYkT2RjlnxziKSZbw10+irwMdRw2Qp5/1ZPrJsXEyeqZuJ7XNc5TrXJLpLsFpx8Xva1G49OfCnX3MviPUAgy7D3BedPTUihwktTJS019hhEyaic7/fPKgCs25Jncbv04z+QHjKL/gPMSxDD5nlsUmNx15Q0b7l7uTSMj+v1mIJtH+t1Yy5kio8sYl8Nce44VqT2YrOk25lx3q3kXbNXrxTsH7lM4Rh30e7OWbk0lYszcH1x1o=;YwzK4VashE1eihu4etS/kQ=="
+secured: "QbfQkxea77XetNwyMU06E/8KvlVhv5IUqZEo+AKxoTzVRg5weAEhXyMSaMSQhC0Qk3roR4+0bMqwmZLfwTuQ5AK/wUDJBtmuzTBtiooeutQDRYHZPK5zVJ9zHJyGoRJFoT7gcMZTZj4jKjea4mQbTokVQJyZOSoWAmT/Br/1RJrD/Uty69Z2+7oEHq/D5rgN5Xnkq6aUeVIojSqvkGJEGSRNZ9bQms8wHoTeu/nuB0IEUm0SGg2aBbbu/d/M0crj1OrtDO26Dgh7QRmrp9kSNqbH4JzpJQca2xE1ZmIxBpdVoBKQhgyQgK6xiiSu0/K1KDdm7wrCnnhmI4lUU3W/DhMDGz3DuzT5G8aiuLeIrnYpQdkWINuDI4nnmeWFhpBmtche9nHClnURYMWSmb1UqprjYs8R6GbaErKzuuviTWdctRg+PbROZDRnXbsVfpAxvP7gCOjrOhRqSH82vD6E7OKbbWbluKtiGoo0VaipAz+0ibxkcj8VZLDw4HZSB8RG72wKeg6SqKulRwCGxdxevQ==;XlpA1NFp0Z4OkTbCxGY63w=="
 ---
 

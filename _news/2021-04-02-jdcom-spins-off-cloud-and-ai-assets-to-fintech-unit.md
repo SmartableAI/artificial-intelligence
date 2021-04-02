@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes"
+    excerpt: "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring."
+    publishedDateTime: 2021-04-02T21:28:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 82
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/02/58b58040-24b1-422c-abb7-a1322db9012e_4cbcb6ff.jpg?itok=vViMRtAY&v=1617370095"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "JD.com Sells Off Cloud, AI Units To Its FinTech Arm"
     excerpt: "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion."
     publishedDateTime: 2021-03-31T18:28:00Z
@@ -40,34 +56,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Fintech Startup uses AI to increase Homeownership rate"
-    excerpt: "Fintech startup, Home Lending Pal with local presence uses artificial intelligence to gear up homeownership rate"
-    publishedDateTime: 2021-04-02T18:19:00Z
-    webUrl: "https://techstory.in/fintech-startup-uses-ai-to-increase-homeownership-rate/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/gettyimages-1129146997_1200xx7006-3949-0-0.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "SME-focused fintech acquired by Sage"
-    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
-    publishedDateTime: 2021-03-29T07:42:00Z
-    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "SoYpXszlLtHC4RAD9pg82cOV5fEVj8dgnkJrshRqJ1ymMgKm3QHuYQgcdGPuxCJOqA17oLp1dvXJ+guaaGgw6DtUvOICwHNZsNpvll51cFI0hz9TbBDjw94Gr+SZGCbqmBvjHnjaFrYUethYZpcWJDC8d0ksdWXORBboTUM3oA1z19tqaac/aA+1KP1QnOVWtuusq957BB2SqFCBJwRqWyoh/+UFSkmPDU9mknKksSK0qjNuOw82B13EBj8lxBRL8iNwuzJLsg2yPJb/5w+oO4D5kS9zqCI5yJ8TF0Pt2CHIWe2Tn2OofVzLN2/dDaTp5IN+IX35Ztgzq1pqJRhbmM2H1WvvP2SGA5jequm+Eb7TTktqsmibRU7FE1DvMOWIeStvUmn3lbkDCDZ7RmwN9nUeej7TD3MLZZZ/OizUNRIdLhNJdypt0pnxK/XaZ/LnYlLqIA6bsVuZdWIkcRrRPWNfaUgf6MGsRdPhh9XvrYaZdFT7OCfzVg2sOY6y2nK1bH8FtU35ZFpS7gXSkKAlcw==;rw8evj5qRspHQKd40dLJbQ=="

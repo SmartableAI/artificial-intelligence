@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.h
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
 type: article
 quality: 80
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
+    excerpt: "The move brings an end to the former auto executive’s leadership of Google parent Alphabet Inc.’s driverless car effort."
+    publishedDateTime: 2021-04-02T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-319923/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant"
     excerpt: "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives."
     publishedDateTime: 2021-04-02T16:41:00Z
@@ -58,6 +74,38 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
+    publishedDateTime: 2021-04-02T20:33:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CEO of Google's self-driving car spinoff steps down from job"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
+    publishedDateTime: 2021-04-02T20:04:00Z
+    webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Head of Google’s self-driving car project steps down"
     excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
     publishedDateTime: 2021-04-02T19:45:00Z

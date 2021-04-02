@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
 type: article
 quality: 97
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
+    excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
+    publishedDateTime: 2021-04-02T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
     excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."

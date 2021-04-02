@@ -1,47 +1,124 @@
 ---
 category: news
 title: "CEO of Google's self-driving car spinoff steps down from job"
-excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job."
-publishedDateTime: 2021-04-02T19:27:00Z
-originalUrl: "https://www.startribune.com/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/600041609/"
-webUrl: "https://www.startribune.com/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/600041609/"
+excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
+publishedDateTime: 2021-04-02T20:04:00Z
+originalUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1617216053"
-    width: 1680
-    height: 876
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
-  - title: "Google spinoff Cartken and REEF Technologies launch Miami’s first delivery robots"
-    excerpt: "Self-driving and robotics startup Cartken has partnered with REEF Technologies, a startup that operates parking lots and neighborhood hubs, to bring self-driving delivery robots to the streets of downtown Miami."
-    publishedDateTime: 2021-03-30T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/"
-    ampWebUrl: "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/"
+  - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
+    excerpt: "The move brings an end to the former auto executive’s leadership of Google parent Alphabet Inc.’s driverless car effort."
+    publishedDateTime: 2021-04-02T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/nbrhd-reef-cartken.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://images.wsj.net/im-319923/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
+    excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
+    publishedDateTime: 2021-04-02T15:03:00Z
+    webUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant"
+    excerpt: "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives."
+    publishedDateTime: 2021-04-02T16:41:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F956116944%2F0x0.jpg"
+        width: 1200
+        height: 846
+        isCached: true
+  - title: "Alphabet Waymo self-driving unit CEO stepping down"
+    excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
+    publishedDateTime: 2021-04-02T17:34:00Z
+    webUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
+    publishedDateTime: 2021-04-02T20:33:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Head of Google’s self-driving car project steps down"
+    excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
+    publishedDateTime: 2021-04-02T19:45:00Z
+    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
-secured: "OknT0PsvPT8+J1Tfa/0rD1j7CoJ2xq3JN7WrTQyv/rbfBEh255P48nqpO1mmEF7a6VbdG74LxVVrPyCq9PLxXddThQOAiR6wiNVUQTHtuK+T7sUB0zF6Vrwt9UgF6vYJ46GcKk04J1AevZ9VrM4wkxbNLx50P0MHBq9rWP1IdyDzrYTBqkCm9CgjXwh2aQjDVd7whVr+kc1ITB8IZeyJEiFn6U5hLH2SsmZZ7w9iOQpQCTUYtw4ooNc4Q136a4bCrMF+qXatvdiP/F2G2//vzd7cp/Ez7DQelH3OvxY1Kb0xrX2wytIYWNZA9QoSGFeTJ8syxF7JYSLyyypEingOXTDAbpmJMpJCjXQu6G/RmkY=;M5nrAt5sy1KdTmjhS7tasA=="
+secured: "9iHhGwK0rR2STFCb2A0NEanmXIYiWQGZerNT5DlvW4e3uJ8nh7Kr3SYCabtsNe+8N42KC2Ao2L/Pea/uwvgKYAx/EXXBfMpozuoDizbCBim2H6rzYT7AILoP8HpTwcQqVnBjp2lJxuFadqH4GHNVyshg2jceWKpHDqQq69cfIUnnvwdX8agQSqMX2FbOZZAE+HU9OBdVf1feAO8MA5O25rSRf5HwYEEYSVN9vGLX2epMeh6Kk7Df+yQCSE7PpBEVy86QtxrgBpni6a02HuirEoCybTore3vSq81J+yZKwUvHu7JNWWFfRUVlxqa6gFedFl5ayhhh4Ar9M8bdjFOftzD0uL/Oh8BR/xaOdOmjfxw=;3j4HXI0l8cUBYpR8WBDxpg=="
 ---
 

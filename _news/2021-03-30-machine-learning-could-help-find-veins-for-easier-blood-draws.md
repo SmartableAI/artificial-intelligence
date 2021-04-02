@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Skoltech scientists use machine learning to help doctors find veins for no-fuss blood draws"
-    excerpt: "Researchers from Skoltech have developed an early prototype of a medical imaging system that uses neural networks to analyze near-infrared images of veins and project a venous pattern onto a patient's body - this may make blood draws much easier and less of a nuisance for patients with difficult access to veins."
-    publishedDateTime: 2021-03-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/sios-ssu032921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/XWYrUjGtOi80rtAvsT2W3ZxjtrTsHeQ7IYIghS+I92cmJ3o/nnfSQOg+KtDUjr0DKUxrIS1GeAkgkADk64A0GD1evhLjVhXPcPXl9Xl+dZRGYCChiTEhr6VDwaOhOVMAYWxGbNAX1Eh19AyJrCspWNx+IyiKVQPgyCXo4H1eQnDaDxTtV3Jll+BIL4mRaIigv2DpQhjUW1K0AmcMMx/eow9ntb2sZx7eAa9xu7jPHNDDD2xSQlRLaphcNZKn85vUTDAjdYG58vz0Mx8mbR1EnN0rQClDNVM8KHJypC+mI+DIhvCDly1sdA+9r9vDYBkCSyptTW2TLjsdY6gh9jBpEizrOf2HsGdM0R0FJnTqNY=;Y/+Q3V9fT/0cUAdeNigqcQ=="
 ---
