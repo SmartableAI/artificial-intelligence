@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/31/edge-computing-orchestration-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

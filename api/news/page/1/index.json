@@ -446,13 +446,13 @@
     {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
-      "excerpt": "It’s equipped with a 3rd generation NVLink connector for multi-GPU setups to help create large video walls ... PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others.",
+      "excerpt": "Specialist hardware maker PNY has released a new graphics card based on the Nvidia RTX A6000 that lends itself to various high-performance creative and scientific computing environments. Based on the Ampere architecture, the card is armed with a whopping 48GB GDDR6 memory with ECC and a memory bandwidth of 768 GB/s. PNY says that the Nvidia RTX A6000 is equipped with real-time ray tracing and rendering, accelerated artificial intelligence (AI), and photorealistic VR to deliver “unmatched” quality and performance to designers and engineers. The PCIe 4.0 x16 card has 336 Tensor cores and 84 RT cores, which makes it ideal for all kinds of deep learning use cases. With over 10,000 CUDA parallel processing cores, the card is especially useful for working with Nvidia’s CUDA parallel computing platform libraries such as CUDA Deep Neural Network (cuDNN), cuBLAS, TensorRT, and more. It’s equipped with a 3rd generation NVLink connector for multi-GPU setups to help create large video walls, support multiple 8K monitors, or even create immersive VR experiences. The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual-slot design with a maximum power consumption of 300W. The Nvidia RTX A6000 is currently available at a pre-order price of about £4800 (just over $6600) with deliveries scheduled to start mid-May. Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "originalUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "webUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "originalUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -466,8 +466,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
       "publishedDateTime": "2021-04-01T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -492,8 +492,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Google AI"
+        "AI"
       ]
     },
     {
@@ -505,7 +504,7 @@
       "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -548,7 +547,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -849,6 +848,57 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021.md",
+      "title": "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021",
+      "excerpt": "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -961,7 +1011,7 @@
       "originalUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1215,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/367510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1204,58 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
-      "title": "5 machine learning essentials non-technical leaders need to understand",
-      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

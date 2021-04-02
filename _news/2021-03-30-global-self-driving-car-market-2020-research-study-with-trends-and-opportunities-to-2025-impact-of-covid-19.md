@@ -29,61 +29,103 @@ images:
     isCached: true
 
 related:
-  - title: "Impact Of COVID-19 On Natural Language Processing (NLP) Market 2021 Industry Challenges Business Overview And Forecast Research Study 2027"
-    excerpt: "Apr 01, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Natural Language Processing (NLP) Market The research team projects that the Natural Language Processing (NLP ..."
-    publishedDateTime: 2021-04-01T11:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
+  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
+    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
+    publishedDateTime: 2021-04-01T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
-    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
+  - title: "Artificial Intelligence in BFSI Market Demand, Scope, Share, Growth, Applications, Types and Forecasts Report 2028"
+    excerpt: "which is driving revenue growth of the global Artificial Intelligence in BFSI market. Download Sample PDF Copy of this Report At https://www.emergenresearch.com/request-sample/585 Key players in the market include Amazon Web Services (AWS), Inc., Google ..."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-demand-scope-share-growth-applications-types-and-forecasts-report-2028-2021-03-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "Global Artificial Intelligence for Video Surveillance Market 2020 to 2025 - Top Impacting Factors and Investment Study"
+    excerpt: "Global Artificial Intelligence for Video Surveillance Market Growth (Status and Outlook) 2020-2025 is the latest excellent and defined market research report which provides detailed information of the industry including classifications,"
+    publishedDateTime: 2021-03-29T01:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-video-surveillance-market-2020-to-2025---top-impacting-factors-and-investment-study-2021-03-28"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 4:13 PM \"Top Players in Na"
-    publishedDateTime: 2021-03-28T16:00:00Z
-    webUrl: "https://menafn.com/1101823873/Natural-Language-Processing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
+    publishedDateTime: 2021-03-31T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
+    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
+    publishedDateTime: 2021-03-28T19:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
+    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
+    publishedDateTime: 2021-03-31T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2028-fortune-business-insights-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "United States Education Artificial Intelligence Market Report 2021-2025: Market is Poised to Grow by $253.82 Million, Progressing at a CAGR of 49% - R"
+    excerpt: "The artificial intelligence market in the education sector in the US is poised to grow by $ 253.82 mn during 2021-2025, progressing at a CAGR of 49% during the forecast period. The market is driven by the growing emphasis on customized learning paths using AI and increased demand for ITS."
+    publishedDateTime: 2021-03-31T09:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=445292"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "RMF9E7jzjIprqHf+d2KkjBrPQSApxFvIXJTjA7RJ2wwHbp15ADk9l+Mae5dq86pjs7RUCdx2IQi5p7J2SyUMvkiokrQX9bqrUP/Tsj+7IYv2mWboW90nsi9pIlOLGQkuuMGUCRixEbdWaNwqRUdhwlaYN5LAJ8J06SNAoe2tRWwCiXj7Vmt0qMqchJS9yHbBQyhrxfZjnpxtA/8+Es5X3GgK6hgOIGXWs9gwkMbHQMWI36I0gZiH9rKKpOrUI+rQK467b6V5WmPUJz2Y2Nw5i7sVwCcMq4mlYEzgLgFqNwxFmedrTqWT8E6arOik6wFmptLOET4VurzX7RbGwH5a8+Q2qu6eVrpezc5MTPHpW7E=;F8dn8fVmsQdbuyZFFH+Pcw=="

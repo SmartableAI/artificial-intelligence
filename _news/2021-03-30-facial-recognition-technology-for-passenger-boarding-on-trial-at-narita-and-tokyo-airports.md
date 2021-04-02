@@ -69,6 +69,15 @@ related:
         width: 702
         height: 261
         isCached: true
+  - title: "Tampa airport to use new facial recognition technology for international travelers"
+    excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
+    publishedDateTime: 2021-04-01T18:24:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2021/04/01/tampa-airport-acquires-new-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "wBgybiH6afbYHIFYn+h2s2j5J4282A6u1rbyqDlLd1YdG1NjR7XCLVBxFx0wZdhJ9EG4Y6LI6OFKxOXm0/OrCQGFgP19FhdAJX16LNszO1AmSxbCgqrZoYQN4ZihaILTOtJth5YFuF3sEu79VY6K02xKvlHG2UKeZwTXAFjtNpnOj+7CNWQxwyOwTXAgg6F7HO00mImw09ccZG60kSpQeXclSB1IE1bejQzNXxSozVytazLaFn2HizNIsql4JEO03wChR+WFde2+5VUARCGqKJ1jsSocp9cn1Z93eYcpUHTYnB4RNwapZJTR5+x6XFIaTwfaDDqZWiyJWOX53WSvkAsdrfif8yG091CQxclSoV42VuZPuJk+/xRda0BRy9yzfLOilgHWC9RJygKmnpI1iesnRlqV+UAkYkzHHUtHlh6vvkA6tW4SsW8I9tmCxoNMKIUle+qVMBbHKromFFST2bDvXnG4j75FqK3HIuzXgHaJ719nKsvF8yXDDNHYZf6o1Nw87fwXV7HwOT4Y5NfZCQ==;tVAB46xYh19YVfAhiUlkqA=="
 ---
