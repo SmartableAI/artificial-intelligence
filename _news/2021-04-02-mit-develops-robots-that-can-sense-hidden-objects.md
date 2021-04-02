@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/mit-develops-robots-that-can-sense-hidden-obj
 webUrl: "https://techstory.in/mit-develops-robots-that-can-sense-hidden-objects/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "MIT Robot Sees Hidden Objects with Radio Waves"
+    excerpt: "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to pick up. However, what if the target is in a box or under ..."
+    publishedDateTime: 2021-04-02T11:50:00Z
+    webUrl: "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 41
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg"
+        width: 672
+        height: 371
+        isCached: true
 
 secured: "V/idWOE1CHKwtc6RH47Te4JOL5exvep2o/Jw6qfNsDzmZnbEhFPTr5fXw0M+YCZwafzdqWOgEMNrgyz3fz0jd5OEtnuMolJKImQIAbCn6ltkHLy/FSi7WSeM9nGABbU1vEpj1P8dnESEp5R7eFwkJuHQuIuP0MaSGnWQyR6yvCEcrbljT1f8J4YAwhBUXHDsBOU1lRk8sw1KdDfZQaQ54l9Fbx4lhl1BKsxBVWbR0rC5XB0RZ+kiUol5jJPVmyn5bgm02d9PL9FThpAI/cZ/kJQPnCehz40o9iGvoG6ruOajLPvFchQlLANQpNMrArzlFpxmKbLZUcpu9TevQuLbpZ2mD+KMC3ZJIuK4d0TqyjI=;xmS553Luebi4E0UwTh8RqQ=="
 ---
