@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/delhi-news/new-school-board-to
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/delhi-news/new-school-board-to-bank-on-ai-for-tests-101617142057471-amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/29/NAAS/9def4ffd-5a32-4f7b-a4a5-87b0f527619c-OM1_JI_tablet_education.jpg?auto=webp&crop=5439,3060,x0,y317&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Global banking’s AI leap"
+    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
+    publishedDateTime: 2021-04-02T09:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
+        width: 1920
+        height: 680
         isCached: true
 
 secured: "dCVBP5joZWTbDwfsRIzbCJYUraAb+g7ZihPJISu3lr061F7tZQmyTdR3hNQSHSBf9fCLHaUs7lXLfBIf5P9hBI75vq5ELwQy7cDQW5ZAz6+pupUsV2h/COb4Yl3+4lsCzS3CL0oJX0bZUKoSiFR4UCllsKpEVserhrct4Pc1C+CeZv/rNtdkFGMVuh9+mbMgOKj/GO9HkAly+LLDOLmGfAM6tXbsNenEUNLGKByjCpAGVWM8izCwvO95SLhSkhx5cgQmMx/z3EQu1qZaqpNBm5p1VvQlSYnxjm7tCuO5bznDo2XTJi8e9gpGRt2HWkU1MA5/SvVEexMEIF6pnyuqaTQZAQBNd3MYFKCev5jDZoKUUfvuVwuh5S0yhrlU+w8KxOOytOmuHbDXLWO5kvCxNUJyCRn5mHyfrdgZZXyaL9EovmrLYfwZJQVcZfQB2sVaZMM8vru/TBz8iFDAObsjgMOaEr9vP4sAVWcK8RX8k4HxZNd2yzJGLSobiDZ5Nv1VGD51V0A02O7fUJWH6nMh+Q==;vxm7lgJKWF5BORBT00Vb9w=="

@@ -57,6 +57,22 @@ related:
         width: 2372
         height: 1582
         isCached: true
+  - title: "Researchers find that rare rewards amplify dopamine responses during learning"
+    excerpt: "\"Reward prediction errors are crucial to animal and machine learning,\" William R. Stauffer, Ph.D., one of the researchers who carried out the study, told Medical Xpress. \"However, in classical ..."
+    publishedDateTime: 2021-04-02T15:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-04-rare-rewards-amplify-dopamine-responses.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-04-rare-rewards-amplify-dopamine-responses.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-rare-rewards-amplify-dopamine-responses.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/23-researchersf.jpg"
+        width: 1425
+        height: 522
+        isCached: true
   - title: "When rock art meets machine learning"
     excerpt: "Rock art of human figures created over thousands of years in Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years. The study – just published in Australian Archaeology – has tested different ..."
     publishedDateTime: 2021-04-01T03:43:00Z

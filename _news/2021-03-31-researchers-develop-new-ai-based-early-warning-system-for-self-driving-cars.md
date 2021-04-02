@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Key to Automated Decision Making System"
-    excerpt: "Prof. D. Mukhopadhyay There is no clear cut dates available with regard to the birth of Al. However majority of the historians are found to be unanimous"
-    publishedDateTime: 2021-03-30T18:50:00Z
-    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-and-machine-learning-key-to-automated-decision-making-system/"
+  - title: "Inside this AAA-rated manager's self-driving car focused AI portfolio"
+    excerpt: "LFDE’s Rolando Grandi outlines why he has increased exposure to autonomous cars and delves into the reasons human-led driving will become a recreational activity."
+    publishedDateTime: 2021-03-30T08:22:00Z
+    webUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491?assetClassID=1"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 49
+      name: Citywire
+      domain: citywireselector.com
+    quality: 39
     images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_7002168a-f924-4b40-ae71-94cfc2027582_Large"
+        width: 1040
+        height: 520
         isCached: true
 
 secured: "0tBXHSuAyIhbBKdtpXjVP51U1i8NCaU/UNOs55DxehSVL1n7htyeN7Iuz84F8o15iwZ26hAxPO1gEvJgcsSDZnTQH8GwSkJs7EF1caNqw0qHMXfXN9aPPAXj2yKHU85TH5PGiJr51OOKP/KfugINBkGcwA805Dx6uAR8VDpYPHIZTwr32ZjBN8vvNGc0zzfMRQWa2vkM9dhhWG7DK/oolu7+IYwZitOu+YeEaDco4tAAX8JBC9ejXospSUl19yAEhTX+TOMbnNaye3HdCgOFMop58RqvlceSBLZdB2E6jjvSY6U6quPUb0B64ckE4V7o+iUDqRUe5S5JVoqU4c/G6Cm24bK8XrF/NrsfCkHYgdY=;DvhCks6yLCQ9vD+Ehu2TdA=="

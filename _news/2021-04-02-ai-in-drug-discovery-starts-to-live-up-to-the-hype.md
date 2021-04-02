@@ -8,9 +8,9 @@ webUrl: "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live
 ampWebUrl: "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/"
 cdnAmpWebUrl: "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: GEN
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg"

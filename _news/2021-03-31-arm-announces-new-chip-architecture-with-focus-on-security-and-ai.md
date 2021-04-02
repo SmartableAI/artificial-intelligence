@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Arm's latest: A CPU design to better serve AI, ML"
+    excerpt: "Over the next few years, Arm says it will further extend the AI capabilities of its technology to the CPU, its Mali GPUs and Ethos NPUs. For overall performance, Arm believes its new architecture will allow chip manufacturers to gain more than 30% in ..."
+    publishedDateTime: 2021-04-02T15:07:00Z
+    webUrl: "https://www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.html"
+    ampWebUrl: "https://www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 76
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/arm-cortex-chip-image-100882844-large.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Arm Takes On Security, AI With New Chip Architecture"
     excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations ..."
     publishedDateTime: 2021-03-31T00:58:00Z

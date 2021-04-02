@@ -26,16 +26,14 @@ images:
 
 related:
   - title: "INBRAIN Neuroelectronics Secures $17 Million in Series A Funding for First AI-Powered Graphene-Brain Interface"
-    excerpt: "Funding enables company to advance first-in-human studies for its flagship product, a less-invasive neuromodulation device for treating neurological conditions using"
+    excerpt: "Funding enables company to advance first-in-human studies for its flagship product, a less-invasive neuromodulation device for treating neurological conditions using artificial intelligence and graphene electrodes INBRAIN Neuroelectronics S."
     publishedDateTime: 2021-03-30T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/b20398146/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brai"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20398146"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20398146"
+    webUrl: "https://www.morningstar.com/news/business-wire/20210330005388/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brain-interface"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "VbPffiQJOm7vkJDDKsS7SjgD8EZ4IS7TcAPjANWBztnqpIsFIV/v6skulKo/i0yeKMfgXRIYRxL1q/jkfsawAWtoD8vkDSqC29stPIOuHTR29BN8UBqZ5MxXqVqasZ2jRfNnJ34/MSa3am70D68Y0YOpadVxOzsiZWCdIDlB5U+Si3p4GYAbK9MJ4uhFmNEWRzS6hbrDK5iT5NbNEmGfhTnbsmpSwcBmYtyP2m1S1pCBtOGFXs3xMbB+v/jQmMhFQPClkEVtWPweT4ubnwgPOfcBorqE7iLZW8yuw3l/NAps/bJy2bxAmAVkgLEk94WOGuERJrP8/2hRrwpu3bKzH+rTYHQqF6uJSfIiDeQFTf8=;EDU4hDBC3q9vsY8Sj0WpjA=="
 ---

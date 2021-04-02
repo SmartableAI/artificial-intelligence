@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 77
     images:
       - url: "https://images.financialexpress.com/2021/03/ARM-blog-image.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Arm's latest: A CPU design to better serve AI, ML"
+    excerpt: "Over the next few years, Arm says it will further extend the AI capabilities of its technology to the CPU, its Mali GPUs and Ethos NPUs. For overall performance, Arm believes its new architecture will allow chip manufacturers to gain more than 30% in ..."
+    publishedDateTime: 2021-04-02T15:07:00Z
+    webUrl: "https://www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.html"
+    ampWebUrl: "https://www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3614149/arms-latest-a-cpu-design-to-better-serve-ai-ml.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 76
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/arm-cortex-chip-image-100882844-large.jpg"
         width: 1200
         height: 801
         isCached: true

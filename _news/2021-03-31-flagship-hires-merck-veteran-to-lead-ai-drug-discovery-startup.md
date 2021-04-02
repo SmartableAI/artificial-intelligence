@@ -34,7 +34,7 @@ related:
     provider:
       name: GEN
       domain: genengnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg"
         width: 1400

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-s
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:
