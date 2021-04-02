@@ -2,7 +2,7 @@
 name: "BenevolentAI"
 overview: "BenevolentAI is the global leader in the development and application of artificial intelligence (“AI”) for scientific innovation. We aim to accelerate the journey from inventive ideas to medicines for patients by developing AI to generate new treatments for some of the world’s 8,000 untreated diseases."
 type: "profile"
-heat: 32
+heat: 82
 
 website: http://benevolent.ai
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qtkZt5u1XE8"
 
-secured: "WrMu8vwytnJwJZn1Be/Rwn4zOX5OCvMqjNaFmFjxl+kC7VdWqJ3IdCQVUXo8IGaU3FLuoF1xl4m8JVcyNtFvdX3KZvb2FwkZKrl/YpEd4U77I0VlUxtTB3UKJ6s1auYqD00PPyFNi6sqAILz96vdTX0UZcpc3JTKzGtC40ORG9HH8P4juWG8vFJkU/XzHriOz9rMgRwrWu2bUmhIxb/2u+S9AKciClozgR6QVLpj8+GRdMTzf3C2jNqFmasZRr8oV6uf58uKJ57Xhz4AcZt+JwrMb1Hg31gb4GlZi7SRi9H31jknQ5y9x9gwUfD98PzF6gkk/PzEo3gfoyn9uiVfPh8CNsIItN0kl2J9jvtk4HMsenZbqYz4xt4FlSNzp2Go4/mxJeWEAkNOs/oPfHFefZwII0xKso1reZOBo9horUs=;WocI6nGGpdvMEbywFzbEXw=="
+secured: "KS47Z6Koqol90YP/qyObEvPyM0haQOHxvY+iQQOqGlG681//693lgKPMviQqkluTbcYJYSLjBJoPJI1BnlMpC8SILx0Xvi7FVNzTx0FkMZdgF7SO4vSO1m807GKBqvKeYLd1yuPXBoqTLiFCyIRfFzMl0vKUxwA93OIxyTOgI60sr3IOhR+fg3VuXPOB1owghwtU5nIdWuE+DTGP5f8Ox0v969wl8RAQmlXcxCfJMXmNWUjUXFnEhQjxBRCQsUdWOCXgf2UChcg5/k/1UuI0Bl9L7nyl0un2oyNYKenoMUH+cw5Any1a+mEY/Xcc+LP+BGGQ8xtsX0wdPiZkQKMh7jZXIslzQek/WI0LAB/VYGIhvndXDbZGAod1pvSQp3baHkoD544pQx6KVDcnO9xZgxJlPSyO/9V85q7njywW3mM=;U8VSLTVK0dkxi4gqqh64eQ=="
 ---
 

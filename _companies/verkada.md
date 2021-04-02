@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "VerkadaHQ"
   url: "https://twitter.com/VerkadaHQ"
-  followers: 926
+  followers: 927
 
 locations:
   - San Mateo, CA
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Verkada"
 
-secured: "XMHs411Cdbkeh0yXtOaEEopQMUJ628zXdNdTGvjvUea0WAwdm6SZcQsSSJJBsCknDxtRUkhTYu2mFfEa6vZu/CgDAO+Xegr00tK6gFypmQ3kAsn5fSTFl9Bw/O9EBENxarFxfdPV6GckmAzELMjpB6xFh80LfUTnHqLFpJoAtR8TkZQ2mth1kCOw1X2iMDZkh9QpxyP9IFveW1UixjrLOIK9gjksqnE9yXdGh2ymRze2QyNX2yqudBxSq7dtw8UK7rTpLuKvyIk/XCCd5o+hlVi4TJoJQDsLzntoAwr2VO5qQtEaZx3febDHRDXI2X4V84hlD4YYAhh/CHHugZvDoSL3vOvJLCLHLNSL4x3XdhVOBaVOBi8lyjzT3iNOYfM07kMpoVBmpIcdlFkpueec8A==;F+VwFot8U0anEszZN94rnw=="
+secured: "m4cXNGHwbT94PWwD3snrJYQhfKqfaGnAUEmo82fXyKqsat+T80dQRs6Kz1lLBTZQy60kyo/VIRYg96eENGHEmS8FT9vZFIuJzkOnX5FjZf81fC0Gw0GNXXSRxgM1emGF0lQc8TXTZsrQiIkMhhljBqHfU/LIJRRr+ShxqDGbYblDfWCRBB2q1t/hOO3bnhg/EwQ4Wsu6TtHvXlrUinWf9NDCIQiuRBOeFI0WR7Xei+f5xFNDM+7aMB8RiZBcRNsGCxmkDWGySlwSjPSgcfQoYf4Pbj+m4Jz1dcHvgL4KavlVXiE52tbJHN1ldmScSIBRwlF5znzl9Y5WIlyOhNkwJBUk4JUa8gVkPMJrxjmUFS6DZnD7v44FEO6m0wRbH6ldO5lqsV26sXlJ5xVP7j9XPA==;8eP3Jnl6W3AvxLzGcfvaJA=="
 ---
 
