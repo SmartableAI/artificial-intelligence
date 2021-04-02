@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-algorith
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp"
 type: article
 quality: 74
-heat: 105
+heat: 106
 published: true
 
 provider:

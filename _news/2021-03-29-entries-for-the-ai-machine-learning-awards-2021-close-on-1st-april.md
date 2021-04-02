@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in April"
-    excerpt: "AI applications will only increase as the world gets more efficient and these companies hope to take advantage."
-    publishedDateTime: 2021-03-31T15:45:00Z
-    webUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools"
     excerpt: "SXSW 2021 offered a lot to AI enthusiasts but the highlight came with the screening of \"Made For Love,\" a sci-fi comedy thriller that spoofs Elon Musk and debuts on HBO April 1. Starring Cristin Milioti,"
     publishedDateTime: 2021-04-01T14:00:00Z
@@ -56,20 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
-    excerpt: "About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender, customized for every business and event. Powered by conversational AI and voice recognition abilities, Cecilia is not your typical bartender."
-    publishedDateTime: 2021-04-01T11:05:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
+  - title: "3 Top Artificial Intelligence Stocks to Buy in April"
+    excerpt: "Artificial intelligence can add a much-needed shot of predictability, efficiency, and flexibility to business operations, making it a hot item in the software realm right now. Plenty of tech stocks got clobbered in March."
+    publishedDateTime: 2021-03-31T11:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "FLn4O+cT1lQ9rsJJAgb+1Sb0N35OqWt6HnDzBf+ZhB3eNmQscnsfYVP6yEWsh0CCt2UGwR9aRypZ1P86zuI5CJODS1ixHNKAAx67WMgor/qELMdrNa3dVJSWNGA9BghKYxVe0hYKFVEWnirSgHMFTwqe4u9AIhxhfPJ3lI+Jsg1mS6T+zlN6lKupeTeMkJ/yzPC6oj3i6u2VQZB22d+hvmHjn6tf/ATevIVdh4fGp4TR6KJQL6OkUgYIbBdJicYPiiB9MPTGsEZL7DnIQRcsMcq28p4+OvSp3fEUdeB0dQ7cqd4V937jGoPhLBDZOFsjnK8RTuzbFPrUeSsvvtKWEJGnqpqy8739vGMbvQ7ePed1Be3OgB994yW2Pwj4FtjZhNg8O26eccqoLGBBoG9yA9pvsNyLr0S/jpsVWnlv4vA8jYHm7bJ/sXdGCNdu2GwlM9K6Et1pfplguu7sNeX9ZLgJ2mWQ0whhjkY7decJ+9xFJ6ecKTvIHyLO9VWekirzq1ogDM0ZTgU+TsdqseKrMA==;tyhLRmFQbU9WTF8VosIHIw=="
 ---

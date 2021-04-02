@@ -30,14 +30,14 @@ images:
     isCached: true
 
 related:
-  - title: "China's JD spins off cloud and AI businesses to fintech unit"
-    excerpt: "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion)."
-    publishedDateTime: 2021-03-31T10:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2021-03-31"
+  - title: "China's JD Spins off Cloud and AI Businesses to Fintech Unit"
+    excerpt: "China's JD Spins off Cloud and AI Businesses to Fintech Unit The unit, JD Digits, will issue ordinary shares to JD.com as part of the transaction, taking JD.Com's stake to about 42%. (https://bit.ly/3dkKavz) The plans were originally announced in December ..."
+    publishedDateTime: 2021-03-31T11:09:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
 
 secured: "x4OTPMvF/kfEv/Qo6X68b5JA4H8UxmWtvc+Uc7x7K4ktFxW/n69KTTk/wgcZCSg8kiBhGaqYx/r50+RYWVYblcixLzODqdL4hxj7t91YAGO5iwc5sa2xlZdD2jR1o5qdbqfQn7fofYCcxa2auzQVCgr6mfHy23PwJytQIb10YyEFW1gKoenSdsSxDk8Qyn/wnoK6v/RAc8xjhiZO0wI6gyBpx4ZnsAedJfSqvKKpQnQVdPhDsWXWSF14GUUcz5AuA0m7TLkKq0OAIfoSndb8JijS20aT25lAnm8H8xgqjVJDaQtAwMgyKXf+NUiUgiIHu5LqVVC+LLYkJ7/m8ntNNqAwfd1R8p/6w7xfeHJRDbfvyA2R0Jrn/X9mESIRVK/w9r17WsuxRrqsP+fJ0cuUGLcKTbCO25gYPCBYb5ZZVCbJWt79MbB8Zat88ArxBBi0scyaubn7/5rMIbA3rw+0jv8ehWL+FdTWO8SsaxRExz4QOfRe3ZAvvokoCKyW/aB/84NfagfXgXXtvItHCVPZTw==;TXAyAWvB6urlYmUfopqC9A=="

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Chipotle invests in self-driving auto company Nuro"
-    excerpt: "Chipotle Mexican Grill Inc has invested in autonomous driving company Nuro’s series C round of funding in a move to help bolster its delivery network. Nuro uses driverless on-road robotic cars to deliver products to consumers."
-    publishedDateTime: 2021-03-28T10:22:00Z
-    webUrl: "https://www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/"
-    ampWebUrl: "https://www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 44
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2016/06/Honda-Self-Driving-Car-e1464847235855.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Chipotle invests in self-driving startup Nuro as it prepares for delivery’s future"
     excerpt: "Chipotle revealed that it has invested in self-driving vehicle startup Nuro as it looks at new ways consumers will engage with the brand. (Photo: Chipotle & Nuro) Restaurant chain Chipotle Mexican Grill (NYSE: CMG) announced it participated in a funding ..."
     publishedDateTime: 2021-03-29T15:03:00Z
