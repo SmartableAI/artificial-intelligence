@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fridges, microwaves fall prey to global chip shortage"
-    excerpt: "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China."
-    publishedDateTime: 2021-03-29T09:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BL0ZO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL0ZO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4"
-        width: 796
-        height: 545
-        isCached: true
   - title: "Global Chip shortage affects microwave and other home appliances production"
     excerpt: "According to a NDTV report, the shortage of chip supply has been straining the existing stockpiles for consumer electronics manufacturers, with home appliance makers being one of them. As per Jason Ai, President of Whirlpool Corp in China, the company ..."
     publishedDateTime: 2021-03-30T10:57:00Z

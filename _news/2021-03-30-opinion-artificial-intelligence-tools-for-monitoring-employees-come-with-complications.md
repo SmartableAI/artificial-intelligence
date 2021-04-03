@@ -42,20 +42,6 @@ related:
         width: 368
         height: 250
         isCached: true
-  - title: "5 AI Tools For Modern Warfare"
-    excerpt: "Here, we list five AI tools used in modern warfare. AI-powered autonomous weapon systems are set to become force multipliers in future wars. The weapon system would have either decision making or aiding decision-making component to activate the launch."
-    publishedDateTime: 2021-03-29T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Pink-and-Red-Motivation-and-Inspirational-Blog-Banner.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "rv0nvluhQzquJyPXMupkO2VoDHTZBhGRdI8sMLwskZRp19pj6ZL8YoqgVikrCb0hKMV0pKpcOO8hhgBq/B2eCsIjy2d06rd0Lp4lF9pFCwEww/AIX7JHGyAYzDsolqXvi7ZJGlcdplxnRCE6ANIszVj1gO550fNZt14/jIghDNeGKz55EDb/ymg9oi0DbfioHygcNaRBV8MQ0+NmZBGpVHQQBKdBYjX6LOkT8CMVIZ9f2E6rMbCxhS6tM6rNa6DbWhiJ1E2rFy/gOlygxoILSv2aTKH2jdejuoKo0mtwipSqgt1sVCwBcKn9fYJZYbwJwEdEkoD+lVurmfd2j/YbOG2963JOJqmIOyhN8/r/MsYSFelGMvN9NyIQz+9k2k+50q4GVl48DJQLeNqWvcyY3CAZ3t44w8ide+c+8xEsfFo/vPVRzhjDnm8v5unKH+t5d39QawxopRZ3e/9UcIsU4qcY+y01cel4qGBw+MrjfH7qsn4bHXv4fkDW5uZR76x2pNEqnr42tWhTwBxDQsvCkg==;z5As97SZAP/M4o5Ev3iqJA=="
 ---

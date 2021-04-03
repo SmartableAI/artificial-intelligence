@@ -3,8 +3,8 @@ category: news
 title: "Why it’s so hard to prove that self-driving technology is safe"
 excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
 publishedDateTime: 2021-04-02T17:07:00Z
-originalUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/"
-webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/"
+originalUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
+webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
 type: article
 quality: 54
 heat: -1
@@ -69,6 +69,6 @@ related:
       domain: fintechzoom.com
     quality: 1
 
-secured: "O9Yz91xXHIP3lJqky7HsE8KmSC37c3f/3WSzTSATNZjMGDaDoOiGhaeOIbRZ5DtN43noBrXxCrJ9gZSTWP4q6D8UGgx7Qi0CYUheTGyq+KIU317hpDzDdEkh4LOCK9dhDuIsvo/frQA2esV84Mwvu+Sd/L/7IE0J5FPJcBg1ICxYwgEYV098XAeyexx4b859vjC7XqmeWdwmZeZJlbyGwFV2MODI/FYj4ML3gsJrhFTFqUFwK7GVAscP4jBCVg6kY8k8eZcDI1+qlz+77v+6wvlN3d36mj8c58aBBnQeOscfCB7hdnTL5Rs0ap+Jk9XzS3mc0Os7siOmY+I1Py9Xs0LWOf3pQuNDCCkmiYu+FJn/E6CYoVzN4U6KtgbERZu+rG+F8g/v0tfp43+RHweJ2/We1R8XAHsoNrQsPDtg2gTaAHbvINVFJcv/mGoXPQZtMcnvJsecKVsU6Cf/OY9MADzciLJUpZlWzPs4GtMwk6GJGSYPWAyez/ZXjoCB6NdIfo70tGvWo6JAOTr7or0JcQ==;colkB3DLcCeHpmjCtG0mvw=="
+secured: "zQirPGLSoCV3qJi5+YQzwHAfXZ2cjaTNvE8NWTTMkFieqxeGaQ1QK7P3suawvwPtVWgRo3L7JF+t5PidwG1NFVrpWmyV+qVtoldakUlHr34MXL4ZzfOnzlisIzW9mbxe3S8f4kmxYFTnNJkPAbGyik3DiXOnLxHd9xwXgcJbTx/JpcqAx+hTk7A/b91O6MObnD218WJ+qN/T4XvGNlDSg5qXO2vL2WEwv12jccM5IsL8djRTO0+vuF7aKOOI/oaw2ADr8B1qaLeqDbwTY1y4zNOYJg9XTpAtHPVjthGM49sGR/HaoQVvwTeTXGoyZeSLhvNM6PCbtVSdIubBrtnVPasmqTHz1IlcAU9BLxhEJzo=;f4T1q5WxLQrJqiB+Nq0V1A=="
 ---
 

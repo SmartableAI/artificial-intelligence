@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-03-08-ultra-sophisticated-computer-vision-defeated-by-pen-and-paper.md",
+      "title": "Ultra Sophisticated Computer Vision Defeated By Pen and Paper",
+      "excerpt": "By exploiting the model’s ability to read text robustly, we find that even photographs of hand-written text can often fool the model...this attack works in the wild; but...it requires no more technology than pen and paper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
+      "originalUrl": "https://www.vice.com/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60464d9cb5e0030095d4ab7a/lede/1615220458686-pictur-2.png?crop=0.6914xw:0.9988xh;0xw,0xh",
+          "width": 1451,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
+      "publishedDateTime": "2021-03-08T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-google-hr-experiencing-workplace-discrimination-yall-need-therapy.md",
       "title": "Google HR: Experiencing Workplace Discrimination? Y'all Need Therapy",
       "excerpt": "Gebru, who formerly co-led Google’s Ethical Artificial Intelligence team ... here are all these therapy resources,” Gebru told the outlet. “And I would respond that no amount of support ...",
@@ -1154,58 +1206,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-tesla-will-dramatically-expand-its-full-self-driving-beta.md",
-      "title": "Tesla will dramatically expand its Full Self-Driving beta",
-      "excerpt": "Now might be your chance to join Tesla's Full Self-Driving beta. Elon Musk has revealed that Tesla's new 8.2 software is \"doubling\" the size of the beta test program, and 8.3 will \"probably ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-expansion-8-3-171559184.html",
-      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-expansion-8-3-171559184.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/us_6PS6o7uD_II2.VLv0.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzYw/https://s.yimg.com/os/creatr-uploaded-images/2020-12/9d664180-34c8-11eb-9dfd-77017f28fecf",
-          "width": 2000,
-          "height": 1359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-expansion-8-3-171559184.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-expansion-8-3-171559184.html",
-      "publishedDateTime": "2021-03-06T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

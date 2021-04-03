@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/self-driving-truck-startup-plus-rais
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54plusai-05_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Self-Driving Truck Company Plus Upsizes Recent Fundraising to $420 Million"
+    excerpt: "Plus (formerly Plus.ai), a leading provider of self-driving truck technology, today announced it has added $220 million in new financing co-led by FountainVest Partners and ClearVue Partners, with participation from Quanta Computer Inc., Phi Zoyi Capital ..."
+    publishedDateTime: 2021-03-31T13:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-investment-management-8d80713b30ae47b68dd982b005b1acbb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Autonomous truck startup Plus raises $200M, explores public listing via SPAC"
     excerpt: "Autonomous truck startup Plus has raised $220 million in new funding and is reported to be in talks to go public via a merger with a special-purchase acquisition company. Reuters reported Wednesday that the company is in advanced talks with a few SPACs over a deal,"

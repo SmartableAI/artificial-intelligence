@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -123,20 +123,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
-    excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
-    publishedDateTime: 2021-03-29T09:58:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86826/bnp-paribas-to-provide-investors-with-sustainability-analytics-from-clarity-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "BM3ZLDC1T8jYRZMny17qofLkqvx2UtJSzo5jV1QYcYovBlVLV1xEX5lr6vM7Db/xIuPu3B0egkE1lFUalrCzrYHa5H3oqA7AGcqGgFvgs8rXwviUotyMokHoxqUko5h8MuvoCi9NHD1YDUlfxfCiEMZW5BrhDrq20mymJsIDOrCouG2yEpJ3OdKMOH0bF98/ehtJBZG/4kuL1dfZUH48TBD5MHYQAlT3bp2suMeKmLjZCk8xn83sbxixRhRP6Y3hGIvpzS0FvdbNs4hHRhAA00lEjHJGe+GCo5jt/FCBLWI8b/PTEwe8TjKY8R/BE/d/pPFF2KmlVmS4Kk1TaK1RAyIwnEgxUC8HmyOmbFezwsHwQVfVVd4Xtc5ubKPa6NENBcVgiDjA/CHtblUAXqp/RR4G4qr8rxM58LhP1a3mJJ54lHfOn6pVCc4CFD7BBOAr3KXLsbb5zC4WD0s1fLnPWJL90CEMD4qGRUvZRFIeDg4ohW6racbolEFL8ZeNTsviA4/mQUIzEhYZzInU/3x9Sg==;cbcvjRdueyvdI9cwURge/g=="

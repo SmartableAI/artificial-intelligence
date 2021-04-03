@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves
 cdnAmpWebUrl: "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: AndroidGuys
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots are the New Trend in Restaurant Industry"
-    excerpt: "Robots entered the food industry to assist primarily in food manufacturing and packaging. Keeping in mind the hygiene and accuracy factor, they have proved to be ideal for this industry. Many germophobes actually prefer robots over humans to handle their food."
-    publishedDateTime: 2021-03-29T11:02:00Z
-    webUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-industry/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/robot-waiter.jpg"
-        width: 612
-        height: 612
-        isCached: true
   - title: "Glance Inc Launches AI features in a Slack App"
     excerpt: "Glance is a no-code AI-driven marketing SaaS startup. Brings data science to mid-sized marketers through their pioneering technology called Marketing Graph. They deliver high ROI and decrease customer acquisition costs."
     publishedDateTime: 2021-04-01T07:00:00Z

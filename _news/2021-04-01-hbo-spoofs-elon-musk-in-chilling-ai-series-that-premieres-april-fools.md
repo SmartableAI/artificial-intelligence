@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-el
 webUrl: "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entries for the AI & Machine Learning Awards 2021 close on 1st April"
-    excerpt: "and projects in the AI space today. The awards cover every corner of the industry: security, ethics, data analysis, innovation and more, as well as showcasing the technology heroes and projects that deserve industry-wide praise. We refresh the categories ..."
-    publishedDateTime: 2021-03-29T11:02:00Z
-    webUrl: "https://www.computing.co.uk/news/4028919/entries-ai-machine-learning-awards-2021-close-1st-april"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 56
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/bbd2b0c/9eeb1c29-65f7-47f0-98cc-ce30d5f23800/4/AI-Machine-Learning-Awards-winners-3-Automation-Anywhere-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "3 Top Artificial Intelligence Stocks to Buy in April"
     excerpt: "Artificial intelligence can add a much-needed shot of predictability, efficiency, and flexibility to business operations, making it a hot item in the software realm right now. Plenty of tech stocks got clobbered in March."
     publishedDateTime: 2021-03-31T11:45:00Z

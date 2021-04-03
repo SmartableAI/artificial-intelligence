@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Japanese airports to trial facial recognition technology for passenger boarding"
-    excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
-    publishedDateTime: 2021-03-29T09:42:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/biometrics/japanese-airports-to-trial-facial-recognition-technology-for-passenger-boarding.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 50
-    images:
-      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2021/03/PTW-web-news-29-3-Face-Express-1.png"
-        width: 702
-        height: 261
-        isCached: true
   - title: "Tampa airport to use new facial recognition technology for international travelers"
     excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
     publishedDateTime: 2021-04-01T18:24:00Z

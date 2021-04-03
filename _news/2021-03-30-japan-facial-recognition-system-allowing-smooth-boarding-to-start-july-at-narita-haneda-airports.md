@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/news_business/japan__facial_recognition_syst
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese airports to trial facial recognition technology for passenger boarding"
-    excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
-    publishedDateTime: 2021-03-29T09:42:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/biometrics/japanese-airports-to-trial-facial-recognition-technology-for-passenger-boarding.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 50
-    images:
-      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2021/03/PTW-web-news-29-3-Face-Express-1.png"
-        width: 702
-        height: 261
-        isCached: true
   - title: "Facial recognition technology for passenger boarding on trial at Narita and Tokyo airports"
     excerpt: "Narita International and Tokyo International airports have announced trials of Face Express – a new boarding procedure using facial recognition technology."
     publishedDateTime: 2021-03-30T08:51:00Z

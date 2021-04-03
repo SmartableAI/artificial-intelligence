@@ -48,7 +48,7 @@ related:
   - title: "Why it’s so hard to prove that self-driving technology is safe"
     excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
     publishedDateTime: 2021-04-02T17:07:00Z
-    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/"
+    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
     type: article
     provider:
       name: Ars Technica

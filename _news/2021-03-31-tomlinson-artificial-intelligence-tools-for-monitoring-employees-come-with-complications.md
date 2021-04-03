@@ -9,8 +9,8 @@ ampWebUrl: "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/A
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Houston Chronicle
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Tools For Modern Warfare"
-    excerpt: "Here, we list five AI tools used in modern warfare. AI-powered autonomous weapon systems are set to become force multipliers in future wars. The weapon system would have either decision making or aiding decision-making component to activate the launch."
-    publishedDateTime: 2021-03-29T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Pink-and-Red-Motivation-and-Inspirational-Blog-Banner.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Opinion: Artificial intelligence tools for monitoring employees come with complications"
     excerpt: "Providing constructive feedback to dispersed workers during a once-in-a-lifetime pandemic that has disrupted regular business can feel impossible. Some companies have seized on new tools built on artificial intelligence to monitor their employees."
     publishedDateTime: 2021-03-30T03:03:00Z

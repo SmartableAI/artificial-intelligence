@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-31-buy-the-dip-in-c3ai-stock-as-artificial-intelligence-takes-over.md",
+      "title": "Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over",
+      "excerpt": "Stock Advice & Trading Tips The post Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over appeared first on InvestorPlace. SEE ALSO: Deliveroo cuts its IPO listing price to the bottom ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "publishedDateTime": "2021-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
+      "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
+      "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
+      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063b82a81208ca49f790c50%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
+      "publishedDateTime": "2021-03-30T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-new-school-board-to-bank-on-ai-for-tests.md",
       "title": "New school board to bank on AI for tests",
       "excerpt": "AI and game-based assessments will be put to use to create a ... “It’s also an incredibly complex process where one has to be very careful about ethics and empathy. It should be used without intruding on privacy and without making bad assumptions.”",
@@ -302,49 +395,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-tomlinson-artificial-intelligence-tools-for-monitoring-employees-come-with-complications.md",
-      "title": "Tomlinson: Artificial intelligence tools for monitoring employees come with complications",
-      "excerpt": "Some companies have seized on new tools built on artificial intelligence to monitor their employees. These nascent productivity-monitoring tools, though, come with high risks, according to Serife Tekin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "originalUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg",
-          "width": 368,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "publishedDateTime": "2021-03-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -1086,49 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
-      "title": "Three AI Apps making waves in the insurance industry",
-      "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "originalUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg",
-          "width": 2999,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-03-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidGuys",
-        "domain": "androidguys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

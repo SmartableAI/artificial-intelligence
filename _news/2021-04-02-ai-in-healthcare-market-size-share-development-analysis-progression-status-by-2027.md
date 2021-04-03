@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
-    excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
-    publishedDateTime: 2021-03-29T09:58:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86826/bnp-paribas-to-provide-investors-with-sustainability-analytics-from-clarity-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "KHSYZMJauYIvU8g4a4lUObTf7xMGROUg7v0JRjjS6qM12Snl5yGeOrm790kBf5DB2ieRGV2naOUx5KYMgxCbCATVv4SfhSIs0gFQo0iL9vSD1amOQQJEbq664dzO3DPbIfUZGuynGNWLrFEA2fNI5QZ1NwK5alRAz8Kl500ZXUzvE6j4O25bRV6xa+thhd3myCfVdT9WPXGhHkcYF+oO/g51DwJszZOp7s2z8bWHgkxU55lNN7bypJGeczIn+DrZCe2FiPipZCTf2HW0VHmLPs5e0VIHrd8S0//HR7F14uYNq4tRBWGHS4xyRhjIfxuO8AXjq29K+aW37NnOgvxiPHO2rj4vzPXovXPXCiuRSHw=;A7loVZk5jqWbRcqZFL42bA=="
 ---

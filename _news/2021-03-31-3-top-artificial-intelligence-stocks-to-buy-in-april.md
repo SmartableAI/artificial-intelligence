@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Entries for the AI & Machine Learning Awards 2021 close on 1st April"
-    excerpt: "and projects in the AI space today. The awards cover every corner of the industry: security, ethics, data analysis, innovation and more, as well as showcasing the technology heroes and projects that deserve industry-wide praise. We refresh the categories ..."
-    publishedDateTime: 2021-03-29T11:02:00Z
-    webUrl: "https://www.computing.co.uk/news/4028919/entries-ai-machine-learning-awards-2021-close-1st-april"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 56
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/bbd2b0c/9eeb1c29-65f7-47f0-98cc-ce30d5f23800/4/AI-Machine-Learning-Awards-winners-3-Automation-Anywhere-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "41k8nHKFlaEk7eAcoFUVXcUcptpcO0EeHI9cjO5DQaYjFXssJOEoN1Y1Fro/XhGPYyLrx76dTU2Ativ53UpPS+77Gc1WqLQpz2+RDZzs5/33jiENs6Ceg0Vg9w3Rv6W4NhiqJ3mcggMWMIQS15rLFzX3jcY2NiL3Mss+sICUtAaVbIrjIsuZqhHqQ0Hc1BWB6cHLvCc1zV0RQ8+voknJghg+imoUk4jkHZFAwk6nQlDV1ZEmEdZGQeZ+Soy4che0byL00uaiCdScGBjVrbxUKTegu2P3QzXXredWz2K49JZUGcxRn8uFHtvPagA5BCvPr8hpLcUVe1mJ246LCKqAavqCzwcpJpuOL7gHMxMkbUk=;xoSgHcIcP+AlZ5CFauiDoQ=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence to attract European students to study in Deggendorf"
-    excerpt: "The Deggendorf Institute of Technology (DIT) starts the first English-language technical Bachelor's degree programme in Deggendorf: Artificial Intelligence. Prospective students will be able to study Artificial Intelligence (AI) in English as early as October 2021."
-    publishedDateTime: 2021-03-29T10:30:00Z
-    webUrl: "https://idw-online.de/de/news765812"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 35
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
 
 secured: "V1/KD0y+3xbcEAXXZHWAk6j4NPEIlYe53oQt9tjVTNaGzDwNbVMZPp0IhTf/wTZIPZoFCh0AkVoinwGkuuvmDI/shwQR2YasDRNG84xtMmT+z2fEhpCSo95IYzVk7pxe7EE51LkrWUTt4b9MPab/r/MfuJf8WhlFZllsCXV0NTyE8AhQ2/SwaIJTMGlEVjcMBefVIQUDRCml0tcXLqLbLCFSK7KFo6snHwM8kSE5yubnEyebNVrdYMOxdRED7G93rrlaIEAlKAqdnGufi82nS3n+CtcDPAjQKbgmcYqbcB1Uj34pKn38NjfsVv/ix6AVJV+LGrs0LLbyXeibEurBIvGkN24Av6KCisgctSeEcVc=;lT1HCzQzBfQuIT4J7oW33Q=="
 ---

@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 846
         isCached: true
+  - title: "Waymo CEO John Krafcik is leaving the self-driving car company"
+    excerpt: "Krafcik will stay on as an advisor to the firm. Waymo, which was founded in 2009 as the Google Self-Driving Car Project, is working on autonomous-driving technology for future ride-hailing and ..."
+    publishedDateTime: 2021-04-02T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ff5df8ad184b30018aad44a?format=jpeg"
+        width: 790
+        height: 510
+        isCached: true
   - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
     publishedDateTime: 2021-04-02T20:33:00Z
@@ -137,6 +151,17 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
+    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
+    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
 
 secured: "wTrQLwFKldQZ9laCntP6AP6zktE/jfw92TspKGI20+xClQmPSmLny9l/JcSC8mJTvvNgnE6nabG7/0svq80tRzGu1v6NQr0un9DAcbyfMN1aTA2YUknzy5IOIVhIBHZms5cFE+NMRKstpyQ3Y7xJL2weJPfqwtxye7RX/qgr7x5bUsUBHEhUkZAfACia/CDaeqxLRaI6afQ9DOhNHQR7HozWqgCeNZ5u7hv3XyoHWz9/1yUwXkQY3fphGqTA7u+5el94pmy999/D9ZIQT8JKwGdf1s1jbAlp9GMmHgHC3ACtFIJGo8Y3HAYnHYMTUy5nm1n5yBoKa7AScqT2xzVTfuY+rXFNMY+pHh0F2jvVyOM=;SirReWSa0iDjkYwQGfTxbw=="
 ---

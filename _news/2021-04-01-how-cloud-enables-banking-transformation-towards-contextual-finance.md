@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banki
 webUrl: "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance"
 type: article
 quality: 56
-heat: 56
-published: false
+heat: 76
+published: true
 
 provider:
   name: Finextra
@@ -24,6 +24,40 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-30T00:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-31T08:04:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/art/2021/04/142_306295.html?fl"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg"
+        width: 980
+        height: 512
+        isCached: true
 
 secured: "Mwbv9PZr1HuG/RxPxve+VsJJNvujJiTzmaafgABw2l1IgKG9CK7D9g9OSexye6ydhoirtyNM94IzkeupQ1yCNIIslKJF6ir8L/jKcqVS1pupHNyNuYvZDgvJUnzWiFhu4Qh81ZiyixRcKRQX/q9p0FGkfi8m/BO1NgUnSFmMAyqtO0tFiR2h6i2NNRaRcH3gHI1Lgz6IBlU1jJQOkihFu54U13Kedhf/7tTwg88lV7a/waaqGtlwpAkJI+Fj2X35hd1ItQ6xvRlesY2bAGf6T+SJ/Dgzfm0VMDGYsxczr0yqThtQReZwKlYahWEEDgtjRK8rVslurql8HTsP4qTAhlLn2k4XqrdAnHa6x68OjCA=;ofq8Azbb63GMyBm7ZMGUdg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 type: article
 quality: 89
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Waymo CEO John Krafcik is leaving the self-driving car company"
+    excerpt: "Krafcik will stay on as an advisor to the firm. Waymo, which was founded in 2009 as the Google Self-Driving Car Project, is working on autonomous-driving technology for future ride-hailing and ..."
+    publishedDateTime: 2021-04-02T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ff5df8ad184b30018aad44a?format=jpeg"
+        width: 790
+        height: 510
+        isCached: true
   - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
     publishedDateTime: 2021-04-02T20:33:00Z
@@ -138,6 +152,17 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
+    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
+    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
 
 secured: "DtCe2E4izLojKohr/bGzaTmk9MSWv8Upejopp9WPk34YQuEcyNUpKeI5uUxxVM1WyJ3gt2UUAj6U1H71LhqYwSxm9Gua/4JVPg36auqbxavHLcIZ5eWV9HDLpMkmfgRRfRfpMKijvKqp3ajv55YOWrV/e8WYr3PZOqKv2kdBRn55QpKoKukFMl0JUlKCXpuYxJko2aCoEa11I5ljYsit/OVWSgmZx0zNLCZd1aXEJ9hLuaIhhpiBAJPm/Kj41C5XpbKmfzOZFX3uL7NiiPOncp4cO8acAjk26uo75ssn7QXdBEHCYc/QbK/P7UDdE5ee61P5DLEzW7ai7fmBARCea0F7KcU91IWUWoL6Ep9NTvqbyFQNld7tsxTSTGwmr9HM90KmSLmP0r+dfTO8NYpjXuBwVTyqKesaNly8FbpUBSwhkDcMtqGWhkYK2ctc98YuE2kKo1fInjrlIRJtJcC32mhsqbpXHJfg1SU/WT3KWsnbVmZJx9HfdMKu55dT2Z7RJPM7OnTgKV0P2h0wS+kvJQ==;qpxopivn4Pv4XyVZIDMi3w=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-20-the-future-of-driverless-cars-is-now.md",
+      "title": "The future of driverless cars is now",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
+      "originalUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
+      "cdnAmpWebUrl": "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
+      "publishedDateTime": "2021-03-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Tribune",
+        "domain": "dailytribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
       "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
       "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
@@ -1350,40 +1393,6 @@
       "provider": {
         "name": "Bollywood Bubble",
         "domain": "bollywoodbubble.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-market.md",
-      "title": "Smartphone-based Saliva Testing and Self-monitoring of Blood Glucose Driving the Digital POCT Market",
-      "excerpt": "Reportlinker.com announces the release of the report \"Smartphone-based Saliva Testing and Self-monitoring of Blood",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20071162",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20071162",
-      "publishedDateTime": "2021-03-09T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

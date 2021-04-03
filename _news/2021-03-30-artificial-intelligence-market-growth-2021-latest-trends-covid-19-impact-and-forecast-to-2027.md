@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
 type: article
 quality: 54
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://cdn.openpr.com/U/3/U331110154_g.jpg"
         width: 780
         height: 408
-        isCached: true
-  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
-    publishedDateTime: 2021-03-29T09:27:00Z
-    webUrl: "https://menafn.com/1101823891/Artificial-Intelligence-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261052"
-        width: 437
-        height: 250
         isCached: true
   - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
     excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
