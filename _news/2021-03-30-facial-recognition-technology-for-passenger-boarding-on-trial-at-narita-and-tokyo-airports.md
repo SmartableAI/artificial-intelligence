@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Japan trials hands-free airport facial recognition technology"
-    excerpt: "New hand-free, facial recognition technology, which could see passengers go through check-in and security without a passport, is being trialled in Japan. The new system, called Face Express, allows travellers to register their face with the service and then proceed trough check-in,"
-    publishedDateTime: 2021-03-29T07:34:00Z
-    webUrl: "https://www.dfnionline.com/latest-news/japan-trials-hands-free-airport-facial-recognition-technology-29-03-2021/"
-    type: article
-    provider:
-      name: DFNI online
-      domain: dfnionline.com
-    quality: 54
-    images:
-      - url: "https://djx5h8pabpett.cloudfront.net/wp-content/uploads/sites/4/2016/08/23092207/Haneda.jpeg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Japanese airports to trial facial recognition technology for passenger boarding"
     excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
     publishedDateTime: 2021-03-29T09:42:00Z
