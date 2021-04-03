@@ -439,6 +439,41 @@
       ]
     },
     {
+      "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
+      "title": "Domo Expands AWS Relationship",
+      "excerpt": "\"Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/b20324574/domo-expands-aws-relationship",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/b20324574/domo-expands-aws-relationship",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20324574",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20324574",
+      "publishedDateTime": "2021-03-24T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
       "title": "Amazon Web Services debuts intelligent services",
       "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
@@ -1407,49 +1442,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-artificial-intelligence-in-accounting-market-to-generate-huge-revenue-during-2016-2024.md",
-      "title": "Artificial Intelligence in Accounting Market to generate huge revenue during 2016-2024",
-      "excerpt": "The key players comprise: AWS, Microsoft, Intuit ... Download Free PDF Report Brochure @ https://www.zionmarketresearch.com/requestbrochure/artificial-intelligence-in-accounting-market Along with the market overview, the report comprises Porter ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/23/transcritical-co2-market-regional-demand-top-vendors-landscape-and-industry-growth-forecast-scm-frigo-s-p-a-emerson-electric-co-danfoss-a-s/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/23/transcritical-co2-market-regional-demand-top-vendors-landscape-and-industry-growth-forecast-scm-frigo-s-p-a-emerson-electric-co-danfoss-a-s/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://garnerinsightsblogs.files.wordpress.com/2020/10/gi-11.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

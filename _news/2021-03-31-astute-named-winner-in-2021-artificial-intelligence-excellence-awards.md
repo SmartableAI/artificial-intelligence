@@ -32,20 +32,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
-    publishedDateTime: 2021-03-30T02:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
     excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
     publishedDateTime: 2021-03-30T08:32:00Z

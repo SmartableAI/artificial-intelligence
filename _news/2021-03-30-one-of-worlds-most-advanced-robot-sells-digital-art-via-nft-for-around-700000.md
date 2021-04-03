@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/one-of-world-s-most-ad
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/one-of-world-s-most-advanced-robot-sells-digital-art-via-nft-for-around-700000/amp-11617085148677.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Sophia the robot sells digital NFT artwork for nearly $700,000"
-    excerpt: "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000."
-    publishedDateTime: 2021-03-30T01:58:00Z
-    webUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/"
-    ampWebUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
-    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
-    publishedDateTime: 2021-04-03T11:35:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 29
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "zV4wb5cGgy4KmwDHB0QkSNSRFZMsZB+akxjP0x5vPB44RBCh8f5HS7M4/F0bU5tEntozyd+y/GbExDvrUyn4QT0pRPXaJD7oCZsD6KjMkwSb3x/IOP/UnKcF/91Zyn2J8VCZsFgBk1fvvepJpHVQjgxRerL1VijRm7r/4ou/LLtyek1TbB7uxKzPWNfLfgDJsGd2s3QMy7GuMYh8XueBDSkgiO3VohRQP6obPPZ3H9l1pcgoLllcqn5xkBHe7TLHSH9bf6F1pcFQ/h4r7AkWdo+irsAnwPAXMF7LqeU9mtOC0YNuOuEHNbcjgdgnzQ4oQMSGxDlKla/hOa4ZRZitqALreOGJ5IvebUnQODhhqTA=;e/dGHGqNyRSqcOLnCCzEXA=="
 ---

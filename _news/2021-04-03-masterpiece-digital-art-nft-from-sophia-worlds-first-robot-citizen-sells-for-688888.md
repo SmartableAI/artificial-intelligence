@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Sophia the robot sells digital NFT artwork for nearly $700,000"
-    excerpt: "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000."
-    publishedDateTime: 2021-03-30T01:58:00Z
-    webUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/"
-    ampWebUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
+    publishedDateTime: 2021-04-03T15:43:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 59
     images:
-      - url: "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "One of world’s most advanced robot sells digital art via NFT for around $700,000"
-    excerpt: "The artwork was sold via crypto art platform Nifty Gateway and is the first instance of NFT art created by an artificial intelligence being sold"
-    publishedDateTime: 2021-03-30T06:43:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/one-of-world-s-most-advanced-robot-sells-digital-art-via-nft-for-around-700000-11617085148677.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/one-of-world-s-most-advanced-robot-sells-digital-art-via-nft-for-around-700000/amp-11617085148677.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/one-of-world-s-most-advanced-robot-sells-digital-art-via-nft-for-around-700000/amp-11617085148677.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://images.livemint.com/img/2021/03/30/600x338/WhatsApp_Image_2021-03-30_at_12.07.18_1617086281238_1617086312242.jpeg"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
-        height: 338
+        height: 336
+        isCached: true
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
+    publishedDateTime: 2021-04-03T18:35:00Z
+    webUrl: "https://www.kgw.com/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 59
+    images:
+      - url: "https://media.kgw.com/assets/CCT/images/87044bc2-ae1d-422c-a19a-b49727412de2/87044bc2-ae1d-422c-a19a-b49727412de2_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "/bkfLuHR8teVoYry5NY3l7pFUhWXJiF/5qdBQmaMJe6eV90sqR7w7jLyHcm7YLTS3ULzgW5YTgsoUadFLp4ChJi1DZcMKIvp6awzJspZX+XbM1Fv8CJkj4tKL7Idwy3lyB+p+F2GJaJqi7B+DFc3AjSSBtR5CN1PB4UjblWMkS15JFbuerxtF0Yg0byFX7Y8QTuJtHdIkxTRAEhKUCeUaMxRz4ZQ47UUxIN0+IODwRiNOnOqwJkL9+1YtHxDG+LIUUul2jerf4+Axi5PL8lAX2s6zHi+gHhvBR5kUOgmqDLoKQURenXJ4xW3JxtUY1mm1nqloHTraAsb7AtrMvWbSx4vlWgStR5AHpjI+2JpvwE=;9MBCytQz4q6BFKz2N9gITA=="

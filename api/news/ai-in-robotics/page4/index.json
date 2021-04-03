@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
+      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
+      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-last-mile-delivery-robotics-company-refraction-ai-raises-42m.md",
       "title": "Last-mile delivery robotics company Refraction AI raises $4.2M",
       "excerpt": "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram",
@@ -1367,49 +1420,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-behind-the-scenes-at-the-hidden-nuclear-robotic-works.md",
-      "title": "Behind the scenes at the hidden nuclear robotic works",
-      "excerpt": "Lots of men in smart overalls stood at computerised control desks, check. Masses of shiny hi-tech equipment performing mind-bending feats ... Andrews demonstrates a robotic arm which replicates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/business/2021/03/01/behind-the-scenes-at-the-hjdden-nuclear-robotic-works/",
-      "originalUrl": "https://www.expressandstar.com/news/business/2021/03/01/behind-the-scenes-at-the-hjdden-nuclear-robotic-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/YlM0HW6LfC0CTOpJKgDfmtU6BlU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/AUU3LY6R5VHORFU4NHI4RKIUNI.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Power Grab: Warehouse Robots Take Materials Handling To Next Level"
-excerpt: "Startup Ambi Robotics is building and deploying (via an undisclosed ... “Online retailers are using robotics and AI to automate many of the steps that come between placing an order on your smart phone and receiving a package on your doorstep,” said ..."
-publishedDateTime: 2021-04-01T18:54:00Z
+excerpt: "No longer content to just release hard-to-believe videos of humanoid robots doing back-flips, Boston Dynamics this week unveiled something logistically incredible: a box-moving machine."
+publishedDateTime: 2021-04-01T19:54:00Z
 originalUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/"
-webUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/"
+webUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/?sh=741426b96d40"
+ampWebUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 172
+heat: 172
+published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -28,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "0s9zRqzCzNwB1VBEupeLVv0Sg1G/69/1Z0GMCx0H0wNlSn1TLXtPHlFnaizgec6BqQF2g2ZSjWjludFGf/loMcIcfPg00760Jpz3fjSlmDF01X100RJDF9Zgrrow42OKlr741yTZhvB78pdn+zb0YXfY06IQP1sAx6dbsIZkhA/+fyuCDqswQ7S6RD5AuVTIQfVrRqZz6mqnct7pwpn+qbMeb0A56vy5hVHN7IsAufE7fRceAwNNvYW5BAMu2ygJV+AQG6GSh3u5nzc9df4dx/aCwjPsqy45k9fbPECB3xYf1wq1q/c1GSzkGuFCSG1vf1sJWmK3434GrUXhb6t8j2CtzxFWpx+wf2ZxgSm/JNMYY3ItiC6he8sEmrslFKEZp0CNkuGo7eoDS5FPxcJF0Z/VxMp5KcvJLxeaGJyOJVUtCMclwOKyzeIypIHOozOCiK8p30Aer325Ysew5hABF+oddTqMet8jnq0A2bM3Xn2x1jVhPX1Jkui3JxSEugyraz5vI/oSuNI/4X/lLbtEHg==;TMQO//OxruGfHhwkz6TM7A=="
+secured: "UvhDnMz9sQhOh0JQrEqs1MTZkiMfrRf0xEAClt6Jho6TktJyafOh0eRyDSZWdayPKG+v3pLLoBhlJGBJ/3fUPcMZMgwd6j9eGbgIQ4PD44UdwK+yBC8dXJ0JRQkAZIRtY3gDMxCZ84VLrAzaZ/mcgVvR5UPWhFn6nPXwe78xh1sqkmUxfaYbnnjB2PdulMvtvMh4Krg7bXBhEt1dhrOpH/aPAiUBwykstWgwRtnjSQeNFGeLsTN/oevJo+crXjUVVq82WICiRmP6yqv2aWj5NthjI51hzuTMW7+re48QPg8U+OS0XdEv/hIPQ97VNgrOsvA6cKicsDMrOt+fCm0zyIcZrJp0iCPNvjVSx4Ybsxw=;anWOtV5yUiFtHGWM9mRqYw=="
 ---
 

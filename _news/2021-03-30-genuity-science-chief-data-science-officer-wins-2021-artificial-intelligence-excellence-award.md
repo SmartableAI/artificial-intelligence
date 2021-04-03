@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
-    publishedDateTime: 2021-03-30T02:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Realeyes Named Winner In 2021 Artificial Intelligence Excellence Awards For Its Attention ..."
     excerpt: "NEW YORK, March 31, 2021 (GLOBE NEWSWIRE) -- Realeyes, a pioneer and leader in video attention measurement, announced today that its flagship product PreView was named a winner in The Business Intelligence Group’s Artificial Intelligence Excellence ..."
     publishedDateTime: 2021-03-31T15:11:00Z
