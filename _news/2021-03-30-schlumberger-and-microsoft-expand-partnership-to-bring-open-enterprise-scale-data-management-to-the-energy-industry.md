@@ -80,20 +80,6 @@ related:
         height: 551
         isCached: true
   - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first offering, the Schlumberger Enterprise Data Management Solution for the OSDU Data Platform—a new industry standard for energy data—is available today."
-    publishedDateTime: 2021-03-29T16:09:00Z
-    webUrl: "https://www.euro-petrole.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-n-i-22019"
-    type: article
-    provider:
-      name: euro-petrole.com
-      domain: euro-petrole.com
-    quality: 16
-    images:
-      - url: "https://www.euro-petrole.com/partenaires/DIFOPE-absorbants-barrages-antipollution.jpg"
-        width: 280
-        height: 280
-        isCached: true
-  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
     excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E & P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft ..."
     publishedDateTime: 2021-03-31T07:39:00Z
     webUrl: "https://menafn.com/1101834341/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry"

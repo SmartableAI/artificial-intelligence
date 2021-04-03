@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Why it’s so hard to prove that self-driving technology is safe"
-    excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
-    publishedDateTime: 2021-04-02T17:07:00Z
-    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1197936703-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
     excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
     publishedDateTime: 2021-03-30T13:37:00Z

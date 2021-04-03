@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Rebel AI acquired by web-marketing firm"
-    excerpt: "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech marketing firm Logiq Inc."
-    publishedDateTime: 2021-03-31T00:23:00Z
-    webUrl: "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
-    ampWebUrl: "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/"
-    cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/"
+    excerpt: "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech  Logiq Inc. As part of the deal Logiq will rebrand Rebel’s web platform Logiq Digital Marketing."
+    publishedDateTime: 2021-03-30T19:04:00Z
+    webUrl: "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
     type: article
     provider:
-      name: Daily Camera
-      domain: dailycamera.com
-    quality: 76
+      name: BizWest
+      domain: bizwest.com
+    quality: 56
     images:
-      - url: "https://www.dailycamera.com/wp-content/uploads/2019/03/dailycamera-backup.jpg?w=945&h=630"
-        width: 945
-        height: 630
+      - url: "https://s28538.pcdn.co/wp-content/uploads/2019/11/Artboard-1@4x-1.png"
+        width: 1020
+        height: 356
         isCached: true
   - title: "Marketing Is Turning to AI for Customer Acquisition"
     excerpt: "The first step in using AI/ML for competitive marketing is to understand what the technology can and cannot do today and how it is evolving, says Christian Wettre, general manager of Sugar Sell and Sugar Market at SugarCRM. AI FOR MARKETING IS STILL IN ITS ..."

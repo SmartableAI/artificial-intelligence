@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
-excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data."
-publishedDateTime: 2021-03-25T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html"
+excerpt: "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in the newly published 2021 Gartner Magic Quadrant for Insight Engines 1. This builds on the recent news that IBM was positioned as a Leader in the 2021 Magic Quadrant for Cloud AI Developer Services2 and the 2021 Magic Quadrant for Data Science and Machine Learning Platforms3."
+publishedDateTime: 2021-03-25T12:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "5SztWlO6DpaAKeJ08r83CJhYtDljZwbX8OndPM487Xq+lsK41YoJju4mmV5mAOOZnaE2ZyHBvn0p1uzUNBLomVlyfXQ/P+KlVW9Aq01zEjzPRBncnw/AX8QFKmrgkeaPg7xV57nrWte/o2NysByUH3/YwOOY4PBmBTxcv9er8dQoJI0+U0n66Z/tZQ3S4TCH41VNwmb6yzLEjm7bXZZVhy9EF4rOmxZHLppoABW4p617eLloKOlI6M0o1LvqytqDCLPdaeNs0rOZ7wph9GIocK4K07qLpDRZcUg3O9k+jLOeUVB+2BqBnD5hRZ/VLCzi9quqyKCxldWpC8B7f52M+n9tXHV85gr1RGSO5Ef0kSc=;KTwvGQ/iecjNe55fnEYeNA=="
+secured: "u14Ft8bJDfbrZnkwA90triA6SLFftbaljabzuEZAF1X4Dk9xlho5K8oiYHPUXvxXjjiiQBzEyLKVIXbrR3Vdho19YlziGq7NjAaIdiJG1tIL46oSw3JBqZiORKqr/7E9VvsAHo/qda4EA8B7E8fSFyrpYtH9+r53pnQ+Pff1XwJfv597bEOAZrmTlySzitCTDp+Ra0MdfnZtpu9L11kpeJgkMirhHaU/dhfAlBBrxNbaR9z2RsoHEBulmjRhDxllze/pOWegbIxIyTQBrfoElM937IThynjFj2xV67GIwsWbQA5tgP5/owHBwFV5bHeHmQz/seit6OdrHtpgNTPg8+dtkaphakp+AnLTYeqfbPw=;L1337lvdzbMAjXn6dMSacw=="
 ---
 

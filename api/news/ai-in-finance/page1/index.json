@@ -150,50 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-rebel-ai-acquired-by-web-marketing-firm.md",
-      "title": "Rebel AI acquired by web-marketing firm",
-      "excerpt": "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech marketing firm Logiq Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/",
-      "originalUrl": "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailycamera.com/wp-content/uploads/2019/03/dailycamera-backup.jpg?w=945&h=630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/",
-      "cdnAmpWebUrl": "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/",
-      "publishedDateTime": "2021-03-30T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Camera",
-        "domain": "dailycamera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-new-school-board-to-bank-on-ai-for-tests.md",
       "title": "New school board to bank on AI for tests",
       "excerpt": "AI and game-based assessments will be put to use to create a ... “It’s also an incredibly complex process where one has to be very careful about ethics and empathy. It should be used without intruding on privacy and without making bad assumptions.”",
@@ -235,6 +191,50 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-rebel-ai-acquired-by-web-marketing-firm.md",
+      "title": "Rebel AI acquired by web-marketing firm",
+      "excerpt": "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech  Logiq Inc. As part of the deal Logiq will rebrand Rebel’s web platform Logiq Digital Marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/",
+      "originalUrl": "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s28538.pcdn.co/wp-content/uploads/2019/11/Artboard-1@4x-1.png",
+          "width": 1020,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizWest",
+        "domain": "bizwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {

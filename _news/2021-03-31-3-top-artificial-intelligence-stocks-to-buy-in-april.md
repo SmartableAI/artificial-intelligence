@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-31T11:45:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
 webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partne
 cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
         width: 844
         height: 551
-        isCached: true
-  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first offering, the Schlumberger Enterprise Data Management Solution for the OSDU Data Platform—a new industry standard for energy data—is available today."
-    publishedDateTime: 2021-03-29T16:09:00Z
-    webUrl: "https://www.euro-petrole.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-n-i-22019"
-    type: article
-    provider:
-      name: euro-petrole.com
-      domain: euro-petrole.com
-    quality: 16
-    images:
-      - url: "https://www.euro-petrole.com/partenaires/DIFOPE-absorbants-barrages-antipollution.jpg"
-        width: 280
-        height: 280
         isCached: true
   - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
     excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"

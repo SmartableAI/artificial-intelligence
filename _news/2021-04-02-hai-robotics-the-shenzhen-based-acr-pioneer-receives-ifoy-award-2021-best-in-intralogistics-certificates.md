@@ -1,29 +1,33 @@
 ---
 category: news
-title: "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates"
-excerpt: "And with the partnership with Mujin, a world-leading artificial intelligence company, HAI ROBOTICS were able to offer better intralogistics solutions to clients and extend the business to Japan starting from December 2019. Besides the strong performance in ..."
-publishedDateTime: 2021-04-02T13:37:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd"
+title: "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 \"Best in Intralogistics\" certificates"
+excerpt: "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems ... ACR systems pioneer's strong head start of a fast expansion to the global ..."
+publishedDateTime: 2021-04-02T13:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990"
+webUrl: "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 80
+heat: 80
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1480252/Carton_picking_ACR_HAIPICK_A42N.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "8GO/Dv1apLW736DfcJWd/HExP1HgSrvQxLW8cf3FqmpmvWa5TNUxxvDVeItXNBGtjYjpTBv0PomXqDMx/MQS+g1/S3cA+bLmUwQ4dT6FgrC+4KzTSe0lScWMjBV//wu01pPwzURDuvdnDh2R7gyA1bjXkKqyJ+St94XEqGMwJ0wn2c5sY7ScBkA0O7zDhh2MPJ/dOOiPj2U3XNw3WvwAEomKqLdh99jv04BC1vEVVcUUSz/LkKW1+Cm+J1hzENTeym9bnHQ2EmkcIky05UTY2uVc4nOh7NP1ELnoHj7atYJLk85i8wtKTzq4IdkwTDsb8+UybqodW50T0E3QW1PwXAqRpGER7WR7Y3E4glSrUg8=;AQtr3aK3EOFpZUYDrum8eg=="
+secured: "5xBVZjpsJF3Nvd7FabkMgaCAK8nyIJWyMa92Ic7YM1xAmoWSQOJQu6BanNvorj8JotaSr5SmAXz7wNTMFNzEjKHzW6p/4QMfuHUjZ5PGTLdM4CxSeJ9f6qDU02/KWuzm+F6KTRE7AZeeObxcknQVH7IkpTfkOsn0sWFRRwTmYHWWdx0ex5835cEZEfPjOopJMKvAMoM7pL9OUCaSu7hWt3mnknRR9gRevHfZRMT6FrzpSuP1bS2bM5/P8xGxK9WqL+/G+lwTpfdRtp97NuxFRPaE/Mi2dPbzfkG9lO5st40X9JA1UmdrF+Po0ZQbsmMEeV9Zc38+dWdPQFgtE5cymQHBnIf0UEw6DVHl8Db1vII=;4EBPgtyHuSnrhza4nEFj+Q=="
 ---
 

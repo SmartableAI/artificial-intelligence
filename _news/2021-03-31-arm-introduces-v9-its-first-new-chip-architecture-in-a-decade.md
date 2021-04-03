@@ -137,6 +137,17 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "Arm's first new chip architecture in a decade focuses on security and AI"
+    excerpt: "“As we look toward a future that will be defined by AI, we must lay a foundation of ... It will be at the forefront of the next 300 billion Arm-based chips driven by the demand for pervasive ..."
+    publishedDateTime: 2021-03-30T19:34:00Z
+    webUrl: "https://seekingalpha.com/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 70
   - title: "Arm announces the Armv9 architecture for the next 300 billion chips"
     excerpt: "Arm is announcing the Armv9 architecture, the first new architecture for ARM processors in a decade. Two major focuses of the new architecture are security and artificial intelligence."
     publishedDateTime: 2021-03-30T14:00:00Z

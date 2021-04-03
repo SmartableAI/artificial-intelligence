@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Reuters
@@ -24,17 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. banking regulators seek input on how firms rely on artificial intelligence"
-    excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
-    publishedDateTime: 2021-03-29T17:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 63
   - title: "FI regulators seek feedback on AI use"
     excerpt: "Monday issued a request for information (RFI) seeking insights into financial institutions’ use of artificial intelligence (AI) and machine learning. NAFCU recognizes how these technologies can help improve credit unions’ operations and service to members but has cautioned against an unlevel playing field that allows fintech companies"
     publishedDateTime: 2021-03-31T04:00:00Z
@@ -63,17 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US Regulators Seek Input On AI Use In Banking"
-    excerpt: "The request for information \"also solicits respondents' views on the use of AI in financial services to assist in determining whether any clarifications from the agencies would be helpful for financial institutions' use of AI in a safe and sound manner and ..."
-    publishedDateTime: 2021-03-30T00:46:00Z
-    webUrl: "https://www.law360.com/banking/articles/1369925/us-regulators-seek-input-on-ai-use-in-banking"
-    ampWebUrl: "https://www.law360.com/amp/articles/1369925"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1369925"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 37
   - title: "5 federal regulators taking greater interest in artificial intelligence"
     excerpt: "Artificial intelligence is certainly on the collective radar of the largest federal regulators. Five federal financial regulatory agencies announced this week that they are gathering insight on financial institutions’ use of AI."
     publishedDateTime: 2021-03-31T15:45:00Z

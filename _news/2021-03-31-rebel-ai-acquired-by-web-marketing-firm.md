@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Rebel AI acquired by web-marketing firm"
-excerpt: "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech marketing firm Logiq Inc."
-publishedDateTime: 2021-03-31T00:23:00Z
-originalUrl: "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
-webUrl: "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
-ampWebUrl: "https://www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/"
-cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/amp/"
+excerpt: "Rebel AI Inc., a Louisville-based digital marketing company, has been acquired by New York e-commerce and fintech  Logiq Inc. As part of the deal Logiq will rebrand Rebel’s web platform Logiq Digital Marketing."
+publishedDateTime: 2021-03-30T19:04:00Z
+originalUrl: "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
+webUrl: "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
 type: article
-quality: 76
-heat: 96
+quality: 56
+heat: 76
 published: true
 
 provider:
-  name: Daily Camera
-  domain: dailycamera.com
+  name: BizWest
+  domain: bizwest.com
 
 topics:
   - AI in Finance
@@ -22,9 +20,9 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://www.dailycamera.com/wp-content/uploads/2019/03/dailycamera-backup.jpg?w=945&h=630"
-    width: 945
-    height: 630
+  - url: "https://s28538.pcdn.co/wp-content/uploads/2019/11/Artboard-1@4x-1.png"
+    width: 1020
+    height: 356
     isCached: true
 
 related:
@@ -57,6 +55,6 @@ related:
         height: 450
         isCached: true
 
-secured: "7USIdPJ53uJe6l7NrcEyKxud8iqaJF6T04G5BhSMHLjfRoqI83MIsNMqGumcnh58Qe+8ezklGU4wVi2a5QHF05cmMAd6ugTwz/fNFDpUgK86DL0JEm6G4x4JUqNDo7TmHJEkyWkHLkYxy2m7/uCjRW/0r8NO532AjfcQ5bvXMX6k15mjH9z7z95sdcPDVuimP2GY0T9SXJqb6sJ0FaFydPq6LcedZwWEmlqGr1EnP7KCefB6D4Mm2wBlmJj5t8hzDrI1eMQRn0OO4D4nb4hQMF9QCTvO/L5240vFGSPRIV1rr0h0GtpT6TnkDeEH30gB7xE8C6wCNNp8ufrB6ArymBf5NE2ArgoHG3LDjyHVQFA=;JLY/TVWuDQK+UKLut0i7zw=="
+secured: "+/E62LdKrw6Db0rCElP3FbF3InkFVIojjIJx+aZlWy7Ov0OpqbubG37e54QqaNoJl2aq/bWNK4cnzk1IFHKWPEEC5x/Ii/M6G3nVliajAzVRAEZJAhTgADPao6+LhCUViMhUVKYxCACCY0ekNZT0DpfI6XzTr08u3I/6z4jkGMOc6hOd7ko/Q5SZd3NC158rIWsUMTB6I10S9Dwu4e6mdjXrGQ/LJF7Nv0jZDnb3j/4wMEo3D4wld4u+uxndCWBfX8LE15qJMc+/fNxmXN6EWdVjto85Mu1foX8UxctHDXN8gX+5RfVsN7TwVnhhAgZz8EDq5HgW70N2cpROE3ZN1JdgNm7FUICdujBWRJT8qwY=;kd6keTIxctvbzILUDrmGOQ=="
 ---
 

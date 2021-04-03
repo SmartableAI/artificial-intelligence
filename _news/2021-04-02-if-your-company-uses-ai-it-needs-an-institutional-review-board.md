@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "If Your Company Uses AI, It Needs an Institutional Review Board"
+    excerpt: "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ..."
+    publishedDateTime: 2021-04-02T18:15:00Z
+    webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-subleft-3"
+    ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Federal agencies seeks views on financial institutions' use of artificial intelligence"
     excerpt: "Five federal financial regulatory agencies are gathering insight on financial institutions' use of artificial intelligence (AI)."
     publishedDateTime: 2021-03-31T16:29:00Z

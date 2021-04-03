@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
-excerpt: "The move brings an end to the former auto executive’s leadership of Google parent Alphabet Inc.’s driverless car effort."
+excerpt: "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ..."
 publishedDateTime: 2021-04-02T19:09:00Z
-originalUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
+webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why it’s so hard to prove that self-driving technology is safe"
+    excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
+    publishedDateTime: 2021-04-02T17:07:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1197936703-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "CEO of Google's self-driving car spinoff steps down from job"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
     publishedDateTime: 2021-04-02T20:04:00Z
@@ -175,6 +189,6 @@ related:
       domain: sify.com
     quality: 24
 
-secured: "DtCe2E4izLojKohr/bGzaTmk9MSWv8Upejopp9WPk34YQuEcyNUpKeI5uUxxVM1WyJ3gt2UUAj6U1H71LhqYwSxm9Gua/4JVPg36auqbxavHLcIZ5eWV9HDLpMkmfgRRfRfpMKijvKqp3ajv55YOWrV/e8WYr3PZOqKv2kdBRn55QpKoKukFMl0JUlKCXpuYxJko2aCoEa11I5ljYsit/OVWSgmZx0zNLCZd1aXEJ9hLuaIhhpiBAJPm/Kj41C5XpbKmfzOZFX3uL7NiiPOncp4cO8acAjk26uo75ssn7QXdBEHCYc/QbK/P7UDdE5ee61P5DLEzW7ai7fmBARCea0F7KcU91IWUWoL6Ep9NTvqbyFQNld7tsxTSTGwmr9HM90KmSLmP0r+dfTO8NYpjXuBwVTyqKesaNly8FbpUBSwhkDcMtqGWhkYK2ctc98YuE2kKo1fInjrlIRJtJcC32mhsqbpXHJfg1SU/WT3KWsnbVmZJx9HfdMKu55dT2Z7RJPM7OnTgKV0P2h0wS+kvJQ==;qpxopivn4Pv4XyVZIDMi3w=="
+secured: "4/7MGNvW5Uk4BNwPZT2SmiHs3hUNtRd4v6VOOFQKZcjnF7SKbTdufwWo/EaDaURaT38ruZn7p+d4Nf8y9Sr6uvax2kro7sFjnZWNyOWCOoYSurHGJNIfP4eKDsr4QUQgv8Ctz14Xd3z1SIq3JmAmGdaZqYkCMQPfCQ9U/DQZrBZUsQSKbLlBEgijtYR+Zu3lOBzhWuRJNoawLUjdaecaIWpHTrk2riDjjAix+Es+qqRcokWnvIcSgFGuXWdNnjI+C6RAu//nxkjQu0ksjk18X7TTBKq5jDxrcuisBw9qAa+QWR4zC8iZqWS09BkXg3BcrwNUMyl+m9raE6zz/tnDqsI49JrvKCBnxMacDznhoKA=;mgRZIBBPjFkk9aFcBmyJCQ=="
 ---
 

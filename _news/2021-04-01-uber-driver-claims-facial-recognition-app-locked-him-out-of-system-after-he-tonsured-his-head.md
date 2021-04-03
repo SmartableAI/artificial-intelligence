@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-fa
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Bizarre Case of an Uber Driver’s Job Loss, and ‘Faulty’ Artificial Intelligence Software"
+    excerpt: "An Uber driver says that he lost his job after he got his hair tonsured, and the AI-based facial recognition software of the company failed to recognise him"
+    publishedDateTime: 2021-04-03T08:30:00Z
+    webUrl: "https://www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/"
+    ampWebUrl: "https://www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 46
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/face-detection-4762379_640.jpg"
+        width: 898
+        height: 400
+        isCached: true
   - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
     excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
     publishedDateTime: 2021-04-02T07:25:00Z
