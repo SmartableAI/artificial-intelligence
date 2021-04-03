@@ -1053,24 +1053,33 @@
     {
       "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
-      "excerpt": "\"Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT data ...",
+      "excerpt": "Today at Domopalooza, Domo (Nasdaq: DOMO) announced deeper support for Amazon Web Services (AWS) to help customers more easily transform their business by leveraging data available from both their Amazon Redshift cloud data warehouse as well as their subscription from AWS Data Exchange.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/b20324574/domo-expands-aws-relationship",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/b20324574/domo-expands-aws-relationship",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20324574",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20324574",
-      "publishedDateTime": "2021-03-24T11:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

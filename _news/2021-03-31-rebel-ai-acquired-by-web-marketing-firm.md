@@ -7,8 +7,8 @@ originalUrl: "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-
 webUrl: "https://bizwest.com/2021/03/30/rebel-ai-acquired-by-web-marketing-firm/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: BizWest
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marketing Is Turning to AI for Customer Acquisition"
-    excerpt: "The first step in using AI/ML for competitive marketing is to understand what the technology can and cannot do today and how it is evolving, says Christian Wettre, general manager of Sugar Sell and Sugar Market at SugarCRM. AI FOR MARKETING IS STILL IN ITS ..."
-    publishedDateTime: 2021-03-30T04:12:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145993"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137274-2021_04_Feature_CustAcquis-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Logiq Acquires Rebel AI to Bring E-commerce Growth to Brands and Agencies"
     excerpt: "NEW YORK and BOULDER, Colo., March 30, 2021 (GLOBE NEWSWIRE) -- Logiq, Inc. (OTCQX: LGIQ), a global provider of award-winning e-commerce and fintech solutions, has acquired Rebel AI, an innovator in digital marketing solutions. The Rebel AI platform ..."
     publishedDateTime: 2021-03-30T12:02:00Z

@@ -42,20 +42,20 @@ related:
         height: 336
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
-    publishedDateTime: 2021-04-03T18:35:00Z
-    webUrl: "https://www.kgw.com/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+    excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
+    publishedDateTime: 2021-04-03T20:05:00Z
+    webUrl: "https://www.thehour.com/business/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    ampWebUrl: "https://www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
     type: article
     provider:
-      name: KGW8
-      domain: kgw.com
+      name: The Hour
+      domain: thehour.com
     quality: 59
     images:
-      - url: "https://media.kgw.com/assets/CCT/images/87044bc2-ae1d-422c-a19a-b49727412de2/87044bc2-ae1d-422c-a19a-b49727412de2_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "/bkfLuHR8teVoYry5NY3l7pFUhWXJiF/5qdBQmaMJe6eV90sqR7w7jLyHcm7YLTS3ULzgW5YTgsoUadFLp4ChJi1DZcMKIvp6awzJspZX+XbM1Fv8CJkj4tKL7Idwy3lyB+p+F2GJaJqi7B+DFc3AjSSBtR5CN1PB4UjblWMkS15JFbuerxtF0Yg0byFX7Y8QTuJtHdIkxTRAEhKUCeUaMxRz4ZQ47UUxIN0+IODwRiNOnOqwJkL9+1YtHxDG+LIUUul2jerf4+Axi5PL8lAX2s6zHi+gHhvBR5kUOgmqDLoKQURenXJ4xW3JxtUY1mm1nqloHTraAsb7AtrMvWbSx4vlWgStR5AHpjI+2JpvwE=;9MBCytQz4q6BFKz2N9gITA=="

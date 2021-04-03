@@ -39,20 +39,6 @@ related:
         width: 1020
         height: 356
         isCached: true
-  - title: "Marketing Is Turning to AI for Customer Acquisition"
-    excerpt: "The first step in using AI/ML for competitive marketing is to understand what the technology can and cannot do today and how it is evolving, says Christian Wettre, general manager of Sugar Sell and Sugar Market at SugarCRM. AI FOR MARKETING IS STILL IN ITS ..."
-    publishedDateTime: 2021-03-30T04:12:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145993"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 54
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137274-2021_04_Feature_CustAcquis-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "StZudo7l+kwqGrsW4A/q/CIucoh7OOxbs/+OnQnRVgDpCmrQkRMVCxes/pPIiAkh/PBNyEDao1/qL790P2FL0W+rnnsm1cdKjyXnV62+qHV9vc2TaE/meOj0d0bpaWBtHlfx0twHER8rYL09rH/SjyzOKt7GjEgS/BL42/psRtcnNxJV3KxVkqb/oz1NdbRvePkDiBW93Q8GPTCYn7yHtb2+PZp3uhcx6kYSJ0HNF8KGn2ya/f5bEbNgKdmUmq4EdNy9/QFKl8zZFV8UsDlTSuCfeCuIosa9NvMCM4biMvgUdn5FJyNV7WtVwI/+/Szu4KEAkg3G8pju3ZqlGjBqY1+/EVqkZUeLrQ+PUfLUaRI=;BwaazqmvPQ7ZaajMdHjkJA=="
 ---

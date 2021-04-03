@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
-publishedDateTime: 2021-04-03T18:35:00Z
-originalUrl: "https://www.kgw.com/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-webUrl: "https://www.kgw.com/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
+publishedDateTime: 2021-04-03T20:05:00Z
+originalUrl: "https://www.thehour.com/business/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+webUrl: "https://www.thehour.com/business/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+ampWebUrl: "https://www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KGW8
-  domain: kgw.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.kgw.com/assets/CCT/images/87044bc2-ae1d-422c-a19a-b49727412de2/87044bc2-ae1d-422c-a19a-b49727412de2_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "aL33+1Ibz2dPYt+030Rq9P1DAJK3plZQAaJuqjixoX0+xfU3/CwUG/BTCghG9tRFA9Z7Wke0I20rq4wUQVXQ6NN9ieR6TKL2kYVLWevIWaADSY/TWAz+NP/Pi/OMWnhhEEQwaIi2kEaOMIrNhDK6N2rQ9o6cHrcQrpeluRYnDpaFqajFtXzpDO/9/O85uhJnZ1EAE5onjKvvgc7mlHdMTMRVk078yfabz/wFrvmy8n7aH9Q4/aug0uPZ66Cg2Fy9LIS4M2ugFDwF65kNed+LeqRPZStEtq+qu8mLvLJfCiqUaV/npj7Snxy2llhfj1HRg1HcUAc3I/mQISKRGkrZwkNWY/wf+g7c6eRWrDFRf0g=;kyEr00cyMxJ91krAB7bL0A=="
+secured: "TA4xnmF0kihsooRquoEYVg/wXxtkQfye2JqTJ1QKhr9OGw4xuPl2PPyBNxPowa/+OW9urg+euTqRp/8s1xGsu62DSA1uOlcg14K9zX3YzVNgpCKLXFODTfQUYnxgUhNjpr6HkaI2Z/sEPJo2H+Mi0T8eg6M8iOfKF8U517U0t8aQWIPfTobJ2OEdeVDAupER69xQNcGCsOtCpE73rI58O3j7ohlScAQnOEyue7j/vEE7CkMMzTop/GwbBYXrdYCcWy/dSBaLsFJ8MGr7VwCG7WGFxTsKLkLXwzFVIk0xRHK6pIUlkuvdlqzjw16B3fRA31n3POBFrg0UzYY0Yw8DGzwer+mw+AXteG9dQ0TfRhA=;qteKGCsoxJgzThDJXH2B2w=="
 ---
 

@@ -58,15 +58,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "Healthcare Information Technology (IT) market Size is poised to reach USD 114.5 billion by 2025"
-    excerpt: "utm_source=ksusentinel.com&utm_medium=AN Healthcare Information Technology (IT) Market will exceed USD 441.8 billion by 2025; as per a new research report. Emergence of artificial intelligence in healthcare will serve as a high impact rendering factor for ..."
-    publishedDateTime: 2021-03-30T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/healthcare-information-technology-it-market-size-is-poised-to-reach-usd-114-5-billion-by-2025/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
 
 secured: "n+c+UqogtU8EL1vEHloamfy50RkncMMaLtAAd2dLEKiV2DjOUiPbpEA8Kg5sTMRtrgjcrIbnlWJZeEsdRfSFaPYQo2ngXqmFN2x5brtiVyg+pQlpiUyFgF18qquwHDCC71zf0j1Dz/VTLJ71QbotIK15bdiwZe+c4pd6LV9wKpYiWkgH9mVW7Q+yMFn7A0IbuEbO6vux4WjTM0OHd8iFZPXoEUJVT5TlK1kFX862pVg07YkJqYRoeSaE4EIsNyy3V3w4OJlYAUxZFAGib6heL2zuiqpuicZO3TBZW1DJ5T7sA98dRkJHECwW1RP7pn4qBi1z4shpRYhyNpVJzNdX4Nymt0vIVpWxAdLYYw5YYnA=;CtIqvt3RgFQwDTDlGFFcXQ=="
 ---

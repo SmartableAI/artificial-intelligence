@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL0ZY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL0ZY"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2018/05/ocooker-microwave-oven-2.jpg"
         width: 600
         height: 402
-        isCached: true
-  - title: "Now, production of fridges, microwaves hit due to global chip shortage"
-    excerpt: "A global shortage of chips that has rattled production lines at car companies ... by as much as 25% on some months, Jason Ai told Reuters in Shanghai. \"It's a perfect storm,\" he said on the sidelines of the Appliance and World Electronics Expo."
-    publishedDateTime: 2021-03-30T03:38:00Z
-    webUrl: "https://www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage-11617072715536.html"
-    ampWebUrl: "https://www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage/amp-11617072715536.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage/amp-11617072715536.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/03/30/600x338/2021-03-23T211648Z_2_LYNXMPEH2M1LE_RTROPTP_3_INTEL-MANUFACTURING_1616583948459_1617075374517.JPG"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "zvgQREZ3HqzvF42VXCYihlLsxIx5DtABYhE22Bi+3I54Vuf+l2T4UCsCErEXtzqBh73WAdpaqAgAOnylOaKcDTEEkd31OCjpXFtAha2fSlVaLpRWjUyjqEHh4lV2WJHb4iLZFyft9z7OzA3FVxisEPyx0hbqWdSLqZivc3ZColwL3zVYHHtlQ9+x/Yjr5G3W1lJlEhjyuf8DXm1uVm/w3N1gWzozjiPm4pw+qacc1/mC/Y+NxrPi/iyX8OTd8P1SXbWnSTUFRoNjZ1qM8yN5eTehhON96uQefGI1MSkJfhz+noZ46QXSo+gujVbi584Ad8lPa/zy3r8MOA5M0oPr6FP8pVJZ4Fx5hxOxzjHZ9is=;qQt3zwtBvR/i6UxAZ/8QlA=="

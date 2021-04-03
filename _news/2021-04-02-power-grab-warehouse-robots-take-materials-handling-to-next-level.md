@@ -8,20 +8,21 @@ webUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse
 ampWebUrl: "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/"
 type: article
-quality: 172
-heat: 172
+quality: 189
+heat: 189
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064e99ffb14fb0430d02af7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D376%26cropY2%3D2644"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "UvhDnMz9sQhOh0JQrEqs1MTZkiMfrRf0xEAClt6Jho6TktJyafOh0eRyDSZWdayPKG+v3pLLoBhlJGBJ/3fUPcMZMgwd6j9eGbgIQ4PD44UdwK+yBC8dXJ0JRQkAZIRtY3gDMxCZ84VLrAzaZ/mcgVvR5UPWhFn6nPXwe78xh1sqkmUxfaYbnnjB2PdulMvtvMh4Krg7bXBhEt1dhrOpH/aPAiUBwykstWgwRtnjSQeNFGeLsTN/oevJo+crXjUVVq82WICiRmP6yqv2aWj5NthjI51hzuTMW7+re48QPg8U+OS0XdEv/hIPQ97VNgrOsvA6cKicsDMrOt+fCm0zyIcZrJp0iCPNvjVSx4Ybsxw=;anWOtV5yUiFtHGWM9mRqYw=="
+secured: "UT9Xc5rRHiQ0knm0SNpc3snL4vrPSsH5n9bMu2maCxbB7PxgOngZinaLHEYw35JiO4dOZKlPpnbqqwtgCcqHioLjz51Jx6unzav97qV9d+M35g1ctLhGqyXtASXKaGAzGYLquRdk0ePTe7BOUD60WMYIDSoGhrqVZMg4nvLCN+tfp7ZRf38kPpdaCn3on6njhJXHWBB+8vc3xYSAMIoCsESpoDBlnzVLcOh2i/5zF3AVMDOP6kuib10xIqx5HEFJD8tk+DPXoXdTSJDPQNweQ+14ENEsMIvwBQdkoBckaIxHozYnRlbkKo9SH5hX2qIXY0LmFXV7KvVAiRSCBsGHCmk5nVww9fut845z4bIVc4DAtCmmD8xMeLgKn+SIx4Nu;tF4zDU6Q+vfAMsnSSz+v+Q=="
 ---
 

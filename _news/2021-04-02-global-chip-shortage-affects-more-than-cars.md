@@ -61,22 +61,6 @@ related:
         width: 600
         height: 402
         isCached: true
-  - title: "Now, production of fridges, microwaves hit due to global chip shortage"
-    excerpt: "A global shortage of chips that has rattled production lines at car companies ... by as much as 25% on some months, Jason Ai told Reuters in Shanghai. \"It's a perfect storm,\" he said on the sidelines of the Appliance and World Electronics Expo."
-    publishedDateTime: 2021-03-30T03:38:00Z
-    webUrl: "https://www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage-11617072715536.html"
-    ampWebUrl: "https://www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage/amp-11617072715536.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/now-production-of-fridges-microwaves-hit-due-to-global-chip-shortage/amp-11617072715536.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/03/30/600x338/2021-03-23T211648Z_2_LYNXMPEH2M1LE_RTROPTP_3_INTEL-MANUFACTURING_1616583948459_1617075374517.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "yLji6ma7UcPNFeAf1t5ogKh3MftRMSmHz3TtSOmS5T4L7ZdKto/ZKIEMl10NWcprkjf1yEz2RqTtCWwK6aja8dfd/OHst0d52juy+jFAKSOQNGJOAKmo6nzVA9zwByVmCqveTyCs1XsInn/oa1IsKndQm8ACU/PkZeZ6hxi+Uqz5zWyB3CRfkcj57c6/HWMOOTwo4kPwwKp3h3wLkdOaahd6z9OCIsIvPrL2RCS+a8EM2E3SyKCjYIsP6RprrJ58SrgYnWqV2Djie1IhgRpH4TgZaFHDB9Khni7nA8F9dtOxPER0Aqno/hJjMdLsaQLRsD0r6vg9M30NA7rOLEiU5+Wv9SnT0gZr/ZqolaRKHwk=;GBECNfqPyHlrFJwIsHW7WQ=="
 ---

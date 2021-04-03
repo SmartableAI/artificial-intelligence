@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -218,6 +218,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Waymo CEO John Krafcik is stepping down; Alphabet's self-driving unit will now have 2 co-CEOs"
+    excerpt: "Chief Operating Officer Tekedra Mawakana and Chief Technology Officer Dmitri Dolgov will now head Google's sister company, a leader in autonomous vehicle technology, as co-CEOs"
+    publishedDateTime: 2021-04-02T19:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/02/waymo-ceo-john-krafcik-stepping-down.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "kiIuqHAMDZKPP8JEzVVzvhXoKa4WzAWrn0ljRaU1N1lyfbQqvX7V83UT9aemBNn7N+P3T0GY76yIfFLE9ux09YV5vBW98Qlw2zQ88j4JUK6sxHhQNJnC1g8qtlP7fye68YB1DK6oyo8v1OJ0wAyEpUyONiYe3B3RGINpc0oooEJ6cggWN4I1ZP8wvIqftQPHroeLkO6PuB9yN6UqqCvsT4K+LzfMfdNtnfXF9jYSmoohmxpNSx7ycdsfMxTxsLAh2EPmN9u4tVNd8PQCgZqfmQWBpaffCt1o/uBA0NIm0kICPt4Yehk1PfUIBvoQ8EFz6dqTs2zvRfS0VO7jrscktFDlCDbmk/EP//GuJ+JB6jco+aQtHk4nU4a4D7MAjdEbuw9d/oIQ4EDLMMUy+b1+xwzLaOLuNA6wgj2tfEc17X/Ikp+nBH3Gn7BSCGwlvaKeqp/goiyDU3IXdbKuL1ZMK6MCFS0/a2YwfLyChUU925EfmVYFn6vTLxXokFeKzoFg15uwFN4bFUAfU9qGAs+7EQ==;z7usT0K7ulmkslFGb5GF9w=="
 ---

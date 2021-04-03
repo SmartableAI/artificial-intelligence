@@ -214,6 +214,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Waymo CEO John Krafcik is stepping down; Alphabet's self-driving unit will now have 2 co-CEOs"
+    excerpt: "Chief Operating Officer Tekedra Mawakana and Chief Technology Officer Dmitri Dolgov will now head Google's sister company, a leader in autonomous vehicle technology, as co-CEOs"
+    publishedDateTime: 2021-04-02T19:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/02/waymo-ceo-john-krafcik-stepping-down.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "F+xn2DSV4/QsQu8NfPa1IdkC+05qBzjp1lbjLbJCwGt5wouc3NF7u/5sYnICh8Fn0zUocI69Yu7YYLQFhc8FUZPO5zy+O/Rq5LUltE/HWL8vaEAw6zOdA1XoxdKKaxGLjTEF62MXOeCLuymGsKf9AGqPdoFT9Yd3P/u5SQsuomiEDf2E49HZEwFKOpjo6nKXn7wpOE+W4UQK9qIKHBSaqlanTWoezh6aDAEkVxkYFEg8qlHUsUty9n3AzSU9x5AUZz0Ep70/sXgX2iMEjwk8FtMQ43qS+sscYbr2ADNW4aFCWnYgncKZ6ftAQ8RvzfFJ2g0LSLJCxMS6EiPVaAtBpAyYAFWqV9jsPeos6cnTt0M=;WBcqseyS3oSfZfYLit1oRg=="
 ---

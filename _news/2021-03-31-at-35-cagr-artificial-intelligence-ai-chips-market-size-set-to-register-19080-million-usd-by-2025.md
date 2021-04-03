@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-35-cagr-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 920
         height: 482
         isCached: true
-  - title: "Healthcare Information Technology (IT) market Size is poised to reach USD 114.5 billion by 2025"
-    excerpt: "utm_source=ksusentinel.com&utm_medium=AN Healthcare Information Technology (IT) Market will exceed USD 441.8 billion by 2025; as per a new research report. Emergence of artificial intelligence in healthcare will serve as a high impact rendering factor for ..."
-    publishedDateTime: 2021-03-30T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/healthcare-information-technology-it-market-size-is-poised-to-reach-usd-114-5-billion-by-2025/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
 
 secured: "nOPixDK2hOnjkPRJqdWI/N2ymHGQ9LQkEL58PbfeixCd4sMvOXwYHokHARlcsMNpbx1bNWqkTS9fMrOWJd8oKWqbzUni2n045KEPVcqoGvH+CMymsoi+tZY2x8XC/baX8pom9QR1KOBwOQoitrnPZsfqtiEVq58eb8+f+t64tuAmQYZr3ZuBLAaugJfBkPjnqqXo/lv7Aia4qNcxIIpWjYPPCuiVQNHgS6QM/aVoTS+FAc30eb9p5j6gK9+Ab2U3gr9pls6U7GSMYSJC65fjUv489LKetLddwIfU182b/c3srPzpf1600wbflxOOW7N2vvinyVjxG8Y920Ej/k4x+cGkWVZPv16iRk14P7X0aQM=;iua6EwVm9Im7tSBd1tcSBw=="
 ---

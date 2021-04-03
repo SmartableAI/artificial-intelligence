@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
-    publishedDateTime: 2021-04-03T18:35:00Z
-    webUrl: "https://www.kgw.com/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
-    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/robot-artist-sells-art-music-career/507-31439b36-8c3e-4c01-a0a3-c2f0ac78148c"
+    excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
+    publishedDateTime: 2021-04-03T20:05:00Z
+    webUrl: "https://www.thehour.com/business/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    ampWebUrl: "https://www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/business/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
     type: article
     provider:
-      name: KGW8
-      domain: kgw.com
+      name: The Hour
+      domain: thehour.com
     quality: 59
     images:
-      - url: "https://media.kgw.com/assets/CCT/images/87044bc2-ae1d-422c-a19a-b49727412de2/87044bc2-ae1d-422c-a19a-b49727412de2_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
     excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"

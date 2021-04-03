@@ -41,15 +41,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
-    excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
-    publishedDateTime: 2021-03-30T04:34:00Z
-    webUrl: "https://www.techinasia.com/fintech-firm-ripple-acquires-40-stake-malaysian-crossborder-payments-firm-tranglo/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 48
   - title: "How to break into the self-driving industry after college, according to 10 rising stars in the field"
     excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving-vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
     publishedDateTime: 2021-03-30T13:30:00Z
