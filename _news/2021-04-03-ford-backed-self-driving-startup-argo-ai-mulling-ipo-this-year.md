@@ -1,53 +1,44 @@
 ---
 category: news
 title: "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year"
-excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
-publishedDateTime: 2021-04-02T22:35:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder,"
+publishedDateTime: 2021-04-03T12:14:00Z
+originalUrl: "https://www.bloombergquint.com/markets/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+webUrl: "https://www.bloombergquint.com/markets/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2019-02%2Fa56f8587-4af9-4078-82b5-89a700a037c0%2F331150579_1_4.jpg?rect=0%2C0%2C3600%2C1890&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
-  - title: "Researchers develop new AI based early warning system for self-driving cars"
-    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T18:13:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
+  - title: "Ford-backed Argo AI mulls going public this year, report says"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen Group, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April ..."
+    publishedDateTime: 2021-04-03T12:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-ai-mulls-going-public-year-report-says"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
-  - title: "Chipotle invests in self-driving startup Nuro"
-    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
-    publishedDateTime: 2021-03-30T12:54:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 4
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Argo%20AI-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "T+WcbMSUHOuFZ4WWzwZBj3KvqnMnFfDb5RfVnC4pp1GCd9qeY+Sz9RPIedGOPtkX/RZuERSuvOgfZjcb83SMqhExPm1q8c02ELwmt5Zv7Z5Kkdhnv13oU7IQyldmHtQ1NdLJ8RSFP/x6F5Tab5KrLkJmhqF7yzyB3n/5dvibz4XOWlALJC1IG4XjK8wpm1o3ULocr+UkPfZxLlwdYwlLh9V6OE4uMYQxsUbLZeHMVUOv6qKLXMZGkSwOWevmsiA5dcrE0Yv3O8o8nnzDVK1qk+ZoHuBw50ZUNiq3GIZOM3Ka2jJ0uuT2zzC016BXMEhbN+N671S5Q+zDwTyxQ2csZRBvYAmdIt/p9sMhEQ/o1eU=;4vEQB6hfe1OJT41j43gy6A=="
+secured: "3UBt2hOqOzCUrdIxot+n4SoaC/RdL8cw5g4iKczu2fwaPRDdyQdPTDoL9nO9EEuarZxdvP5vRaJHI9KxzK+S5Edbpzy92FLAPegDJ41qDbGcB+ug3IJa3QCx1V1lBvheWWk3CAgyYCFPFGhMRXUvcKR+0ubsitf0W3Vl6k7vTUiUf14FjCj9ZPCDRLaD1ykI4y8yxmRnoxJ1ZdA3hw8m4G3HbXw4DAjAHkYP4S3u1pEgo6Oyk2XzeKMWkpLMVwGYS9kJzRP0w4zS4ybBj6oBsoFcy54900cnEvHYShGy5z4HIq5GIYKl1T+IoyLGEWiRp9lxLsBSA7gZDRFsSZj19fucM7t0VmO/aO3Ol9ZjLUg=;DYwPy4tbG5ny6YoGmCRrnQ=="
 ---
 

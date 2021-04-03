@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city"
-excerpt: "Baidu said on Monday that 35 of its robotaxis ... Chinese authorities require self-driving car companies to have human drivers behind the wheel or in the back seat so they can take over driving ..."
+excerpt: "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far ..."
 publishedDateTime: 2021-03-16T08:36:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city"
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
+ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079084.jpg"
-    width: 1240
-    height: 697
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "CctXxrl9jQkyOcBg71n4ibOrrDI6AZIgSiCO7eWepWi09GRayXjXaBo9MMTXGj8F6aO/+Y2/8ZQ/GDxmMf6I7v5w83oKw8YMIM5Oc9wGURDf1aiwY4PrpPNlOGzuEaISM2rY2w8V1hQGE0OrS7191gC8p5HleAZUVoDozpIzhYDI1Exm7EihVcTpUsZT5KU3/4ADBdbgFRR4ZBNdvZbrBARkkZ8mDsz4DMDa9CAu05jVBvJK8BHMH1zdy6OGNpS3B2wfWkSp0Z/acUcWiXmUhmHm9Mi3+0fIxDf8fQ4Efau3v6w0vPxA6oRR8BvSJqkDq2AnZFxeP/+OQ1RaHlBB+daXxGJLM474Qal/JwZQEDY=;mkm0V5A/e0bkwAhcULniWw=="
+secured: "aqh+tEGTmIIQPP1bxBA9YmaEpAUttSTYtRwOg/oZu+UiQPLNmaKiDUbwx++g+2aqQ4/b1mFAAEyClbsSr12Vdgw+BXc11s32SDP1D/fMBts/pR6hzb3RyZhzkTSZt/JsGDZ1VkX8Y/mthi8Q7V+2iKyj071W7r1fCWvxxMi0lYgm9z23dNHNvLXMJ+Pgg7m2U+McJdUdPkV8nk88M97/F28+7meCfv6sXyiD/l4EgReYDxCr9ea9oySr97TaFLsUzzCFqacDGAv560M/5DW4pgxFYy5ViLV/sPsq7vexoxWW8BYHXf5bJ+Qb6JhIOEBr8OIldnkGnzQTezGFFR67up+7+3uBw16LHVy/ZXOtlRA=;GEfeHG2/IEV5vDi8mX29Ag=="
 ---
 

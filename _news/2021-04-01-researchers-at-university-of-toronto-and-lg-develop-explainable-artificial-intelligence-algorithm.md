@@ -55,20 +55,6 @@ related:
         width: 750
         height: 304
         isCached: true
-  - title: "New ‘explainable’ artificial intelligence algorithm could lead to smarter manufacturing"
-    excerpt: "Researchers from U of T Engineering and LG AI Research have developed a novel explainable artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The algorithm,"
-    publishedDateTime: 2021-03-29T20:48:00Z
-    webUrl: "https://news.engineering.utoronto.ca/new-explainable-artificial-intelligence-algorithm-could-lead-to-smarter-manufacturing/"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 46
-    images:
-      - url: "https://news.engineering.utoronto.ca/files/2021/03/XAI_SISE2.jpg"
-        width: 650
-        height: 430
-        isCached: true
 
 secured: "LnIIc/ooJRs7A80EI6s5rprAgxV2g6ADC6Y7851KfSergwEC7xmX4sJfAl7xHtu7S2VO9FsAIOVKJWq8CZEEjb0qGnb3gpRzqECPIocpanbrWhAmGlggHgXfTPN5vw6GfqN20MusXl9OURZkkuKiaFHn0sTQIVlnor+RNgA8g32YbJTP3MB6cf9ViKMUVg54D/MDC00HmqZ8wCeehPL9khbpFHbnfWHxQjNTo9DnojHxRViCS0cYEFmAS71iMG11AYZH+aAr2dw40tvnhgQ4iZwMkuwOdZa76Rht0iAZb30oLbzzfQoz5suskIwCWDcFat4yiQxnSlhyCjVP2RMpNiEI0fvRIdeq3hjpTCxUn3o=;KnfJPqElA5TydxApd71fHg=="
 ---

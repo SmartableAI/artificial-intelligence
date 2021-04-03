@@ -26,22 +26,6 @@ images:
     height: 334
     isCached: true
 
-related:
-  - title: "Oak Ridge National Laboratory joins ATOM Consortium to Accelerate Drug Discovery"
-    excerpt: "The Accelerating Therapeutics for Opportunities in Medicine , or ATOM, consortium today announced the U.S. Department of Energy's Oak Ridge, Argonne"
-    publishedDateTime: 2021-03-29T19:32:00Z
-    webUrl: "https://www.miragenews.com/oak-ridge-national-laboratory-joins-atom-536461/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 19
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
-
 secured: "USZczCTriCqGgPHDmeQ4bQwm9ZvMRWH5qqKiETbg17W31qTiXcj4/owIxXpWKjtwTU2lcZPt0XaqB/CGZLNYY1Jv40uqfR0WH9OZGr70JOMxD1jVyfgWrrEujb1kTHfnQis1TWEVePUp0XoLLoikiemlI2hr6WXfc+1YLWkw2TjfP75EBMWLbyqJvfpNwZeIBOlmx8Hl0w93MLosvgOcFydAxsf12cZrs60tS4BI7O4T11yKC8TF+Kf4qbX7yhLieSRmcCv0mPJWnRwmbmFwqssMuiuasf20eEpIxGQk+5hXpGbbuJ17dysr///1y9wj0tQghvrYvfZmnFMlgWoAE0Q8czgfs7EPh0rI/+iFRFH80dY5E6r3wy1UtUn2EqXcuQDxui2urdNMLW/AzGyqb5bFV1oEXpS/0YrWKBOXz3nfqhXDyGwR6HriV8DpFA+rDHBoEblkJyjGzrAV/b7t/UdeU7dK0wsZzPBulSJVVnPhLy4lO5H6a622LOqk7TWFmf63s+QWqn0UBjk54k+XZw==;IzHy7pFhHeJ2DlbAhLeDJg=="
 ---
 
