@@ -4,84 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eigentech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/embodied.me.md",
-      "title": "Embodied",
-      "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/embodied.me/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/embodied.me/",
-      "type": "profile",
-      "name": "Embodied",
-      "otherNames": [
-        "Embodied, Inc."
-      ],
-      "overview": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "website": "http://www.embodied.me/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/embodied-inc./",
-        "followers": 2827
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/embodied-inc"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=TOj9VNZqki8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/eyediagnosis.net.md",
       "title": "IDx",
       "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
@@ -1471,6 +1393,113 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mythic-ai.md",
+      "title": "Mythic",
+      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mythic-ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mythic-ai/",
+      "type": "profile",
+      "name": "Mythic",
+      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "website": "https://www.mythic-ai.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/isocline",
+        "followers": 214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/isocline"
+      },
+      "twitter": {
+        "username": "mythicinc",
+        "url": "https://twitter.com/mythicinc",
+        "followers": 708
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, TX"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mythic",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/narrativa.md",
+      "title": "Narrativa",
+      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativa/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/narrativa/",
+      "type": "profile",
+      "name": "Narrativa",
+      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
+      "website": "http://www.narrativa.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/9329868",
+        "followers": 341
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/narrative-visualization"
+      },
+      "twitter": {
+        "username": "NarrativaAI",
+        "url": "https://twitter.com/NarrativaAI",
+        "followers": 731
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Shipping worldwide",
+        "Madrid, Boadilla del Monte"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1347122063409106948/I5YSeFYF_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Narrativa",
+          "isCached": true
         }
       ],
       "content": "\r\n"

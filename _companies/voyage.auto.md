@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "voyage"
   url: "https://twitter.com/voyage"
-  followers: 10019
+  followers: 10018
 
 size: 51-200 employees
 yearFounded: 2017

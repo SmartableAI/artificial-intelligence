@@ -4,6 +4,171 @@
   "page": 11,
   "value": [
     {
+      "path": "_companies/mojo.md",
+      "title": "mojo",
+      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mojo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mojo/",
+      "type": "profile",
+      "name": "mojo",
+      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "website": "https://www.mojofertility.co/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mojofertility/",
+        "followers": 154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/mojofertility"
+      },
+      "twitter": {
+        "username": "mojofertility",
+        "url": "https://twitter.com/mojofertility",
+        "followers": 389
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Lyon, Rhône-Alpes"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1359866223434076163/bUKoxr7o_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "mojo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mov.ai.md",
+      "title": "MOV.AI",
+      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mov.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mov.ai/",
+      "type": "profile",
+      "name": "MOV.AI",
+      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "website": "http://mov.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/movai/",
+        "followers": 567
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
+      },
+      "twitter": {
+        "username": "movairobots",
+        "url": "https://twitter.com/movairobots",
+        "followers": 123
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Cascais"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "MOV.AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/people.ai.md",
+      "title": "people.ai",
+      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/people.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/people.ai/",
+      "type": "profile",
+      "name": "people.ai",
+      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "website": "https://people.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/people.ai",
+        "followers": 5568
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/people-ai"
+      },
+      "twitter": {
+        "username": "ppl_ai",
+        "url": "https://twitter.com/ppl_ai",
+        "followers": 1516
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "people.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/persado.md",
       "title": "Persado",
       "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
@@ -452,7 +617,7 @@
       "twitter": {
         "username": "trueface_ai",
         "url": "https://twitter.com/trueface_ai",
-        "followers": 1599
+        "followers": 1600
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -504,7 +669,7 @@
       "twitter": {
         "username": "uptake",
         "url": "https://twitter.com/uptake",
-        "followers": 5279
+        "followers": 5278
       },
       "yearFounded": 0,
       "locations": [
@@ -523,82 +688,6 @@
           "width": 400,
           "height": 400,
           "title": "Uptake Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 3964
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1434
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
           "isCached": true
         }
       ],
@@ -758,6 +847,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2551
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/dominodatalab.md",
       "title": "Domino Data Lab",
       "excerpt": "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next.",
@@ -805,44 +932,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
-      "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
-      },
-      "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6827
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco and Tel Aviv"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chorus.ai",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1013,44 +1102,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 96328
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/chumenwenwen.md",
       "title": "Mobvoi",
       "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
@@ -1131,7 +1182,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27290
+        "followers": 27289
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,

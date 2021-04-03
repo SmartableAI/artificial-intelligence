@@ -4,113 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/mythic-ai.md",
-      "title": "Mythic",
-      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mythic-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mythic-ai/",
-      "type": "profile",
-      "name": "Mythic",
-      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "website": "https://www.mythic-ai.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isocline",
-        "followers": 214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isocline"
-      },
-      "twitter": {
-        "username": "mythicinc",
-        "url": "https://twitter.com/mythicinc",
-        "followers": 708
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mythic",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativa.md",
-      "title": "Narrativa",
-      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativa/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrativa/",
-      "type": "profile",
-      "name": "Narrativa",
-      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "website": "http://www.narrativa.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/9329868",
-        "followers": 341
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-visualization"
-      },
-      "twitter": {
-        "username": "NarrativaAI",
-        "url": "https://twitter.com/NarrativaAI",
-        "followers": 731
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Shipping worldwide",
-        "Madrid, Boadilla del Monte"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1347122063409106948/I5YSeFYF_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrativa",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/netguardians.ch.md",
       "title": "NetGuardians",
       "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
@@ -402,7 +295,7 @@
       "twitter": {
         "username": "OrCam",
         "url": "https://twitter.com/OrCam",
-        "followers": 10522
+        "followers": 10523
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -650,6 +543,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reflektion.md",
+      "title": "Reflektion",
+      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
+      "type": "profile",
+      "name": "Reflektion",
+      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reflektion"
+      },
+      "twitter": {
+        "username": "ReflektionInc",
+        "url": "https://twitter.com/ReflektionInc",
+        "followers": 1434
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reflektion",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1237,6 +1168,44 @@
           "width": 400,
           "height": 400,
           "title": "Speechmatics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/squirrelai.md",
+      "title": "Squirrel AI Learning",
+      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
+      "type": "profile",
+      "name": "Squirrel AI Learning",
+      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "website": "https://www.squirrelai.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
+      },
+      "twitter": {
+        "username": "SquirrelAI_Edu",
+        "url": "https://twitter.com/SquirrelAI_Edu",
+        "followers": 478
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Shanghai"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Squirrel AI Learning",
           "isCached": true
         }
       ],

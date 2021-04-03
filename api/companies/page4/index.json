@@ -4,6 +4,64 @@
   "page": 4,
   "value": [
     {
+      "path": "_companies/signifyd.md",
+      "title": "Signifyd",
+      "excerpt": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/signifyd/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/signifyd/",
+      "type": "profile",
+      "name": "Signifyd",
+      "overview": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "website": "https://www.signifyd.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/signifyd/",
+        "followers": 5779
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/signifyd"
+      },
+      "twitter": {
+        "username": "signifyd",
+        "url": "https://twitter.com/signifyd",
+        "followers": 1673
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "San Jose, CA",
+        "San Jose, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ],
+      "heat": 71,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1350199853297516544/9IO3KMbB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Signifyd",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_200_200/0?e=1594857600&v=beta&t=d5nVuxYDlWXRV8erw1R_nD-nbnBqUMRx98uSu4AbfO8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/viz.ai.md",
       "title": "Viz",
       "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
@@ -719,76 +777,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
+      "path": "_companies/6sense.md",
+      "title": "6sense",
+      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
       "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
+      "name": "6sense",
+      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "website": "https://www.6sense.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
+        "url": "https://www.crunchbase.com/organization/6sense"
       },
       "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1361
+        "username": "6senseInc",
+        "url": "https://twitter.com/6senseInc",
+        "followers": 18923
       },
       "yearFounded": 0,
       "locations": [
-        "San Francisco, CA"
+        "San Francisco"
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Marketing"
       ],
-      "heat": 65,
+      "heat": 64,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1369897181419696128/lLkpj0NP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Metabiota",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6376
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
+          "title": "6sense",
           "isCached": true
         }
       ],
@@ -949,6 +969,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "type": "profile",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
+      },
+      "twitter": {
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 864
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/brightmachines.md",
       "title": "Bright Machines",
       "excerpt": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
@@ -1008,6 +1066,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/collectivei.md",
+      "title": "Collective[i]",
+      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
+      "type": "profile",
+      "name": "Collective[i]",
+      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "website": "https://www.collectivei.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/collective-i"
+      },
+      "twitter": {
+        "username": "collectivei",
+        "url": "https://twitter.com/collectivei",
+        "followers": 1146
+      },
+      "yearFounded": 0,
+      "locations": [
+        "New York, NY"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Collective[i]",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/doxper.md",
       "title": "Doxper",
       "excerpt": "📱App-based car rentals 📍#Dubai & #AbuDhabi 📍@ekar_ksa 🚙 Pay by the min/hr/day/month 📞800-MYEKAR ➕Tag #myekar",
@@ -1023,7 +1119,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 15105
+        "followers": 15106
       },
       "yearFounded": 0,
       "locations": [
@@ -1452,7 +1548,7 @@
       "twitter": {
         "username": "leapmind_inc",
         "url": "https://twitter.com/leapmind_inc",
-        "followers": 900
+        "followers": 899
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1604,7 +1700,7 @@
       "twitter": {
         "username": "promobot",
         "url": "https://twitter.com/promobot",
-        "followers": 565
+        "followers": 564
       },
       "yearFounded": 2015,
       "locations": [
@@ -1714,7 +1810,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16622
+        "followers": 16623
       },
       "yearFounded": 0,
       "locations": [
@@ -1776,102 +1872,6 @@
           "width": 400,
           "height": 400,
           "title": "Verkada",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/vian.ai.md",
-      "title": "Vianai",
-      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vian.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vian.ai/",
-      "type": "profile",
-      "name": "Vianai",
-      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "website": "https://www.vian.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/vianai/",
-        "followers": 2550
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vianai"
-      },
-      "twitter": {
-        "username": "VianaiSystems",
-        "url": "https://twitter.com/VianaiSystems",
-        "followers": 596
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2019,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Vianai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/wasterobotic.md",
-      "title": "Waste Robotics",
-      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/wasterobotic/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/wasterobotic/",
-      "type": "profile",
-      "name": "Waste Robotics",
-      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "website": "https://wasterobotic.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/wasterobotics/",
-        "followers": 287
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/waste-robotics"
-      },
-      "twitter": {
-        "username": "dirtyjobrobot",
-        "url": "https://twitter.com/dirtyjobrobot",
-        "followers": 332
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Québec, Québec"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
-        }
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Waste Robotics",
           "isCached": true
         }
       ],

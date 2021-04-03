@@ -4,59 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_companies/oaknorth.md",
-      "title": "OakNorth",
-      "excerpt": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/oaknorth/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/oaknorth/",
-      "type": "profile",
-      "name": "OakNorth",
-      "overview": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
-      "website": "https://www.oaknorth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/oaknorth-platform/",
-        "followers": 3167
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/oaknorth"
-      },
-      "twitter": {
-        "username": "oaknorth",
-        "url": "https://twitter.com/oaknorth",
-        "followers": 972
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 57,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359145285977530373/jQ7bFqWZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OakNorth",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEjtNthi71zTA/company-logo_200_200/0?e=1594857600&v=beta&t=o2XDp2e8TdIIX1cEIBbCpgaWUOApJq3ukd1mBzjh4gM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/observe.ai.md",
       "title": "Observe.AI",
       "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
@@ -299,7 +246,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3956
+        "followers": 3957
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -403,7 +350,7 @@
       "twitter": {
         "username": "sensetime_ai",
         "url": "https://twitter.com/sensetime_ai",
-        "followers": 1367
+        "followers": 1368
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2018,
@@ -614,7 +561,7 @@
       "twitter": {
         "username": "SukiHQ",
         "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1600
+        "followers": 1601
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1293,6 +1240,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/anomali.md",
+      "title": "Anomali",
+      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
+      "type": "profile",
+      "name": "Anomali",
+      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "website": "https://www.anomli.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/threatstream"
+      },
+      "twitter": {
+        "username": "Anomali",
+        "url": "https://twitter.com/Anomali",
+        "followers": 8782
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Anomali",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/apex.ai.md",
       "title": "Apex.ai",
       "excerpt": "We are building an operating system for autonomous vehicles that never fails",
@@ -1338,44 +1323,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17250
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1511,38 +1458,102 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "path": "_companies/axyon.ai.md",
+      "title": "Axyon AI",
+      "excerpt": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/axyon.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/axyon.ai/",
       "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
+      "name": "Axyon AI",
+      "overview": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+      "website": "https://axyon.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/axyon-ai/",
+        "followers": 807
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
+        "url": "https://www.crunchbase.com/organization/axyon-ai-srl"
       },
       "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 863
+        "username": "axyonai",
+        "url": "https://twitter.com/axyonai",
+        "followers": 136
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Redwood City, CA"
+        "Modena, Italy"
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Finance",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Axyon AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bash.ai.md",
+      "title": "Bash.ai",
+      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bash.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bash.ai/",
+      "type": "profile",
+      "name": "Bash.ai",
+      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "website": "http://bash.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bash.ai/",
+        "followers": 171
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bash-ai"
+      },
+      "twitter": {
+        "username": "letsbashit",
+        "url": "https://twitter.com/letsbashit",
+        "followers": 55
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Gurugram, Haryana"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
+        }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aviso",
+          "title": "Bash.ai",
           "isCached": true
         }
       ],

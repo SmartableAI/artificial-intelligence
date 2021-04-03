@@ -87,6 +87,82 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "type": "profile",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
+      },
+      "twitter": {
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 864
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collectivei.md",
+      "title": "Collective[i]",
+      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
+      "type": "profile",
+      "name": "Collective[i]",
+      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "website": "https://www.collectivei.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/collective-i"
+      },
+      "twitter": {
+        "username": "collectivei",
+        "url": "https://twitter.com/collectivei",
+        "followers": 1146
+      },
+      "yearFounded": 0,
+      "locations": [
+        "New York, NY"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Collective[i]",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/tact.ai.md",
       "title": "Tact.ai",
       "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
@@ -141,26 +217,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
       "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
       },
       "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 863
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6828
       },
       "yearFounded": 0,
       "locations": [
-        "Redwood City, CA"
+        "San Francisco and Tel Aviv"
       ],
       "topics": [
         "AI",
@@ -169,48 +245,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aviso",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1146
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
+          "title": "Chorus.ai",
           "isCached": true
         }
       ],
@@ -236,7 +274,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12886
+        "followers": 12887
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -267,6 +305,44 @@
           "width": 400,
           "height": 400,
           "title": "Conversica",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/clearbit.md",
+      "title": "Clearbit",
+      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
+      "type": "profile",
+      "name": "Clearbit",
+      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "website": "https://www.clearbit.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/clearbit"
+      },
+      "twitter": {
+        "username": "clearbit",
+        "url": "https://twitter.com/clearbit",
+        "followers": 3965
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clearbit",
           "isCached": true
         }
       ],
@@ -322,82 +398,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 3964
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
-      "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
-      },
-      "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6827
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco and Tel Aviv"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chorus.ai",
-          "isCached": true
         }
       ],
       "content": "\r\n"
