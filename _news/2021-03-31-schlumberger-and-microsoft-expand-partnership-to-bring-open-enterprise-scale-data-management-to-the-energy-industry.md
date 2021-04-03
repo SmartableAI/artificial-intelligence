@@ -83,17 +83,6 @@ related:
         width: 844
         height: 551
         isCached: true
-  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
-    publishedDateTime: 2021-03-29T21:32:00Z
-    webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
-    ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 16
 
 secured: "j9elp3bJ+jDhxqcKmW0JsVyowL530vTP5B9I06G7L3oqEUuO8RCyxXIgsGFeeCoAoXrRm1oaayH5BTGSn+Mgn0+uI482rh3Dvd+U2OznwVBREV3Gq1DUWmP0NDqK2f4trhMFNLf6m5KAIZuAE8aaGBuYi06NeAAJpNKp29nGYG9qVoIEDQHoXJiNvhzguKV6WOz7MYMjesXCXvcsILwb6vXzf/+AyyTz4FNHBh+wh/L1ZZHkkinhztnQ3rW/DNxh7jr5w7YPeVXwXRKYhP4Dy+oWiF4Z5iVXIyaiRibH+rYcDkZedkgW/coMPDP6UZ/b9oIYU+U/z9J/LUi9XbIE0OVqXtOhDVfXUADiGrtEPC8=;grEQIcQQMKyVFqz7mhdb7A=="
 ---

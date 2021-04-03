@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
-publishedDateTime: 2021-04-03T10:55:00Z
-originalUrl: "https://www.startribune.com/robot-artist-sells-art-for-688888-now-eyeing-music-career/600041825/"
-webUrl: "https://www.startribune.com/robot-artist-sells-art-for-688888-now-eyeing-music-career/600041825/"
+excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
+publishedDateTime: 2021-04-03T15:43:00Z
+originalUrl: "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+webUrl: "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1617216053"
-    width: 1680
-    height: 876
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "Sd2LcUDw0oSl1a+rUXMCh/TeyQ6C56nXbQkqecRSzSqtkC/xZ20S0Yd+4CiGyDXnZs0QBsVgLYs0Q9Qj15DOoUKTh3g1PR3+GAW0syS8Flp4j9n/ghMs8cWjwaFhXNAF7w+wBSDGi6TmcViYEUcKQp+Rn/HtK1+Ce1l70OTBgCG4wcN3POxyHCss9H3+SCPMVCsJpkflO/yRWikcQ22AYLXx8aXO5xG6ZkTClnUffcEArzdE915m0y2E8AuPeqYAPfIBZtcwHW8FcWg2wCTREZIEQ380DoR1A7ezlVwGvYGzHp6iU8WKMF2ZRoLLpnGPXSJP4aZYwLHX8rEWfboWK9kaSQQw/cdnbOMMYCDC0aQ=;u09EXEUTtioWZ6wK5yoTFg=="
+secured: "dIklgB5+LwB4FjWjw7CaOHtcx9t1CQ6yQLwKMum68Pkr/oFcgC9U0SBoHWUXYv7abr4/uvm8d3oqGeRZIIA+XRMVqizPmkQ33mhkvmniYD28nf08JOaVAAFeqTqD+jDtCZ1SWa3Dpc7MgjnrtJRjAGyfzt4Wwq+gyHNm95n3KNqrZGu36YnsZTQqRDxveGrDycXAnK7j/9isTM/stL0IHvIH7ok7cHPPXPesbcxUJjFOJxh4+2/22U7B8wCh0S3bi46jOVWcW9d3nZCM6Iu6UjFIpTutNtup2/HU156ID3RBQY6nUSk13cavfYiK1Ps7u8W6+/bJTpk9DfbUWid06xXhBUtXtUpaQRrXw/22CE0=;OCGa5JVQ9I60HZb2JhVCGQ=="
 ---
 

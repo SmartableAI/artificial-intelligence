@@ -75,22 +75,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Underage Teen Gets In Tesla’s Back Seat And Claims It Was Self-Driving After Being Pulled Over By Police"
-    excerpt: "Tesla’s Autopilot is a very capable system, but in its current state it cannot, and should not, be replacing human drivers. That holds especially true in the case of this incident, where said drivers were not of legal age to obtain a license,"
-    publishedDateTime: 2021-03-29T22:58:00Z
-    webUrl: "https://www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/"
-    ampWebUrl: "https://www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/Tesla-Autopilot-Crash-2-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
 
 secured: "pISt/pmC48PLqsfR+3FwvoBHpoSPHRTVVFzZiJBJyS2pbW2bGUC2QteBmC4rJqFHo9yWDEeHg+knyZkSxTQgX70nmKfCmbKEidqjSkSrPoNNQ5n/eMJCvaoyeLaOdDsLx9eVnY7QbXMAwkMehPznBar2L+Y6EIko5I70MvNQ8c3hXWQy+LLJHLb2f78Ujjfub3+OmJRhQECxdxl8ciy3FR1hH68BhVrnaiqRjdEIMNohSmJGVsnJ51CNKh6JjjSMX1CB/xh7bJ0aau/iUsLSyTIbIsJQBVyw5aBNL8kZ8KRqwZsZ7SlosxmBEL2Sy2wZ29fDzILW86klPuLsJADyPg+1mTNI4pSGbVbdyyqU6bY=;wYQ58WquTc9+eu2pgpP0Lw=="
 ---

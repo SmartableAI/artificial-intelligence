@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partne
 cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -69,17 +69,6 @@ related:
         width: 844
         height: 551
         isCached: true
-  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
-    publishedDateTime: 2021-03-29T21:32:00Z
-    webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
-    ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 16
   - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
     excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E & P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft ..."
     publishedDateTime: 2021-03-31T07:39:00Z

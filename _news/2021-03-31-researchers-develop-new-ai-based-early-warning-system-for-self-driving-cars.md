@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Inside this AAA-rated manager's self-driving car focused AI portfolio"
-    excerpt: "LFDE’s Rolando Grandi outlines why he has increased exposure to autonomous cars and delves into the reasons human-led driving will become a recreational activity."
-    publishedDateTime: 2021-03-30T08:22:00Z
-    webUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491?assetClassID=1"
+  - title: "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
+    publishedDateTime: 2021-04-02T22:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
     type: article
     provider:
-      name: Citywire
-      domain: citywireselector.com
-    quality: 39
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_7002168a-f924-4b40-ae71-94cfc2027582_Large"
-        width: 1040
-        height: 520
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Ford-backed Argo AI mulls going public this year, report says"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen Group, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April ..."
+    publishedDateTime: 2021-04-03T12:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-ai-mulls-going-public-year-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Argo%20AI-MAIN.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Chipotle invests in self-driving startup Nuro"
+    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
+    publishedDateTime: 2021-03-30T12:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 4
 
 secured: "0tBXHSuAyIhbBKdtpXjVP51U1i8NCaU/UNOs55DxehSVL1n7htyeN7Iuz84F8o15iwZ26hAxPO1gEvJgcsSDZnTQH8GwSkJs7EF1caNqw0qHMXfXN9aPPAXj2yKHU85TH5PGiJr51OOKP/KfugINBkGcwA805Dx6uAR8VDpYPHIZTwr32ZjBN8vvNGc0zzfMRQWa2vkM9dhhWG7DK/oolu7+IYwZitOu+YeEaDco4tAAX8JBC9ejXospSUl19yAEhTX+TOMbnNaye3HdCgOFMop58RqvlceSBLZdB2E6jjvSY6U6quPUb0B64ckE4V7o+iUDqRUe5S5JVoqU4c/G6Cm24bK8XrF/NrsfCkHYgdY=;DvhCks6yLCQ9vD+Ehu2TdA=="
 ---

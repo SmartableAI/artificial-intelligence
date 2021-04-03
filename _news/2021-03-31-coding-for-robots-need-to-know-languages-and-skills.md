@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/coding-for-robots-ne
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coding-for-robots-need-to-know-languages-and-skills/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: TechRepublic
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 798
     isCached: true
-
-related:
-  - title: "Adversarial training reduces safety of neural networks in robots: Research"
-    excerpt: "Machine learning needs to improve adversarial robustness in deep neural networks for robotics without reducing their accuracy and safety."
-    publishedDateTime: 2021-03-29T21:14:00Z
-    webUrl: "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/"
-    ampWebUrl: "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/autonomous-robots-adversarial-training.jpg?w=1200&strip=all"
-        width: 696
-        height: 392
-        isCached: true
 
 secured: "1ru2nu4Yghss2U/CkgwL709CdB4+Jpt+g4coizZa41pkgs13kFEN/iuJ88BYyfQIx4oqD/1p1znrq/+PJOTdePsoERGFuWG5yTyp7KCFZ/m9AidWSoE93RKSzYS+OIF1MkEw8Fsp4huc49EuBwr10WW7ho3LtrAAbxwici7+DR48QceRF4m1uitQgrIPE2XFMxbtWMvZucBlLbqoClzPxyzaPZFG9+/czQDtr9mPbngzfBX9RgSoENS/hcwRGp5ncaoPDjyhMjZLkmMVBHGMiDsUd//wF32MivotVmKGQKDNGL2L0+lFYskr957GALPUsECoxfhRjaVhRMAwy4khXcgpdCV1Lhx1zmCGxR7cqQ8LbZRXGVEjjUiExE+Bkq7ZvqpnUL1G4NRBWJTL4+CSbw1kvP8ve1GJk0mWu18JAU3R1jVG/9MumXmsXXATNVXnneq8mtr9Y+4MBAbf+rirhWGZMWoZKrJpN4asNbpWd2QROAVaLU2s6jb3UhEsd9EFJ+XOJgMnpLtSM6akfu4A7w==;0SSum1R5eAjNGXHKJTJRoA=="
 ---

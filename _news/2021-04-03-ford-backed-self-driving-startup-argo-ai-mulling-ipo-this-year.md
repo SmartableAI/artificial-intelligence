@@ -1,26 +1,31 @@
 ---
 category: news
 title: "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year"
-excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder,"
-publishedDateTime: 2021-04-03T12:14:00Z
-originalUrl: "https://www.bloombergquint.com/markets/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
-webUrl: "https://www.bloombergquint.com/markets/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
+publishedDateTime: 2021-04-02T22:35:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2019-02%2Fa56f8587-4af9-4078-82b5-89a700a037c0%2F331150579_1_4.jpg?rect=0%2C0%2C3600%2C1890&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -38,7 +43,25 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Researchers develop new AI based early warning system for self-driving cars"
+    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
+    publishedDateTime: 2021-03-30T18:13:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+  - title: "Chipotle invests in self-driving startup Nuro"
+    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
+    publishedDateTime: 2021-03-30T12:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 4
 
-secured: "3UBt2hOqOzCUrdIxot+n4SoaC/RdL8cw5g4iKczu2fwaPRDdyQdPTDoL9nO9EEuarZxdvP5vRaJHI9KxzK+S5Edbpzy92FLAPegDJ41qDbGcB+ug3IJa3QCx1V1lBvheWWk3CAgyYCFPFGhMRXUvcKR+0ubsitf0W3Vl6k7vTUiUf14FjCj9ZPCDRLaD1ykI4y8yxmRnoxJ1ZdA3hw8m4G3HbXw4DAjAHkYP4S3u1pEgo6Oyk2XzeKMWkpLMVwGYS9kJzRP0w4zS4ybBj6oBsoFcy54900cnEvHYShGy5z4HIq5GIYKl1T+IoyLGEWiRp9lxLsBSA7gZDRFsSZj19fucM7t0VmO/aO3Ol9ZjLUg=;DYwPy4tbG5ny6YoGmCRrnQ=="
+secured: "ErN2vdBEjLVxCQnJuR3v53KisexEptvvfPzDXXcoyQkAYIk6U0Kj9Ym4kzUy4Fe1yWgXBtgB02ONrcluj3nBZ1oWSRJ9n16S7EDgn3cSBI6/BTDQJNzaTHb7NcjkSjI3/VHt5uCPmGw6NPcnTKImMSsKo30KKjBfzjVtbHCvL0pRVzki6ZlobBwR3i6HExvhqS9H9W4Se4ZWcQc2qeSoFyR0+M92ITFQRx4HlRafWw2U+5yxzRJBppYWvqhFQ6Ypca9tZ29s5Lwp3HoCji8GW2XYsXKYGhxccqcY+wHtqMWfKqestcAF0t8PVs1uSk8KEiP/C58vi3b4HqP+t224X4l0mx7tqdJF9eeFYXjSI7M=;15jwlxA0S57+HNZV8y2caA=="
 ---
 

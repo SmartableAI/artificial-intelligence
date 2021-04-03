@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-Driving Car Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
-    excerpt: "MarketsandResearch.biz proclaims the addition of a new report titled Global Self-Driving Car Market Growth 2020-2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
-    publishedDateTime: 2021-03-29T21:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
     excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
     publishedDateTime: 2021-03-31T06:47:00Z

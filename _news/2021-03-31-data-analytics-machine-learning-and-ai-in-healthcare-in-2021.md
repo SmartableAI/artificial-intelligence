@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: ZDNet
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data, analytics, machine learning, and AI in healthcare in 2021"
-    excerpt: "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially."
-    publishedDateTime: 2021-03-29T21:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg"
-        width: 750
-        height: 579
-        isCached: true
   - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
     excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
     publishedDateTime: 2021-04-01T23:49:00Z

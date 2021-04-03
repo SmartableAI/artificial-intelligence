@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city"
-excerpt: "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far ..."
+excerpt: "Baidu said on Monday that 35 of its robotaxis ... Chinese authorities require self-driving car companies to have human drivers behind the wheel or in the back seat so they can take over driving ..."
 publishedDateTime: 2021-03-16T08:36:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
-ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city"
 type: article
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079084.jpg"
+    width: 1240
+    height: 697
     isCached: true
 
-secured: "aqh+tEGTmIIQPP1bxBA9YmaEpAUttSTYtRwOg/oZu+UiQPLNmaKiDUbwx++g+2aqQ4/b1mFAAEyClbsSr12Vdgw+BXc11s32SDP1D/fMBts/pR6hzb3RyZhzkTSZt/JsGDZ1VkX8Y/mthi8Q7V+2iKyj071W7r1fCWvxxMi0lYgm9z23dNHNvLXMJ+Pgg7m2U+McJdUdPkV8nk88M97/F28+7meCfv6sXyiD/l4EgReYDxCr9ea9oySr97TaFLsUzzCFqacDGAv560M/5DW4pgxFYy5ViLV/sPsq7vexoxWW8BYHXf5bJ+Qb6JhIOEBr8OIldnkGnzQTezGFFR67up+7+3uBw16LHVy/ZXOtlRA=;GEfeHG2/IEV5vDi8mX29Ag=="
+secured: "KnV7D7AQ97KcEK/j/1UxVH1V8Yg9DHewJlyEOSn3vUHzdkwwEzsPBa2eybE2iCVGWvLBcArf3TT4d7NU0zGC4PEYfuMlHCJNGslufGWK1dycvGCHaFMFurtQteRmjlR0BDCHYr/hme3Khrsf8iH/7b7x84ssOUyvU+KLC5MBcGMcNFAW3cRUIxUWn6ZBJPAoNbuGz3LHEz/GRaILMzk5dPFJHmcXk/1a8BscEjhls/aDeYGtMfNJza78/AkxJVF8kDojL3+KPbvr/3GTMV3n3G9vH04M2U6nzAYIc8hArzRgYF40SKm3CQWCUqToTC3t5BZiNXbgEsasc69LybteZJhwomyzTWUJAn4kJhIDDMM=;rx1NVaSqX2z1S5/SLey4Ug=="
 ---
 
