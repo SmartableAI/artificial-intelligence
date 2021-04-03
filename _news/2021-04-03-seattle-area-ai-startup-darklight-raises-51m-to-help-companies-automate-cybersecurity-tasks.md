@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-rais
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Cybersecurity Artificial Intelligence algorithms, Invented By Dr. Waseem Awwad"
+    excerpt: "How it works The invented algorithms use artificial intelligence that depends on a set of advanced criteria and sciences including psychology to analyze human brain cells, targeted person environment, and their backgrounds, and successfully guess a huge ..."
+    publishedDateTime: 2021-04-02T21:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20470500/new-cybersecurity-artificial-intelligence-algorithms-invented-by-dr-waseem-awwad"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20470500"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20470500"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.getnews.info/uploads/573b2f836f5ed618158fb9a0a06545ca.jpg"
+        width: 436
+        height: 480
+        isCached: true
   - title: "Kintent raises $4M seed round to simplify cybersecurity compliance with AI"
     excerpt: "Kintent Inc., a startup helping companies comply with cybersecurity standards such as HIPAA, today announced that it has raised a $4 million seed funding round led by Tola Capital. The venture capital firm was joined by several prominent angel investors."
     publishedDateTime: 2021-04-01T18:57:00Z

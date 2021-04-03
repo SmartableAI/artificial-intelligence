@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "University of Hyderabad kickstarts first online AI & Machine Learning diploma course"
-    excerpt: "\"So far, AI has primarily been used by the private sectors for commercial usage. The mission of the government is to make AI accessible to all the sectors of society,\" said Dr Saraswat. He informed the participants that the government has decided to ..."
-    publishedDateTime: 2021-03-29T05:36:00Z
-    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/VCNGHaaaa.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "7dFNnmEwrU9p59YFX3SILWkKTu8tgfIW6Y9IJIoUk/3QFS5Ib5tZtXRJWScVJtIugSyZmmnOcRn+WspjIAQjTOoJkLketdJJw/Adyz8+prbyEMo4MB5X8AslOkySLg9OPKd2m5GPqBXLZNAURO4wRIB3D5LKUO0xuFPEgWmN/zkMhqqCtyV0p3HijLMD815bPHrvxb67j86zGOgjt3BDHpcCTrh76Y7fm4x+VkAO399d6pRvk1guzhoWAswTa9G6nqn88TN+bVKbCCOyw1vL88cB6Ppc0AuTF//BYL5bYrotGtGBKdMlG4f4j9KkdlRC8+zEG3qsnV2Frmk/PcTxFcNkg/NsC2sHXuABOT33C4M=;KxiKsgIBGYIT2FBZ33yEcw=="
 ---

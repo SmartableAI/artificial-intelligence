@@ -122,22 +122,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
-    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
-    publishedDateTime: 2021-03-29T06:56:00Z
-    webUrl: "https://www.openpr.com/news/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/3/U329196813_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
     excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
     publishedDateTime: 2021-03-29T09:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo CEO John Krafcik to step down from self-driving car company"
+    excerpt: "John Krafcik, CEO of Waymo, said Friday that he's stepping down from the top job at the self-driving car arm of Google parent company Alphabet. Krafcik will be replaced by two executives who'll lead as co-CEOs: Chief Operating Officer Tekedra Mawakana ..."
+    publishedDateTime: 2021-04-02T18:59:00Z
+    webUrl: "https://www.cnet.com/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
     excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
     publishedDateTime: 2021-04-02T15:03:00Z
@@ -123,6 +139,6 @@ related:
         height: 281
         isCached: true
 
-secured: "os5BFv3LIvOFA60VJ2XsXpmTgQ63ccKvRnO2h9DfcwWJSyIsInvjeDPDI0CDpekv0I92fvztnQ6VwsHE2HpYr4CkUCZvY/DQQ1D8cEyFnwGrPn1eFepZ0xKX/AlsOPAsCz76OryncKY2K062BHW1EzFP4vWLi32mJ0d3am0wmm498IsSqeDByVPV7iIJ/llUtZbwZr+dx9Kq3Xyz+8EjTFNYXHZ4a1YHDZGejFmtAdJ8f7XROoIWx5ttQUxLidd2gvnDMtRlDnXX6FwrrMxYjrH7eotc5dv4tuBmPvTAhcchlxyXF7tVk/jWmD6/n/WqK1co4WlGR9Q8GIldMfg2x5/F5c/Qb5rAO8S3IXFEqog=;VeRmj5XY4IVkRAqE5ja24Q=="
+secured: "DtCe2E4izLojKohr/bGzaTmk9MSWv8Upejopp9WPk34YQuEcyNUpKeI5uUxxVM1WyJ3gt2UUAj6U1H71LhqYwSxm9Gua/4JVPg36auqbxavHLcIZ5eWV9HDLpMkmfgRRfRfpMKijvKqp3ajv55YOWrV/e8WYr3PZOqKv2kdBRn55QpKoKukFMl0JUlKCXpuYxJko2aCoEa11I5ljYsit/OVWSgmZx0zNLCZd1aXEJ9hLuaIhhpiBAJPm/Kj41C5XpbKmfzOZFX3uL7NiiPOncp4cO8acAjk26uo75ssn7QXdBEHCYc/QbK/P7UDdE5ee61P5DLEzW7ai7fmBARCea0F7KcU91IWUWoL6Ep9NTvqbyFQNld7tsxTSTGwmr9HM90KmSLmP0r+dfTO8NYpjXuBwVTyqKesaNly8FbpUBSwhkDcMtqGWhkYK2ctc98YuE2kKo1fInjrlIRJtJcC32mhsqbpXHJfg1SU/WT3KWsnbVmZJx9HfdMKu55dT2Z7RJPM7OnTgKV0P2h0wS+kvJQ==;qpxopivn4Pv4XyVZIDMi3w=="
 ---
 

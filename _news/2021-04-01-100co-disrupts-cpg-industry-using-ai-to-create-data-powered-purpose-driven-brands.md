@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19729449.html"
 webUrl: "https://www.lelezard.com/en/news-19729449.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "AI Innovations Powering Data-Driven Care Delivery System"
-    excerpt: "The healthcare and medical industry has evolved over the last few years. In particular, artificial intelligence in healthcare alone has brought about revolutionary changes in the industry. A variety of AI-fueled innovations have transformed the landscape of AI in healthcare."
-    publishedDateTime: 2021-03-29T06:56:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-innovations-powering-data-driven-care-delivery-system/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-in-healthcare-1.jpg"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "dbIqsdvK9vnKZagUX43bTdVJM04+I4e2yHw6s8pbdle94C2bTBop3/8LWS5x+49OsAgX2jhNBYtZKax4yiy/m3FkY2YlnWyt5iPQAwEKovSGxSJJ2NOocYAlffKwN6+hibo97WTQrA0NaB5F8/OBDcxWRbYFXjfrltsKazh4LfB7rikfeIuvhKW4V0UOoA5h3eE8YmDenw1p1aTglqQ8m1i+E5vo4XtuLsxRC1w9M65U+awGK2Z3W8thWurKVDAlNzIpNqmPur6UUviZc1rPeDsraZBnpFhHaB9vunVzyXh/LPwDNc908DrHdrkMBgXmrJ3U/ugxLVYxitdZnngmIB5yZV+EWn6dSKYxi5yTqg4=;nVVTdd2jfftkVx3x41NxYg=="
 ---

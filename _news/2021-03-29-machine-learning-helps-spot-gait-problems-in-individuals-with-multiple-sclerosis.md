@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individ
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can monitor and predict the progression of multiple sclerosis"
-    excerpt: "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues."
-    publishedDateTime: 2021-03-29T05:34:00Z
-    webUrl: "https://www.news-medical.net/news/20210329/Machine-learning-can-monitor-and-predict-the-progression-of-multiple-sclerosis.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210329/Machine-learning-can-monitor-and-predict-the-progression-of-multiple-sclerosis.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210329/Machine-learning-can-monitor-and-predict-the-progression-of-multiple-sclerosis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Girl_in_wheelchair-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine Learning Catches Multiple Sclerosis-Related Gait Issues"
     excerpt: "A machine learning tool uses gait data to help clinicians monitor the progression of walking problems related to multiple sclerosis."
     publishedDateTime: 2021-03-29T16:27:00Z

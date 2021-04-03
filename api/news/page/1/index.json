@@ -150,6 +150,59 @@
       ]
     },
     {
+      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
+      "title": "An artificial intelligence tool that can help detect melanoma",
+      "excerpt": "Soenksen, a postdoc and a medical device expert currently acting as MIT’s first Venture Builder in Artificial Intelligence and Healthcare. Soenksen conducted the research with MIT researchers, including MIT Institute for Medical Engineering and Science ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/ai-skin-cancer-detection.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-seattle-area-ai-startup-darklight-raises-51m-to-help-companies-automate-cybersecurity-tasks.md",
       "title": "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks",
       "excerpt": "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ...",
@@ -158,7 +211,7 @@
       "originalUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -261,7 +314,7 @@
       "originalUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836?mod=newsviewer_click",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1173,58 +1226,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-hbo-spoofs-elon-musk-in-chilling-ai-series-that-premieres-april-fools.md",
-      "title": "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools",
-      "excerpt": "SXSW 2021 offered a lot to AI enthusiasts but the highlight came with the screening of \"Made For Love,\" a sci-fi comedy thriller that spoofs Elon Musk and debuts on HBO April 1. Starring Cristin Milioti,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054ca013a6cf54a6b6daf95%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

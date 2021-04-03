@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
+      "title": "An artificial intelligence tool that can help detect melanoma",
+      "excerpt": "Soenksen, a postdoc and a medical device expert currently acting as MIT’s first Venture Builder in Artificial Intelligence and Healthcare. Soenksen conducted the research with MIT researchers, including MIT Institute for Medical Engineering and Science ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/ai-skin-cancer-detection.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-google-offers-free-online-training-and-certification-in-artificial-intelligence-and-machine-learning-check-details.md",
       "title": "Google Offers Free Online Training and Certification in Artificial Intelligence and Machine Learning, Check Details",
       "excerpt": "Google is offering free online training and certification in artificial intelligence and machine learning in fraud detection, chatbots and other topics",
@@ -254,7 +307,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -551,7 +604,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -604,7 +657,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1428,49 +1481,6 @@
         "AI Ethics",
         "AWS AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
-      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
-      "excerpt": "Neural network training could one day require less computing power and hardware, thanks to a new nanodevice that can run neural network computations using 100 to 1000 times less energy and area than existing CMOS-based hardware. Training neural networks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

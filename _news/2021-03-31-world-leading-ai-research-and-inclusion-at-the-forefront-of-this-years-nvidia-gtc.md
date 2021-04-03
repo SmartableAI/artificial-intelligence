@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA’s GTC: The Near Term Future Of Advanced AI"
+    excerpt: "One of the major trends this decade is in AI development, and one of the areas that are moving the fastest is Automotive AI.  It has become such a In general, AI has favored GPU technology for accelerators and has become a massive driver for its future potential revenue."
+    publishedDateTime: 2021-04-02T22:14:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidias-gtc-the-near-term-future-of-advanced-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/network-3537401_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Why the future of Artificial Intelligence-based Security Market is bright | Nvidia Corporation, Intel Corporation, Xilinx Inc"
     excerpt: "Artificial Intelligence-based Security market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence-based Security market will be able to gain the upper ..."
     publishedDateTime: 2021-03-30T13:37:00Z

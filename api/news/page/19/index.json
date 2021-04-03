@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-17-tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall.md",
+      "title": "TCS Named a Leader in SAP Cloud Migration Services by NelsonHall",
+      "excerpt": "Tata Consultancy Services’ Crystallus™ Offering, Industry Cloud Focus, Tools and Automation Assets, and Broad SAP ERP Cloud Migration Experience, Highlighted as Key Strengths.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
+      "originalUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
       "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
       "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
@@ -1125,51 +1159,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
-      "originalUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
-      "publishedDateTime": "2021-03-16T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

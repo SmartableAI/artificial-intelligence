@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Waymo CEO John Krafcik to step down from self-driving car company"
+    excerpt: "John Krafcik, CEO of Waymo, said Friday that he's stepping down from the top job at the self-driving car arm of Google parent company Alphabet. Krafcik will be replaced by two executives who'll lead as co-CEOs: Chief Operating Officer Tekedra Mawakana ..."
+    publishedDateTime: 2021-04-02T18:59:00Z
+    webUrl: "https://www.cnet.com/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
     excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
     publishedDateTime: 2021-04-02T15:03:00Z

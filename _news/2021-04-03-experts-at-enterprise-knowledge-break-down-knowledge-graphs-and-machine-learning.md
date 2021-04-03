@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Experts at Enterprise Knowledge break down knowledge graphs and machine learning"
-excerpt: "KMWorld held a webinar featuring Bess Schrader, senior consultant, Enterprise Knowledge and Joe Hilger, CTO, Enterprise Knowledge, who discussed how to get started with knowledge graphs and machine learning to achieve Enterprise AI."
+excerpt: "From automated fraud detection and intelligent chatbots, to dynamic risk analysis and content-based recommendation engines, knowledge graphs coupled with machine learning are becoming the go-to solution as enterprises hunt for more effective ways to ..."
 publishedDateTime: 2021-04-02T18:45:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146109"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146109"
+originalUrl: "https://www.kmworld.com/Articles/News/News/Experts-at-Enterprise-Knowledge-break-down-knowledge-graphs-and-machine-learning-146109.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Experts-at-Enterprise-Knowledge-break-down-knowledge-graphs-and-machine-learning-146109.aspx"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     height: 594
     isCached: true
 
-secured: "0iO/2+kQxyLXMhA3iETjwI90F0unO9w7OHCGexgbLy6e2GZAbqEJCT7MYnHGvZCkuu/ENYAg5CbI4gaxKLeLncQs0Y6Uk3y2CMUmXO5KNTREz9axPR5tBNh8P+BP+Ia4eupYf/fK4ryV1WUkrI7IyLry8X3Xm3mUbkS4vXhxYKfnQUP9jbyB04kACMdV1VAdtHcuHmoCVEnwlsAgyeKJpug+hwWpuQJHHK13xWiYt7JsiMKeMDYNY1gAlukKpbNJWIgpkOCRi7uCuJpY1bURFOnNkEnce9FdpI9KT5gWZ93XRkVElHp1H2nvoj2lLKRkcQnDerglrkjLDd7EdQO5ekEjL783rTsIDy4kP7Y/axo=;eI+zVLCfodNvjZY65r7Mgg=="
+secured: "e5IANwl3nynz/E7VsIkoT+jls/tb1KK3wOOWsN98l0h4d2FStluQ9CCNZDwDUoe2grwjE9ZgVKBIgQ3hQGq8TD5wZpGSQ5getY+K5VytCR8SeWbS3/Jp6ErbAXStKGbfX8b8B9dQlX54ZGRUAGlxS+CJFYm6UkPKi3hMmv72WHWpLwP2IngKU18aHNn+RIr4YtcptbW8eebVJIiVyLAnyA7Qg29dWg7Ex6WAk+YG+hDn/jKt4yUms1OZkN+jVMBD1h0w2OqRNJDGM7p40021Aez7+y3Gtw5ufGYMmPJUk/53EvIW/G2JgY1Hxpx0RSqB2VNPyKoxoKQJZVGljbusGlY34OY/XLt7eARs0k2DNNk=;KvAM1Qd8yrgY8lYZ+n2kSA=="
 ---
 

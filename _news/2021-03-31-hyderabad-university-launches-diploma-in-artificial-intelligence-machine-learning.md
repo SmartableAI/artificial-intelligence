@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/hyderabad-universit
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of Hyderabad kickstarts first online AI & Machine Learning diploma course"
-    excerpt: "\"So far, AI has primarily been used by the private sectors for commercial usage. The mission of the government is to make AI accessible to all the sectors of society,\" said Dr Saraswat. He informed the participants that the government has decided to ..."
-    publishedDateTime: 2021-03-29T05:36:00Z
-    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/VCNGHaaaa.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Hyderabad University offers diploma course in Artificial Intelligence and Machine Learning"
     excerpt: "In the inaugural batch, a total of 702 students have been admitted already. The programme is completely online with few contact classes at the University of Hyderabad campus or virtual mode."
     publishedDateTime: 2021-03-31T08:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-dr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

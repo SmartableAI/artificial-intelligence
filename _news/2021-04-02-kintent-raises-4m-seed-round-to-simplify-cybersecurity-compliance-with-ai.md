@@ -41,6 +41,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "New Cybersecurity Artificial Intelligence algorithms, Invented By Dr. Waseem Awwad"
+    excerpt: "How it works The invented algorithms use artificial intelligence that depends on a set of advanced criteria and sciences including psychology to analyze human brain cells, targeted person environment, and their backgrounds, and successfully guess a huge ..."
+    publishedDateTime: 2021-04-02T21:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20470500/new-cybersecurity-artificial-intelligence-algorithms-invented-by-dr-waseem-awwad"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20470500"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20470500"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.getnews.info/uploads/573b2f836f5ed618158fb9a0a06545ca.jpg"
+        width: 436
+        height: 480
+        isCached: true
   - title: "Cybersecurity is key during digital transformation in the financial services sector"
     excerpt: "In addition, the cloud enables artificial intelligence (AI) and machine learning (ML). The move to the cloud became imperative during the pandemic-related shutdown in 2020, as the majority of financial services workforces needed to work remotely."
     publishedDateTime: 2021-03-31T16:19:00Z

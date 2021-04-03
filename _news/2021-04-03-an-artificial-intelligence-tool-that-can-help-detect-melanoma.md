@@ -6,9 +6,9 @@ publishedDateTime: 2021-04-02T20:47:00Z
 originalUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: news
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202103/ai-skin-cancer-detection.jpg"

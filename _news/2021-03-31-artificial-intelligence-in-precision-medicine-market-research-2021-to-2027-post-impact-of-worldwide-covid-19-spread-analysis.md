@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Growth Outlook: How COVID-19 change the picture of AI in Construction Market"
-    excerpt: "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought"
-    publishedDateTime: 2021-03-29T06:16:00Z
-    webUrl: "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/3/U329837683_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
     publishedDateTime: 2021-03-30T09:45:00Z
@@ -52,6 +36,104 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-03-30T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Impact Of COVID-19 On Natural Language Processing (NLP) Market 2021 Industry Challenges Business Overview And Forecast Research Study 2027"
+    excerpt: "Apr 01, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Natural Language Processing (NLP) Market The research team projects that the Natural Language Processing (NLP ..."
+    publishedDateTime: 2021-04-01T11:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
+    publishedDateTime: 2021-03-29T07:41:00Z
+    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
+    publishedDateTime: 2021-03-31T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
+    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
+    publishedDateTime: 2021-03-31T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-03-30T09:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self-Driving Car Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
+    excerpt: "MarketsandResearch.biz proclaims the addition of a new report titled Global Self-Driving Car Market Growth 2020-2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-03-29T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,6 +166,34 @@ related:
       - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
+    publishedDateTime: 2021-03-29T14:21:00Z
+    webUrl: "https://menafn.com/1101823827/Cognitive-Computing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
+    publishedDateTime: 2021-03-29T11:35:00Z
+    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "FNKIshBekxusH4pQziWJjHKAxn+hjGgu1ajsBIJi6g3XFrjHYq0Yhwo/Rp0jNz8Ucn/38YKMoVQFhigLgk188dF5YGW8P8h8nIKJlU/41mi8D0VOUGaLtGM6LAf8NY/3qXOEnD7yFdlSOghZmgGQvlI2JJnMLL60d0SRUeWOjTU1EsuN+Dc03t9Gyu5QFNwDfEO7GhK3c05Qx33VIo/aq+AyaupLPNCYHrNT8d6Dywwox9tw2ympiQYkK3A/ddVA6hv8Li0tmH1pV1TaFTqIB0gWMj/0FB5hJVLzfylOtcLVOEKzhsJzkuvCwC3qi70tYZI8XXyshzRVyIXEHgPtV2nWCo+hE6IIGCbEW2ncFQl0T9txNQ8Kw3f81u1aN021ZTqUvSWZOEaC53PeAvhSAd20AkaQ2Jy/3LdL/l+T+NywA9O7vtVARBQZFhZY+HTGz4hFRTsFYZ1P9jU4dctWEtOIfbV1uZfiFtb+VfvT3NfSFz7wKsyRxHP3D0GtIDIkJa1EQe9IQSemPHI/patKSQ==;qnbj90NfFmWZb/SMKt8Lxw=="

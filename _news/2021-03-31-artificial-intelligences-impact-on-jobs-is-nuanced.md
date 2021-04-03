@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joemckendrick/2021/03/31/artificial-i
 webUrl: "https://www.forbes.com/sites/joemckendrick/2021/03/31/artificial-intelligences-impact-on-jobs-is-nuanced/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

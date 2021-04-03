@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-23-metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial-intelligence.md",
+      "title": "MetiStream and Carilion Clinic Partner to Improve Surgical Quality Using Natural Language Processing and Artificial Intelligence",
+      "excerpt": "\"Carilion physicians know the ins and outs of reviewing surgical quality data. We are experts in Natural Language Processing (NLP) and AI,\" said Chiny Driscoll, CEO and founder of MetiStream. \"Together, we're the right team to address the long-standing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
       "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
       "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
@@ -1146,49 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-researchers-are-helping-artificial-intelligence-understand-fairness.md",
-      "title": "Researchers are helping artificial intelligence understand fairness",
-      "excerpt": "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/teachingaiwh.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp",
-      "publishedDateTime": "2021-03-22T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

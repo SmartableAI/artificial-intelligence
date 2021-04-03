@@ -132,22 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
-    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
-    publishedDateTime: 2021-03-29T06:56:00Z
-    webUrl: "https://www.openpr.com/news/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/3/U329196813_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "zTKHTz2sHJGoKgdTQ4s1WYyIihfuku7dKEQkIjYK/MB9Z13SMflB70KmQL9dJU0FeeIMJtyeoRav2Y82UQb6qPzLSy9aBT4QXGcd0wEhPGsT3LFQ5UCbROc61DPge29fy1LFMouGBn00lhCzZ9JZAET47f24LX54EYJ0HnfhIAdpFh53P+ZlogjXmv/bgMcFpQp+MBWcIx8RswJrimQ0f3wAtK+RP1jSqbmaIWgFgbdxTsd0nYJcAHPNp2rRIc7i/wP16pxuVUXA7Tb3t1JC88N+f0oJeb4WbUCLP5w1D2NjLJUFbZWI2J56hJYr6gw5euwUi3Hm1QfR/q0dwtaBIeOTPukgSF7aYPrDO3QXvw8=;kVMthoQ1WNlL/4QKZIPe7w=="
 ---

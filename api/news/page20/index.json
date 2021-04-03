@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "originalUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "publishedDateTime": "2021-03-16T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1.md",
       "title": "New 5G and AI studio opens as part of collaboration with IBM, Samsung and M1",
       "excerpt": "The studio will support Industry 4.0 use cases for everything from autonomous vehicles to collaborative robots and 3D augmented reality.",
@@ -542,6 +587,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
+      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
+      "excerpt": "Baidu said on Monday that 35 of its robotaxis ... Chinese authorities require self-driving car companies to have human drivers behind the wheel or in the back seat so they can take over driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/16/baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079084.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-ai-and-x-rays-identifying-the-many-faces-of-covid-19.md",
       "title": "AI and X-rays: Identifying the many faces of COVID-19",
       "excerpt": "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients.",
@@ -728,58 +816,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
-      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
-      "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far accumulated 524,696 kilometres of test mileage. The city is one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "publishedDateTime": "2021-03-15T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1160,58 +1196,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-sherpa-raises-85m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services.md",
-      "title": "Sherpa raises $8.5M to expand from conversational AI to B2B privacy-first federated learning services",
-      "excerpt": "Sherpa, a startup from Bilbao, Spain that was an early mover in building a voice-based digital assistant and predictive search for Spanish-speaking audiences, has raised some more funding to double down on a newer focus for the startup,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "originalUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-931422334.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "publishedDateTime": "2021-03-15T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

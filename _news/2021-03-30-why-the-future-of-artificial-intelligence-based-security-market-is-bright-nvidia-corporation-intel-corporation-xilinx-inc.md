@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NVIDIA’s GTC: The Near Term Future Of Advanced AI"
+    excerpt: "One of the major trends this decade is in AI development, and one of the areas that are moving the fastest is Automotive AI.  It has become such a In general, AI has favored GPU technology for accelerators and has become a massive driver for its future potential revenue."
+    publishedDateTime: 2021-04-02T22:14:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidias-gtc-the-near-term-future-of-advanced-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/network-3537401_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "hhHMzUx1zdZOATm/O8rvLdQzpSoxVr/w60PmPDA5Oyjxz2Mk4UVmiEV5G6K3TZl48xPJ7DOwzpg5YaFGm6ov6Q8mpuddMhFr0iCo/ws67Y3QOuhI8mbf4QInXs8bNPcvJgexCJGTiZc3Ho0G08r1pf+wsSsmqEaFfGIQx7v+XKiMktA3u3Q4DpPSKdCmudMdMMpUR1eRNMVeRoqJ34Z1mvvvrd5RWtHvBEE3QkNPMzjxW/503lu7906M61oGa8WshAOdSJQY9eCxzi8E+8um/gBCvf0EsiDVTVfwVlDdl6ZK7xz0Zkvc29pyYQsocwRclah9U2ldFvDqiZP+22AamaFAD78nDjwyEfKHCfqlSZk=;iIB/Hmcd0hGMYxGc/fCVfA=="
 ---
