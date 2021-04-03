@@ -1,32 +1,28 @@
 ---
 category: news
 title: "AI Opens the Door to Smart Vending"
-excerpt: "Find out how Shekel Brainweigh is giving retailers and machine operators better control over inventory and gaining valuable customer behavior insights that benefit consumer packaged-goods companies."
-publishedDateTime: 2021-04-02T16:06:00Z
-originalUrl: "https://www.infoworld.com/resources/216707/ai-opens-the-door-to-smart-vending"
-webUrl: "https://www.infoworld.com/resources/216707/ai-opens-the-door-to-smart-vending"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2021-04-02T16:03:00Z
+originalUrl: "https://www.cio.com/resources/216707/ai-opens-the-door-to-smart-vending"
+webUrl: "https://www.cio.com/resources/216707/ai-opens-the-door-to-smart-vending"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "FjXnKb3bWpLQl+RtbHx3bF+SuLgCql8E9hKdQE9I1DlJ6jQhzaF6zA3ZScKoljBezIcUxZOaVoBXJj4cEl0gkJ8Jo3mVfTrtHKtg2Y7a63yll3XpEAQTScYn9wFoeOEFZbxG0qnMel/IggMa71v+S3ACIERELwPyKvajJztMc114sTjj0tpR2kkxXebkd5wIM0kP0lXD2xZmJEGTJEhKL8fkpLNG0IbDZFkUYkhHa03u2agH0ewWYDewgdcY45z/ruZzGcrLzeTG2Wm1hYENk5UVw5J78FdjxLhCkp8ImXvL8wW2ZGi9EYcWAA1URQ8JFjGPtiMJtEIQ5qfgT86y2OJO+hDlnIqWSfPAjBZ8k9rweL+CF8zlNyWWKxGjidg0KLMh+pfoqqmThPoXD62uZs0pWygIIj+L+VsCceJXQsMTP1ix0y/cWNWa92GlH6Bf+Er4ze/+y9mwlgHrA50PeqkPXwPmgfsEHkg0KHKKWudp31KpaeVntFgkbioXG5DYfoB/ZvOsoZatgW+nvZKcVQ==;dbggQt6gaL7vVFBmK9q7lQ=="
+secured: "cVvGge++xZCq8rndFqnM4M5jUJBZYJdEms9723MILzyn1m/97oLs8/QQ3LWlZFjKCSxt7dgPwusjdPvAFc5Bn0G3P8vxWZzpJN/u6nyYeh/ptwYfXuJFvC1otTJTtXCOGIL2fL3TkB4zCES2xJ+kJ0hPnMY2nLBk+3glHdMU0+5B5kbo2LkFU5fVV08gtKIdlK44jdb8mHLaUtAlwtwP32Bs7EA502rff4twWa+KWFJ4F6TmkSLWC84gOX4x6bbL9Y0/7gY0QwFenhEUK8EEZxkXUB4VjE2czxwMR1+RkVV9vg6E5ew4GCZUcgw5fMA2uAN6yEu8HvW/RB/yVA6jA9dCuC8zenxbQ2iiAv8eZnU=;FSt7GjuBEqIjnjDVYXNyiQ=="
 ---
 

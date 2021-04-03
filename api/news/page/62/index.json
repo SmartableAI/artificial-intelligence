@@ -2,49 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
-      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
-      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
-          "width": 754,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "publishedDateTime": "2021-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-15-salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive.md",
       "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
       "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
@@ -1211,6 +1168,58 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across.md",
+      "title": "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across",
+      "excerpt": "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-13T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     }
   ],

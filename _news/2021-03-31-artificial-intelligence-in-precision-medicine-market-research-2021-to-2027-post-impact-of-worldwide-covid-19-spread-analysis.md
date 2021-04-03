@@ -139,20 +139,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
-    publishedDateTime: 2021-03-29T14:21:00Z
-    webUrl: "https://menafn.com/1101823827/Cognitive-Computing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "FNKIshBekxusH4pQziWJjHKAxn+hjGgu1ajsBIJi6g3XFrjHYq0Yhwo/Rp0jNz8Ucn/38YKMoVQFhigLgk188dF5YGW8P8h8nIKJlU/41mi8D0VOUGaLtGM6LAf8NY/3qXOEnD7yFdlSOghZmgGQvlI2JJnMLL60d0SRUeWOjTU1EsuN+Dc03t9Gyu5QFNwDfEO7GhK3c05Qx33VIo/aq+AyaupLPNCYHrNT8d6Dywwox9tw2ympiQYkK3A/ddVA6hv8Li0tmH1pV1TaFTqIB0gWMj/0FB5hJVLzfylOtcLVOEKzhsJzkuvCwC3qi70tYZI8XXyshzRVyIXEHgPtV2nWCo+hE6IIGCbEW2ncFQl0T9txNQ8Kw3f81u1aN021ZTqUvSWZOEaC53PeAvhSAd20AkaQ2Jy/3LdL/l+T+NywA9O7vtVARBQZFhZY+HTGz4hFRTsFYZ1P9jU4dctWEtOIfbV1uZfiFtb+VfvT3NfSFz7wKsyRxHP3D0GtIDIkJa1EQe9IQSemPHI/patKSQ==;qnbj90NfFmWZb/SMKt8Lxw=="
 ---

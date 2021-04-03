@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
 type: article
 quality: 54
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
-    publishedDateTime: 2021-03-29T14:21:00Z
-    webUrl: "https://menafn.com/1101823827/Cognitive-Computing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "+VDeJbuJUIDWVFWXGBr3tax43nTRaPc5Yg6HJa73eJNM26VujA1oLeeZjrs/XDvxmwIEtM3/NWso/9xAOEMtRBMZ5NAFwKcqKSY8EY6uG2BE8dDW58S1BSAFWlRj1GcHq3R8btQUdNKLmKnGjePeM3J0GubPmK6UUN8+kWhZu5Dq94sgM9Ydj63Tro/eWkh3rtAfH+LDFv8pirQE1E3ZIoU6a3WAo+EMzaHlfIkfH4VwDcIZYVhNix1WwWq53fv/3ybrdRvsZ1GKCKr0NLidkP2N2E2SOCVUBJtrSQVVC36Rw0Dr9GW3wHv4XjcOWbYTk9BV2Rn8AKWOPMaqyunVuYq9rPAiXCHrBVu2hKgl3IA=;j5uiYER2e47t6aCKR7QvIg=="

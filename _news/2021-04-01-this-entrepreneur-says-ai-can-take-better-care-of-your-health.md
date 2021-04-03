@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/amp/2021/04/01/artificial-intelligence-in-h
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Euronews
@@ -40,20 +40,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/03/2017-03-23-13-50-17-725x483-1.jpg"
         width: 725
         height: 483
-        isCached: true
-  - title: "Different Takes: Is AI The Future Of Health Care?; Opioid Settlement Money Must Be Used Wisely"
-    excerpt: "Opioid companies are being forced to pay for their grave mistakes and misdeeds in helping fuel the overdose epidemic in the United States. The total in settlements — including Purdue Pharma’s $8.3 billion agreement in a federal case and a consulting company paying more than a half-billion dollars for its role — now stands at approximately $10 billion,"
-    publishedDateTime: 2021-03-29T13:15:00Z
-    webUrl: "https://khn.org/morning-breakout/different-takes-is-ai-the-future-of-health-care-opioid-settlement-money-must-be-used-wisely/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 25
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
         isCached: true
 
 secured: "bvDPa9fMTEJU7kCPD6tne68gBv8RxxzjyMzUZSV6PzkkVJ+Gtt7TfZKIaQNr7nC/13vOYkGmJBPUVJJhqeudb5H8VggEv3lhmjfgO0MpTRRr2aR3tRdwP+Zn41mRfhK8DsBCE7D1yOcdoDWIleZfDkyU9qFaxVz3RpsjrN3bL41476FBxGIS8dRnphlg4FiZdI43LBE8KrJ9VNwm8emcEkDsWEJmtT1RUkXof3b0A3bo1aJfEx+Giap8n7PXafxuBrkQVy+LSKBaG/gxuvBmWUG2/6m5pIXgNe1gvRsVKWtAWrioLhPLgdOhcc9MxTiAATfoJVJU+jNqaVl6w+DuLHZyOY4txQFfa3/kKmbLNBK6rgWo3EKyFPQsn6WYm2pLK6XIDNdDw443eqgWibum4KMh5zMgEBQjAnxj513Q90nRKECmoO4dv86khjDJQpAr33m04Q5xtmWpxAoAlwiJtc0UuYYmrsFvMpAfbjCeqb2qKTFTH6QhOWiXANu3Gybo2wMSuVyF8hV8RYLavtlZlg==;Sdom8vhathsgT1u1XSRiqw=="

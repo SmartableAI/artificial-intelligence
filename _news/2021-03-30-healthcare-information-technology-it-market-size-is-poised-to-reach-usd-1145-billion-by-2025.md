@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Revenue, Demand, Share, Size | Global Industry Analysis and Research Report 2021"
-    excerpt: "The global enterprise artificial intelligence (AI) market is forecast to reach USD 29.09 Billion by 2026, according to a new report by Reports and Data. With the advancements in technology, enterprises are taking advantage of intelligent automation,"
-    publishedDateTime: 2021-03-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-revenue-demand-share-size-global-industry-analysis-and-research-report-2021-2021-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
     excerpt: "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,"
     publishedDateTime: 2021-03-31T14:30:00Z

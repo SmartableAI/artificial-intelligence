@@ -159,20 +159,17 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
-    publishedDateTime: 2021-04-03T05:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+    publishedDateTime: 2021-04-03T05:51:00Z
+    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 24
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "5E71HYk1Pb9gtUcMqJMOyyYxMcXyx1c3Rzsp6YrSQUy09LHwzH1Zp/RiDy1RYKn4EtzPtqS2SbKt/CUKd2L605Q5kq7B+mv1yJIlDa4clifA2fbIZmTg7zpJvLMsdG6V9aWSDzV0r3Bc7ZmJnw7D+qbl7wxPXQWkAHz8vilKpPR4tDEOPvJCXVZeDhlcUlzS0xSrhDCpCd/FDClfA+OEjNZPmr2kS2Nbm0OaEOgtB2+NnPJdUtnCGPuEWwFiP2HJu4xYqaVAed1qRCX2q8KC+O9OYJFkVqnG/pHZGbUNXVjkYmuoqm8n2deqfBJbUBMr/OCSiQYM9Osa3rdPpexZrucwJLNXAfQJLORS8Bf5fj0=;sc4/i2DcU1jz8XBzR/nFxQ=="
 ---

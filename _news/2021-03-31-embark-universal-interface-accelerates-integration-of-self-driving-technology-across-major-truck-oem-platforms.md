@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark’s autonomous technology onto their vehicle platforms."
-publishedDateTime: 2021-03-31T16:13:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
+excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
+publishedDateTime: 2021-03-31T16:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
+webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
 type: article
-quality: 4
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "QIPHLpakhlTaHVDN0J4iOsnWpc04ISVNwuK2dsa7ho2aJSHbDjXKLTjpIbHkkiBDPtRtNKPy80PvflFXiNGFUt8TcpXpUvWkZjuv64/E8bi5MR9HxmjjJAeLhlRCfUCDjqsOE4IPQTLZGeWpJ4jZjzpGbPQeqiAlmymLlS0zRrLZ11t9X01aqadw/TkR2WZvF3MhWv2l1bLdMEPiea4aSttLI965s4i+RQWzx1Fh36PEe83PGOBgEYnWx1IloVBEYHomYCHwKHxJQBpedxlWukwpwST/3SIfRciNMHc8/xxECXtnhWM3crZNf4rlnc08TWrz/x2AFYeelh71Z2b+xbHyH2pOoUXfIN3LNAa4v0U=;vMsIobEAJdwYfQRKmsEMqQ=="
+secured: "BaInAfzGCzXjlk0jd6GBM70ryBDWH8+FAiU85XV93+NwYpWuo0Vp0oDarKHUXoMSlOqZ9wgJIU4qVkpokMgEKsJcUOBnLv+M7sqzRfuU5utHJ1Zdeou++D1F2ZXgzMURExd00YCCvmMZDkmjdsnxP59Rahot9m9RbgpOLxHC3v4p/1ujrlvBf2HtsEABTaH/N5PFFMylQtRH8nVqewKyuSTqLVaQ1ndV+U+TrrJQFlNhxCe/ZV/47gO0PIkeHGsoTPAVm+6mrOkZrS4gX29I1+K6Y08mRAkte5a1Y/jUWtPh2e7Yq8odjcRSTlWhVp4YrUhFHG1BcSa94iVGd7rnoDnaGH82IiwQo+5BJzqRNDw=;lsvlK9NV1c9iK32sF9xrow=="
 ---
 

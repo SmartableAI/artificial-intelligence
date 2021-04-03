@@ -36,18 +36,18 @@ related:
         height: 540
         isCached: true
   - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark’s autonomous technology onto their vehicle platforms."
-    publishedDateTime: 2021-03-31T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
+    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
+    publishedDateTime: 2021-03-31T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "SL2nwwzucBFNVy2pZ0ikqqS3PbaoyDo+mMFTjlVgl9bej8IlR2rf6VHV2sn+unu3AouQfLJU7bOEYEAbsLVlzg/KB+q1WnilCVhg21TVbSmISeQULIGxCxB/otW7MG2EoIs58LXq8+npBeVT3o0Qm3bbMDYi5SjGOCy4tqRdynud+UjatILzZz2L/vZUAcFd14KuMOa8zpIHYFTJW6eZHfm2Qo+I00BwHBKtRk+Nt6dvDxmKhw1c6K281ux2IpevMRB64tXpBFi/es37ogkywP5ynixo6QQfSodhoj8FmxtUJmWchJx5gZV3kMddw7CaItq1mv1uObkR9qcDvOkTlybaSFGSr4oYEi+7Pzyq9bGdZiHdemZdXXf+7dVUvsicM+U6JPxhXTMt6dY6cdhRU0icbZumnBuDD/C1ARoDIgjLIXtSKW5B9OfhTK7ieNYvBdasu9rsr+zxR+rqjCJS0htD5/OlG4ezHs+30V+U+V50dFNBRzX/kCxtpPROdjO+uTgszaNXOTLGKal2ReJhjQ==;+cou1Oog/DM/wxOUkUOifQ=="

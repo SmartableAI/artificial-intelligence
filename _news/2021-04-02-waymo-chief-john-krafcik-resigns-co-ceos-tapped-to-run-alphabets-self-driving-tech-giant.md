@@ -163,20 +163,17 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
-    publishedDateTime: 2021-04-03T05:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+    publishedDateTime: 2021-04-03T05:51:00Z
+    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 24
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "cgj3MrM2S9xMnbVoXz2S85eRuuCj52wmefAcM3Ft3fnsS2BvZUorSYkQf9/qFlq3PsBa73TYHx+zMYcT5LS5T4145z3q2PLp0GbIpeXoTs/zTWwQziqqE42Di5cirtI44wfT8HHei4O4o74X+fqDPLH3RSxjpx61yfHXANqeJz+zLNB+SljjLjz8QIqYNCYkzmLsSPdHHJaLXn0Uq6fUIG3vsfz+xaHk6LoFT5FswuaduXVHSCW/QNkDohpQKFi/Q3xuFulKMzoV54cLj4MMtDP6ozNS2wLYrRIcss+W5NykjyFiGpY2vy538IOg8+oECnj/8/ikp5sck8iTZi0u8wlY6FBIw0oompPnto6tNTQ=;DoJ1EVhlRVRsud8Gcgx7fg=="
 ---

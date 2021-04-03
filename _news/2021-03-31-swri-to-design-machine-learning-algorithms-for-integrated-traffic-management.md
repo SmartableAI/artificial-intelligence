@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210331/SwRI-to-design-machin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210331/SwRI-to-design-machine-learning-algorithms-for-integrated-traffic-management.aspx"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Researchers demonstrate advantages of human-machine teams for truck transportation"
-    excerpt: "The use of artificial intelligence (AI) is becoming more common in many branches of industry and online retailing. Traditional lines of work, such as transport logistics and driving, are developing in a similar direction although mainly out of public view."
-    publishedDateTime: 2021-03-29T14:31:00Z
-    webUrl: "https://techxplore.com/news/2021-03-advantages-human-machine-teams-truck.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-advantages-human-machine-teams-truck.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-advantages-human-machine-teams-truck.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/transport.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "WzgN5O1OJkCAU8Shmg6zHSxA35GQ1zmyqTPj3EQSGE8dTAXwh8WxQpNuIWsIPkd6E03rGOJlmVdGCY6k/83XikbapecxSitRV0oCPJ7BCqjUr11+Q87uYVUOx4dfv2Qq5RQLZWwpw35UPPOWpCmrkoYiSmevQBMOqWPT8+uAyDLVmpjYnmNQyJQnpUJXveAQgAolGjIr/S0DTcyoXo8NEqWtJFuge210gfLGxCVxiUst5f4hNqm7WvS/RT4L0EsaYmnbYaOzYbgd1SBErRCVuAALEi48z40Weyz6D9mex5FvbKQQr5RqL8zV67COF93F9S5nRsCdCiGq4oFn6TqNZ2mz8rwCoVqUXlrTsFjj8cQ=;LRUvlEZDupWWWPcF/FJfTA=="
 ---

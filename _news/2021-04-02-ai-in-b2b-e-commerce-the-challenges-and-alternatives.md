@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3465677416e0007c6d460%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "‘End ALS Challenge’ Invites AI Community to Tackle 3 Key Questions"
-    excerpt: "Roche Canada’s Artificial Intelligence Centre of Excellence (AI CoE), in collaboration with Answer ALS and EverythingALS, opened a challenge that asks the global artificial intelligence (AI) community to model solutions for key questions in amyotrophic lateral sclerosis (ALS)."
-    publishedDateTime: 2021-03-29T14:39:00Z
-    webUrl: "https://alsnewstoday.com/news-posts/2021/03/29/ai-artificial-intelligence-community-end-als-challenge-tackle-key-questions-roche-canada/"
-    type: article
-    provider:
-      name: ALS News Today
-      domain: alsnewstoday.com
-    quality: 37
-    images:
-      - url: "https://alsnewstoday.com/wp-content/uploads/2017/01/shutterstock_409902907-1000x480.jpg"
-        width: 1000
-        height: 480
         isCached: true
 
 secured: "yM0/khxOZduu3k5pHzxwFosH+0Id7DmGTWqOOP9as7xhZl3iMThxVv+Cs99CX1NN6Ltl/OWgX1TJ3wXEcl9Z9q2vT0iAJdPrzsoEqhfL0D1yzehJwlRlOsMggnZ7iO+dGKPD5rKTjOkt3lW8+vbjHVb4FU/vVOyW8DJSY9ON9osLiq2Gc6sK5WKszaJW4PyfFfO9+hboiQlytRT/l4epYdnxujlsaFoa0/tR/Mjd9PUm/Q2qmcgmDVFEAjJDMq4X8JIIVQ+HAAZ38xRNXsh1F4IPe1cHFWQ6e0TJZc71vLTk+4uI5pt33QENkmmr5lVIrbmw2rd1neAcUOzm7nqdz8DUKlfduPc8oTWNGdupK1QfAR9hcYJfoVZ0G3oDgEfYM4NRoSVmsmxlGyx6dAdlLFg0lmA/N8Lp8p/aul0cKngrZoO/glBqZyapItjpt/vSoV/F7/GNS5ASssF28OpkBLRspgTDPK1wS0shiCAbNv8KOLRA47BsarmEyKq8hHWdAgXfrRyvbWixGITbjh60mQ==;kmeQwDKuQECrVyw6G+Ax+w=="

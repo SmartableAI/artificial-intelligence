@@ -97,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-this-entrepreneur-says-ai-can-take-better-care-of-your-health.md",
-      "title": "This entrepreneur says AI can take better care of your health",
-      "excerpt": "\"AI is a spectrum of things. There are many aspects to AI than just the programming part. There is the design, the creativity. There is also the ethics of designing those systems, the user interface\". AI is therefore not just an intangible zone for tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive",
-      "originalUrl": "https://www.euronews.com/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/05/41/08/90/1000x563_cmsv2_32a19abb-3f98-5b22-ba66-f7c6e023bee8-5410890.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive",
-      "publishedDateTime": "2021-04-01T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them.md",
       "title": "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them",
       "excerpt": "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ...",
@@ -1457,6 +1414,58 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
+      "title": "Google might ask questions about AI ethics, but it doesn't want answers",
+      "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "publishedDateTime": "2021-03-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

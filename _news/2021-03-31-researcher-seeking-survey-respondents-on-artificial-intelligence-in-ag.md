@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wisfarmer.com/amp/6972361002"
 cdnAmpWebUrl: "https://amp-wisfarmer-com.cdn.ampproject.org/c/s/amp.wisfarmer.com/amp/6972361002"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 678
     isCached: true
+
+related:
+  - title: "Researchers to Use AI for Cancer Treatment"
+    excerpt: "Artificial Intelligence (AI) has proved to be a very useful tool in ... which allows it to identify host response patterns to the therapy. The system is capable of monitoring the patients response to the treatment in real time and can also predict the ..."
+    publishedDateTime: 2021-04-02T14:45:00Z
+    webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "4tBFJXlXvj9Dxi7fMLntdsqNR8CEWIiblc0DcsulkT+F06JZfB46g/gh4qPB0GVVctQ9uY58slGp5eQ8aFed2a2uXSI9lh1SNvj8txG+UmFn6aGMBJr8wR3yII4iXr6fNbWdqr8MK0kXclKpkMfx7HvUbiU2ud7TUz2v23E6ukf1oWCjH38TxxK6RrI6yKiyM8WHp60nG4OIHUBFceBXiKSGy6oclmCN0MfyXOMlGrLAhmcycWppvBAXe/tL+x6upk/DMAX9WpKBa6JSmVo3E74EkFpIUFPSi1w2a0Kf1MoXHGX8qmLGLvHq8H7c7s3Uvid8+YWyhxVCDP8IqxrOQapL7N6+P8HBSJJUnORyxzs=;CKhDO6jmcrA1E2B7+/ag/A=="
 ---

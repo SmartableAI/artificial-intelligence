@@ -2,58 +2,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_news/2021-02-23-talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience.md",
-      "title": "Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience",
-      "excerpt": "This is a guest post authored by Ben Rigby, the VP, Global Head of Product &amp; Engineering, Artificial Intelligence and Machine Learning at Talkdesk. Talkdesk broadens contact center machine learning capabilities with AWS Contact Center Intelligence. At Talkdesk, we’re driven to reduce friction in",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T09:13:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-qualcomm-and-sophos-strike-cybersecurity-deal-that-highlights-benefits-of-5g-and-ai-in-pcs.md",
       "title": "Qualcomm and Sophos strike cybersecurity deal that highlights benefits of 5G and AI in PCs",
       "excerpt": "The two companies announced that an Arm-compatible version of the Sophos Intercept X cybersecurity software application will be available on Snapdragon-powered PCs in the second half of 2021.",
@@ -1156,6 +1104,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni-bets-on-future-of-autonomous-vehicles.md",
+      "title": "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles",
+      "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
+      "originalUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
+      "publishedDateTime": "2021-02-23T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

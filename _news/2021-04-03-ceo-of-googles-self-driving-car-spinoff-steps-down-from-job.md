@@ -159,20 +159,17 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
-    publishedDateTime: 2021-04-03T05:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+    publishedDateTime: 2021-04-03T05:51:00Z
+    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 24
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "LfyY+IonekZsqgqlXtluMPtAQBpJ/2SDrXtmRJ1Xcz6JGxmzvhj+9VUZRqwEUNkofbqPLQyj/wnFUodpEwdABN9ZdMIm855YC02bDO+I4To37H+ehV1CuXmw6WfwaPij1oKxIZp4Nl4bpfR+KqHMi9ImrQfxdQ07tuhkDz6oRiBBwwprjogJX2h5CgbfK1DHGJ94PMLkndTTYiKH0KdHeX8BKwPXzMXMqNj0rh3ZZWrJoHi5G2P7kFx1UheLKLXHgVEkqJPu9i/kNp8Mdl8ioZKWaAlDgS4XFphsZL6OEPJjLcI7pu03T6Hy9uLCGs9zIpEuWTSOyIFR7wpShdn6cvX5RhBlxWZjMa5GavlUusAqH9ElerCJYWvw+C8KYtYTht2pp3NcCr+JWKrRlaw0iej5JysuSFareiY7EToIPkovWkXy341tQKZ5DamzrWjfu/Ufg+nHtsq0pxSDu83wNKjtm9UrEi+Q4GebD67qTEI3p3pdyIvwopKwTuVwwfMXxRNZ9hMr4sMSwhfK6tUamQ==;tEm2Jblb86Js3a8hCudFEQ=="
 ---

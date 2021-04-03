@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Different Takes: Is AI The Future Of Health Care?; Opioid Settlement Money Must Be Used Wisely"
-    excerpt: "Opioid companies are being forced to pay for their grave mistakes and misdeeds in helping fuel the overdose epidemic in the United States. The total in settlements — including Purdue Pharma’s $8.3 billion agreement in a federal case and a consulting company paying more than a half-billion dollars for its role — now stands at approximately $10 billion,"
-    publishedDateTime: 2021-03-29T13:15:00Z
-    webUrl: "https://khn.org/morning-breakout/different-takes-is-ai-the-future-of-health-care-opioid-settlement-money-must-be-used-wisely/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 25
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
-        isCached: true
 
 secured: "3pqb1sCEKjRyOtt5SIF2zhIEn/hTOydlZFMY3SrxqgRhIK0wcKnflqJWjc1OTjupOnwlZb47SDO3hvBVvHCTCZzqIYXnC3p0kxbiwb2710bUSJtRdnQtlY5JCNGOHdqErGD3glrr+jbwPUJXb6QITtHCu4G2xXfm7IGfR7kXd2m+LyKqs8pwmE5vpkougTfAc8cCyIvMbiyhihJim99zDix3EmevLGRMMdffx29thfE0VXnkCGRqr6IV/OHSk+alKNF3kjEVy07PzDLZ36rNU0+LZWoFgH7t7d4z32WiCpnKpsHxMt8kzqgFRlz98OYa3URQtFpJ1EQSdIVFEH8IuxtEqUWNrrcbwKE5BP+6M48=;Ut5bTQFky/EWOH1xV4kaEQ=="
 ---

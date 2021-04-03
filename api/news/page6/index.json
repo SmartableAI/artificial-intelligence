@@ -2,48 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-29-chipotle-invests-in-nuro-in-autonomous-delivery-push.md",
-      "title": "Chipotle Invests In Nuro In Autonomous Delivery Push",
-      "excerpt": "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
-      "originalUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/03/shutterstock_1358720510.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
-      "publishedDateTime": "2021-03-29T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-29-openais-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day.md",
       "title": "OpenAI’s text-generating system GPT-3 is now spewing out 4.5 billion words a day",
       "excerpt": "The best-known AI text-generator is OpenAI’s GPT-3, which the company recently announced is now being used in more than 300 different apps, by “tens of thousands” of developers, and producing 4.5 billion words per day.",
@@ -1202,6 +1160,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-north-american-ai-in-healthcare-market-trends-2019-segmentation-outlook-industry-report-to-2025.md",
+      "title": "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025",
+      "excerpt": "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U327247103_g.jpg",
+          "width": 800,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "publishedDateTime": "2021-03-27T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

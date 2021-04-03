@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.khaleejtimes.com/business/industries-driven-by-ai-advanc
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/industries-driven-by-ai-advanced-tech-to-drive-uaes-future-sustainable-growth"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Artificial intelligence as a co-driver"
-    excerpt: "Artificial intelligence (AI) is becoming more common in many branches of industry and online retailing. Traditional lines of work, such as transport logistics and driving, are developing in a similar direction."
-    publishedDateTime: 2021-03-29T13:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210329085958.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "HzLQ92oqCAP5BfrK7jS4wlp2Hi/6wJcqX5bXnhVl+zuEf0Q+rYADX/83DaljyPcv2aoZLPreMqJExBa0U2Jaf3dUXFj8LN2DIhy7WO/i5MSmQpnUrCfLDJDAOpD9Fo1poYKTLIGNQX2Jall5y7f4u9WHoJtwClDkbEb0sCDXDoXBTet641xqR+Rq/mNvAO2K5Vj4mYu62dum2gN7jMpTA/qmDVnPfmVbzyTDKReksxFAgmAclv09Dn1KV1GLZhA90MPsxW/TiVFTvvhTNG7hBXtUs/eWGCL4ZwLyks5UhQenxU0GGqaDCVHkFUBQMoiNUtkSz/t2+pQR3q/VrZI1brpLuE2FL0eY7WwLI3T9JA4=;zT5jMeXl75Nok8MHeVwIBA=="
 ---

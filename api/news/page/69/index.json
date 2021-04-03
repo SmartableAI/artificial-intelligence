@@ -2,49 +2,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_news/2021-02-10-sample-repository-for-the-microsoft-cognitive-services-speech-sdk.md",
-      "title": "Sample Repository for the Microsoft Cognitive Services Speech SDK",
-      "excerpt": "This project hosts the samples for the Microsoft Cognitive Services Speech SDK. To find out more about the Microsoft Cognitive Services Speech SDK itself, please visit the SDK documentation site. Please check here for release notes and older releases.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
-      "originalUrl": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/25345426?s=60&v=4",
-          "width": 420,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-speech-recognition-on-an-arduino.md",
       "title": "Speech Recognition On An Arduino",
       "excerpt": "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ...",
@@ -1182,6 +1139,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe.md",
+      "title": "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe",
+      "excerpt": "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg",
+          "width": 600,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
+      "publishedDateTime": "2021-02-09T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

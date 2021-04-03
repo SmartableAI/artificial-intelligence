@@ -83,20 +83,6 @@ related:
         width: 844
         height: 551
         isCached: true
-  - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and"
-    publishedDateTime: 2021-03-29T13:04:00Z
-    webUrl: "https://www.miragenews.com/schlumberger-and-microsoft-expand-partnership-536270/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 18
-    images:
-      - url: "https://www.baylor.edu/content/imglib/3/7/2/8/372885_640.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
     excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
     publishedDateTime: 2021-03-29T21:32:00Z

@@ -19,6 +19,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "uMore, the AI-Powered Mental Wellbeing Tracker, Becomes the First UAE-Based Start-Up Accepted to TheVentureCity"
+    excerpt: "More is the first UAE-based start-up to be accepted to join TheVentureCity, an international, operator-led venture acceleration model built by Laura González-Estéfani, Facebook's ex-Head of Growth, Mobile and Partnerships for Latin America."
+    publishedDateTime: 2021-04-03T07:00:00Z
+    webUrl: "https://www.pr.com/press-release/833864"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
+
 secured: "3G6wtIoXN+EqXup/FoMnrB+jO+UquLFQajFaA9uMlagrTNfLIoLscaUswLok68dLGmxHWdVk+s/ae/EUDAiyUs5TZutwEYUTNL+d8xDqmbWxBybjdj8ejjZ6gpTTFB+nohGnnH5+KnZVhatsJIEImio9hl0yWVaoragwEwbGryvHl864F6PAfeMp4+SM12JmW9gVHqnyamB2sah8HysSsdqHxN66TYvBhTN9mgEXvnLohoCZEehGJssHsiRRngv4SqtFlasn0/hRlBkz+2RLHO0dUi1ydAimuBqN2ut057LJkXt73BvllFqu/DZX6r7aaxQ6IWx3iguIjkbkQTLIoTG88ANer3murjsrkP2tJDg=;Y/+knNHvLjQAkzzBcTbthA=="
 ---
 

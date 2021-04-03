@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark’s autonomous technology onto their vehicle platforms."
-    publishedDateTime: 2021-03-31T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
+    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
+    publishedDateTime: 2021-03-31T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
     excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."

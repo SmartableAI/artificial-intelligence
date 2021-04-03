@@ -162,20 +162,17 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
-    publishedDateTime: 2021-04-03T05:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+    publishedDateTime: 2021-04-03T05:51:00Z
+    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 24
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "wTrQLwFKldQZ9laCntP6AP6zktE/jfw92TspKGI20+xClQmPSmLny9l/JcSC8mJTvvNgnE6nabG7/0svq80tRzGu1v6NQr0un9DAcbyfMN1aTA2YUknzy5IOIVhIBHZms5cFE+NMRKstpyQ3Y7xJL2weJPfqwtxye7RX/qgr7x5bUsUBHEhUkZAfACia/CDaeqxLRaI6afQ9DOhNHQR7HozWqgCeNZ5u7hv3XyoHWz9/1yUwXkQY3fphGqTA7u+5el94pmy999/D9ZIQT8JKwGdf1s1jbAlp9GMmHgHC3ACtFIJGo8Y3HAYnHYMTUy5nm1n5yBoKa7AScqT2xzVTfuY+rXFNMY+pHh0F2jvVyOM=;SirReWSa0iDjkYwQGfTxbw=="
 ---

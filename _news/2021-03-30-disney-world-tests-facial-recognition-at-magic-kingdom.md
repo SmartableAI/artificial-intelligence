@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facia
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/c7MLpXTY11pF_eg5GpMBw-oawxw=/0x0:1820x1213/1400x1050/filters:focal(765x462:1055x752):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69061816/cdn.vox_cdn__4_.0.png"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
-    excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
-    publishedDateTime: 2021-03-29T15:01:00Z
-    webUrl: "https://www.nfcw.com/2021/03/29/371425/disney-pilots-face-recognition-for-entry-to-magic-kingdom-theme-park/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 39
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/walt-disney-world-resort-florida.jpg"
-        width: 1176
-        height: 760
         isCached: true
   - title: "Sephora boosts augmented reality shopping with real-time facial recognition"
     excerpt: "Sephora is bringing live 3D facial recognition to the existing Virtual Artist feature on its application and Web site, a move expected to boost conversion rates through more accurate facial tracking and rendering. The augmented reality feature currently ..."

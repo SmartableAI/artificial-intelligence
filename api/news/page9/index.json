@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
-      "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
-      "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "originalUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-25-ibm-openpages-launches-a-smarter-way-to-manage-private-data.md",
       "title": "IBM OpenPages launches a smarter way to manage private data",
       "excerpt": "Your organization needs to collect and crunch mountains of user data in order to evolve. But that can’t come at the expense of user privacy. As your data estate grows in size and complexity, the potential privacy risks grow with it. Outside pressure grows too, as governments expand regulations and individuals",
@@ -98,19 +55,19 @@
     {
       "path": "_news/2021-03-25-ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines.md",
       "title": "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines",
-      "excerpt": "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in the newly published 2021 Gartner Magic Quadrant for Insight Engines 1. This builds on the recent news that IBM was positioned as a Leader in the 2021 Magic Quadrant for Cloud AI Developer Services2 and the 2021 Magic Quadrant for Data Science and Machine Learning Platforms3.",
+      "excerpt": "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,11 +77,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T05:18:00-07:00",
+      "publishedDateTime": "2021-03-25T05:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1184,6 +1141,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
+      "title": "Intel will build x86 chips for other companies",
+      "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "originalUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/03/bunny_with_wafer-100881923-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "publishedDateTime": "2021-03-24T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

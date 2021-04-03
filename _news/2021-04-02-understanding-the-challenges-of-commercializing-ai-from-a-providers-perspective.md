@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "‘End ALS Challenge’ Invites AI Community to Tackle 3 Key Questions"
-    excerpt: "Roche Canada’s Artificial Intelligence Centre of Excellence (AI CoE), in collaboration with Answer ALS and EverythingALS, opened a challenge that asks the global artificial intelligence (AI) community to model solutions for key questions in amyotrophic lateral sclerosis (ALS)."
-    publishedDateTime: 2021-03-29T14:39:00Z
-    webUrl: "https://alsnewstoday.com/news-posts/2021/03/29/ai-artificial-intelligence-community-end-als-challenge-tackle-key-questions-roche-canada/"
-    type: article
-    provider:
-      name: ALS News Today
-      domain: alsnewstoday.com
-    quality: 37
-    images:
-      - url: "https://alsnewstoday.com/wp-content/uploads/2017/01/shutterstock_409902907-1000x480.jpg"
-        width: 1000
-        height: 480
-        isCached: true
 
 secured: "1c+i9svQQBKBqJ+Y4M2VoQ2ifrf6R6M+C3pWprBkgRUEoI3aKKTcCPFTWS0rEWVyrTtQYsuw+Y6vaJBM7a1W4S3Oe7vJP+meB5dE5VWDkn2lZO5u9RSX3/D9IzLjRR14GCbkcMeAbsc21T+sAhTeFjiPJCvho/WPLVx9aD/ceoQpK5vzvOFZmUaSRhL+UFWEtV0Qeb/8Pw5fde2/JE/B+GNOhdzrG0HnLjSxJtam14miAOswZzgHz1+Qdpm0E4fpa4F0uBlTbLSiOTRBj9rASJa7GHUR3XLL9DcTFwutZm4DkQPpA605nisLYBSCn80w5nceNNQ0rx/Z9miKDdf9yERvkpIc9LTgEuCJ3/ZuDiA=;vf+SgzdtAEbJjUOL0BFP5g=="
 ---

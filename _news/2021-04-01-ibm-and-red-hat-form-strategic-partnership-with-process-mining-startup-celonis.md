@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-pa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: VentureBeat
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "$2.5 billion AI startup Celonis is forming a new advisory council of CEOs, and former Salesforce co-CEO Keith Block was the first recruit"
-    excerpt: "AI startup Celonis is forming a council of CEOs to serve as advisors for digital-transformation initiatives, including Keith Block and Michael Dell."
-    publishedDateTime: 2021-03-29T14:05:00Z
-    webUrl: "https://www.businessinsider.com/celonis-ceo-convinced-keith-block-digital-transformation-advisory-council-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/5dd5ad10fd9db2614819b1ac?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "sjN8CU6GPkCO2mkp6bHj+p2Cr2u42b6chon6KALH5+LLBN9AkiM3L5e5AakFTOPAG3fB+Ebt94Oc2eGXES1ZTryBO9xgaQ/zn19GaUcA0Et8x/eqX7R07RUV3WcKWJKLlfTMB1puskUbSgcTEhh+G02j7+wtfv4LfRxVT1tSBTLubivUrWFrLLTeWaGND7j5A8zKTcD9flPv6eGonavn0+x6KIUOAmYKDgWTmCeVWzVLuwY+t4pAfrK1//lw7mJAXvE4593WH7jejPF941a61feRMb33xU5TUE66Lat+KxG967TH8iWNfOLTuStBoOqmsw3OPss1oDyMxwKcevtQobO1kUvAp//6QXuQFd9ik8fEyb/DZfQ65ftV71bsqo1RST3AXnzT8YqV2VOKtFxcHCB5vuMJmbtnpXfy1FW/cmKnNWoEP0lrWrFLrWTxDC1YIPoaecPDLXOkE1FVHvW8i89zg+KJmxD0YxJ6KVphFXpTALycP543AYplYQ6h4zwSVyHICEj4DjMgnVv+Crbrhg==;g56o/U8HqBoWO+IC2H0wUQ=="
 ---
