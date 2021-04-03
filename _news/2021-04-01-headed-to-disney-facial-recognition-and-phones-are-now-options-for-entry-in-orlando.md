@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/4/1/22362212
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/4/1/22362212/disney-facial-recognition-and-phones-are-now-options-for-entry-in-orlando-disneyland-parks"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1400
     height: 1050
     isCached: true
-
-related:
-  - title: "Disney World Tests Facial Recognition At Magic Kingdom"
-    excerpt: "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ..."
-    publishedDateTime: 2021-03-29T18:32:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/"
-    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Sephora boosts augmented reality shopping with real-time facial recognition"
-    excerpt: "Sephora is bringing live 3D facial recognition to the existing Virtual Artist feature on its application and Web site, a move expected to boost conversion rates through more accurate facial tracking and rendering. The augmented reality feature currently ..."
-    publishedDateTime: 2021-03-30T15:26:00Z
-    webUrl: "https://www.retaildive.com/ex/mobilecommercedaily/sephora-tries-on-augmented-reality-update-for-real-time-facial-recognition"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "https://www.retaildive.com/user_media/pressrelease/company_logos/20210309175752372/Untitled_design_2.png"
-        width: 1080
-        height: 1080
-        isCached: true
 
 secured: "cVOremOmCNp0DztUZfIakL30GVXGwoSRwGQya3EN6E8zsdBImWwqjFECapXa5hztOU2EcG7thvT9NrZPonqJVIgOrS5WHXqVzRnjmSa9JE6Ku2gPijcb6t2gP9OF3d8Qki79H1aIXXLcGMlyCUDH/BmkZjIYy+vwH1+eD+2nmuTJDqCHaxWtDV9jK5LJAhzgd4WIDz741hILULzfXd2zBE8MungsY59EtrGCwhkZwtHdMLo0MA00aUBSdWWm/FSffjzj0R0U+9t2q9HsTyWAfsLT79vbmWK46PIBCqhFJpUgnKldZAfOIUBmeVxjhKaCnVLHW4T3Q1orQcaCqWoWINh2tOE1xAhK1MAL7sTktBVVT5pPCZG1/y4JCB4c9NCnOnhD30i97meAhHkzgGz1oVIOfnbPO0SI7K6dfiTG6zHc8BoOaCnuQRWwtcAHoUAqbCNn8H6MbUHFRR9tjeeJCHfxoPtpHaWSS7xR+VtoI47ornEjdEH0Z4ND6Ma2YDn4xUsBDJErjWivIVXA96zNWA==;hTnxirBq4Kke6l3JyiRmug=="
 ---

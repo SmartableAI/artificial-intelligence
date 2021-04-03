@@ -65,20 +65,6 @@ related:
         width: 400
         height: 295
         isCached: true
-  - title: "Top AI Companies in the World Creating Massive Disruption"
-    excerpt: "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries."
-    publishedDateTime: 2021-03-29T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
     excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
     publishedDateTime: 2021-03-31T10:33:00Z

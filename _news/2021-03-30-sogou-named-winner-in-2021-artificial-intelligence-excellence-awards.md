@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Kustomer Named Winner in 2021 Artificial Intelligence (AI) Excellence Awards"
-    excerpt: "Kustomer announces today that it was named a winner in the Business Intelligences’ Artificial Intelligence Excellence Awards program. The company’s top-rated customer service CRM platform leverages AI extensively to help industry-leading businesses orchestrate unified,"
-    publishedDateTime: 2021-03-29T17:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diseases-and-conditions-coronavirus-pandemic-lung-disease-d3c27e9fb897452d8ddb599ec87de20e"
+  - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ..."
+    publishedDateTime: 2021-03-30T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 49
+    quality: 52
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Business awards program recognizes WekaFS for facilitating AI and solving real problems. WekaIO™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research,"
-    publishedDateTime: 2021-03-30T14:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210330005335/wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards"
+  - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
+    excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
+    publishedDateTime: 2021-03-30T08:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-19722882.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 32
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Realeyes Named Winner In 2021 Artificial Intelligence Excellence Awards For Its Attention ..."
     excerpt: "NEW YORK, March 31, 2021 (GLOBE NEWSWIRE) -- Realeyes, a pioneer and leader in video attention measurement, announced today that its flagship product PreView was named a winner in The Business Intelligence Group’s Artificial Intelligence Excellence ..."
     publishedDateTime: 2021-03-31T15:11:00Z
@@ -71,20 +76,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
-    excerpt: "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,"
-    publishedDateTime: 2021-03-29T22:24:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 0
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "QovAu6n4VUjSpWXaFpAfGK6YgaL/kdtD049YGjQU1ynVn/Qr4mSgCX5BoTLUp1tlutvbVu1eAMb6nCEmgCkyGbhCuURJ78jCge/ZOQzm0VZw11VGwcilMVfVAMncWQOJIw8BWbgvjfY/hcymOaFKTT3DaMEBYqWpapkzY+XOmC4PN5NI3ag8K2UTRkxTngBS2ePXsd3wlH41hDCtOAPpNAl1q6zNdltJrJzrZgSoEX9MpLfu7mdXNN3HNgxw5hN+K+Byhq7b5NSVG6y/2ANeRUhvDbzmmKiSXVYC5VMnh8QfjCrVOszLj9Rld5Yf7pW8iqO2KcVG9MldPL0yePOtU0aJTrcXlPDdYLphWkW32Pw=;a8EtwHQMrmxn4l5EDa6xvw=="
 ---

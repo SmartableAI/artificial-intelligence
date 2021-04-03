@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.livemint.com/img/2021/03/30/600x338/WhatsApp_Image_2021-03-30_at_12.07.18_1617086281238_1617086312242.jpeg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
+    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
+    publishedDateTime: 2021-04-03T11:35:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 29
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "IL2JzZDkSNuGjNzqmVdupWEJfhRkuUy1uW9vihrbqYo3q22yX/ywG9jtHDLh9imryv9iXTZlcYPXiRBJ7sWqJ/hXi3lzgDnILM/0dhxg+ZNvTd68ddyvS5Ccyy36ylkoZvF7QgcVty1b3oErm9vBHvlQAPkVdM8gYn+zbQk4tyCwCw0zprr04Pj6irlsNXd7jL5sjR76xly2lfbik0coIUdGIdA4PJ45cZMG5Fs33IqhKYygmw4aduOcxOph3a1WWcIgXavSuX9oFiuctwUAIh8vWm6QfGrTDHsEFffVZxwq7E6mFBkzydsv3RO8ELMbp3ZcvEiwFi6MsV9Zf8Dcl6jAIzzzJQ74/wmsa/EElud9FA/Y3GAfiSIjuTYwN7AMZC9jP0L+9JUP3p+xWFk6VHBURt2mdJvVgj+qQ3kYCj7BwAAIy3mE5aR4f/axdj5VFO22BBvGZStE5S83Hh1u5LJ24/ZjJsXPMsxtgxuLvY3MlbHPwDu+y3NFxLWOxKFp6nnTq6JO2snQeH8KiFF6bg==;tk0CAyVHUfEkwCYQI/IIeA=="

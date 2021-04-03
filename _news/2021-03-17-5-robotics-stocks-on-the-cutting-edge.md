@@ -1,26 +1,20 @@
 ---
 category: news
 title: "5 Robotics Stocks on the Cutting Edge"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been"
-publishedDateTime: 2021-03-17T13:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-webUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+excerpt: "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power ..."
+publishedDateTime: 2021-03-17T08:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
+webUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "7L7bYf0qsFaVWB1em/VFkrgFfRug1BYhzMGBLF7RwY9qlF53Z+8+pPTpqfcQJ12q47sMUc5odjypLCRriNfGAr0s0LzWNuvHGBOeFc7m2eX6rCd1/Ad77lRDcKvRfWb7GXQeYP4SPKYulZFttwbR/ZIyfQwtDIsqn4WYzeceOmpqY1UAqXgeQJrKToHcahE84mtPNl1EKNFKJ1ExIlXiLjgV25Ooi3Jvr5JNbrs+EqWXbzYVahZ1s1lP1pMeA6lFDd6+WfN59zmCy1RkrRKf0rpNDECfff4C2J4e3vgBDC1IFRjDRpzfv6KYLZNaTI+RkPHwswKYL58BSDSOQEiHWMsPzDSMuSHl8xJNLC0pD6A=;27G98liJM4TO9fe0ueI1Gg=="
+secured: "X3L9nD2VYBOHuEP8U+WCZlVDgXEug52DXEAUixtghCuXnzQBqCKxwCuSnNVkgurmMWkguBQK9xD/BvzXJJiRJfJFGEG3l/aCv8C3bDIr1w6y2hfMch5b55mIrCaNxQhNSfOg3Edypl5VMIgDkmjmVGrCoaRXs9ZrKmcOlr35EkiFP3oCYqwZMUf2RwD5GhmhADtTLjiOnPPusUmJrXWvT3xy+Hv3zoxuVCgDdl8XGEH3C/Vqb7ddlyuB8qw8cwQcFsD0fCr0p+0pAOZPeZ529YyywABsl46UrOFmuAtkxbkhmldsCSrn1ZGXmA8FF60Q99t9YHgCKzDqldPjWikeSQyOBNEXe5tbLytDXUj8Bf0=;KJpiEuby4bObsxYlcL4QyA=="
 ---
 
