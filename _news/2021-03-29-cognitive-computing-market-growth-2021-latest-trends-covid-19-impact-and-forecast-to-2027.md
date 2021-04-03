@@ -153,20 +153,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "A2s6BVG0KLudsPww4IRAqzoXRaIoRqfIQKZnWkpf4O8cSvNvbv4v2K11Pm7Zzn7jWFAXExyjBlxLIYsc+U8lYL9yWcEvt78yP679ssHSMU6nGAwIZPh+Ms5p1mlt6Ngte1c+ZlqaIw0NANcK4z/kTzGCIlY18cQLj9k5nosJ7iI3OUy7KqGbdbKgkXRTWf9/cPW8+CntcJc5GUZCxBHssL1hUqJ71FvvWWMMRoJ6+t1tZ4Iy3heDjfwLYte7eBCNnfoBQqAtPea4EvD1XoUln8LDL7RktkIzE3kbUtyQvqpszYZC1Em49taTi0JIXd3SV5rHndQL9crpRFfdtYG1IbEJ8FqjC2bJngiizF8GLvs=;/tLhLUZMiiy49u0vIRS0uA=="
 ---

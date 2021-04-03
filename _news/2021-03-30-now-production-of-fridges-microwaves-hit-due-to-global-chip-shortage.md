@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fridges, microwaves fall prey to global chip shortage"
+    excerpt: "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai told Reuters in Shanghai. “It’s a perfect storm,” he said on the sidelines of the Appliance and World ..."
+    publishedDateTime: 2021-03-30T09:26:00Z
+    webUrl: "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL0ZY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL0ZY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4"
+        width: 796
+        height: 545
+        isCached: true
   - title: "Global chip shortage affects more than cars"
     excerpt: "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage."
     publishedDateTime: 2021-04-01T19:07:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2018/05/ocooker-microwave-oven-2.jpg"
         width: 600
         height: 402
-        isCached: true
-  - title: "Fridges, microwaves fall prey to global chip shortage"
-    excerpt: "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai said, Reuters reported. “It’s a perfect storm,” he said on the sidelines of the Appliance and World Electronics Expo."
-    publishedDateTime: 2021-03-30T09:54:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrOiUOTrhHmiMxB%2fHAd3MnQ%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 39
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/6-f5fd4a52-8330-42e6-8bd0-9d2ec06a1c32.jpeg"
-        width: 740
-        height: 453
         isCached: true
 
 secured: "2TUe72uUaW+A7WcmPDpBRq1nckh5hn1QAGdCo9UQgx/HPzK2ovsluHM500jLF+33kJ80gr49xmSEtCDoMWoCCYC0RGdORbCaP+fw2h4M/AZeUYvaAyDMTZXQSNHB36XB3ndgUhCJauCohgvubB+ilz1IaBMjNp39065XotLXw/i6WN/dnPbIjDSnM8QfxmRjIlalszVECx+tABvXN/2f4XpxJzB4rGPBua8VlNEbHFk5a0SEftYlFXQrOulW0WB3gyVh6btSU+RPDoZs5MqZt3PnD2ADulRpUUoLRV8cOPZrKWdEuHGB8tnEy1pzO5AZgMtiwZ0Nw9l9c0AJZRqojb45OADkFCPyZAJDMGvEAg0=;Mwn7hRK+qbgsj6dInXsvcw=="

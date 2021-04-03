@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vietnam’s first autonomous vehicle debuts"
-    excerpt: "The vehicle is equipped with smart functions, artificial intelligence (AI ... Phenikaa's smart autonomous vehicle is driverless and the user can take control of the vehicle via a customised ..."
-    publishedDateTime: 2021-03-29T11:50:00Z
-    webUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.vnp"
-    ampWebUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
-    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
-    type: article
-    provider:
-      name: VietnamPlus
-      domain: vietnamplus.vn
-    quality: 44
-    images:
-      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_03_29/car_1.jpg"
-        width: 640
-        height: 437
-        isCached: true
   - title: "VN’s first autonomous vehicle debuts"
     excerpt: "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam’s first smart self-driving vehicle. The vehicle is equipped with smart functions, artificial intelligence (AI) and advancements such as 2D/3D maps,"
     publishedDateTime: 2021-03-29T16:12:00Z

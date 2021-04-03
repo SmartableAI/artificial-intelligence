@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Need a Hands-Free Android Experience? Turn On Voice Access"
-    excerpt: "Next, you must have a language set up for offline speech recognition. To do this in the Google app, go to Settings > Voice > Offline Speech Recognition and make sure your native language is listed."
-    publishedDateTime: 2021-03-29T12:29:00Z
-    webUrl: "https://au.pcmag.com/android-apps/86334/need-a-hands-free-android-experience-turn-on-voice-access"
+  - title: "Watch: GM Financial turns to artificial intelligence to enhance customer experience"
+    excerpt: "During the COVID-19 pandemic, companies have turned to technology to enhance the customer experience. “One of General Motors’ core values is to ‘think customer,’” Bob Beatty, executive vice president and chief experience officer at GM Financial ..."
+    publishedDateTime: 2021-03-29T20:26:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-gm-financial-turns-to-artificial-intelligence-to-enhance-customer-experience/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-gm-financial-turns-to-artificial-intelligence-to-enhance-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-gm-financial-turns-to-artificial-intelligence-to-enhance-customer-experience/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 51
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/how-to/n/need-a-han/need-a-hands-free-android-experience-turn-on-voice-access_jmzp.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "xXpcIblpIPGF/QUSvRqoPW9ONwtX2/DcTfQuBwkX06PacgtAQQ37VoS01IqRkfspm08a/lvgE0FbIRr/7KdSwi2EX7binDSFRhnqf92I4EoqXyc939/E8ehAKH0Ls4hfrAX6uLAZNIwekcF3EnNObPeHLeveUqLf7wukzaBB0hA7pW3phb/E2vWdvx+2jVigf2g7NbzkB3DzPDycBCToIETjfvr+GqXNlNfotlpzNpR9ZGnLARSonVv04qNuABNNJw+2NJVx2nJgVB0ynE/Hfk7mSMm4obu3CPagxfaGPdKZTJiGUQ9kK3lWIM/zciGOAzA9hZ+jcVOslT6fVjsxR4nH+3j63x4sw4DUv/pMPwg=;Yk1LR38WRkjye2cYtX78rg=="

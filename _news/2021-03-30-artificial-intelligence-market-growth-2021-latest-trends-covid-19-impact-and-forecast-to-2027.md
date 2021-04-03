@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 13
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
     images:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300

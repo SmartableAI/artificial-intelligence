@@ -1,29 +1,27 @@
 ---
 category: news
-title: "CEO of Google's self-driving car spinoff steps down from job"
-excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
-publishedDateTime: 2021-04-02T20:04:00Z
-originalUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+title: "John Krafcik quits as CEO of Google’s self-driving car project"
+excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
+publishedDateTime: 2021-04-03T05:05:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
+    width: 280
+    height: 250
     isCached: true
 
 related:
@@ -132,6 +130,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CEO of Google's self-driving car spinoff steps down from job"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
+    publishedDateTime: 2021-04-02T20:04:00Z
+    webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Head of Google’s self-driving car project steps down"
     excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
     publishedDateTime: 2021-04-02T19:45:00Z
@@ -159,21 +173,7 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
-    publishedDateTime: 2021-04-03T05:05:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
-secured: "LfyY+IonekZsqgqlXtluMPtAQBpJ/2SDrXtmRJ1Xcz6JGxmzvhj+9VUZRqwEUNkofbqPLQyj/wnFUodpEwdABN9ZdMIm855YC02bDO+I4To37H+ehV1CuXmw6WfwaPij1oKxIZp4Nl4bpfR+KqHMi9ImrQfxdQ07tuhkDz6oRiBBwwprjogJX2h5CgbfK1DHGJ94PMLkndTTYiKH0KdHeX8BKwPXzMXMqNj0rh3ZZWrJoHi5G2P7kFx1UheLKLXHgVEkqJPu9i/kNp8Mdl8ioZKWaAlDgS4XFphsZL6OEPJjLcI7pu03T6Hy9uLCGs9zIpEuWTSOyIFR7wpShdn6cvX5RhBlxWZjMa5GavlUusAqH9ElerCJYWvw+C8KYtYTht2pp3NcCr+JWKrRlaw0iej5JysuSFareiY7EToIPkovWkXy341tQKZ5DamzrWjfu/Ufg+nHtsq0pxSDu83wNKjtm9UrEi+Q4GebD67qTEI3p3pdyIvwopKwTuVwwfMXxRNZ9hMr4sMSwhfK6tUamQ==;tEm2Jblb86Js3a8hCudFEQ=="
+secured: "DjqVWHZR+FrgcGmbEiemmi3U9VR3LjeQrqBYQiv4/7qTy7vWVpkqryK17L/ZN46JWp+cI2ISV4D6x/fgVjzYjACoXp4ys3Hst4buNTT2NKN8nUITrYTVNwiAPR9KamDuRO7vHSVPFFL1t//1kDKQGH8WedCgjyQTJ5uuIO14PW9agDcDkUKa35b0M6CFkoaXrVHEctKpmIIZAvaL86XyH57vWDGORrLqr+BNVlgF2FyDNk7xrsgzYa7awxvTuxx+7FXl0OlUk/nqw5eEuPy1bPuewTc8WkiIoJDGEqgXo8Egt64V+R26LKzYb4vCy3dHsKFDP7mS7m7urEG/T3ksezXmOMisM+Nee+b0sAHXlRU=;tW1qbvPspQYjWqyxiepsLQ=="
 ---
 

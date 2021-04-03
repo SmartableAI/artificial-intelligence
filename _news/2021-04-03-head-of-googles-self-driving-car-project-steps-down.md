@@ -159,6 +159,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
+  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
+    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
+    publishedDateTime: 2021-04-03T05:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 24
+    images:
+      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "QbfQkxea77XetNwyMU06E/8KvlVhv5IUqZEo+AKxoTzVRg5weAEhXyMSaMSQhC0Qk3roR4+0bMqwmZLfwTuQ5AK/wUDJBtmuzTBtiooeutQDRYHZPK5zVJ9zHJyGoRJFoT7gcMZTZj4jKjea4mQbTokVQJyZOSoWAmT/Br/1RJrD/Uty69Z2+7oEHq/D5rgN5Xnkq6aUeVIojSqvkGJEGSRNZ9bQms8wHoTeu/nuB0IEUm0SGg2aBbbu/d/M0crj1OrtDO26Dgh7QRmrp9kSNqbH4JzpJQca2xE1ZmIxBpdVoBKQhgyQgK6xiiSu0/K1KDdm7wrCnnhmI4lUU3W/DhMDGz3DuzT5G8aiuLeIrnYpQdkWINuDI4nnmeWFhpBmtche9nHClnURYMWSmb1UqprjYs8R6GbaErKzuuviTWdctRg+PbROZDRnXbsVfpAxvP7gCOjrOhRqSH82vD6E7OKbbWbluKtiGoo0VaipAz+0ibxkcj8VZLDw4HZSB8RG72wKeg6SqKulRwCGxdxevQ==;XlpA1NFp0Z4OkTbCxGY63w=="
 ---

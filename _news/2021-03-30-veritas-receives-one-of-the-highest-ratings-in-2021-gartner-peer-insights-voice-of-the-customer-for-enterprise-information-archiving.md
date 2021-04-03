@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
-    excerpt: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage SAN JOSE, Calif.-- (BUSINESS WIRE)--Mar 29, 2021-- Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report."
-    publishedDateTime: 2021-03-29T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-data-storage-computing-and-information-technology-data-management-2b44488f41ab4da2950c10c2d2e4ff78"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
     excerpt: "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,"
     publishedDateTime: 2021-03-29T22:24:00Z

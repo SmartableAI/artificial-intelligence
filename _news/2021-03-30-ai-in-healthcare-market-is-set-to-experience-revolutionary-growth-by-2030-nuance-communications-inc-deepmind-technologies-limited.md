@@ -35,20 +35,6 @@ related:
       name: Chronicle-Tribune
       domain: chronicle-tribune.com
     quality: 12
-  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
-    publishedDateTime: 2021-03-29T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
-        isCached: true
   - title: "Self-driving Cars Market is Set to Experience a Revolutionary Growth | Toyota, BMW, Volvo, Audi"
     excerpt: "The Global Self-driving Cars Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026). The assessment provides a 360° view and insights – outlining the key outcomes of the Self-driving Cars market,"
     publishedDateTime: 2021-04-02T10:49:00Z

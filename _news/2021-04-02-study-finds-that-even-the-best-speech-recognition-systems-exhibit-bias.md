@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-sp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

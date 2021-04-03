@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 24
+  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
+    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures. Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov,"
+    publishedDateTime: 2021-04-03T05:05:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=819974"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 24
+    images:
+      - url: "http://www.daijiworld.in/images3/sq_yenepoya1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "DtCe2E4izLojKohr/bGzaTmk9MSWv8Upejopp9WPk34YQuEcyNUpKeI5uUxxVM1WyJ3gt2UUAj6U1H71LhqYwSxm9Gua/4JVPg36auqbxavHLcIZ5eWV9HDLpMkmfgRRfRfpMKijvKqp3ajv55YOWrV/e8WYr3PZOqKv2kdBRn55QpKoKukFMl0JUlKCXpuYxJko2aCoEa11I5ljYsit/OVWSgmZx0zNLCZd1aXEJ9hLuaIhhpiBAJPm/Kj41C5XpbKmfzOZFX3uL7NiiPOncp4cO8acAjk26uo75ssn7QXdBEHCYc/QbK/P7UDdE5ee61P5DLEzW7ai7fmBARCea0F7KcU91IWUWoL6Ep9NTvqbyFQNld7tsxTSTGwmr9HM90KmSLmP0r+dfTO8NYpjXuBwVTyqKesaNly8FbpUBSwhkDcMtqGWhkYK2ctc98YuE2kKo1fInjrlIRJtJcC32mhsqbpXHJfg1SU/WT3KWsnbVmZJx9HfdMKu55dT2Z7RJPM7OnTgKV0P2h0wS+kvJQ==;qpxopivn4Pv4XyVZIDMi3w=="
 ---

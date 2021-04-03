@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Chipotle Invests In Nuro In Autonomous Delivery Push"
-    excerpt: "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses"
-    publishedDateTime: 2021-03-29T12:54:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 142
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/03/shutterstock_1358720510.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Chipotle invests in self-driving startup Nuro as it prepares for delivery’s future"
     excerpt: "Chipotle revealed that it has invested in self-driving vehicle startup Nuro as it looks at new ways consumers will engage with the brand. (Photo: Chipotle & Nuro) Restaurant chain Chipotle Mexican Grill (NYSE: CMG) announced it participated in a funding ..."
     publishedDateTime: 2021-03-29T15:03:00Z
