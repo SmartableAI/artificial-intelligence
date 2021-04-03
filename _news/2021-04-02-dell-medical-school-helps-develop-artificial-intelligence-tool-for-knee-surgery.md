@@ -8,7 +8,7 @@ webUrl: "https://www.statesman.com/story/news/healthcare/2021/04/02/dell-medical
 ampWebUrl: "https://amp.statesman.com/amp/7045802002"
 cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7045802002"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/03/29/NAAS/9def4ffd-5a32-4f7b-a4a5-87b0f527619c-OM1_JI_tablet_education.jpg?auto=webp&crop=5439,3060,x0,y317&format=pjpg&width=1200"
@@ -57,6 +58,6 @@ related:
         height: 680
         isCached: true
 
-secured: "/vJTdTh47l2ynWavNr33TUhnE66+QGVg1/4n6d0yKICxrfZfADBoOkPkPSbQl0qDxZWVuyEOk6GT5ixnKQQH8pybi20jWYBl9gx2twPrXonHtc0Zc0q+kxVnp3hjDJMe8Jzgr1Apkj2wt5T44a8E/pmSYeVquQbRRbaFYdUMQkrc49at9AVGIZtFGDHxZ0OB892xD08PCjQi9XLxS8cMcWpQvKIYsZN50xATxsXmtiVXJ54psVJl/75rpYu42e4n9e+APwsfRcWagLVz947DAZmhygeEtX8YZ/rVF9ilsoDGg9LiK4cJjMw9DkOV12LY+SZmKFXAyjxMKjj2xHMLxdipURSuPxEE4f3F+0JsLfE=;yIFyXBmAfv1JMd2SdK5zGQ=="
+secured: "Cn+M6GSunUkFdUW5IkY4+Gh82Ae+G/nsJYdsbgGBPg0EX4kz21R+/Fu4J1aXiUy/e8POZ9IlHGhkMyKMLfpgjA6roxeFgJLgp7jbCNDyl3Q1VIRNjbvryp4MS1Cm4RsMmSUYrHHnNQscwuQeq84IOJMY2NHs95IPFQPsf3hMpC/Clsu+BZOyez01522ipfEpsybkdl2sJhnUiMKc+HxeoBiE4cnG4xLImPakaU/5mB5H0MRoN1Kt5s9C1GXg7yfJRcAFBGhrdQ6eNZYTSE5FpUSN+hnsFH1MMEp4c9sDfN02iPFO9qLFXcFbxA9jTwAyE5g3nbm0ZazjbJDuqjuNYJraRO8rnjow1t9eKE9pYvVTOsInL4M+nFncOPjFGoQOCijlLxTb3Xrak4AWpG26V4c5D/nFlb9SyzV80ltaEiOLwfK5AdVY0hhDFMKhWDq/7CYV9HQFkhHoHk5sln5aBJQuGwLaj8TE8Oy5ITpt5DdWglC9q8RCMyYvIGUqJcI8W2EkTDPSXMpeiW7VTryLOg==;3pDxSfOVMWp4YnM9vw2q6A=="
 ---
 

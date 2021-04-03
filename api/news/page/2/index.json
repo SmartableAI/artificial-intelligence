@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-how-cloud-enables-banking-transformation-towards-contextual-finance.md",
-      "title": "How cloud enables banking transformation towards contextual finance",
-      "excerpt": "Companies adapting to the new normal brought on by the pandemic have been forced to undergo a digital shift toward contactless payments and a surge in online transactions. As a result, many are looking to Banking-as-a-Service (BaaS) to enable innovative financial and payments services that can be embedded into digital apps and products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "originalUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/jordan-steranka-0qr7aadcze-unsplash-r.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-hbo-spoofs-elon-musk-in-chilling-ai-series-that-premieres-april-fools.md",
       "title": "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools",
       "excerpt": "SXSW 2021 offered a lot to AI enthusiasts but the highlight came with the screening of \"Made For Love,\" a sci-fi comedy thriller that spoofs Elon Musk and debuts on HBO April 1. Starring Cristin Milioti,",
@@ -1260,6 +1216,58 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-fact-checkers-and-googleorg-are-fighting-misinformation.md",
+      "title": "How fact checkers and Google.org are fighting misinformation",
+      "excerpt": "Misinformation can have dramatic consequences on people’s lives — from finding reliable information on everything from elections to vaccinations — and the pandemic has only exacerbated the problem as accurate information can save lives. To help fight the rise in minsformation, Full Fact, a nonprofit",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/full_fact_presentation.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
+      "publishedDateTime": "2021-03-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

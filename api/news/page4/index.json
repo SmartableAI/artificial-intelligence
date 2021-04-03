@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
-      "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
-      "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063b82a81208ca49f790c50%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "publishedDateTime": "2021-03-30T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-new-school-board-to-bank-on-ai-for-tests.md",
       "title": "New school board to bank on AI for tests",
       "excerpt": "AI and game-based assessments will be put to use to create a ... “It’s also an incredibly complex process where one has to be very careful about ethics and empathy. It should be used without intruding on privacy and without making bad assumptions.”",
@@ -942,6 +891,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-teslas-full-self-driving-scam-are-evs-really-better.md",
+      "title": "Tesla’s Full Self-Driving Scam; Are EVs Really Better?",
+      "excerpt": "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
+      "originalUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
+      "cdnAmpWebUrl": "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
+      "publishedDateTime": "2021-03-30T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ValueWalk",
+        "domain": "valuewalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

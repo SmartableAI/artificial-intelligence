@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20410518"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20410518"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "WIMI's AR+AI vision Empowers the Fast Stage of 5G Core Network Market"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI’s AR+AI vision Empowers the Fast Stage of 5G"
-    publishedDateTime: 2021-03-30T00:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20394143/wimis-ar-ai-vision-empowers-the-fast-stage-of-5g-core-network-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20394143"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20394143"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "WIMI Hologram Cloud's AI+AR Develops 5G Application Ecosystem while Apple Plans to Launch MR/AR Helmets to Lead the Industry Again"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AI+AR Develops 5G"
     publishedDateTime: 2021-03-31T23:49:00Z

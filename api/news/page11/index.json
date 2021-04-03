@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-03-24-robotics-market-to-grow-at-a-cagr-of-491-until-2026.md",
-      "title": "Robotics Market to Grow at a CAGR of 4.91 % until 2026",
-      "excerpt": "Increase in the demand for automated systems and safety concerns for different online platforms to boost the global robotics market through 2026 According to TechSci Research report Global Robotics Market By Component Hardware and Software By Type Articulated Cartesian SCARA",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
-      "originalUrl": "https://www.openpr.com/news/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U324568725_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
-      "publishedDateTime": "2021-03-24T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
       "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
       "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
@@ -272,40 +229,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
-      "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
-      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20312454",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454",
-      "publishedDateTime": "2021-03-23T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-realnetworks-launches-ai-robocall-blocker-aims-to-lead-the-charge-in-battle-against-spam-calls.md",
       "title": "RealNetworks launches AI robocall blocker, aims to ‘lead the charge’ in battle against spam calls",
       "excerpt": "The tech: Called KONTXT for VOICE, the software uses AI models that are trained to predict whether an inbound call is spam based on an analysis of voice and intent. Two “major” telecom companies are using early versions of the product. It builds off ...",
@@ -353,6 +276,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
+      "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
+      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process and minimizes clinic contamination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1157,6 +1123,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
+      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
+      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "publishedDateTime": "2021-03-23T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

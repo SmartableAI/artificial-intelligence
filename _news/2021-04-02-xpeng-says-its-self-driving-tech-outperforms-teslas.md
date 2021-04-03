@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video"
-    excerpt: "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below."
-    publishedDateTime: 2021-03-29T23:45:00Z
-    webUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/"
-    ampWebUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
     excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
     publishedDateTime: 2021-03-30T14:52:00Z

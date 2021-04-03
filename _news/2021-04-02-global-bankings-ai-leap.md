@@ -50,7 +50,7 @@ related:
     provider:
       name: Austin American-Statesman
       domain: statesman.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/29/NAAS/9def4ffd-5a32-4f7b-a4a5-87b0f527619c-OM1_JI_tablet_education.jpg?auto=webp&crop=5439,3060,x0,y317&format=pjpg&width=1200"
         width: 1200

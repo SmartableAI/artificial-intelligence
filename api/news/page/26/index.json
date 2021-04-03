@@ -2,58 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-03-11-global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Computer Vision Development market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this latest study, the 2021 growth of Computer Vision Development will have significant change from previous year. By the most conservative estimates of global Computer Vision Development market size (most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-11-app-fintech-gratuite-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
       "title": "App FinTech gratuite: il 50% non sa che uso viene fatto dei dati personali",
       "excerpt": "Una ricerca effettuata da ESET vuole mostrare come i consumatori che usano App FinTech Gratuite proteggono le proprie informazioni sensibili",
@@ -1158,6 +1106,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-intento-announces-major-enhancement-to-its-xtm-cloud-integration.md",
+      "title": "Intento Announces Major Enhancement to its XTM Cloud Integration",
+      "excerpt": "Intento, a leading AI integration platform, announces a major enhancement to its integration with XTM Cloud, the Enterprise SaaS Translation Management System. With the 12.5 version of XTM Cloud, XTM introduced the Custom MT feature,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/press-releases/intento-announces-major-enhancement-to-its-xtm-cloud-integration/",
+      "originalUrl": "https://slator.com/press-releases/intento-announces-major-enhancement-to-its-xtm-cloud-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

@@ -53,49 +53,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
-      "title": "Three AI Apps making waves in the insurance industry",
-      "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "originalUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg",
-          "width": 2999,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-03-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidGuys",
-        "domain": "androidguys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.md",
       "title": "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details",
       "excerpt": "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30.",
@@ -1217,6 +1174,48 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-update-1-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
+      "title": "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence",
+      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "publishedDateTime": "2021-03-29T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

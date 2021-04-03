@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-how-cloud-enables-banking-transformation-towards-contextual-finance.md",
-      "title": "How cloud enables banking transformation towards contextual finance",
-      "excerpt": "Companies adapting to the new normal brought on by the pandemic have been forced to undergo a digital shift toward contactless payments and a surge in online transactions. As a result, many are looking to Banking-as-a-Service (BaaS) to enable innovative financial and payments services that can be embedded into digital apps and products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "originalUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/jordan-steranka-0qr7aadcze-unsplash-r.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
       "title": "Rust detection using machine learning on AWS",
       "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
@@ -1451,6 +1407,49 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-artificial-intelligence-in-accounting-market-to-generate-huge-revenue-during-2016-2024.md",
+      "title": "Artificial Intelligence in Accounting Market to generate huge revenue during 2016-2024",
+      "excerpt": "The key players comprise: AWS, Microsoft, Intuit ... Download Free PDF Report Brochure @ https://www.zionmarketresearch.com/requestbrochure/artificial-intelligence-in-accounting-market Along with the market overview, the report comprises Porter ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/23/transcritical-co2-market-regional-demand-top-vendors-landscape-and-industry-growth-forecast-scm-frigo-s-p-a-emerson-electric-co-danfoss-a-s/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/23/transcritical-co2-market-regional-demand-top-vendors-landscape-and-industry-growth-forecast-scm-frigo-s-p-a-emerson-electric-co-danfoss-a-s/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://garnerinsightsblogs.files.wordpress.com/2020/10/gi-11.jpg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

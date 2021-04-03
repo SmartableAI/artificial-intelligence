@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-sel
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2021/02/Large-45017-HyundaiIONIQ5RedefinesElectricMobilityLifestyle-1-e1614077626664.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 481
+        isCached: true
+  - title: "Hyundai Motor & Google will develop a self-driving car? See official statement"
+    excerpt: "Hyundai Motor & Google will develop a self-driving car? The short answer is NO while the long answer is maybe (uncertain)."
+    publishedDateTime: 2021-04-03T11:03:00Z
+    webUrl: "https://www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/"
+    ampWebUrl: "https://www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 55
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/04/Hyundai-Motor-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "fHLRWVw3C0dd3k5qrl5JWfLGlaYWMNy7SiWxTipBKtj9meriLMEJ/RfL15DHfQnidePo7Amh3CQK/pcF2DBwu3cFmoxcWfhiI6HpxVfUgFIIb1FPnRz+EpWpwuQ/UJR6VwAdMIIn5Vi1Z6wb91wsyAKVTCH/FjqmewlReGHDxuuIL3yEFP+q349dO9FQJAz8ar2m8UyLp167F0eRGyO0yArJjkIV4UQqP3DBbXgmDBz0/9xQQaGpX/AyThPcr195pyp3EwbcN5wzNQe5BA4qGuc2/DF/C6TMlgohP4vjNGVQSIlJERg9hEAt9nkos+ljclh1Yv9yjwerlpbh+lb5DRanzEQhkOOLpf34cxuF+hVpAmCUGZoPkDoV8Tvs2bgk/A25fXPHDVSdxzF8mO71LerqifWATJicbbFTTDPbDmw3l0iNYWNkWN4zXbVmT/gcgeC/Au+2WYWCIgGIPtWC/kCMAkwdHGe09R5wSSyJ25tjEHgGwUWcKBtwtVyOk0FlrBtEMaPPVDdowr42mgQgcA==;TJfW+XTUr92lZmyq0ylScA=="

@@ -202,49 +202,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
-      "title": "Three AI Apps making waves in the insurance industry",
-      "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "originalUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg",
-          "width": 2999,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-03-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidGuys",
-        "domain": "androidguys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
       "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
@@ -705,24 +662,33 @@
     {
       "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
       "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
-      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
+      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process and minimizes clinic contamination.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20312454",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454",
-      "publishedDateTime": "2021-03-23T22:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1363,6 +1329,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-use-of-speech-recognition-is-growing-what-does-that-mean-for-commercial-projects.md",
+      "title": "Use of speech recognition is growing – what does that mean for commercial projects?",
+      "excerpt": "Those numbers are noteworthy because like smartphone virtual assistants such as Siri, smart speakers are steadily conditioning more and more people to use their voice to interact with things. Those experiences at home influence their expectations about what’s possible and preferable in the workplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
+      "originalUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1615995009/widgetdocs/BAIVECTOR_Shutterstock_fukhvy.jpg",
+          "width": 750,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

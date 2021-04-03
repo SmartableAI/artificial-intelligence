@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hyundai Motor & Google will develop a self-driving car? See official statement"
+    excerpt: "Hyundai Motor & Google will develop a self-driving car? The short answer is NO while the long answer is maybe (uncertain)."
+    publishedDateTime: 2021-04-03T11:03:00Z
+    webUrl: "https://www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/"
+    ampWebUrl: "https://www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/04/03/hyundai-motor-google-will-develop-a-self-driving-car-see-official-statement/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 55
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/04/Hyundai-Motor-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ms1/d07I1a2dTFCmRIORnCPHCSLd6cTePdfadFFn1A8dzl5xAJpSan8JcULGUyeVR2fdi3OqZCj/Uk6HJX/T9ST42k2WBqH4D66RicJm01cXpfOZ1yCBudrP4Jd08btndhGCPf2s75q/sLyearzqeFQqlg3O3oSgYOS/wgwpjikEFBBbxL0Bd6S+b/Lcrd1o47pmlyejPlDgeIQQrz4qHFj2pNcKBoN0Kj/AdseF+IjiOcen6srk+QaLxEQtRrY4ddKX7xUgFwmR8uSpciuFAhHu/LbJfqyCUnKvSx/xqWwzQpg02k9yGoYGOn4bBNC4gArhziyPO2XQ9NIdGFyqvlU2WUa1fiqLILY/m6Js1KY=;N3j8gCRgjzqFuTI6v56cBg=="
 ---

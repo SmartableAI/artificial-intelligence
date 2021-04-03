@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 846
         isCached: true
+  - title: "Relishing The Joys Of A Demolition Derby For Self-Driving Cars"
+    excerpt: "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ..."
+    publishedDateTime: 2021-04-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg"
+        width: 1199
+        height: 682
+        isCached: true
   - title: "Alphabet Waymo self-driving unit CEO stepping down"
     excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
     publishedDateTime: 2021-04-02T17:34:00Z
@@ -161,6 +177,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Waymo’s CEO steps down after 5 years at helm of self-driving vehicle firm"
+    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job."
+    publishedDateTime: 2021-04-03T11:19:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/03/waymos-ceo-steps-down-after-5-years-at-helm-of-self-driving-vehicle-firm/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 38
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/waymo-truck-and-van-e1559229274410-1024x575.jpg"
+        width: 1024
+        height: 575
         isCached: true
   - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
     excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."

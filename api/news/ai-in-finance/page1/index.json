@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-how-cloud-enables-banking-transformation-towards-contextual-finance.md",
-      "title": "How cloud enables banking transformation towards contextual finance",
-      "excerpt": "Companies adapting to the new normal brought on by the pandemic have been forced to undergo a digital shift toward contactless payments and a surge in online transactions. As a result, many are looking to Banking-as-a-Service (BaaS) to enable innovative financial and payments services that can be embedded into digital apps and products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "originalUrl": "https://www.finextra.com/newsarticle/37785/how-cloud-enables-banking-transformation-towards-contextual-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/jordan-steranka-0qr7aadcze-unsplash-r.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
       "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
       "excerpt": "Processing of human language via machine programs has been coming to corporate computing for a while now. Some believe it can be not only reliable but also very broadly applicable. Software startup Moveworks of Mountain View, California, which has been ...",
@@ -1381,6 +1337,49 @@
       "provider": {
         "name": "La Stampa",
         "domain": "lastampa.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-fintech-il-futuro-delle-banche-tradizionali-che-punteranno-sullinnovazione.md",
+      "title": "Fintech: il futuro delle banche tradizionali che punteranno sull’innovazione",
+      "excerpt": "Dopo la crescita Fintech, il passo decisivo delle banche, sarà quello di abbandonare le tecnologie di legacy per diventare più agili",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "originalUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitmat.it/wp-content/uploads/2018/06/fintech.jpg",
+          "width": 870,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitMAT",
+        "domain": "bitmat.it",
         "images": null,
         "publishers": null,
         "authors": null

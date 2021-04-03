@@ -9,8 +9,8 @@ ampWebUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-real
 cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: ValueWalk
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video"
-    excerpt: "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below."
-    publishedDateTime: 2021-03-29T23:45:00Z
-    webUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/"
-    ampWebUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The Debate Over Tesla’s Full Self-Driving"
     excerpt: "debate over Tesla’s full self-driving. Get the entire 10-part series on Ray Dalio in PDF. Save it to your desktop, read it on your tablet, or email to your colleagues Volkswagen was in the headlines yesterday after it posted a press release on its ..."
     publishedDateTime: 2021-03-31T16:04:00Z
