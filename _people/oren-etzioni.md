@@ -3,7 +3,7 @@ name: "Oren Etzioni"
 bio: "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence."
 location: Seattle
 type: "profile"
-heat: 124
+heat: 112
 
 affiliation:
   name: Allen Institute for AI (AI2)
@@ -14,7 +14,7 @@ website: https://allenai.org/team/orene/
 twitter:
   username: etzioni
   url: https://twitter.com/etzioni
-  followers: 25951
+  followers: 25948
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Oren Etzioni"
 
-secured: "MUnzOFHWoZ8oX2H8dGZegBXyz15G4HlS7EC8AAoXMpdTOmAjwrL+XMax4zvFKLZp1PJIl6hmaLNeEqTs6ms0cctprLBzuFBWGJ+TaKG7KaRmgNynVhrsPoJ088m+F0o27N9Z/4dkBZxVlsp2sCv6gBJ8B9CFsLEYH5K2SBQ6P/Y1ruTECd3ZCts8SVMCwnZLbLoeDfYkExQ6jlanTxU/FdRwpLd1vooPpZsiovkgibY3lwB/ObQ/gdHAmVw3sNw2qj5WGwWhjE/ifnUsQ60VPzo+JKPDxAdUllbUiAG3iyIUeLIumEsa/ZnnSdR/VB4VjJO6lb/T2EJW6YuRc2w4XqvyNwB9xCexuKIl4VaijAkO8wqm3OIoaECHwKwWoagvJCjjApSD0mll/3A9sa/P+47v6FYeRHTtJnPZqq424/k=;oVbT6XveoaysmjRM3XKqPA=="
+secured: "viLIPR6Dl0ptzR58w7xIIn+YFnpuZciO1G8vbuvsXMN6oFPuYrcXlsRUCdc+HWCilQ1Pr2y5fH8ZGUH9A6KnklpeqijjNrt3ARlRzfx4JelJMoZmK+cyngr6qT2zhPBzYiEmpKeo454Go8JC27rQ0EbLKylN1kaUkBTHC4bRzOBotEZ4FaQXlesGNj5+Y3WB4sAEUsZrVhbIGQNzo63rWWU5Aq8K0giK5bJ/y1Je/o2Ed3AlnTuv08oe6oH0JPPkHmpyu+oxLPAFFwAIRAFj5wQwUECInOHJ6G8eCM/OPQ4ucMRviGDrpLgKmFv9B2iGNDPic63Btrr7/9wa2lo5vEDfnmTgMXso8PV/cNthNBVcEaOpOK9Bzi3R+2KolaJdjcK8g9qfxtJ8YefCcxAMZEUkpOzqFCD/aEcYv52QhAQ=;ukJWgHqW9uY7ohr5f9P6iw=="
 ---
 
