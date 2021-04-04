@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details"
-    excerpt: "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30."
-    publishedDateTime: 2021-03-30T12:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Cleveland Clinic to be First U.S. Site of IBM \"Quantum Computer\" for Advanced Healthcare Research"
     excerpt: "The Cleveland Clinic and IBM announced a major partnership this week that will make quantum computing, and the theoretical research there from, a key"
     publishedDateTime: 2021-04-01T20:35:00Z
@@ -104,20 +90,6 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1617115623/IBM%20Quantum%20System%20One.jpg/IBM%20Quantum%20System%20One.jpg?s2D2T.04WI9uPzs6k0flwJEz9jEeMiAK"
         width: 4000
         height: 4000
-        isCached: true
-  - title: "Cleveland Clinic and IBM announce 10-year partnership to accelerate discovery in health care, life sciences"
-    excerpt: "Cleveland Clinic and IBM have announced a 10-year partnership to establish a joint center, dubbed the Discovery Accelerator, to advance the pace of discovery in health care and life sciences through the use of high performance computing on the hybrid cloud,"
-    publishedDateTime: 2021-03-30T11:56:00Z
-    webUrl: "https://www.crainscleveland.com/health-care/cleveland-clinic-and-ibm-announce-10-year-partnership-accelerate-discovery-health-care"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 6
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/The%20super-fridge_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "1fzOJ1zT1iDyyZ5T8Qfe+E6lVm6K2bo+Xam8jNL8NbULjUnpTXmI5+CIWxHYOB7KNjUEuzjAkMLdQyvgoqXHehCvtS6eqKRGiiNKXH0Axaecjo0HQCX/FxU9WBeJcIgxSBSH6FrPr/SyxzoNnaTvIXWEdOjfrI1ux2XtxdyN4Ls/8fuPElmhqdKBksGl95iVD2rkMAj2harydA/aY9gXN/UDmR3USAASVNcP3nahzP0psHPk+lkbz7HA5mUn4TxW46lLBKFpA4X2fYRLiCKJKPisPSm2XNcCiNKqPIoGAMOHUaKO6s60sIQFKPwUze4Q5Jh2oDenev748FQgkFy5Wj9BpB9lVfyLv21I+RslD81kC5J7PqPAVBs7KiaXeB9mktdtl1rTkI2ONijb06D/GIx6cHX8T05G1SSgscc8aU89KGHDL58uVr1xZ6oTXWWi61ryAT3mxvSyx9sRYB3in/Jmd+xv7TCN1GizJFm1QpcKH2m33Bl32tsrDBmHyRFhEK60ciW0C7AGHYKByqjmJA==;Zf04d69o+2Ahunrh8YMBxQ=="

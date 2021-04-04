@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 950
         isCached: true
-  - title: "Ambi Robotics Emerges From Stealth with Advanced Simulation-to-Reality Artificial Intelligence"
-    excerpt: "an advanced robot operating system based on simulation-to-reality artificial intelligence (AI). AmbiOS rapidly trains robots before deployment to pick and pack items for fast and affordable integration. The technology powers the company’s two flagship ..."
-    publishedDateTime: 2021-03-30T12:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-north-america-containers-and-packaging-manufacturing-38e0cd824cf14185a7ba1aad5c828a49"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 57
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ge7J0x+4XV5C+rJkJ3+eWPE1gwq+FLKhsipDQhQdcE6mLsQL3I5ow9XFYgMe6/JwDc16DQOTV0n9/7yo4Wg/mq5spRwnJmOKkdaZsKQEsj2uAYswtd16h/e/m6y7k9k8htdewxSq6ynb9HLYy7ALdkFVUwwqlpuvpKgXeXkfZZaiKe42lTJr+81agfHQIOMh3e8iKl9xfeNPimRh/JgIn2uO+JuYX3Ju9Gt1J/+ELRIYqBuZC7B2X96ZwRIwoIeuxgaDFZpKti63gLe41j3+eV6fw4RnR6MFvFqm7vdHjFPQhz0yZF7B+fxmdadR/TViMSuB/ZRydFr89kYgzHC16oyBJ54bnqD/FOAZxtVz3Sm1bgnOyln8eSUAL8H5QUp+5uF0ouA6MdepCqNUXGFRi/Bx2VEMX8ev7zuQC7+cW/SpGfuFNzCVpa/bDkLY3rQeZ1S89y5/KT1Lx5fif3hbjFIlx//0rh/PUmTvnZ+0FjEUka5756fKc2c0VHGYH2HwvEd9iL0xd5LDv2d6yRTjCw==;C4dOlFK2rmgL8kF75tv1Aw=="
 ---

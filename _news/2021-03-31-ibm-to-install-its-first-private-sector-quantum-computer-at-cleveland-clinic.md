@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details"
-    excerpt: "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30."
-    publishedDateTime: 2021-03-30T12:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Cleveland Clinic to be First U.S. Site of IBM \"Quantum Computer\" for Advanced Healthcare Research"
     excerpt: "The Cleveland Clinic and IBM announced a major partnership this week that will make quantum computing, and the theoretical research there from, a key"
     publishedDateTime: 2021-04-01T20:35:00Z
@@ -96,20 +82,6 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/cf70beb12362af69cb283a4a14d54a97/default-image-share.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Cleveland Clinic and IBM announce 10-year partnership to accelerate discovery in health care, life sciences"
-    excerpt: "Cleveland Clinic and IBM have announced a 10-year partnership to establish a joint center, dubbed the Discovery Accelerator, to advance the pace of discovery in health care and life sciences through the use of high performance computing on the hybrid cloud,"
-    publishedDateTime: 2021-03-30T11:56:00Z
-    webUrl: "https://www.crainscleveland.com/health-care/cleveland-clinic-and-ibm-announce-10-year-partnership-accelerate-discovery-health-care"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 6
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/The%20super-fridge_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Cleveland Clinic, IBM partner to speed health care and life sciences discovery"
     excerpt: "The Discovery Accelerator is expected to build a research and clinical infrastructure to empower big data medical research in ethical, private ways, discoveries for patient care and novel approaches to public health threats,"

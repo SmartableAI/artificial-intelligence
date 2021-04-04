@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-how-natural-language-processing-makes-our-lives-easier-and-improves-your-business.md",
+      "title": "How Natural Language Processing Makes Our Lives Easier and Improves Your Business",
+      "excerpt": "Although some calls are indeed used for training purposes, more often they are used to improve natural language processing algorithms. We have all heard the sentence “This call may be recorded for quality and training purposes” when you call the call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "originalUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
       "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
       "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
@@ -423,6 +457,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-ai-natural-language-processing-and-the-battle-for-unstructured-data.md",
+      "title": "AI: Natural Language Processing and the Battle for Unstructured Data",
+      "excerpt": "Increasingly banks are turning to the field of natural language processing (NLP) and machine learning to extract valuable information from voice, documents, and audio to boost productivity on trading desks. It’s all part of a broader push to gain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
+      "originalUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Traders Magazine",
+        "domain": "tradersmagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1342,102 +1410,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-how-to-liberate-marketing-from-mundane-tasks-with-ai.md",
-      "title": "How To Liberate Marketing From Mundane Tasks With AI",
-      "excerpt": "Embedded AI and automation can help with high-volume ... Auto-generate editorial text with human-like accuracy using Natural Language Generation (marketing content, product descriptions); and translate content in context. Optimize users’ ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/72c60a827d814069bac850c47d695dd3.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

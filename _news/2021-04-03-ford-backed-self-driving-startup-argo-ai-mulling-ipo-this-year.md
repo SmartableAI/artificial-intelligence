@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-sel
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
-  - title: "Chipotle invests in self-driving startup Nuro"
-    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
-    publishedDateTime: 2021-03-30T12:54:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 4
 
 secured: "ErN2vdBEjLVxCQnJuR3v53KisexEptvvfPzDXXcoyQkAYIk6U0Kj9Ym4kzUy4Fe1yWgXBtgB02ONrcluj3nBZ1oWSRJ9n16S7EDgn3cSBI6/BTDQJNzaTHb7NcjkSjI3/VHt5uCPmGw6NPcnTKImMSsKo30KKjBfzjVtbHCvL0pRVzki6ZlobBwR3i6HExvhqS9H9W4Se4ZWcQc2qeSoFyR0+M92ITFQRx4HlRafWw2U+5yxzRJBppYWvqhFQ6Ypca9tZ29s5Lwp3HoCji8GW2XYsXKYGhxccqcY+wHtqMWfKqestcAF0t8PVs1uSk8KEiP/C58vi3b4HqP+t224X4l0mx7tqdJF9eeFYXjSI7M=;15jwlxA0S57+HNZV8y2caA=="
 ---

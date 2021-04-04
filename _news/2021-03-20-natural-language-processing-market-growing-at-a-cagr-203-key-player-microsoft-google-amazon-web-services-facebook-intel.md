@@ -1,22 +1,17 @@
 ---
 category: news
 title: "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel"
-excerpt: "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period."
-publishedDateTime: 2021-03-19T20:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19"
+excerpt: "and Region – Global Forecast to 2026 The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate ..."
+publishedDateTime: 2021-03-19T18:51:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20259676"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20259676"
 type: article
-quality: 75
-heat: 75
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -24,12 +19,6 @@ topics:
   - AWS AI
   - Microsoft AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "A7ksY9HYK7NCSXPJ8kXyy/Sj1WlrQWIdKmwsQXHc8bGgyRThwoOF/JT2O+jw2d1Cyb87/+kLpLpHSOkvtEpe4R9GXGJPhcGtBcALNxRiVfa5Qk6kNAipCle3wch7mq3AuxDu3nrGH4LMrrxstjEe1VKNMbSWH6ULbLInhU76QEgwH/x7lIuoZ8CtJC/wKADWNOa891wo3D1G6yU8PHOLssQ8q1npIXQAFi9hDYPfgyuO/656cbsQwjZDzRkR3nryD7n3Ukbnt4DyMMztpKdF3MhTOgd7J+pERrICGvHs1m3XVkrQYM3tKoCGmI4pdJ30s6WAdnrCrAy+4WslZZ+zT2loSvYQMsjxTQdp7Xut/g4=;6uQ92vZ4jKXJ5I02vV4Hgg=="
+secured: "phyWe2h9wCVGAMHISRKVptFfJXpJvaVgm9Um3lv+ZWR4nI9ZxLm3ySN3rrEgDj4JZjBWBIfZYiA5xYl+hSD8vIgaG/8RIFGHIpZ5u7SNRija9XGBA1PxRDd4CbLOPAgPZWfRT66QjvtfBh8WHK7CO2osLQ27a2fJUIxt8exV941LqgwNt63GGqsqfKLnuAt7JSgI4r21QibP5bG5uSN3+zlAgBPPVQT9685KujieJ5/8VypsAiEjf52E0BSfVTKDl+2dh9KZwe/tuBW2cE2j9IEdpNCu6HhGj8MSHCji5SJhnzjT9WOI7tmL7lHb1FoQlKREg5AYDQ239nUobd1nBrWx7SVr7ueD9SrVCDecunA=;KmBYqMxeU7DSurc6qHvnXQ=="
 ---
 

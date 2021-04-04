@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
 cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tampa airport to use new facial recognition technology for international travelers"
+    excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
+    publishedDateTime: 2021-04-01T18:24:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2021/04/01/tampa-airport-acquires-new-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "fECHAUOJP50plJL1hM+U+g5NinWccnsCo5WL1cSbCgCxwp2gL9eAojszaFDIuzZPvaCI12hs+HNmnAwCmZSpOwlh0EGWyX866D/ok7NOVJDNOGpq2bZYmiosIMNQIv0kXS57r7sY8qoxcK4lPhgp8Yof5Illd7hkprFxlAroZlgPXtUpYCrPQ4D4tq0bRJ3lx0Uo+x8M789KjW8Y4rjOc1s6XizQo+1SOV7snMzUKXOAgroKhK331fklIni6OPXG8fcmKwN0bV2NJRfQB48bm1k/0aNB0v3qKnZxqhxcBmezykjsAPzE6LYSPd2mAVkmTww3vXWTcb3+cvqrI8VL7oZc9oSbojPTEKh4B7+PYYgZPlLZpNleKjhgHV1hJpnMXhK9vKG54nO+vlkOIIEVyfoq6kgyUDHVYkdzuaSM+U29jcRAdFaSxtd7JiVNDrZQ8rJRj+j0lrpTe9EX3LNTqHVxS/wjohPIpQ8fyxMeas8aDuec78WoNs5dB8Ll6kBJjWQtKtuHsppqALFj0brnYA==;WZFYpyj6j62Xo58xnZo6Jw=="
 ---

@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2021/03/before_after.png"

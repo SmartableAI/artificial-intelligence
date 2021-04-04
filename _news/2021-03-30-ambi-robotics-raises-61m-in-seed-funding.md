@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-
 webUrl: "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambi Robotics Emerges From Stealth with Advanced Simulation-to-Reality Artificial Intelligence"
-    excerpt: "an advanced robot operating system based on simulation-to-reality artificial intelligence (AI). AmbiOS rapidly trains robots before deployment to pick and pack items for fast and affordable integration. The technology powers the company’s two flagship ..."
-    publishedDateTime: 2021-03-30T12:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-north-america-containers-and-packaging-manufacturing-38e0cd824cf14185a7ba1aad5c828a49"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 57
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Tangram Vision Raises Pre-Seed Funding Round to Enhance Sensors and Help Robots See the World"
     excerpt: "Tangram Vision is announcing that it has raised a pre-seed fundraising round and is launching its sensor management SDK. THE TANGRAM"
     publishedDateTime: 2021-03-31T15:30:00Z

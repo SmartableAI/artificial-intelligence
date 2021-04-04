@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
+      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
+      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "publishedDateTime": "2021-03-29T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
+      "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
+      "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
+      "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
+      "publishedDateTime": "2021-03-29T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
       "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
       "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
@@ -514,6 +618,48 @@
       ]
     },
     {
+      "path": "_news/2021-03-29-alva-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "alva named winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-02e8b85ffd164064d43efb8a2723c0d6",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-02e8b85ffd164064d43efb8a2723c0d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
       "title": "Robotics and coding to be introduced in Grade R classrooms",
       "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
@@ -996,144 +1142,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-it-pro-panel-does-ai-have-a-place-in-security.md",
-      "title": "IT Pro Panel: Does AI have a place in security?",
-      "excerpt": "Machine intelligence is the last invention that humanity will ever need to make.” That’s according to philosopher Nick Bostrom, and it’s arguably true; AI has huge potential to enable and accelerate the efforts of human beings across a wide range of disciplines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359037/it-pro-panel-does-ai-have-a-place-in-security",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359037/it-pro-panel-does-ai-have-a-place-in-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1616758588/itpro/IT%20Pro%20Panel/The_IT_Pro_Panel_-_Does_AI_have_a_place_in_security.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359037/it-pro-panel-does-ai-have-a-place-in-security?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359037/it-pro-panel-does-ai-have-a-place-in-security?amp",
-      "publishedDateTime": "2021-03-28T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-growth-outlook-how-covid-19-change-the-picture-of-ai-in-construction-market.md",
-      "title": "Growth Outlook: How COVID-19 change the picture of AI in Construction Market",
-      "excerpt": "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "originalUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U329837683_g.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "publishedDateTime": "2021-03-28T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
-      "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
-      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "publishedDateTime": "2021-03-28T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

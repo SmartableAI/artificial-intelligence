@@ -2,6 +2,245 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
+      "title": "How to watch NASA’s Perseverance rover land on Mars today",
+      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
+      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-amazon-accused-of-breaking-employment-terms.md",
+      "title": "Amazon accused of breaking employment terms",
+      "excerpt": "But the Bureau claimed “thousands of Amazon warehouse jobs advertised through Adecco are exactly that, while those employed via PMP Recruitment are on “minimum-hours contracts”, which despite the name do not guarantee weekly or monthly hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.personneltoday.com/hr/amazon-accused-of-breaking-employment-terms/",
+      "originalUrl": "https://www.personneltoday.com/hr/amazon-accused-of-breaking-employment-terms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Personnel Today",
+        "domain": "personneltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
+      "title": "Operationalizing Enterprise AI At Scale",
+      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "publishedDateTime": "2021-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
+      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
+      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
+      "publishedDateTime": "2021-02-19T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
+      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
+      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "publishedDateTime": "2021-02-19T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-deep-learning-with-tensorflow-certification-training-course.md",
       "title": "Deep Learning with TensorFlow Certification Training Course",
       "excerpt": "IgmGuru takes great pride in introducing the well-curated Deep Learning with TensorFlow Course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
@@ -905,229 +1144,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-zero-hour-contracts-and-wrong-wages-the-reality-of-being-an-amazon-agency-worker.md",
-      "title": "Zero-hour contracts and wrong wages - the reality of being an Amazon agency worker",
-      "excerpt": "Every single one was posted by either Adecco or PMP Recruitment, both agencies hired by Amazon. But many of the temporary staff taken on have told ITV News that they felt exploited, and were put ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/2021-02-18/zero-hour-contracts-and-wrong-wages-the-reality-of-being-an-amazon-agency-worker",
-      "originalUrl": "https://www.itv.com/news/2021-02-18/zero-hour-contracts-and-wrong-wages-the-reality-of-being-an-amazon-agency-worker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-privacy-tip-272-to-get-up-to-speed-on-facial-recognition-technology-read-this.md",
-      "title": "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This",
-      "excerpt": "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
-      "originalUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
-      "publishedDateTime": "2021-02-18T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-new-obstacles-for-robotics-in-2021.md",
-      "title": "New Obstacles for Robotics in 2021",
-      "excerpt": "With better functionality, mapping, sustainability, ethics, and privacy, robotics as a whole can solidify itself as a game-changer in every facet of life.",
-      "sourceUrl": null,
-      "webUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
-      "originalUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebossmagazine.com/wp-content/uploads/2021/02/thisisengineering-raeng-H4ClLKv3pqw-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/amp/",
-      "cdnAmpWebUrl": "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/new-obstacles-for-robotics/amp/",
-      "publishedDateTime": "2021-02-18T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOSS Magazine",
-        "domain": "thebossmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-anthony-levandowski-closes-his-church-of-ai.md",
-      "title": "Anthony Levandowski closes his Church of AI",
-      "excerpt": "The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "originalUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "publishedDateTime": "2021-02-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-googles-restructuring-of-its-ai-teams-sparks-further-criticism.md",
-      "title": "Google’s restructuring of its AI teams sparks further criticism",
-      "excerpt": "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/",
-      "publishedDateTime": "2021-02-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

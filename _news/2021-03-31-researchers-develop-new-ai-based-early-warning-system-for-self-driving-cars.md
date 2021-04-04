@@ -47,15 +47,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Chipotle invests in self-driving startup Nuro"
-    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
-    publishedDateTime: 2021-03-30T12:54:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 4
 
 secured: "0tBXHSuAyIhbBKdtpXjVP51U1i8NCaU/UNOs55DxehSVL1n7htyeN7Iuz84F8o15iwZ26hAxPO1gEvJgcsSDZnTQH8GwSkJs7EF1caNqw0qHMXfXN9aPPAXj2yKHU85TH5PGiJr51OOKP/KfugINBkGcwA805Dx6uAR8VDpYPHIZTwr32ZjBN8vvNGc0zzfMRQWa2vkM9dhhWG7DK/oolu7+IYwZitOu+YeEaDco4tAAX8JBC9ejXospSUl19yAEhTX+TOMbnNaye3HdCgOFMop58RqvlceSBLZdB2E6jjvSY6U6quPUb0B64ckE4V7o+iUDqRUe5S5JVoqU4c/G6Cm24bK8XrF/NrsfCkHYgdY=;DvhCks6yLCQ9vD+Ehu2TdA=="
 ---

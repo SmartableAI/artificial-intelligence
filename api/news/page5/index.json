@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-30-capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform.md",
+      "title": "Capitolis lands a16z-led $90M Series C for fintech SaaS platform",
+      "excerpt": "To date, the startup says it has optimized $9 trillion in terms of gross notional balances. AI fintech products are operating at scale and investor interest is maturing Alex Rampell, partner at ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/money-explosion-gradient.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
+      "publishedDateTime": "2021-03-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards.md",
       "title": "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards",
       "excerpt": "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ...",
@@ -104,7 +156,7 @@
       "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -147,7 +199,7 @@
       "originalUrl": "https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -785,6 +837,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-30-gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identification-and-analysis.md",
+      "title": "GBT - Filed a Nonprovisional patent for Systems and Methods of Facial and Body Recognition, identification and analysis",
+      "excerpt": "... of an image such as a human face and unlocking functions for any computer or smartphone screen based on facial and body recognition, including covered face or body. Many mobile devices such as smartphones include a facial identification (ID ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20396888",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20396888",
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
       "title": "Redefining what a map can be with new information and AI",
       "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
@@ -1110,110 +1196,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
-      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
-      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "publishedDateTime": "2021-03-29T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
-      "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
-      "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "publishedDateTime": "2021-03-29T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

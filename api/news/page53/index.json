@@ -2,6 +2,211 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-02-21-now-that-science-fiction-is-reality-its-time-for-new-laws-of-robotics.md",
+      "title": "Now that science fiction is reality, it’s time for new laws of robotics",
+      "excerpt": "With those ends in mind, here are four new laws of ... order and flux. AI and robotics threaten to make social control too perfect, and competition — to be the entity capable of imposing or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2021/02/21/opinion/now-that-science-fiction-is-reality-its-time-new-laws-robotics/",
+      "originalUrl": "https://www.bostonglobe.com/2021/02/21/opinion/now-that-science-fiction-is-reality-its-time-new-laws-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonglobe.com/2021/02/21/opinion/now-that-science-fiction-is-reality-its-time-new-laws-robotics/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/02/21/opinion/now-that-science-fiction-is-reality-its-time-new-laws-robotics/?outputType=amp",
+      "publishedDateTime": "2021-02-21T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
+      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
+      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-20T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
+      "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
+      "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cybersecurity1200-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "publishedDateTime": "2021-02-20T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s retreat from Watson highlights broader AI struggles in health",
+      "excerpt": "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "originalUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2026.md",
+      "title": "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026",
+      "excerpt": "(MENAFN - GetNews) The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global voice and speech recognition market to grow at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101633422/Voice-and-Speech-Recognition-Market-with-Segmentation-Growth-Opportunities-and-Forecast-2021-to-2026",
+      "originalUrl": "https://menafn.com/1101633422/Voice-and-Speech-Recognition-Market-with-Segmentation-Growth-Opportunities-and-Forecast-2021-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-02/20/G_b51317ec-4image_story.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-google-fires-yet-another-ai-ethics-lead-and-weve-gotta-ask-whats-going-on-over-there.md",
       "title": "Google fires yet another AI ethics lead and we've gotta ask: What's going on over there?",
       "excerpt": "When it comes to artificial intelligence, it seems that Google and ethics don't mix. The tech giant is back in the news this week after Margaret Mitchell, who until Friday worked as the lead of ...",
@@ -950,239 +1155,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
-      "title": "Google Cloud Platform: A cheat sheet",
-      "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/03/21/57a279f5-6449-4ef6-8b0e-af00e3801dee/thumbnail/1200x675/58add3a5bec78b015fd9d832b6cca61d/google-cloud-platform.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-19T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-has-fired-another-ai-ethics-leader.md",
-      "title": "Google has fired another AI ethics leader",
-      "excerpt": "In December, Google pushed out AI ethics researcher Timnit Gebru, sparking a response from the team calling for her to be reinstated at a higher level. Instead of doing that, Google announced Dr ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/margaret-mitchell-google-ai-233309349.html",
-      "originalUrl": "https://www.engadget.com/margaret-mitchell-google-ai-233309349.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/naX1T3yFSQkJPMhj1CchlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/os/creatr-images/2020-03/3eb8aac0-66cd-11ea-affd-8698022e16d8",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/margaret-mitchell-google-ai-233309349.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/margaret-mitchell-google-ai-233309349.html",
-      "publishedDateTime": "2021-02-19T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-visible-light-face-recognition-door-access-control-android-system-installed-with-turnstile.md",
-      "title": "Visible Light Face Recognition Door Access Control Android System Installed with Turnstile",
-      "excerpt": "Visible Light Facial Recognition System Facedepot-7A is able to automatically recognize and track faces in videos. After installation,System is enabled to actively collect face images and perform matching and identification upon any human activity in its 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
-      "originalUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.globalsources.com/IMAGES/PDT/BIG/829/B1179870829.jpg",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Sources",
-        "domain": "globalsources.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest.md",
-      "title": "Google names exec to oversee responsible AI research after staff unrest",
-      "excerpt": "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14234968/16x9/991/557/ac2f012b947c7ce54796194ecb1686a8/rO/file-photo--logo-of-google-is-seen-in-davos-1.jpg",
-          "width": 991,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

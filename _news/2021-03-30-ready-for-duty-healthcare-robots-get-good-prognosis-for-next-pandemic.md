@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-goo
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1920
     height: 742
     isCached: true
-
-related:
-  - title: "Ready for duty: Health care robots get good prognosis for next pandemic"
-    excerpt: "Robots helped hospitals confront the coronavirus pandemic. What lessons are engineers taking with them as they think about the next generation of health care robots?"
-    publishedDateTime: 2021-03-30T12:00:00Z
-    webUrl: "https://hub.jhu.edu/2021/03/30/robots-in-health-care-settings-challenges-advantages/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 41
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/robot_arm_thumb.jpg?itok=wiiCN9Bg"
-        width: 2400
-        height: 2000
-        isCached: true
 
 secured: "ROifw6nwonlGCYCsi9FEmKpinLusHkTcsLDHVz1dCLQEBTXYTUgXFCgsIeAtIKXLt804oODFtQvtqW/AJUR3UX3gYc2K+0GhLeCFfAjUnBzaYIVF0DKo9ws1sCwhz03ppahZF7zIUVlqxVgVlOPt+fq/rCn28pj+Rrp/q/6d4rJV4qOBQ29QJ0ROxmVG28becaeuUpQVdpcl4KAYZjwGxVEGf7TKsZ5D+urebCr3wJ+EiQ+EoFWczcXyDK4A5ATVJCIA7jxlZB3I4iihsFDqtHHi+sftTlqCCCrJy0H4oUuhFFyBUvwDg2ENtlTffD9wexFlhCD1ZvbKWPfKdBm6I+So/ODW2u5mtGOWpHmWYAdgC+24ZmTV1sKB+4emBkbQ/xWZ6Yb/BarGjeAAww2h3VKH8Tji7PX+DejlgCk+coRmkK3FK0oHaECP6EaiEC4zcWMhLLkSP6aCTN6tzF1AK2G+J1LWVQJ1K/uctsETzcnGjsYe+6l307D7FKZ+U+z6J9DOPn68GyJNT74g3RKy8g==;wBbArceQ5gZNu4E6LEUQdQ=="
 ---

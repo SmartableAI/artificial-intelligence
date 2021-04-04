@@ -47,15 +47,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
-  - title: "Chipotle invests in self-driving startup Nuro"
-    excerpt: "This investment follows this month’s investment from Woven Capital, an investment wing of Toyota, to invest in Nuro as part of its goals to advance the work in designing and engineering self-driving road vehicles to transform local commerce through ..."
-    publishedDateTime: 2021-03-30T12:54:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16524/chipotle-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 4
 
 secured: "k6GzmyKPx8WNW5AHj5bilg9NMtl6/iIC/x+Jq4wgrmM9Hv88wN3+bohq9qnWDtiUHC1Q2yFt8ciLmMLFGZfLFNiRKKCgk5GY/rhZa1K6Mntgwx1cePovdviI45S45EBwVpi488twlMztG6Zqd9dE3KUpjM37T1ZEgIwVasYG+odC9Y/7IqwKGU8F3OhUJkwx/+PSEvtptGfJHAi4j5o0ph3cE6VPFbNOLSzSgJtBC4lU5t7tKn9jF41KXfGGDUCJPnBn6j89n0q110f/s5xKtn/0s3GUf5Fb64wonC6NMxGNi/U11TiIpacUXIeoncHB1eCI8v2ZXjQ0tT1/bTiYYNuLilrlvQWu/IFd2S7No94=;lNmGTmbyfBFEpeYLE13C1g=="
 ---
