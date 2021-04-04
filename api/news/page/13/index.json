@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
+      "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
+      "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
+      "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
+      "publishedDateTime": "2021-03-23T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-the-robots-are-coming-for-your-office.md",
       "title": "The robots are coming for your office",
       "excerpt": "RPA isn’t robots in factories, which is often what we think of when it comes to automation. This is different: RPA is software. Software which uses other software, like Excel or an Oracle database. On this week’s Decoder,",
@@ -1137,49 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-researchers-are-helping-artificial-intelligence-understand-fairness.md",
-      "title": "Researchers are helping artificial intelligence understand fairness",
-      "excerpt": "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/teachingaiwh.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp",
-      "publishedDateTime": "2021-03-22T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

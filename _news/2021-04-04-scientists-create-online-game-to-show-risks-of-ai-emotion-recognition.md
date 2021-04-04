@@ -2,28 +2,30 @@
 category: news
 title: "Scientists create online game to show risks of AI emotion recognition"
 excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
-publishedDateTime: 2021-04-04T03:18:00Z
-originalUrl: "https://www.grampianonline.co.uk/news/national/scientists-create-online-game-to-show-risks-of-ai-emotion-recognition-17336/"
-webUrl: "https://www.grampianonline.co.uk/news/national/scientists-create-online-game-to-show-risks-of-ai-emotion-recognition-17336/"
+publishedDateTime: 2021-04-04T06:12:00Z
+originalUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html"
+webUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html"
+ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
+cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: grampianonline
-  domain: grampianonline.co.uk
+  name: Irish Examiner
+  domain: irishexaminer.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.grampianonline.co.uk/_media/img/YSK51L06TLVLUV30CFK5.jpg"
-    width: 1620
-    height: 1080
+  - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "DipMbsL1DE8h6JoadUb0hWz95i85OUIrp3USbj/zPhpxI2Utsdhz3XoxJmIj+0EbcnfFbVEmdM6P9mSTAWjs+3f6KcDQHQE7tvjTu5uOYradQebDaxttR01f19KFQitZdmVvbSzLloVBpiJdGQZ/2SfsGNkeMgRwZAJzod4Nfa3Up1L905uiWcZlj39x5N9ynK5HWufz3Fc9rDLcVnkxLR3otW9u6rR0OpSYW0iiHmSzPUSEwqMiQMnHZJ3qdQoMLpRVYoH95h9vTKF+D4pynBsMQlsip2zfIXI/A6LM7rED4CQnpg0+Fu9fljsnINYCWr8CwGPR9co5qjMlLk7nEuBz+vFAJYTbNrxXZBawE9c=;BSJAMyUe4gza99hMRRWxyw=="
+secured: "boLwGpWj1lgJRhzUW9Q1j9mMJ8/AIE10B8/STftEh89BvabcuBPIReL1WP0dFvpTmltj9FNFc8SDx6veWmVQqs0Dbk+j/W572BJQtP0g3r816xjN6iZMYSCQjqWI2rMgaDPyQUMnQZ95t99Gc/BTiDwtDNBuF7zznWxwKUPrdsJHyUx4zB5sqdFCqOCeMQTPTLSImW3SYcPCY/4JYCEcSL53UIJ+J8T/LP2uEd4LQzyvaNTVrlwNqA4h0sB7TaZQVvapA3nT5CNsDqoAuqQD+4hUDaWWWExz58JbHePgHF3L1P4Ugi9L0t3DpiNv5cHuR5MCAp7vCNe2svD4PY2XYmp60iCd9MqdCn1TCeFmQcM=;Qixltu8j4tNjQEGy/jV22A=="
 ---
 

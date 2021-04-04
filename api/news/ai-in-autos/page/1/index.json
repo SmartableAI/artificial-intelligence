@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-self-driving-cars-that-are-jinxed.md",
+      "title": "Self-Driving Cars That Are Jinxed",
+      "excerpt": "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in April",
       "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
@@ -271,7 +323,7 @@
       "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -306,21 +358,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
-      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
-      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
+      "path": "_news/2021-03-31-aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks.md",
+      "title": "Aurora, Volvo are latest partners on self-driving heavy trucks",
+      "excerpt": "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "webUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
+      "originalUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -328,16 +380,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "publishedDateTime": "2021-03-30T10:57:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
+      "publishedDateTime": "2021-03-30T14:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1426,49 +1478,6 @@
       "provider": {
         "name": "NHK",
         "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-uae-driverless-cars-to-transport-passengers-for-free.md",
-      "title": "UAE: Driverless cars to transport passengers for free",
-      "excerpt": "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free",
-      "originalUrl": "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.khaleejtimes.com/storyimage/KT/20210323/ARTICLE/210329629/AR/0/AR-210329629.jpg&Imageversion=default&NCS_modified=20210323082534",
-          "width": 1280,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free",
-      "publishedDateTime": "2021-03-23T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

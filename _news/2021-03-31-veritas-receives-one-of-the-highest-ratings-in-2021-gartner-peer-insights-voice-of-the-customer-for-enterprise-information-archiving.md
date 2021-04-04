@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/mediareleases/138970/veritas-receives-on
 webUrl: "https://www.arnnet.com.au/mediareleases/138970/veritas-receives-one-of-the-highest-ratings-in/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Veritas™ Receives One of the Highest Ratings in 2021 Gartner Peer Insights 'Voice of the Customer' for Enterprise Information Archiving"
-    excerpt: "Veritas Technologies, a global leader in data protection, availability and insights, today announced the company is being named a 2021 Gartner Peer Insights Customers’ Choice in Enterprise Information Archiving."
-    publishedDateTime: 2021-03-30T14:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210330005712/en/Veritas™-Receives-One-of-the-Highest-Ratings-in-2021-Gartner-Peer-Insights-Voice-of-the-Customer-for-Enterprise-Information-Archiving"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "5Rnj5WNS0PoKnFgP0GBX8QwamlobHYdCz1k0dao9cgUJKuMJMo2Xn2k9nI3cIrs3qlilvqGvH2n4+NM2sFas9Z22KpWHWM+LesWKw9aT6V3CWPpeisOOxK6H5VIStuDAQF3w5Zr4KfP4JOZMznrddFrs4iB9PsCkrYvS1TbeY8i1l1DsQIRw8upffQ94mptD15jZvS95y052lqxYJvqCXHy5Fyx587b7o2hCjgD/H8CLoyKlEhF752mV4CZXj8OdASwfhKlEdUooWYSopavpeI0enolXbwmA2l/VnQIGOPN9zLcKO3k3lZr83XrYlH7dSfxXWVDbOGVZl+gC6JHxRtoWwQy36H+6TZm5vzjqzC0=;Ir/y5K2NAbChJ3rmBWRscA=="
 ---

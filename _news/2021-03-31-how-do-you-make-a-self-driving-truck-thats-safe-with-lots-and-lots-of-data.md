@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,73 +31,45 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars That Are Jinxed"
-    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
-    publishedDateTime: 2021-04-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+  - title: "Aurora, Volvo are latest partners on self-driving heavy trucks"
+    excerpt: "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis."
+    publishedDateTime: 2021-03-30T21:18:00Z
+    webUrl: "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF"
+        width: 818
+        height: 545
         isCached: true
-  - title: "How trucks became the next battleground for self-driving technology"
-    excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
-    publishedDateTime: 2021-03-30T13:30:00Z
-    webUrl: "https://www.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
-    ampWebUrl: "https://amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+  - title: "Volvo partners with California company to deploy self-driving trucks"
+    excerpt: "Volvo Autonomous Solutions has joined with the self-driving company Aurora to develop autonomous highway transport for class 8 Volvo trucks, which are produced in Dublin. Specific models have not been determined, and information about the timeline has not ..."
+    publishedDateTime: 2021-03-30T21:04:00Z
+    webUrl: "https://www.wdbj7.com/2021/03/30/volvo-partners-with-california-company-to-hasten-deployment-of-self-driving-trucks/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 24
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0d2ffc-d196-4234-8d87-64f502e64ba1.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 333
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/bEipmQz_6XBfOwEBSzVFYzKLHTc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/LUAUJ2IXBVHB5GCAHXXAFTK3JU.jpeg"
+        width: 980
+        height: 623
         isCached: true
-  - title: "How to break into the self-driving industry after college, according to 10 rising stars in the field"
-    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving-vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
-    publishedDateTime: 2021-03-30T13:30:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
+    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
+    publishedDateTime: 2021-03-30T18:32:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
-    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
-    publishedDateTime: 2021-03-31T13:42:00Z
-    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-    images:
-      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
-    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
-    publishedDateTime: 2021-03-30T13:37:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 1
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "DpuPglOcvkZPeQwF9gMZMhkg7W4AN2f8XnfTopjYgAua21LOYj4f5O6O3l4/8486qmUevZSwNXU1QpgQU4TqbPJLbfnyGeEiFQOs24W3E7cBb0aX1WQcNoI8K/+sXyWuvHQOkGLxIC0FfufFFkv7rzk3U0DNyVSekyxnfam2a5kGMmU9rWDtpiGO69mK9ZvZCPWFu7q+I/AGyvP6z6tZSdL57H5fwJ60sRh836cghVztJgTnOklez+lxacbw3dRyJ0Q3XGfd2OAGH2iuEFjPEeER5RElvFMGT1Etukkj0TQqfMDjBu3X52ceFGsq81kfIPmJ4l+Z3BEiNLduhl4ROFZx+6VYLpexyZYWfZDfW8iB5pKnO2PnFTq+QgF69tULKokcRxlA+o7yKHH27s6xsqKMtFPpCF8YQUXCTb1YU6b8igE5FVQQkM6YjMXwdhi6xzsNpkVvT8yRl1Ece0Igv4hq2leKI1ZQ70qdUPGICCddlTy6Ap7BJHLXbwya05YKFpHsCjWFNAfucCmKax4G3Q==;5GgOBguE34KxTN6JXkhkjQ=="
 ---

@@ -967,6 +967,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-29-us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess.md",
+      "title": "US chip giant Nvidia to recruit 600 engineers in Israel to boost AI prowess",
+      "excerpt": "The US firm, which completed acquisition of Israel's Mellanox Technologies in 2020, already employs over 2,400 workers in seven R&D centers including in Yokneam, Tel Aviv, Raanana",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/03/-ומייסד-אנבידיה-גנסן-הואנג-קרדיט-צילום-באדיבות-אנבידיה-e1617007247895-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "publishedDateTime": "2021-03-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-youve-invested-in-ai-but-are-you-getting-roi-from-it.md",
       "title": "You’ve Invested In AI, But Are You Getting ROI From It?",
       "excerpt": "Quantifying the return on investment from Artificial Intelligence is not easy. With these four steps, you can measure your business value systematically.",
@@ -1099,49 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-machine-learning-helps-spot-gait-problems-in-individuals-with-multiple-sclerosis.md",
-      "title": "Machine learning helps spot gait problems in individuals with multiple sclerosis",
-      "excerpt": "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/20-machinelearn.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp",
-      "publishedDateTime": "2021-03-29T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

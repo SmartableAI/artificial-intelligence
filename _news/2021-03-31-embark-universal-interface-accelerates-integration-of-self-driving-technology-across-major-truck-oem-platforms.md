@@ -45,15 +45,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
-    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
-    publishedDateTime: 2021-03-30T18:32:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "xxH4DjYc8sCB4Ozf7b/k8egBEtSy+RmmYppg/2+6VqgA8AccR4PH73bvD2iG89zyRVWGWAikYxA0hhzwG10NzlwlkV1n/4EQ6e0cHROWdytES5U2rXvVqpFaEXQhjkfqnLMz7ReO9GRx8in+6ID3prUjqQSUyN6TCn6l787YgdTDZb9sB8iE2g0HMPILO1Jy4DApoImQ7jFivgtF+InWu1hMWJdFGGfVFQl1UM+MznPRvP+Om0rC+DX3emuFKjZt2w0aYcKoCrYGYB5c7Q6OD2TD9RlGK22JE5dxnn54j8YcvYvenF4RHNWXuJ5rCpazc/bBD+8+Pw9D3Z/71GT2BQKU++wAkJo8PZNWFWAK8biB0vCe7dcPYpYuI/THUbXY6u1uWNLErGCquRiH/8RfKuaXP3NYOn8DLZ11kEodqhztaUrdzSiBWzIwa9GzwohScnZ60/iU0QWrwSdfbDfZOZOtpht9iP/G2tcL6qeT7cjmPklCmjEPNcs+Q3a6PZ0GfqMj3/I+6jP8YZBbPMlBEw==;iFj4tXU/btRaCR+87vQvrg=="
 ---

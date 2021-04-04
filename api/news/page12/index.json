@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-24-amazon-web-services-partners-with-hugging-face-to-simplify-ai-based-natural-language-processing.md",
+      "title": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing",
+      "excerpt": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
+      "originalUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png",
+          "width": 613,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-disney-begins-testing-facial-recognition-software.md",
       "title": "Disney begins testing facial recognition software",
       "excerpt": "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021.",
@@ -1127,58 +1171,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
-      "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
-      "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "publishedDateTime": "2021-03-23T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.valuewalk.com/debate-tesla-full-self-driving?amp"
 cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/debate-tesla-full-self-driving?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
-    excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
-    publishedDateTime: 2021-03-30T14:52:00Z
-    webUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/"
-    ampWebUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
-    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 59
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Xpeng says its self-driving tech outperforms Tesla’s"
     excerpt: "With help from Alibaba's map technology, Xpeng says it now has the most advanced driver-assist function for Chinese customers."
     publishedDateTime: 2021-04-02T07:52:00Z

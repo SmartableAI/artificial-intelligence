@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-16-retrotechtacular-6ch-industrial-robot.md",
+      "title": "Retrotechtacular: 6CH Industrial Robot",
+      "excerpt": "With this robotic arm demo video from 1975 the future really is now. Think about it, there are entire factories full of the descendants of this technology where the human workers simply feed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
+      "originalUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2013/09/retrotechtacular-6ch-robot-arm.png",
+          "width": 640,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
       "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
       "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
@@ -1153,48 +1196,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-israels-dreamed-yale-team-up-on-ai-diabetes-monitoring.md",
-      "title": "Israel's DreaMed, Yale team up on AI diabetes monitoring",
-      "excerpt": "Israeli medical software company DreaMed Diabetes said on Monday it was partnering with Yale New Haven Health System to use artificial intelligence (AI) in monitoring insulin and glucose levels in children with Type 1 diabetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
-      "originalUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
-      "publishedDateTime": "2021-03-15T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

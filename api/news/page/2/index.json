@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-02-global-chip-shortage-affects-more-than-cars.md",
-      "title": "Global chip shortage affects more than cars",
-      "excerpt": "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "publishedDateTime": "2021-04-01T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
       "title": "Study finds that even the best speech recognition systems exhibit bias",
       "excerpt": "Learn more. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the world. That’s the top-line finding of a ...",
@@ -401,6 +349,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-self-driving-cars-that-are-jinxed.md",
+      "title": "Self-Driving Cars That Are Jinxed",
+      "excerpt": "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
       "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
@@ -712,7 +712,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {

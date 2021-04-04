@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market Demand, Scope, Share, Growth, Applications, Types and Forecasts Report 2028"
-    excerpt: "which is driving revenue growth of the global Artificial Intelligence in BFSI market. Download Sample PDF Copy of this Report At https://www.emergenresearch.com/request-sample/585 Key players in the market include Amazon Web Services (AWS), Inc., Google ..."
-    publishedDateTime: 2021-03-30T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-demand-scope-share-growth-applications-types-and-forecasts-report-2028-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
     excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
     publishedDateTime: 2021-03-31T17:13:00Z

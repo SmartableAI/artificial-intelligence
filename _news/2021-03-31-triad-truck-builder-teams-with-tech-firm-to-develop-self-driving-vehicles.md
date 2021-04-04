@@ -19,35 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck developer TuSimple files plan to go public"
-    excerpt: "TuSimple, which is developing self-driving truck technology in Tucson, has filed for a proposed initial public offering of stock with the aim of trading on the Nasdaq Stock Market. But the ..."
-    publishedDateTime: 2021-03-31T21:45:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
+  - title: "Aurora, Volvo are latest partners on self-driving heavy trucks"
+    excerpt: "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis."
+    publishedDateTime: 2021-03-30T21:18:00Z
+    webUrl: "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/f8/5f83028b-5067-508a-9053-a6e0157dba87/6064eacd13914.image.jpg?resize=1024%2C540"
-        width: 1024
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
-    publishedDateTime: 2021-03-31T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
+  - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
+    excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
+    publishedDateTime: 2021-03-30T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/"
+    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
-        width: 400
-        height: 267
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Volvo partners with California company to deploy self-driving trucks"
+    excerpt: "Volvo Autonomous Solutions has joined with the self-driving company Aurora to develop autonomous highway transport for class 8 Volvo trucks, which are produced in Dublin. Specific models have not been determined, and information about the timeline has not ..."
+    publishedDateTime: 2021-03-30T21:04:00Z
+    webUrl: "https://www.wdbj7.com/2021/03/30/volvo-partners-with-california-company-to-hasten-deployment-of-self-driving-trucks/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 24
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/bEipmQz_6XBfOwEBSzVFYzKLHTc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/LUAUJ2IXBVHB5GCAHXXAFTK3JU.jpeg"
+        width: 980
+        height: 623
         isCached: true
 
 secured: "SL2nwwzucBFNVy2pZ0ikqqS3PbaoyDo+mMFTjlVgl9bej8IlR2rf6VHV2sn+unu3AouQfLJU7bOEYEAbsLVlzg/KB+q1WnilCVhg21TVbSmISeQULIGxCxB/otW7MG2EoIs58LXq8+npBeVT3o0Qm3bbMDYi5SjGOCy4tqRdynud+UjatILzZz2L/vZUAcFd14KuMOa8zpIHYFTJW6eZHfm2Qo+I00BwHBKtRk+Nt6dvDxmKhw1c6K281ux2IpevMRB64tXpBFi/es37ogkywP5ynixo6QQfSodhoj8FmxtUJmWchJx5gZV3kMddw7CaItq1mv1uObkR9qcDvOkTlybaSFGSr4oYEi+7Pzyq9bGdZiHdemZdXXf+7dVUvsicM+U6JPxhXTMt6dY6cdhRU0icbZumnBuDD/C1ARoDIgjLIXtSKW5B9OfhTK7ieNYvBdasu9rsr+zxR+rqjCJS0htD5/OlG4ezHs+30V+U+V50dFNBRzX/kCxtpPROdjO+uTgszaNXOTLGKal2ReJhjQ==;+cou1Oog/DM/wxOUkUOifQ=="

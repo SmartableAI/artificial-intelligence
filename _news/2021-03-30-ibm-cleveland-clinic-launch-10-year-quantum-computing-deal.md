@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cleveland Clinic, IBM Launch Artificial Intelligence Partnership"
-    excerpt: "The ten-year partnership will aim to accelerate healthcare research through the use of artificial intelligence and quantum computing technologies."
-    publishedDateTime: 2021-03-30T14:58:00Z
-    webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-launch-artificial-intelligence-partnership"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Cleveland Clinic, IBM ink a ten-year quantum computing deal—here are 2 ways the tech can be used in healthcare"
     excerpt: "The news: Cleveland Clinic and IBM struck a ten-year partnership to use AI and quantum computing tech to facilitate healthcare research initiatives, like precision medicine and drug discovery. As part of the deal, Cleveland Clinic will get to install IBM ..."
     publishedDateTime: 2021-03-31T14:36:00Z

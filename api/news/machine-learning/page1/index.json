@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-02-google-offers-free-online-training-and-certification-in-artificial-intelligence-and-machine-learning-check-details.md",
-      "title": "Google Offers Free Online Training and Certification in Artificial Intelligence and Machine Learning, Check Details",
-      "excerpt": "Google is offering free online training and certification in artificial intelligence and machine learning in fraud detection, chatbots and other topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/",
-      "originalUrl": "https://www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/01/online-backup-service_opt.jpg",
-          "width": 850,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/amp/",
-      "publishedDateTime": "2021-04-01T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -1477,6 +1434,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "SuccessKPI Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "CHANTILLY, VIRGINIA , UNITED STATES, 2021 /EINPresswire.com/ -- SuccessKPI Inc., a leading global SaaS analytics platform for contact center intelligence (CCI), announced today",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "originalUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20520643_G.png?lastEditedDate=1616493814000",
+          "width": 480,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

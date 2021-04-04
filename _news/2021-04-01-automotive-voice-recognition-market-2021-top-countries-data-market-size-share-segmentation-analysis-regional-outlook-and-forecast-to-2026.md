@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning System Market Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2028 with key players"
-    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market The global deep learning system market size is expected to reach USD 93."
-    publishedDateTime: 2021-03-30T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2028-with-key-players-2021-03-30"
+  - title: "Here’s a detailed market report about the speech and voice recognition market in 2021"
+    excerpt: "Voice recognition is the future of everything. We are living in the world of IoT, where every modern device around us is connected with each other via the internet. Is there an escape? No, or you’d be a caveman. Much like the movie Back To The Future ..."
+    publishedDateTime: 2021-04-02T04:42:00Z
+    webUrl: "https://www.analyticsinsight.net/voice-recognition-market-will-be-worth-26-79-billion-by-2025/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
-    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
-    publishedDateTime: 2021-04-02T09:07:00Z
-    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
-        width: 421
-        height: 250
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/voice-recognition-1.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "rci3VtVDHPsbgdUSNGrYZ2BeRJdzLGM6vbyANF1/6EZH7syFTc1XuU4uaZ54trpXwNN8UNDXqI27Vd6d4zA2uhzqndizJIF54PGwh+uu6Ly0VqTrmr20DU4Q6jC1VvVyNDSDNtNYREQg8fFFuA1RB3G1Zkh1H8jvaKTivFBr2pa4FuTGjvhpDpTQkPgfNq5a27MgV0KiH509iec1no7nuvghE061lKkneVZCPa+eHRAJq3hvReuvczYlwkbdC4b49r0EWc6jlBeOyy1jGnzWVLSARoN2QfMOMY7XtMl+otWk0kp3rUnfgAnMj9AzBFYsQXXEUrDwYiUc5/xIUdczbzk9ajW6XBH9PLXI5PCB/po=;3/79V6KN+Rvl/5ddHl297A=="

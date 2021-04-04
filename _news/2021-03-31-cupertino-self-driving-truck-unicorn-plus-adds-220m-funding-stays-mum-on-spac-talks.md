@@ -72,6 +72,20 @@ related:
         width: 3000
         height: 1875
         isCached: true
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "YLw0CdEHx8LQqo692OMgN7hdf0ne7MJ6xc49OTqnD1k2x+78j80RU4a+hVWgbv7YtfDJeBdJmmXWofy5FzhRq/iCmBk2bTIvpUSQNqBMdhPfpeIYns7c1IgpIV8yfDk6C/TZcmcPSd0INpIyPRCM+FgHhZ4GF/x9nAAvBCmwSnXWTbtZynbaL6kSCVA+kEeoz0PCSEdzNp5plysJL6tev1ZTLJr3uri4uTkC6gnBlhBeybg0AiKRhV0Vds9CE6hjS0fCR36hrjfADV97gbDIiHaSK/xReGt000ZE9ZHSAB4DPep/b8+YYVYQM2OO21k0rrjwLKeUJXRdFbwG933nUqJgidlItkSy8s2Z/0MNAX7Kg1fPtZDID6z2vRdl4gTsnR/1jjsuZHXnMlKutmAEOq7Oad75/57Ey3vgzE+CepctM196x7noFnfanBlJjX9QTqCxIumqQl71bduCu+xdXBbpdGeWo9q6Ck7KsZSiOHp+sdPQPudofNVYSSG5uISkzbZunfMZyMycDsGY/YoOkQ==;D3GDz8k4ply0FF5zvxPXpw=="
 ---

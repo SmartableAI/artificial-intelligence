@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Waymo CEO John Krafcik is leaving the self-driving car company"
-excerpt: "Krafcik will stay on as an advisor to the firm. Waymo, which was founded in 2009 as the Google Self-Driving Car Project, is working on autonomous-driving technology for future ride-hailing and ..."
-publishedDateTime: 2021-04-02T17:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
-webUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
+title: "Waymo CEO John Krafcik is leaving the self-driving-car company"
+excerpt: "Read more: How to nail the key interview questions that Aurora, a Jeff Bezos-backed self-driving-car startup, asks job candidates Before heading up Waymo, Krafcik served as the CEO of Hyundai Motor North America and of the car-buying website TrueCar."
+publishedDateTime: 2021-04-02T18:53:00Z
+originalUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4"
+webUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4"
+ampWebUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images2.markets.businessinsider.com/5ff5df8ad184b30018aad44a?format=jpeg"
-    width: 790
-    height: 510
+  - url: "https://i.insider.com/60675075a7d803001963e7d3?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -228,6 +230,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "1EaQ6+1wqBxYduTPJXCPmkpDZ+vY5srFof9eZkGcyNoAVF++Sdq8H74sa5zvpHF8tfO/egkoLuysCXRgIDrEOZyLL2/EMTVJFPZVc0kkkLCQXoOO15Z/c6KCpT7ngkVGadE9KhZIYIqoOB6ZRu4Vq5iNUZNvqLSyUMGYvh1J0Ez+1s0dWviMw6fnkLUmc/InpNwiud3UvPFitxWGr9x1Msy/du9ktitKrAjIMNTY6DWojPxJZZo27Nn8PRZ4p5haDfNRjDFVu7MUbbjTpoLkUa/RjtYKGgVB+qkGzUqqG4Vf3VgDKNyTatwl8l9n87hG/ZJx4etYT7LPdxXoNTACOhsOa1x9ouSQeA9/i07ylgc=;I/UJx4viiP6E9PnOR+CjGw=="
+secured: "qiucR4DRfILksC+mZGQfefJdQ/+unkDm6LfSKZ/MoJM6uFm8Q+K3Y5Jgg7asCz1oKZETykDcLgSiisoGPTzcC0fYow7Cf7OqVG7fUHVBl7dVzunYNyrsusMOoyGq44IKQdCr5HfnA5XJyGDDAO8m2NYAimy6N7iJKZHNaK7891fXTPgpsCku7+XWwnG4Jx4zcKpZc13K28TunGi2xKiM9XwgcsYFtDLxr0qVu/mgcb245FjqjWEwfV13Zj561GU1Elpacfkl9yHtVYnaCy4pxCgH5fFxTHUHngvLD6zdEaNaM+4dFvaaivRSSZARyU7xIJQUfOxyLMTE66zLsdh15AKhAUDHhc+AIAI4uegD0iw=;reJSQYPRjEmPKCxO661Lvg=="
 ---
 

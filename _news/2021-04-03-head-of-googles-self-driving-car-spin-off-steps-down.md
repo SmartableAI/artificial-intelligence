@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Waymo CEO John Krafcik is leaving the self-driving-car company"
+    excerpt: "Read more: How to nail the key interview questions that Aurora, a Jeff Bezos-backed self-driving-car startup, asks job candidates Before heading up Waymo, Krafcik served as the CEO of Hyundai Motor North America and of the car-buying website TrueCar."
+    publishedDateTime: 2021-04-02T18:53:00Z
+    webUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/60675075a7d803001963e7d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Waymo CEO John Krafcik to step down from self-driving car company"
     excerpt: "John Krafcik, CEO of Waymo, said Friday that he's stepping down from the top job at the self-driving car arm of Google parent company Alphabet. Krafcik will be replaced by two executives who'll lead as co-CEOs: Chief Operating Officer Tekedra Mawakana ..."
     publishedDateTime: 2021-04-02T18:59:00Z
@@ -118,20 +134,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Waymo CEO John Krafcik is leaving the self-driving car company"
-    excerpt: "Krafcik will stay on as an advisor to the firm. Waymo, which was founded in 2009 as the Google Self-Driving Car Project, is working on autonomous-driving technology for future ride-hailing and ..."
-    publishedDateTime: 2021-04-02T17:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://images2.markets.businessinsider.com/5ff5df8ad184b30018aad44a?format=jpeg"
-        width: 790
-        height: 510
-        isCached: true
   - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
     publishedDateTime: 2021-04-02T20:33:00Z
@@ -224,6 +226,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "nMX7DaZghSUBWz55kHtmgl5PgarYkPncdv/XUIytiEJNZUMJ+qujE7aI4EHYOzrOSwAl/ThJEEUNTwHQnIPykEBaYz5FpewYeYPlsq53azmaMdm40psgpJHQEBNiWNLRLGZALFK/zAW5CZg2yDOhwo6RpUWe3L3gldChIPqYL7hrYJDJ/1O7APOqE/Ql4MSSmIkArn/29sel3CX0L8BcqgE53asSUcsB5O4+7AAjcO+ukt9fW0CYn37Hq0+l7DuCg1z1yMj6qLtFU/vRmrnnhtzEc6/ZsJrfV3PZ+181fWLl1GBWPIbIAU3UJPZbS17RxSioC6r3JKiA2N9ZDN+4AZ/8iR9e1un3wekESliqQvQ=;CubOT/3cYCG0TtY/2AExUQ=="
+secured: "sqzDGbGukBAymyOSIlXT7tpVCFVaRVtvKGRGR6oJ08hgdSyCcjl+xcx9iqFrncuTrKGczgGT+Y5N67SaUYT7yRsl8g7qGciRTpHZO2j9oqDkJDov3qWjyp0PCNRJQ39MduEeJ7Ypqesz93Ah1nmIgAm+T6YD8GGnSf/g4Wc5JaeY1Rxb2g0LFI5pcQoCzvFymDsZwPoB7Ip7tnxq1PVkWQxw9yDluONW0+y+1tv19bTcFgFu++COGlN0esw4SqdpEc1KVnTv1fqVG4rmNGlMdzDEfLDQ4T/PxbU3HD91XTssrl7yQSFLc2CBr2Gh8LPXVEDotcsUoklLY2P8EP0IsvBYmjUZOmLzZi16LweF+ruRPvCCtwFmdPC1XgVS6A0insk1iNzdno8NOfPUmNNPQnqdT1VCVU0cT4bYtltR4fUMS5JAH2b8QD8Bqu7DCWeKh9HNF+AbjX4PI+DCNGmu5PPFKks5RZNVd0UKQkBNmBcyH8BkKmiLdbBS2/SQjt/W5TzAF2yWwxV6wvepp70VjA==;mt3/eMdGagdML2oaFku5eg=="
 ---
 

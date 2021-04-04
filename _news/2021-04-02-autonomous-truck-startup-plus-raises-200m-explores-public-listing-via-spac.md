@@ -63,6 +63,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cupertino self-driving truck unicorn Plus adds $220M funding, stays mum on SPAC talks"
     excerpt: "Self-driving truck startup Plus isn't talking about a report that it's considering going public in a merger with a \"blank check\" company, but is nonetheless rolling up capital at a rapid clip. The Cupertino unicorn on Wednesday said it has topped off a $200 million late-stage funding announced in February with another $220 million in new capital."
     publishedDateTime: 2021-03-31T13:19:00Z

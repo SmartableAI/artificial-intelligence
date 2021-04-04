@@ -148,20 +148,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 70
-  - title: "Arm announces the Armv9 architecture for the next 300 billion chips"
-    excerpt: "Arm is announcing the Armv9 architecture, the first new architecture for ARM processors in a decade. Two major focuses of the new architecture are security and artificial intelligence."
-    publishedDateTime: 2021-03-30T14:00:00Z
-    webUrl: "https://www.neowin.net/news/arm-announces-the-armv9-architecture-for-the-next-300-billion-chips"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 69
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/03/1617051912_arm_cortex_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing"
     excerpt: "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits."
     publishedDateTime: 2021-03-31T13:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
 cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://i2.wp.com/media.nbcwashington.com/2021/03/AP_21086596693454.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Virginia State Police admit they used facial recognition app after repeated denials"
-    excerpt: "The agency said investigators signed up for free trials of Clearview without their bosses knowing — a similar explanation to one given by Virginia Beach police recently."
-    publishedDateTime: 2021-03-30T14:04:00Z
-    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html"
-    ampWebUrl: "https://www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 53
-    images:
-      - url: "https://www.dailypress.com/resizer/hKFhBXXA0QvHHGWfG9aQUqVqxLM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7GUXQQBQWZF25LMGBFB2GN4TUQ.jpg"
-        width: 1200
-        height: 694
         isCached: true
   - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
     excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."

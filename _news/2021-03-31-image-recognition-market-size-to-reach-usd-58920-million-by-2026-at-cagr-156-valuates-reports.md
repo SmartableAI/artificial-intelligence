@@ -39,19 +39,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025"
-    excerpt: "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ..."
-    publishedDateTime: 2021-03-30T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30"
+  - title: "Artificial Intelligence (AI) Hardware Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
+    excerpt: "The recently released report by Market Research Inc titled as Global Artificial Intelligence (AI) Hardware market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate, and impact of the ..."
+    publishedDateTime: 2021-04-03T08:01:00Z
+    webUrl: "https://ksusentinel.com/2021/04/03/artificial-intelligence-ai-hardware-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research1-5.jpeg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "iiN0mF2+fKHeNOdy/LsoGMVBzFWTufzHkXC8Ui5yQ4BGcsvbfntKVuyy5iGjFOdsseo5mqBHLjZjKg5A8aeJCb0+Db6xVvBaCywfcYHeKRTEYA4b/7A9Cb6phiaUcTgeQavpSQhjnxbm4ZwFfeY+ujEWeRSKkEm+fKjR6MYaotzM71kk9unV/EIJ2SMIKKoy40TSZz5CfhyAgiewLnCEuzpasJHqWqIdMcyknE4p07/GL+25if14w1sNNNn5YWffEcoGeXfroGYesCOuXDj0fbwjoOEyPmxIAMCIXgiZEhgaKJF6uihg2GElzJ8w1Oeyy9HXxmyeCIGnK8LjmpbkaThRndnqNRTmbKsjHaq7BzAYsBEfStDM6iGo1XO12HQ0cWSuT6pcEmZxrDTqbVHG6+WutE9W2VbrrH2G7SsBQ3jdnNEiBEYjN3GhZF5VGmg04aeUAHd5gSABxaj25/kS4U8hTknV59m1TqODn36wIrEnW/tkRJqWKfPZBNeaCrwPuuLAgthfWP+35BpTMf2cYg==;QtpI36lCnp0hzq3OuQKMJg=="

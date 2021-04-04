@@ -29,14 +29,14 @@ images:
 related:
   - title: "Chips are down: shortage stymies manufacturers"
     excerpt: "The US-based company, one of the world's largest white goods companies, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai said in Shanghai..."
-    publishedDateTime: 2021-04-04T03:14:00Z
-    webUrl: "https://www.businesslive.co.za/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+    publishedDateTime: 2021-04-04T06:34:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
+      name: Times LIVE
+      domain: timeslive.co.za
     quality: 59
     images:
       - url: "https://lh3.googleusercontent.com/CPHhj_J2lOknSW630iAnKHYOlmHTncKAY9n-oOovwGIiBQL67zCddoB9tUHJjQmzn0tZ43pw1aaMAwH7UglicUgbYdtXjIsOHg=s1000"

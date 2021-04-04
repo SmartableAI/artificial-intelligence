@@ -2,19 +2,19 @@
 category: news
 title: "Chips are down: shortage stymies manufacturers"
 excerpt: "The US-based company, one of the world's largest white goods companies, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai said in Shanghai..."
-publishedDateTime: 2021-04-04T03:14:00Z
-originalUrl: "https://www.businesslive.co.za/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
-webUrl: "https://www.businesslive.co.za/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
-ampWebUrl: "https://www.businesslive.co.za/amp/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
-cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bt/business-and-economy/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+publishedDateTime: 2021-04-04T06:34:00Z
+originalUrl: "https://www.timeslive.co.za/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+webUrl: "https://www.timeslive.co.za/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: businesslive.co.za
-  domain: businesslive.co.za
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - AI Hardware
@@ -44,6 +44,6 @@ related:
         height: 506
         isCached: true
 
-secured: "WDyfzJJLz2O7d9ZOyvUrvixCqC2YtuoeBPF+evkS06ngDRkJEgC4K9tMn/0sBBVI7oTgjwJLfst0VNrXvvMS2AZaAGJdZJqCREpjajjWfmGE1m22u2OMlE4LKZX2vKMoGtGHFbOStKTECK0zJXO8TiIEexddOVk5gi66HzCLaOB10g/DKgyfcuVbskFyZlIZSPpTy6jkEEt4XrjiWNzIZkIEo5Jp3MUFamABxE8TP1ok/cydyZdU9yO/Kmo6wVcENnuK1R8N2DEC+ocaK4JIAwCHthWH4PBK4wllzWQTNvIChLBUdbpaKVqgxtGebFzj7/C1xEsM0R0SH+vq54TPEggR7ZiU1sq1/kwbk7dMPHg=;OsfYVPNX6fza44+9y63e5g=="
+secured: "00WLhI+TGaVxOqm0DefMPNEVP8OqQMMheVhvrkaaYNpFf5Y4l9Hg8CVrbTF4QQTWM/L8gujJW0G/mn3PNeabQKdJNZGgiO76Wj1OmuREqewLUCfTJgbdVieUb7zqo1FZVBN/k7r/+PQg6+LY7KTAmpxKFmCYK7DOw4WBETUys6GDz/qJMiNofPyCAwLjDpLIaxAFl08uOPjkSzfBRnj0Emk6eCQsDVPDlNAzUoXI6xtN+uoM6cXfzniV9GG9oA9dob7H2mzsEWANjA3eQiNSvhOvVyORR82ykvuypaoIm1YGUuYZNSlODKPxCSdMkvth0QejEkFhAXDoBqlmcYJ+7oiXE0N00So9vgKr4AVvvyI=;WGHwZMEaxuB+R2EXv8Pigg=="
 ---
 

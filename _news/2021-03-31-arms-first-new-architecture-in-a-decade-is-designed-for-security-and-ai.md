@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 275
+heat: 265
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 70
-  - title: "Arm announces the Armv9 architecture for the next 300 billion chips"
-    excerpt: "Arm is announcing the Armv9 architecture, the first new architecture for ARM processors in a decade. Two major focuses of the new architecture are security and artificial intelligence."
-    publishedDateTime: 2021-03-30T14:00:00Z
-    webUrl: "https://www.neowin.net/news/arm-announces-the-armv9-architecture-for-the-next-300-billion-chips"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 69
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/03/1617051912_arm_cortex_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "ARM introduces v9, its first new chip architecture in a decade"
     excerpt: "With v9, ARM focused on three primary areas: security, AI-related processing and overall computing power ... by executing in a different environment from other software. ARMv9 chips will also feature the latest version of the company's Scalable Vector ..."
     publishedDateTime: 2021-03-30T18:04:00Z

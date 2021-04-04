@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "These Stanford AI Lab Dropouts Raised $50 Million To Improve Conversations"
-    excerpt: "Startup Cresta’s Series B from Sequoia, Andreessen Horowitz, Greylock and others comes as the software maker for retail reps and call center agents quadrupled sales in 2020."
-    publishedDateTime: 2021-03-31T09:50:00Z
-    webUrl: "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/"
-    ampWebUrl: "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/amp/"
+  - title: "6Sense, which uses AI to power account engagement, raises $125M"
+    excerpt: "Sales engagement platform 6Sense, which leverages AI to bolster various marketing workflows, has raised $125 million in venture capital."
+    publishedDateTime: 2021-03-30T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606402e25866b237e6b2c221%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
+        isCached: true
+  - title: "Celential.ai, which matches software engineers with jobs, raises $9.5M"
+    excerpt: "Celential.ai, a startup leveraging AI to match software engineers with open roles, raised $9.5 million in venture funding."
+    publishedDateTime: 2021-03-30T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/employer-hero-e1615920570719.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Zn/XYk2wx4d3BFt3S0cmJ9k3FvgMcaSFpORw78mn2zgKy6RnLZt0ZZsFkvq+ZcDKlVtScYbXPaTq6YYNlht9Gtjel2Ifv8Cocn3KhBQGYog7jHB4IqeSGWBR1NwCNcaloHk8Pz/ghX5pBWbFJ1Hs53/lmJ1rIu0fHXiGkJfnpZncTc04XhLuvMKbcXiePO2poqWxt1VJUJxXrCKiyg2kwU+/a5DA6VJrS2SawZkBsNiGU+fqYXaux6OApXk+3z6md1pbU3UgTrf4qrF82r5zCG1zcLI3Obkhe/jf47JKcuEbuQ/os10NgEKPd+lIzIi9aLHK2GepY6+8QRIpOoR2MgAN8z/uP+N2UbsbymJDQmew5/APygq+KAP1AC3yxV5gbavEwyKZc3ZRtVCH1TI/j7ioynbB3HOn1uy96f1olUz+6geqXipLIjHMb//zjQrPvDLfiVXqCM7Rcd8eqn4kYFEwGo5IY4DIxLAD7/dKSUYEESPMVaHaA2jHJa0hr3j0FMuHdnzzGy5zMLGVOGZaAA==;bsPj+byEqTpbqBNy7ko2pw=="

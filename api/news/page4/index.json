@@ -381,6 +381,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks.md",
+      "title": "Aurora, Volvo are latest partners on self-driving heavy trucks",
+      "excerpt": "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
+      "originalUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
+      "publishedDateTime": "2021-03-30T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-scientists-used-ai-to-link-cryptomarkets-with-substance-abusers-on-reddit-and-twitter.md",
       "title": "Scientists used AI to link cryptomarkets with substance abusers on Reddit and Twitter",
       "excerpt": "An international team of researchers recently developed an AI system that pieces together bits of information from dark web cryptomarkets, Twitter, and Reddit in order to better understand ...",
@@ -484,19 +536,19 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-celentialai-which-matches-software-engineers-with-jobs-raises-95m.md",
-      "title": "Celential.ai, which matches software engineers with jobs, raises $9.5M",
-      "excerpt": "Celential.ai, a startup leveraging AI to match software engineers with open roles, raised $9.5 million in venture funding.",
+      "path": "_news/2021-03-31-6sense-which-uses-ai-to-power-account-engagement-raises-125m.md",
+      "title": "6Sense, which uses AI to power account engagement, raises $125M",
+      "excerpt": "Sales engagement platform 6Sense, which leverages AI to bolster various marketing workflows, has raised $125 million in venture capital.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
-      "originalUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
+      "webUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
+      "originalUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/employer-hero-e1615920570719.png?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -506,8 +558,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
+      "ampWebUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
       "publishedDateTime": "2021-03-30T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -700,7 +752,7 @@
       "originalUrl": "https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -742,58 +794,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
-      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
-      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "publishedDateTime": "2021-03-30T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

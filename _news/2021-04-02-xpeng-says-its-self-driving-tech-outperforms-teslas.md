@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
-    excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
-    publishedDateTime: 2021-03-30T14:52:00Z
-    webUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/"
-    ampWebUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
-    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 59
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The Debate Over Tesla’s Full Self-Driving"
     excerpt: "debate over Tesla’s full self-driving. Get the entire 10-part series on Ray Dalio in PDF. Save it to your desktop, read it on your tablet, or email to your colleagues Volkswagen was in the headlines yesterday after it posted a press release on its ..."
     publishedDateTime: 2021-03-31T16:04:00Z
