@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specializ
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ARM introduces v9 architecture with focus on security, AI, and next-gen performance"
-    excerpt: "But total performance gains may actually be higher if chip makers adopt multi-core designs and use specialized cores for graphics, AI, and other functions. Speaking of AI, ARM says it’s ..."
-    publishedDateTime: 2021-03-30T19:34:00Z
-    webUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html"
-    ampWebUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 70
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2021/03/armv9_02.jpg"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "New Armv9 takes on security and AI"
     excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
     publishedDateTime: 2021-03-31T11:05:00Z

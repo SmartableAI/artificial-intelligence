@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "ARM introduces v9 architecture with focus on security, AI, and next-gen performance"
-    excerpt: "But total performance gains may actually be higher if chip makers adopt multi-core designs and use specialized cores for graphics, AI, and other functions. Speaking of AI, ARM says it’s ..."
-    publishedDateTime: 2021-03-30T19:34:00Z
-    webUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html"
-    ampWebUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 70
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2021/03/armv9_02.jpg"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "Fast Fashion Counts on AI and ML"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-03-31T21:00:00Z

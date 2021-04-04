@@ -42,14 +42,21 @@ related:
         height: 336
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
-    publishedDateTime: 2021-04-04T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
+    excerpt: "The robot then processed that ... But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind. Sophia’s artwork selling as an NFT is part of a growing trend."
+    publishedDateTime: 2021-04-04T13:29:00Z
+    webUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/"
+    ampWebUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2021/04/9ebac4ef3fe84524b20dcacd72165c75-9ebac4ef3fe84524b20dcacd72165c75-1626e3509a5d4c23a3ae55980ead1727.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "/bkfLuHR8teVoYry5NY3l7pFUhWXJiF/5qdBQmaMJe6eV90sqR7w7jLyHcm7YLTS3ULzgW5YTgsoUadFLp4ChJi1DZcMKIvp6awzJspZX+XbM1Fv8CJkj4tKL7Idwy3lyB+p+F2GJaJqi7B+DFc3AjSSBtR5CN1PB4UjblWMkS15JFbuerxtF0Yg0byFX7Y8QTuJtHdIkxTRAEhKUCeUaMxRz4ZQ47UUxIN0+IODwRiNOnOqwJkL9+1YtHxDG+LIUUul2jerf4+Axi5PL8lAX2s6zHi+gHhvBR5kUOgmqDLoKQURenXJ4xW3JxtUY1mm1nqloHTraAsb7AtrMvWbSx4vlWgStR5AHpjI+2JpvwE=;9MBCytQz4q6BFKz2N9gITA=="
 ---

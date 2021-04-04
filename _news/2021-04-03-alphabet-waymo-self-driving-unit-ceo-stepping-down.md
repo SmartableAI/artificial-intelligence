@@ -219,6 +219,17 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "CEO of Google’s self-driving car spinoff steps down from job"
+    excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
+    publishedDateTime: 2021-04-04T04:21:00Z
+    webUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/"
+    ampWebUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Waymo CEO John Krafcik is stepping down; Alphabet's self-driving unit will now have 2 co-CEOs"
     excerpt: "Chief Operating Officer Tekedra Mawakana and Chief Technology Officer Dmitri Dolgov will now head Google's sister company, a leader in autonomous vehicle technology, as co-CEOs"
     publishedDateTime: 2021-04-02T19:20:00Z

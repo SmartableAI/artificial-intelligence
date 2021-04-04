@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-how-adaptive-computing-solves-ai-productization-challenges.md",
+      "title": "How adaptive computing solves AI productization challenges",
+      "excerpt": "Postprocessing is very important to make sense of the AI model outputs and calculate the proper decision making. Indeed, some chips may be very good at AI inference acceleration, but they almost ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/amp/",
+      "publishedDateTime": "2021-03-19T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
       "title": "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
       "excerpt": "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market.",
@@ -207,6 +259,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
+      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
+      "excerpt": "Chinese search engine giant Baidu has completed a round of financing for its Kunlun AI chip unit, which values the unit at around $2 billion, Reuters reported on Monday Baidu is also considering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/oxgt3b/article33738456.ece/ALTERNATES/LANDSCAPE_615/Bytedance-AFPjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece/amp/",
+      "publishedDateTime": "2021-03-16T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1357,110 +1452,6 @@
         "AI",
         "Machine Learning",
         "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-china-five-year-plan-aims-for-supremacy-in-ai-quantum-computing.md",
-      "title": "China five-year plan aims for supremacy in AI, quantum computing",
-      "excerpt": "China has unveiled a five-year plan that will boost tech research in hopes of leading the world in fields like AI and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
-      "originalUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/OPIFTltEG3k7FZh8Xfh0LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/72abf6b0-7f91-11eb-9a27-fd00ec45aa19",
-          "width": 2000,
-          "height": 1263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
-      "publishedDateTime": "2021-03-07T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
-      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
-      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-308486/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "publishedDateTime": "2021-03-07T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI Hardware"
       ]
     }

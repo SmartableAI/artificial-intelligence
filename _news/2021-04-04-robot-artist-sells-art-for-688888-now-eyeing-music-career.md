@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
-publishedDateTime: 2021-04-04T11:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
-webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
+excerpt: "The robot then processed that ... But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind. Sophia’s artwork selling as an NFT is part of a growing trend."
+publishedDateTime: 2021-04-04T13:29:00Z
+originalUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/"
+webUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/"
+ampWebUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://images.indianexpress.com/2021/04/9ebac4ef3fe84524b20dcacd72165c75-9ebac4ef3fe84524b20dcacd72165c75-1626e3509a5d4c23a3ae55980ead1727.jpg"
+    width: 1200
+    height: 667
+    isCached: true
 
 related:
   - title: "Robot artist sells art for $688,888, now eyeing music career"
@@ -54,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Z2q+cjZsyrH6CW8CeIWGu4ZNpdsvlkTzuvfTSDekmU7qrEPKSbYAcU3zPmbbi3mklz4OdTkXDSPm4TIp792yCLJ4oKNdGNH8Osoff2a6OzLwXvGr4XOuUKMNlIZHKymZTlHvdvKVmxTZAiH6M2yub5TcYogvjPuiBEyb21+EzO5qrsWTSupZKqZ2UBvGYzQYj02sofKx24LuvyvUoouw1ymUmrXtVCcWvFSrxIfPPTVZixYgajD0S2Snl9o1z7kdOqd9JojRYSlopd/95XHfdmTLDxjo9bb+IjLFiGvzoq/1itUUaefZ2B89PzmE8eSBlPjyeM1uVX+OBSCCBepagPKRzwwLXTwRfgd42E+28Oc=;wVt/e+ZeBVg2p45ro9hI9Q=="
+secured: "GadSqh/GUVLWjdEtO/bNrSuMj3hqDu9dtj7w2kPXoNzieKx7NvMYoch54m2OfUvCEeq8aOBKkwAGXp2hE3xH8HpKDCyGqp5q8NIbqjzBj0YTT8Uk4TB/gvHMfjDVdvXK5krYGm87dOw/c7GK+Nn9Ya/9bgKPeTFTmCQ/BS+VbDNSb5cQqL6Iy8UKyJg1Dk2aex3iLmKA6PcqMDVdjpOBsJtR2J2BnbAcaK4rO5XKiYZhjEYwktS8EmLmKYNNGwMgYOzosHOVIIA6hAloVaUYrciPOI9YtU9bcusBSgoFUtW/sT5mjfmXm+eeSqm7RXe/kirMPsC0ZAzWwqmKqUrh+86GMI5FUlEcULgTNxym74I=;EvG1CyisLKtIzUpchp/SJA=="
 ---
 

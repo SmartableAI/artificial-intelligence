@@ -70,17 +70,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Arm's first new chip architecture in a decade focuses on security and AI"
-    excerpt: "“As we look toward a future that will be defined by AI, we must lay a foundation of ... It will be at the forefront of the next 300 billion Arm-based chips driven by the demand for pervasive ..."
-    publishedDateTime: 2021-03-30T19:34:00Z
-    webUrl: "https://seekingalpha.com/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677749-arms-first-new-chip-architecture-in-a-decade-focuses-on-security-and-ai"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 70
   - title: "Arm Lays Out Vision For Next Decade Of Chips"
     excerpt: "The little understood company that powers virtually every smartphone in the world and provided technology for 100 billion chips over the last few years debuted new chip designs that are expected to have far reaching impacts on data security,"
     publishedDateTime: 2021-03-31T11:00:00Z
