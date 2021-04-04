@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/arm-announces-a
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/"
 type: article
 quality: 77
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Arm Takes On Security, AI With New Chip Architecture"
-    excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations ..."
-    publishedDateTime: 2021-03-31T00:58:00Z
-    webUrl: "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 71
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Arm Lays Out Vision For Next Decade Of Chips"
     excerpt: "The little understood company that powers virtually every smartphone in the world and provided technology for 100 billion chips over the last few years debuted new chip designs that are expected to have far reaching impacts on data security,"

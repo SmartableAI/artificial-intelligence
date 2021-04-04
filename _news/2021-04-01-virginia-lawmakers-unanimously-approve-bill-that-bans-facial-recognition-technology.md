@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
-    excerpt: "Last month, Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology. The legislation, which won unusually broad bipartisan support, prohibits all local law enforcement agencies and ..."
-    publishedDateTime: 2021-03-30T23:52:00Z
-    webUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/"
-    ampWebUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/media.nbcwashington.com/2021/03/AP_21086596693454.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tampa airport to use new facial recognition technology for international travelers"
     excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
     publishedDateTime: 2021-04-01T18:24:00Z

@@ -59,20 +59,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Arm Takes On Security, AI With New Chip Architecture"
-    excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations ..."
-    publishedDateTime: 2021-03-31T00:58:00Z
-    webUrl: "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 71
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing"
     excerpt: "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits."
     publishedDateTime: 2021-03-31T13:05:00Z

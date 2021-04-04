@@ -13,12 +13,13 @@ provider:
   name: CNBC
   domain: cnbc.com
   images:
-    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106171845-1570607954954gettyimages-1164572727.jpeg?v=1615999998"
@@ -26,6 +27,6 @@ images:
     height: 3280
     isCached: true
 
-secured: "mwXvB3lXBab4J8fkfVsJQEfjvePQ1LHNXvZTP8tx/isgIlLrlL9dKLXSxClC9yySVlSTJVopolXZaMPAxGf0DVjJel8N2+W3Ejfgrwvens9jGQi/Wcp8nTgSX0biFYg8hNRusqmikwxeThKukKq3QY69sJpRJvtwV7CEbliqMtkLwRgQ3N0VKT8H58SnEpK5ahshpIJFymzAdiAIP8+/YN9tW0jjvKqxtKL091dG67K7ydluk8DUkJGLepSkrZ2afFk4Xh1f2AvpAHBmLFa2JhPncvrkPIx8CWGkl5mMvDkxLFGUG4b9wO7gV+hh6EiDHgheHYUigWm5Oj4L0FDFKXspd+jd5F8wje6IFI9STTg=;iziIt11pSxnK0acx/SqfTQ=="
+secured: "81dazgH49UQpyFA+VDf52WcMH8mDqzR60iHjjFmLMviHoVA67Sb9auLwMHB6j22LaCzOk5pa7LzZy/X4WqTpdWzuvykE/9aLDLri/DcXQNoA3ZyeuULYYbFRLhmORdu7sCRQsJXTzwzeNmhNFkeWd+EXKFKOCbO60lIR+eDfBQ0twBfO+cn/CZjsxs6d/gMKoAxqQdVIj/dMCOZgF3WztrwTRuYHF1Mseo7lnUlTUMBzqpG79oVq/O6RsP5bkheVO7IjGPMd7YogPTSVg5RHn3cGvsdQvvGDPT2R8aXcHVKeSJrn/Xqq/WTihnUSxvAIKD5agGj8LkQV1TVnwMgN0ZaAILB6HdCzkYyrT6SVfHgLbxHzaLSwsjiuhU/heuJr;nCdbzB4fS6sZxrk/SLXFLQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html
 cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Scientists create online games to show risks of AI emotion recognition"
+    excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
+    publishedDateTime: 2021-04-04T12:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7653ff89e6bc484d98262cec7a2937264bd8c31/0_14_2167_1301/master/2167.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0bb412e8a7e629951832cefc12f7959"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "boLwGpWj1lgJRhzUW9Q1j9mMJ8/AIE10B8/STftEh89BvabcuBPIReL1WP0dFvpTmltj9FNFc8SDx6veWmVQqs0Dbk+j/W572BJQtP0g3r816xjN6iZMYSCQjqWI2rMgaDPyQUMnQZ95t99Gc/BTiDwtDNBuF7zznWxwKUPrdsJHyUx4zB5sqdFCqOCeMQTPTLSImW3SYcPCY/4JYCEcSL53UIJ+J8T/LP2uEd4LQzyvaNTVrlwNqA4h0sB7TaZQVvapA3nT5CNsDqoAuqQD+4hUDaWWWExz58JbHePgHF3L1P4Ugi9L0t3DpiNv5cHuR5MCAp7vCNe2svD4PY2XYmp60iCd9MqdCn1TCeFmQcM=;Qixltu8j4tNjQEGy/jV22A=="
 ---

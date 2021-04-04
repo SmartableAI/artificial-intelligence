@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-no
 webUrl: "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

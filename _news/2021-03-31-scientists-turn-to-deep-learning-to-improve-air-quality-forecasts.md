@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-scientists-deep-air-quality.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

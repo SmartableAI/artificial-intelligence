@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into
 ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into-deeper-financial-waters-as-scrypt-tops-1-billion-in-invoices/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into-deeper-financial-waters-as-scrypt-tops-1-billion-in-invoices/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Scrypt-AI-invoice-software-457x274.jpg"

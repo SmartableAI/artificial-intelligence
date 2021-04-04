@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
 cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
-    excerpt: "Last month, Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology. The legislation, which won unusually broad bipartisan support, prohibits all local law enforcement agencies and ..."
-    publishedDateTime: 2021-03-30T23:52:00Z
-    webUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/"
-    ampWebUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/media.nbcwashington.com/2021/03/AP_21086596693454.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
     excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."
     publishedDateTime: 2021-04-01T11:02:00Z
