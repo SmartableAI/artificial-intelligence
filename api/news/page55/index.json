@@ -2,49 +2,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_news/2021-02-20-immunai-raises-60m-to-decode-the-immune-system-with-machine-learning-and-ai.md",
-      "title": "Immunai Raises $60M to Decode the Immune System with Machine Learning and AI",
-      "excerpt": "Immunai, cofounded by Noam Solomon, is decoding the immune system to help better detect, diagnose, and treat disease using machine learning and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "originalUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2021/02/Noam-Solomon_immunai-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "publishedDateTime": "2021-02-19T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-facial-recognition-cardiff-rapist-caught-on-cctv.md",
       "title": "Facial recognition: Cardiff rapist caught on CCTV",
       "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
@@ -1169,6 +1126,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-is-artificial-intelligence-the-future-of-network-security.md",
+      "title": "Is Artificial Intelligence the Future of Network Security?",
+      "excerpt": "Is Artificial Intelligence the Future of Network Security? By Jeffrey W Brown, CSIRO, BNY Mellon - Cyber attacks have become more sophisticated, happen faster and cause more business disruption than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/is-artificial-intelligence-the-future-of-network-security-nid-26353-cid-135.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/is-artificial-intelligence-the-future-of-network-security-nid-26353-cid-135.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/21H056v8.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 960
         height: 369
         isCached: true
-  - title: "New GC and Other Microsoft Alums Attracted to Health Care Tech Startup"
-    excerpt: "David Heiner, chief policy officer and general counsel at Truveta Inc. Courtesy photo After working for more than 25 years at Microsoft Corp. as an in-house leader and artificial intelligence ... joined Truveta as the health care tech company’s first ..."
-    publishedDateTime: 2021-03-30T21:50:00Z
-    webUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-microsoft-alums-attracted-to-health-care-tech-startup/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/03/David-Heiner-Article-202103301745.jpg"
-        width: 621
-        height: 372
-        isCached: true
   - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
     excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
     publishedDateTime: 2021-03-31T17:03:00Z

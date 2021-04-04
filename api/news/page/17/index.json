@@ -2,49 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
-      "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
-      "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "originalUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Self-Driving-Cars.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "cdnAmpWebUrl": "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "publishedDateTime": "2021-03-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-lays-uses-ai-to-create-messi-messages-bringing-the-soccer-superstar-to-your-phone.md",
       "title": "Lay's uses AI to create Messi Messages, bringing the soccer superstar to your phone",
       "excerpt": "Now you can get specialized messages from soccer legend Lionel Messi, thanks to a fun Lay's program. Anyone who has ever dreamed of getting a video message from legendary Argentine soccer star Lionel Messi is in luck.",
@@ -1137,6 +1094,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
+      "title": "UK Must Avoid Complacency And Seize AI Opportunity",
+      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the UK’s AI talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
+      "publishedDateTime": "2021-03-18T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

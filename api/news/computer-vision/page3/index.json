@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-08-ultra-sophisticated-computer-vision-defeated-by-pen-and-paper.md",
-      "title": "Ultra Sophisticated Computer Vision Defeated By Pen and Paper",
-      "excerpt": "By exploiting the model’s ability to read text robustly, we find that even photographs of hand-written text can often fool the model...this attack works in the wild; but...it requires no more technology than pen and paper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
-      "originalUrl": "https://www.vice.com/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60464d9cb5e0030095d4ab7a/lede/1615220458686-pictur-2.png?crop=0.6914xw:0.9988xh;0xw,0xh",
-          "width": 1451,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/akdm7z/ultra-sophisticated-computer-vision-defeated-by-pen-and-paper",
-      "publishedDateTime": "2021-03-08T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-build-your-own-selfie-drone-with-computer-vision.md",
       "title": "Build Your Own Selfie Drone With Computer Vision",
       "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
@@ -1405,6 +1353,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

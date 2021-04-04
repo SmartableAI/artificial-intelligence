@@ -2,58 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-03-15-cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount.md",
-      "title": "Cruise acquires driverless vehicle startup Voyage for an undisclosed amount",
-      "excerpt": "GM-backed Cruise today announced that it’s acquiring Voyage, following a report in Bloomberg. The terms of the deal weren’t disclosed, but Voyage CEO Oliver Cameron said that “key members” of the Voyage team will join Cruise when the purchase is finalized later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Voyage-fleet-of-self-driving-Chrysler-Pacifica-hybrid-minivans.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "publishedDateTime": "2021-03-15T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment.md",
       "title": "Using cameras and AI to help exoskeletons adapt to their environment",
       "excerpt": "Researchers at Canada’s University of Waterloo are showcasing work with prostheses and exoskeletons that utilizes cameras and AI to deliver more natural human movement. The ExoNet project leverages video captured by a wearable camera,",
@@ -1180,6 +1128,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source.md",
+      "title": "Baidu’s AI Chip Unit Kunlun Completes New Funding, at $2 Billion Valuation: Source",
+      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

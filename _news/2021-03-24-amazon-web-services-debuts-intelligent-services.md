@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg"

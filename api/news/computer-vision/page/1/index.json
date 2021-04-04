@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Forest fires are becoming more frequent and faster-growing, resulting in scorched acres, destroyed structures and costly damages. In this age of global warming, how can technology help preserve our natural resources, protect human lives and avoid economic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-uber-driver-claims-facial-recognition-app-locked-him-out-of-system-after-he-tonsured-his-head.md",
       "title": "Uber driver claims facial recognition app locked him out of system after he tonsured his head",
       "excerpt": "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,",
@@ -1356,6 +1304,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid.md",
+      "title": "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid",
+      "excerpt": "Travel tech firm Pangiam is betting this is only the beginning with the acquisition of the facial recognition system VeriScan from the Washington, D.C., airports operator. Imagine passing through ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
+      "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2021/03/IMG_0310.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
+      "publishedDateTime": "2021-03-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

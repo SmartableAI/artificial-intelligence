@@ -43,22 +43,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "Modern analysis of rock art: Machine learning opens new doors in archaeology"
-    excerpt: "Rock art of human figures created over thousands of years in Australia's Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years."
-    publishedDateTime: 2021-03-30T22:11:00Z
-    webUrl: "https://phys.org/news/2021-03-modern-analysis-art-machine-doors.html"
-    ampWebUrl: "https://phys.org/news/2021-03-modern-analysis-art-machine-doors.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-modern-analysis-art-machine-doors.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-modernanalys.jpeg"
-        width: 2372
-        height: 1582
-        isCached: true
   - title: "When rock art meets machine learning"
     excerpt: "Rock art of human figures created over thousands of years in Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years. The study – just published in Australian Archaeology – has tested different ..."
     publishedDateTime: 2021-04-01T03:43:00Z

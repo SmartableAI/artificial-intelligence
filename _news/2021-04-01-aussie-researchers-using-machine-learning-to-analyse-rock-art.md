@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aussie-researchers-using-ma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modern analysis of rock art: Machine learning opens new doors in archaeology"
-    excerpt: "Rock art of human figures created over thousands of years in Australia's Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years."
-    publishedDateTime: 2021-03-30T22:11:00Z
-    webUrl: "https://phys.org/news/2021-03-modern-analysis-art-machine-doors.html"
-    ampWebUrl: "https://phys.org/news/2021-03-modern-analysis-art-machine-doors.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-modern-analysis-art-machine-doors.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-modernanalys.jpeg"
-        width: 2372
-        height: 1582
-        isCached: true
   - title: "Researchers find that rare rewards amplify dopamine responses during learning"
     excerpt: "\"Reward prediction errors are crucial to animal and machine learning,\" William R. Stauffer, Ph.D., one of the researchers who carried out the study, told Medical Xpress. \"However, in classical ..."
     publishedDateTime: 2021-04-02T15:42:00Z
