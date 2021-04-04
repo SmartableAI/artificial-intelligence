@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-na
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -42,22 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
-    excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
-    publishedDateTime: 2021-03-31T06:47:00Z
-    webUrl: "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-    images:
-      - url: "https://cdn.openpr.com/U/3/U331110154_g.jpg"
-        width: 780
-        height: 408
         isCached: true
 
 secured: "YyyvSlyT4KVMojCBTTB4HSL20FfQwAy+7uC7diGKSL+wTS1OKKKmiLKd7GhS3optJ6Fx8o0tYeTTAIKUJ/4+Z0JOEStK31P6DhvAEid/Nb179iVfMT64hTRU3Bupp2u0IhOJQZ4yCDQjPSOUH3w342DsN496hsu2hqYVrkVAv3p7Jm9hYKKFS5CXqxKHz9sKVDfZSA9SMyeUfXoWTsQ+O5WyjxtoVgmCwKZyag7BEajwGs/U9QXPCWv9Pl0ZLX6BxFL9SS1sgu4CilbpEPAqcvlIe3ORKZdBHsxrf7m14fHS7ZbOyjX1lyScPQSi3GKuG3e+j6+j052+w0FAKcggYWPIxqW1DfT8vyuINiaPrsg=;qUcL7XEw36tlUS5Gx+5Lvg=="

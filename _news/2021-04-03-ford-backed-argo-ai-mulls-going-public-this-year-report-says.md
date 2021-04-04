@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Researchers develop new AI based early warning system for self-driving cars"
-    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T18:13:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "k6GzmyKPx8WNW5AHj5bilg9NMtl6/iIC/x+Jq4wgrmM9Hv88wN3+bohq9qnWDtiUHC1Q2yFt8ciLmMLFGZfLFNiRKKCgk5GY/rhZa1K6Mntgwx1cePovdviI45S45EBwVpi488twlMztG6Zqd9dE3KUpjM37T1ZEgIwVasYG+odC9Y/7IqwKGU8F3OhUJkwx/+PSEvtptGfJHAi4j5o0ph3cE6VPFbNOLSzSgJtBC4lU5t7tKn9jF41KXfGGDUCJPnBn6j89n0q110f/s5xKtn/0s3GUf5Fb64wonC6NMxGNi/U11TiIpacUXIeoncHB1eCI8v2ZXjQ0tT1/bTiYYNuLilrlvQWu/IFd2S7No94=;lNmGTmbyfBFEpeYLE13C1g=="
 ---

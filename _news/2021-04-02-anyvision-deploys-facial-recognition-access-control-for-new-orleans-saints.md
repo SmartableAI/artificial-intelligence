@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/anyvision-deploys-facial-re
 webUrl: "https://www.biometricupdate.com/202104/anyvision-deploys-facial-recognition-access-control-for-new-orleans-saints"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 730
     height: 499
     isCached: true
+
+related:
+  - title: "Facial recognition a new tool for tightening border security"
+    excerpt: "Facial recognition technology is the Department of Homeland Security's new tool for tightening border security. It's getting a three-month tryout at a major airport. Kris Van Cleave reports."
+    publishedDateTime: 2021-04-04T10:31:00Z
+    webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/04/c804a2d2-6781-4517-ab2b-907b6db2eac8/thumbnail/1200x630/5c2d4f54aee066a998e1a4704e702ba1/en-vancleave-0530-399481-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ioC8FEfrGVoTg1+413dK3bUk+jUzqrmD+fBlOHPQtIvWJB7aMi7s9IAXQ1Y50y6OviFvo/1b3YHQ+yoHAL7A+GoEXRVud4doxiVduno8zzzuB83Xal7PvdrlJEOEqJFvg9TTkXCjAtX9b8kSJlQfPL2wMRwUcZ1TqmHKc47/UUbxMovDRNdiyRe73vP0QU9qsAFlQ6r3PloTP+a/H46rNaw8hY3ux+tZgYEQuV32b07BIQHeua7vm5AnuZu0DWPePFGxUdn319CSSAye1wQuR3FmrxBN9DJjhGJA7C0agHgUCq+mpndpHGXH731K6nkIMLeXLGI3B+za/ku4TC0hwadtpfan1LXWABFHOeIO0Gk=;TFAAopsCJz76oFr8V+YWRg=="
 ---

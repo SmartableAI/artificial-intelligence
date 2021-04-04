@@ -42,21 +42,14 @@ related:
         height: 336
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
-    publishedDateTime: 2021-04-03T18:21:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
+    publishedDateTime: 2021-04-04T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/34/03/20824287/3/375x250.jpg"
-        width: 375
-        height: 243
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "/bkfLuHR8teVoYry5NY3l7pFUhWXJiF/5qdBQmaMJe6eV90sqR7w7jLyHcm7YLTS3ULzgW5YTgsoUadFLp4ChJi1DZcMKIvp6awzJspZX+XbM1Fv8CJkj4tKL7Idwy3lyB+p+F2GJaJqi7B+DFc3AjSSBtR5CN1PB4UjblWMkS15JFbuerxtF0Yg0byFX7Y8QTuJtHdIkxTRAEhKUCeUaMxRz4ZQ47UUxIN0+IODwRiNOnOqwJkL9+1YtHxDG+LIUUul2jerf4+Axi5PL8lAX2s6zHi+gHhvBR5kUOgmqDLoKQURenXJ4xW3JxtUY1mm1nqloHTraAsb7AtrMvWbSx4vlWgStR5AHpjI+2JpvwE=;9MBCytQz4q6BFKz2N9gITA=="
 ---

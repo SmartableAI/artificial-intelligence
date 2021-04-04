@@ -2,27 +2,25 @@
 category: news
 title: "Scientists turn to deep learning to improve air quality forecasts"
 excerpt: "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates."
-publishedDateTime: 2021-04-02T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/ps-stt040221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-04/ps-stt040221.php"
+publishedDateTime: 2021-04-02T16:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/04/210402095934.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/04/210402095934.htm"
 type: article
-quality: 54
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Scientists turn to deep learning to improve air quality forecasts"
@@ -42,6 +40,6 @@ related:
         height: 486
         isCached: true
 
-secured: "84NONwzJaqIWN5FzY9QbkarTTwBptGccoqT3XcyxWo1vTnB4EWPkSTxKbeObjuDbQXe+hNgAII3RFq/aVfgnDq4nFQUjkVov5bDF5wNDo62ajU0zgYIByJEam5rw40XcoeaqbS8jsYVM3cPQa99iyPlousPQAw+NGnEIm/L0UEcfpV+uSTjrSbrkpL815ghJz3J7fTTBT09lb9Oqd8cuGEcIRr3CmJx48+X3o2+UdUU0fA8LCzUl7W3sYfJmNMiflA5+ehBsZqLGa04jNAKbVtApJj4TuGRlLMJsDxhHjtg31cy+yf/lr2c5J7BHVrAFaYt76ke3urCR+uvWtE7l1+4yYKxFC+XOL5OI/z2fne8=;EL3A0j7s/k1mR3r1FWSvRw=="
+secured: "WH5INMlpFQFjw/kTw82+cx8aqXpfLeof0l7IngmdtnExGyU75vpVptWxtZIhTuXWtrjuMbfNQj9vM0QOHZI/J2W+wwYnbY0vfABlD8h5EhVwYKoBGd5iasUDwDLJjqMDsM6gPTazcds+QyvxLQtFT3UHR9lYxN0WSZv9XYd/sm30nABMGo5h+5EMbug06Sp2+4dRaPIiTME9xDm0ErrUx5Yo+Ngm2uJykNZK6lk48gANUd/Hb1GP5ZaNoQf4DY/nuxesokw+A6Nb+z6MqUzpVhhciiB3YT8gH7aeTD6aQlDPdUWDQDyLciGHVa5F/IjTWJiXm3G5JyjUlgoHEBn6sqO8JrBEVBtzuERct8cSHlc=;HUtFqfAy2qqd5jEUX8pvLQ=="
 ---
 

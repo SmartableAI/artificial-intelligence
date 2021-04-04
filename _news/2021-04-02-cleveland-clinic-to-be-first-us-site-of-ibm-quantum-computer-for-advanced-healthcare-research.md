@@ -42,29 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "IBM to install its first private-sector quantum computer at Cleveland Clinic"
-    excerpt: "That’s where IBM comes in. Its artificial intelligence, cloud-based and quantum computing ... In the last decade alone, they teamed up to apply the since-retired Watson for Oncology platform to genomics and cancer research, and later took on a five ..."
-    publishedDateTime: 2021-03-30T18:30:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ibm-to-install-first-private-sector-quantum-computing-systems-at-cleveland-clinic"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 21
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1617115623/IBM%20Quantum%20System%20One.jpg/IBM%20Quantum%20System%20One.jpg?s2D2T.04WI9uPzs6k0flwJEz9jEeMiAK"
-        width: 4000
-        height: 4000
-        isCached: true
-  - title: "Cleveland Clinic, IBM partner to speed health care and life sciences discovery"
-    excerpt: "The Discovery Accelerator is expected to build a research and clinical infrastructure to empower big data medical research in ethical, private ways, discoveries for patient care and novel approaches to public health threats,"
-    publishedDateTime: 2021-03-30T17:46:00Z
-    webUrl: "https://www.bizjournals.com/cleveland/news/2021/03/30/cleveland-clinic-ibm-partner-to-speed-discoveries.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "Sj08DHnGJK5iJ7wewoMD2D9lCe+mCLMhDMuWFy6GOihx7UMDLvCV4pIx9Mw7JytLmyjjLGaE4NOWRoeLm0V/FD3bryaoVpAFbMAlhTUZtrdADEq47F5/nkLq0nRgiOgC4AOagMNCyAX0nPboh/ujTWWQJsWyDzBlQqEflhtZPAMqLrEGtKlltZ8/WUx7EYobXFlTNBJsoVdKC0qfc+VEkJRFOS8CHonf6bCy4TZvikYc0BxFFHsB2X5zuRRDcRomB0yyO61xQl5bfhqg6iNtmwnGxigc1SP7/GTJUEoj7+6Ywsa3HrkNN0MEWbYO7ssd8kZvu73QOse8r+4XlEYfG+/CoKtnrYHK8bcKiYr7e0ypLFmjYXSkRRfFfca1RtPWDxji6D50sh3sfQlRXufKJ4IgSwcNerMrQ4LUHBJp4ax2NG07Oh987WX79J+mqLMjBpG9LU0gcizEZ/m1HDItF8p77Ro1WQyjLlTCQHc9RWLZQEKyyBNrK3YYNWXLMRrnsWSqDbbwRzA5r2pqSU88aw==;9BM7rh7Gy9RoYhZv9QNDiA=="
 ---

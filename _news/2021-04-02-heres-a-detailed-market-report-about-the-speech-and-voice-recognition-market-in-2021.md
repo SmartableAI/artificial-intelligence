@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
-    publishedDateTime: 2021-04-01T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
+  - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
+    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
+    publishedDateTime: 2021-03-31T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2028-fortune-business-insights-2021-03-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

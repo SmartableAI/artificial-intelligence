@@ -56,20 +56,6 @@ related:
         width: 867
         height: 482
         isCached: true
-  - title: "Cybersecurity is key during digital transformation in the financial services sector"
-    excerpt: "In addition, the cloud enables artificial intelligence (AI) and machine learning (ML). The move to the cloud became imperative during the pandemic-related shutdown in 2020, as the majority of financial services workforces needed to work remotely."
-    publishedDateTime: 2021-03-31T16:19:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 18
-    images:
-      - url: "https://biz-file.com/c/2103/603603.jpg"
-        width: 900
-        height: 460
-        isCached: true
 
 secured: "AvSCgyzpudnzdDlL/HuP4oQK55AC+OIHkZfWHalNRfsfskvKX5ADzgoiXjJab3qYAn2tP0cyx4KO3LZuTmkBgqDJOkLas4z40iFmmCd0dm5Gg+EJutiOVrZ0HRkPXwkSNM1lrE6jH764ZobfPuT4Nq59/Zns9O739hkrbunI1BA4YW3j0mZBS2nxh3CEoEKav1DWMjjmmnbN7Cj4k71FkOAQ8VWKYzIAiqOQiZfkcQ+Ysgj776+sQxdfo5AS08xI9Po6McFjPNeWw4B5KhuEw7ZpfhgfmAL9wbLEjVfCw0cFH5WGsO3BaHaE1zQJJfIoCfqUjjIBlPrq7mwy8Rq5XJwc6lv550/SLPNQC2iETC8=;gWylSas/JQYLJMRIpTnd/A=="
 ---

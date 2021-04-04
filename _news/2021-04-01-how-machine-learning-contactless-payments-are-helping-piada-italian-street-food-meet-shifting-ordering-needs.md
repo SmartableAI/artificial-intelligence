@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contac
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,61 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
-    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
-    publishedDateTime: 2021-04-01T10:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "KPMG's New Tax Data Reader Tool Automates Analysis Of Financial Data, Simplifying Tax Filing Season"
-    excerpt: "As companies continue to struggle with synthesizing and understanding enormous amounts of data, especially financial data, and remaining tax compliant, KPMG LLP today announced it was granted U.S. Patent No."
-    publishedDateTime: 2021-04-01T14:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kpmg-s-new-tax-data-reader-tool-automates-analysis-of-financial-data-simplifying-tax-filing-season-1030269423"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg"
-        width: 400
-        height: 295
-        isCached: true
-  - title: "Sentiero Ventures announces the closing of its artificial intelligence-driven Dallas venture capital fund"
-    excerpt: "The fund, Sentiero Ventures, invests in software-as-a-service (SaaS) companies that utilize artificial intelligence (AI ... Financial Services, Healthcare, and Entertainment. Sentiero's approach is designed to locate companies at the intersection of ..."
-    publishedDateTime: 2021-03-31T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20425939/sentiero-ventures-announces-the-closing-of-its-artificial-intelligence-driven-dallas-venture-capit"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20425939"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20425939"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-  - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
-    excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
-    publishedDateTime: 2021-03-31T10:33:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-86510-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86510-w/MediaObjects/41598_2021_86510_Fig1_HTML.png"
-        width: 685
-        height: 403
-        isCached: true
 
 secured: "dvPiud5iUg4xnmqpFpjWbkwlLnds938tm0WlmP0m517C3e5xFDvL1seOmFAMf7FinVCJbwCSpatP0Kj2V+IZuul8hEtSXB8/OyaMYuhDuYCgWPHMU5Kkn0vbJmi4JH9JlOaUvCQNppEzmjcnyW9uRl8wkj2KNpGdsRqN8PeQbhvK9OzeHSOUB+KfcfKgVgA7wcCJtuUk84ws3QyL0lhNXqQaQo2JgagR0VkCHrfoBWeicb4aCQHSv3/CKnsm0EI4gwtqy1bppCQQAD1tuTMTo7Ulo4emzZz8lzwr8pUBGQY823BTNTufnn6c24fQk9sS7q1ORdPpELw697zH7haIl1J+0IGUI3Ry9MLzRvL2GGLOwtzIfjLPCBsYlS4rt9gYvYluu5v4Lo+wfFm362vYVpnU1ex5Bbc+peKKIRldkRLyuNbHTtPDzWc06FTXnLBRea2CH3VehGR4KF71fLPasJ1xDzSYI2fiHFeZoCJIuMliK4beiHcE2PH6UEd9HvzR4U/BGT4MFK1c46HDNrEisQ==;JT+DhZ4uHHkMFTHzI0GXPA=="
 ---

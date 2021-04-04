@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,60 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "How Machine Learning, Contactless Payments Are Helping Piada Italian Street Food Meet Shifting Ordering Needs"
-    excerpt: "Piada, which has 38 locations in six states, is also looking to integrate new technologies, such as machine learning (ML), to help analyze collected data and use it for more personalized customer experiences. “To the ML part of it, that is something that ..."
-    publishedDateTime: 2021-04-01T11:44:00Z
-    webUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/"
-    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
+    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/amrefs0321-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "KPMG's New Tax Data Reader Tool Automates Analysis Of Financial Data, Simplifying Tax Filing Season"
-    excerpt: "As companies continue to struggle with synthesizing and understanding enormous amounts of data, especially financial data, and remaining tax compliant, KPMG LLP today announced it was granted U.S. Patent No."
-    publishedDateTime: 2021-04-01T14:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kpmg-s-new-tax-data-reader-tool-automates-analysis-of-financial-data-simplifying-tax-filing-season-1030269423"
+  - title: "How AI Revolutionizes Mental Healthcare Space?"
+    excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
+    publishedDateTime: 2021-04-01T13:59:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-revolutionizes-mental-healthcare-space-nid-7466.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg"
-        width: 400
-        height: 295
+      - url: "https://www.cioapplications.com/newstransfer/upload/0f8ru450308hytu.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "Sentiero Ventures announces the closing of its artificial intelligence-driven Dallas venture capital fund"
-    excerpt: "The fund, Sentiero Ventures, invests in software-as-a-service (SaaS) companies that utilize artificial intelligence (AI ... Financial Services, Healthcare, and Entertainment. Sentiero's approach is designed to locate companies at the intersection of ..."
-    publishedDateTime: 2021-03-31T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20425939/sentiero-ventures-announces-the-closing-of-its-artificial-intelligence-driven-dallas-venture-capit"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20425939"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20425939"
+  - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
+    excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
+    publishedDateTime: 2021-03-31T06:47:00Z
+    webUrl: "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-  - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
-    excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
-    publishedDateTime: 2021-03-31T10:33:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-86510-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86510-w/MediaObjects/41598_2021_86510_Fig1_HTML.png"
-        width: 685
-        height: 403
+      - url: "https://cdn.openpr.com/U/3/U331110154_g.jpg"
+        width: 780
+        height: 408
+        isCached: true
+  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
+    publishedDateTime: 2021-04-01T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "eygwi5u9y4feCwAoDF+7CLPu0tcoFs65v0HKC3VBMC7EqCyRArQMHqcSpioiQ4AvAw54RMt2EOyScStwAHngjUFTx9cEZws1cAozkIYzvvi5BIjpPJTpU3qTkAYmfL+vKNnVVDJlhXHoV/S8w4bavko/MxpAKChZcs1nG6Y3h2TlNsXkqk6FLnC6achBQMxlQPexqq6jMu/7B+sS2GI8BlZjAkc9wrNaBow8YrUUQy7GJACo5rO8TAsQii0t52FyrCkoQd87dvSm2ZSTi5D5uf4Aw60O7JNhBAqtQqQJBQLDUdinAMCkpRC7gHF5eYa/GMYAFF+eICR2GF34E6uQYE/qswQBDTa7qB6n0JNf6IqxUqRqytOru8fsn8FcE93IU8Hzd9awVTby0XIwZ66obJYGiqmCVUosvJTI40A05FXYquzPNRiggXJKq0dPIaAk3UCS3AdBxnHre3ObDYDJ4hTSPTPZNG9VMzoQKOg8Ct/8/ZHOOltsgWbRmVMZe5epjQlP2oUY0Kd+u3yfMo7jCg==;3SXobDaRmQom3JPXTVHEMw=="

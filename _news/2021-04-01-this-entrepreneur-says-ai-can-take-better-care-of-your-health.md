@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euronews.com/amp/2021/04/01/artificial-intelligence-in-h
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "Is Artificial Intelligence changing the rubrics of health care?"
-    excerpt: "Artificial Intelligence all set to transform the rubrics of health care and drug development with new AI based approach."
-    publishedDateTime: 2021-03-30T17:53:00Z
-    webUrl: "https://techstory.in/is-artificial-intelligence-changing-the-rubrics-of-health-care/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/2017-03-23-13-50-17-725x483-1.jpg"
-        width: 725
-        height: 483
-        isCached: true
 
 secured: "bvDPa9fMTEJU7kCPD6tne68gBv8RxxzjyMzUZSV6PzkkVJ+Gtt7TfZKIaQNr7nC/13vOYkGmJBPUVJJhqeudb5H8VggEv3lhmjfgO0MpTRRr2aR3tRdwP+Zn41mRfhK8DsBCE7D1yOcdoDWIleZfDkyU9qFaxVz3RpsjrN3bL41476FBxGIS8dRnphlg4FiZdI43LBE8KrJ9VNwm8emcEkDsWEJmtT1RUkXof3b0A3bo1aJfEx+Giap8n7PXafxuBrkQVy+LSKBaG/gxuvBmWUG2/6m5pIXgNe1gvRsVKWtAWrioLhPLgdOhcc9MxTiAATfoJVJU+jNqaVl6w+DuLHZyOY4txQFfa3/kKmbLNBK6rgWo3EKyFPQsn6WYm2pLK6XIDNdDw443eqgWibum4KMh5zMgEBQjAnxj513Q90nRKECmoO4dv86khjDJQpAr33m04Q5xtmWpxAoAlwiJtc0UuYYmrsFvMpAfbjCeqb2qKTFTH6QhOWiXANu3Gybo2wMSuVyF8hV8RYLavtlZlg==;Sdom8vhathsgT1u1XSRiqw=="
 ---

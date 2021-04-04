@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-rais
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png"
         width: 867
         height: 482
-        isCached: true
-  - title: "Cybersecurity is key during digital transformation in the financial services sector"
-    excerpt: "In addition, the cloud enables artificial intelligence (AI) and machine learning (ML). The move to the cloud became imperative during the pandemic-related shutdown in 2020, as the majority of financial services workforces needed to work remotely."
-    publishedDateTime: 2021-03-31T16:19:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 18
-    images:
-      - url: "https://biz-file.com/c/2103/603603.jpg"
-        width: 900
-        height: 460
         isCached: true
 
 secured: "hAw2NYsT8SZEggyfvL1DnOKmsFtonoLmbLLt7nKgXkTGG7W6TK8eYMyBSsXOgzyQIvZHcgSB1CGybEcMD8WDQFE7QMTiijGuTqsjrMQrNEYYh7VcagvtbMZ+yRxj5P21xB5oLn5nWICDUL8si+P4zBT5O7TfiQ7F00Y34oFhjM9LxwDMUIrYvQECdNxXrDhbQtEVGvHIdRWhHZNxt+eIl2VOy0M7fDpvmkJs1KkV0ci88appgu+MP+kvLIr5AQaM6rfXUZECGxARffIPoa4bwz7ZGCHzfWc+6zlEhNaFKitdRayMOf/lbg/Ttsgu2GbkiV8vzfQdvxQuNZ7RuUfVh9vE/UYi9DbvTyCEy3uozMxEBCBls07itq0Rju3tnrtTHIbo7wKgpd4mqTeL3qDD2mF0rxuM0z2Ten5yjibSIH+XPcaEmozGrruFP7Mpm6c08q0Zv/bFknc4pQZ3oy89PqmxZCSuBLEjATNts2hTszTblXyyzkxuEu3qsDZJBBHjpsrc42sFSDdt6xx8RTlYvg==;wQsi5HrnOxtXphpi83JgNw=="

@@ -73,20 +73,6 @@ related:
         width: 1425
         height: 522
         isCached: true
-  - title: "Rock Art in Australia Analyzed With Machine Learning"
-    excerpt: "Cosmos Magazine reports that Daryl Wesley of Flinders University and Mimal and Marrku Traditional Owners of the Wilton River area used machine learning to analyze changes in rock art styles in northern Australia’s Arnhem Land."
-    publishedDateTime: 2021-03-30T17:34:00Z
-    webUrl: "https://www.archaeology.org/news/9560-210330-machine-learning-australia"
-    type: article
-    provider:
-      name: Archaeology
-      domain: archaeology.org
-    quality: 39
-    images:
-      - url: "https://www.archaeology.org/images/News/2103/Australia-Mimal-Rock-Art.jpg"
-        width: 710
-        height: 533
-        isCached: true
 
 secured: "HNKJJwYRqdXK226C8/fnxiLJrwwDDkRdEfts0fgwJOwdWt99ue1AF6lz1wYrnrHlXUZgT0bxPLGHcXZsf6q43RDyhwcxdwRD/fMNc9qMRXQeMYtd0XzvELkwHXmvChp3khhevwtIhztH0NUueX2K06QkfCnc5wygQXZNbGKCHoozkBuKRWIYvvN1Z/mjl9Md/GHh4BE8tY7Qxo6rjLPO7qyNSwRH68V6JhR3Kirw+gBTu5I+VoX9avwx7psxfMfSDAcl1pGLyT0lHPrIl42E4idVb/0/sI6upPGB7dUtXInZR03nugNJKaqjDaEZcPkN8IZdGUhEQQY9M50HAkIAkjVnI9S+AuMpl8Z7ecCHINA=;WhXHZe3ezqUwgB7p4/fS+g=="
 ---

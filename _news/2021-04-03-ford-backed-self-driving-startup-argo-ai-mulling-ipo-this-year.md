@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-sel
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Researchers develop new AI based early warning system for self-driving cars"
-    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T18:13:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "ErN2vdBEjLVxCQnJuR3v53KisexEptvvfPzDXXcoyQkAYIk6U0Kj9Ym4kzUy4Fe1yWgXBtgB02ONrcluj3nBZ1oWSRJ9n16S7EDgn3cSBI6/BTDQJNzaTHb7NcjkSjI3/VHt5uCPmGw6NPcnTKImMSsKo30KKjBfzjVtbHCvL0pRVzki6ZlobBwR3i6HExvhqS9H9W4Se4ZWcQc2qeSoFyR0+M92ITFQRx4HlRafWw2U+5yxzRJBppYWvqhFQ6Ypca9tZ29s5Lwp3HoCji8GW2XYsXKYGhxccqcY+wHtqMWfKqestcAF0t8PVs1uSk8KEiP/C58vi3b4HqP+t224X4l0mx7tqdJF9eeFYXjSI7M=;15jwlxA0S57+HNZV8y2caA=="
 ---

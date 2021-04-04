@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: MarketWatch
@@ -29,63 +29,59 @@ images:
     isCached: true
 
 related:
-  - title: "Data, analytics, machine learning, and AI in healthcare in 2021"
-    excerpt: "Lorica mentioned that the relative democratization of AI, in the sense of having open source tools, may mean people who may not be experts in machine learning can start playing around with some of the techniques. In addition, the existence of benchmarks ..."
-    publishedDateTime: 2021-03-30T18:37:00Z
-    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
+    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg"
-        width: 750
-        height: 579
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Cloud management startup Striim plans new integrations and streaming analytics with $50M funding"
-    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Striim, a startup specializing in streaming data integration, today closed a $50 million series C funding ..."
-    publishedDateTime: 2021-03-31T20:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/"
-    ampWebUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
+  - title: "How AI Revolutionizes Mental Healthcare Space?"
+    excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
+    publishedDateTime: 2021-04-01T13:59:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-revolutionizes-mental-healthcare-space-nid-7466.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Screen-Shot-2020-09-11-at-3.13.09-PM.png?w=800&resize=800%2C485&strip=all"
-        width: 800
-        height: 485
+      - url: "https://www.cioapplications.com/newstransfer/upload/0f8ru450308hytu.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "AI-powered social media analytics startup Circus Social raises $1 million"
-    excerpt: "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,"
-    publishedDateTime: 2021-04-02T11:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
+  - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
+    excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
+    publishedDateTime: 2021-03-31T06:47:00Z
+    webUrl: "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
     images:
-      - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
-        width: 615
-        height: 384
+      - url: "https://cdn.openpr.com/U/3/U331110154_g.jpg"
+        width: 780
+        height: 408
         isCached: true
-  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
-    publishedDateTime: 2021-04-02T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
+  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
+    publishedDateTime: 2021-04-01T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

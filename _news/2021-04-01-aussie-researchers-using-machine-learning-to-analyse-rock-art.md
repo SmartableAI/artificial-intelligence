@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aussie-researchers-using-ma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/23-researchersf.jpg"
         width: 1425
         height: 522
-        isCached: true
-  - title: "Rock Art in Australia Analyzed With Machine Learning"
-    excerpt: "Cosmos Magazine reports that Daryl Wesley of Flinders University and Mimal and Marrku Traditional Owners of the Wilton River area used machine learning to analyze changes in rock art styles in northern Australia’s Arnhem Land."
-    publishedDateTime: 2021-03-30T17:34:00Z
-    webUrl: "https://www.archaeology.org/news/9560-210330-machine-learning-australia"
-    type: article
-    provider:
-      name: Archaeology
-      domain: archaeology.org
-    quality: 39
-    images:
-      - url: "https://www.archaeology.org/images/News/2103/Australia-Mimal-Rock-Art.jpg"
-        width: 710
-        height: 533
         isCached: true
   - title: "When rock art meets machine learning"
     excerpt: "Rock art of human figures created over thousands of years in Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years. The study – just published in Australian Archaeology – has tested different ..."

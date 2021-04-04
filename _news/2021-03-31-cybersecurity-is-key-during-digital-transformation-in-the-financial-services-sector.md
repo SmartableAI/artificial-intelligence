@@ -25,52 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks"
-    excerpt: "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ..."
-    publishedDateTime: 2021-04-02T20:15:00Z
-    webUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/"
-    ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
+  - title: "Security In The Cloud Is Enhanced By Artificial Intelligence"
+    excerpt: "However, nothing stands still, and the extra volume of data and networking intersects with the increased complexity of attacks, and artificial intelligence (AI) is being used to keep things safe. The initial hesitation for enterprise organizations to move ..."
+    publishedDateTime: 2021-04-01T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png"
-        width: 300
-        height: 300
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519"
+        width: 876
+        height: 493
         isCached: true
-  - title: "New Cybersecurity Artificial Intelligence algorithms, Invented By Dr. Waseem Awwad"
-    excerpt: "How it works The invented algorithms use artificial intelligence that depends on a set of advanced criteria and sciences including psychology to analyze human brain cells, targeted person environment, and their backgrounds, and successfully guess a huge ..."
-    publishedDateTime: 2021-04-02T21:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20470500/new-cybersecurity-artificial-intelligence-algorithms-invented-by-dr-waseem-awwad"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20470500"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20470500"
+  - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
+    excerpt: "Arm has introduced the Arm ® v9 architecture in response to the global demand for ubiquitous specialised processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade,"
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/arm’s-solution-future-needs-ai-security-and-specialised-computing-v9"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 50
     images:
-      - url: "https://www.getnews.info/uploads/573b2f836f5ed618158fb9a0a06545ca.jpg"
-        width: 436
-        height: 480
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/Vision%20Day%20600x600.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Kintent raises $4M seed round to simplify cybersecurity compliance with AI"
-    excerpt: "Kintent Inc., a startup helping companies comply with cybersecurity standards such as HIPAA, today announced that it has raised a $4 million seed funding round led by Tola Capital. The venture capital firm was joined by several prominent angel investors."
-    publishedDateTime: 2021-04-01T18:57:00Z
-    webUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/"
+  - title: "Arm unveils v9 architecture with enhanced security, AI support for next generation of processors"
+    excerpt: "Arm introduced the new Arm v9 architecture for the next generation of chips with advanced security and artificial intelligence. The first new Arm architecture in a decade, the platform is expected to support over 300 billion future"
+    publishedDateTime: 2021-03-31T07:30:00Z
+    webUrl: "https://www.telecompaper.com/news/arm-unveils-v9-architecture-with-enhanced-security-ai-support-for-next-generation-of-processors--1377859"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png"
-        width: 867
-        height: 482
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 23
 
 secured: "cGcKEYHAbv3Liu0G2G1K2M82gs1DUM7Vb6+xJyX2778fIgy/n2FnhnR3lmWJEHUhI8UrQoVxbofSYz23qgqUd7oDLVvQePjJ8jQUcnnDbR6f4TeqlR3whKWT1QqsfF5J8PYuJ35aO+Kh9LtSRLozpFTS94SSsurBH4vKLhSX39d6UaxFTwRKYw3g/VSaMtH6yjZDLFpLqA1LJrWG7aCL/NVpnNsWxK6YZNATTZAoX3YWsqboJ0yVo2MOuZnl6kFjQCRT0H8u2Nt79ewE4xSMvnATl/1pmsN6uM++6lkmj1AJvXWlAnaC3fA2IeuZf7nU7q9EUsNPBuve5oYEK/EZ5IeuXgm6Ob4F0U1S39rqW1+RMhAxxpCFB0gJLNJO5eIgCMTO7UJXK4u4PR9IPWaiWmATN/is8DlCMhqHVXZGIE2KnrZ3n4yNjmzQ7JHk439v71KB1xY8VvmxktLSip3cz3Uq+dJEO4GrjRmZgz8gdX8J/BkpfrMlFMaLMtFFlbOwXJwsZRopzq5vCpP9WrsgFA==;XnOuBSJofHEQuIo5id2mnA=="
 ---

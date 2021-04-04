@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
-publishedDateTime: 2021-04-03T18:21:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-webUrl: "https://www.sfchronicle.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
+excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
+publishedDateTime: 2021-04-04T11:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
+webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/17/34/03/20824287/3/375x250.jpg"
-    width: 375
-    height: 243
-    isCached: true
 
 related:
   - title: "Robot artist sells art for $688,888, now eyeing music career"
@@ -58,6 +54,6 @@ related:
         height: 480
         isCached: true
 
-secured: "dLcSinWoEh3Z9qvKKtDfJRTlAfo2YbMOWiaa+Gs4SNt5CDbrBGQMwkdZbHWvQV/AS2cd2aGmqLeCpCfJGlVGQmUFtr4uLW9RcQn1fsMW5tphdJzNw5XKwwF1ehPCBVxnUhF8CXWT8AFZTGW3ufXXu2CXuIwx3OgLFxzd9BKo+mJ5GzHVXKIWrbcNcE5pANx9a9yrSTuSG36Gwp/mLQCgJNkWB6ELYaIXsP4ppCgL8lkkbZFCjGDL4QLIfhmLxvBf2v/Jskg8ygsLP7q/tNGKAbMG+GSQYHOLqoyh/o0RZx29IeHHt0qx7NoiP5ZXy9YaacRXjyMdDxj0pCk1VrQNULGkKDyS0k1pU7PMURdlD6LFqu2QKJn9Gh5reM1VnLm+ovxmTXbwuJmbD8A80tAhlXBN5uqlfwTCR2zyr62F5AIc0hevZBeweLfCZRSIfl53KV34vC2Vh22P+iOPjf/Sq+bGD95Lz0pqFrTHTfy2KNzj89HAXXRHvM6GAyCP4lEzjGh6/oCuvb886hX/qqEC4g==;TzDfZdPwi18R7QXLmMf56A=="
+secured: "Z2q+cjZsyrH6CW8CeIWGu4ZNpdsvlkTzuvfTSDekmU7qrEPKSbYAcU3zPmbbi3mklz4OdTkXDSPm4TIp792yCLJ4oKNdGNH8Osoff2a6OzLwXvGr4XOuUKMNlIZHKymZTlHvdvKVmxTZAiH6M2yub5TcYogvjPuiBEyb21+EzO5qrsWTSupZKqZ2UBvGYzQYj02sofKx24LuvyvUoouw1ymUmrXtVCcWvFSrxIfPPTVZixYgajD0S2Snl9o1z7kdOqd9JojRYSlopd/95XHfdmTLDxjo9bb+IjLFiGvzoq/1itUUaefZ2B89PzmE8eSBlPjyeM1uVX+OBSCCBepagPKRzwwLXTwRfgd42E+28Oc=;wVt/e+ZeBVg2p45ro9hI9Q=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Playstation 5 – Insomniac may be using Sony AI machine learning for Spider-Man on PS5"
+    excerpt: "Insomniac Games is using machine learning to enhance in-game visuals on the PlayStation 5, and the studio could be working alongside Sony’s AI division on experimental new technology. VIEW GALLERY – 3 IMAGES Insomniac Games recently turned heads by ..."
+    publishedDateTime: 2021-04-04T10:57:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_playstation-5/playstation-5-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 49
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78555_34_insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "g+aAdMXyFKTcl/O04ouzdN1nEqBmY7VqIART2DYqq1thCi2e6eC91Rhjekgxxem9Ut0Qq0EZxXKA2pAMKIQKHqL0eelgP6a5JVAJMlymPuAAE26PT/Mb1ndrJEvwI16TT6zH1aSEk/jUmztydhO5Q8huTPbuUUzUnoyxCdmPYymIHKnGC6dZ0f/XL+0D09B788fPY3t2mxwJbOMUI/azh4Uz8kMXqe3QZX3DTHFqfV03C8kBhZtg/858jlkgy1d873ne5XFJpoS9ZQggjDK1opp4vl2SfBkRYdrprASx22x5wr0uRGelamAkAhXy8Z1ttfXRXsRinVxJyWb+kgB7jPjHEGgMdCE5ErhfnwYeWtY=;F62FdPazlwkd3rIlDTcIAg=="
 ---
