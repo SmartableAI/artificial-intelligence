@@ -1,14 +1,14 @@
 ---
 category: news
-title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ..."
-publishedDateTime: 2021-03-30T14:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5"
+title: "Lilt Named Winner in 2021 Artificial Intelligence Excellence Awards"
+excerpt: "We’re thrilled to be recognized as a winner of the Artificial Intelligence Excellence Awards,” said Spence Green, CEO of Lilt. “As a language service and technology provi"
+publishedDateTime: 2021-03-30T14:08:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379"
 type: article
-quality: 52
-heat: 92
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Lilt Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "We’re thrilled to be recognized as a winner of the Artificial Intelligence Excellence Awards,” said Spence Green, CEO of Lilt. “As a language service and technology provi"
-    publishedDateTime: 2021-03-30T14:08:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379"
+  - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ..."
+    publishedDateTime: 2021-03-30T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 37
+    quality: 52
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -76,6 +76,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "dUhlp4k+ZdShKGrX5AurbTOk6HFqSuS7qIbgHP8Ooa/5wbd1zTPA/Kf4oTDtcFQZXULKrWLyb7hO0VX/njCAetNSUt3oqbVXFhsCv8LyBgwWR4h3Q6vqD4rZ7Y3QB+7RdabyAfv1DFO4uAs/qYREdIdSb08Bj08y9bHPlvWkW8J94VjZFAyYvuEtL4J+3mD8EBhUDLsxPzHuxtxLVoTsQiybKGNaP2eedHk9gGCZaxMuW2L06D7fqXqW5axUqiLGuD/16udFpy0YAEdxnt6NaEt8FCqatO1iltMayDhsZLYvT+Rur+EowBsh8dlYo62QXwJRx3uDxz+6O8Aem+bIH0JwMhhgYxpzviode4/3LCc=;Yx6o7AqGPx5/VQ+pJ2H7Gg=="
+secured: "9FYWtonANNMzKX3IMDxpCPC7wbB+noJFx9DvGjk6y0gu5Yo28sARL6VI7VDQejRBBzNWrRz1H3zZoIBpv2nPh6gxFg7A8jp5XcZZ6SQQS4x3QkjHoUkU74D/ye0NcXebmUw2SXRaZqgkGJRzxJ9zFfiMGVeVLsi+mOioEAv9zqsm26lvuqQUF1/U4R5/FdWkTLiK9BXGKodxCA/GW6TaUsdlu3vKPIzLRbvpBBIBe4gFuccSI1yIQQgOXPiGXdGlc9nPo48t84YU+lam9NoRz339VbwSDAZytTaPst7wNQDNg066/6CDSJOdMy7tdHa6bo/e784odpEWcmmjQfYYnJvlMPQf9YUcYUiCGVBR9s4=;9CJlAeagA8bze0iFiekKDg=="
 ---
 

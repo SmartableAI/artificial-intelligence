@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 265
+heat: 275
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
+    excerpt: "Arm has introduced the Arm ® v9 architecture in response to the global demand for ubiquitous specialised processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade,"
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/arm’s-solution-future-needs-ai-security-and-specialised-computing-v9"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 50
+    images:
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/Vision%20Day%20600x600.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Arm has designed its first new chip architecture in over a decade"
     excerpt: "A decade after they designed the chip that would power our mobile world, ARM has announced a new chip architecture for the next generation of computing."

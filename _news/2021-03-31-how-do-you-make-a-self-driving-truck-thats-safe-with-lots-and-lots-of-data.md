@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars That Are Jinxed"
+    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
+    publishedDateTime: 2021-04-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
     excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
     publishedDateTime: 2021-03-31T13:42:00Z

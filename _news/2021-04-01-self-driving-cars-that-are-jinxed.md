@@ -29,22 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving EV takes a slow, steady approach to solar-powered mobility"
-    excerpt: "When it comes to making road transportation more sustainable automakers are putting a lot of work into to fitting out conventional cars with electric drivetrains, but others are thinking a little further outside the box."
-    publishedDateTime: 2021-03-30T05:44:00Z
-    webUrl: "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/"
-    ampWebUrl: "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true"
+  - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
+    excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
+    publishedDateTime: 2021-03-30T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/"
+    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://assets.newatlas.com/dims4/default/670cf81/2147483647/strip/true/crop/1296x864+120+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2F77%2F94fdc819411b9aa1f26108fc94b7%2Fls-ev-prototype-2.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 750
         isCached: true
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
+    publishedDateTime: 2021-03-30T13:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 1
 
 secured: "TzeKWSJSkgZoB1G34aQPP6PxceLvXg4W5pKg6u+DfbPqdr24xynshCku3pfwtKIw0rwofSCdib1rM5cFTz6tMf3BH/rCHDw3H7hpeZH7oSzh18wtSM2UILxVE2+hTN+n56BLXqIzuhhvuqYJATnseGVbZOMbe8K8n0TqgmCZP1OmCaaSeDpjGbb/1SZYqSIZ6bOXpjWz8yjqEp303cf7+iDGAsS+ldhBidbvCeQVF2NBZX8DjwYR117AZXoiwB87qomZtqcCA4ZhQ1k83NQ6uGLjnTgfIzFURlYb6lO6iAc7PzX0+ATLGt9UboeUSGau3cLQmQFEfK7pzsRlEGv3I/b3HCWIPGxLuar1Nft6KIPyoSVptszlQymByoFPrqFscblgzeeRzK/h5rZwk7Jjmhx2L/rr3yX30DdSL9hNALoIFaOpUBz/fyQh9T2vkEzKXl/MjkY4PQBeau/Vy5Zn3JLvDJomYvrkPGyECXBvgAcUJIKCabKAX9fJyzU6hyjL5zgNMVVEEhgENDyJ2dcwJw==;K6I/W60hIEkljk4tgaftKw=="
 ---

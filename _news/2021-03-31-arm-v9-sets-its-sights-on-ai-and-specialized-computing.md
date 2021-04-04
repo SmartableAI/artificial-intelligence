@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specializ
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
-    excerpt: "The new capabilities in Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things ... president and chief technology officer, Azure Edge and Platforms at Microsoft."
-    publishedDateTime: 2021-03-31T10:28:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/614643"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 50
-    images:
-      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/Vision%20Day%20600x600.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "C74SM8CjAKdFdltWyh+JRlnv+LDq+NJAFhnAIidzkCqsx3im2EvEayAi0yBbCUFujOawfZrP3otm6DdP5OIa8gXcRJp6ZmIvTUHcKkJkbhBjBWBurKiY3PsiCCNl2XdTLxyMZxuUgtqt4LWbvnG7mTaJgX+ky2xIZdZ7tTf8/YQmAaH+lzxZOeXQ11vFeEW/OTMcoiNh7dZHdyzXWHZAGyhQCODTskC0okMn0LSLqERJoUNemaqznc/EX/7kd8GfIC68+Oz6TAju1IGRfFw5/pvjn2rT5DeWIOYTdkaRSgUQmaPy7hqaC52M1XwlA1iDPSehvuBlnRxuEAh3GlS5/moWjD9KFnQYkgnN2X+eVYaVkk9ot71k9qDEqXyEWMA5AA1thlwLd3D6x8p7+DDsjW05/bHIhtSqtSEeBhehGtKMDXDKV0VCyg1vc9XTn8CkRtuJTre2yEHEU1BsTpnCW0uQzOrgmeg2wPRdiCnGK+tBmhIEmR7qkDtztS/FhvUrl2t0H8jNHnu+pkTi7QO4XQ==;F0HIBI0vb+e7e7r2P+xSIw=="

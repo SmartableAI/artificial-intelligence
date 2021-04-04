@@ -24,6 +24,17 @@ images:
     height: 212
     isCached: true
 
+related:
+  - title: "Self-driving Cars Market is Set to Experience a Revolutionary Growth | Toyota, BMW, Volvo, Audi"
+    excerpt: "The Global Self-driving Cars Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026). The assessment provides a 360° view and insights – outlining the key outcomes of the Self-driving Cars market,"
+    publishedDateTime: 2021-04-02T10:49:00Z
+    webUrl: "https://industribune.net/uncategorised/7359/self-driving-cars-market-is-set-to-experience-a-revolutionary-growth-toyota-bmw-volvo-audi/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 0
+
 secured: "67xIfiyT6kAs48k7/npV08ER9Filx5UNR8y6QttipFcxTJ1yxUdp5KMRvBkTiKEAYG6kOnTLYsU3jSuX53GaP6lplnCgMpmcWNLcMf8ju3t/UQw2bY9xGVxN9wtpRZJ3XBP02IS26wwZwEYB+91KRE5foNl/yQxaSpJw6cyjHCSrZTMELirpAZN/nV+mSCRJlmgDqj6t/jtuG8Pg7QWEcRK+nOod2Jby0VpewFQmw4qmN5sqryuYjVDD06YKFz4Z0hpAh6UVOtPQicZ7i7HZP2Cdm645mg9VKmXW/5tDcHOKX+svTI0T45yXOeQgxZlGAxfdi1R8R1ugBbH1XS5s91QvWQFOF8lJ5Ja47aBSkt6/1RNpnjos6+HnOJrSotuM/MHaI/qUAL5CXN9zhTe+xEXzrgJlLXXlo6rFCAINZuuNrf3U3yz94DMfJFhJ5al1kbB8SF55vKA3XJKDSJWflCUKeEFL6EUaVdxd1UKFz90z7zgw4BMK8nTGouxhynWw7H0KZA3T7yhRBYwN6c4vIw==;3uLi+QDT8MIb2CPm3KeXnw=="
 ---
 

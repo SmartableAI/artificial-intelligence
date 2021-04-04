@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
-    excerpt: "The new capabilities in Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things ... president and chief technology officer, Azure Edge and Platforms at Microsoft."
-    publishedDateTime: 2021-03-31T10:28:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/614643"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 50
-    images:
-      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/Vision%20Day%20600x600.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "usbAeFFCGgmfQhJWR5FHkkW2nMDrWfg4D6r85YOa/5o+gFW0GtuvUPDUvoHFCrv3pCdO05wr8tta2sdc4T1nmxsfAALB8dpG1CEt5zXnmuHWM6FX9kDdKtsmj1BDq2BLOr/NHh5OEUzWHRE6/HQkcNMFj3JmkEKhsMBj2wjvlX9iQuO9fed1J3zlDST5IUMDg/o+aJUnv7PvVg4aF3143WSn5YXqPyOGRPwUbc51hs5qfLgu83zx/arstlEZPrgqn/ijYOnC/zyoTJR0OlVoG08AI11MrKXmg+sEkZUkhyU+7m+ZiOV5iJcMDYYQRoijgg+Lbs93pqnwOx+waBl1eQtNIFEDcwvCCdNro8MAPOMsZIBfb5I4BYSRfuHegAEXiNpFsPEpeZQeVPunsH71ZNnFSHFVLBJ8Y+8YGSISSqRXCaDcVU486Tkxas0/xzay7zcB3JJeA3Q7Q4TV30lr6axxyu7AmP9hANwbjjL0xaRG+bPy9iXjFkihr5ZHpiiIFgqeDKu3imFUw316wbMWBA==;RKZxMLytFBCDONlBIL/GOg=="
 ---

@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
-    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
-    publishedDateTime: 2021-03-30T06:31:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
+  - title: "Self Driving Car Market to Exhibit Continuous Growth till 2027 | Players – Mercedes–Benz, Toyota, Ford Motor Company, Volkswagen, Daimler AG"
+    excerpt: "Decisive Markets Insights publishes detailed report on Global Self Driving Car Market. Experts predict the market to grow exponentially from its earlier record of US$XX billion in 2020 to an estimated value of US$XX billion by 2027 with an annual compound growth rate of 5."
+    publishedDateTime: 2021-03-30T13:28:00Z
+    webUrl: "https://ksusentinel.com/2021/03/30/self-driving-car-market-to-exhibit-continuous-growth-till-2027-players-mercedes-benz-toyota-ford-motor-company-volkswagen-daimler-ag/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 39
+    quality: 19
     images:
-      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
-        width: 512
-        height: 384
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/02/SPORTS-CAR-300x212.jpg"
+        width: 300
+        height: 212
         isCached: true
-  - title: "Artificial Intelligence-Based Security Market Key Factor Drive Growth Is Increasing Adoption of Internet of Things"
-    excerpt: "Pune, India, March 30, 2021 (Wiredrelease) Prudour Pvt. Ltd –: The New Report “Artificial Intelligence-based Security Market” posted through MarketResearch.Biz, covers the market panorama and its growth possibilities over the upcoming years."
-    publishedDateTime: 2021-03-30T06:43:00Z
-    webUrl: "https://www.chronicle-tribune.com/news/wire/artificial-intelligence-based-security-market-key-factor-drive-growth-is-increasing-adoption-of-internet-of/article_17cb62cf-add1-5b48-a98f-8818de41243b.html"
-    type: article
-    provider:
-      name: Chronicle-Tribune
-      domain: chronicle-tribune.com
-    quality: 12
 
 secured: "r843uidbbvYiZJZp2/k/J1tMwAIIhFUddHRM8dFHGF3hSXX2aRw8BpAiHzdTNI7WQN25o15KLNvzn7vuM3A2QoXP7MCJXOhUGS2ApL9fTLV29hrQs6rjMcTZH63eU6f5HcZzYPY6ZaMaaDEbHwvAU1/sBMTgTFun2syTnC/IVxvgJ/V1HUHu+tE5g9ls10mndeyu6cpr3R3XFZ3FWM1kdFp9yroBtPW9UXUEoCGnsI8pQBmKEzuVVOLKYKybYQR6cFIbuce6vWrjvjkU9vMirwAtW2MFNjnLaWQZY+fXYmKK7azYC2xmjw+S2jK9Be5aLJYpv4uSIQUFZ7hUYET36BAE9lUy3clqdhIjo4m/Xik=;+2jR4wYyPZj3XmH2/FpGXQ=="
 ---

@@ -32,6 +32,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Lilt Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "We’re thrilled to be recognized as a winner of the Artificial Intelligence Excellence Awards,” said Spence Green, CEO of Lilt. “As a language service and technology provi"
+    publishedDateTime: 2021-03-30T14:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-c4b27d7744f88f1699784e5b21872379"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
     excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
     publishedDateTime: 2021-03-30T08:32:00Z
