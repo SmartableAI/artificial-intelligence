@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/news_business/japan__facial_recognition_syst
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology for passenger boarding on trial at Narita and Tokyo airports"
-    excerpt: "Narita International and Tokyo International airports have announced trials of Face Express – a new boarding procedure using facial recognition technology."
-    publishedDateTime: 2021-03-30T08:51:00Z
-    webUrl: "https://www.futuretravelexperience.com/2021/03/facial-recognition-technology-for-passenger-boarding-on-trial-at-narita-and-tokyo-airports/"
-    type: article
-    provider:
-      name: Future Travel Experience
-      domain: futuretravelexperience.com
-    quality: 44
-    images:
-      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/03/Narita-Tokyo-facial-recognition-boarding.png"
-        width: 768
-        height: 403
-        isCached: true
   - title: "Tampa airport to use new facial recognition technology for international travelers"
     excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
     publishedDateTime: 2021-04-01T18:24:00Z

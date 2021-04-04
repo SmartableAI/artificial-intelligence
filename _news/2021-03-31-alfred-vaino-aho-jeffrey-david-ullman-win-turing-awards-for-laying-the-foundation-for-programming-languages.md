@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "ACM TURING AWARD HONORS INNOVATORS WHO SHAPED THE FOUNDATIONS OF PROGRAMMING LANGUAGE ..."
+    excerpt: "Much of the technology for doing this translation for modern programming languages owes its beginnings to Aho and ... Google Senior Fellow and SVP, Google AI. “They have also illustrated how these various disciplines are closely interconnected."
+    publishedDateTime: 2021-03-31T09:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-entertainment-business-technology-school-curricula-063b96ae4ef73ede4fb6d7f8df780ecf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "cxHov9GoZnisRAFhOT4hv+OETWhVTWa3Xt07HD8ASXrT30tvFiK2LIFqa5x8jkxG/w3juDSpZCuAFe125QLbqQNp6w3SjYscXCZB0XjwNlJAFR/6aRx51X0p72mN/iriH3cCEk124KTS0SaOcSHEp0KfJsW/0vX433MU7SLxd+h9GJffg517v2XBGSDEYl1wQvdS9W7ZVemAWKOFKXHlsLy4tAHS+pjzIocdX7vf7xRwd9JNQJ0X9gswID8TR91nwJrce285TpLLvx3zdvjSi4BL46JHTptxMFABJPdFdiijbNjQPAH4U5SNo+AW3YjL9k10l9D2jdgxa+5tuY5hkhs+EZW1pguF2cDqVCmZoYc=;BQK142MBGqDavr4rrgBpXQ=="
 ---
 

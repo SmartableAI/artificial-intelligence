@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "A Rundown: Top Programming Languages in Machine Learning in 2021"
-    excerpt: "Python is a widely-used language, however, it is the essential choice for the greater part of its users because of the arrival of TensorFlow and a wide selection of other libraries Python is the most ideal choice for amateurs in the field. There are a ..."
-    publishedDateTime: 2021-03-30T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/a-rundown-top-programming-languages-in-machine-learning-in-2021/"
+  - title: "Alfred Vaino Aho, Jeffrey David Ullman Win Turing Awards For Laying The Foundation For Programming Languages"
+    excerpt: "Alfred Vaino Aho and Jeffrey David Ullman have been named as the recipients of the 2020 A.M. Turing Award for fundamental algorithms and theory underlying programming language implementation."
+    publishedDateTime: 2021-03-31T11:33:00Z
+    webUrl: "https://analyticsindiamag.com/alfred-vaino-aho-jeffrey-david-ullman-win-turing-awards-for-laying-the-foundation-for-programming-languages/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Programming-Languages-in-Machine-Learning.jpg"
-        width: 900
-        height: 500
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/turing-2020-lumen.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "VLVxVQq5Rj+fdT5op0f2qTzeRre30vS/zUXX5q2LG0S/acw5+KjLcZB3p5d4qWB/EmIj1WVGwVTJqfvRFh2kwMWlhAL2syZjzp8jgGIKtCPF1Am3JVZmzamxKTukmjev3V+uesrnHng5/RCNGTq6O017OHhqO0TQTz7umhvWl0DQ7t3ZzK8WbCypJUE5TimbBu9Z/DtbFW5R89sVmQEhKB24e8Hh3kLELUmtvbo7ejTxJOrZCk5CQInmVi80lXnwfRKzyFCIwyk14M70v/nyryeq9AE/eMDR1Ph1GT87xkpeAd1iKcdJg+SjbgZ+Rv8QKTXW12+3qVHcychArRjHwFUruN1Lqur4b8rgrrBrUNo=;OZ7RoEi2dBN6qI0TGVS2Kg=="

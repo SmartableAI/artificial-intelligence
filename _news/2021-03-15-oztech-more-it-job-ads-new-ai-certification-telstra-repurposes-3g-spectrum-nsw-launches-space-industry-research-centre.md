@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/02/oztech-roundup-100876243-large.jpg"

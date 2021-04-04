@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
-    publishedDateTime: 2021-03-30T08:11:00Z
-    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
-    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
-    images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
-        isCached: true
   - title: "Ex-Top Microsoft Antitrust Lawyer Joins Health Care Data Startup"
     excerpt: "Two former longtime executives at Microsoft Corp. have reunited at Truveta Inc., a startup co-owned by 14 major U.S. health providers that aims to improve patient care by using artificial intelligence ... Catholic nonprofit health care providers in ..."
     publishedDateTime: 2021-03-30T23:07:00Z

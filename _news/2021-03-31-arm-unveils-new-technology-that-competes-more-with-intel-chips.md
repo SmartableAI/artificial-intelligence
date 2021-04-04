@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chip industry battle royal: Arm throws down the gauntlet at Intel’s feet"
+    excerpt: "Chip industry battle royal: Arm throws down the gauntlet at Intel’s feet - SiliconANGLE Chip industry battle ... AI Security Infra Blockchain Policy Big Data Apps Emerging Tech Iot Women In Tech ..."
+    publishedDateTime: 2021-04-03T17:01:00Z
+    webUrl: "https://siliconangle.com/2021/04/03/chip-industry-battle-royal-arm-throws-gauntlet-intels-feet/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/arm-x86-_-6-1024x611.jpeg"
+        width: 1024
+        height: 611
+        isCached: true
 
 secured: "hR9/iXF9Z4HEm6YeLdjasK3OufLmJ49xUDWjVV21LXCEKAgpvs3sUaiD3rnWyBDMndtFmRAsjlxWdQP/oohU8H02Zv7AVXlU3SN5fYLvMlY57RnTDuxPAPJJ+U0OCXJ1zr4VwjS4silsGFO2vtdaK9hLStxiB6SyS+DWIOU2go37tO/DhBFQdWadOrDYxe9l1oS9GMjj9ai3YdCJ3NGd8iTb6z0oSp14bHbEW0km44SjV1eUGny5rPZyaZ7ikM9lSPt7Ej4VQywhCuO9unvheRP7ULxKGka26iETtVTdEthO1uPbUzeq5PbdkjA6bpgOk/CzLP8cpqLwXCZxVYq1iadrE78GHsG6YRM/kCXHI5xSPl6GZfjEHinz0wx6nebm+xQpqSuf8p1bEuIyyIrxUYb3/NDqZShmthSCBo0raIJH/Fs0TydMv7XsA7vUrJ66nwQpkq/I7dwlLQ9w/gejULZ+ocqFtGj6Ldr/FhMEJmGtXU2HoUeDJCEJXktL/2S4lzjocXAhjMO1eWd3DZP5Hw==;Xom4spQ1Ww+O+Pm3sy5bUw=="
 ---

@@ -46,20 +46,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
-    excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
-    publishedDateTime: 2021-03-30T08:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19722882.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 28
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Realeyes Named Winner In 2021 Artificial Intelligence Excellence Awards For Its Attention ..."
     excerpt: "NEW YORK, March 31, 2021 (GLOBE NEWSWIRE) -- Realeyes, a pioneer and leader in video attention measurement, announced today that its flagship product PreView was named a winner in The Business Intelligence Group’s Artificial Intelligence Excellence ..."
     publishedDateTime: 2021-03-31T15:11:00Z

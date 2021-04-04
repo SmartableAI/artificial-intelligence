@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
+    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
+    publishedDateTime: 2021-04-02T09:07:00Z
+    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
+        width: 421
+        height: 250
+        isCached: true
   - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
     excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
     publishedDateTime: 2021-04-01T08:19:00Z
