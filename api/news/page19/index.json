@@ -2,6 +2,160 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-18-servicenow-adds-ai-to-low-code-platform.md",
+      "title": "ServiceNow Adds AI to Low-Code Platform",
+      "excerpt": "It features expanded native AI capabilities and new low-code app development tools, designed to enable quick development of new applications by line-of-business employees. With companies constantly updating the way they operate, platforms such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/",
+      "originalUrl": "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2020/10/Servicenow.image_.jpg",
+          "width": 432,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-what-happens-when-our-faces-are-tracked-everywhere-we-go.md",
+      "title": "What Happens When Our Faces Are Tracked Everywhere We Go?",
+      "excerpt": "When a secretive start-up scraped the internet to build a facial-recognition tool, it tested a legal and ethical limit — and blew the future of privacy in America wide open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/18/business/18ontech-clearview-illustration/18ontech-clearview-illustration-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.amp.html",
+      "publishedDateTime": "2021-03-17T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies.md",
+      "title": "BrainChip Joins tinyML Summit 2021 for Ultra-Low Power Edge Machine Learning Technologies",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-sonoma-county-to-add-artificial-intelligence-for-fires.md",
       "title": "Sonoma County to add artificial intelligence for fires",
       "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added",
@@ -1055,152 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-top-questions-to-ask-ai-vendors-in-2021-part-two.md",
-      "title": "Top Questions To Ask AI Vendors In 2021: Part Two",
-      "excerpt": "Sticking to a few hard-hitting questions can help you weed out fake AI solutions and help you refine your own requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-torchai-raises-30m-for-ai-that-unifies-disparate-enterprise-data.md",
-      "title": "Torch.AI raises $30M for AI that unifies disparate enterprise data",
-      "excerpt": "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
-      "originalUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-everything-you-need-to-know-about-gpt-3.md",
-      "title": "Everything You Need To Know About GPT-3",
-      "excerpt": "These things combined can provide GPT-3 huge leverage over Google or Microsoft’s AI for real-time natural language translation. Making the Internet Safe: One of the biggest differences COVID-19 has made to society is that it has pushed the entire world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/everything-you-need-to-know-about-gpt-3/",
-      "originalUrl": "https://www.dqindia.com/everything-you-need-to-know-about-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/38E66CE2-0866-4EA7-9D4E-DCFFC6810039.jpeg",
-          "width": 1125,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/everything-you-need-to-know-about-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/everything-you-need-to-know-about-gpt-3/amp/",
-      "publishedDateTime": "2021-03-17T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

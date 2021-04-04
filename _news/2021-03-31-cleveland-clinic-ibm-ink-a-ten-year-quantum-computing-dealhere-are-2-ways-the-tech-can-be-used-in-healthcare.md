@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM, Cleveland Clinic launch 10-year quantum computing deal"
-    excerpt: "And trust in AI hasn't been helped by IBM itself, following the high-profile and embarrassing fall of Watson Health, IBM's effort to revolutionize the medical sphere using AI. Watson Health was marketed as a breakthrough in cancer treatment and drug ..."
-    publishedDateTime: 2021-03-30T15:28:00Z
-    webUrl: "https://www.healthcaredive.com/news/ibm-cleveland-clinic-launch-10-year-quantum-computing-deal/597546/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 24
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/7a/25/7a25e0447add42c739e59efbfca036db.jpg"
-        width: 770
-        height: 363
-        isCached: true
   - title: "IBM to install its first private-sector quantum computer at Cleveland Clinic"
     excerpt: "That’s where IBM comes in. Its artificial intelligence, cloud-based and quantum computing ... In the last decade alone, they teamed up to apply the since-retired Watson for Oncology platform to genomics and cancer research, and later took on a five ..."
     publishedDateTime: 2021-03-30T18:30:00Z

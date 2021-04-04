@@ -2,6 +2,143 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-02-17-this-ai-reads-childrens-emotions-as-they-learn.md",
+      "title": "This AI reads children's emotions as they learn",
+      "excerpt": "A Hong Kong company has developed facial expression-reading AI that monitors students' emotions as they study. With many children currently learning from home, they say the technology could make the virtual classroom even better than the real thing.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215012844-emotion-recognition-ai-4-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
+      "publishedDateTime": "2021-02-16T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-for-ctrl-labs-the-future-is-all-in-the-wrist.md",
+      "title": "For CTRL Labs the Future Is All in the Wrist",
+      "excerpt": "Chris Wiltz is a Senior Editor at Design News covering emerging technologies including AI, VR/AR, blockchain, and robotics. North America's Premier Battery Conference. Join our in-depth conference program with 70+ technical sessions in eight tracks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/ctrl-labs-future-all-wrist",
+      "originalUrl": "https://www.designnews.com/electronics-test/ctrl-labs-future-all-wrist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/CTRLLabs.png",
+          "width": 1188,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-isscc2021-artificial-intelligence-chips.md",
+      "title": "ISSCC2021: Artificial intelligence chips",
+      "excerpt": "This was a packed session, with nine presentations, on chips from 5nm and 7nm processors for mobile and cloud use, to ultra-low-power application-specific accelerators for wearables. IBM and Samsung both presented ML processors for phones, where local AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/design/isscc2021-artificial-intelligence-chips-2021-02/",
+      "originalUrl": "https://www.electronicsweekly.com/news/design/isscc2021-artificial-intelligence-chips-2021-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/02/17151548/ISSCC2021-paper-9.1-IBM-AI-for-mobiles-lowres.jpg",
+          "width": 1086,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-it-takes-a-village-to-raise-a-child-and-the-same-goes-for-building-a-chatbot-ai-during-ongoing-digital-transformation.md",
       "title": "It takes a village to raise a child. And the same goes for building a Chatbot AI during ongoing digital transformation.",
       "excerpt": "One of the most exemplary team efforts I have had the honor of leading was our effort to implement the first AI Chatbot within our organization. A little less than a year after getting the assignment,",
@@ -971,161 +1108,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles.md",
-      "title": "A Match Made In Heaven For The Cloud And Autonomous Vehicles",
-      "excerpt": "Here's why there is an ongoing clamor for AV entities to sign-up with cloud providers, ostensibly a mutually beneficial match-up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602b53749a59972aa0994920%2F0x0.jpg%3FcropX1%3D908%26cropX2%3D5284%26cropY1%3D48%26cropY2%3D2643",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
-      "publishedDateTime": "2021-02-16T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
-      "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
-      "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-goldman-sachs-to-offer-its-investing-know-how-to-the-masses.md",
-      "title": "Goldman Sachs to Offer Its Investing Know-How to the Masses",
-      "excerpt": "The Wall Street firm is set to unveil Marcus Invest, a low-cost digital platform that allocates and automatically rebalances individuals’ wealth across portfolios of stocks and bonds based on the models developed by the firm’s investment-strategy committee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "originalUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-298699/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "publishedDateTime": "2021-02-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

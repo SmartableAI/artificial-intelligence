@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market To Reach Valuation Of USD 38,986.7 Million By 2026: Introspective Market Research"
+    excerpt: "(MENAFN - Introspective Market Research) The Machine Learning Market accounted for USD 1,289.5 million and is likely to grow at a CAGR of 47.7% over the forecast period, to account for USD 38,986 ..."
+    publishedDateTime: 2021-04-04T09:20:00Z
+    webUrl: "https://menafn.com/1101857134/Global-Machine-Learning-Market-To-Reach-Valuation-Of-USD-389867-Million-By-2026-Introspective-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?953277"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "GQoUXBPk9ybSgMW5wQQ7w32rnLI48CE6XIiWZGb3npAf/rr8GFL0E2tyWmfM0L8hyNnS7v5cirhU7jwah5s/gYj+ZCviHI18GLRWS0eYwA9dpaOFF3B7Wmg6fx3/r2UhqbPQbxdbl66aRKnJ6trHiZGmkPAaFUVnSJNt79s4FrfVmnvasnjgfkws9++sBrE5OnDb5REqng1S7Cqo8BLFIbV6PzT2SeSq8O71QSNXByKByjgHe6wq+I1GSjB9JiVdzSuwpfdVYe/RIZvXPId4ZWx1BOuJ43dcT96wKMLTDoXh7Gym4GiEi/mztJAPHlzguIwo/x6zisfvqBom/jlmm20M9F3Sf2gnzrVvoHszRGA=;iBYrqoEo/WOY7cw2p0UO2w=="
 ---

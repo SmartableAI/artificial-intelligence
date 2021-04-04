@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 34
-  - title: "Artificial Intelligence Platforms Market Confirms Strong Growth Momentum | Google, Baidu, IBM, Microsoft, SAP"
-    excerpt: "Key Segments Studied in the Global Artificial Intelligence Platforms Market Artificial Intelligence Platforms market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence Platforms ..."
-    publishedDateTime: 2021-03-30T15:44:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/30/artificial-intelligence-platforms-market-confirms-strong-growth-momentum-google-baidu-ibm-microsoft-sap/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 30
 
 secured: "yfxw60HJiKiqJGYRusj1FkT3eSVGgtn1bkkrkLqKtGDXs1Hjd0P/YVRdlEWn55UVNfM+qWPm7y0jnyS3vVrKXv0+Z26eSkM3jide/fYIZ9WefQ9ZMfoFKpQEJkU6tnT+K+Kg2KC510wh7Eu2ke/W8xoHG19zvRH+obS6hJMOxCV0jUhxIPqtdrZxH55vR9e5hQj8qfIUGxViJge3/W3VTN5PE4GtcXF/7PImJFMowIdcQZs8DUPxC9Ufo9o7TxNOR4eYd18ase1wpN3Mx3ePH9KVXXePDDjMHp0ulNCZclZ7XX3L8LSs7LzkLj+yQ0B1IrQiSu+w665tG4shvBodr+H1Sv7wIdLiQcMF8dUWBIk=;Y7wHBE9eDjI5QkCb8U0nzw=="
 ---

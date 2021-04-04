@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving"
+    excerpt: "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,"
+    publishedDateTime: 2021-04-04T09:00:00Z
+    webUrl: "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/"
+    ampWebUrl: "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60696d2c3a792eb62a553dc8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1827%26cropY1%3D100%26cropY2%3D1128"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Debate Over Tesla’s Full Self-Driving"
     excerpt: "debate over Tesla’s full self-driving. Get the entire 10-part series on Ray Dalio in PDF. Save it to your desktop, read it on your tablet, or email to your colleagues Volkswagen was in the headlines yesterday after it posted a press release on its ..."
     publishedDateTime: 2021-03-31T16:04:00Z

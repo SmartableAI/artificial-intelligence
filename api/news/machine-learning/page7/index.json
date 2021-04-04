@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-19-a-better-customer-experience-is-important-but-its-just-one-way-ai-and-machine-learning-can-transform-the-enterprise.md",
+      "title": "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise",
+      "excerpt": "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
+      "originalUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
+      "publishedDateTime": "2021-02-18T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate.md",
       "title": "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate",
       "excerpt": "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now",
@@ -1355,50 +1407,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-real-or-fake-robot-uses-ai-to-find-waldo.md",
-      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
-      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
-          "width": 1691,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

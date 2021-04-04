@@ -2,6 +2,91 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, Microwaves Fall Prey to Global Chip Shortage",
+      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-defiance-etfs-a-revolution-in-thematic-etf-investing-podcast-transcript.md",
+      "title": "Defiance ETFs: A Revolution In Thematic ETF Investing (Podcast Transcript)",
+      "excerpt": "And what's great about what we do is that, we're from ... computing, to better our quality of lives, for example, in aerospace and defense, you have machine learning and AI that can optimize ...",
+      "sourceUrl": null,
+      "webUrl": "https://ai.facebook.com/blog/how-were-using-fairness-flow-to-help-build-ai-that-works-better-for-everyone",
+      "originalUrl": "https://seekingalpha.com/article/4415956-defiance-etfs-a-revolution-in-thematic-etf-investing-podcast-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/165910099_290430672522446_6093512124584802019_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=pPzSh-SiaRsAX-_5Kj-&_nc_ht=scontent-sea1-1.xx&oh=c5de44afea735e0967c0289d7ebdbe35&oe=608E7C52",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-machine-learning-helps-spot-gait-problems-in-individuals-with-multiple-sclerosis.md",
       "title": "Machine learning helps spot gait problems in individuals with multiple sclerosis",
       "excerpt": "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues.",
@@ -1111,101 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
-      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
-      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "publishedDateTime": "2021-03-26T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
-      "title": "Computer vision software has the potential to reinvent the way cities move",
-      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "publishedDateTime": "2021-03-26T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

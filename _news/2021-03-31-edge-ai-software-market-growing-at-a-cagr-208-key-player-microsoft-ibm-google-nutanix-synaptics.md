@@ -96,15 +96,6 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 34
-  - title: "Artificial Intelligence Platforms Market Confirms Strong Growth Momentum | Google, Baidu, IBM, Microsoft, SAP"
-    excerpt: "Key Segments Studied in the Global Artificial Intelligence Platforms Market Artificial Intelligence Platforms market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence Platforms ..."
-    publishedDateTime: 2021-03-30T15:44:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/30/artificial-intelligence-platforms-market-confirms-strong-growth-momentum-google-baidu-ibm-microsoft-sap/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 30
 
 secured: "vEa7a8JtgawK2NuxRH5EH2atdDHnQjPq35LoVQbHrpGlqA6R5y5h5KrmbOjuiVF3XA4/gQGl/Y+RnbxxvfDmZoEwTk76yoIlvkoOeUsop98208ecxw/vtqHo8b+gCMNz51RfgT5CNimZzzZQD5FKmiCzH3yWDgu+SCMNjcSrkOqMUT/rs6AoAWEJYCvYx5YAskKhp3ySzdxiOycR3oQZBoxUKcvW35dq8dlqHiC4JjmebXo3IbQlRfnjvqE7d0whuyfvxGymbKC79MdJO18+p8G/HZGlKVnMpbctnX+X74jeUxWB8CUHKYpGWA5MIstXzqsHgPe8coDAhRbilDYjAnGrn3y9jhwa/7fH1yD4eLA=;dgf/JpY3U0Opa7SVNBmwmA=="
 ---

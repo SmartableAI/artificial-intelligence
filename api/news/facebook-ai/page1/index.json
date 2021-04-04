@@ -752,6 +752,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-20-facebook-trains-computers-to-learn-more-like-humans-do.md",
+      "title": "Facebook trains computers to learn more like humans do",
+      "excerpt": "Facebook chief artificial intelligence scientist ... The social media giant's AI research team is nudging computers closer to that goal, teaching them to fill in the blanks without relying on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-trains-computers-to-learn-more-like-humans-do/",
+      "originalUrl": "https://www.cnet.com/news/facebook-trains-computers-to-learn-more-like-humans-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/liQTLqsa0myav4DR4_5h2_y1wv8=/1200x630/2021/03/04/3352dbbe-d7af-48a7-ae7f-5c4e440d6375/facebook-seer-ai.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-trains-computers-to-learn-more-like-humans-do/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-trains-computers-to-learn-more-like-humans-do/",
+      "publishedDateTime": "2021-03-20T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-facebook-messenger-bot-answers-questions-about-whats-recyclable.md",
       "title": "Facebook Messenger Bot Answers Questions About What’s Recyclable",
       "excerpt": "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ...",
@@ -1427,61 +1479,6 @@
         "AWS AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
-      "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
-      "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
-      "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
-      "publishedDateTime": "2021-03-01T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security",
-        "Facebook AI",
-        "AWS AI"
       ]
     }
   ],
