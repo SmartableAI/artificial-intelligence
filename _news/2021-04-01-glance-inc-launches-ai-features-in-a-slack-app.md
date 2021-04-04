@@ -34,6 +34,20 @@ related:
         width: 2999
         height: 1999
         isCached: true
+  - title: "Top 20 Valuable and Innovative AI Companies in the World"
+    excerpt: "In this article we presented the 20 most valuable and innovative AI companies in the world. You can skip our detailed discussion on AI and go"
+    publishedDateTime: 2021-04-02T08:43:00Z
+    webUrl: "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 41
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg"
+        width: 1280
+        height: 850
+        isCached: true
 
 secured: "bEN7wFloTNpMnhMA3RYk/iYSi8q5oGFAbS4qxm85Qa3Yngcp1boifpVqfSNERzt9FdtTWRXt7gm1NCeXS7PV/yGh3kXxN7zmjjXH6TdKgnhd2EZRMMVJUvV2GZ4rGhQkGQHsPY+JhfYTuIKO2oHSiMZoB+D3IZCqV16iG2gndOkzCYDjKvUBER15okgJO70rmbUPCjKuWI5OjSgI3/1o4SwJfHePOM+SWLskJ24hta85RQz65I9Eqh/6NsQC3ciSjkO5XKX5Mimh0xHO5Qt7Wb+x/7H8WxddtZJK49ocYeekS3qfB5qKfMYO7h0H4WfjCDKUYv0GDcUpOddnIfQ7W3ZvvlZ9xgtvbPxmRZnQdn8=;v3gTMTVaI/A1ov40DmVjAA=="
 ---

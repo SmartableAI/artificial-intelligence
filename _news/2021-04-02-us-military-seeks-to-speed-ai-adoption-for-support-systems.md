@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-01T19:09:00Z
 originalUrl: "https://www.aitrends.com/ai-in-government/us-military-seeks-to-speed-ai-adoption-for-support-systems/"
 webUrl: "https://www.aitrends.com/ai-in-government/us-military-seeks-to-speed-ai-adoption-for-support-systems/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-2Pentagon-2.jpeg"

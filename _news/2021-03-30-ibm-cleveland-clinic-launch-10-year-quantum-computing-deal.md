@@ -39,20 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "IBM to Partner With Cleveland Clinic on Medical Research Center"
-    excerpt: "Its Watson Health division, which uses AI to help hospitals, insurers and drugmakers manage data, has struggled to become widely adopted. Once one of IBM’s more ambitious initiatives, the company is now considering selling the unprofitable unit."
-    publishedDateTime: 2021-03-30T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-30/ibm-to-partner-with-cleveland-clinic-on-medical-research-center"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXBTzNtKYX1k/v1/1200x718.jpg"
-        width: 1200
-        height: 718
-        isCached: true
   - title: "Cleveland Clinic to be First U.S. Site of IBM \"Quantum Computer\" for Advanced Healthcare Research"
     excerpt: "The Cleveland Clinic and IBM announced a major partnership this week that will make quantum computing, and the theoretical research there from, a key"
     publishedDateTime: 2021-04-01T20:35:00Z
@@ -108,34 +94,6 @@ related:
     quality: 21
     images:
       - url: "https://qtxasset.com/fiercebiotech/1617115623/IBM%20Quantum%20System%20One.jpg/IBM%20Quantum%20System%20One.jpg?s2D2T.04WI9uPzs6k0flwJEz9jEeMiAK"
-        width: 4000
-        height: 4000
-        isCached: true
-  - title: "Cleveland Clinic and IBM Unveil Landmark 10-Year Partnership to Accelerate Discovery in Healthcare and Life Sciences"
-    excerpt: "a joint Cleveland Clinic - IBM center with the mission of fundamentally advancing the pace of discovery in healthcare and life sciences through the use of high performance computing on the hybrid cloud, artificial intelligence (AI) and quantum computing ..."
-    publishedDateTime: 2021-03-30T10:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-technology-genomics-jon-husted-5f8bc7fac31514d7d3b65c1ad9d67083"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cleveland Clinic, IBM ink quantum computing tech partnership to accelerate health research"
-    excerpt: "Cleveland Clinic and IBM have inked a 10-year partnership to leverage high-performance computing, artificial intelligence and quantum computing ... \"It typically takes 15 years from idea to therapy [for new treatments]. We’d like to shorten that ..."
-    publishedDateTime: 2021-03-30T10:30:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/cleveland-clinic-ibm-to-develop-premise-quantum-computing-system-to-accelerate-health-research"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 16
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1617051785/IBM%20Quantum%20System%20One.jpg?lFyh6TLOHcJgtGgaOvytc1FT1upMZhq_"
         width: 4000
         height: 4000
         isCached: true

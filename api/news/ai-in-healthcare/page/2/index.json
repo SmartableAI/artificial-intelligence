@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-21-artificial-intelligence-kept-expanding-through-a-turbulent-year-with-some-exceptions.md",
+      "title": "Artificial intelligence kept expanding through a turbulent year, with some exceptions",
+      "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/20/19ddf293-651c-4f9c-9293-d4d40fb83d10/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "publishedDateTime": "2021-03-20T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions.md",
       "title": "Artificial intelligence keep expanding through a turbulent year, with some exceptions",
       "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
@@ -1355,49 +1408,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-delving-deep-into-potential-of-artificial-intelligence.md",
-      "title": "Delving deep into potential of Artificial Intelligence",
-      "excerpt": "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "originalUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "publishedDateTime": "2021-03-01T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

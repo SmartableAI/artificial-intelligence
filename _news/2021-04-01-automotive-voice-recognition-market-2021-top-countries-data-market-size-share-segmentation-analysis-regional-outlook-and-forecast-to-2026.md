@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
-    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
+  - title: "Deep Learning System Market Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2028 with key players"
+    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market The global deep learning system market size is expected to reach USD 93."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2028-with-key-players-2021-03-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -55,20 +55,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
         width: 421
-        height: 250
-        isCached: true
-  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
-    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-04-02T03:24:00Z
-    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
         height: 250
         isCached: true
 

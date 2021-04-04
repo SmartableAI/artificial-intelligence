@@ -176,22 +176,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Head of Google’s self-driving car project steps down"
-    excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
-    publishedDateTime: 2021-04-02T19:45:00Z
-    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
     excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
     publishedDateTime: 2021-04-01T11:00:00Z

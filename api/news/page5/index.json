@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-30-wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots.md",
+      "title": "Google spinoff Cartken and REEF Technologies launch Miami’s first delivery robots",
+      "excerpt": "Self-driving and robotics startup Cartken has partnered with REEF Technologies, a startup that operates parking lots and neighborhood hubs, to bring self-driving delivery robots to the streets of downtown Miami.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/nbrhd-reef-cartken.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
+      "publishedDateTime": "2021-03-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-ambi-robotics-raises-61m-in-seed-funding.md",
+      "title": "Ambi Robotics Raises $6.1M in Seed Funding",
+      "excerpt": "based company that emerged from stealth to introduce AmbiOS, an advanced robot operating system based on simulation-to-reality artificial intelligence (AI), raised $6.1m in seed funding. The round was led by Bow Capital, Vertex Ventures and The House Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/ambi-scaled.jpg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-volvo-and-aurora-team-up-on-fully-autonomous-trucks-for-north-america.md",
       "title": "Volvo and Aurora team up on fully autonomous trucks for North America",
       "excerpt": "Volvo is partnering with self-driving startup Aurora on a new lineup of fully autonomous semi trucks, the companies announced. The trucks will be deployed in North America on highly frequented hub-to-hub routes.",
@@ -157,6 +294,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
+      "title": "Three AI Apps making waves in the insurance industry",
+      "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
+      "originalUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg",
+          "width": 2999,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AndroidGuys",
+        "domain": "androidguys.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.md",
       "title": "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details",
       "excerpt": "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30.",
@@ -165,7 +345,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1050,198 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
-      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
-      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
-          "width": 750,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "publishedDateTime": "2021-03-29T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
-      "title": "Adversarial training reduces safety of neural networks in robots: Research",
-      "excerpt": "Machine learning needs to improve adversarial robustness in deep neural networks for robotics without reducing their accuracy and safety.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
-      "originalUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/autonomous-robots-adversarial-training.jpg?w=1200&strip=all",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
-      "publishedDateTime": "2021-03-29T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virginia-lawmakers-ban-police-use-of-facial-recognition.md",
-      "title": "Virginia lawmakers ban police use of facial recognition",
-      "excerpt": "Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/210325_abcnl_prime_dwyer_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "publishedDateTime": "2021-03-29T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-disney-world-tests-facial-recognition-at-magic-kingdom.md",
-      "title": "Disney World Tests Facial Recognition At Magic Kingdom",
-      "excerpt": "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
-      "publishedDateTime": "2021-03-29T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

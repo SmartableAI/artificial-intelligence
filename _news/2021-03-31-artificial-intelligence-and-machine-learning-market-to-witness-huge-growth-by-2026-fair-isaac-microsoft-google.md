@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
 type: article
 quality: 97
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg"
         width: 630
         height: 423
-        isCached: true
-  - title: "Microsoft Teams offers live transcription powered by AI"
-    excerpt: "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English."
-    publishedDateTime: 2021-03-30T09:33:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970"
-        width: 651
-        height: 366
         isCached: true
   - title: "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics"
     excerpt: "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ..."

@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Redefining what a map can be with new information and AI"
-    excerpt: "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,"
-    publishedDateTime: 2021-03-30T10:00:00Z
-    webUrl: "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/"
-    ampWebUrl: "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/"
+  - title: "These are the AI risks we should be focusing on"
+    excerpt: "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration."
+    publishedDateTime: 2021-04-03T13:40:00Z
+    webUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/"
+    ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes.jpg?w=1200&strip=all"
+        width: 1200
+        height: 611
         isCached: true
 
 secured: "mHGNClXEDIs1PbkryYdPjwRc3zu4KZM1cmPa/ZbXDiTCO0dXQ/qOzJC07tZGKpwZkoBd9lYV8k/4VyDu4RIZwl0/c2d0ysuzLVKWI4TeeVJRUH26BMr3DjggcQxF6M7F5MLPYGPJRkN7GJkkp5dl1GG4KVpmAd+kR6f4xLeOuXGi3kqHSchh504RnI2gtgozN7aN/zq8GNPmLYdMhlPO8dauj8POS0VmUQFQbXLyNToIsx3tjtkCOtf5VgFD+3fpE9QOD/e3d7Y+jpTq65Fsb+l1A2iiPLYO145A79STnbSybW18oAorHPby24tIpxb62xniL6LCCp79/BMdnpr4IyGYTJrRjytWfFgBwnR/OXtyP0E9+tKnaVeX6W1WitBebGwsOjId4LyAztXI/MKZTtM9H/3qSu8nWlZAJXvsFchBfksn+00o1jStMe/9Er7SLhH+uBlXV0W89hd0Q/SjjUgjACNdlw0pBdYjtEgaEjLHvN1UIM07RCBpNofboIoemb8jjs1A+JDf8Ib+MI4Skw==;A2OXnLZCIj8+eXA5p0lCOQ=="

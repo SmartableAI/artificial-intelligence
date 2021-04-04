@@ -7,7 +7,7 @@ originalUrl: "https://www.psu.com/news/ps5-capable-of-machine-learning-ai-upscal
 webUrl: "https://www.psu.com/news/ps5-capable-of-machine-learning-ai-upscaling-according-to-insomniac-games/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2000
     height: 1125
     isCached: true
+
+related:
+  - title: "Insomniac may be using Sony AI machine learning for Spider-Man on PS5"
+    excerpt: "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech."
+    publishedDateTime: 2021-04-03T23:59:00Z
+    webUrl: "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 76
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78555_34_insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "g+aAdMXyFKTcl/O04ouzdN1nEqBmY7VqIART2DYqq1thCi2e6eC91Rhjekgxxem9Ut0Qq0EZxXKA2pAMKIQKHqL0eelgP6a5JVAJMlymPuAAE26PT/Mb1ndrJEvwI16TT6zH1aSEk/jUmztydhO5Q8huTPbuUUzUnoyxCdmPYymIHKnGC6dZ0f/XL+0D09B788fPY3t2mxwJbOMUI/azh4Uz8kMXqe3QZX3DTHFqfV03C8kBhZtg/858jlkgy1d873ne5XFJpoS9ZQggjDK1opp4vl2SfBkRYdrprASx22x5wr0uRGelamAkAhXy8Z1ttfXRXsRinVxJyWb+kgB7jPjHEGgMdCE5ErhfnwYeWtY=;F62FdPazlwkd3rIlDTcIAg=="
 ---

@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Didi seeks to raise $6 billion for its self driving unit: Report"
-    excerpt: "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year."
-    publishedDateTime: 2021-03-30T10:19:00Z
-    webUrl: "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/"
+  - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
+    excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
+    publishedDateTime: 2021-03-30T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/"
+    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg"
-        width: 800
-        height: 560
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Self-Driving Cars That Are Jinxed"
+    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
+    publishedDateTime: 2021-04-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to break into the self-driving industry after college, according to 10 rising stars in the field"
     excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving-vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
@@ -55,6 +71,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
+    publishedDateTime: 2021-03-30T13:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 1
 
 secured: "h8MPNqaSRAygejVLhy+vwEy5VIE1kfLdohNiKK8SyExLUjyuqub4QPV3oMN8+MC+0TQA5SQYlEKWii6ojJxKMks23MMbP99Do0vPaZD2QELqdzPlN8SWpORWhN93HAeicOY8Z2JSXfR9yXrrltcToFSiep72P3X7CnYbOPFfro583tAlZuTJYMnCRrVfWOi6vTf19En6EW+ZOLMgXczcgAXvqT85tZAUFCcjJ755j293L4An97dc1fb9CkalOBuTAY4Z+RBAS4m4z5guBTItUMZeVTHcONBlTUXOFoaP3xBiM6HCQSyKp+zQTzdV7RZO+qOiMOyLPHPoriymTY5loxbph00ASFWSxXIrAZf8xbM0GDZcutDQYakzUtaAoAcVvCrN/4cYGJlC5BV+Lj9RIypbwldIepKI1Br2TCl74FPyh1dAccaVMTkXMDwMbnlHpN3FJY+mSFM6RhVf98AojrqKhFebCnvD4qqIZJ12sg5mD21QwxObtIkgs4CZ+HneKkabaBduPrMkjCTAOTxERA==;jSRMpTcbPyy1vp9koR1bvA=="
 ---

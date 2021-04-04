@@ -29,43 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-03-30T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
+    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
+    publishedDateTime: 2021-04-01T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+  - title: "Artificial Intelligence in BFSI Market Demand, Scope, Share, Growth, Applications, Types and Forecasts Report 2028"
+    excerpt: "which is driving revenue growth of the global Artificial Intelligence in BFSI market. Download Sample PDF Copy of this Report At https://www.emergenresearch.com/request-sample/585 Key players in the market include Amazon Web Services (AWS), Inc., Google ..."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-demand-scope-share-growth-applications-types-and-forecasts-report-2028-2021-03-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Impact Of COVID-19 On Natural Language Processing (NLP) Market 2021 Industry Challenges Business Overview And Forecast Research Study 2027"
-    excerpt: "Apr 01, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Natural Language Processing (NLP) Market The research team projects that the Natural Language Processing (NLP ..."
-    publishedDateTime: 2021-04-01T11:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,49 +71,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+  - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
+    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
+    publishedDateTime: 2021-03-31T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2028-fortune-business-insights-2021-03-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 20
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
-    excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
-    publishedDateTime: 2021-03-31T06:47:00Z
-    webUrl: "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research"
+  - title: "United States Education Artificial Intelligence Market Report 2021-2025: Market is Poised to Grow by $253.82 Million, Progressing at a CAGR of 49% - R"
+    excerpt: "The artificial intelligence market in the education sector in the US is poised to grow by $ 253.82 mn during 2021-2025, progressing at a CAGR of 49% during the forecast period. The market is driven by the growing emphasis on customized learning paths using AI and increased demand for ITS."
+    publishedDateTime: 2021-03-31T09:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=445292"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
     images:
-      - url: "https://cdn.openpr.com/U/3/U331110154_g.jpg"
-        width: 780
-        height: 408
-        isCached: true
-  - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
-    excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
-    publishedDateTime: 2021-04-01T12:08:00Z
-    webUrl: "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 15
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
-        width: 300
-        height: 300
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "lngVXNrKJqXM0C1BM5lzZiosSeP1iE2LlCkfSAouePUsrVN9ea4Z7mbWBQMK69OwvO0Yg4M/x3jgC/2xGiXF3WeVCTuqfi/dCon+xWN5HPVt0cJ1Zljylcx1/0zewtvmoh6u2NT7J1QqNQMZFJlU3jeQxYer5HW/G3BB5xL+eNiWbZzdFc98qtZIanh6nvm/kYLLdFmhwrvPOjLG4vdjE5xM1Or09Drq5QIdcBtPcYgU0DRK1YKRdXrjXZQVhUgO3iVDZChJZKlDlvLhVRhp34MZw7ZgtoOHJy2ZeiJ7lptm2qT1uFra0zmXUbqyDFZ92A688oBZ2Nsl3utqSmHtcFdcGIMmxCEhWQbuIZILnto=;1nRwOpEBDJR3VKkw52WJAQ=="

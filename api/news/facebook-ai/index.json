@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-04-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.md",
+      "title": "Insomniac may be using Sony AI machine learning for Spider-Man on PS5",
+      "excerpt": "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/8/78555_34_insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html",
+      "publishedDateTime": "2021-04-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-these-are-the-ai-risks-we-should-be-focusing-on.md",
       "title": "These are the AI risks we should be focusing on",
       "excerpt": "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1438,49 +1482,6 @@
         "AI in Security",
         "Facebook AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-facebook-open-sources-ai-model-to-predict-covid-19-patient-outcomes.md",
-      "title": "Facebook Open-Sources AI Model to Predict COVID-19 Patient Outcomes",
-      "excerpt": "A team from Facebook AI Research (FAIR) and New York University (NYU) School of Medicine has developed deep-learning models that use chest X-rays to predict COVID-19 patient prognosis. In a comparison study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/facebook-covid-prognosis/en/headerimage/facebook-covid-prognosis-header-1613916554467.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

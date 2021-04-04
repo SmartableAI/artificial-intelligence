@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-03-30T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact Of COVID-19 On Natural Language Processing (NLP) Market 2021 Industry Challenges Business Overview And Forecast Research Study 2027"
     excerpt: "Apr 01, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Natural Language Processing (NLP) Market The research team projects that the Natural Language Processing (NLP ..."
     publishedDateTime: 2021-04-01T11:41:00Z
@@ -69,61 +41,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
-    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
-    publishedDateTime: 2021-03-31T09:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
+  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
+    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
-    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
-    publishedDateTime: 2021-03-31T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
-    excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
-    publishedDateTime: 2021-04-01T12:08:00Z
-    webUrl: "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 15
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "FNKIshBekxusH4pQziWJjHKAxn+hjGgu1ajsBIJi6g3XFrjHYq0Yhwo/Rp0jNz8Ucn/38YKMoVQFhigLgk188dF5YGW8P8h8nIKJlU/41mi8D0VOUGaLtGM6LAf8NY/3qXOEnD7yFdlSOghZmgGQvlI2JJnMLL60d0SRUeWOjTU1EsuN+Dc03t9Gyu5QFNwDfEO7GhK3c05Qx33VIo/aq+AyaupLPNCYHrNT8d6Dywwox9tw2ympiQYkK3A/ddVA6hv8Li0tmH1pV1TaFTqIB0gWMj/0FB5hJVLzfylOtcLVOEKzhsJzkuvCwC3qi70tYZI8XXyshzRVyIXEHgPtV2nWCo+hE6IIGCbEW2ncFQl0T9txNQ8Kw3f81u1aN021ZTqUvSWZOEaC53PeAvhSAd20AkaQ2Jy/3LdL/l+T+NywA9O7vtVARBQZFhZY+HTGz4hFRTsFYZ1P9jU4dctWEtOIfbV1uZfiFtb+VfvT3NfSFz7wKsyRxHP3D0GtIDIkJa1EQe9IQSemPHI/patKSQ==;qnbj90NfFmWZb/SMKt8Lxw=="

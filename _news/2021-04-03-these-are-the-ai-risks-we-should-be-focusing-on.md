@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 611
     isCached: true
+
+related:
+  - title: "US regulators are seeking info on AI in banking, and that could be good news for banks"
+    excerpt: "US banking regulators, including the Fed and Federal Deposit Insurance Corporation, are seeking information on how banks use AI."
+    publishedDateTime: 2021-04-01T13:20:00Z
+    webUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6065c74ddaf0f10018f996b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "pclNYpafQxOkBDwGEGXYroSbRsNDgk7m0Rj2fbUrlqSXK62b7LoSa9CwsarMYIlKB1KoHZklBtPmmJH45LyJ0t2YEmOvf0SZ1YGy8P+4ycz/ODj1NNSCp6+L1XAU4FDAVFWSdbkjvJ/p/Ps4UaqHiYXexsxYjxHLOs9/7sjT2F2VjM2KzTg+U2I1zPVVUxoQ53srUm8vz9qsbZCP08ZDb81VRrn3dgIdQVZr0rk0xLOHt0pVUnSuichl7HFoJt///Pv4QaZgF5DSAvAGrW5IyIDDUKuVFzH0sYZn1Uftl4ylPTYagfe/2ZPg/g0dixUDCXKKf/i2XUI4wgXhS53qslrPLNxVazB3bP22ol5NV89F0dzOsThMrRzgoZp3M67T0WqdVCe2Acm4B9CwUfrNKXBPZszr1nysmQiePk4jBEhm4qa0tDvr850FYsjT0W90KkzeKlhbYcxJzPfS05IIJ03ia8ut9Vj1RzNzXiFd7+sFobm8Ggj8QPtD2yJBktRMyqRGzjyb+H96oyfbu5Mm/w==;MerykFB4DN+pl46Dj+0TvA=="
 ---

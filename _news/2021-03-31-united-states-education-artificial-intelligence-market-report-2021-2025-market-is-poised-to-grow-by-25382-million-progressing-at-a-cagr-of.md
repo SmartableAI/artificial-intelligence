@@ -53,6 +53,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
+    publishedDateTime: 2021-03-31T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
+    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
+    publishedDateTime: 2021-03-31T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
     excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
     publishedDateTime: 2021-03-31T08:34:00Z
