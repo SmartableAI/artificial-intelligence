@@ -494,33 +494,24 @@
     {
       "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
-      "excerpt": "Today at Domopalooza, Domo (Nasdaq: DOMO) announced deeper support for Amazon Web Services (AWS) to help customers more easily transform their business by leveraging data available from both their Amazon Redshift cloud data warehouse as well as their subscription from AWS Data Exchange.",
+      "excerpt": "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers, a 400-location fast casual restaurant chain, is using data ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf",
+      "webUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T10:35:00-07:00",
+      "publishedDateTime": "2021-03-24T14:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -530,9 +521,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

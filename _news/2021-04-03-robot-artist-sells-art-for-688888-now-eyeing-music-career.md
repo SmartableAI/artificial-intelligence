@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for
 cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.indianexpress.com/2021/04/9ebac4ef3fe84524b20dcacd72165c75-9ebac4ef3fe84524b20dcacd72165c75-1626e3509a5d4c23a3ae55980ead1727.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
+    excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
+    publishedDateTime: 2021-04-04T20:24:00Z
+    webUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/"
+    ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280"
+        width: 1280
+        height: 831
         isCached: true
   - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
     excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"

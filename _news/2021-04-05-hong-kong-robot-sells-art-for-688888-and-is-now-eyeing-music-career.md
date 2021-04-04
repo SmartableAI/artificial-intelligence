@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
-excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
-publishedDateTime: 2021-04-03T11:35:00Z
-originalUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
-webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
+title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
+excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
+publishedDateTime: 2021-04-04T20:24:00Z
+originalUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/"
+webUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/"
+ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
-    width: 640
-    height: 480
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280"
+    width: 1280
+    height: 831
     isCached: true
 
 related:
@@ -57,23 +59,21 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
-    excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
-    publishedDateTime: 2021-04-04T20:24:00Z
-    webUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/"
-    ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
+  - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
+    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
+    publishedDateTime: 2021-04-03T11:35:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 29
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280"
-        width: 1280
-        height: 831
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
+        width: 640
+        height: 480
         isCached: true
 
-secured: "/bkfLuHR8teVoYry5NY3l7pFUhWXJiF/5qdBQmaMJe6eV90sqR7w7jLyHcm7YLTS3ULzgW5YTgsoUadFLp4ChJi1DZcMKIvp6awzJspZX+XbM1Fv8CJkj4tKL7Idwy3lyB+p+F2GJaJqi7B+DFc3AjSSBtR5CN1PB4UjblWMkS15JFbuerxtF0Yg0byFX7Y8QTuJtHdIkxTRAEhKUCeUaMxRz4ZQ47UUxIN0+IODwRiNOnOqwJkL9+1YtHxDG+LIUUul2jerf4+Axi5PL8lAX2s6zHi+gHhvBR5kUOgmqDLoKQURenXJ4xW3JxtUY1mm1nqloHTraAsb7AtrMvWbSx4vlWgStR5AHpjI+2JpvwE=;9MBCytQz4q6BFKz2N9gITA=="
+secured: "L0hX1iCifiSLWL72ixPIMvFys3neaMMiZxxZYNlTD/LMQDSvbap21rfazM0k6psvcPn4adkkyglJVyUgjLvHb4k5UglF8KFIX/N6zX7wphAZL3R1YM3krQ05vGr1Z2PxKmZOlVj82hE7WzMdFIqXlBVTWDqI6qA9HJExssCiHpjBPGFUa0u8c/ovzBynJ7OXN7JkY1HinAEBrbaI272p8JLJgskNvlwuM/6dVj+cXEfjjHZT5iUzFPqlJBzz79jwtDOKXLB1r1jyk4BGmMe8Gxy8I/5goTZikUpBmHarwCYQbfZtOj0WBZZWOWtT/BQPHLwzULYukKXm3CEzJZQuVQBl+wxG8STAke0M3EBPAzA=;z3nOc5RfVR4e1hrNdQ4vGA=="
 ---
 
