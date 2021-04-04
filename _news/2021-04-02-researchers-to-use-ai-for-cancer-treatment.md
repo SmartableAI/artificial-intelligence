@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
 webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Researcher seeking survey respondents on artificial intelligence in ag"
-    excerpt: "One Illinois researcher is looking for farmers in the Midwest to tell her their stories and thoughts of artificial intelligence in the agriculture industry. Monika Sziron is a PhD student at Illinois Institute of Technology studying the ethics of AI with ..."
-    publishedDateTime: 2021-03-31T02:44:00Z
-    webUrl: "https://www.wisfarmer.com/story/news/2021/03/30/researcher-seeking-survey-respondents-artificial-intelligence-ag/6972361002/"
-    ampWebUrl: "https://amp.wisfarmer.com/amp/6972361002"
-    cdnAmpWebUrl: "https://amp-wisfarmer-com.cdn.ampproject.org/c/s/amp.wisfarmer.com/amp/6972361002"
+  - title: "AI conferences use AI to assign papers to reviewers"
+    excerpt: "By Matthew Hutson Apr. 1, 2021 , 3:30 PM Artificial intelligence (AI) researchers are hoping to use the tools of their discipline to solve a growing problem: how to identify and choose reviewers who can knowledgeably vet the rising flood of papers ..."
+    publishedDateTime: 2021-04-01T20:13:00Z
+    webUrl: "https://www.sciencemag.org/news/2021/04/ai-conferences-use-ai-assign-papers-reviewers"
     type: article
     provider:
-      name: Wisconsin State Farmer
-      domain: wisfarmer.com
-    quality: 57
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 37
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b6f9e85af6eca67238ac654fb53ee9a2a092beb6/c=0-143-2398-1498/local/-/media/2018/04/15/WisPub/WisconsinStateFarmer/636594089541018406-WSF-0415-Bovine-AI-4.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Ai_papers_1280x720.jpg?itok=GI2tZ28F"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "KSU researcher develops artificial intelligence to identify different bee species"
+    excerpt: "A K-State entomology researcher says an artificial intelligence program he developed to identify bumble bees could help conservation efforts."
+    publishedDateTime: 2021-04-02T18:00:00Z
+    webUrl: "https://themercury.com/news/ksu-researcher-develops-artificial-intelligence-to-identify-different-bee-species/article_2c81ec3e-e50b-54db-8dc2-acd2ace0363e.html"
+    type: article
+    provider:
+      name: The Manhattan Mercury
+      domain: themercury.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/f/1b/f1bbd355-6ce9-58a8-9870-8f2cf1da7021/60675bb738f5f.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "d+tUIAvthfsAYEiBX6NE5KhNSZnJBJrSycCmvdJmpSMPOoSy/kjb5GJWD4spxUWQcyA2EEPE8sOPAXloItE6XKnxRBjm0D3VCVcwOQa9QZ/O2wWhZ8P926pu6wvx+TxBGjkjvbsvBwXotIPXj/4fdFc51SJ+jfNR0CMtBL552OrBBBzSEyRw4y6uV6zmJjMfPsZS53FcXFNQkaefBIjJm7Igi+yul1AFh5yrYVcm4GTIsh3tDQj+3++hyTB7UIfnH0RXbKpsYIdc1LdJ0CvKzb5zqQjHrCA/P3NKcAnG818g3FGWz2Sny9z8HV/d1Vb1hgiUMJ7Ek1M8D+RLWTqo6srys0X255HIozr1/K0PR6k=;DjjqQg0Rs5I2a9B1zrIYxg=="

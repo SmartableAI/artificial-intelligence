@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
+    publishedDateTime: 2021-04-04T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis"
     excerpt: "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence"
     publishedDateTime: 2021-03-31T06:47:00Z

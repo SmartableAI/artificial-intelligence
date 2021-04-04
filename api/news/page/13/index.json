@@ -2,6 +2,102 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-23-self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves.md",
+      "title": "Self-Driving Cars As Bait Cars To Catch Those Dastardly Car Thieves",
+      "excerpt": "Shifting gears, we might ponder the future of cars and how the nature of a bait car activity might take place once there are self-driving cars prevalent on our roadways. Today’s interesting question is this: Might AI-based true self-driving cars be used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60061cb0d96d6a22f3a3edb3%2F0x0.jpg%3FcropX1%3D384%26cropX2%3D5467%26cropY1%3D0%26cropY2%3D3547",
+          "width": 1199,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/",
+      "publishedDateTime": "2021-03-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "SuccessKPI Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "CHANTILLY, VIRGINIA , UNITED STATES, 2021 /EINPresswire.com/ -- SuccessKPI Inc., a leading global SaaS analytics platform for contact center intelligence (CCI), announced today",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "originalUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20520643_G.png?lastEditedDate=1616493814000",
+          "width": 480,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-scottish-government-ai-strategy-majors-on-ethics-and-inclusion.md",
       "title": "Scottish government AI strategy majors on ethics and inclusion",
       "excerpt": "The Scottish government has announced an artificial intelligence strategy that involves the creation of a Scottish AI Alliance to be drawn from across society, including trade unions and companies.",
@@ -1117,91 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-robo-taxi-market-2021-industry-scenario-strategies-growth-factors-and-forecast-2027.md",
-      "title": "Robo Taxi Market 2021 – Industry Scenario, Strategies, Growth Factors And Forecast 2027",
-      "excerpt": "The importance of safety has become a critical reason to aid growth in the global robo-taxi market. Over the years, the number of road accidents have risen sharply. One of the major reasons is the sheer rise in the number of vehicles on the road.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/30/global-enterprise-wearables-market-in-depth-qualitative-insights-future-growth-analysis-2020-2026/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/30/global-enterprise-wearables-market-in-depth-qualitative-insights-future-growth-analysis-2020-2026/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/01//Global-Email-Encryption-Market.jpg",
-          "width": 300,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T23:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-canada-based-startup-dataperformers-targets-ai-powered-visual-inspection-solutions.md",
-      "title": "Canada-based startup Dataperformers targets AI-powered visual inspection solutions",
-      "excerpt": "innovation clusters that host world-leading AI technology firms and talent, startup Dataperformers endeavors to incorporate AI technologies into the day-to-day operations of the manufacturing industry. The Dataperformers team specializing in deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20210322PD215.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20210322PD215.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitimes.com/newsshow/20210322PD215_files/2_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

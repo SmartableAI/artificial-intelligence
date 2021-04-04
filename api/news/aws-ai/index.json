@@ -589,6 +589,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-pandemic-insights-secures-5m-series-a-financing-from-convergence-ventures.md",
+      "title": "Pandemic Insights Secures $5M Series A Financing From Convergence Ventures",
+      "excerpt": "Pandemic Insights, a preventive health software company that combines data and AI insights with human behavior dynamics, today announced it has executed a $5 Million Series A tranche-based financing from Convergence Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-media-0c11073848c8430eb38172b6e3189db4",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-media-0c11073848c8430eb38172b6e3189db4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
       "title": "Amazon Web Services debuts intelligent services",
       "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
@@ -1388,59 +1431,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels.md",
-      "title": "AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels",
-      "excerpt": "Computer vision is a field of artificial intelligence (AI) that is gaining in popularity and interest largely due to increased access to affordable cloud-based training compute, more performant algorithms, and optimizations for scalable model deployment and inference. However, despite these advances",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/17/pexels-photo-867349.jpg",
-          "width": 799,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T14:43:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

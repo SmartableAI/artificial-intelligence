@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-30-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, microwaves fall prey to global chip shortage",
+      "excerpt": "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai told Reuters in Shanghai. “It’s a perfect storm,” he said on the sidelines of the Appliance and World ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
+      "originalUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
+      "publishedDateTime": "2021-03-30T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car.md",
       "title": "This Is The New Lexus LF-Z Electrified AI Operated Driverless Car",
       "excerpt": "Japanese premium maker Lexus hints to the marque's next-generation AI-operated autonomous and electrified cars with the futuristic LF-Z Electrified car",
@@ -1092,58 +1144,6 @@
         "name": "koreatimes.co.kr",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-didi-is-raising-money-for-self-driving-unit-at-6-billion-value.md",
-      "title": "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value",
-      "excerpt": "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

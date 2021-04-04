@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/arm-announces-a
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/"
 type: article
 quality: 77
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/03/Samsung-Exynos-Logo-Illustration-AH-DB-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "New Armv9 takes on security and AI"
+    excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
+    publishedDateTime: 2021-03-31T11:05:00Z
+    webUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 58
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
+        width: 974
+        height: 649
         isCached: true
   - title: "Arm Takes On AI With New Chip Architecture"
     excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations compared to processors currently powered by Armv8,"

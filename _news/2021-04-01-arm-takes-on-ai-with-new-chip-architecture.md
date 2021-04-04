@@ -101,6 +101,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "New Armv9 takes on security and AI"
+    excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
+    publishedDateTime: 2021-03-31T11:05:00Z
+    webUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 58
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
+        width: 974
+        height: 649
+        isCached: true
   - title: "Arm's new chip architecture will power future devices, possibly including Apple's"
     excerpt: "Arm's SCE2 can improve processing for 5G systems, ML, voice AI assistants, and virtual and augmented reality. Apple's Arm-based chips include a Neural Engine that handles ML tasks, and the company ..."
     publishedDateTime: 2021-04-01T14:48:00Z
