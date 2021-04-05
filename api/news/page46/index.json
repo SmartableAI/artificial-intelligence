@@ -2,6 +2,137 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
+      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
+      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "publishedDateTime": "2021-02-25T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-powow-ai-selected-into-google-voice-ai-startup-accelerator.md",
+      "title": "Powow AI selected into Google Voice AI Startup Accelerator",
+      "excerpt": "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210225005963/en/Powow-AI-selected-into-Google-Voice-AI-Startup-Accelerator",
+      "originalUrl": "https://www.businesswire.com/news/home/20210225005963/en/Powow-AI-selected-into-Google-Voice-AI-Startup-Accelerator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-artificial-intelligence-market-worth-19061-billion-by-2025-at-a-cagr-of-3662.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025, at a CAGR of 36.62%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19868951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19868951",
+      "publishedDateTime": "2021-02-25T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-ai-powered-information-operations-and-new-citizenship.md",
       "title": "AI-Powered information operations and new citizenship",
       "excerpt": "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,",
@@ -1018,162 +1149,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
-      "title": "Otter.ai raises $50 million for AI transcription",
-      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
-      "publishedDateTime": "2021-02-25T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-leveling-the-business-playing-field.md",
-      "title": "Artificial Intelligence: Leveling The Business Playing Field",
-      "excerpt": "Covid-19 has catalyzed the accelerated adoption of AI-based business analytics, workflow and process automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/amp/",
-      "publishedDateTime": "2021-02-25T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts.md",
-      "title": "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts",
-      "excerpt": "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
+      "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
+      "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "originalUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318945/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "publishedDateTime": "2021-03-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
       "title": "Supply Chain Strains Sharpen Focus on AI",
       "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
@@ -417,6 +468,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m.md",
+      "title": "Cresta, which uses AI to mentor customer service agents in real time, raises $50M",
+      "excerpt": "Cresta, an AI-powered platform that gives real-time support to help customer service agents respond to enquries on calls or in chats, has raised $50 million in a series B round of funding. The company’s latest investment,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Untitled-4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/",
+      "publishedDateTime": "2021-03-31T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google.md",
       "title": "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google",
       "excerpt": "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ...",
@@ -755,49 +857,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
-      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
       "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
       "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
@@ -1105,6 +1164,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-arm-announces-new-chip-architecture-with-focus-on-security-and-ai.md",
+      "title": "Arm announces new chip architecture with focus on security and AI",
+      "excerpt": "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "originalUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem.md",
       "title": "Deepfake “Amazon workers” are sowing confusion on Twitter. That’s not the problem.",
       "excerpt": "Ahead of a landmark vote that could form the first-ever labor union at a US-based Amazon warehouse, new Twitter accounts purporting to be Amazon employees started appearing, sowing confusion.",
@@ -1143,101 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
-      "title": "Self-driving truck startup Plus raises extra $220 million",
-      "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
-      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
-      "publishedDateTime": "2021-03-31T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-iot-is-transforming-healthcare.md",
-      "title": "How IoT Is Transforming Healthcare",
-      "excerpt": "As healthcare IoT makes more in-roads, there is greater potential for improved healthcare outcomes for the patient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063513d552b00e0d5276463%2F0x0.jpg",
-          "width": 1118,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

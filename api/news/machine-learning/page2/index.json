@@ -305,6 +305,41 @@
       ]
     },
     {
+      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
+      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
+      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
+      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
       "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
       "excerpt": "Neural network training could one day require less computing power and hardware, thanks to a new nanodevice that can run neural network computations using 100 to 1000 times less energy and area than existing CMOS-based hardware. Training neural networks to ...",
@@ -1391,49 +1426,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.md",
-      "title": "New machine learning technique could quicken the pace of drug discovery",
-      "excerpt": "Assessing that stickiness is a key hurdle in the drug discovery and screening process. New research combining chemistry and machine learning could lower that hurdle. The new technique, dubbed DeepBAR, quickly calculates the binding affinities between drug ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "publishedDateTime": "2021-03-15T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

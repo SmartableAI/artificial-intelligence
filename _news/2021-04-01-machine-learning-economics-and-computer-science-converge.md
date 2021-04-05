@@ -24,22 +24,6 @@ images:
     height: 402
     isCached: true
 
-related:
-  - title: "Strengthening technology through computer science"
-    excerpt: "Imagine driverless cars or insulin pumps being hacked ... algorithms, networking and artificial intelligence, while the former fuses a deep understanding of technology with in-demand skills such as communications and project management."
-    publishedDateTime: 2021-03-31T10:47:00Z
-    webUrl: "https://www.studyinternational.com/news/strengthening-technology-through-computer-science/"
-    type: article
-    provider:
-      name: Study International
-      domain: studyinternational.com
-    quality: 24
-    images:
-      - url: "https://www.studyinternational.com/wp-content/uploads/2021/03/HERO-2-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-
 secured: "ncTmfKz7ooKj4eAPa1PyK8kUD7PnChARcjLSlDcN+V7PJ+B0s4AVDQXCLp3spxH6Yc3FRLuxDx2fJNqk7ezCarBjPvVr4FDAZvMXXIrfNN0IjaG9toMPzIfNYhlO0gNfpcZbCMX3st93gzsKv1nvRUnFw4TzjwjUH/Igagggq17cLUoo9xzqJrm/rf46pEJ29ss2mJpSaqw8fEUPrv4BxZIH6jUYm+M1OEVj7NnPGTHljcjLYQGEais+18+OFEgwXZxIVp+zmha/mAryDTKW+i9MBsjGdEkK2BR2PaN1OjHQOsxl8nuvkx+NkOQ0uPQsdcK9z23JoO3l5cEanTjA7WIWF0EwT8+oyo9gjY7g6zN8tDz+oSYzAm+d19CuJbAli0Rk/qkCQy85Jyv7lbajyUCx2UTrJi0l5DrwnwdEijPzExEUEMDv7z8oeSVNYr4V/fYNsrQIARgCX+Tp0VCCXB7cKw5OsEBOVv029DE632z6USSAjc0Zat5lbqF9+IeqRlytQTQQv/WwwNTt3shHMg==;XW2Zk9iJXx0bl7u/tTH10A=="
 ---
 

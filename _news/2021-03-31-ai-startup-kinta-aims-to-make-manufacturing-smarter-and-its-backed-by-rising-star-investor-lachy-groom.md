@@ -44,20 +44,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "21 investors pour $3.2M into NC startup utilizing AI to transform documents"
-    excerpt: "EX-IQ, a startup with ties to Fayetteville, has raised $3.245 million from 21 investors, Here are the details."
-    publishedDateTime: 2021-03-31T10:53:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/31/21-investors-pour-3-2m-into-nc-startup-utilizing-ai-to-transform-documents/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 35
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
 secured: "vF74Hk6cQomOa62zJ+ebtkN1HZvhx28pfvF96IdvKds8ar3995tQUrQtRfukHLCTQUz07Con5fdoqtHQb+DpcknSae3Fg/IUx83sySfdk9vqgC3ZRz5dMnt/eHsmj67n6z4JVgFVcJysUkQ4U0cvU2q9Z7+xvLPbXdhR0qHkKIJ+tNlm6saIFNxELcIAA5Fuf08H289lK4N18WQU4OF5alfD1SHhqJzABLD9qJf1n6iBKzwCuE9BlsBe//K2mTDIzYL2TeLiiDFMOK/X7/ggTWR0Xs/LWdnCZffNWpvlw+3azrbologU9eBEzJItETOnLoj5CsApxw02fPmNkogMnpnR8oUXbeHVbIfDepwWfls6imsrpVVbaw3BXlWdlD+vQMcbhFphpZm0WSgpcDYFNSXvwCCUHD75UNhWo9aZLWFfEwQvTGUmwXJguGeI3ktnnWYpqBc/VXuaYIurxTuqXlZFmXD2avm7XtbRumLCocpUZxLIYlheXI6dS5Bfrx0NEUKXeEFltKPMTgjjtcLEFA==;o7EDVT7YsHfGU6HBOxkOMg=="
 ---

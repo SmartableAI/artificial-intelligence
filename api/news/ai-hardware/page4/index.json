@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-the-cambrian-ai-landscape-cerebras-systems.md",
+      "title": "The Cambrian AI Landscape: Cerebras Systems",
+      "excerpt": "The unique approach has gained the US DOE supercomputing centers' attention, first at Argonne National Labs, which has purchased at least one of the ~$2M systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6036a6e6253479e213a47cad%2F0x0.png",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
+      "publishedDateTime": "2021-02-24T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-2021-artificial-intelligence-ai-chips-market-opportunities-analysis-future-and-forecast-by-key-players-products-types-and-applications.md",
       "title": "2021 Artificial Intelligence (AI) Chips Market Opportunities, Analysis, Future and Forecast| by Key Players, Products, Types and Applications",
       "excerpt": "Artificial Intelligence (AI) Chips are special silicon chips, programmed for machine learning. AI Chips can process vast amount of data, identify the underlying patterns, interpret the trends and ...",
@@ -1366,59 +1418,6 @@
         "AI in Healthcare",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
-      "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
-      "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425",
-          "width": 3000,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "publishedDateTime": "2021-02-10T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

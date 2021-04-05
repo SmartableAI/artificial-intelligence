@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-22-artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope",
+      "excerpt": "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "AI Ethics",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-lays-uses-ai-to-create-messi-messages-bringing-the-soccer-superstar-to-your-phone.md",
       "title": "Lay's uses AI to create Messi Messages, bringing the soccer superstar to your phone",
       "excerpt": "Now you can get specialized messages from soccer legend Lionel Messi, thanks to a fun Lay's program. Anyone who has ever dreamed of getting a video message from legendary Argentine soccer star Lionel Messi is in luck.",
@@ -1397,61 +1453,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-global-artificial-intelligence-ai-chipsets-market-2020-to-2027-size-forecasts-with-impact-analysis-of-covid-19.md",
-      "title": "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
         "AI Hardware"
       ]
     }

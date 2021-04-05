@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
-      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "publishedDateTime": "2021-03-19T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-how-natural-language-processing-makes-our-lives-easier-and-improves-your-business.md",
       "title": "How Natural Language Processing Makes Our Lives Easier and Improves Your Business",
       "excerpt": "Although some calls are indeed used for training purposes, more often they are used to improve natural language processing algorithms. We have all heard the sentence “This call may be recorded for quality and training purposes” when you call the call ...",
@@ -1411,6 +1377,49 @@
         "Natural Language Processing",
         "AI",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-natural-language-processing-market-worth-351-billion-by-2026.md",
+      "title": "Natural Language Processing Market worth $35.1 billion by 2026",
+      "excerpt": "According to a new market research report Natural Language Processing Market by Component Type Statistical Hybrid Application Automatic Summarization Sentiment Analysis Risk Threat Detection Deployment Mode Organization Size Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "originalUrl": "https://www.openpr.com/news/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U309635738_g.jpg",
+          "width": 650,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "publishedDateTime": "2021-03-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

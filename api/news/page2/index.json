@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-02-this-bootstrapped-startup-aims-to-make-stock-market-investments-ai-driven.md",
-      "title": "This bootstrapped startup aims to make stock market investments AI-driven",
-      "excerpt": "Kanika Agarrwal, Atanuu Agarrwal, and his friend Nikhil Hooda believe artificial intelligence (AI) is the new Warren Buffett. This got them to start Upside AI in December 2017. Kanika says ...",
+      "path": "_news/2021-04-02-ai-in-drug-discovery-starts-to-live-up-to-the-hype.md",
+      "title": "AI in Drug Discovery Starts to Live Up to the Hype",
+      "excerpt": "Machine learning–based techniques are finding a place in early-stage target discovery and in drug development workflows.",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven",
-      "originalUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven",
+      "webUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
+      "originalUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagevbze-1617288222583.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
+          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg",
+          "width": 1400,
+          "height": 909,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp",
-      "publishedDateTime": "2021-04-01T17:15:00-07:00",
+      "ampWebUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
+      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
+      "publishedDateTime": "2021-04-02T03:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
+        "name": "GEN",
+        "domain": "genengnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
+      "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
+      "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6065cd5ea656d354d2b3ff88%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021.md",
+      "title": "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -693,58 +799,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-self-driving-cars-that-are-jinxed.md",
-      "title": "Self-Driving Cars That Are Jinxed",
-      "excerpt": "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
       "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
@@ -1159,7 +1213,7 @@
       "originalUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1176,57 +1230,6 @@
       "ampWebUrl": "https://www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
       "publishedDateTime": "2021-03-31T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
-      "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
-      "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
-      "originalUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-318945/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
-      "publishedDateTime": "2021-03-31T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

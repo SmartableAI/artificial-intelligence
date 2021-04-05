@@ -2,6 +2,152 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-03-09-using-neural-networks-to-transform-audience-building.md",
+      "title": "Using Neural Networks To Transform Audience Building",
+      "excerpt": "Most marketers have a general idea about which audiences and characteristics they think they should be targeting to sell their products. Yet very often, they focus on the most obvious similarities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604237db62d2aa444b6cc15c%2F0x0.jpg",
+          "width": 1199,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/amp/",
+      "publishedDateTime": "2021-03-09T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
+      "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
+      "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
+      "originalUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757",
+          "width": 757,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
+      "publishedDateTime": "2021-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale.md",
+      "title": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
+      "excerpt": "In official correspondence with California’s Department of Motor Vehicles, Tesla lawyers recently admitted the $10,000 option that Tesla sells as Full Self-Driving Capability is not, in fact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "originalUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/02d3f82/2147483647/strip/true/crop/4919x3213+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2Fbb%2Ff572d3e343388d62dcdc9415a550%2Fla-photo-jan-4-2021-001.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "publishedDateTime": "2021-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-reimagining-digital-governance-with-artificial-intelligence-and-iot.md",
       "title": "Reimagining Digital Governance With Artificial Intelligence And IoT",
       "excerpt": "When choosing workers, look for those who possess the ability to perform critical cross-platform developments and manage multiple release cycles.",
@@ -1013,145 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cloud-providers-cite-role-as-ai-inference-moves-to-edge.md",
-      "title": "Cloud providers cite role as AI inference moves to edge",
-      "excerpt": "Performing AI inference on embedded edge devices is attractive in situations where low latency is required, or where the volumes of data collected at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
-      "originalUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210315113645Implementing-Edge-AI-You-Still-_1_w1048_h541.jpg",
-          "width": 1048,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-how-to-liberate-marketing-from-mundane-tasks-with-ai.md",
-      "title": "How To Liberate Marketing From Mundane Tasks With AI",
-      "excerpt": "Embedded AI and automation can help with high-volume ... Auto-generate editorial text with human-like accuracy using Natural Language Generation (marketing content, product descriptions); and translate content in context. Optimize users’ ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/72c60a827d814069bac850c47d695dd3.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon.md",
-      "title": "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon",
-      "excerpt": "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg",
-          "width": 796,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
-      "publishedDateTime": "2021-03-08T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

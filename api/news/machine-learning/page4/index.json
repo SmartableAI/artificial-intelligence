@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-using-neural-networks-to-transform-audience-building.md",
       "title": "Using Neural Networks To Transform Audience Building",
       "excerpt": "Most marketers have a general idea about which audiences and characteristics they think they should be targeting to sell their products. Yet very often, they focus on the most obvious similarities ...",
@@ -1392,49 +1427,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-from-perceptrons-to-deep-learning.md",
-      "title": "From perceptrons to deep learning",
-      "excerpt": "Have you ever wondered if it's possible to learn all there is to know about machine learning and deep learning from a book? Machine Learning--A Journey to Deep Learning, with Exercises and Answers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/258100_web.jpg",
-          "width": 252,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

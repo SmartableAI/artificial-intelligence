@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
+      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
+      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
+          "width": 1199,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
       "title": "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year",
       "excerpt": "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ...",
@@ -106,21 +158,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-is-leaving-the-google-self-driving-affiliate.md",
-      "title": "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate",
-      "excerpt": "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ...",
+      "path": "_news/2021-04-02-alphabet-waymo-self-driving-unit-ceo-stepping-down.md",
+      "title": "Alphabet Waymo self-driving unit CEO stepping down",
+      "excerpt": "WASHINGTON (Reuters) -The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "originalUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5",
+      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5",
       "featuredContent": null,
       "highlight": null,
       "heat": 239,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-319923/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557156136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310ML",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +180,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "publishedDateTime": "2021-04-02T12:09:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5",
+      "publishedDateTime": "2021-04-02T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -190,58 +242,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-self-driving-cars-that-are-jinxed.md",
-      "title": "Self-Driving Cars That Are Jinxed",
-      "excerpt": "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

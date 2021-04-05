@@ -2,6 +2,82 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
+      "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
+      "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "originalUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "publishedDateTime": "2021-03-29T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-chipotle-invests-in-nuro-in-autonomous-delivery-push.md",
+      "title": "Chipotle Invests In Nuro In Autonomous Delivery Push",
+      "excerpt": "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
+      "originalUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/03/shutterstock_1358720510.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
+      "publishedDateTime": "2021-03-29T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-openais-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day.md",
       "title": "OpenAI’s text-generating system GPT-3 is now spewing out 4.5 billion words a day",
       "excerpt": "The best-known AI text-generator is OpenAI’s GPT-3, which the company recently announced is now being used in more than 300 different apps, by “tens of thousands” of developers, and producing 4.5 billion words per day.",
@@ -1098,102 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can Artificial Intelligence Replace Human Therapists?",
-      "excerpt": "Three experts discuss the promise—and problems—of relying on algorithms for our mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-317459/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "publishedDateTime": "2021-03-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-segmentation-key-players-opportunities-and-forecast-2021-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028",
-      "excerpt": "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U327650672_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2021-03-27T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

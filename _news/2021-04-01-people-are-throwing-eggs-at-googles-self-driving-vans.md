@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Alphabet Waymo self-driving unit CEO stepping down"
+    excerpt: "WASHINGTON (Reuters) -The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more ..."
+    publishedDateTime: 2021-04-02T16:59:00Z
+    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557156136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310ML"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
     excerpt: "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ..."
     publishedDateTime: 2021-04-02T19:09:00Z
@@ -101,22 +117,6 @@ related:
         width: 1200
         height: 846
         isCached: true
-  - title: "Relishing The Joys Of A Demolition Derby For Self-Driving Cars"
-    excerpt: "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ..."
-    publishedDateTime: 2021-04-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg"
-        width: 1199
-        height: 682
-        isCached: true
   - title: "Alphabet Waymo self-driving unit CEO stepping down"
     excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
     publishedDateTime: 2021-04-02T17:34:00Z
@@ -143,20 +143,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Why it’s so hard to prove that self-driving technology is safe"
-    excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
-    publishedDateTime: 2021-04-02T17:07:00Z
-    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1197936703-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "CEO of Google's self-driving car spinoff steps down from job"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
@@ -204,6 +190,15 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Head of Google’s self-driving car project steps down"
+    excerpt: "John Krafcik kept Waymo ahead of rivals while sector failed to live up to big promisesRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-04-03T06:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/head-of-googles-self-driving-car-project-steps-down-9981517"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "John Krafcik quits as CEO of Googles self-driving car project"
     excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
     publishedDateTime: 2021-04-03T05:51:00Z

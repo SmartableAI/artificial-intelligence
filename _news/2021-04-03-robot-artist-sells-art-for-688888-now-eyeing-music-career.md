@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "The robot then processed that ... But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind. Sophia’s artwork selling as an NFT is part of a growing trend."
-    publishedDateTime: 2021-04-04T13:29:00Z
-    webUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/"
-    ampWebUrl: "https://indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/art-and-culture/robot-artist-sells-art-for-688888-now-eyeing-music-career-7257660/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2021/04/9ebac4ef3fe84524b20dcacd72165c75-9ebac4ef3fe84524b20dcacd72165c75-1626e3509a5d4c23a3ae55980ead1727.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
     excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
     publishedDateTime: 2021-04-04T20:24:00Z
@@ -59,6 +43,15 @@ related:
         width: 1280
         height: 831
         isCached: true
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
+    publishedDateTime: 2021-04-04T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
     excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
     publishedDateTime: 2021-04-03T11:35:00Z

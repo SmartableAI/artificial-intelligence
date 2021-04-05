@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
+      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
+      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
+      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/EVyHjtXCueLKu0u1DCNzYopAafs=/1200x630/2020/09/24/ec6f03fc-1fda-4877-ab8e-12434a759b86/lg-wing-phone-7832.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
+      "publishedDateTime": "2021-04-04T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-the-four-cs-of-ai-literacy-building-the-workforce-of-the-future.md",
+      "title": "The Four Cs Of AI Literacy: Building The Workforce Of The Future",
+      "excerpt": "The workforce of the future will require not just data scientists but broad AI literacy across all job roles. We define the 4 C's of AI Literacy - Concepts, Context, Capability and Creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a798a09d1c7dbc33f14d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "publishedDateTime": "2021-04-04T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-how-ai-can-make-weather-forecasting-less-cloudy.md",
       "title": "How AI Can Make Weather Forecasting Less Cloudy",
       "excerpt": "“We’re testing the whole cycle,” she says. “We will actually save lives and save property.” AI is already making existing prediction methods more efficient and contributing to increases in the speed and accuracy of forecasting, and it shows ...",
@@ -240,6 +343,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
+      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
+      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
+          "width": 1199,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -705,21 +860,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-is-leaving-the-google-self-driving-affiliate.md",
-      "title": "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate",
-      "excerpt": "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ...",
+      "path": "_news/2021-04-02-alphabet-waymo-self-driving-unit-ceo-stepping-down.md",
+      "title": "Alphabet Waymo self-driving unit CEO stepping down",
+      "excerpt": "WASHINGTON (Reuters) -The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "originalUrl": "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
+      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5",
+      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5",
       "featuredContent": null,
       "highlight": null,
       "heat": 239,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-319923/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557156136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310ML",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -727,16 +882,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836",
-      "publishedDateTime": "2021-04-02T12:09:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5",
+      "publishedDateTime": "2021-04-02T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1090,154 +1245,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-ai-in-drug-discovery-starts-to-live-up-to-the-hype.md",
-      "title": "AI in Drug Discovery Starts to Live Up to the Hype",
-      "excerpt": "Machine learning–based techniques are finding a place in early-stage target discovery and in drug development workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "originalUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg",
-          "width": 1400,
-          "height": 909,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "publishedDateTime": "2021-04-02T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
-      "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
-      "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6065cd5ea656d354d2b3ff88%2F0x0.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021.md",
-      "title": "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

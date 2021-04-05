@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians.md",
+      "title": "AI backpack concept gives audio alerts to blind pedestrians",
+      "excerpt": "\"For years I had been teaching robots to see things ... shares its secret weapon Mahendran's AI backpack isn't for sale, but he says he is going to start a GoFundMe to equip any blind pedestrians ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "originalUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F03%252F24%252F0b%252F0a558442b3924a7b84fd2b866ce898d7.79a8b.png%252F1200x630.png?signature=Wj5EMYk7hbZ-7_I5EZdPFLj7N2E=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "publishedDateTime": "2021-03-24T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
@@ -1306,49 +1350,6 @@
       "provider": {
         "name": "Arkansas Democrat-Gazette",
         "domain": "arkansasonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ford-partners-with-university-on-robotics-new-building.md",
-      "title": "Ford partners with university on robotics, new building",
-      "excerpt": "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co.",
-      "sourceUrl": null,
-      "webUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
-      "originalUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg",
-          "width": 620,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance & Commerce",
-        "domain": "finance-commerce.com",
         "images": null,
         "publishers": null,
         "authors": null
