@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 611
         isCached: true
+  - title: "The AI Revolution Could Send These 2 Stocks Higher"
+    excerpt: "The AI market was valued at $9.5 billion in 2018, over $27 billion in 2019, and is projected to exceed $250 billion in 2027. AI refers to the use of data to simulate human intelligence processes including learning,"
+    publishedDateTime: 2021-04-04T18:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-ai-revolution-could-send-these-2-stocks-higher-2021-04-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "mHGNClXEDIs1PbkryYdPjwRc3zu4KZM1cmPa/ZbXDiTCO0dXQ/qOzJC07tZGKpwZkoBd9lYV8k/4VyDu4RIZwl0/c2d0ysuzLVKWI4TeeVJRUH26BMr3DjggcQxF6M7F5MLPYGPJRkN7GJkkp5dl1GG4KVpmAd+kR6f4xLeOuXGi3kqHSchh504RnI2gtgozN7aN/zq8GNPmLYdMhlPO8dauj8POS0VmUQFQbXLyNToIsx3tjtkCOtf5VgFD+3fpE9QOD/e3d7Y+jpTq65Fsb+l1A2iiPLYO145A79STnbSybW18oAorHPby24tIpxb62xniL6LCCp79/BMdnpr4IyGYTJrRjytWfFgBwnR/OXtyP0E9+tKnaVeX6W1WitBebGwsOjId4LyAztXI/MKZTtM9H/3qSu8nWlZAJXvsFchBfksn+00o1jStMe/9Er7SLhH+uBlXV0W89hd0Q/SjjUgjACNdlw0pBdYjtEgaEjLHvN1UIM07RCBpNofboIoemb8jjs1A+JDf8Ib+MI4Skw==;A2OXnLZCIj8+eXA5p0lCOQ=="
 ---

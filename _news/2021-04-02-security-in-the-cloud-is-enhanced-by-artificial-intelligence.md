@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 876
     height: 493
     isCached: true
-
-related:
-  - title: "Cybersecurity is key during digital transformation in the financial services sector"
-    excerpt: "In addition, the cloud enables artificial intelligence (AI) and machine learning (ML). The move to the cloud became imperative during the pandemic-related shutdown in 2020, as the majority of financial services workforces needed to work remotely."
-    publishedDateTime: 2021-03-31T16:19:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 18
-    images:
-      - url: "https://biz-file.com/c/2103/603603.jpg"
-        width: 900
-        height: 460
-        isCached: true
 
 secured: "EbjU4ocDWv1ZaxZ8ocDoeoOUR2z1lDX9BMrkEquJRO36NWuJ/UiRvrioNBc6fdOT7Bv4HcPL4c9mrr9b1fi99GbxD7V2N+rrCnTo8ZBbQ5V6YZHyFjKH/AR7Zd0ARhnxpnf+LXhjQl5G+ilbjZLjKpwQjgblgAvSHjUkJUGm4g3VS1xJVJzK/QB/co73TBJTI55sqzhNz550zrhK3hFPtNsPrU2ggpkuN6cxJywOoHAa5tBa8L/GT7fpb5nCFHZYGuUVWrA3mxzHU92bT8vYT8nkptfBzRrNpNOqrYdbJDkk0kzMzHoVKu7OMVD9c6yGwn13EZOgIWlVnbIFpB2KKBIdkka6Q+cGTbqjU7Wnz1MeCLGsh+XHm6URLcfOhPe7qZC/o+K0tUl7gymLNoIzLwt5NeIvbzTJzu+U8MjSXPpD9HeI3dndNIJLzp9z2KC8CoYi/RYCF1+3L3zTFdADjIuwLhTFRnQcTOVIULnH7PMNxXPvmHTuWEUYZVCk/JJKCRucv8DP6XQ3L0esbm9pOA==;iVw3fmWXMW4IVUu6jLnbtw=="
 ---

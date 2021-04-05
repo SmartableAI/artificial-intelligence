@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The AI Revolution Could Send These 2 Stocks Higher"
+    excerpt: "The AI market was valued at $9.5 billion in 2018, over $27 billion in 2019, and is projected to exceed $250 billion in 2027. AI refers to the use of data to simulate human intelligence processes including learning,"
+    publishedDateTime: 2021-04-04T18:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-ai-revolution-could-send-these-2-stocks-higher-2021-04-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "pclNYpafQxOkBDwGEGXYroSbRsNDgk7m0Rj2fbUrlqSXK62b7LoSa9CwsarMYIlKB1KoHZklBtPmmJH45LyJ0t2YEmOvf0SZ1YGy8P+4ycz/ODj1NNSCp6+L1XAU4FDAVFWSdbkjvJ/p/Ps4UaqHiYXexsxYjxHLOs9/7sjT2F2VjM2KzTg+U2I1zPVVUxoQ53srUm8vz9qsbZCP08ZDb81VRrn3dgIdQVZr0rk0xLOHt0pVUnSuichl7HFoJt///Pv4QaZgF5DSAvAGrW5IyIDDUKuVFzH0sYZn1Uftl4ylPTYagfe/2ZPg/g0dixUDCXKKf/i2XUI4wgXhS53qslrPLNxVazB3bP22ol5NV89F0dzOsThMrRzgoZp3M67T0WqdVCe2Acm4B9CwUfrNKXBPZszr1nysmQiePk4jBEhm4qa0tDvr850FYsjT0W90KkzeKlhbYcxJzPfS05IIJ03ia8ut9Vj1RzNzXiFd7+sFobm8Ggj8QPtD2yJBktRMyqRGzjyb+H96oyfbu5Mm/w==;MerykFB4DN+pl46Dj+0TvA=="
 ---

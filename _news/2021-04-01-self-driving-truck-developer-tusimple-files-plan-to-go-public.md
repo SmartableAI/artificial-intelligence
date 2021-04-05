@@ -26,22 +26,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
-    publishedDateTime: 2021-03-31T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
-        width: 400
-        height: 267
-        isCached: true
-
 secured: "jytNtty1ZZcgXtOotpd3SsVVGoQ9Ft5FOezo6ktAVVrDEQ5oOU62cnIs4Jg3jM5+c7K6VI+F1J0seQhGH23/Gh6gS4jtd8Wr5WPorCM1bNUQCh92tupEVw6Vu3t1dZc3eeXKguPkf46GyjmxNMW/sKIRKPKLaunz7smjQD9dV8HjEx+ex61TkdUgfU2sZSMAGDbRzREr/H4Jv/5pQlyQtVYQHmHdwFplm2+W3k51UszzlitvN0JF2ArQkBuYmiplO9Wwj/N+SC+T1U4s0IAFcHKzM2ADl9zjva58eFJHRkOzr8jS4suEhYp0Nq2GlxVES0GyLemnG8bXSpQc62Fi/Hg63ltGbr5YUeYPxxV3nyzfodPT9dXLonByuddcmVondf2f+dOP2SGI3XTqYAb+p+FOQ/9ZJgb7vuXjMjPT+sc6huMrM3jgos97Mrk7Jhe294WmxSaQFvABjIcRt3IHug72QpeTWs5BhFD4AEPiseQkhctmKwP8TjjiC2chpK6+T/bDeQb6Nl4dIQ0ooYY3Yg==;vsZBL4i9yPxrvpkK/DnUZQ=="
 ---
 

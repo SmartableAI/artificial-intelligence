@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-inst
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.israel21c.org/wp-content/uploads/2021/03/taylor-franz-GJogrGZxKJE-unsplash.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Federal agencies seeks views on financial institutions' use of artificial intelligence"
-    excerpt: "Five federal financial regulatory agencies are gathering insight on financial institutions' use of artificial intelligence (AI)."
-    publishedDateTime: 2021-03-31T16:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86911/federal-agencies-seeks-views-on-financial-institutions-use-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 31
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "f38X0UVJGEc6hyEAPBm6o+5UFl1nH1ebVlBaXmIn3NMsv/g1ZRS+Yk8xZg12iXY8uAumxW0ETLOwKZiKED/CBpy6JTJifh3rBL0KIeOxLxpZ73s3QOpp4c2On4pUipwufAc+ROPl9i8H5nvQE7D6Jpok9aFlsud76YbVwA6hi1iIy24aM7A3ONWDO51nk1nSXtxLYp7FMCVVZTWfhrg0X+dXOXG/bEqKzMyn9tdF/6bAzfQFJbKHz8O2yYtZzw94FvYR7x8JfKHkI1QoGaVqvjM5yoAMC18T37FdjVCFKnumG4fNeuP3Ab8vWMVnZRRkrc0sM8Wsh2JKwHtheZ0bs+NU7fjqRs7tYDFO3Oen3KXtcjqVHDTyrM5o1y3JjUF26liCbMGPEuxQ0JBVaF9/sdinEqj9c4KRlr9NsnejjTfKkUYtfOVv/mGO0WtdWyvaD2ppJmm2tV5gqgBhoBB1XH0le2TqrnwsC1YycUTTqzkMnxtJuyGAHbZBur9m7Ax/Rv/1Y4wKZ2P60ChUIxt84w==;ikuku09UvoQmyBEwPe5mJQ=="

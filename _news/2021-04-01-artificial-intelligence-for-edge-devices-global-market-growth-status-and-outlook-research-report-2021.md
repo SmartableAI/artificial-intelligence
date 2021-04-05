@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
+    excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
+    publishedDateTime: 2021-04-02T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/ohBn7XotGpw2xYAZ7NR7WMi0Rd4YeZGmWGFembGJusi18vbhcLu2owX7PYzIKLu5asmGC0HyrMK/6Jy+W/3vYJnvIMYBIHBQUzy7udSVN6bl7lR1t++sa1edvkHNOZ6uhJqk34BhFMZgZP/TFvLX5CRGV1Qx2j8/HklfSuVmlbYXC/4KTtpyFTTE5Wc8RQOkQK1u1AG4NFlRLl8NIv5MH/xtJc19i2tFHE9fuDaNCoc66knn4U2hrdgsrWUABvnMWjqIOjLt1jS6eU46h9pS1feHB8yDbIuI1YoWhGXQzN9SR2e+vrXKNOQycMuXc0Xa9ZjE3KAIdDmrsgIYWU9/ik6I2U/CKxHyslMDJydgFY=;BHXMB+kCisIlOPcn19vaWA=="
 ---

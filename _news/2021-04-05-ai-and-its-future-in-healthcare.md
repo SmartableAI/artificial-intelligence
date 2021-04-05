@@ -1,0 +1,115 @@
+---
+category: news
+title: "AI and Its Future in Healthcare"
+excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
+publishedDateTime: 2021-04-05T01:09:00Z
+originalUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
+webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: WBOC
+  domain: wboc.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
+    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
+    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Revolutionizes Mental Healthcare Space?"
+    excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
+    publishedDateTime: 2021-04-01T13:59:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-revolutionizes-mental-healthcare-space-nid-7466.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/0f8ru450308hytu.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
+    publishedDateTime: 2021-04-04T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
+    publishedDateTime: 2021-04-05T01:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
+    publishedDateTime: 2021-04-01T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "QHMxB839bBtNsn3JM/erhwBjdjCSr8XgZLxVAsTCb7dait6bXNzYeat0g1AKgwBT6hUoSOm1RUVz9vUBEvRS9wdAF2XAw83avqLHuTls5hI6scQhKg2lPJzrwvbnKNnFyaL4SdMYdhaMS0FrJ9ahSDTwxLAgJ//08v7Alj9Iw2HTn3Ms22aSqfxM66Ba+sWhVAqXlIcCUzhnmQytYjj4Vgm6zwsRI/sRw+VxpBQV09d/OYRjPx/Wsn7C2QizHxBzhdsr6HKWlVcHhLJ8Vh9fLRR95eFxDNAOlJu7z10MPfjIvZ/iV43rB54ng0hVDIIjY77E4ZPLKecM7X9WDroPqNh9ngnqvSzs5glwD/JHnGg=;PZ3eCatiLF29aIDh1+1rxA=="
+---
+

@@ -29,73 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google"
-    excerpt: "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ..."
-    publishedDateTime: 2021-03-31T15:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
+  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
+    publishedDateTime: 2021-04-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 97
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic"
-    excerpt: "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus"
-    publishedDateTime: 2021-03-31T17:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg"
-        width: 630
-        height: 423
-        isCached: true
-  - title: "Microsoft scores $21.88 billion AI headset contract"
-    excerpt: "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ..."
-    publishedDateTime: 2021-04-01T09:11:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Global Deep Learning Chipset Market 2021 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
-    excerpt: "MarketandResearch.biz has published a report titled Global Deep Learning Chipset Market Growth 2021-2026 that supplies an in-depth overview of the market with the help of market-related details. The report provides complete information on the current market situation and offering robust insights about the potential size,"
-    publishedDateTime: 2021-04-04T19:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2021-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2021-04-04"
+  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
+    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
+    publishedDateTime: 2021-04-01T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
-    excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."
-    publishedDateTime: 2021-04-02T09:31:00Z
-    webUrl: "https://industribune.net/uncategorised/5689/ai-in-social-media-market-expected-to-reach-highest-cagr-by-2025-google-facebook-microsoft-aws-ibm-etc/"
+  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
+    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
+    publishedDateTime: 2021-03-31T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
+    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
+    publishedDateTime: 2021-04-05T00:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3ZCHGip/giqLBwNMZOb+KpukxlRNAKU4SJIyAw6tgJPIqD+JqtxhF+COd+UQFsmBo91TyA7PsDT2DCBVs1eKuMeiZAjrYXtydTkfsf27CHoO+hgQ7nS64TKsWrsDoo/rG58S9CX+3//1Or3pDp9SecnWdL5vweFa2d/c0lhyzAGuXvaTwHmlJUugmSyuSCDpfirlFITMmZfddl59UJSrLXc5Aod5YJaMGJ2ACP5skvevXsuewufVXvatO+pq6IL6NcWg5iAmaRTBnZM/C8BIGtT8TshReHwqQIsbQu5St6/mkgm+SmgZRERDUhHBSBK/WdlHVVw82655ms0i0rgOdFRdP84KXNjFFyfXrJR6n8Q=;zmtlOLI/v7gzP1AC6wM5zA=="
 ---
