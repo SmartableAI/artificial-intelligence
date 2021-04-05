@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Going deep: Artificial intelligence improves accuracy of breast ultrasound diagnoses"
-excerpt: "Ultrasound is widely used to detect breast cancer early, but misdiagnosis of benign lesions as malignant tumors sometimes leads to unnecessary biopsies. To tackle this problem, scientists conducted a large multi-center study involving 13 hospitals in China to train deep learning models to accurately classify breast masses."
-publishedDateTime: 2021-04-05T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/cc-gda040521.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-04/cc-gda040521.php"
+excerpt: "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide. This alarming statistic not only necessitates newer methods for the early diagnosis of breast cancer,"
+publishedDateTime: 2021-04-05T16:31:00Z
+originalUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.html"
+webUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/261046_web.jpg"
-    width: 1440
-    height: 809
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/goingdeepart.jpg"
+    width: 2880
+    height: 1619
     isCached: true
 
-secured: "+Yw9yHns+9tynRrU76jCOAuTODj9Kl9x34QuG+HGqGs1ddco0ROH/hGr+LufroGMir7pTx04BdX1rAUjvd9WAylJbsssMD9KdhIU9Y7x8d4deGB6uHbfUI8rTq2xfd6a490x1oxbxwR0jBbJ5pnvbaWjrSLR/AN70M4/cNp9xScS+km5xHgxBmDv4wVadAbyQ8ezsPmr9IQ9tj6ZRDYmpkXH/hTorUI9GntRDF3VMgnK+QD+ytQ9Q7CToBFy4thZXcI0RQQCE5mfnDzYA8mhRJdaPn233KrAJGQxorWZwtHJ7jqN1A1dgIxhbyF+FH1/s4+ECno8FulveDDzo9gNWAgFPjgpBZRC8oNJ9fRMF0k=;1cbmcao+6mcujFbNFjJnOw=="
+secured: "zZZddpkid9FqpAjtktiyl6QQztAnuYtIDE3FPpTURvbD/zhHqcdodQAbbZF8a41HfWY84xO+dvkvRzY6i7xznB1xxiZHvvzOPH3PyU8kQYzwEU1ZERchp8ltuKqwArcQ0gHGPDq6BxFCgbqNH05IuyOGYbpjB78xXJAlHMORxKbwwB0Ps8SdlBtfqHY0Zvav8UizI8yM9U3vbnWv9YlUB3gVC7ZTDp6u8386ArTzys9efZRDLF7f94eL2Qa5HHmYdZ04GTA2BEIfHl/WSTFZPWc8VcJ4/4Z8B2kHMYBxlKYX7Ypoowv8bP4g27FvuaBVBo3Tf+7DksXp+7AjWJ7DbLyypDVHiRImAm01a3qWf8Y=;yk2RsKt4Xr/t5dDBkqyM9A=="
 ---
 

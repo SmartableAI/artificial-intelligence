@@ -28,10 +28,24 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
-    publishedDateTime: 2021-04-02T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
+  - title: "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
+    publishedDateTime: 2021-04-05T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Facial Recognition Market Future Innovation Strategies, Profit Analysis, Forecast by 2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Europe Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends ..."
+    publishedDateTime: 2021-04-05T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-facial-recognition-market-future-innovation-strategies-profit-analysis-forecast-by-2025-2021-04-05"
     type: article
     provider:
       name: MarketWatch
@@ -42,33 +56,75 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Robo-Taxi Market Outlook, Industry Analysis and Prospect 2019"
-    excerpt: "The Robo-taxi (self-driving taxi) could ultimately take the global auto industry ... Navya, Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and sustainable mobility service ..."
-    publishedDateTime: 2021-04-05T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-robo-taxi-market-outlook-industry-analysis-and-prospect-2019-2021-04-05"
+  - title: "American Airlines wants facial recognition"
+    excerpt: "The IATA warned last month that airlines as a group might burn through as much as $95 billion in cash this year, about double its previous forecast. So what does the future of air travel look like? The former head of United Airlines Robert Crandell says the government may establish rules governing maximum seating density on airplanes and minimum service requirements for smaller airports."
+    publishedDateTime: 2021-04-02T12:38:00Z
+    webUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facial-recognition/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2018/06/american-meals-in-eco_long_37794079_ver1.0.jpg?fit=650%2C366&#038;ssl=1"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
+    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
-    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
-    publishedDateTime: 2021-04-01T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
+  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
+    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
+    publishedDateTime: 2021-04-02T09:07:00Z
+    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
+        width: 421
+        height: 250
+        isCached: true
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
+    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
+    publishedDateTime: 2021-04-05T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
+    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-04-02T03:24:00Z
+    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "QTuhQLwem5bgTr0MwLfwnVkMabzCXxvIEKYSBdZSkv0eWClXvZfiXj9IQ6ZJsimEQSBNyjvgmpRvtgAQwvI66bzSfNtMpID6XZwI1D8awG5MZqHZ609WN47ckEAoJxmhzKnyu75G5L8r606vMbwCnyCNNqqQ1PouMCnuWuKMvo7F1ElLBDiEKjTAGs899Vdjln9M13RGz6Q/+h3OWVMzUOlAFKJw8GZDXN0gaLEEHCYc6WPHLAkaDrWu09zZGK686Zb4gmVQwoUlXBwKmas5VfdFbNnPJvUbvteJcV7q3W+DLfO8raaxnC2IuAwlcsBtJDFzEwO9IhdZOitFicWlaDWgKZQBrhAm7bz+a3aqlZs=;xJ67P2v0z/FI0Z/qh17seA=="

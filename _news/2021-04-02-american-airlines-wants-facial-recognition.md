@@ -7,7 +7,7 @@ originalUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facia
 webUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facial-recognition/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,103 @@ images:
     isCached: true
 
 related:
-  - title: "Army Wants to Automate Base Access With Facial Recognition at Drive-Thru Checkpoints"
-    excerpt: "The proposed system uses a reliable form of facial biometric identification but would need to control for variables like weather and low light."
-    publishedDateTime: 2021-04-02T18:05:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/army-wants-automate-base-access-facial-recognition-drive-thru-checkpoints/173113/"
+  - title: "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
+    publishedDateTime: 2021-04-05T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/02/NGface20210402/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Facial Recognition Market Future Innovation Strategies, Profit Analysis, Forecast by 2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Europe Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends ..."
+    publishedDateTime: 2021-04-05T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-facial-recognition-market-future-innovation-strategies-profit-analysis-forecast-by-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
+    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
+    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
+    publishedDateTime: 2021-04-05T00:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
+    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
+    publishedDateTime: 2021-04-02T09:07:00Z
+    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
+        width: 421
+        height: 250
+        isCached: true
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
+    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
+    publishedDateTime: 2021-04-05T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
+    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-04-02T03:24:00Z
+    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "kZyKT+43vVtE2AVwZdzCcn9cU6PiwbOm3Ac7PhrMb/YfwASxVWZ1cWwq4KMw3HgxA+euRL0oadBK3UrX56ipIjsJyPGsXL1rcXnWBt/Ct3QeNCzYOf8fX2xMmXDeoaHKz42Qizz2SuS6jfK4zZtYvJC34f1rglVINp9Bk/JGGYRrWiGxEXpqqVAnqZgJiysWodAb/PMikKX2HcQaUcsFcUY3n1c2hMX/Nt42mupO2FOR/ZLbGzo2Brfg9WwPIfhprfm8lFT1gKSEN4Xl4TmEuf/+jtIESn68MM8Ki9DzkQUbxc4LClI2DO+gE/UOZAamC81USjspNtQir4nJyZ6oVvjmh69VZgLMb58XdyDqEiI=;N+5zYd9cEKLFOTH+I24fhA=="

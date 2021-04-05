@@ -48,6 +48,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-driving startup Argo AI is said to consider IPO this year"
+    excerpt: "Argo AI, a self-driving startup that is backed by Ford Motor Co. (F) and Volkswagen (VWAGY), is reportedly considering an initial public offering as soon as this year."
+    publishedDateTime: 2021-04-03T15:23:00Z
+    webUrl: "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
 
 secured: "g7/hL6V/xwJZvVyqNI/UoVjriiCuWto2EGE8W9ar2y5wugH6wpFPtW/NVkoUlCaDVLRtFroAFp5grhZoq/jGCrJIA6nXP9lMH+czyrCBGBS+mxfFji+dSx940/SRWI4gQ8JkPPQE96+FTtxUtdMCje9e2+f+RGjhOiPQ1RE9nrA+++mtm6lyosWXRK5PUwsr7GPx9OZs1c1w8XIvaCrpZbByk58BhUMp0CKx/6BXs98+mAGRbqcvNrxI7TG6npcRYZEPc4XXtHgy8atSJ0zRJWncKI7cmSIY+Eoj7ofgob/IU+hYARDCat/73dFdf71d9tiEkMhbfPogwx9cWyY6dHaB/Y5lVB3ZqP30kUepzvveWm9rZ8wbOjgPqPRm7KvUj28Hexa1eR/0/MCWYmCrL+rAm1aN2EHN/rxD3mLolqtRbIgW7yNB0lG+s0Md52mh8MssYcxpZcS1eOmWDYeV618VueZ2rzg5+tjLlLmqqTDX1b3NjmAM7A0llte11xI6Lc6iL52T6psFxroY7ooHEg==;z3HDX0tHxwTJfKVd+XKiuw=="
 ---
