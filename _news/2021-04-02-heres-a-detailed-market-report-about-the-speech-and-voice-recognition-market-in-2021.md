@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-03-31T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2028-fortune-business-insights-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "wZUlv/RfdvCvHiJYSYKTJRGxavxyodKSfjwku6ZxlCNQuvMgduBsHxSRbAk/3Lf/w1WJv9tg0layjLz3FYe2lkAl3M9DpLAltyDUPMwKcI163LYNwZpN4X4tL4brUAibs+f8iDIrfjzEHqUezOMm4QSgC53uG+quZo868aS3/BBiSbLROHvMXk4xzrD+JRcih1r96ajdAOgH6JD2exgBKVmRxLkN0DSTDceHlDEC1sGXgK2ZfMVEVRgz++vlo/Z5Bu4mhJq/M4iO/DesPCKzuxfi4c2OUrx4zBr50aeewFYjjRaEYLdU8moL5OBSC0bly7x8yJcCJ0pmFWVTPrJ3RozOPg1uMrpAJN35TGkQejWk+fc3L/R/Ub16KQxW2Lgtke8oxyXwUZFp6zT0/2VGPdd0wNef0rnpP+ZSk3ChIsyyDkj65DjSUoVfDVdapoUvz8EPiT/aj2wBhCZ/relH45wwP2F+Q71+4C6c/833Gu6EmApfMDy5NYJvADdtz5fT0wA2TrymrI8jYHj6EQDElg==;l01zyANJPcJG4Ovrmkn9gw=="
 ---
 

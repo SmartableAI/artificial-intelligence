@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions"
-    excerpt: "“Arguably, the provision does not apply if a bank employee denies a loan on the basis of a recommendation by an AI system,” he said. Write to Catherine Stupp at catherine.stupp@wsj.com Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserve"
-    publishedDateTime: 2021-03-31T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000"
+  - title: "Pindrop unveils European cloud offering for voice biometrics security"
+    excerpt: "Pindrop Passport allows call centers to quickly authenticate users through voice recognition to deliver enhanced personalization and customer experience for the caller while simultaneously reducing overall call handling times, leading to greater ..."
+    publishedDateTime: 2021-04-01T21:00:00Z
+    webUrl: "https://www.biometricupdate.com/202104/pindrop-unveils-european-cloud-offering-for-voice-biometrics-security"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
     images:
-      - url: "https://images.wsj.net/im-318272/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Cyber Daily: Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions | Payments Company Investigates Data Breach"
-    excerpt: "Follow us on Twitter: @WSJCyber. AI and Privacy Robots under the privacy microscope: Recent court rulings in the Netherlands raise questions over how European privacy rules intersect with automated technologies and the treatment of personal data ..."
-    publishedDateTime: 2021-03-31T12:21:00Z
-    webUrl: "https://www.wsj.com/articles/cyber-daily-court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-payments-company-investigates-data-breach-11617196841"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 36
-    images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
         isCached: true
 
 secured: "V1/KD0y+3xbcEAXXZHWAk6j4NPEIlYe53oQt9tjVTNaGzDwNbVMZPp0IhTf/wTZIPZoFCh0AkVoinwGkuuvmDI/shwQR2YasDRNG84xtMmT+z2fEhpCSo95IYzVk7pxe7EE51LkrWUTt4b9MPab/r/MfuJf8WhlFZllsCXV0NTyE8AhQ2/SwaIJTMGlEVjcMBefVIQUDRCml0tcXLqLbLCFSK7KFo6snHwM8kSE5yubnEyebNVrdYMOxdRED7G93rrlaIEAlKAqdnGufi82nS3n+CtcDPAjQKbgmcYqbcB1Uj34pKn38NjfsVv/ix6AVJV+LGrs0LLbyXeibEurBIvGkN24Av6KCisgctSeEcVc=;lT1HCzQzBfQuIT4J7oW33Q=="

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
+    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
+    publishedDateTime: 2021-04-05T00:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lngVXNrKJqXM0C1BM5lzZiosSeP1iE2LlCkfSAouePUsrVN9ea4Z7mbWBQMK69OwvO0Yg4M/x3jgC/2xGiXF3WeVCTuqfi/dCon+xWN5HPVt0cJ1Zljylcx1/0zewtvmoh6u2NT7J1QqNQMZFJlU3jeQxYer5HW/G3BB5xL+eNiWbZzdFc98qtZIanh6nvm/kYLLdFmhwrvPOjLG4vdjE5xM1Or09Drq5QIdcBtPcYgU0DRK1YKRdXrjXZQVhUgO3iVDZChJZKlDlvLhVRhp34MZw7ZgtoOHJy2ZeiJ7lptm2qT1uFra0zmXUbqyDFZ92A688oBZ2Nsl3utqSmHtcFdcGIMmxCEhWQbuIZILnto=;1nRwOpEBDJR3VKkw52WJAQ=="
 ---
