@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html
 cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "These face recognition games aim to guess your emotions"
+    excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
+    publishedDateTime: 2021-04-05T12:12:00Z
+    webUrl: "https://www.pcgamer.com/these-face-recognition-games-aim-to-guess-your-emotions/"
+    ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VVnVaukMprqZmqDGQ5MTjH-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "How Face Recognition Can Destroy Anonymity"
+    excerpt: "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore."
+    publishedDateTime: 2021-04-01T21:22:00Z
+    webUrl: "https://www.wired.com/video/watch/how-face-recognition-can-destroy-anonymity"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1617132057/wired_how-face-recognition-can-destroy-anonymity.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facility for face recognition planned"
+    excerpt: "NEC Corporation India, a part of the Tokyo-based IT and electronics company, NEC Corporation, has bagged contracts from the Airports Authority of India (AAI) to deploy facial recognition-based passenger identification technology in four airports in the ..."
+    publishedDateTime: 2021-04-01T17:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Scientists create online games to show risks of AI emotion recognition"
     excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
     publishedDateTime: 2021-04-04T12:56:00Z
@@ -42,6 +88,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a7653ff89e6bc484d98262cec7a2937264bd8c31/0_14_2167_1301/master/2167.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0bb412e8a7e629951832cefc12f7959"
         width: 600
         height: 360
+        isCached: true
+  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
+    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
+    publishedDateTime: 2021-04-02T07:25:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
         isCached: true
 
 secured: "boLwGpWj1lgJRhzUW9Q1j9mMJ8/AIE10B8/STftEh89BvabcuBPIReL1WP0dFvpTmltj9FNFc8SDx6veWmVQqs0Dbk+j/W572BJQtP0g3r816xjN6iZMYSCQjqWI2rMgaDPyQUMnQZ95t99Gc/BTiDwtDNBuF7zznWxwKUPrdsJHyUx4zB5sqdFCqOCeMQTPTLSImW3SYcPCY/4JYCEcSL53UIJ+J8T/LP2uEd4LQzyvaNTVrlwNqA4h0sB7TaZQVvapA3nT5CNsDqoAuqQD+4hUDaWWWExz58JbHePgHF3L1P4Ugi9L0t3DpiNv5cHuR5MCAp7vCNe2svD4PY2XYmp60iCd9MqdCn1TCeFmQcM=;Qixltu8j4tNjQEGy/jV22A=="

@@ -75,6 +75,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
+    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
+    publishedDateTime: 2021-04-05T12:08:00Z
+    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 41
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
+        width: 675
+        height: 381
+        isCached: true
   - title: "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens"
     excerpt: "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ..."
     publishedDateTime: 2021-04-01T09:55:00Z
@@ -98,6 +112,15 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 34
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M"
+    excerpt: "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ..."
+    publishedDateTime: 2021-04-05T06:41:00Z
+    webUrl: "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 28
   - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
     excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
     publishedDateTime: 2021-04-03T09:55:00Z

@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Energy Market 2021 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2026"
+    excerpt: "MarketandResearch.biz proclaims the addition of a new report titled Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-04-04T23:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-energy-market-2021-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rci3VtVDHPsbgdUSNGrYZ2BeRJdzLGM6vbyANF1/6EZH7syFTc1XuU4uaZ54trpXwNN8UNDXqI27Vd6d4zA2uhzqndizJIF54PGwh+uu6Ly0VqTrmr20DU4Q6jC1VvVyNDSDNtNYREQg8fFFuA1RB3G1Zkh1H8jvaKTivFBr2pa4FuTGjvhpDpTQkPgfNq5a27MgV0KiH509iec1no7nuvghE061lKkneVZCPa+eHRAJq3hvReuvczYlwkbdC4b49r0EWc6jlBeOyy1jGnzWVLSARoN2QfMOMY7XtMl+otWk0kp3rUnfgAnMj9AzBFYsQXXEUrDwYiUc5/xIUdczbzk9ajW6XBH9PLXI5PCB/po=;3/79V6KN+Rvl/5ddHl297A=="
 ---

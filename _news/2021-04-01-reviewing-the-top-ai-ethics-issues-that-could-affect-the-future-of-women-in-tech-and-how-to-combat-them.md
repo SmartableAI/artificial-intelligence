@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Artificial Intelligence Tool that can Detect Melanoma"
+    excerpt: "A newly developed system could use neural networks to spot 'ugly duckling' pre-cancerous lesions on a patient's skin, potentially detecting cancer more efficiently."
+    publishedDateTime: 2021-04-05T12:52:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12151"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12151"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12151"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12151_16176268861327321.jpg"
+        width: 900
+        height: 599
+        isCached: true
   - title: "See How Artificial Intelligence is Changing the Future of Storytelling"
     excerpt: "Heather Maio-Smith, CEO and Co-Founder of StoryFile, joins Cheddar to discuss how artificial intelligence is being used to preserve, record, and interact with stories for generations to come. 5:26 John Deere's CTO on Latest Innovations in AgTech 6:36 ..."
     publishedDateTime: 2021-04-01T19:49:00Z

@@ -30,6 +30,52 @@ images:
     isCached: true
 
 related:
+  - title: "These face recognition games aim to guess your emotions"
+    excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
+    publishedDateTime: 2021-04-05T12:12:00Z
+    webUrl: "https://www.pcgamer.com/these-face-recognition-games-aim-to-guess-your-emotions/"
+    ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VVnVaukMprqZmqDGQ5MTjH-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "How Face Recognition Can Destroy Anonymity"
+    excerpt: "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore."
+    publishedDateTime: 2021-04-01T21:22:00Z
+    webUrl: "https://www.wired.com/video/watch/how-face-recognition-can-destroy-anonymity"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1617132057/wired_how-face-recognition-can-destroy-anonymity.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facility for face recognition planned"
+    excerpt: "NEC Corporation India, a part of the Tokyo-based IT and electronics company, NEC Corporation, has bagged contracts from the Airports Authority of India (AAI) to deploy facial recognition-based passenger identification technology in four airports in the ..."
+    publishedDateTime: 2021-04-01T17:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Scientists create online game to show risks of AI emotion recognition"
     excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
     publishedDateTime: 2021-04-04T06:12:00Z
@@ -45,6 +91,20 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
+    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
+    publishedDateTime: 2021-04-02T07:25:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
         isCached: true
 
 secured: "MAiWgGeInX34JR2t2wDSEvZ4SBomvPXLXbHBQXC+0P80/6CiS7jbN8CQnDuKiJzAuVzmS8eYFt7kmJQEkoczVvmTHwn/8Rx80sDtW4jJqv0WAO5z/ds4mShHnG3L7Mc3WaAqkwUL9Slc0qah4QoOukxYxzhnStCtgAp/mB+IsY+mbJTUFDVFYyAmbgZARD5OKSVi0pABS/SxHt5r3NMZ82HCe4uDhy7OiYJC91KvdCx3J7uJoGGCcUkwjvRjjwYLcwP9miJ3qtiHHWQuvEpYAsSiUgeTLwKng4+LcHDGzG9L39KS5DqVftYtI044dFk0xaX7gRrYZtj+UN9hDiNdCXZACtaFM6IYjbZQ4AUKiuA=;9JfImHwZUnk8dplAh0hXiA=="

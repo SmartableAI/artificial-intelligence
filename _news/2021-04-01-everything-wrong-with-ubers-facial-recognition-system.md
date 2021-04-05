@@ -57,20 +57,6 @@ related:
         width: 898
         height: 400
         isCached: true
-  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
-    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
-    publishedDateTime: 2021-04-02T07:25:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
-        isCached: true
 
 secured: "HLExn7YE2TW6O3Fzng0qThHZ9/FkrHqproh9YwY4tnEaszGvH6oa7d91LFYVbDQVeiVTmpPWT4AERuO+lTl5qxfeHj02INahT4q9XsY4FNOCr4qYznXsz8XQ70vxpwcFL1+h+KzfScl3o1j0TliZsjnLBDovwRZ1oh/7yL5yAi0N5B6PXBBNnsKKcHFlYBVaZEAiyOdejrp2HcoFRxnWrDfDrr1c7EIhxXZ5tpH1pIJvWt9RWARZyp3aPKE2ZX+iTjBW3td6vKf5eMEMUi4S+lERz2rU5hQHXIk2Ru1bz//ZNLAbNt4QfTZVjAB3/f9mR1uXSdXHAi9p6CNVEV4+6gWUonwuaFUwIxyBebaqXxI=;fazM7PB7TNPeVyaJKS765g=="
 ---

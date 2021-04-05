@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year"
+  - title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
-    publishedDateTime: 2021-04-02T22:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+    publishedDateTime: 2021-04-03T01:45:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7071414002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7071414002"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
+  - title: "Report: Argo AI considering going public later this year"
+    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
+    publishedDateTime: 2021-04-05T12:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "k6GzmyKPx8WNW5AHj5bilg9NMtl6/iIC/x+Jq4wgrmM9Hv88wN3+bohq9qnWDtiUHC1Q2yFt8ciLmMLFGZfLFNiRKKCgk5GY/rhZa1K6Mntgwx1cePovdviI45S45EBwVpi488twlMztG6Zqd9dE3KUpjM37T1ZEgIwVasYG+odC9Y/7IqwKGU8F3OhUJkwx/+PSEvtptGfJHAi4j5o0ph3cE6VPFbNOLSzSgJtBC4lU5t7tKn9jF41KXfGGDUCJPnBn6j89n0q110f/s5xKtn/0s3GUf5Fb64wonC6NMxGNi/U11TiIpacUXIeoncHB1eCI8v2ZXjQ0tT1/bTiYYNuLilrlvQWu/IFd2S7No94=;lNmGTmbyfBFEpeYLE13C1g=="
 ---

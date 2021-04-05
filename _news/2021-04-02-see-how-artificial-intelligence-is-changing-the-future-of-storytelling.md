@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Artificial Intelligence Tool that can Detect Melanoma"
+    excerpt: "A newly developed system could use neural networks to spot 'ugly duckling' pre-cancerous lesions on a patient's skin, potentially detecting cancer more efficiently."
+    publishedDateTime: 2021-04-05T12:52:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12151"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12151"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12151"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12151_16176268861327321.jpg"
+        width: 900
+        height: 599
+        isCached: true
   - title: "9 recent studies that show the potential of AI in healthcare"
     excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
     publishedDateTime: 2021-04-01T20:27:00Z

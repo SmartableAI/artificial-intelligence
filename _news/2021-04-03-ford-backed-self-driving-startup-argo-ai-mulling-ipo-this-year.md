@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year"
+title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
 excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
-publishedDateTime: 2021-04-02T22:35:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
+publishedDateTime: 2021-04-03T01:45:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
+webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/7071414002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7071414002"
 type: article
-quality: 69
-heat: 80
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -43,7 +41,16 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Report: Argo AI considering going public later this year"
+    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
+    publishedDateTime: 2021-04-05T12:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "ErN2vdBEjLVxCQnJuR3v53KisexEptvvfPzDXXcoyQkAYIk6U0Kj9Ym4kzUy4Fe1yWgXBtgB02ONrcluj3nBZ1oWSRJ9n16S7EDgn3cSBI6/BTDQJNzaTHb7NcjkSjI3/VHt5uCPmGw6NPcnTKImMSsKo30KKjBfzjVtbHCvL0pRVzki6ZlobBwR3i6HExvhqS9H9W4Se4ZWcQc2qeSoFyR0+M92ITFQRx4HlRafWw2U+5yxzRJBppYWvqhFQ6Ypca9tZ29s5Lwp3HoCji8GW2XYsXKYGhxccqcY+wHtqMWfKqestcAF0t8PVs1uSk8KEiP/C58vi3b4HqP+t224X4l0mx7tqdJF9eeFYXjSI7M=;15jwlxA0S57+HNZV8y2caA=="
+secured: "B7o8hd9Y3rPoKh9H0j3pBKlAj3KSXU0YRFt+BgWRgSeZD9Mk/Iy/ynPajhJ/JIu3xvhkMa6J3boGkeirFUhKvWsmyePlC9yZMGeSAHUXropl2Ck5sNt6VKWqu13w66zsTXc5SYefrPVW2nfpGDX7MSfnPzufnAz2qstNKCWdYH7A9Q2aBXijxxmHon7PgnRAKpX0w5ahdn9GvIhX95LjTwhoaoVj4xFmjqvaAy59Ueh8/wck3WTWtOTiBTOPVWs1TUcbNy1f+aT1TPEDfAh6dTnhO0fCPHuWJT0VaAY47Z1bz8i+W5aD8GFZhCYjggfWnVHhmVSkrJXyOJZyd5pgvW+KNJAEXRZumGg0J6rDYes=;cHZB1Ua6u2UdL7RAJO8Cbw=="
 ---
 

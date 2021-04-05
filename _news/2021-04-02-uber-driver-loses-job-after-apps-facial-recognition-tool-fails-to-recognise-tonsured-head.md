@@ -25,51 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Uber driver claims facial recognition app locked him out of system after he tonsured his head"
-    excerpt: "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,"
-    publishedDateTime: 2021-04-01T15:24:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
+  - title: "These face recognition games aim to guess your emotions"
+    excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
+    publishedDateTime: 2021-04-05T12:12:00Z
+    webUrl: "https://www.pcgamer.com/these-face-recognition-games-aim-to-guess-your-emotions/"
+    ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VVnVaukMprqZmqDGQ5MTjH-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "How Face Recognition Can Destroy Anonymity"
+    excerpt: "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore."
+    publishedDateTime: 2021-04-01T21:22:00Z
+    webUrl: "https://www.wired.com/video/watch/how-face-recognition-can-destroy-anonymity"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1617132057/wired_how-face-recognition-can-destroy-anonymity.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facility for face recognition planned"
+    excerpt: "NEC Corporation India, a part of the Tokyo-based IT and electronics company, NEC Corporation, has bagged contracts from the Airports Authority of India (AAI) to deploy facial recognition-based passenger identification technology in four airports in the ..."
+    publishedDateTime: 2021-04-01T17:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
     type: article
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 65
+    quality: 59
     images:
-      - url: "https://www.thehindu.com/business/Industry/2zz7cs/article32892894.ece/ALTERNATES/LANDSCAPE_615/VBK-UBER-BIJOYGHOSH"
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
         width: 615
         height: 384
         isCached: true
-  - title: "The Bizarre Case of an Uber Driver’s Job Loss, and ‘Faulty’ Artificial Intelligence Software"
-    excerpt: "An Uber driver says that he lost his job after he got his hair tonsured, and the AI-based facial recognition software of the company failed to recognise him"
-    publishedDateTime: 2021-04-03T08:30:00Z
-    webUrl: "https://www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/"
-    ampWebUrl: "https://www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/amp/"
+  - title: "Scientists create online game to show risks of AI emotion recognition"
+    excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
+    publishedDateTime: 2021-04-04T06:12:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html"
+    ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
+    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 46
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 59
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/face-detection-4762379_640.jpg"
-        width: 898
-        height: 400
+      - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Everything Wrong With Uber’s Facial Recognition System"
-    excerpt: "The union said there were at least seven cases of failed facial recognition and identity checks which led to the suspension of drivers and, in some cases, license revocation by Transport for London (TfL)."
-    publishedDateTime: 2021-04-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/everything-wrong-with-ubers-facial-recognition-system/"
+  - title: "Scientists create online games to show risks of AI emotion recognition"
+    excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
+    publishedDateTime: 2021-04-04T12:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Uber_AIM.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/a7653ff89e6bc484d98262cec7a2937264bd8c31/0_14_2167_1301/master/2167.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0bb412e8a7e629951832cefc12f7959"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "Om3TseX5JHXz1Gi6mOxp9Xi1dE2/sWdteLQBVKhd5govKymw9SJgmqqFkUd++OVixxcWKSP9MrZPSs3i8vb+Pz5SwdN6EQAj9w0rwkG4gO9Dy+8Qtjm68J0iE4k0boqLvM7lfZ/OyW/jb9bRlm40ooepBnGDbar4NlqlIGpqq4BmHBm5+kr5gpSLMmafw6yvANHWvQLdxYdqMlOt+ChYFayfozGYtk1M64JZHZhwqgMWZCO3Py7WmVHCVrf/g3/nEqYwXK/WuYBTCpAQAjtrRAdrCZX1E9dT3kgAXKWmXbVWTeXu8iQ/CTa/qL+G+DjQAuEdAGUIIbkWMAyVU/XDTo58odeQpe8a06QODvkCoS0=;uAr21K1xCedolMvi/B09ZA=="

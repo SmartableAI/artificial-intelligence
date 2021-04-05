@@ -1,34 +1,31 @@
 ---
 category: news
-title: "How AI Can Make Weather Forecasting Less Cloudy"
-excerpt: "“We’re testing the whole cycle,” she says. “We will actually save lives and save property.” AI is already making existing prediction methods more efficient and contributing to increases in the speed and accuracy of forecasting, and it shows ..."
-publishedDateTime: 2021-04-04T19:00:00Z
-originalUrl: "https://www.wsj.com/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
-webUrl: "https://www.wsj.com/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
-ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
+title: "How AI can make weather forecasting less cloudy"
+excerpt: "But that severe weather is her reason for coming: A computer scientist who formerly worked in robotics ... emulate certain aspects of forecasting, and “artificial intelligence\" is even in the name of the startup where he now works as a senior data ..."
+publishedDateTime: 2021-04-05T11:47:00Z
+originalUrl: "https://www.livemint.com/technology/tech-news/how-ai-can-make-weather-forecasting-less-cloudy-11617623051093.html"
+webUrl: "https://www.livemint.com/technology/tech-news/how-ai-can-make-weather-forecasting-less-cloudy-11617623051093.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/how-ai-can-make-weather-forecasting-less-cloudy/amp-11617623051093.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/how-ai-can-make-weather-forecasting-less-cloudy/amp-11617623051093.html"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-319875?width=620&size=1.5"
-    width: 620
-    height: 413
+  - url: "https://images.livemint.com/img/2021/04/05/600x338/AI-kkGH--621x414@LiveMint_1617623213571.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "WVFUyzF+BuojxzaiQ4MsZbd251DLzX4pw0e0qnBKi3s5PNLZwXpw91rD2oVWFhSuVGmKuFAOUo1GvKeQGfbcCXMSNHiR6OpbdX0mtPTRLkZV0pxWkbQTWxgtb8JUVW3OZEb1YnJInPVjeSIBmf3SX36pedZeB3hQ3ymEaBmFYIjk5G0NlyBWDyOoNXlPPHRt1BVIrXnetLoI6WIhX1R+GZu8XI7+5EB2Apj/FUGKyidgDf+IB86GGjtI/211CNTSL+anxFlRHQJBvYPk/EZn38UPeFLoHI9HqIhiQLQMeY6ZtwJVtb+9RKbtt5gY5SwOj9XORQ9kaK/3XdismtVotucaLgCM9Ggvj6LdcawxqYGPXRGjl82pLsOIf/dlwqWw76S31c01wqUI0mVoVtdh1JjEzTxFQC9gSo37JuXz6ku0NRvaG3AhXpK0XmbmK9qCQUxE+P1nuwuH/zzu76xHRmlHJI9QDAOYh74EulST5KmDmyjqc5RGdA4WuxI2qPU7NbdzXrmLIBUuidF/p5oQiQ==;pzx5f5vYBvncEHPhDgsxqA=="
+secured: "OS1fw1cKB183adP5aezV4hJMNr7IBSxyyjMMKysd1SDR++t3Nv3pmASO5fL9SuijDJBHqbc+LgNy3xo0ON6bDpa6dP7fSSJL2L5AZKwZvES+8EKaqG92CDQKQ5u0UE6S8poG21wFeRbikZw6EPDVR8r8/EQveCweMZ08wlUDVFJLFynAJkQ0myiMyaWhu3LNPREVj8r1ATPdoKnIvQEYS2sTGAZJPyyp6gp0Ca+HduuBPfSUEh/2kWtvyGLL2bj7uSsAnpwwtGRx5ay92zRWM2jYRrEqDoV0cE8c8kf3MycdvfdCuzVhJtPiAV9fJiBoxr9wmAM+KpThmtP+SFO0px2Lkh4cDood3stlwNXl/8U=;VLK3sOgA5UGUFvYxWPXTAg=="
 ---
 

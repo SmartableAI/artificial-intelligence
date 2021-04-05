@@ -66,6 +66,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
+    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
+    publishedDateTime: 2021-04-05T12:08:00Z
+    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 41
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
+        width: 675
+        height: 381
+        isCached: true
   - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
     excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
     publishedDateTime: 2021-04-02T16:46:00Z
@@ -103,6 +117,15 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 34
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M"
+    excerpt: "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ..."
+    publishedDateTime: 2021-04-05T06:41:00Z
+    webUrl: "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 28
 
 secured: "Q13jm/nO4j9bc23z/hrdz8HzR5EmhvGSYqqlc9XJ/ecY3s24SQ7RbHL6R82+4eQbabiqMH7eP8CcyTJV3uz4GSSU11bn2dVd7rusVKoV+T/LY2LE8Zxp0Mkg2mIYrV0Vjd7A1+41vdPXinyu6+V571yAyDuxenrTB/G/7yneRkH7vcsLJ599fqHX9dvixANfT/LBd7DmJtEgfuE+D4W6c8I8W23k0r4hGMVLTq+jYd/bllKLe6LPiDNFqiDnuJ1n7MWlVkKhWeaGU6nFpqi4S36lPy+IhCkgi+71FIedLfrzMZF9Nqnu/eeDev5Q7BKJJnvgASqjCc7tdEBm0BU6ajTcAyyDrCG6pTvefIVMEC4=;z5GNp8600/1n4nL128LelQ=="
 ---
