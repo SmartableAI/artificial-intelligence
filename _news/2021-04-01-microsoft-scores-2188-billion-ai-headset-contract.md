@@ -55,20 +55,6 @@ related:
         width: 630
         height: 423
         isCached: true
-  - title: "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics"
-    excerpt: "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ..."
-    publishedDateTime: 2021-03-31T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
     excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
     publishedDateTime: 2021-04-02T16:46:00Z

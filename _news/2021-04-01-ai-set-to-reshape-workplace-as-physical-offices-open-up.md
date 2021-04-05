@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-phys
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-sel
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg"

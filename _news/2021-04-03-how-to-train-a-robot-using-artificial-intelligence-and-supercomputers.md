@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intel
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

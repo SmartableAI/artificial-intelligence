@@ -7,8 +7,8 @@ originalUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm
 webUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Techinasia
@@ -21,6 +21,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "India: AI startup Uniphore raises $140m in Series D funding"
+    excerpt: "Software-as-a-service platform Uniphore has raised $140 million as a part of its Series D funding, led by Sorenson Capital Partners."
+    publishedDateTime: 2021-03-31T23:54:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/uniphore-sorenson-capital-234462/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/06/money.jpg"
+        width: 976
+        height: 551
+        isCached: true
 
 secured: "P4FUQQRFjbSGQ9TiJTTmNydSx4ZRCxCARHYYhZtMUklTNgN+CjjqNdfnGFUilCw8JvKGzZI2hhPuZS3fs4H/8bP+wzeCb9K5tbknvzuGk6tGsRX/woc6kWTzuyiXlMqdKOrvdkkw4J/Jgkb7mXZKADaxVJHPGgNgaSEQ8F2ZYqjoH3ZAOI3Pelcv6Jwm1spVoFxLZDZCQ2HA15wW5JhUV4JXBqdiFfnnUl4JXMF723iL21IkCM/bS0IdbV5REGTC823Hbl8bATjFfNZdE3y3NwkDgqCv6b4TIWRNkJXG8WDi8VwyV4JA8Sk82iFJ9aEq4oLiq0v2Q+cNCIDRFKjUNiXSgF1orkMdeO9Dq0TPvSv/IBdN51vbP8y+j2lkYOF6cZ/4hZEWY96GWvJB1Cr2+bJtzv27Tc3RRevJvxODoTOlqLXotzX9RINELEwT9inmvr6fUqCWphAgfkbMrYlsLiF+5JddNFSpVpS0DRo7U3Aoh97FSHOPTVJ2l6G8Cnua9HUytBblzwPMm/hg6UYPDQ==;z34UZJTdi2VhNzsfuvIncw=="
 ---

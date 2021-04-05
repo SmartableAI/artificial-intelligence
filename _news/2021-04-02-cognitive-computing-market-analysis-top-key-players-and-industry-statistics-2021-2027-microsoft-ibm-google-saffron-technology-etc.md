@@ -59,20 +59,6 @@ related:
         width: 630
         height: 423
         isCached: true
-  - title: "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics"
-    excerpt: "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ..."
-    publishedDateTime: 2021-03-31T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft scores $21.88 billion AI headset contract"
     excerpt: "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ..."
     publishedDateTime: 2021-04-01T09:11:00Z

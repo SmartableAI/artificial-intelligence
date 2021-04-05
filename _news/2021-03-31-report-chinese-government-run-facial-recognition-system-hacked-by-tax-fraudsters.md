@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese government-run facial recognition system hacked by tax fraudsters: report"
-    excerpt: "Concerns mount for data privacy in China, as a group duped a government-run facial recognition system to issue fake tax invoices valued at US$76.2 million."
-    publishedDateTime: 2021-03-31T07:00:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax"
+  - title: "Report: recommendation systems drive AI infrastructure initiatives"
+    excerpt: "The report categorizes common AI initiatives by vertical, and we also see different strategies (build vs. buy), frameworks (TensorFlow, PyTorch, Caffe and others), and databases by vertical. Over half of the respondents (52 per cent) mentioned using GPUs ..."
+    publishedDateTime: 2021-04-01T11:02:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/01/wekaio-promo/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 84
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/30/2a7c0ac1-68a8-4dd9-98e1-1a4f79a2a3a5_e59cdf4c.jpg?itok=avqNscSA&v=1617100153"
-        width: 1200
-        height: 630
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/03/CPU-vs-GPU.png"
+        width: 936
+        height: 594
         isCached: true
 
 secured: "Dza04I/7MjjaVt6fzwzjg0lSfYmYeMtTzHG8C1+FE833CyOSOnAOlSinIdgq7iIsZlkq5tzezmFV2Vjp02ZKL6j9+y6oQLrq1953ZZZ+48xVIAzhtzLSCWupNrvDmT6sdPNSA6gg+sEUbU2SPnNMvv7HgNCbWtkl+LhiE5QNfiYXs5nZa52xQpSnP6puPYCAlUlVaPK2VnctWd6Om8dg5Xg/FzWEXQYpI6uILlgCmUFK9tPmdtelXar7JbQZzd08ev78/AtjX1W1JwhkZp5/W/wRXoG758aXeCD3VVgItCh75omEsIChpLm+fj2dJk+wIc31KgK80xnGjbjNOfGrw0Ap3y02VAkerSm+ZvDI0MY=;sEM2D8lEZxVoyNyeaEITcw=="
