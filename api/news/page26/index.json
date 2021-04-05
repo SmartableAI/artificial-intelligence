@@ -2,6 +2,162 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-12-the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix.md",
+      "title": "The Future Of Work Now: AI-Assisted Clothing Stylists At Stitch Fix",
+      "excerpt": "The goal of the two sources of intelligence is to provide clients with a “Fix”—a mailed box of five personalized clothes choices—that are a close fit to their style, size, and price preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-why-chip-companies-are-important-to-the-future-of-tech.md",
+      "title": "Why Chip Companies Are Important to the Future of Tech",
+      "excerpt": "Stay-at-home trends boosted sales of new PCs, data centers installed more chips to keep pace with the surging usage of cloud and AI services, and new technologies -- including driverless cars, automated factories, and 5G networks and devices -- gobbled up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F617413%2Fgettyimages-599789122.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "publishedDateTime": "2021-03-12T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-elevating-security-and-efficiency-with-azure-sentinel-your-cloud-native-siem.md",
+      "title": "Elevating security and efficiency with Azure Sentinel, your cloud-native SIEM",
+      "excerpt": "Modern security operations teams are now tasked with protecting sprawling digital estates against ever evolving threats. With Azure Sentinel, the first cloud-native SIEM on a major public cloud, you can modernize security operations to stay one step ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
+      "originalUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
       "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
       "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
@@ -1052,143 +1208,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials.md",
-      "title": "IBM’s AI may lead to new antimicrobials, drugs, and materials",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a new study published in the journal Nature Biomedical Engineering, researchers at IBM say they’ve ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
-      "publishedDateTime": "2021-03-11T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
-      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
-      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
-      "sourceUrl": null,
-      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
-      "title": "DeepMind is building a team of A.I. researchers in New York",
-      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "publishedDateTime": "2021-03-11T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

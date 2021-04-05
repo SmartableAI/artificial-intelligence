@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-23-nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for.md",
+      "title": "Nvidia GeForce RTX 3070 review: A GPU worth waiting for",
+      "excerpt": "Currently, however, this means fighting with consumers over the scant remaining supplies of cards like the RTX 3070, which are now in incredibly high demand thanks to a number of factors including COVID-related manufacturing delays and a surge in interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "originalUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1575308947/itpro/Awards/badge-recommended-360.png",
+          "width": 361,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "publishedDateTime": "2021-03-23T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
+      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
+      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise.md",
       "title": "OneTrust acquires Convercent to drive ethics and compliance in the enterprise",
       "excerpt": "OneTrust has acquired Convercent, an ethics and compliance software platform with major enterprise clients, including Hain Celestial.",
@@ -1083,111 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-nvidia-could-create-the-worlds-fastest-mining-card-using-its-a100-gpu.md",
-      "title": "Nvidia could create the world's fastest mining card using its A100 GPU",
-      "excerpt": "The rumor claims that the first-ever Ampere GPU, the A100 designed for AI, HPC workloads, and cloud computing, will power a new CMP HX card. The news comes from regular hardware leaker kopite7kimi. They tweeted that the new CMP HX card based on the A100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "originalUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-18-image-18.jpg",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "publishedDateTime": "2021-03-22T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai.md",
-      "title": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
-      "excerpt": "Twenty-eight years ago, Tate helped create a chip company called Rambus. Its technology is in every DRAM memory part that ships today. Tate thinks AI can be an even bigger market over time. Tate's personal investment vehicle, the Tate Family Trust ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/22/6809777c-9d67-473c-a4d5-fbf5115e4c50/2020-10-linley-fall-1-inferx-x1-chip-final-slide-4.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "publishedDateTime": "2021-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

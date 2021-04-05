@@ -56,34 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
-    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
-    publishedDateTime: 2021-03-31T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
-    excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
-    publishedDateTime: 2021-04-02T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QTuhQLwem5bgTr0MwLfwnVkMabzCXxvIEKYSBdZSkv0eWClXvZfiXj9IQ6ZJsimEQSBNyjvgmpRvtgAQwvI66bzSfNtMpID6XZwI1D8awG5MZqHZ609WN47ckEAoJxmhzKnyu75G5L8r606vMbwCnyCNNqqQ1PouMCnuWuKMvo7F1ElLBDiEKjTAGs899Vdjln9M13RGz6Q/+h3OWVMzUOlAFKJw8GZDXN0gaLEEHCYc6WPHLAkaDrWu09zZGK686Zb4gmVQwoUlXBwKmas5VfdFbNnPJvUbvteJcV7q3W+DLfO8raaxnC2IuAwlcsBtJDFzEwO9IhdZOitFicWlaDWgKZQBrhAm7bz+a3aqlZs=;xJ67P2v0z/FI0Z/qh17seA=="
 ---

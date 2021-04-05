@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
 type: article
 quality: 56
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
-    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
-    publishedDateTime: 2021-03-31T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
     excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
     publishedDateTime: 2021-04-05T00:41:00Z
@@ -65,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
-    excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
-    publishedDateTime: 2021-04-02T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

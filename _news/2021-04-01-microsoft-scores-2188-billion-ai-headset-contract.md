@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic"
-    excerpt: "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus"
-    publishedDateTime: 2021-03-31T17:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg"
-        width: 630
-        height: 423
-        isCached: true
   - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
     excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
     publishedDateTime: 2021-04-05T08:23:00Z
@@ -51,12 +35,74 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
         width: 800
         height: 464
         isCached: true
+  - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
+    excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
+    publishedDateTime: 2021-04-05T11:12:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
+        width: 411
+        height: 292
+        isCached: true
+  - title: "Cognitive Computing Market Analysis, Top Key Players, and Industry Statistics, 2021-2027 | Microsoft, IBM, Google, Saffron Technology, etc"
+    excerpt: "Apr 02, 2021 (Market Insight Reports) -- The global Cognitive Computing Market is forecast to reach ... to enrich broadly due to the higher adoption rate of the cloud-based services in the financial SMEs. The research report further studies the growth ..."
+    publishedDateTime: 2021-04-02T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-analysis-top-key-players-and-industry-statistics-2021-2027-microsoft-ibm-google-saffron-technology-etc-2021-04-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens"
+    excerpt: "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ..."
+    publishedDateTime: 2021-04-01T09:55:00Z
+    webUrl: "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 34
+    images:
+      - url: "https://industribune.net/wp-content/uploads/2021/04/Artificial-Intelligence-in-Medical-Market.jpeg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
+    excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."
+    publishedDateTime: 2021-04-02T09:31:00Z
+    webUrl: "https://industribune.net/uncategorised/5689/ai-in-social-media-market-expected-to-reach-highest-cagr-by-2025-google-facebook-microsoft-aws-ibm-etc/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 34
+  - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
+    excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
+    publishedDateTime: 2021-04-03T09:55:00Z
+    webUrl: "https://industribune.net/uncategorised/9661/intelligent-apps-market-is-over-rated-know-what-key-players-ibm-google-aws-microsoft/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 26
 
 secured: "X7o5Ewln0BSpxtvgWpVUV9vrhDM4qsRy+3O6XI5tu8ga3DtutYdY/Jp8He0HmkiQC3wCh4v7mMbIC7wBBeNSgb8hZT5NRruenLz6/SrOVdM4QL5AUg7GjxWv5v0dOHp7o0YjaQgMug1s19gvpTKKdpEwlbSU/BOv8Cpchcvs7nspJIvnbT699vYIAD2GsDVgZPFLJ9mV+SqgdD0XsNSoUD/19AIRCEI9EITmqscW5nOotmBkrXxH5s2Q1Uka43ES7/rpaMf5Po9jQBQZorOqjXeOhuqKvx4AfiCGXA37dWy01efdUhawWALsxCucGIRMMub+JnivVbJEBXW2FekfBySZhYNFeptzBMBRoPbV6YjYCkeHubqvO/YAhTC588LUFmA3o2oI5AnFewjA26feMumnUAosbUuH/jIOpLQpJINmaKok0GileATpvUDpSHH849Qlae2KoUAOQ46BesiEpzmmv2kUWQyKKGoKWMg2LawRRYy4OeWgXTZhJh7peyw7tohY9nFYTl5LSPX958Q83w==;+qnNmcNRirNeFtRkmmZZQA=="
 ---

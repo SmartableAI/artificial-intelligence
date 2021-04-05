@@ -132,10 +132,10 @@ related:
     quality: 69
   - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
-    publishedDateTime: 2021-04-02T20:33:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+    publishedDateTime: 2021-04-03T12:00:00Z
+    webUrl: "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
     type: article
     provider:
       name: CBS News

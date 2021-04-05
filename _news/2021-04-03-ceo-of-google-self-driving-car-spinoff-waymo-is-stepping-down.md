@@ -2,11 +2,11 @@
 category: news
 title: "CEO of Google self-driving car spinoff Waymo is stepping down"
 excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
-publishedDateTime: 2021-04-02T20:33:00Z
-originalUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
-webUrl: "https://www.cbsnews.com/news/waymo-ceo-john-krafcik-google-self-driving-car/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-ceo-john-krafcik-google-self-driving-car/"
+publishedDateTime: 2021-04-03T12:00:00Z
+originalUrl: "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
+webUrl: "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
 type: article
 quality: 59
 heat: -1
@@ -235,6 +235,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "mofFuj6XRbcIFCsUDYd96xsEfAsGNpqpiONdw+zizSvgAWfD9cHD0QEewd/pnkltA8i7BVcP5H3cfRZxT3URXEEuk+73q54yqXr7DxD0hFCaDN96JWch2V3d6FX8vOOQ/zu/2QhG7hzrT9uLjv22/d+wPX/u0804T2mOEoJkj0RpLuxs16WZeFQN5ap6hEWGVJxzPKfp72F3PZmVe1Wyt8a/vZdkkvpzZ7PWA1ej19dR10ldQ2xpQGh4kMskaf2ewHMhIqMtxI7srTbO5NuGEZ4Cq9MI+WnMlUXhC/O9kYlOWJRW9HbwumgdyHIYAj7fSe80Kdn2yk+SC/GfZlf4DMaoUFnevV3ZcM4zBZIuIYEitRlF5xb3Jhvs3atbk4e2DSz6+CttzcGuFWRrBKYlSUE3L10Zq3vVj+xUdpGWNRF8MVOtSKjGa2sycTHnTtt0Pl0SGCghw1bzjiHEN47PFmGgMwmenxfO+wmXiZqxC0hk2sCgfegtY3Qr7EmeCgv3a+6gEpZD3FaK6PyRBnZ61w==;9Kho/fWN1woLUs8c/e2Upw=="
+secured: "vQKRCz0ZThao5+Lzp9LwG2MPkn9RhgI1TB9lkacBRbruP78LwqKqVIS005NlxLtUU8BEbRGfPkwZFs5tbpi07o/2UUFx6Xz0a80YkGkgg/GzybY9T6gpN/NST2vZ5Qsk4KEmhnrRbgky+CV5EjTtHDnBaWEG/rWoeS7aEZKoON8FsFqRPS3ZTidTpVzu8LrQqXnruhFAaDO34lYDZQcq5wstqxl3ovb+NFaufnZJcQcgmnUh2ooryfeg1irv9/Lzsdhb59lguj09XQUc5wYcU81Dbwkt6jluL+iLPqxUDB/IFxQl5/dE6fSZ4as+ao0oam+bmDtRWh9AieGob/ou8OxJQ6CIjR4jleyZQCL6ojk=;/SBELBTTOEDFioNrcB5BbQ=="
 ---
 

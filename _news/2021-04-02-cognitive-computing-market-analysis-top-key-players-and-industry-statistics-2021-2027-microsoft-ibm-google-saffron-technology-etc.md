@@ -29,62 +29,84 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
-    publishedDateTime: 2021-04-02T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
+  - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
+    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
+    publishedDateTime: 2021-04-05T08:23:00Z
+    webUrl: "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
+    ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
+        width: 800
+        height: 464
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
-    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
-    publishedDateTime: 2021-04-01T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
+  - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
+    excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
+    publishedDateTime: 2021-04-05T11:12:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
+        width: 411
+        height: 292
         isCached: true
-  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
-    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
-    publishedDateTime: 2021-03-31T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
+  - title: "Microsoft scores $21.88 billion AI headset contract"
+    excerpt: "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ..."
+    publishedDateTime: 2021-04-01T09:11:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
-    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
-    publishedDateTime: 2021-04-05T00:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
+  - title: "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens"
+    excerpt: "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ..."
+    publishedDateTime: 2021-04-01T09:55:00Z
+    webUrl: "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://industribune.net/wp-content/uploads/2021/04/Artificial-Intelligence-in-Medical-Market.jpeg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
+    excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."
+    publishedDateTime: 2021-04-02T09:31:00Z
+    webUrl: "https://industribune.net/uncategorised/5689/ai-in-social-media-market-expected-to-reach-highest-cagr-by-2025-google-facebook-microsoft-aws-ibm-etc/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 34
+  - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
+    excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
+    publishedDateTime: 2021-04-03T09:55:00Z
+    webUrl: "https://industribune.net/uncategorised/9661/intelligent-apps-market-is-over-rated-know-what-key-players-ibm-google-aws-microsoft/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 26
 
 secured: "3ZCHGip/giqLBwNMZOb+KpukxlRNAKU4SJIyAw6tgJPIqD+JqtxhF+COd+UQFsmBo91TyA7PsDT2DCBVs1eKuMeiZAjrYXtydTkfsf27CHoO+hgQ7nS64TKsWrsDoo/rG58S9CX+3//1Or3pDp9SecnWdL5vweFa2d/c0lhyzAGuXvaTwHmlJUugmSyuSCDpfirlFITMmZfddl59UJSrLXc5Aod5YJaMGJ2ACP5skvevXsuewufVXvatO+pq6IL6NcWg5iAmaRTBnZM/C8BIGtT8TshReHwqQIsbQu5St6/mkgm+SmgZRERDUhHBSBK/WdlHVVw82655ms0i0rgOdFRdP84KXNjFFyfXrJR6n8Q=;zmtlOLI/v7gzP1AC6wM5zA=="
 ---

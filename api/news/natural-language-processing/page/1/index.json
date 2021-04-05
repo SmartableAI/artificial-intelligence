@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-conversational-ai-platform-market-may-see-a-big-move-major-giants-ibm-google-microsoft.md",
+      "title": "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft",
+      "excerpt": "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U405203353_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "publishedDateTime": "2021-04-05T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
       "title": "Study finds that even the best speech recognition systems exhibit bias",
       "excerpt": "Learn more. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the world. That’s the top-line finding of a ...",
@@ -1320,40 +1365,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
-      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "publishedDateTime": "2021-03-19T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

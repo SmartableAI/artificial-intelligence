@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-conversational-ai-platform-market-may-see-a-big-move-major-giants-ibm-google-microsoft.md",
+      "title": "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft",
+      "excerpt": "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U405203353_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "publishedDateTime": "2021-04-05T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
       "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
       "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
@@ -1337,59 +1382,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-elevating-security-and-efficiency-with-azure-sentinel-your-cloud-native-siem.md",
-      "title": "Elevating security and efficiency with Azure Sentinel, your cloud-native SIEM",
-      "excerpt": "Modern security operations teams are now tasked with protecting sprawling digital estates against ever evolving threats. With Azure Sentinel, the first cloud-native SIEM on a major public cloud, you can modernize security operations to stay one step ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
-      "originalUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

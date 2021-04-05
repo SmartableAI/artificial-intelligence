@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
+      "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
+      "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
+      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
+      "publishedDateTime": "2021-02-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata.md",
       "title": "Graph Database Market Growing at a CAGR 22.2% | Key Player Microsoft, AWS, Orientdb, Tibco, Teradata",
       "excerpt": "MarketsandMarkets forecasts the Graph Database Market size to grow from USD 1.0 billion in 2019 to USD 2.9 billion",
@@ -1389,58 +1433,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-community-health-network-prescribes-ai-to-combat-covid-19.md",
-      "title": "Community Health Network prescribes AI to combat COVID-19",
-      "excerpt": "Community Health Network is employing an AI platform from Jvion to assign COVID-19 risk scores and drive an education outreach initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/community-health-network-prescribes-ai-to-combat-covid-19/amp/",
-      "publishedDateTime": "2021-02-03T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

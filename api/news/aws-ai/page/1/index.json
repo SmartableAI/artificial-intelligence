@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-05-conversational-ai-platform-market-may-see-a-big-move-major-giants-ibm-google-microsoft.md",
+      "title": "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft",
+      "excerpt": "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U405203353_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
+      "publishedDateTime": "2021-04-05T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
       "title": "This premium AWS training could enhance your job prospects",
       "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
@@ -1369,49 +1414,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path.md",
-      "title": "Docebo Strengthens Relationship With Amazon Web Services by Joining AWS ISV Partner Path",
-      "excerpt": "Docebo Inc. ('Docebo”) (Nasdaq:DCBO; TSX: DCBO), a leading artificial intelligence (AI)-powered learning platform announced today that it has",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

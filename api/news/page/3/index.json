@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
+      "title": "Aussie researchers using machine learning to analyse rock art",
+      "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
+      "originalUrl": "https://www.zdnet.com/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/01/78cdf0c5-f3f1-4302-a7db-b46989bfde20/mimal-image-1.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
+      "publishedDateTime": "2021-03-31T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-bidens-180-billion-rd-plan-prioritizes-key-areas-such-as-chips-quantum-computing.md",
+      "title": "Biden’s $180 Billion R&D Plan Prioritizes Key Areas Such As Chips, Quantum Computing",
+      "excerpt": "These have become central to the U.S.’s technological rivalry with China, which sees quantum computing and specialized chips powering artificial intelligence ... if America lets its lead slip in AI and other critical technologies. In its announcement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/",
+      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60654c034215c3cbe4779086%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/amp/",
+      "publishedDateTime": "2021-03-31T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-breakingviews-chinese-ai-dragon-confronts-fiery-new-realities.md",
       "title": "Breakingviews - Chinese AI dragon confronts fiery new realities",
       "excerpt": "Its market share is second only to Sensetime in consultancy IDC’s rankings of the country’s four so-called AI dragons, which include Yitu and CloudWalk. In October 2019, Washington blocked Megvii and others from buying U.S. components without ...",
@@ -1155,108 +1259,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
-      "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
-      "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-33_WA-Cardinal-Health-Post_2000x1006.jpg",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient.md",
-      "title": "AI experts warn Facebook’s anti-bias tool is ‘completely insufficient’",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today published a blog post detailing Fairness Flow, an internal toolkit the company claims enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

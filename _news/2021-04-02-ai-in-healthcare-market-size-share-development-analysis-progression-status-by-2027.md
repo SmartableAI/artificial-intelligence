@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
 type: article
 quality: 77
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
+    publishedDateTime: 2021-04-05T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI Revolutionizes Mental Healthcare Space?"
     excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
     publishedDateTime: 2021-04-01T13:59:00Z
@@ -70,6 +84,20 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
+    publishedDateTime: 2021-04-05T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-na
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
-    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YyyvSlyT4KVMojCBTTB4HSL20FfQwAy+7uC7diGKSL+wTS1OKKKmiLKd7GhS3optJ6Fx8o0tYeTTAIKUJ/4+Z0JOEStK31P6DhvAEid/Nb179iVfMT64hTRU3Bupp2u0IhOJQZ4yCDQjPSOUH3w342DsN496hsu2hqYVrkVAv3p7Jm9hYKKFS5CXqxKHz9sKVDfZSA9SMyeUfXoWTsQ+O5WyjxtoVgmCwKZyag7BEajwGs/U9QXPCWv9Pl0ZLX6BxFL9SS1sgu4CilbpEPAqcvlIe3ORKZdBHsxrf7m14fHS7ZbOyjX1lyScPQSi3GKuG3e+j6+j052+w0FAKcggYWPIxqW1DfT8vyuINiaPrsg=;qUcL7XEw36tlUS5Gx+5Lvg=="
 ---

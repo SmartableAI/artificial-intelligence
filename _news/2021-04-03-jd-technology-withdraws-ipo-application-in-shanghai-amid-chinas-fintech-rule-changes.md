@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-wit
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "JD.com Sells Off Cloud, AI Units To Its FinTech Arm"
-    excerpt: "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion."
-    publishedDateTime: 2021-03-31T18:28:00Z
-    webUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/"
-    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "JD.com Spins Off Cloud and AI Assets to Fintech Unit"
     excerpt: "JD.com, the Chinese e-commerce giant announced on Wednesday(March 31) that it had officially carried out the sale of its cloud and artificial intelligence businesses to JD Digits, its fintech unit. The businesses were valued at a combined $2.4 billion."
     publishedDateTime: 2021-04-01T17:29:00Z
