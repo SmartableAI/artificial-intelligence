@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-gues
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "U.S. Army looks to facial recognition access at bases"
+    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
+    publishedDateTime: 2021-04-05T18:08:00Z
+    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Scientists create online games to show risks of AI emotion recognition"
     excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."

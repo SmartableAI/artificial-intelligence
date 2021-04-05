@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produc
 ampWebUrl: "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 secured: "s+VElXDDUpET/yaxHhBlZmboC8k34EPZjs+2026PIadYqPoGicIaVP6YzwjKiErOmq9jaF/mF3tps/k9cCmRoPF5Zg4llUN8P30tu15MOjmYf+LTRWgLgczE6DInrnCrLpfyrphF+DHBjyZ+Mxf1Eh42u/5VTZBeoN9vBny1RxRj4QxqCROAkiOrWIZmyOx5QCWRdr7YBO1K5Q5GQ8gOQG2Mu40Hp2FCv4fRhSEgztOnwuZqWJvst5+AqK2p9YNzcANWlXj4oY9k7hG1BoH3/ahTh4iKQRQq+5QD1Ibc7otWDoW7yITNM6r6ZsxYLWAKXNyVMA3QuMeXgmOLbBfxxQNJD/6tU/we7JITxoJBGCoDForqZIFTKADpbkBRfkn+sK7DF7eNGwbBodPlIxBIZrS+rFdiWyw86J8XvYsnewO+MRNPgxk+a0BsVdDAe59hUwU+8aW6X+0g+5TmdbDo2Rt2M+iUWMBFcAGH/q+KGfaON9XRFO3aTN2Sgh9bEOAF2z8X/oz24rtkcXkZpreN4A==;Px54fb6WVJWQEYCgzFfDTw=="
 ---

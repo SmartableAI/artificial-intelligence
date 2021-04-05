@@ -42,6 +42,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Chevron, Handy Mart Operators Deploy AI-Powered Predictive Analytics to Streamline Operations"
+    excerpt: "Regional convenience and fuel retailers H&S Energy of California, E.J. Pope & Son of North Carolina and Welcome Break in the UK have implemented AI optimization tools from Hypersonix to support functionalities including real-time fuel pricing and ..."
+    publishedDateTime: 2021-04-05T19:25:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 46
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/04/Welcome-Break.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
   - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
     excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
     publishedDateTime: 2021-04-05T07:05:00Z

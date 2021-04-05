@@ -76,6 +76,22 @@ related:
         height: 675
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people."
+    publishedDateTime: 2021-04-05T18:53:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg"
+        width: 1200
+        height: 779
+        isCached: true
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
     excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
     publishedDateTime: 2021-04-04T11:20:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
+    publishedDateTime: 2021-04-05T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI Revolutionizes Mental Healthcare Space?"
     excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
     publishedDateTime: 2021-04-01T13:59:00Z

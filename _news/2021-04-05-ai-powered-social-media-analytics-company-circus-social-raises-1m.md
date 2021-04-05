@@ -56,6 +56,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Chevron, Handy Mart Operators Deploy AI-Powered Predictive Analytics to Streamline Operations"
+    excerpt: "Regional convenience and fuel retailers H&S Energy of California, E.J. Pope & Son of North Carolina and Welcome Break in the UK have implemented AI optimization tools from Hypersonix to support functionalities including real-time fuel pricing and ..."
+    publishedDateTime: 2021-04-05T19:25:00Z
+    webUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations"
+    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 46
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/04/Welcome-Break.jpg"
+        width: 2440
+        height: 1627
+        isCached: true
 
 secured: "CIYBHsUNozCrpm5MDziSvhOuS8lQ4DIP60UZG19fWFyYsnLhjFqv6OCZPX2yNWMP6vRaq8qykkcSD7su6vy+lWpaQLLI93WXdPZAzKQdBgFFuKYunZoVIUJJkweSW9TbZ7x2Y+d3e0fybz0+fgldF7XZwcf1xI0VV9z/dI6LQq4WmLyV50cHIDRniohJLzd2kp7gL1aiMe6sIo2VnUZFRrFsiy/6XZxdc/USdi2TBGX1kinmq9HbvrYNswx6WWBrhj2JHcsanpHKTDoaprT2WJ96Wl5h2qlCnc5t1yDsaojvtWA3D4pKcg05SSTFEqVjL5v4TlebljdIe8WyZ7sRgsPbZPML3gZaqtPlsta6xa0=;UQnMYb7jRK8z/+hAvT/ACw=="
 ---

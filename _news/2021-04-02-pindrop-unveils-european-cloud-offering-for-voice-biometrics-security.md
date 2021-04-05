@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Precise Biometrics leverages Innovatrics facial recognition for improved UX: case study"
+    excerpt: "Innovatrics has released a case study showcasing how its SmartFace solution was integrated into Precise Biometrics’ system to come up with a multi-tenant cloud access control and time and attendance platform dubbed Precise YOUNiQ-Access for seamless and ..."
+    publishedDateTime: 2021-04-05T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202104/precise-biometrics-leverages-innovatrics-facial-recognition-for-improved-ux-case-study"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
   - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
     excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
     publishedDateTime: 2021-04-02T17:44:00Z
