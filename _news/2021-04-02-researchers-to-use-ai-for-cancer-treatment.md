@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
 webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,48 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore researchers use AI to identify the pH of cancer cells"
-    excerpt: "Using an AI-based algorithm, thousands of cells originating from the ... cell by cell imaging and analysis as they flow through a channel in a microfluidic chip,” said Prof Lim. This can be extended to monitor cancer progression, effectiveness of a ..."
-    publishedDateTime: 2021-04-05T05:55:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/05/singapore-researchers-use-ai-to-identify-the-ph-of-cancer-cells"
+  - title: "New app helps prevent skin cancer using AI and ML"
+    excerpt: "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily."
+    publishedDateTime: 2021-04-05T21:48:00Z
+    webUrl: "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/05/1101988.jpg"
-        width: 860
-        height: 573
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI conferences use AI to assign papers to reviewers"
-    excerpt: "By Matthew Hutson Apr. 1, 2021 , 3:30 PM Artificial intelligence (AI) researchers are hoping to use the tools of their discipline to solve a growing problem: how to identify and choose reviewers who can knowledgeably vet the rising flood of papers ..."
-    publishedDateTime: 2021-04-01T20:13:00Z
-    webUrl: "https://www.sciencemag.org/news/2021/04/ai-conferences-use-ai-assign-papers-reviewers"
+  - title: "Global banking’s AI leap"
+    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
+    publishedDateTime: 2021-04-02T09:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
     type: article
     provider:
-      name: Science | AAAS
-      domain: sciencemag.org
+      name: The Financial Times
+      domain: ft.com
     quality: 37
     images:
-      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Ai_papers_1280x720.jpg?itok=GI2tZ28F"
-        width: 1280
-        height: 720
+      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
+        width: 1920
+        height: 680
         isCached: true
-  - title: "KSU researcher develops artificial intelligence to identify different bee species"
-    excerpt: "A K-State entomology researcher says an artificial intelligence program he developed to identify bumble bees could help conservation efforts."
-    publishedDateTime: 2021-04-02T18:00:00Z
-    webUrl: "https://themercury.com/news/ksu-researcher-develops-artificial-intelligence-to-identify-different-bee-species/article_2c81ec3e-e50b-54db-8dc2-acd2ace0363e.html"
+  - title: "Impact of Artificial Intelligence in Casino Gaming"
+    excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
+    publishedDateTime: 2021-04-05T17:11:00Z
+    webUrl: "https://www.analyticsinsight.net/impact-of-artificial-intelligence-in-casino-gaming/"
     type: article
     provider:
-      name: The Manhattan Mercury
-      domain: themercury.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/f/1b/f1bbd355-6ce9-58a8-9870-8f2cf1da7021/60675bb738f5f.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "d+tUIAvthfsAYEiBX6NE5KhNSZnJBJrSycCmvdJmpSMPOoSy/kjb5GJWD4spxUWQcyA2EEPE8sOPAXloItE6XKnxRBjm0D3VCVcwOQa9QZ/O2wWhZ8P926pu6wvx+TxBGjkjvbsvBwXotIPXj/4fdFc51SJ+jfNR0CMtBL552OrBBBzSEyRw4y6uV6zmJjMfPsZS53FcXFNQkaefBIjJm7Igi+yul1AFh5yrYVcm4GTIsh3tDQj+3++hyTB7UIfnH0RXbKpsYIdc1LdJ0CvKzb5zqQjHrCA/P3NKcAnG818g3FGWz2Sny9z8HV/d1Vb1hgiUMJ7Ek1M8D+RLWTqo6srys0X255HIozr1/K0PR6k=;DjjqQg0Rs5I2a9B1zrIYxg=="
 ---

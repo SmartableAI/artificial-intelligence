@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "How AI Can Make Weather Forecasting Less Cloudy"
-    excerpt: "“We’re testing the whole cycle,” she says. “We will actually save lives and save property.” AI is already making existing prediction methods more efficient and contributing to increases in the speed and accuracy of forecasting, and it shows ..."
-    publishedDateTime: 2021-04-04T19:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
+  - title: "New app helps prevent skin cancer using AI and ML"
+    excerpt: "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily."
+    publishedDateTime: 2021-04-05T21:48:00Z
+    webUrl: "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
     images:
-      - url: "https://images.wsj.net/im-319875/social"
-        width: 1280
-        height: 640
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Researchers to Use AI for Cancer Treatment"
+    excerpt: "Artificial Intelligence (AI) has proved to be a very useful tool in ... which allows it to identify host response patterns to the therapy. The system is capable of monitoring the patients response to the treatment in real time and can also predict the ..."
+    publishedDateTime: 2021-04-02T14:45:00Z
+    webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/ThinkstockPhotos-5845715201.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Global banking’s AI leap"
+    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
+    publishedDateTime: 2021-04-02T09:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
+        width: 1920
+        height: 680
         isCached: true
 
 secured: "tpQoFB05pPBN84qSRoH3yMMxB7oGlpEP8VU9fdo5Qg2X95+4tlFOMdCyyVTazsAYaThyclwvzfpcpmfcTK0kvtxGvo4g9w5TBFHGxU8bRBgL/L3nWEJZ7s0am7aEuYC5JGTFBpH+5TTukW2xbMEQrtk6QQagG796svMKW1D4CmGhmLX6Kja4HJ8YXFPvfFd3gddVU+85RAWN3fbTVnHvuCx0nvwD8x3gDIUWvaX+y2veQSJ+jIkUObkoFPiByoe0zEeR3pdqFZagTUsVSRz5n/2glog65mv/TECChenWxMpwtAQu77SBpZDFsP+ww8Puwmf8z9ZnNycL/u7T+FDa9UPSQfWW4q5Y38aVHgSGLDG5QDPeDxDvPmlNl4bTqZfm/nDjQim6UJesq12kgOc2IXn7Xt8yyo9i4CWjK7VVysm4XYUkMCx5YXbEIXq02BjOZaIJQ3Fk2LEweVmLaRtI5MbRS50Y8jHjG6TAH9fdh7Buvujf+yr//myJJsnU2gfvp4BhWaKAqkGtM0WQnOyX5w==;o0WQwvq48r7jRIOtuPm/4A=="

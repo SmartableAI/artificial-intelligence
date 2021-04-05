@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bank Card Test Center launches face biometrics testing for financial services"
+    excerpt: "BCTC can asses facial recognition algorithms for offline payment terminals, systems on Android mobile devices, FIDO biometric identification security components"
+    publishedDateTime: 2021-04-05T20:18:00Z
+    webUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launches-face-biometrics-testing-for-financial-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Precise Biometrics leverages Innovatrics facial recognition for improved UX: case study"
     excerpt: "Innovatrics has released a case study showcasing how its SmartFace solution was integrated into Precise Biometrics’ system to come up with a multi-tenant cloud access control and time and attendance platform dubbed Precise YOUNiQ-Access for seamless and ..."
     publishedDateTime: 2021-04-05T19:15:00Z

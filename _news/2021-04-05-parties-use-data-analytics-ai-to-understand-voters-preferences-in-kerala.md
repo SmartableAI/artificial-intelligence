@@ -72,6 +72,20 @@ related:
         width: 2245
         height: 1587
         isCached: true
+  - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
+    excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
+    publishedDateTime: 2021-04-05T20:32:00Z
+    webUrl: "https://siliconangle.com/2021/04/05/reputation-acquires-nuvi-ai-based-customer-sentiment-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
+        width: 792
+        height: 447
+        isCached: true
 
 secured: "vUOxIKnghn1pLYY05BBEf1+GcDd/XINe+UtH6x1WEwIpFXoNnAYHKQOvKjeM5VKQJQngthnpAMSP2qNONrl9xvcybqwVq3N0w747DZVR7z/beKDzpxQ2MNOEK+7W16N7shLDYu7C4SXQo0IkMhzCyReEmHZAVtoxhO9MT7CSsvhIabML+4sK+hGkEjfoKOdCp93TQ3+KgiyZSV2EcR4xhYFhrgWRjO7ypP58gyY/BzHiTcfIT6pz9Np/4ZlYDH4Ud26sm63vE2EfVgCa/71mH22gox4N0WuDEmwZNWSZcyXE8dcgf9joR5gDE+H32jyzERs/Rm7EKrvO4VRM3vsUvasb6NHjlR1hifVg9NJeYBo=;JUaBK4EFQGyAAhW5WCN9qw=="
 ---

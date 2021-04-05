@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lesson
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img.deusm.com/darkreading/DR_toon_march.jpg"
         width: 800
         height: 506
-        isCached: true
-  - title: "Global banking’s AI leap"
-    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
-    publishedDateTime: 2021-04-02T09:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
-        width: 1920
-        height: 680
         isCached: true
 
 secured: "ksfwMKHQ1rwr1iUfKAX3ym4ibDRFQKoDP09KeiaiJXrnG0vrkHW3Yw3a1CGXFWzpFPwO+oec+UMqAsnjYb/AO0Q4OCkl/8RgD/F8ir+5kKGhCHW2BPPtp5f/FddnZ939UyADjsSooOoM6gfCPerO1wVWYmX7fewpswFosU+4KgFoyOugzuzwLs98bXC55IhlwtPwS71CrD8ieOcat1tAagxVhzy5sQEcLAXXMQaBlTF2R2epWoxKTl5IguJQJYFvBGUmEfTj2sMdSO+ZMV/kXFcohaWZqCrO0IsWmbYyMLPMsbtEjDgZkCs9uDJirAvhkXBwkzdeZM5xS5MQuo/BS4gl/BeG8yyPb0ceYdYFVqB6D9FDySnJ7BmxUEjwtOiL6AsAu3BHb4w1M26PulXz9qC4yRYPVV+r6867pfjBmPGG5oCYY+kBW6o2wkD8jP71cCIfjnWMHnKTnvBgEji/PIzDijBj6QMS4Hp1KAzXRnDAo3Jk8FxWbaH53qA2XeHc5OVyhANAkdJEvL1v8VcLug==;nvzx4TcRJDTI4PL7JlmBtQ=="

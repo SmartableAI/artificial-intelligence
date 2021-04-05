@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Impact of Artificial Intelligence in Casino Gaming"
-    excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
-    publishedDateTime: 2021-04-05T17:11:00Z
-    webUrl: "https://www.analyticsinsight.net/impact-of-artificial-intelligence-in-casino-gaming/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
-
-secured: "udUehlddzIXpT+hks1vjyH7JB7b+KcjJ6uaRmJz7gl6YVZj7Eev6skGp6iWSQtjV1Fjo/i1jTu87/REQLBVBi0SbxzjgQvK0JRGLGEoIMYy4IY9ZM0yyUhUU16+1L38SGBW97MqMrJHu59ldT+YBfrDhJ5WDIuyoKJDxRrKiILVsAVF/ym/gfY+XhEfyFOFmfxfn21+eFiat/3zetzWpiwny2dajOcBtjDv8PXJ1WQbhkQiX+ug1ff7FqUM/9dF+zLaOsNiNG6ap0h0Sxe6Jvb0xJJ/S1KVTHFDog/2PC6bk6nWUwvzvaNDXY0LYtCdjFe5cZKZwciIJuyDOtci0jaPLtijFidU/1WsqKZ+Nb6Y=;rKKcIAKFFJMU/BZATujQYw=="
+secured: "KPXZTICRu4fNrsU+PcDJmt86RyVmyX9dUxkwzP8GSx+1e5hGSfVfqsajk8vcfp4to75OCCNC8WIw8OCWAUCVeB45oFt0sAkuA5p7GKr10iEDfCXg31yZ+vLCKT4lO+JF3r6LL+ldPUIm2gMVyOoyMvIqalvPc9bPL1kKu/9PlTtX5Py+AK2iIVNcEn/DuRmIYz/GR4H+ymblj29cq2l4TjhRGnXHTMXc3Mxlgxeng5RgR7Il49P79YSB+mW0eQR9I1bkN6W81CQu3cFsLPvvhOfUngGJw6RCxnZzYvTC9NWwEfRmX+fVRn8NvOsamj9o+IpGiYqWeBlwBhcDhaM0wtUeb2AO37wS6vJbASsjjUE=;y6B4Gl02IOHA/6QZJbqOwQ=="
 ---
 

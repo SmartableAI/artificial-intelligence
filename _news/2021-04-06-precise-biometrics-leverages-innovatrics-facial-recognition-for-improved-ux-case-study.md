@@ -39,6 +39,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Bank Card Test Center launches face biometrics testing for financial services"
+    excerpt: "BCTC can asses facial recognition algorithms for offline payment terminals, systems on Android mobile devices, FIDO biometric identification security components"
+    publishedDateTime: 2021-04-05T20:18:00Z
+    webUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launches-face-biometrics-testing-for-financial-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
     excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
     publishedDateTime: 2021-04-02T17:44:00Z
@@ -54,6 +68,6 @@ related:
         height: 449
         isCached: true
 
-secured: "mofgvSNpJWxQVE2nKCxWyfHqAhmkE1Xnq8dVaUcx6BeRtblouI6vGVCvXIAab5UqM05frVfZ9zepgPTauGVdC+Bqg14u8GmBMkLprgdsecN8dmw9LiE6L6BM+oMkWl2BwD5YRnD9UDHHJf9SrG2n+rz7671Sj+cgYPK3lxoUOrz2d1HT0dLsoxEYUSnJ/6uGP75qnNgq9ZsOJHjdhaEmli7LptF8v/mp1ew0snAWmR/t+x4tH2HP9SzfuDBTsB1M9lo/NiLkQJETePLstqRi2pfY8Sdz1MSN1vcSlSr1+ok30n0CDC3cPAtaQOrWavT0vhWnSbs9ZUyb5FMOU5JpQveSxV28cVCdTFHBx+JDpwg=;YNDm/GIpNuLpPFEahryLpQ=="
+secured: "NKs+7h+UGcDeCoQGclQxHOIs1HbeXsGxZzNdHihELWiNimfJYuQIMkpydilG39tjpNVoEvtMq8xY0lIL2GViwpXq9oXL3SGq+b+EI8WvopeTDWKFCQBSvXoQdqk2JoDu48JSOoZ/PoSYDvMpndNP3NScgapDsHcvt+YMOv0e7WgwlAPo2z3qBi+qLARQtj5cCi68PHgUdSYK3bFJA5yDa4LkdVwZsPlQu1lngYtm2PSpNDSXtZRbPfaCzC6mJ9CSIFWbhwW1eK0u11R+i/LysFuegkK88oHZk3G084fmF/dg6lsHFA8QGOigQWySud7d1weNSVNPrjhp0fOWLIXVfdpBlT3RAjfRgTJM0ikXG+f/7E1hgyPzaxRLTCNyQ9S/n1GNRntWsQjROJeEOb7OTbRJGzBASbEuox4elQ+2mTVVuOZgoWDZnhL5DhkKBmixCcr7MPu1oCbXNqAYhg+/I5vkkgIarNgSZDigac17NVVsl1R/vVGQQePdSUmmI15HnxU/A9gBSq+foJ51Vxbskg==;Bh0GAh8slUtbjpqqNcc3Tg=="
 ---
 

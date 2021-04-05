@@ -47,6 +47,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "U.S. Army Seeks Facial Recognition Technology for Bases"
+    excerpt: "There have been violent incidents on U.S. military bases, including the Fort Hood shooting in 2009 and the Pensacola Navy base shooting in 2019. Face recognition technology could help government officials react quickly to major crimes."
+    publishedDateTime: 2021-04-05T21:03:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/us-army-seeks-facial-recognition-technology-bases-182041"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/U.S.%20Army%20Bang.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "WVIzDe7iLV3Z/fqw9/0jLnv2lg+21+Nj6tV2xcXMnexsykgT2a+pYwrGCUIwrsnIOao5953/h07yvRcrBbPZsBtBKDb+ScovyAojL+6p6OmJIA3HggOOm1ZJWfVEknhe/9/UIaDwgDdvI4eUtfLw/rL5Cx4OhS5wCqSujJEmMjmqYGBYEB0QTSFskSK2fib2sARHBMn5Q81erulfSJAUKQfBkx6rYVsV0O0wUUBuQsH8dAWMO86fZ3FfbYtfau6vYuWoxWMCURUfP88K2QSFrj2FrJCqOt4aqDrCwwjkZIMpb9X9JKlfhfHP7Ho3iguhR6YtluOhK+TI4leUeEtpGnXDpidEAz0LiTf/w7AB4GE=;Y5m63wF2P+KVJWqDty7cXQ=="
 ---

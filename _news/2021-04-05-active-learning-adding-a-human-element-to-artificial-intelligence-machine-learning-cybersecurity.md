@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global banking’s AI leap"
-    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
-    publishedDateTime: 2021-04-02T09:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
-        width: 1920
-        height: 680
-        isCached: true
 
 secured: "iUE1mgV0EVdiLwdCArVgbwnO2w7w1vfaWict+A9iJ+oZTD8TzOtVEodB9izZKpIvpAXGu2K+oIXTc6V2d83DdAIxubFk+gF0vEYBAHLM5CGCrRD/M8l3uA3MH72bqL9qFgA6Zf4164cbfPoSY8qv3L+GJ5gSCISXkj+mD2yeJ/CNO1dVROs62TWmJ8Q3hj3r+/qCrzw1GPD3mYwNE4cxmkV/8bD6zys7OO0Ov2grbH3NpkO9HVP4nKjI8V9rnGi0+NmMqQn4l2TGdfJhYq4Kx0tvmocuny6lK1w3XC4foOmt5IPJmZw6qWYPahRKC4dn/RDteHcy1numy5SCnJ6vjtPtPuxTtpst72iFp+xgvOA=;37cUeMk0ykr7X6xV7hWRRA=="
 ---

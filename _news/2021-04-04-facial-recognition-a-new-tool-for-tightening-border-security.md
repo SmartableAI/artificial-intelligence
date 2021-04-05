@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-ti
 webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
         width: 730
         height: 499
+        isCached: true
+  - title: "U.S. Army Seeks Facial Recognition Technology for Bases"
+    excerpt: "There have been violent incidents on U.S. military bases, including the Fort Hood shooting in 2009 and the Pensacola Navy base shooting in 2019. Face recognition technology could help government officials react quickly to major crimes."
+    publishedDateTime: 2021-04-05T21:03:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/us-army-seeks-facial-recognition-technology-bases-182041"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 41
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/U.S.%20Army%20Bang.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tampa airport to use new facial recognition technology for international travelers"
     excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."

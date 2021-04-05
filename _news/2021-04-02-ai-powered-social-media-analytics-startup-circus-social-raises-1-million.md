@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-med
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Bangalore-based-AI-powered-Social-Intelligence-Analytics-Company-Raises-1M.jpg"
         width: 2245
         height: 1587
+        isCached: true
+  - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
+    excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
+    publishedDateTime: 2021-04-05T20:32:00Z
+    webUrl: "https://siliconangle.com/2021/04/05/reputation-acquires-nuvi-ai-based-customer-sentiment-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
+        width: 792
+        height: 447
         isCached: true
 
 secured: "080IYMMULeq3exoaKjKe63BK2/luPpId1uXH9nERjJbH1XDFuIUNxab8NafEm8ct72J6/lyxnboC7ZLfR1pzAcaCugf7jx7nLRBYeG3SXK6I6zC8tikHoFzAJeiKCjhHFH79g76v9mUOXfX8/Gnrzf8W/XurrBoUixIuUXpJTSDhlwMvEiF/e4Of9Poh8Dx/zhB3LsQ8xpnoCe0aX7Cizos5jJwGnuL1BCBwTNBNaQr1dmG7SwIYsEhhc22EB/ZLRnMgo6mGlX0VMVruQ3yzWuAgPrz7g7CQWOdNO38mFQ+HblL1M08i0S7dfPlRHlPgiVP4oNsyBNVXf/eopRF1DD2kPnffKwnOsQrQtO6tHBkXUfthRjgrXmEAIvTcRTfdu3zFhT3OIhBeO9B7JTh3ekSUUrV032yA8kO8+pfc/sh6eAArGjUrU+Sey4ejW6b86JbCqpH5XroL0lI7EsRQWMUJQFZ1fxDVx1/Cba8KTZ/UwK56WeoypUrJB86/1msyjTVX0pyvwQ2U0d9Tx+99HQ==;9yzc/BTtgj3rD8IxHGACcA=="
