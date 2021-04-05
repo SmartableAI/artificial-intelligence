@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
+      "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
+      "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "publishedDateTime": "2021-04-02T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-ai-powered-social-media-analytics-startup-circus-social-raises-1-million.md",
+      "title": "AI-powered social media analytics startup Circus Social raises $1 million",
+      "excerpt": "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/",
+      "publishedDateTime": "2021-04-02T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
       "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
       "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
@@ -615,7 +708,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1157,108 +1250,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-breakingviews-chinese-ai-dragon-confronts-fiery-new-realities.md",
-      "title": "Breakingviews - Chinese AI dragon confronts fiery new realities",
-      "excerpt": "Its market share is second only to Sensetime in consultancy IDC’s rankings of the country’s four so-called AI dragons, which include Yitu and CloudWalk. In October 2019, Washington blocked Megvii and others from buying U.S. components without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
-      "originalUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1556974870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30248",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BO427",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BO427",
-      "publishedDateTime": "2021-03-31T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-businesses-take-a-hurry-up-and-wait-approach-to-ai.md",
-      "title": "Businesses Take a Hurry-Up-and-Wait Approach to AI",
-      "excerpt": "It can take decades for transformational technologies to yield real-world results, says Stanford’s Erik Brynjolfsson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
-      "originalUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-319025/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
-      "publishedDateTime": "2021-03-31T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

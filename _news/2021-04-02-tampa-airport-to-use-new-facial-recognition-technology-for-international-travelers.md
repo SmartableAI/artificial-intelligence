@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Virginia lawmakers ban police use of facial recognition technology"
-    excerpt: "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police."
-    publishedDateTime: 2021-03-31T14:22:00Z
-    webUrl: "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/"
-    ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
-    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
+  - title: "Facial recognition a new tool for tightening border security"
+    excerpt: "Facial recognition technology is the Department of Homeland Security's new tool for tightening border security. It's getting a three-month tryout at a major airport. Kris Van Cleave reports."
+    publishedDateTime: 2021-04-04T10:31:00Z
+    webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
     type: article
     provider:
-      name: DelmarvaNow
-      domain: delmarvanow.com
-    quality: 59
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
-    excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."
-    publishedDateTime: 2021-04-01T11:02:00Z
-    webUrl: "https://www.wtvr.com/news/local-news/virginia-lawmakers-unanimously-approve-bill-that-bans-facial-recognition-technology"
-    type: article
-    provider:
-      name: WTVR
-      domain: wtvr.com
-    quality: 33
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b57b549/2147483647/strip/true/crop/850x446+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F31%2F0b%2Fb7da1f3a4576ade433e6f0c0c6ca%2Ffacial-recognition-technology2.png"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/04/c804a2d2-6781-4517-ab2b-907b6db2eac8/thumbnail/1200x630/5c2d4f54aee066a998e1a4704e702ba1/en-vancleave-0530-399481-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AnyVision deploys facial recognition access control for New Orleans Saints"
+    excerpt: "NFL team New Orleans Saints are using AnyVision facial recognition for safe, fast and smooth access to training facilities."
+    publishedDateTime: 2021-04-01T21:58:00Z
+    webUrl: "https://www.biometricupdate.com/202104/anyvision-deploys-facial-recognition-access-control-for-new-orleans-saints"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 52
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
 secured: "WVIzDe7iLV3Z/fqw9/0jLnv2lg+21+Nj6tV2xcXMnexsykgT2a+pYwrGCUIwrsnIOao5953/h07yvRcrBbPZsBtBKDb+ScovyAojL+6p6OmJIA3HggOOm1ZJWfVEknhe/9/UIaDwgDdvI4eUtfLw/rL5Cx4OhS5wCqSujJEmMjmqYGBYEB0QTSFskSK2fib2sARHBMn5Q81erulfSJAUKQfBkx6rYVsV0O0wUUBuQsH8dAWMO86fZ3FfbYtfau6vYuWoxWMCURUfP88K2QSFrj2FrJCqOt4aqDrCwwjkZIMpb9X9JKlfhfHP7Ho3iguhR6YtluOhK+TI4leUeEtpGnXDpidEAz0LiTf/w7AB4GE=;Y5m63wF2P+KVJWqDty7cXQ=="

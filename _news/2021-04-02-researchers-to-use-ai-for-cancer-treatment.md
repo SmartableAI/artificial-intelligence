@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore researchers use AI to identify the pH of cancer cells"
+    excerpt: "Using an AI-based algorithm, thousands of cells originating from the ... cell by cell imaging and analysis as they flow through a channel in a microfluidic chip,” said Prof Lim. This can be extended to monitor cancer progression, effectiveness of a ..."
+    publishedDateTime: 2021-04-05T05:55:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/05/singapore-researchers-use-ai-to-identify-the-ph-of-cancer-cells"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/05/1101988.jpg"
+        width: 860
+        height: 573
+        isCached: true
   - title: "AI conferences use AI to assign papers to reviewers"
     excerpt: "By Matthew Hutson Apr. 1, 2021 , 3:30 PM Artificial intelligence (AI) researchers are hoping to use the tools of their discipline to solve a growing problem: how to identify and choose reviewers who can knowledgeably vet the rising flood of papers ..."
     publishedDateTime: 2021-04-01T20:13:00Z

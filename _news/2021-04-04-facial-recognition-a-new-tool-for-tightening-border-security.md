@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-ti
 webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CBS News
@@ -40,6 +40,15 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "Tampa airport to use new facial recognition technology for international travelers"
+    excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
+    publishedDateTime: 2021-04-01T18:24:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2021/04/01/tampa-airport-acquires-new-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "WJtc9vSqLrMa1KicUYaUA8ft/0TLkcclMy4I5XCoaT7gR0ET/ySYTfoG+o/OXTh7tFVeH6EMZ09+NYdy2eMHZdL/rgUpo9GtDMvgnpg5FzZbgY5NJXThrqQpF5YX4+UmbbUUQil/Z7D5hpQw94mflFfMN/MRShMjeHHxr10v2CBFVHo99GbzBdlaewCgG1o8cdVd31Ln4N7gF2whVRtDlcrX/Llp3KjD9Tm5X/YLEBOzoWAeTAGgNKz5nduwqTofUplgcDKfpZpwEi87cnU4hAY03u/mf+bWnr7du4JKvcxdc/wWFRboIWynbUoUQ/Dkjv2Kjg2vab9em3nnr16TlUcWUryqwVRrg9ytNPMcJb8=;Cso5XV9Gq0anFDFaxmqisA=="
 ---

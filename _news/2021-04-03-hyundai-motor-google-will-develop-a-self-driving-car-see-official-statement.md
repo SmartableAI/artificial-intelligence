@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hyundai Ioniq 5 electric car to be used in self-driving robotaxi fleet on Lyft’s ride-hailing network"
-    excerpt: "The Ioniq 5, Hyundai’s new electric car, is going to be used as a self-driving robotaxi in Lyft’s ride-hailing fleet. As an electric car, the Ioniq 5 has checked almost every box for a lot of people when it was unveiled last month."
-    publishedDateTime: 2021-03-31T13:55:00Z
-    webUrl: "https://electrek.co/2021/03/31/hyundai-ioniq-5-electric-car-self-driving-robotaxi-fleet-lyft/"
-    ampWebUrl: "https://electrek.co/2021/03/31/hyundai-ioniq-5-electric-car-self-driving-robotaxi-fleet-lyft/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/31/hyundai-ioniq-5-electric-car-self-driving-robotaxi-fleet-lyft/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/02/Large-45017-HyundaiIONIQ5RedefinesElectricMobilityLifestyle-1-e1614077626664.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 481
-        isCached: true
 
 secured: "IT7DS0/Wr4LlWKd+K5Q3jiFpvduXKdN6z+Li2Ibk+8g37goKje9jiOm4hkWCvcLYGFjZHKt7EigXogPjjgY1w+KlMvjXtyVYONC2+wHz0enyKm9PZ/39+GQgPbcWcZNxbYwdb60Kd1eD2JY7rdHWSjRVDneO+JAIBKVs+G1taSucWlZw/8lzQLouB1iMsefj+aL+2KahozjTSpv+dxNeWsWOxk00Ji6ATsQPLwguWrlgqUUDbcOuI4RPB5F8vtuyx4SYDRB7ewobuIzcOSNULorPEhra5yrMrUwNIvQ+WUms4InZxYbtdcHVyCVPTmGjoAWSnCvM3hYY8XEge5m6b7rhFEX4MhI1DRzK+94EJ1D7D6rYj6BJBWkJIv6k04tGYaXf7JqaDoboBzz/urmLKmNUVGhscE+/gvdvn71P1sLl7/69KZx50nj+vNHRraP1lpSE9HrFXhhZzez2Gg05YZ6AG2hXusjZjy8fM29qHWsiAYy/Cu74i+58qG1oOLVfjR+RLMMWvuD2U/AHu+LIeA==;tz9FcoH8bBfKLWZlqgTQ+g=="
 ---

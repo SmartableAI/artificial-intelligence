@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Resolver's AI-Enabled Security Management Solution"
-    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. \"Our vision is to integrate AI into every step of the incident ..."
-    publishedDateTime: 2021-03-31T13:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20423815/meet-resolvers-ai-enabled-security-management-solution"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20423815"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20423815"
+  - title: "US Military Seeks to Speed AI Adoption for Support Systems"
+    excerpt: "Michael Groen, chief of the Pentagon’s Joint AI Center (JAIC) While current military use of AI “is a step in the right direction, we need to start building on it,” stated Groen, who was appointed head of the JAIC in October. He is the second director ..."
+    publishedDateTime: 2021-04-01T19:09:00Z
+    webUrl: "https://www.aitrends.com/ai-in-government/us-military-seeks-to-speed-ai-adoption-for-support-systems/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-2Pentagon-2.jpeg"
+        width: 550
+        height: 372
+        isCached: true
 
 secured: "odFwqASW7x1rGo49dYlnLYOxou2aK0wx9XyN6rfODuyubDKJwi3eIDOAGba5NgFiHAMc68T3eGZiTSN/yXkKC7krLWWhzScpuG9rWYOL3OUwpYTfX1TLSdd1ISNHc5O+ALJsjDDUmAYyTvM1opDtc358h6k8oDbXrQReR5x2/CoAi0CDM1pJznfXj4IgMSx6njPsZizdW09lgNKHic7Wqs9Wv+oT8YqcjZJ0qeaWfNJu5scSgf/9HC004cN1CBIxo8YLXCgGEiEnXjKscqeFuj6dB8Kv9mZG6zRwyNQJDvt6gP1DEdah0ZuaaqDijx5yfbMAaETe9hz63uSDLAxrBxolBOLWEjcX67MDiW1JrU7V55EJ5QL1GSRSZ3vQOhTl2CFXzlB/KbBNZwXufyMGKERgoA6BDTKmaAM+dBzncPeo5pXKrXfmokFj4X9/T5/esfIC1WUIroueyYXAxcy8KKWsMbvBxRnLAjrYKmDZfzxMdhPCiIF8X0y2SworaeTHugbgm89dVOChc6HpXPWUNQ==;HQ5p1rweint9MeVoiXJr1Q=="
 ---

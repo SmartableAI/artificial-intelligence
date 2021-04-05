@@ -42,6 +42,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
+    excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
+    publishedDateTime: 2021-04-05T07:05:00Z
+    webUrl: "https://analyticsindiamag.com/ai-powered-social-media-analytics-company-circus-social-raises-1m/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Bangalore-based-AI-powered-Social-Intelligence-Analytics-Company-Raises-1M.jpg"
+        width: 2245
+        height: 1587
+        isCached: true
 
 secured: "vUOxIKnghn1pLYY05BBEf1+GcDd/XINe+UtH6x1WEwIpFXoNnAYHKQOvKjeM5VKQJQngthnpAMSP2qNONrl9xvcybqwVq3N0w747DZVR7z/beKDzpxQ2MNOEK+7W16N7shLDYu7C4SXQo0IkMhzCyReEmHZAVtoxhO9MT7CSsvhIabML+4sK+hGkEjfoKOdCp93TQ3+KgiyZSV2EcR4xhYFhrgWRjO7ypP58gyY/BzHiTcfIT6pz9Np/4ZlYDH4Ud26sm63vE2EfVgCa/71mH22gox4N0WuDEmwZNWSZcyXE8dcgf9joR5gDE+H32jyzERs/Rm7EKrvO4VRM3vsUvasb6NHjlR1hifVg9NJeYBo=;JUaBK4EFQGyAAhW5WCN9qw=="
 ---

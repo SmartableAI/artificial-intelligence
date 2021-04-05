@@ -45,29 +45,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Self-Driving Truck Company Plus Upsizes Recent Fundraising to $420 Million"
-    excerpt: "Plus (formerly Plus.ai), a leading provider of self-driving truck technology, today announced it has added $220 million in new financing co-led by FountainVest Partners and ClearVue Partners, with participation from Quanta Computer Inc., Phi Zoyi Capital ..."
-    publishedDateTime: 2021-03-31T13:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-investment-management-8d80713b30ae47b68dd982b005b1acbb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cupertino self-driving truck unicorn Plus adds $220M funding, stays mum on SPAC talks"
-    excerpt: "Self-driving truck startup Plus isn't talking about a report that it's considering going public in a merger with a \"blank check\" company, but is nonetheless rolling up capital at a rapid clip. The Cupertino unicorn on Wednesday said it has topped off a $200 million late-stage funding announced in February with another $220 million in new capital."
-    publishedDateTime: 2021-03-31T13:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/31/truck-unicorn-plus-tops-off-recent-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "xxH4DjYc8sCB4Ozf7b/k8egBEtSy+RmmYppg/2+6VqgA8AccR4PH73bvD2iG89zyRVWGWAikYxA0hhzwG10NzlwlkV1n/4EQ6e0cHROWdytES5U2rXvVqpFaEXQhjkfqnLMz7ReO9GRx8in+6ID3prUjqQSUyN6TCn6l787YgdTDZb9sB8iE2g0HMPILO1Jy4DApoImQ7jFivgtF+InWu1hMWJdFGGfVFQl1UM+MznPRvP+Om0rC+DX3emuFKjZt2w0aYcKoCrYGYB5c7Q6OD2TD9RlGK22JE5dxnn54j8YcvYvenF4RHNWXuJ5rCpazc/bBD+8+Pw9D3Z/71GT2BQKU++wAkJo8PZNWFWAK8biB0vCe7dcPYpYuI/THUbXY6u1uWNLErGCquRiH/8RfKuaXP3NYOn8DLZ11kEodqhztaUrdzSiBWzIwa9GzwohScnZ60/iU0QWrwSdfbDfZOZOtpht9iP/G2tcL6qeT7cjmPklCmjEPNcs+Q3a6PZ0GfqMj3/I+6jP8YZBbPMlBEw==;iFj4tXU/btRaCR+87vQvrg=="
 ---

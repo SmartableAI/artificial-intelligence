@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Company Plus Upsizes Recent Fundraising to $420 Million"
-    excerpt: "Plus (formerly Plus.ai), a leading provider of self-driving truck technology, today announced it has added $220 million in new financing co-led by FountainVest Partners and ClearVue Partners, with participation from Quanta Computer Inc., Phi Zoyi Capital ..."
-    publishedDateTime: 2021-03-31T13:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-investment-management-8d80713b30ae47b68dd982b005b1acbb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
     excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
     publishedDateTime: 2021-03-31T16:15:00Z
@@ -55,15 +41,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Cupertino self-driving truck unicorn Plus adds $220M funding, stays mum on SPAC talks"
-    excerpt: "Self-driving truck startup Plus isn't talking about a report that it's considering going public in a merger with a \"blank check\" company, but is nonetheless rolling up capital at a rapid clip. The Cupertino unicorn on Wednesday said it has topped off a $200 million late-stage funding announced in February with another $220 million in new capital."
-    publishedDateTime: 2021-03-31T13:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/31/truck-unicorn-plus-tops-off-recent-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "jytNtty1ZZcgXtOotpd3SsVVGoQ9Ft5FOezo6ktAVVrDEQ5oOU62cnIs4Jg3jM5+c7K6VI+F1J0seQhGH23/Gh6gS4jtd8Wr5WPorCM1bNUQCh92tupEVw6Vu3t1dZc3eeXKguPkf46GyjmxNMW/sKIRKPKLaunz7smjQD9dV8HjEx+ex61TkdUgfU2sZSMAGDbRzREr/H4Jv/5pQlyQtVYQHmHdwFplm2+W3k51UszzlitvN0JF2ArQkBuYmiplO9Wwj/N+SC+T1U4s0IAFcHKzM2ADl9zjva58eFJHRkOzr8jS4suEhYp0Nq2GlxVES0GyLemnG8bXSpQc62Fi/Hg63ltGbr5YUeYPxxV3nyzfodPT9dXLonByuddcmVondf2f+dOP2SGI3XTqYAb+p+FOQ/9ZJgb7vuXjMjPT+sc6huMrM3jgos97Mrk7Jhe294WmxSaQFvABjIcRt3IHug72QpeTWs5BhFD4AEPiseQkhctmKwP8TjjiC2chpK6+T/bDeQb6Nl4dIQ0ooYY3Yg==;vsZBL4i9yPxrvpkK/DnUZQ=="
 ---
