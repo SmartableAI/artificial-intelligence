@@ -2,7 +2,7 @@
 name: "Signal AI"
 overview: "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v."
 type: "profile"
-heat: 31
+heat: 50
 
 website: http://www.signal-ai.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SignalHQ"
   url: "https://twitter.com/SignalHQ"
-  followers: 2564
+  followers: 2565
 
 size: 51-200 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QWC7T-G_reQ"
 
-secured: "uHl2rfEW8hBbhun1Po3eFko6eZgBjVFLrDyODW3rXkoJ+D5Pj39G/Byk2ZA+UIiPPK9XIzU3gL7grayBOIbgOC5kSANLhkV+3EzVRo2POmYg++S4P59DwZAfvt8uRxXviRCtgUt//e9X5S0mWsMCmZNW17hakGqvT9cRRR2lqfX9Gj2g/z3RVH0c8i22WfqZPpkHJJJ7h2iD+OEnB0TcmutjD1foQguo4Giw0byeajFfeyPEyXu0vb58xYm0BYU/veepqw4KMV92UhizC6Vy2kPhq8pwVBun1owZKFo6jBTJKGQQVUMKoqVZYwl18rSWpOUKdlPD9Ius9nebNr2ZYsjfG6gobKG0g52JoNkyvpTd6obP23b2aLdC5WuZ6qAXVYYEMvcr7t4PTXTxAbkDaTIIq6I+FOXzU8HfXl+gUb4=;zxZuSooLB6enLtCMNEv0kg=="
+secured: "F1uLAtxJkQQ24r+7LP9DHiPLGpmxhHuKByOUf0R1TM+8+jwjpld0PyZEU3JHslUM3vSiymLuXR7wbvFaWyxUFLCdgb0t+WxNiIHNniavuNPgIWJzntBBl+wZYzqpX3YWWkoSmH/rqwtrmc9qogwqdeVb9z/q1Ji4wi64rv6962QgZZVDl1D94x93hdkB4vLcPITpoRAEHm8YOn+ch99KWZ67DBnmtehjjrZf69r9/jQABPMP7vI/yv40XVcKZ+/Ko11AwbXIvq0VSTa2ptrp+QIp6Y53Kk4q8WousHxjK0dsAnbOJNkFdjEmLVwtm+WoIYR7wKcczEreAV7PX5UueiXamQcmWrF7VDR9C2LV7FY8fsb6LJ9I9LxGkptsgjNWbCVebKv/Cx2JTgXIMDTMZUbheMi5zSnHBaB6uRF2ci4=;ZhuKg+4f3TJOHK/q3Fy6hg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Drive.ai"
 overview: "A modern machine learning company dedicated to revolutionizing diagnostic healthcare"
 type: "profile"
-heat: 89
+heat: 65
 
 website: https://www.drive.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "driveai_"
   url: "https://twitter.com/driveai_"
-  followers: 9056
+  followers: 9057
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YJe8ELIU7_E"
 
-secured: "PyjpWzj8hmAIuDMJ54Y6IONl0AW2NMxK8feMRZ5vM91IADjRsYpy5488uL86E60xeG7uzrCqEkhuzQN0gYo6qt5X1Ge+4uSIyWSOkjkiX2opPS1FxM2nY4lHAnxAAkjSdtQYjVZjLLXWb/tK95uBT+Wy7c5OK5FeKahZcOcTaUb2rO5M1A+1F3lyLLZp7ahvfh9RCeUI82Z085RsNQUfBlsTy54dUp7X4jgT2maIrt+h6bptylsdDwbrMEQnJBckSqfeDA8IEPouo/pzEaQgaCcMjTf2ekPUgLExofRon3DAV/P3er0sgaeK6SAhB+2P4QxgI4DjwoRhofC1XR+Iznss4e9iUv2Dua91zXEusJi8kxXqsnROP2rAoXP8G49qlHTga2ZOUU8Htef/geU5i91eMvnT2tAn7qcPG8G2T44=;4vc47W4pBpJv6kQALSiyPw=="
+secured: "3Rgh1wF02/taCeGCp/ebOqIkb0odDq3efUTmYkUxUpCHhH9qJbIdzg3w+Beo3ETMACCBTB/Xd1I04yjK+LynzzQlZG5nZEGwQkbQXpl29oUJ2hEIigqSQ4zrNvMUgxbMMaDmtJYNCIv038iQqjUa0obyXEYoUnI7J4jPX4dLnY/RbFls6bWOa7NF18Yss5yplFh1Om1TK6/kYZzLTicR+IwKUG4JBaY/5Y02dTMP4jgh8WxpOsQQlrQTcjZh8xVA+pnwujvNlj0uzeUwrE3mclzMNOnTDUVjpjNVcXCpaRcLUSp+C8JxnavPHcCh5XFM6F1+ZSVx0RqdlKmqsikXs4il/JA11B4CoVoi3R/VD3RA4F6sOTQa/Cv4AWAMTlQD/PV/73KNShKBzEgm3PVXymw3uZUSM/3XfEZgFfPXP6w=;MsnkjejssQZSPh3qfACpWQ=="
 ---
 
