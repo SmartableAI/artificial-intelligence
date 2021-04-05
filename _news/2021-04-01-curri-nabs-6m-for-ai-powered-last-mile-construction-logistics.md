@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,26 +30,10 @@ images:
     isCached: true
 
 related:
-  - title: "Windfall nabs $21M for AI that aids nonprofit fundraising"
-    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Windfall, a startup developing an AI platform to help nonprofits engage donors, today raised $21 million in ..."
-    publishedDateTime: 2021-03-31T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/"
-    ampWebUrl: "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Windfall nabs $21M for AI that aids nonprofit fundraising"
-    excerpt: "Windfall, a startup developing a data science platform for nonprofits, has raised $21 million in venture capital.Read MoreRead more on 'VentureBeat'"
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/windfall-nabs-$21m-for-ai-that-aids-nonprofit-fundraising-9972957"
+  - title: "Curri nabs $6M for AI-powered last-mile construction logistics"
+    excerpt: "Curri, a logistics startup focusing on the construction industry, raised $6 million in a series A funding round.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-04-02T03:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/curri-nabs-$6m-for-ai-powered-last-mile-construction-logistics-9978200"
     type: article
     provider:
       name: Business Insider

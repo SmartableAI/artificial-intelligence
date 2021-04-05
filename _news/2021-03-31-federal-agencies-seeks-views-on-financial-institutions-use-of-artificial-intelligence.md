@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An AI revolution is about to transform your cup of coffee"
+    excerpt: "Startup Demetria analyzes coffee-bean characteristics to ensure a perfect cup of joe while cutting costs and uncertainty along the supply chain."
+    publishedDateTime: 2021-04-05T04:31:00Z
+    webUrl: "https://www.israel21c.org/an-ai-revolution-is-about-to-transform-your-cup-of-coffee/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/03/taylor-franz-GJogrGZxKJE-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "2+kUA109cPn2lMVD4j/Sp16KAYyw+iknqpCjkarroNOBN3Z/BfxgVf6QjMWhSDESry+ILRXSjWfnyq7Rek6Tk77755zjzxvQIO2M4U31A3YmTMPN0yZrpssjaZ6ruOsshq7QlSdQDa2GfNJHtroquJjFnog6Bgz589U2GLxw887hYfPIwtpMrnJ5091bQMill9lJEHz+IOx+bIRs/liK1p/K2zrsnnZwo8HEdZ5gmYi/ktde/kCDFpPAPaILzXYHG2966x+FQrvEMgUxW6IZtpDosjgoadcjJ9roF/g1NSOO3K/2pGEByb4ra73oYGJZ2jNCr2pVoWzrJhvgeZbI1GolVWby68qSbyHWdj7VuNw=;TZIUU++B41uJ0mcWMsZBcg=="
 ---

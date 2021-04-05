@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-inst
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "An AI revolution is about to transform your cup of coffee"
+    excerpt: "Startup Demetria analyzes coffee-bean characteristics to ensure a perfect cup of joe while cutting costs and uncertainty along the supply chain."
+    publishedDateTime: 2021-04-05T04:31:00Z
+    webUrl: "https://www.israel21c.org/an-ai-revolution-is-about-to-transform-your-cup-of-coffee/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/03/taylor-franz-GJogrGZxKJE-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Federal agencies seeks views on financial institutions' use of artificial intelligence"
     excerpt: "Five federal financial regulatory agencies are gathering insight on financial institutions' use of artificial intelligence (AI)."

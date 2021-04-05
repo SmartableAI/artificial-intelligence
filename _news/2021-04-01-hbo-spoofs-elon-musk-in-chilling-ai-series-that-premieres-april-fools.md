@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 Top Artificial Intelligence Stocks to Buy in April"
-    excerpt: "Artificial intelligence can add a much-needed shot of predictability, efficiency, and flexibility to business operations, making it a hot item in the software realm right now. Plenty of tech stocks got clobbered in March."
-    publishedDateTime: 2021-03-31T11:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
     excerpt: "About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender, customized for every business and event. Powered by conversational AI and voice recognition abilities, Cecilia is not your typical bartender."
     publishedDateTime: 2021-04-01T11:05:00Z

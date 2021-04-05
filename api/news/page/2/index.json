@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-02-ai-in-drug-discovery-starts-to-live-up-to-the-hype.md",
-      "title": "AI in Drug Discovery Starts to Live Up to the Hype",
-      "excerpt": "Machine learning–based techniques are finding a place in early-stage target discovery and in drug development workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "originalUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg",
-          "width": 1400,
-          "height": 909,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "publishedDateTime": "2021-04-02T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
       "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
       "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
@@ -512,7 +468,7 @@
       "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -852,6 +808,57 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-curri-nabs-6m-for-ai-powered-last-mile-construction-logistics.md",
+      "title": "Curri nabs $6M for AI-powered last-mile construction logistics",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Curri, a Y Combinator-backed logistics startup delivering construction supplies and materials, today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "publishedDateTime": "2021-04-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-researchers-develop-explainable-artificial-intelligence-algorithm.md",
       "title": "Researchers develop 'explainable' artificial intelligence algorithm",
       "excerpt": "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ...",
@@ -892,6 +899,57 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-device-monitoring-and-management-startup-memfault-nabs-85m.md",
+      "title": "Device monitoring and management startup Memfault nabs $8.5M",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Memfault, a startup developing software for consumer device firmware delivery, monitoring, and diagnostics ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
+      "publishedDateTime": "2021-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -955,7 +1013,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -995,57 +1053,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis.md",
-      "title": "IBM and Red Hat form strategic partnership with process mining startup Celonis",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. (Reuters) — Celonis, a fast-growing German process mining software startup, has struck a strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-4-e1616162193769.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/",
-      "publishedDateTime": "2021-04-01T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

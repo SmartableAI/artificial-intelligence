@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘We need to be specific to address the issues of AI ethics’"
-    excerpt: "AI consultant Catherine Breslin discusses the ‘broad umbrella’ of AI ethics and some of the major trends occurring in the AI industry. Machine learning scientist Catherine Breslin specialises in research and development in the area of voice and ..."
-    publishedDateTime: 2021-03-31T12:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/we-need-to-be-specific-to-address-the-issues-of-ai-ethics"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2015/05/Catherine-Breslin.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "9 recent studies that show the potential of AI in healthcare"
     excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
     publishedDateTime: 2021-04-01T20:27:00Z

@@ -99,50 +99,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-02-ai-in-drug-discovery-starts-to-live-up-to-the-hype.md",
-      "title": "AI in Drug Discovery Starts to Live Up to the Hype",
-      "excerpt": "Machine learning–based techniques are finding a place in early-stage target discovery and in drug development workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "originalUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/April_2021_GettyImages-925425860_ArtificialIntelligence.jpg",
-          "width": 1400,
-          "height": 909,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/insights/ai-in-drug-discovery-starts-to-live-up-to-the-hype/amp/",
-      "publishedDateTime": "2021-04-02T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
       "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
       "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
@@ -299,7 +255,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1391,6 +1347,51 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-healthcare-providers-globally-are-applying-aws-ml-services-to-store-data.md",
+      "title": "'Healthcare providers globally are applying AWS ML services to store data'",
+      "excerpt": "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "originalUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg",
+          "width": 575,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "publishedDateTime": "2021-03-21T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-15-artificial-intelligence-in-healthcare-market.md",
-      "title": "Artificial Intelligence in Healthcare Market",
-      "excerpt": "This Artificial Intelligence in Healthcare Market report acts as an excellent market report because it is produced with the several critical factors. Artificial Intelligence in Healthcare Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2242677/artificial-intelligence-in-healthcare-market-2021-2027-future",
-      "originalUrl": "https://www.openpr.com/news/2242677/artificial-intelligence-in-healthcare-market-2021-2027-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U215908646_g.jpg",
-          "width": 700,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2242677/artificial-intelligence-in-healthcare-market-2021-2027-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242677/artificial-intelligence-in-healthcare-market-2021-2027-future",
-      "publishedDateTime": "2021-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-15-mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person-centered-care.md",
       "title": "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care",
       "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of",
@@ -1378,6 +1335,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players.md",
+      "title": "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

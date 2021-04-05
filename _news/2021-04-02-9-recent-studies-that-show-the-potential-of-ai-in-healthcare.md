@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘We need to be specific to address the issues of AI ethics’"
-    excerpt: "AI consultant Catherine Breslin discusses the ‘broad umbrella’ of AI ethics and some of the major trends occurring in the AI industry. Machine learning scientist Catherine Breslin specialises in research and development in the area of voice and ..."
-    publishedDateTime: 2021-03-31T12:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/we-need-to-be-specific-to-address-the-issues-of-ai-ethics"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2015/05/Catherine-Breslin.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "4rvjJ+sN/QcPhQCytNGVUVo6y+iFvb4S9BulGzhM0jbjkF4NBOIiDre2v+KxRa8eZ2F7Blh8Mj23bdgEIDhpSAiZ1VPR9a74KsHA4QFRvlFoPXV9CEVSomCzIw3HyAZdrO6cy6BiPoyDK1e9mmiMu52At+lvvlZ8AjFl1BhyufrxevpK9XAiKuPcjr3ZCmCf6RbWx+eJKAcIbKEZITSS4uu0fJRSauU+KGFFF2asW0E+A77N0sYv+x/QDWvKYKhbFzC/re2QQTIfkKnM/6Y/gQke750QFvRYaCWcKKnvAIU+EgfAjyw1ZrZWzATufIQMCy+dVxzzS1waAy0qu7dTOjBoSeqATAaHxsUgnF3EXVk=;PZaAyMwYRcF07wv04Hv7xw=="
 ---

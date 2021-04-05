@@ -7,7 +7,7 @@ originalUrl: "https://www.autoremarketing.com/autofinjournal/5-federal-regulator
 webUrl: "https://www.autoremarketing.com/autofinjournal/5-federal-regulators-taking-greater-interest-artificial-intelligence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 3131
     height: 3750
     isCached: true
-
-related:
-  - title: "New Research Indicates ProFound AI May Reduce Interval Breast Cancer Rates"
-    excerpt: "The results further stress the importance of our ProFound AI platform as a world-class artificial intelligence (AI ... innovative cancer detection and therapy solutions. For more information ..."
-    publishedDateTime: 2021-03-31T12:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-research-indicates-profound-ai-may-reduce-interval-breast-cancer-rates-1030263231"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "eKk6ZIK5yEzjQLHR6l3u65wIyh7nRNRXTZ2cmbmBRqMeXmW/fwf/dU5CcHDcpiadLR7xg/YXR+pqTZf9xY4nr8MmwOrmGad7hfLEl+LL4E8WNLGi84RvnobfUKBqNu5ClhV3+nAYPMZBP64xytnlrWUQUk5ovmM43+HGmgOapJocnStI9pLMWslag/+MnLeSZX2Pa+Lw5DrEDdOZYRjidgxODXFnLj1WX5m1MB4+/rH0Ho9Zpx88WoHGeuVHCGAYMeESu2NXT7xoVf8vCOl3ZaoEoPaODbXUOoWW6jgfeGzqwR+AVvtONR5igLT2QFMvGJds7YiZCZQVxjif/NqXimuT8U6+ZtcMxq3j2ZcCY60=;QDNddm7zmoWFRdFdN+WzwA=="
 ---

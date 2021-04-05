@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An AI revolution is about to transform your cup of coffee"
+    excerpt: "Startup Demetria analyzes coffee-bean characteristics to ensure a perfect cup of joe while cutting costs and uncertainty along the supply chain."
+    publishedDateTime: 2021-04-05T04:31:00Z
+    webUrl: "https://www.israel21c.org/an-ai-revolution-is-about-to-transform-your-cup-of-coffee/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/03/taylor-franz-GJogrGZxKJE-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Federal agencies seeks views on financial institutions' use of artificial intelligence"
     excerpt: "Five federal financial regulatory agencies are gathering insight on financial institutions' use of artificial intelligence (AI)."
     publishedDateTime: 2021-03-31T16:29:00Z

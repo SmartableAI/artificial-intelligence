@@ -2,6 +2,102 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-15-vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.md",
+      "title": "VMware, Nvidia offer GPU-powered AI in virtual machines",
+      "excerpt": "VMware and Nvidia have expanded their alliance to support Nvidia GPU-based applications on VMware's new vSphere 7 Update 2. The upgraded version of vSphere 7 will support the new Nvidia AI Enterprise offering, a suite of enterprise-grade AI tools and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "originalUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/nvidia-a100-stock-100842030-large.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "publishedDateTime": "2021-03-15T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Size to Witness Huge Growth by 2026",
+      "excerpt": "Selbyville, Delaware Global Artificial Intelligence (AI) in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) in Automotive Market Report also covers top key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-alibaba-backed-chinese-ai-firm-megvii-to-go-public-in-shanghai.md",
       "title": "Alibaba-backed Chinese AI firm Megvii to go public in Shanghai",
       "excerpt": "It is one of the first companies to launch an IPO after filing for a Chinese Depositary Receipt offering on Shanghai’s Star board.",
@@ -1066,110 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
-      "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
-      "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604cb18fd5d6f97db3738c30%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D167%26cropY2%3D2868",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "publishedDateTime": "2021-03-13T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-google-lens-how-to-master-googles-super-useful-ai-camera-app.md",
-      "title": "Google Lens: how to master Google's super-useful AI camera app",
-      "excerpt": "Google Lens is what you get when you feed the giant mountains of data from other Google services into a camera app. Point your phone at a product and Google Lens will find out what it is, and how much it costs online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/google-lens-how-to-master-googles-super-useful-ai-camera-app",
-      "originalUrl": "https://www.techradar.com/nz/news/google-lens-how-to-master-googles-super-useful-ai-camera-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UW2JeGQL5vAtUGQcBhENbZ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

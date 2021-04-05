@@ -19,30 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck startup Plus raises extra $220 million"
-    excerpt: "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future."
-    publishedDateTime: 2021-03-31T12:31:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp"
+  - title: "Self-driving truck developer TuSimple files plan to go public"
+    excerpt: "TuSimple, which is developing self-driving truck technology in Tucson, has filed for a proposed initial public offering of stock with the aim of trading on the Nasdaq Stock Market. But the ..."
+    publishedDateTime: 2021-03-31T21:45:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Self-driving truck startup Plus raises extra $220M"
-    excerpt: "Plus' rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on a historic boom in U.S. capital markets. Please enter a valid email ..."
-    publishedDateTime: 2021-03-31T12:55:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-plus-raises-extra-220m"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 44
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54plusai-05_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/f8/5f83028b-5067-508a-9053-a6e0157dba87/6064eacd13914.image.jpg?resize=1024%2C540"
+        width: 1024
+        height: 540
         isCached: true
   - title: "Self-Driving Truck Company Plus Upsizes Recent Fundraising to $420 Million"
     excerpt: "Plus (formerly Plus.ai), a leading provider of self-driving truck technology, today announced it has added $220 million in new financing co-led by FountainVest Partners and ClearVue Partners, with participation from Quanta Computer Inc., Phi Zoyi Capital ..."
@@ -58,33 +49,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Autonomous truck startup Plus raises $200M, explores public listing via SPAC"
-    excerpt: "Autonomous truck startup Plus has raised $220 million in new funding and is reported to be in talks to go public via a merger with a special-purchase acquisition company. Reuters reported Wednesday that the company is in advanced talks with a few SPACs over a deal,"
-    publishedDateTime: 2021-04-02T03:24:00Z
-    webUrl: "https://siliconangle.com/2021/04/01/autonomous-truck-startup-plus-raises-200m-explores-public-listing-via-spac/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/plus.jpg"
-        width: 3000
-        height: 1875
-        isCached: true
-  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
-    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
-    publishedDateTime: 2021-03-31T13:42:00Z
-    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+  - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
+    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark's autonomous technology onto their vehicle platforms."
+    publishedDateTime: 2021-03-31T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 33
+    quality: 34
     images:
-      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "YLw0CdEHx8LQqo692OMgN7hdf0ne7MJ6xc49OTqnD1k2x+78j80RU4a+hVWgbv7YtfDJeBdJmmXWofy5FzhRq/iCmBk2bTIvpUSQNqBMdhPfpeIYns7c1IgpIV8yfDk6C/TZcmcPSd0INpIyPRCM+FgHhZ4GF/x9nAAvBCmwSnXWTbtZynbaL6kSCVA+kEeoz0PCSEdzNp5plysJL6tev1ZTLJr3uri4uTkC6gnBlhBeybg0AiKRhV0Vds9CE6hjS0fCR36hrjfADV97gbDIiHaSK/xReGt000ZE9ZHSAB4DPep/b8+YYVYQM2OO21k0rrjwLKeUJXRdFbwG933nUqJgidlItkSy8s2Z/0MNAX7Kg1fPtZDID6z2vRdl4gTsnR/1jjsuZHXnMlKutmAEOq7Oad75/57Ey3vgzE+CepctM196x7noFnfanBlJjX9QTqCxIumqQl71bduCu+xdXBbpdGeWo9q6Ck7KsZSiOHp+sdPQPudofNVYSSG5uISkzbZunfMZyMycDsGY/YoOkQ==;D3GDz8k4ply0FF5zvxPXpw=="

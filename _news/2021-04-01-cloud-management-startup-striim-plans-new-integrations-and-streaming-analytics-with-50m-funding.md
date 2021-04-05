@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Red Hat form strategic partnership with process mining startup Celonis"
-    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. (Reuters) — Celonis, a fast-growing German process mining software startup, has struck a strategic ..."
-    publishedDateTime: 2021-04-01T08:49:00Z
-    webUrl: "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/"
-    ampWebUrl: "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/"
+  - title: "Device monitoring and management startup Memfault nabs $8.5M"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Memfault, a startup developing software for consumer device firmware delivery, monitoring, and diagnostics ..."
+    publishedDateTime: 2021-04-01T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/"
+    ampWebUrl: "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 68
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM-4-e1616162193769.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "NTR+WHQfH6QM/XNYU/NHzLfUcAHxDfWRFwtMUCryOgMoi3wHRKS/iTuZqxyLvt4mL1+zSbiMjlR3ZSgnjcYz5f5K/x0bbilmVmOPRDX0h3kMNFUzccnsjrMl/0JChlbncPzVDIGJbNsGvW90/JEdUzMxxhKXVvbABpTZK0Yl8aB2g/vtd/xC73Z+GEsHPoTYdzwAeyYXiCf2gFfYdOfXdQ7cYHOFAzXxtEM+8j8CgWmdRBYe3+LWPtOC1d+Ptq2PHBqFMiTE/nnXkIBsdsGynY+jXawGRMczyeMjJO2Yzw2zo7qTWGEKC3o8gYnN8POcl5zc2SSFxGuTSI+icev93cxTbF3SfRVYYCpa/1m28+AFB3HLMRBnElNX4TkmwflsXGRzDzL1//a6nMsdnvpiym07pTfldwrJ+Kuqydnlvv086zcLqMVPCF9Dr8T/J4ZIr7CAc71UWFBwul9xPsGUOmcLYMV0JwoIaML0TMwtWAICbyurD5voO9tOaKBhUO0DwNtXVA+o9ZiG7LB49Fiuww==;0/t4J08TV6HRLnJi0i841Q=="
