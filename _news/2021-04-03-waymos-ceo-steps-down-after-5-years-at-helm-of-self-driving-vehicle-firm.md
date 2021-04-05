@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Alphabet Waymo self-driving unit CEO stepping down"
-    excerpt: "WASHINGTON (Reuters) -The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more ..."
+    excerpt: "The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives."
     publishedDateTime: 2021-04-02T16:59:00Z
-    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5"
+    webUrl: "https://www.reuters.com/article/us-waymo-ceo-idUSKBN2BP1B5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5"
     type: article

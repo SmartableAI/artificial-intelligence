@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robo-Taxi Market Outlook, Industry Analysis and Prospect 2019"
+    excerpt: "The Robo-taxi (self-driving taxi) could ultimately take the global auto industry ... Navya, Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and sustainable mobility service ..."
+    publishedDateTime: 2021-04-05T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-robo-taxi-market-outlook-industry-analysis-and-prospect-2019-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
     excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
     publishedDateTime: 2021-04-01T06:58:00Z

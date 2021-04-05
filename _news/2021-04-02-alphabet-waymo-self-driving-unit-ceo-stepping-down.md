@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Alphabet Waymo self-driving unit CEO stepping down"
-excerpt: "WASHINGTON (Reuters) -The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more ..."
+excerpt: "The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives."
 publishedDateTime: 2021-04-02T16:59:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKBN2BP1B5"
+originalUrl: "https://www.reuters.com/article/us-waymo-ceo-idUSKBN2BP1B5"
+webUrl: "https://www.reuters.com/article/us-waymo-ceo-idUSKBN2BP1B5"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5"
 type: article
@@ -255,6 +255,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "8WqEi5b5lg5EErip63NyybwfsbPNk0K2D0KETWNXDn8A/AbAaAdqVvtnWhdXjrR0GZ+NUdXEosizqyE5eaRNnjOk3cuGs8q3QZqENWhg5n+iN1NoP9lRs3hWyMkd6NkHdv7NMfmmR88lKgo6ULoSOy0CEBgyOVIQaEdycPTpW/ZteDUKgwQDQOo8Wh+45vldsd2TbOQX6jqiXX84vJWC1yhBi3FycWJL5s9juBhSBP1OgEX17vZzFd7iOQyBQqlLy73AbegRuvSdrmFfBzkhA3frxyNRae3B0fpW+NO4axTT1AM23BydyaopMnV9Dh4comzVX0rn8SP5nDq4ucdjKJnwK2MgJW4Vg7Lfquq9E6GCWXYjY9oMBjxqbbiRRlsquBbR5jwUJHS/zjqcBKrU1Q1EQAi53rkq+Yse0A+cgYTdFVbmbtXO1kZ/Ye8FY6WiX/IB48BamYSyAopXKq7DykdHwIHIzbZvXO5papZr8ZvZgZwiEGGPxlKOXB49B25IhcZ0WzR54VMhJ9EZRZRcMQ==;CpajlaoGnEzNWw4ycIcyQw=="
+secured: "xvJ7nZaFyNM7KdPm17zeU9z/YJbYhn60BPSTPPCO9S1MPc7qmmP5sPd0VPg90b8lmeKHC1m3plEQ0xMS8jUmv+AB1stxBaeOsf5/WEHxPjDT9VgIIQ3qcsJQmm5eyvo8zrazqUIMb1Px9Dlk76ULdMuV/FfumV4I2svumW+4h18R+JV0Dsau6MHGwfnbCZdj+86Fmo0Mzj+aSE/P2f/Q0TBkCyQ0chR27qFpgB8wls+OmMTST7pjUdWHC8MO3ce1t84RVYGpnIdBZb+whE6h6cgI+OSYR2KQuI2jTqxkFucfIBSz+tdsbosOa0wEReUb/rlWX6WYxWl52A/9OtRasBDigOmbCMgbg0pyH4YBzhY=;1Q2FPxx+KdrVKGLwMAC/9g=="
 ---
 

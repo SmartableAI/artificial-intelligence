@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves.md",
+      "title": "Self-Driving Cars As Bait Cars To Catch Those Dastardly Car Thieves",
+      "excerpt": "Shifting gears, we might ponder the future of cars and how the nature of a bait car activity might take place once there are self-driving cars prevalent on our roadways. Today’s interesting question is this: Might AI-based true self-driving cars be used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60061cb0d96d6a22f3a3edb3%2F0x0.jpg%3FcropX1%3D384%26cropX2%3D5467%26cropY1%3D0%26cropY2%3D3547",
+          "width": 1199,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/",
+      "publishedDateTime": "2021-03-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
+      "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
+      "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
+      "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
+      "publishedDateTime": "2021-03-23T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-baidu-debuts-on-hong-kong-stock-exchange.md",
       "title": "Baidu debuts on Hong Kong Stock Exchange",
       "excerpt": "Baidu says it plans to use the more than 3 billion dollars raised to develop artificial intelligence and self-driving technology. This is the latest in a string of US-listed Chinese companies ...",
@@ -1335,102 +1439,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-baidu-seeks-up-to-us36-billion-in-hong-kong-share-sale-as-fundraising-in-city-reaches-a-record-in-first-two-months-of-the-year.md",
-      "title": "Baidu seeks up to US$3.6 billion in Hong Kong share sale as fundraising in city reaches a record in first two months of the year",
-      "excerpt": "Baidu has signed strategic agreements with 10 carmakers to power their passenger vehicles with the Apollo self-driving technologies. It also plans to use some of the proceeds on upgrading its Baidu mobile app and related ecosystem, which had 544 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/28193f29-27ac-4509-948e-ebbd7962e2e1_5740b6b8.jpg?itok=SqDO47bL&v=1615521028",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "publishedDateTime": "2021-03-11T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
-      "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
-      "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
-      "originalUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG",
-          "width": 6192,
-          "height": 4128,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

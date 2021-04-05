@@ -2,6 +2,281 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
+      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
+      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "publishedDateTime": "2021-03-30T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
+      "title": "DALL-E: OpenAI's new neural network wonder",
+      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
+          "width": 1134,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "publishedDateTime": "2021-03-30T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-v9-sets-its-sights-on-ai-and-specialized-computing.md",
+      "title": "Arm v9 sets its sights on AI and specialized computing",
+      "excerpt": "AI, and what it calls specialized computing. The UK-based Arm, now under the ownership of Japan’s SoftBank Group, doesn’t make its own processors. It instead licenses designs and IP to the likes of Qualcomm and Apple who then make actual chips for use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "originalUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/arm-chip.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "publishedDateTime": "2021-03-30T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-please-dont-make-me-eat-the-google-ai-cake.md",
+      "title": "Please Don't Make Me Eat the Google AI Cake",
+      "excerpt": "Friends, I’m not typically a picky eater. But there’s something about Google’s new AI-generated cake recipe that... makes my skin crawl just a bit.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
+      "originalUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/x6mrcedvgrv2yg76fdlv.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
+      "publishedDateTime": "2021-03-30T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-as-big-tech-enters-the-race-pe-vcs-look-for-next-big-thing-in-chinas-growing-ev-market.md",
+      "title": "As big tech enters the race, PE-VCs look for next big thing in China’s growing EV market",
+      "excerpt": "Lightspeed China also invested in self-driving truck startup PlusAI ... On January 11, internet search giant Baidu also announced its plan to build a new venture for intelligent passenger EVs. It entered into a strategic partnership with auto maker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
+      "originalUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/electric-vehicle.jpeg",
+          "width": 1618,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dealstreetasia",
+        "domain": "dealstreetasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-buy-the-dip-in-c3ai-stock-as-artificial-intelligence-takes-over.md",
+      "title": "Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over",
+      "excerpt": "Stock Advice & Trading Tips The post Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over appeared first on InvestorPlace. SEE ALSO: Deliveroo cuts its IPO listing price to the bottom ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "publishedDateTime": "2021-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
       "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
       "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
@@ -941,299 +1216,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform.md",
-      "title": "Capitolis lands a16z-led $90M Series C for fintech SaaS platform",
-      "excerpt": "To date, the startup says it has optimized $9 trillion in terms of gross notional balances. AI fintech products are operating at scale and investor interest is maturing Alex Rampell, partner at ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/money-explosion-gradient.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "publishedDateTime": "2021-03-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots.md",
-      "title": "Google spinoff Cartken and REEF Technologies launch Miami’s first delivery robots",
-      "excerpt": "Self-driving and robotics startup Cartken has partnered with REEF Technologies, a startup that operates parking lots and neighborhood hubs, to bring self-driving delivery robots to the streets of downtown Miami.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/nbrhd-reef-cartken.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
-      "publishedDateTime": "2021-03-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-ambi-robotics-raises-61m-in-seed-funding.md",
-      "title": "Ambi Robotics Raises $6.1M in Seed Funding",
-      "excerpt": "based company that emerged from stealth to introduce AmbiOS, an advanced robot operating system based on simulation-to-reality artificial intelligence (AI), raised $6.1m in seed funding. The round was led by Bow Capital, Vertex Ventures and The House Fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/ambi-scaled.jpg",
-          "width": 2560,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-volvo-and-aurora-team-up-on-fully-autonomous-trucks-for-north-america.md",
-      "title": "Volvo and Aurora team up on fully autonomous trucks for North America",
-      "excerpt": "Volvo is partnering with self-driving startup Aurora on a new lineup of fully autonomous semi trucks, the companies announced. The trucks will be deployed in North America on highly frequented hub-to-hub routes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership",
-      "originalUrl": "https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/W-TOPdTl96l4NHfkolOz88BfPdg=/0x0:1260x700/1400x933/filters:focal(530x250:730x450):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69047938/Volvo_Blog_Cover_1260x700__Rendering_.0.jpg",
-          "width": 1260,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership",
-      "publishedDateTime": "2021-03-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-6sense-raises-125m-at-a-21b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform.md",
-      "title": "6sense raises $125M at a $2.1B valuation for its ‘ID graph’, an AI-based predictive sales and marketing platform",
-      "excerpt": "AI has become a fundamental cornerstone of how tech companies are building tools for salespeople: they are useful for supercharging (and complementing) the abilities of talented humans, or helping them keep themselves significantly more organised;",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1185849291.jpg?w=1024",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/amp/",
-      "publishedDateTime": "2021-03-30T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],
