@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
 type: article
 quality: 77
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How AI Revolutionizes Mental Healthcare Space?"
-    excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
-    publishedDateTime: 2021-04-01T13:59:00Z
-    webUrl: "https://www.cioapplications.com/news/how-ai-revolutionizes-mental-healthcare-space-nid-7466.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/0f8ru450308hytu.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "9 recent studies that show the potential of AI in healthcare"
     excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"

@@ -43,20 +43,6 @@ related:
         width: 1199
         height: 682
         isCached: true
-  - title: "Self-Driving Cars That Are Jinxed"
-    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
-    publishedDateTime: 2021-04-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Opinion: Regulators need the wheel with self-driving cars"
     excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
     publishedDateTime: 2021-04-05T02:10:00Z

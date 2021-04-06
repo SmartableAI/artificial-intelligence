@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-sta
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 800
         height: 555
         isCached: true
+  - title: "Softbank to buy $2.8 bn stake in Norway robotics firm"
+    excerpt: "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore in a deal ... world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. The deal values AutoStore ..."
+    publishedDateTime: 2021-04-06T07:35:00Z
+    webUrl: "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 54
 
 secured: "2IX/UKWQjBjIUcJUd9IkRt36SQ3T5kpYge6FW4k+zOQ5dI8LobHJO7SKIstlMESEvJTD3wJSRIvolGLcIpcZXocm0kWk0nkFX4p/qWWCLy+RFerwFH1pbRRRVIFL2xmoZlUAhHc+XIEwDVA845Pk8TCyr4zxiJiTjCZfTVRx7MqAFW/LqRrlJaHjgIMc9JKFBtz2V5zQpKozSJJ9cYwOM8UnPQgXi/1YZ1vosat1GruIZcwXso1UNVdyC/Wd4f6zs3E1o6ITGApdLnT0UNQR3f2aa7ADdCa+QsAuo7+jRDsx2WGOz9bd9KJTv3PdBbzWOloqqZl0QuXNzlF+Asg1hnvCVM0CHFAhMHFYw4aWnO0=;Xv5nbNwDvn3U7X32u63FQg=="
 ---

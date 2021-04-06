@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US regulators are seeking info on AI in banking, and that could be good news for banks"
-    excerpt: "US banking regulators, including the Fed and Federal Deposit Insurance Corporation, are seeking information on how banks use AI."
-    publishedDateTime: 2021-04-01T13:20:00Z
-    webUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/6065c74ddaf0f10018f996b2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The AI Revolution Could Send These 2 Stocks Higher"
     excerpt: "The AI market was valued at $9.5 billion in 2018, over $27 billion in 2019, and is projected to exceed $250 billion in 2027. AI refers to the use of data to simulate human intelligence processes including learning,"
     publishedDateTime: 2021-04-04T18:38:00Z

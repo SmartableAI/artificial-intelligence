@@ -35,20 +35,6 @@ related:
         width: 1199
         height: 682
         isCached: true
-  - title: "Self-Driving Cars That Are Jinxed"
-    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
-    publishedDateTime: 2021-04-01T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple chief Tim Cook talks of self-driving cars"
     excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
     publishedDateTime: 2021-04-06T01:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-
 webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
+    excerpt: "Frost & Sullivan's white paper highlights the process of creating an AI strategy for your imaging departmentSANTA CLARA, Calif.,"
+    publishedDateTime: 2021-04-06T06:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "aHnkej7XbcIgRyNHKkcd9frHCJF0ZH3k1U+YVT/yMsOm0cOuDAXltPpetrhQ2GeB2d8O10AVt03NYtE4pku37564kMCgQAPq/+VSFstprSG2FO4Q0kJSOPcGA4c0pIbGpkxjUj9pJS4UviM+ipmN7hLiTUsYdhh74aUOM7W6Rwc0swz7SDS32HQEaAd3BEPzpcLt4TdLPY9Bt9FC94E3eB/bUt/TTVoJfoOhTkeGj2QUPzkqjOmfx4bmpsLZDPjmp1EnLhga/goXX6ucD9++weL+dPLVar/f3hbtgLZBphbnIs5fj422UvAQZpRK2B7jgFhliUtPxBk+lldohx6Wro4dwZRQZUrPIzdnuOvFMpTMHeLO75PrMduOPaG8RuqwXBxL7Uq6LK2nFL+hQ0CxOCxSveghxGL5fJ9u9b1P3uDo+bAAZktjoTcIT5K1DDWAqCLq2rekCQRg1kux1UdlKvF4uPWqrrfg0L7tfMiK8uSFw0c66qcFDy1rA3ldgWsmEuwzGfP0thckt1jEFeXNkA==;jwUTzORthpREqRAUQffC4g=="
 ---

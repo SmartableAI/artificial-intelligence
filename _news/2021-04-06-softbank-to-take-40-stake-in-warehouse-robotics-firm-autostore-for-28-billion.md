@@ -43,6 +43,17 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Softbank to buy $2.8 bn stake in Norway robotics firm"
+    excerpt: "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore in a deal ... world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. The deal values AutoStore ..."
+    publishedDateTime: 2021-04-06T07:35:00Z
+    webUrl: "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 54
 
 secured: "hJEVT5zvaonDXU05c31fjmBng7Lmi+iS1uXmD/zUEiXUXF6OjskPHiknwhYxdTh2nfr8S7TmYuSCYbp3X8jHkb9XaxFPfzMLD0cy7yh7kOknHbarFXKaqCX3zlcO1wZd4Ig8Zg0GTgNrEnOPWlSEMejjf1DddbkfMjJL2eRfqlhOzI+TuWxXRHdDJfYqU7dEKbjvHtxgecff7fJSLi9Mze+JDaHfzEZWXAWFauGrgzuulS4ICD8awEv3fttD1Itg8iL4RBZnlWgMufD6nzuwl9XYVunUuD/i8OwEHR0QvK4Tihv2AQGgF2h7aHwFwl4ZkL2u1vIBxcS/T7QKLiikXYqjvM2NZUWxEAZFMO8KK6A=;13T3jUnpGXE4mUJUX0LsZQ=="
 ---
