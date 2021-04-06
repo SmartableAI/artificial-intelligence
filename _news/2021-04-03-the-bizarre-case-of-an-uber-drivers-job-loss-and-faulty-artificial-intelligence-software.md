@@ -42,20 +42,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Everything Wrong With Uber’s Facial Recognition System"
-    excerpt: "The union said there were at least seven cases of failed facial recognition and identity checks which led to the suspension of drivers and, in some cases, license revocation by Transport for London (TfL)."
-    publishedDateTime: 2021-04-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/everything-wrong-with-ubers-facial-recognition-system/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Uber_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Hp8UQeQVNLJzlaUHBJQPBWdbiM76cpwrGpYgwTj8hd33VihQ10mzdtv1yKCyaMZgw7Qvrr6deghlOjaw31g5TFzcPCeicMecumn+kTxrfVQMXDrCjCkLdgSwDv/vPX96xYk2nkWs6MfxmSP0ZRXXWOi/g3IRLUwUaBzZ1qyLikjF09f1a5j1wqQRYFHbzcaSAss+9mrjdFemMNAgrG0iA76L0MooKkGzluzYK5ntJLGFFbiIg9fmsortkC0AcSR7gW0qZFnNjHfiJizYsuLxo2Yw35JSzdhcfuVb22Ipj2hivfzPmD9becrVwyddIqVQ7cF1V3FKHu2FMEQ00AnIpGNktNw46OJWDigI3dXgCH0=;IhoHolHeMAiQDMDpFky+Cg=="
 ---

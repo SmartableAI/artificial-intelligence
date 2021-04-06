@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "PS5 Capable Of Machine Learning, AI Upscaling According To Insomniac Games"
-    excerpt: "Spider-Man: Miles Morales developer Insomniac Games has revealed that the PS5 is capable of Machine Learning and AI Upscaling. The comments come via Insomniac Games’ Josh DiCarlo during a series of tweets about the performance of the PS5 and its work on ..."
-    publishedDateTime: 2021-04-01T09:15:00Z
-    webUrl: "https://www.psu.com/news/ps5-capable-of-machine-learning-ai-upscaling-according-to-insomniac-games/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 52
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2021/04/PS5-9.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Playstation 5 – Insomniac may be using Sony AI machine learning for Spider-Man on PS5"
     excerpt: "Insomniac Games is using machine learning to enhance in-game visuals on the PlayStation 5, and the studio could be working alongside Sony’s AI division on experimental new technology. VIEW GALLERY – 3 IMAGES Insomniac Games recently turned heads by ..."
     publishedDateTime: 2021-04-04T10:57:00Z

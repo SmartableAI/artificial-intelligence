@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-de
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 3000
     height: 2000
     isCached: true
+
+related:
+  - title: "The Artificial Intelligence Tool that can Detect Melanoma"
+    excerpt: "A newly developed system could use neural networks to spot 'ugly duckling' pre-cancerous lesions on a patient's skin, potentially detecting cancer more efficiently."
+    publishedDateTime: 2021-04-05T12:52:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12151"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12151"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12151"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12151_16176268861327321.jpg"
+        width: 900
+        height: 599
+        isCached: true
 
 secured: "e1Ym/+Ni2L8/Cz94OxgkKchETwutjErvks9Pv8I+vtrGEqDLRdkHpg7JDkLfi+zx648HDLnMjfDO9aXWjwisR5jBPNtebR21VnePZM9HiiTucNswX1cDkyiEhI0DPCaIgRkik2W1I6SH5kizdo4uVfuFMNVkb/BYxsfWglSWjGoVX61SS8NCwsAkNX4VxX2PLG2+aghgvpYAhe7ZxbBb9rcydp3cfNvsyz/kWae9ssCzFW+FNmF/14W5zqy7htTnxT5ufh+buBt4ftSykgHu0FVwGwIzORFDkFT3w9n4WsNzSw5VkaFzqy3clc2nFbVSA5kfYFVc72Vgt5hkkv2ufwuAVpQ53W+5vj2RQLb02io/LfIsmoni9nCQ4R3NNjxGU2sgHW9z1jWbckfVgVvYYhaGig8DKiOYkPcgMNXihUck94QKyh7lUk2l7nNYcPdxBAI/o0Hm4Q7OWSaOqaYMlmRSM7XasrCjBo+4tVXiURlOZEZxc2BGfI1lssGVeOLgsJ9vmyOrNxNiAti3I4uR8w==;Gi4GDSiY6ThS7GIJn1farA=="
 ---

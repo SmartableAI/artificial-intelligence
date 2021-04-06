@@ -25,53 +25,131 @@ images:
     isCached: true
 
 related:
-  - title: "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them"
-    excerpt: "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ..."
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
+  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
+    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "The Artificial Intelligence Tool that can Detect Melanoma"
-    excerpt: "A newly developed system could use neural networks to spot 'ugly duckling' pre-cancerous lesions on a patient's skin, potentially detecting cancer more efficiently."
-    publishedDateTime: 2021-04-05T12:52:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12151"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12151"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12151"
+  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
+    publishedDateTime: 2021-04-05T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12151_16176268861327321.jpg"
-        width: 900
-        height: 599
-        isCached: true
-  - title: "See How Artificial Intelligence is Changing the Future of Storytelling"
-    excerpt: "Heather Maio-Smith, CEO and Co-Founder of StoryFile, joins Cheddar to discuss how artificial intelligence is being used to preserve, record, and interact with stories for generations to come. 5:26 John Deere's CTO on Latest Innovations in AgTech 6:36 ..."
-    publishedDateTime: 2021-04-01T19:49:00Z
-    webUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling"
-    ampWebUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 57
-    images:
-      - url: "https://img.chdrstatic.com/media/dd70dc6d-d3e0-4f5a-a0ef-2c4b198b77ac.jpg?width=1200&source=backend&auto=webp"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
+    publishedDateTime: 2021-04-05T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI Revolutionizes Mental Healthcare Space?"
+    excerpt: "As the gap between the availability of mental health professionals and the cost of each therapy session expands ... researchers and medical practitioners are now investigating how artificial intelligence and machine learning can be used to identify ..."
+    publishedDateTime: 2021-04-01T13:59:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-revolutionizes-mental-healthcare-space-nid-7466.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/0f8ru450308hytu.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "AI and Its Future in Healthcare"
+    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
+    publishedDateTime: 2021-04-05T01:09:00Z
+    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 54
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
+    publishedDateTime: 2021-04-05T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
+    publishedDateTime: 2021-04-04T17:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
+    publishedDateTime: 2021-04-05T01:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Energy Market 2021 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2026"
+    excerpt: "MarketandResearch.biz proclaims the addition of a new report titled Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-04-04T23:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-energy-market-2021-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2026-2021-04-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4rvjJ+sN/QcPhQCytNGVUVo6y+iFvb4S9BulGzhM0jbjkF4NBOIiDre2v+KxRa8eZ2F7Blh8Mj23bdgEIDhpSAiZ1VPR9a74KsHA4QFRvlFoPXV9CEVSomCzIw3HyAZdrO6cy6BiPoyDK1e9mmiMu52At+lvvlZ8AjFl1BhyufrxevpK9XAiKuPcjr3ZCmCf6RbWx+eJKAcIbKEZITSS4uu0fJRSauU+KGFFF2asW0E+A77N0sYv+x/QDWvKYKhbFzC/re2QQTIfkKnM/6Y/gQke750QFvRYaCWcKKnvAIU+EgfAjyw1ZrZWzATufIQMCy+dVxzzS1waAy0qu7dTOjBoSeqATAaHxsUgnF3EXVk=;PZaAyMwYRcF07wv04Hv7xw=="

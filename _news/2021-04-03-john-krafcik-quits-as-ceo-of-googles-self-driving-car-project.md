@@ -219,17 +219,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
-    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
-    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 24
   - title: "CEO of Google’s self-driving car spinoff steps down from job"
     excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
     publishedDateTime: 2021-04-04T04:21:00Z

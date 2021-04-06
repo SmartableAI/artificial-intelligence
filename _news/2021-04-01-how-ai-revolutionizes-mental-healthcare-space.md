@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
-    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
-    publishedDateTime: 2021-04-01T10:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
     excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
     publishedDateTime: 2021-04-05T05:06:00Z
@@ -80,6 +66,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "9 recent studies that show the potential of AI in healthcare"
+    excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-recent-studies-that-show-the-potential-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "AI and Its Future in Healthcare"
     excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"

@@ -70,20 +70,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Insights, Overview, Analysis and Forecast 2021-2025| Says Kenneth Research"
-    excerpt: "Apr 01, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Automotive Artificial Intelligence Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-insights-overview-analysis-and-forecast-2021-2025-says-kenneth-research-2021-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
     excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
     publishedDateTime: 2021-04-02T09:07:00Z

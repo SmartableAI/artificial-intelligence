@@ -26,22 +26,6 @@ images:
     height: 442
     isCached: true
 
-related:
-  - title: "National University of Signapore offers new Masters and PhD programmes in fintech"
-    excerpt: "The National University of Singapore (NUS) will offer two new graduate programmes in digital financial technology (FinTech) in the new academic year, to help build a robust ecosystem of high-quality research talent and capabilities to support the fast-growing financial industry in Singapore."
-    publishedDateTime: 2021-04-01T09:58:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86925/national-university-of-signapore-offers-new-masters-and-phd-programmes-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-
-secured: "fhuz70xMSWIUVdo5e4/pNtghoIhqVxTyjjIdpOmEooxOEcZC0s7KCZt4q5SjQ9+yBsElYFKUHxNyr3yr1OUx4Ak2Zfv7ejdzkz7/emYTftN85QdMPEu9chklrWazq73t/BpPKWUpuSZmitT3FmYW+5EQOs1TlkpqC47hprgrDpjnzo+S8ZA3lyb+hq246dwEclIwW9bBCyyKDnpo+6IAYJk5xKbkYJY2Vb9CTPzVeBtAhzMFHftvRGW7MfMC4SJdhJBO0C2YDVr7ZRqHyw1vCowyEqWYmx+Zs/ux7Jn0taOkzSGaLNeNaDrTgQ3gs6pYmuM6hlYWyMNSLT6NPq/eh0xE2Dzlhf/CjBKauO8F3QA=;y0xW/nrqGepCB21uPG/dvQ=="
+secured: "3gHf6bnjPycUO1GZiPPBXedDK7RDcjHHQqDfoEwvXymgj9vKuEt/Y8mERN7k2ddZBtzJ8wmQl9mMfC13FphU5lAxo679ssuzn8zbF+vfZD0KtVGVYTP5IvtfU3jhrmKqHyc9bLwsiI1PTha4JAxnOCA46hqpc91kxRWqmittQIGLvIDjyO7AbjUkqZ++Zgxf1H32P9s0AaZkO293RDU0ZAWpOwpS30R/W3+Qsq+df/b61tnlg+hQaJ6AsJPDJ3ds07q0B7BWZMxwC2y/VUKkDgixk36hCFucO75E9HNh7cdh/ylWS7eAH7KhMeiU6aMhLDbMjDCO2SfNyjUoRyyb0e026qYt2zTOubmnpw2gvhYS7Ljyr0bEqyF+trMIVgBIyq4/ampHDtZDR082qcQUD7GgIGD/1kNbP16psHLHbmu3RiBFYaEndUbQ3DJXemlllhtBFE1lMthkqwpQcDhe84bhXWEfgB+Bstkjoe2l1nJwqDsPJKUolUysPL8ttjoGtQ7L8iEjPzmjlDBTZK/v3Q==;lJeQo3Qxze4Y0ll4pi5QkQ=="
 ---
 
