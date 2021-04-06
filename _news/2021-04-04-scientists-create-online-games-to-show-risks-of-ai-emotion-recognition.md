@@ -60,22 +60,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facility for face recognition planned"
-    excerpt: "NEC Corporation India, a part of the Tokyo-based IT and electronics company, NEC Corporation, has bagged contracts from the Airports Authority of India (AAI) to deploy facial recognition-based passenger identification technology in four airports in the ..."
-    publishedDateTime: 2021-04-01T17:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Scientists create online game to show risks of AI emotion recognition"
     excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
     publishedDateTime: 2021-04-04T06:12:00Z

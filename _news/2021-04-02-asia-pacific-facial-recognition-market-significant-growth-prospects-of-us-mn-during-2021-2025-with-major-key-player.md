@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
+    excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
+    publishedDateTime: 2021-04-06T11:18:00Z
+    webUrl: "https://menafn.com/1101865962/Speech-and-Voice-Recognition-Market-2021-is-estimated-to-clock-a-modest-CAGR-of-109during-the-forecast-period-2021-2026-With-Top-Countries-Data"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "TkNq0sfkCH7X70Ad4IlteP75bOqF4Pq4FiIGjHCWOzy85qYkL5WO6Z+sCkfThn+QHUkIDX8OFdhR6iFjQsQcQ8ZfMp8sGMXJX+0ZdaHRj48pK2/utcQL2xVHqVGTYpazsvLGoIaP44WhikRF7Pu7LAC/XOsBfXvCG0NSbx5mm8VzsBMlfO4Nzr8gsx8Lzu1yEqdQr3t7dwhaRU0+6u2SdlZHGfi6Age75qcECqFH3W8qMKwy4QkT1lsK1sLIV1oi3Vr5WhhGrc4j/vnT6FoQ+16N/iCUhvvUfyJzgyTsQ5xptFF+dxT9izAOwQ382JZ9p6vRFCJ4BVLxXo9Z6f9BGgSTT9etAC9lR56uxSt+ynA=;S5cKsIN0gWLx1tQ1fCWwIw=="
 ---

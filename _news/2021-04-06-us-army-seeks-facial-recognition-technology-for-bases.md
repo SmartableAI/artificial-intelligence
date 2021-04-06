@@ -26,43 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition a new tool for tightening border security"
-    excerpt: "Facial recognition technology is the Department of Homeland Security's new tool for tightening border security. It's getting a three-month tryout at a major airport. Kris Van Cleave reports."
-    publishedDateTime: 2021-04-04T10:31:00Z
-    webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
+  - title: "Facial recognition for bears (and other ways to use the technology for good)"
+    excerpt: "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears"
+    publishedDateTime: 2021-04-06T10:50:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 86
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/04/c804a2d2-6781-4517-ab2b-907b6db2eac8/thumbnail/1200x630/5c2d4f54aee066a998e1a4704e702ba1/en-vancleave-0530-399481-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "AnyVision deploys facial recognition access control for New Orleans Saints"
-    excerpt: "NFL team New Orleans Saints are using AnyVision facial recognition for safe, fast and smooth access to training facilities."
-    publishedDateTime: 2021-04-01T21:58:00Z
-    webUrl: "https://www.biometricupdate.com/202104/anyvision-deploys-facial-recognition-access-control-for-new-orleans-saints"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
-  - title: "Tampa airport to use new facial recognition technology for international travelers"
-    excerpt: "Soon, international passengers will be able to access secure areas and planes without a boarding pass. TPA is investing in facial recognition biometric systems at departure gates that will be able to process departing travelers in a touchless and more ..."
-    publishedDateTime: 2021-04-01T18:24:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2021/04/01/tampa-airport-acquires-new-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
 
 secured: "AMdxr7XSg5GUVHP5UwG88u4SdtsmfjxYAZ556LpZjzk85bpzR2NtFbR3SKD2dMzo/j4oIGmULQznOd7xmJNeM/APuu3YvSzkCSucaWQ7AphaL1CV6aH4s1iHkejrIsW32OVYZaJdSZsX0k+SIEOOmdg84joZls7q9wv3ixdIYSw01BfFcdsS9twv14uKEeHxC7zYWOtpetYXUwnwb8hbw2CgPetvX2dHflFFxekK9hvMtIqCq1uas3fsy7nGxa/hcYEdwvqvq/MeL3YgD9PFS+vGATOpfMGLj3+59q/U1CHaJNCWRjQ1J8Ab2DEekDWfb1np2r1j2glv5tmbCL06sh3Bqi3jY/FdIMT0qVnjAJ0=;q0adRXpgWRXBqzCgvXOZ9A=="
 ---

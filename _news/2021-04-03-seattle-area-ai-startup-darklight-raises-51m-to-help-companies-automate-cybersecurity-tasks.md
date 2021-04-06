@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-rais
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.getnews.info/uploads/573b2f836f5ed618158fb9a0a06545ca.jpg"
         width: 436
         height: 480
-        isCached: true
-  - title: "Kintent raises $4M seed round to simplify cybersecurity compliance with AI"
-    excerpt: "Kintent Inc., a startup helping companies comply with cybersecurity standards such as HIPAA, today announced that it has raised a $4 million seed funding round led by Tola Capital. The venture capital firm was joined by several prominent angel investors."
-    publishedDateTime: 2021-04-01T18:57:00Z
-    webUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png"
-        width: 867
-        height: 482
         isCached: true
 
 secured: "hAw2NYsT8SZEggyfvL1DnOKmsFtonoLmbLLt7nKgXkTGG7W6TK8eYMyBSsXOgzyQIvZHcgSB1CGybEcMD8WDQFE7QMTiijGuTqsjrMQrNEYYh7VcagvtbMZ+yRxj5P21xB5oLn5nWICDUL8si+P4zBT5O7TfiQ7F00Y34oFhjM9LxwDMUIrYvQECdNxXrDhbQtEVGvHIdRWhHZNxt+eIl2VOy0M7fDpvmkJs1KkV0ci88appgu+MP+kvLIr5AQaM6rfXUZECGxARffIPoa4bwz7ZGCHzfWc+6zlEhNaFKitdRayMOf/lbg/Ttsgu2GbkiV8vzfQdvxQuNZ7RuUfVh9vE/UYi9DbvTyCEy3uozMxEBCBls07itq0Rju3tnrtTHIbo7wKgpd4mqTeL3qDD2mF0rxuM0z2Ten5yjibSIH+XPcaEmozGrruFP7Mpm6c08q0Zv/bFknc4pQZ3oy89PqmxZCSuBLEjATNts2hTszTblXyyzkxuEu3qsDZJBBHjpsrc42sFSDdt6xx8RTlYvg==;wQsi5HrnOxtXphpi83JgNw=="

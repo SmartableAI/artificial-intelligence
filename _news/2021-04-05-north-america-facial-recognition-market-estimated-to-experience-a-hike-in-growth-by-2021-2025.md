@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
 type: article
 quality: 58
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 16
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
+    excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
+    publishedDateTime: 2021-04-06T11:18:00Z
+    webUrl: "https://menafn.com/1101865962/Speech-and-Voice-Recognition-Market-2021-is-estimated-to-clock-a-modest-CAGR-of-109during-the-forecast-period-2021-2026-With-Top-Countries-Data"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
     images:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300

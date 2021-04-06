@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Softbank to buy $2.8 billion stake in Norway robotics firm"
+    excerpt: "which has spent heavily on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. Japanese investment giant SoftBank Group will buy a 40% stake in Norwegian robotics company AutoStore in a ..."
+    publishedDateTime: 2021-04-06T11:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/articleshow/81932473.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/amp_articleshow/81932473.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/amp_articleshow/81932473.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-21836,msid-81932523/file-photo-the-logo-of-softbank-group-corp-is-displayed-at-softbank-world-2017-conference-in-tokyo.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln"
     excerpt: "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ..."
     publishedDateTime: 2021-04-06T05:43:00Z
@@ -75,6 +91,6 @@ related:
       domain: techxplore.com
     quality: 54
 
-secured: "gS46Xo6YpXErT5Tll3XZ6NtmywKPV5IqDEliAywaXiHmFzRxGfMYUkYVxyyW1RXLBYlprGPMugP7xu+bFu8aSmnzys+B8YmCaZr4Y73duIdUAFIH50JkcMAgSpu+rUnRc4Bc5ivh3CROqsMCnJqRbkPGURffgMjKWdnOSZb5ZPQYHn2AyU+2ZalDUJyeQGeQK+iFy5QhtvC+U0sfyg0KYj9KgbytdXFqWG8quylHmH3nwM0YJ/5B5Kx1cxTGBy+4yCT6mpsYl5ssyiPTxvIMsu83v6IcSTzClULXx3ZmXghnVA7ummmS61QsPD1LCiNrx0T1dd+pF8B+Rg/3PHpesJQ02Mj2zBDW8o+H/CUcAg4=;MPXh+7aUIWiIcmratzC8SA=="
+secured: "ziXtdevSIj0yvwJI0L2OHOIbmpYCrfyTm8ngJ33guviJhclzzHKVlmlvzvH5t4W/FOQGGN9Ny5HEyADIe+lbX/FrMfwCJNSxeEtyr3UDLldbX0UZSGYP5RFkl4KEH+E9uOKcv3hmz+YyJlMSoPKXZKLAs7hKRdar6PCaQVl/fXXUo03KTU93PyG37YqdlaUXt9nP5vJBPOJLw6h+XRrLaPlXyktWP+27cLd9s3/UUMGC4zlAwhxgi/CrdgXFyYY0f34GMQl/8BFELVhNu+YC5ZmZR3JX4expdXB5XFLKRzpg4aFpmozyIaARqEIxOV6cTqKVyJHMyIV/Eli4vavTaVOyrz1nLN2JuI6XZI6jQiLB8HrX/DdZK34hS31mslNqExRwF18GCVgD30Kq0WxbDukSy/I0GJ50gZ2+lveVM4N+/RrbSC8b5oqizj8ypvzvFnxlpWdor2vqOTGY2Fh+3i815lQkUdDeQdo2h1XCIFGkRJ7fH2EgEfs0pgG+xbPG+XiJP8zLoLvpqfGD2zKazw==;8f5XuSxL89Qg0fapQqNE6w=="
 ---
 

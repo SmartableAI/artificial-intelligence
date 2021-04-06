@@ -31,20 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "JD.com Spins Off Cloud and AI Assets to Fintech Unit"
-    excerpt: "JD.com, the Chinese e-commerce giant announced on Wednesday(March 31) that it had officially carried out the sale of its cloud and artificial intelligence businesses to JD Digits, its fintech unit. The businesses were valued at a combined $2.4 billion."
-    publishedDateTime: 2021-04-01T17:29:00Z
-    webUrl: "https://techstory.in/jd-com-spins-off-cloud-and-ai-assets-to-fintech-unit/"
+  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
+    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
+    publishedDateTime: 2021-04-06T10:24:00Z
+    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/ffcbfeb2-7dbd-11eb-9fc3-2f3c8e08d261_image_hires_211834.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 4
 
 secured: "VOi9WSpGNopGUI07ltsqX5e7c558/Xh97weSylMXsjdn6DMjml998d4H+KBULaEYRsaqK/XALMTFkiMsgb1qKINYDyrwAbIUPH32GnXaAc/2vVpMTug35N9wiRFe0LcX1xY2arRUmd8eQSAVjDK0OkPDIrk4r/RRViszKuCY7lfBooV569HQ6u9LDG0RDHIgp+SVaZ72TwgARFmEISaVvLe0tLwg2k39BEREgqsp+Cv1n5+/VCjT/guDJZu9KKKrMUZ3DrrkblzYL21UNo4tGNpyO9QIWz2dJSxj1E1U46yCJau5T85JUOMKZRZYOAF3EneEB5A1aZ8I5GNdChc8a7OAwMBT5wOAXFbfcmNofTI=;bXNxiBLccPuGDg2Xqmkhow=="
 ---

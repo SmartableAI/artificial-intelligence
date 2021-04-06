@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Softbank to buy $2.8 billion stake in Norway robotics firm"
+    excerpt: "which has spent heavily on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. Japanese investment giant SoftBank Group will buy a 40% stake in Norwegian robotics company AutoStore in a ..."
+    publishedDateTime: 2021-04-06T11:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/articleshow/81932473.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/amp_articleshow/81932473.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/softbank-to-buy-2-8-billion-stake-in-norway-robotics-firm/amp_articleshow/81932473.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-21836,msid-81932523/file-photo-the-logo-of-softbank-group-corp-is-displayed-at-softbank-world-2017-conference-in-tokyo.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln"
     excerpt: "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ..."
     publishedDateTime: 2021-04-06T05:43:00Z

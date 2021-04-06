@@ -48,6 +48,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
+    excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
+    publishedDateTime: 2021-04-06T11:38:00Z
+    webUrl: "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
     excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
     publishedDateTime: 2021-04-05T07:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changin
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Upscaling And The Future Of Content Delivery"
-    excerpt: "The rumor mill has recently been buzzing about Nintendo’s plans to introduce a new version of their extremely popular Switch console in time for the holidays. A faster CPU, more RAM, and an"
-    publishedDateTime: 2021-04-05T14:01:00Z
-    webUrl: "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/"
+  - title: "7 ways the cloud is changing"
+    excerpt: "Computing without servers? Programming without code? Let’s ponder these and other innovations in the constantly evolving cloud."
+    publishedDateTime: 2021-04-05T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html"
+    ampWebUrl: "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 74
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg"
-        width: 3000
-        height: 1815
+      - url: "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "AB1CxSrt5ztnj94q2WImb+F9XXFUW0nmXFHPGrYIX6ghk77umj9c+vbQCjBX5s9y5l1OpbvDmzF+Du4tcIPN0EWFcJ3Y8nozvVOop45/W3VpOjJShTdgU7eFfVFB7q9io4/ZS9g9dQFzQx7v2DPOLqkGuQ0e0vr2JxQa9QzCirmy3hv+Mpr48cLI2fN7EUkToZqOxzL1X0+Bw6DbT2eWbltT4Dmg9LQQXCJP12IiQm5++UvnomFF76YVDkb6eoMXWOdOyFdiObhBBPqBwdvEBFKG8zWfa51Zfwa/2lYCkJhp8BQmLM9wEGrX0lYtu7KhLx6IdyGzr/kjDGd6Izvguai4OnEPQiKc5XCpclm0hk3IJXHjzwL6ha4XSSl7lIa6qWwYAAyJVTpJZAkDUhfjUYxXPfQeIOQDAWJYJShCJxkLkLZDotmvY6YYkZDbBg3ERl7qvTR9oxWbDYq/H/p9F/B3KfaMiP2pFWwXFUX+3dP24u7FZZR4ZWtcufAasmafgek8pYya4dibfJrV+6LJNQ==;tj5pebq7YvhdlcpRZMF5SQ=="

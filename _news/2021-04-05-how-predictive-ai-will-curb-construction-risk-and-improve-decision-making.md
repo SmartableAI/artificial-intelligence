@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 655
         isCached: true
-  - title: "AI emerges as the foundation of enterprise decision-making"
-    excerpt: "3. Ethics, economics, and sustainability issues curb AI adoption. Despite high interest in AI, three key challenges need to be addressed to scale AI implementations: staggering energy consumption, biases in models, and high cost and computing space."
-    publishedDateTime: 2021-04-05T20:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20488668/ai-emerges-as-the-foundation-of-enterprise-decision-making"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20488668"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488668"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "z1M9NK1xcF7xVT0lMIcFZ7SDTrWOUXyhN8ACT4A1/5QjmgXenzLwpXtNE8R7VU2n1PNrAMrf2Phr55IpGuFqMwKRo99/86MqbQz1TLrtFFe/Fp7lLvO5T/x4WO1fNOJYvMGKP29MXH7jn5Yqkh7b7/wG737ildOqrS6w1Gc4kIMIkKvhsGRKpw7TYrrVAjjK2Ksmk/nvxMxDKvfnzLVhoojHZ5/TZK4HH0i/6NwGikPPub8lrirQHxvYzm7Mota5WoV4pFa6h1fr90ZIn/sbJaQYyBv6FZvTC7fZ3YoH1fJPLxlJCIx418lVa8JphjAA9cgDTtRMjIh/Q8oBVug2v5VTldEepHS78QAn9Zgp0cI=;lIXEv63StaHxAQTvqJMFuw=="
 ---

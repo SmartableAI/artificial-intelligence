@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
-excerpt: "“As enterprises from manufacturing, healthcare, finance, and other sectors seek to scale their AI operations and model deployments, they will require a platform like InfuseAI to allow seamless collaboration between developers and data scientists,” said ..."
-publishedDateTime: 2021-04-06T05:49:00Z
-originalUrl: "https://www.techinasia.com/patsnap-10b/next"
-webUrl: "https://www.techinasia.com/patsnap-10b/next"
+excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
+publishedDateTime: 2021-04-06T01:00:00Z
+originalUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
 type: article
 quality: 61
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Taiwan-based MLOps startup InfuseAI raises $4.3M Series A led by Wistron Corporation"
@@ -49,6 +49,6 @@ related:
       domain: finsmes.com
     quality: 17
 
-secured: "17DXdrdpWVdPx6U3m/731WLzEkQv3+fPJJQO6kQ3qkQvsBtT8UIzrgzIWhsQbV2wpIOvfC+JNGsuZQFyWyBDPa+gfByiZMuNwvm1NGGqKdUwWrvj+f7LxWNAezkZXlAKyY/cayNEVPSIqRtiwXwB20C95t1MjBNv2j7od8kSJRNvtYqp7nB6LKkzCNHEJPY6pSHAPChG5WOi/wkdIPz2NW4C9Y1rfReBnNj1cueatyx3mKeh2G5vzp1/oFzUj6w2DQneHFAsbvy7f60aesFvFadZdaX5ED4ErzIIPXq6LMWUsgqfauJoXNeIdoEuDX1ca/tA/0Y+MY+g5LdWvtkLmG0FTQVChXE07FlWpdnFaN/TEe21K01/S0eX0TDZbP1MN79YYU9sJPAZ3bs+u/fhUANhrNspmNXKdFEhCw3aOfp7nrJ02VlWk/TR2cdO/WLznxI+oQ/cU5woIhAl+L20DmwvPavDi+iSVkCTIeX3vCOqr2aJq+2qC6GBuJwjP1pUqvCfAoFuHslOQ9ZcPXPEGg==;fymiD3rcBK96+mYBXzyn3w=="
+secured: "ygkYZFq7dEXekqAzwUUEryDRCkYqGWzvf1jAOxwoaKuKsjsi0zIDbRsWRAe2Fj240DSdyoS9wc5Jo2FQ3EYaW9A2Wh1hZR7m6axQwIcb5xmnredRiUFRlvyHgOrql/BYo8mvgLKsEsS4XKWnLzgq9OE+f55Ud5PlmY16AAIs4sYTUX09YNrLutr7sscVMnBQecwc9uOTgoY0CbQoyfTl2fVR3U5jgxNJQei4Z41o3kDn2gE0PmxntG0b/gsfQKTqIlYJNL8PG5IE1H4AF96uPkml8ZwDvZ5UMTNknyVsnwDrotCDUf4QE1mGQ3WgyaDPgXiJq4i5V7slKPBchPBmUITtLvmndZ2yZPd4fIbl0Sigj4DUOnuAIWkO0/pkvn2zjGQvuW7OV4PlUSfMZnmKCgkGjoXqgiXv8MZWAvhHEWIdvMjfXu0Q0Ej4Ey/dIppa37WWO6Ubm2ynvT9BgcMTlVTnrJ5hKl+vMFh2Vv7mxV1LCGNne4c6SIEet3KZquKHsqUgM5aoKqODJWB4Z/HNaQ==;zK3ewdKFEokIHnTgcrvO+g=="
 ---
 
