@@ -3,8 +3,8 @@ category: news
 title: "Talkwalker can now analyze speech from podcasts"
 excerpt: "Talkwalker, an enterprise listening company, is adding podcasts to the list of sources it covers with its new Speech Analytics technology. Brands now have full visibility over what is being said about them,"
 publishedDateTime: 2021-04-06T14:20:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146138"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146138"
+originalUrl: "https://www.kmworld.com/Articles/News/News/Talkwalker-can-now-analyze-speech-from-podcasts-146138.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Talkwalker-can-now-analyze-speech-from-podcasts-146138.aspx"
 type: article
 quality: 24
 heat: 24
@@ -40,6 +40,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "h/O9hhR+ehOMR1/BPQ0FTFuZy/tkDq//co50bbXVc2+3M2ocjkt6c2sCexZ3Rgk+Iwm40rpaZzfYBXHm7VwZDls5iZQ6F+kk7CAJnAtX2Nra7UnxTjHfqoiMkxoNOxStCxDbrRcKK6xeaLSmT6aP7Fu0pV1Di3WjoBcjLeOiuYKDXY3GL0O1VhK9x1a0ezCzHH5OYlPIU7KKMmTRRBxutfWC/HIRza7BnMpHIzi1wXJV5e5WrFuCSvCcb1hSqrhCL+Na6y3yQWVWFwBb66m1fIlcuBEF7bFXEm3HHIsF5kjkoL0EOYsQGJWeccDtVbaF+Me9nLAi+ey1t8kEpUb11SERs23Y+B9urgrRWlxQztk=;Io9pP7ZPCLJk42xOjSofwQ=="
+secured: "TQ6gQtTXpkcwLjDkT9qfZGyYh9hEyeWWpvzPGd/poXYAwjmp5ByHLzj/5pGJCSv6xe4GHmrU1jOXPzHvg/2+qPK8fcahHhH173GD5Zwv15UcTuIeD1cIkRJ77vAYQTMMeOD/oNuqH2Jhe2VS1tHz1Bj3f+EZnhe9M/qWGBbBiZuHilSO09by54dF5ngaaY5rXcxcyji2DOP75Xg3p3RxJH5qkKTIzQbjzD3DETrThcwzIL59D+BetNVO5bEhiVvvaPUAgUL1K+u2iUju9ma/DJpdZWr0KgPXKyvHEG3QFAGs1ms7Qzvx5PIu9R1kx6gZKkjMCtnsKqWxcu6J1/u40xKc1F3X6EXD1tG/ZxGPBvg=;LyAMkzaoS4pdyx9z+7KQmQ=="
 ---
 

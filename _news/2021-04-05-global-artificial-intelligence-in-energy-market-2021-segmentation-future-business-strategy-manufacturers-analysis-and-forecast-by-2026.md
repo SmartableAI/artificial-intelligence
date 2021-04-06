@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
-    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
-    publishedDateTime: 2021-04-01T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Market Outlook, Industry Analysis and Prospect 2021-2027"
+    excerpt: "In this report a comprehensive analysis of current global Natural Language Processing (NLP) in Healthcare and Life Sciences market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years."
+    publishedDateTime: 2021-04-06T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,10 +56,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
-    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
-    publishedDateTime: 2021-04-05T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
+    publishedDateTime: 2021-04-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
     type: article
     provider:
       name: MarketWatch
@@ -70,59 +70,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
-    publishedDateTime: 2021-04-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
+  - title: "Global Robo-Taxi Market Outlook, Industry Analysis and Prospect 2019"
+    excerpt: "The Robo-taxi (self-driving taxi) could ultimately take the global auto industry ... Navya, Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and sustainable mobility service ..."
+    publishedDateTime: 2021-04-05T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-robo-taxi-market-outlook-industry-analysis-and-prospect-2019-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
-    publishedDateTime: 2021-04-04T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+  - title: "Global Artificial Intelligence in Video Games Market Insights, Overview, Analysis and Forecast 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (Heraldkeepers) -- Global Artificial Intelligence in Video Games Market Overview: Global Artificial Intelligence in Video Games Market Report 2020 comes with the ..."
+    publishedDateTime: 2021-04-05T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-insights-overview-analysis-and-forecast-2021-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
-    publishedDateTime: 2021-04-06T12:08:00Z
-    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
 
 secured: "K/oH+78P7QrXkUylo57UHTqDYT2WniNjcOTsTaZkPzNPFSEzVleLe/af0ZkyXsse0Enl19w4V1HS0nKG5D7n+fuwWxYkd5GhC2Xh8IR4JoPwTrAUVQfDwCg+G7n05Xl0u2vJT1HzgPWTl8FdP4n4UH5qa+KVXa9eV8gXABrBELjK0MYbkxhQy1EFiip6PkqmEOhuEz2fXOAXJYE1QIqyrb1b+96Yihl41pxHHbRXuxf/zsR+N6t3RI6JhkaQ/7eYSzZ4wqK+RQIhBKUVEGO2dz4WTz7CavRNShHfeORe4MvKiT9z1UkCizS0IOW4ezLEkYoF6I8ATLqv79tQp7/5GSwm8EHeC0AbuLNbM2d2Hac=;DtloyH3RFXPuRAvy24Cn7g=="
 ---

@@ -28,7 +28,7 @@ related:
   - title: "Talkwalker can now analyze speech from podcasts"
     excerpt: "Talkwalker, an enterprise listening company, is adding podcasts to the list of sources it covers with its new Speech Analytics technology. Brands now have full visibility over what is being said about them,"
     publishedDateTime: 2021-04-06T14:20:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146138"
+    webUrl: "https://www.kmworld.com/Articles/News/News/Talkwalker-can-now-analyze-speech-from-podcasts-146138.aspx"
     type: article
     provider:
       name: KMWorld Magazine

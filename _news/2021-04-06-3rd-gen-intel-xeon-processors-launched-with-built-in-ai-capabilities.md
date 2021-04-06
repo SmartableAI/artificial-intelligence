@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-proc
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,7 +69,21 @@ related:
         width: 1025
         height: 691
         isCached: true
+  - title: "Ice Lake has arrived: Intel launches 10-nanometer Xeon server chips with 40-core flagship"
+    excerpt: "Intel is promising 74% faster AI performance than previous-generation chips and up to 150% faster speeds than rival Advanced Micro Devices Inc.’s EPYC 7763 CPU. The chipmaker reached the latter ..."
+    publishedDateTime: 2021-04-06T17:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/06/ice-lake-arrived-intel-launches-10-nanometer-xeon-server-chips-40-core-flagship/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/intel1.png"
+        width: 690
+        height: 457
+        isCached: true
 
-secured: "+wOnjH5GtgsZu5I0845LfkmiCwe1AlOsW7g7EezBD8/d1ETqXvtCAiqgDylM4t6kjbdS/D5hQTuI04nY+F74C5b0+zKJuVwX9BfJAtE6Qr7qGLOjd7ZU5mjWRwT9XWr1OXpTrqCLQP98U+ULETWgb6gJb08ptAWAIIJD64HErZ8jsEuN6dkH8pV1XyFsg4KiVO7m5rQ/AaRdw1abVqPBahDaFnBNNc+gYoMHaWZLoLwsSY/ZgsJQ2hs0JuqIehI3ShMhSy7ehJ8y+V33Y6Jrb0R9eV5pw7UYhUDksR4OuW2tYI9Rlb/8lEj8TZhwBzC734UbOZT3EOYK6r49NzfLR6l68Xnic9XyMuU1GGq3Wa4=;AYYSMW1a02CChcNKj+n46g=="
+secured: "1kq3bXEEmHGFSVQ0yfUczsExafhALppsXH4P5jLWmw6DcUN4BU4Tm3DsqNSHFQNpCjrZ6J/smdPhhIh7Au6rv3GgbZ496qrtTB9T+H3GrAJHgjN7xyO3sr/oaSwXyp6e56Fp6+ubJ4glHh3qc4xv00DQ3WakX1ryy3vjf3DBDnBAOoeCeRrxNz1px8nZS2egVIynEGMP9F9DS0h8vTMLzRQiG4tjPD7BOse8Y1uf+bxCHMEU0ZjgKFefc6gn/qsZhcENzdGxhy7KXFLTZVFa5Vp0JVZbiGnBByt8AixbkxSdmRbQsOJQI70HwhBBUwIQh1KqTAX/p0D+fbsPXsrz4GcVwpfqqp2XTML8OhqkwUByhDZlb1fsTK8zyttdno4rzGKWVUuXJpy0Voky0XFycqzpd3y6fkXulT32SIxdsPqluOQP2A9JlBgnb9dFP4I3JOXv5Sfu1k0qkgMGE5oNxYTXZnX6VZ+o+rYUt26nlY2+QQAIuCc38HrebYWKjFpOzFxqhox8xz+SD3qpjDfAkA==;3QjYAviZcLS0I4zCvkFjzg=="
 ---
 

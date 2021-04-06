@@ -1,27 +1,26 @@
 ---
 category: news
 title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
-excerpt: "SANTA CLARA, Calif., April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of ..."
-publishedDateTime: 2021-04-06T15:32:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-879581115.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-879581115.html"
+excerpt: "Frost & Sullivan's white paper highlights the process of creating an AI strategy for your imaging departmentSANTA CLARA, Calif.,"
+publishedDateTime: 2021-04-06T06:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
+webUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
 type: article
-quality: 35
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Adapt’s mission to empower tech users with an ethical approach to AI"
@@ -39,6 +38,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9qUB3bRQxYNL4MUoVwmW63PWjtVnxcf6mFyVi59D3Qhk4i8elJ2gZS5Jd6Yy4DEy1X7VpZMHgKDy9+FtAHPkJq91jxGKdxJCDhhBH8kIu1kLc3+iHd6dhO8caofnFxa8wBfrAVLnsML2RD/3X3QixKTA99Ep4oU3nX8liraQ0wmUL8cy27PPPAc8z1is5U+5MLSPnOjxgokmvaPoERISbs9KDWJ5DhcRVP5SEo+FoFo7YJ1VIZBUqcE0zbwvWcwe7lhOsK4aSCe22e+sG4zOslsssQyCP55VnOzZFtfy/oky+VL5JS6tjdHoz8+Pf9SDxmLrMKAflUcAF5b5UO+QLlMp2pvRz/zpzOtYeOpICMg=;J+thZGYGquJmLE9EdbIy6g=="
+secured: "hn5NlxjPnJVcioAXTeBaqJ9vOGTA8tzzwC9DDB0b5WEt8nIqZgN/9QWb1zveC9nuX9436AGSzW4sqMbJ1n/vzVBs5aOgDv7aJoRjQ3t7JsBcv6w+Boooa1TuGaAisjCdMmOo+mPFLkDR4rovbqNc8pgC07dgrBJxqM0CAN0njAUDzS7PFK1sdQyOFgw0uCCHTAuo94wl0QxM8TGd4UBVNIhUa8LhXaav2Te06hBP1EFvwJM59XdeN1KyA6cLDtZoOpVgWicMoasD8lmcoenySvFEYszgan54f6w2QdziWzPtVQwQRL691rjo4JegD6j12pvK77Ft2NQ4z4/kZog/SUxATiXipSpYqiM1CxRZuVc=;Q3GUR7VJLMvc8xWeaof/Qw=="
 ---
 

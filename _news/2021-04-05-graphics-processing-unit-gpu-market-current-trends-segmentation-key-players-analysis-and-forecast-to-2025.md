@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
+    publishedDateTime: 2021-04-05T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
+    publishedDateTime: 2021-04-05T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
     excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
     publishedDateTime: 2021-04-06T11:38:00Z
@@ -76,6 +104,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
+  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
+    publishedDateTime: 2021-04-06T12:08:00Z
+    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
 secured: "FyWt51UceWfD/UDwuwuLlqj8SjVbBlkzkE+SqcaXhF81kEVFgiIC0pQAKUegoPoEe3XjvljyQFXk8+0QgiQYvDYAM3PTcILPOQKSDDTg3AcEvcvQx5LNgLe7zQw/WfPEuibDNKWdJx+vK7XSpm/jsGrPD6zYL3di9CRFVLpgM+pTUF6cbldwZcFwoSzHfjOLb4Gkwz5BOfeB2dF2NW8Jw42YItcp0HIGdV4fXzf/RImTgLxQq0ndYvClAok5QB3cVxP06aNZOtA2mRurI5ZweqPV6xGww+O7DUQFRjUKDvdR9R6N5si64TpVa+mV0xAUYFME2m7AYIJT+wZHJk328Dg33TY+hW7JhuONJ2l3CrI=;KGAVTnnV3PR4nz9O2ovILw=="
 ---

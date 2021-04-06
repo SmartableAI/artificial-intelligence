@@ -22,29 +22,15 @@ topics:
   - AWS AI
 
 related:
-  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
-    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
-    publishedDateTime: 2021-04-01T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
+  - title: "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028"
+    excerpt: "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ..."
+    publishedDateTime: 2021-04-05T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
-    publishedDateTime: 2021-04-05T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025"
+    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
+    publishedDateTime: 2021-04-05T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
     publishedDateTime: 2021-04-05T04:21:00Z
@@ -78,48 +78,39 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
-    publishedDateTime: 2021-04-04T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+  - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
+    excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
+    publishedDateTime: 2021-04-06T11:38:00Z
+    webUrl: "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Energy Market 2021 Segmentation, Future Business Strategy, Manufacturers Analysis and Forecast by 2026"
-    excerpt: "MarketandResearch.biz proclaims the addition of a new report titled Global Artificial Intelligence in Energy Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
-    publishedDateTime: 2021-04-04T23:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-energy-market-2021-segmentation-future-business-strategy-manufacturers-analysis-and-forecast-by-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+  - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
+    excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
+    publishedDateTime: 2021-04-05T07:51:00Z
+    webUrl: "https://www.openpr.com/news/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    ampWebUrl: "https://www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+  - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
+    excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
+    publishedDateTime: 2021-04-05T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
 
 secured: "222+jI9Ye4kbqwiRsCsuhknhZsEsDxH2Z6rVw6pJm1DGglX0x7yNzD+dCTF+Z249vrlwsOmWBTzzjwDRzd8R8UsdCNTcmRWU36A9RCn0iqcnJl8Teh8/uRCixL43TrrF1OnADo4lb6+oSJcUqOVyFZzIpozLtjWEbrE2RDKsoyz4m4Zu6LpRLKtGNkIQNkD/y66NKuHLMKl3xY458hiQTtEOAIEQWqmRwBkvqw49LYXOzhCF77V5q3At5uFs1kJxV5oRwFlhzplhu+bxYVM/EXRatDrYPKjJXBiaiYr5MkYNxH2wpgN/iImmSCgLRjN0JwfzNK+fPy7Z+DxPrHIJsim99giE8REZQb7Jq7G1oyo=;7e4pyi+puzfqtUx4esUtLQ=="
 ---

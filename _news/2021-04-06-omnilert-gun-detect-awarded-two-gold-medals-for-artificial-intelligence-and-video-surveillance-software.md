@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-06T13:29:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/omnilert-gun-detect-awarded-two-gold-medals-for-artificial-intelligence-and-video-surveillance-software-301263095.html"
 webUrl: "https://www.prnewswire.com/news-releases/omnilert-gun-detect-awarded-two-gold-medals-for-artificial-intelligence-and-video-surveillance-software-301263095.html"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"

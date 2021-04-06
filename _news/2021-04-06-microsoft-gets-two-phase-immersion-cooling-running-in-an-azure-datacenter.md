@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 1119
     isCached: true
 
-secured: "gX2IRZMMb8MW3rHksUcaPUoKKlV+wA5XUza8hluQAFsBRphNu+ZQGfXr3u3vWBDyBvY/nNUh7zW4w5zZZl24OBf3eCntJvFKMdHXNzwxlcB4y9nQk1/dMR/Q3QAXg4XN8PE6x+eLG52qowLyaIhaeoiwZeFgpLooZ+D1noQhEt2XVTTBYQ2T99YTevVZPsu2rv1Pz8wQ1T9QrkTvDWTnZ0rZrxTQePhC+yE7Yp3n5CO+SBuF1WQVi78sp7PdpvK4HyMOgQVV24WjHGi/slw0AyGhz5KQaW3Z7hvBwg0Fcb+jkf1DLxw0ft82tjVMlGZd7wJ6c005Sj+K62de342c8yBKZSJ3cjviRHORIO21Rfg=;+T4xHC0Hit75Qugcg6CqsA=="
+secured: "21y3dNZ1W/wHKLB1IE1+LlabqOHMTk0QWN+O1hNG5n4111zfbZzkyAeqHZpc70HjwmpBJ7n3f5ZjMiq6oqqttJajqp8jOJKLnDABc48lJytC09n0zKipCYWLUFL4qGgzd1C5xsUeQqRO+XseBnhfWL20tPu6Vo3p7Ib7qPLw4vY31mRlNYzpzVmTmQjdeqN7IvSvOt9/9DEwdj8/C+DTG0lRSiHwL0yfcvxxNAm6rgnz8u3IyRLL2JRh6mpquw7jAOO6g3xuO6maWvM6Q4GbBp6fIfYipYPC/semdHkSKQEhFadVO6pob5hJrErgSxXH6Y5oMTsuDLRLyDg2cqWctYCuE773yPGxt1JSFpZGlB4ziX1betYWstY0U6pS/po0TBeGBRbsrSJTbK1bgXy4D8T4SK89W41ZFX4R3SAjz5ikZsqW5OlefJbOurFIN7L5OY/F65Ig8vt7HhsxGCJPk+1l5LO1GPaCHguqQX4VLI6wEjl3X3+pvuAcBg2Nea0T4v0/O079JL9C7cIYF1g4Ig==;2j1XsJhMmMnz+z/WJ+O95g=="
 ---
 

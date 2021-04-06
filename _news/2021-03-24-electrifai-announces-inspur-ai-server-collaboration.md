@@ -1,54 +1,26 @@
 ---
 category: news
 title: "ElectrifAi Announces Inspur AI Server Collaboration"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML)"
-publishedDateTime: 2021-03-24T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-inspur-ai-server-collaboration-301254352.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-inspur-ai-server-collaboration-301254352.html"
+excerpt: "Inspur AI servers (model: NF5280M5) are used to process and store data for ElectrifAi’s powerful animal welfare product, AnimalAi, developed to help prevent animal abuse in the livestock industry. The NF5280M5 features 2x Intel® Xeon® Scalable Processors and hosts 4x double width GPU accelerator cards in a 2U chassis to deliver high performance density and acceleration for high-intensity AI workloads."
+publishedDateTime: 2021-03-24T12:22:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-cloud-computing-new-jersey-34e6f1067af8061187cd260394a38ef0"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-cloud-computing-new-jersey-34e6f1067af8061187cd260394a38ef0"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "ElectrifAi Announces Inspur AI Server Collaboration"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today their collaboration with Inspur, a leading server solutions provider for cloud computing,"
-    publishedDateTime: 2021-03-25T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-inspur-ai-server-collaboration-1030240617"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "A Nutrition Label for AI"
-    excerpt: "Now IBM is developing something called AI FactSheets, which it describes as a nutrition label for deep learning that explains how models work and that can also detect bias. AI FactSheets is a new addition to Watson Open Scale that will provide a plain ..."
-    publishedDateTime: 2021-03-25T23:26:00Z
-    webUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nutrition-Facts.png"
-        width: 366
-        height: 314
-        isCached: true
-
-secured: "ZxxStGazAR1DmaE5CHqa+LD3bR1NOGjj/RrqKCj9c4JFMjOUpLV5wc9B8aJSpvozcWH/d+QLYg58ecX0jyIGon+UyxEQO/w1P1eeBKenPxmtUi0J+5P4XfrYv0o91Z0VUz2MzP0gPY7Q5LiD6U44rnWEj0lkz0aoBg6EHidNG0cNWHCVNBVrGP8eq/hSlmFIhDjusA/jUeadn1SkZWWR5TEXLgAVDxPr5bdu9NcgpQRRizkGCWaaH2Ty+W988F0s21+uY6M0Po8pDQgkuQxzx2s0UF6KedB1t+qj6jXyvVyYrqOJ3i7AmV3FWNCuzYOYizHiLxGJwEdpcNeJt/hUrAxfeyGcF5YWBekuN2U6WFs=;68PPDQJPT4mNmgHnZjgT0w=="
+secured: "cIyTNFjg7/0/DrVENwEy6+Jn3ryDIcYd31d7HEXC0TcFRerVoe6vccZpVFIRNTvvgEr5LxTbR7KDIZjAPIphLxZfCaJ3lAoaebAFiCEdTibYy/FAWZDE3d2abSUMnmyNsvCiO48wnwk/qdm1xJyqz7Da/Z5JGSP+sq0Ui1NxpNBAo6uHZt9SBhxN24rLflH02jWtIGd2t9aLlTp/AcJMpq5MkvdVLRnAl0ftoBYSSdZkYf/7/kvQMhzMrWzDhxwMKI9HR9Ihc3oGmzIDSzureTlpmnIUQNnLqqpjQkxbfxhS7z9RxR2knbrxCmyb1cc1JYN40GNDIqMBK2yM0+XOSlFc5T+S0S1q81osw8cxG94=;Ok8FKkKOmllZe1Y9bzYh5w=="
 ---
 

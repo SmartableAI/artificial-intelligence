@@ -27,20 +27,15 @@ images:
 
 related:
   - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
-    excerpt: "SANTA CLARA, Calif., April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of ..."
-    publishedDateTime: 2021-04-06T15:32:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-879581115.html"
+    excerpt: "Frost & Sullivan's white paper highlights the process of creating an AI strategy for your imaging departmentSANTA CLARA, Calif.,"
+    publishedDateTime: 2021-04-06T06:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
-secured: "ee5IgEZQv/jp5IzUf1x4G6XzU4einxqc/Fj3pk0x3uAZJ4N1DnqkOjAF4IXFk4N6xSFHW1oFN+xX9/hvbfWOsiCfK0YDDvETSoQcpm4evFIKVQByr9WtuNPi2bksqOCzpazwBY0PE3YYWzwsRUFhJByutQ1g65zKu57aoM1I5Xu2/pFVv91tsuh3FGp0YrU84oGtlDnNjakuEgKIM38rysErdWJELtSNrNewPkyPm0788tyuiRfVh1ziiPo8HmcWpNYHPHwtFQLRFzre2BXWmJ3b3FZeyqS9+gzOpYoskWFk4+egqY/APHIY+brggkzEL1Lz8nJM+jnvzXd/a/2Ff28NDhSf9YrDvDNhSFatarY=;WzZfa7kxEG6Gq4ledw2fDQ=="
+secured: "lEwqlXtdMhZyZzR/Cw82aMkwpHf3FCMlV2nhVOMfUJfkKYy1iejoShHZbgUAQQLBrxoxsS4O6/Y/BYUfi2/+yCoi3/eUS4X4vPFUXyMAknMO2wutrytnwXca24beZiUcCKYc7LTeeJ6aA6ptnh9iLq1wLSXsZLwksJoMfMUGCiNWUvSb8GgBzX3j9HeRUQ6qQDrQa8zy9p41wxJelTBfT+wRi9bGmtlrmEV1yexRmYFiC5/BWSJWioXyj4Ve7vj/ZBMEKAzA1WzauaNdvsY736LA8xX5LF6BvoPTlv1MmQ3XrvKxo7CNqGRfruJtOKVKjZCzz8ttkPmTMsS6rUK/MbfbEkv2gNFK2msZs+TjznA=;Rdcooul4ZRXDQnNyFhpp6A=="
 ---
 

@@ -69,7 +69,21 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Ice Lake has arrived: Intel launches 10-nanometer Xeon server chips with 40-core flagship"
+    excerpt: "Intel is promising 74% faster AI performance than previous-generation chips and up to 150% faster speeds than rival Advanced Micro Devices Inc.’s EPYC 7763 CPU. The chipmaker reached the latter ..."
+    publishedDateTime: 2021-04-06T17:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/06/ice-lake-arrived-intel-launches-10-nanometer-xeon-server-chips-40-core-flagship/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/intel1.png"
+        width: 690
+        height: 457
+        isCached: true
 
-secured: "x07qtTLV3sgtnS0M4DRdrWG7Pcr8rlQHpy/ejTSd69um51RUvyYVVgpuvZlNtHxQdeIzmqECP+xZCPlfq2WNp7y5mwz9f7qA8czGDK6TP6/w411SnuKPOCILIktsjywejGBj+ezjEDJfTqbfuTiEY16CvE9bKtLuOQm28iYwCnC0HlYdI0yKqC9Iml78wwXPRf8uhmd0l4UgGwQXMuMcpayZJPLvWlUG3C83cfs9r645gnJYisRu85Yam1lgqlUIQHf/WMVuz02ItdWj1T8cRz6J6+h4oRICQD3yHlDx6ZKLvPhBvwDHXgRWknD9azI4IOKOe6nra1ZjUhhawXk0exEXa2sAX+/H29gw1UJZjfU=;2gU4qJ3o0vz5SCL9OeKWDw=="
+secured: "J7p0wjGOO+70v8YOMZ+L8IlOAQ8zGIiWW/mqJYY+PvskCgoWnfis23lreEzE0q8ts4Y+oHn8/4d2CVxqaP6J0Y5/FACPcRSY0WZNbuT3SWqsT9T7L+FaTTQG0I5nQQgDQ4Dz3166reWac/5/UVDhCJXikuJraK44rKOYATj5wbFx7rHTu43JI9MwCERTsEUv/wkLuXaxVChfQvtUSVIY7cNWhKBC0/wtEkNMW9raW9vDbQzlcvlkmUsVBIoIacdZygruUMjoyLWwCqLiShWrUQMOy9PDoMEe4IpREuyMqswpzSuWoxVy6CD+2cpw2R9aaGjNR8biUIoovFQP99LNCASE+9Lk8tPVr0p0lgVFWD+mFMWoLFKtibnjqxzDzmfPocyv4K9MlReE+3SVMLMYU3HJq7i82+DBm0lTbnjF78iTqxgHzYv71n8T2CTDorrOiLySFUx8kulLtRkgnKdw8pxM8vE83oTJXjFfmxEmdqFmUIccMFTgVcOr0ZMjyIwg2qWlL04lnxxu8jxomMUQYg==;FfvaNvZvF8HgvuI/18VDXw=="
 ---
 
