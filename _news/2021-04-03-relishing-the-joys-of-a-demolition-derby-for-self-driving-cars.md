@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 4
+  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
+    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
+    publishedDateTime: 2021-04-06T03:05:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "xV3TXtOzm+AV3bEmWCd1N7vV65A4MgPxQ20a+dsz2e8Ok652Jjb7laKgeNZCm/6GbnvZtr5k8p0+6JLFnHVOj4yEHomlwH0ChUC0ofbIH8nVCXXZph1xHLRc3JdBD83CLYMjNM0ktU1NJbPk5VX+3G6UF01mzBN7vZovg1NHqNYiHA8l0DcIspAXMjMpGzXgH6wD+DC5Z+GAlrObTf3i2KQo9QzFHCzNP79zTjzFcAyXA6EUaogbH+IkwXP0CNsrf+0gTZ56YQ0OwMvi3PWVYHeuH9JfMPCqF2UHbK5f/b+OX/PYMOPMdyoNmiZddxvUNYWV9N//5NrPQvAuCaXjm3lDULJc3VOSq42R76KWn0s=;K/hs4FqNQGFDVDKdR/HHqQ=="
 ---

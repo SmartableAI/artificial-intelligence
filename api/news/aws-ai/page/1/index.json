@@ -516,22 +516,13 @@
       "title": "AWS Announces General Availability of Amazon Lookout for Metrics",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause.",
       "sourceUrl": null,
-      "webUrl": "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html",
-      "originalUrl": "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-corporate-news-e2e67e8b05e14f69af7bc3cc29d03ed9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-corporate-news-e2e67e8b05e14f69af7bc3cc29d03ed9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -539,8 +530,8 @@
       "publishedDateTime": "2021-03-25T12:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Argus-Press",
-        "domain": "argus-press.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

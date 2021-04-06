@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - Google AI
   - AI Hardware
   - Natural Language Processing
+
+related:
+  - title: "Uniphore Raises $140 Million in Series D Funding as Demand Skyrockets for Enterprise AI and Automation Solutions"
+    excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced it has raised $140 million in Series D funding, bringing the total funds invested in the company to $210 million. This latest round of financing was led by Sorenson ..."
+    publishedDateTime: 2021-04-06T04:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-037a2fb234454ee697af355402651d62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "rVRHVsGwWunH5y4lc/mGx/0soiyhbgGqXCBM6VaUbeSi7UeQmqIKlmjNgbSfaEmJtgtqDz7AdjeqI9vTYq6/a5nVyT51WP8GTwdE/aHc+XYiVST5muMCmgaQ7zg+LtUZQImSuHV7AahwZwwKfFo7TrrQ0X5JpHn3QziFehk+b/D8FdBvVnmeT81Md9m3hgEBkBbZbEXDMUICkwpraATyZFfmH+gRvXhQeL/AiQa1zBYz7nMxI7aRdxII8NXClSZd60Djf7gXgC12tCjgNBdQSOjKuwi5YY0zMPx23FxynTUj8kwBnSsJg7majwZu22m8pzK8mxHtl2A1roN03XfT4x9Posa3xcIIgQBnUhYQAekUIn50IbYFciYngqyF3/eJQnXr+qHHMvedm00zYxOQ9BOaPtXfC0uylFxL2h7qFauSMRWuAyGmu2M4ya7qDXvXn4c2LMilb+85yZEQOPLqucFCoRL8wBnR3eVjRTtlWfeqvegkmS0HYA9jgRGuAtb3GMMAwvThYAwMNWCt6sa8UA==;/Pjm8f18Tu2WbyuNnn1OWQ=="
 ---

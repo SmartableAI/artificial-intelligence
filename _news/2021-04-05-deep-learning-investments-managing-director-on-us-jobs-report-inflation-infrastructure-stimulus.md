@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-04-05/deep-learning-inv
 webUrl: "https://www.bloomberg.com/news/videos/2021-04-05/deep-learning-investments-managing-director-on-u-s-jobs-report-inflation-infrastructure-stimulus-video"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Report: recommendation systems drive AI infrastructure initiatives"
-    excerpt: "The report categorizes common AI initiatives by vertical, and we also see different strategies (build vs. buy), frameworks (TensorFlow, PyTorch, Caffe and others), and databases by vertical. Over half of the respondents (52 per cent) mentioned using GPUs ..."
-    publishedDateTime: 2021-04-01T11:02:00Z
-    webUrl: "https://blocksandfiles.com/2021/04/01/wekaio-promo/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 39
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/03/CPU-vs-GPU.png"
-        width: 936
-        height: 594
-        isCached: true
 
 secured: "sj8UspOE8w/zCk4osdcadRblrmNjnwwK6zL7gKFjZb/61K6yg/rwDUlO8vzqFltsP2JtSQ1wMEENKH8tFlJBxizotevFa79nxKpggQHlGQYdLFeGsOUsAPmWklCS7k7TWRFruQSYkCoO9ka9ROjjXe46yPY0RHNgof0WeIXSoO/uNsyqVChHGYjiMBdvQ1kQDXLE+EDu25SX6YM9nGeTJeM3xlyoFARJcZe0VMqP5CZ4vXR28LyRlkLY3ZQFJuwxHxs0AKTCfnST0Pu8MtqRAZ2LEL/KyTMFwZdtaxUZSYXSFWqBLP02Fjt1znEFpMw0hPT16DBCE0tRI3xBcKTcvFCFDlwfUce3/4DfgOjlMF6kGBeNHMCI9smnYL/fKo1iGcI5XLY5oWN6D3Wtt/7niqyJudAY2pfPprM3QQ0FEpMd32O2RntRqCEksi62+VhwS78acAlEbz8Fz/xfsaByeKkILJlc52t3WNZCjV0qljPrCx89DSWcRecqXKR7aW8TKFIVb+gyk8OpIPAP1KZtrw==;frhgrjbLf/uiz8k7/nsM9w=="
 ---

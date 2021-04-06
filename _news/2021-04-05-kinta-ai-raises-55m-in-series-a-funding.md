@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Black Owned AI Messaging Company Raises $36M In Series B Round"
-    excerpt: "The latest funding round for Travis Montaque’s AI messaging company, Holler ... “Under Travis Montaque’s visionary leadership, Holler boldly stands for a new era of ethics in social media, and also deeply reflects the values of diversity, inclusion ..."
-    publishedDateTime: 2021-04-05T15:48:00Z
-    webUrl: "https://www.essence.com/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    ampWebUrl: "https://www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    cdnAmpWebUrl: "https://www-essence-com.cdn.ampproject.org/c/s/www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
+  - title: "Taiwan-based MLOps startup InfuseAI raises $4.3M Series A led by Wistron Corporation"
+    excerpt: "That’s where MLOps (machine learning operations) companies come in, helping clients scale their AI technology. InfuseAI, a MLOps startup based in Taiwan, announced today it has raised a $4.3 ..."
+    publishedDateTime: 2021-04-06T05:17:00Z
+    webUrl: "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/"
+    ampWebUrl: "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/"
     type: article
     provider:
-      name: Essence
-      domain: essence.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
     images:
-      - url: "https://www.essence.com/wp-content/uploads/2021/04/Travis-Montaque-900x600.jpeg"
-        width: 900
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1257762119.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
+    excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
+    publishedDateTime: 2021-04-06T01:00:00Z
+    webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 61
 
 secured: "zR4HEJKvH6B/yv+2Kcp7sPzs0ITnsZK0uo2PK6DGx6oV+X4KGHfvahdcpcRMMl7yqimUSwJP1CSgI4oIBEnYXrgIJ/kAC619cs1UXdRMvIllo/1aY2GnBFq6JWASQepyItmO9e26DuKGSN1TboKsxx3OmvFfLScfMdjbFqigB3G5/iHDJu15XP/lyyujEuMJFgXqnt/wa0A8jkWoIgq7Cpl7v7I+6i+NahxSBv936bPYJXnsdRJPRoQ/yAiX7pUk/9j/URl1+tilX9Rprs0PnJV7zlJeibwGnlv8z7eEy6ke6MhN2YZs0bzaoTKMgNcirlRq2s4ReaQYJhnYo2ixlGt/Waka0Olj0DP8pitCEOS2mUj32fY3rvOAWccOG6MgQDtKn/0h8vPpF7vWam2Yq8UDZbNVherJ8607zMyL0HQ+GSpIXrxxLAG0sDPyY2G+M7zsRTPrQlnZm6wPa08hc/c0tzL12fj/ALy7SyLCUU/N16hClSPgjFg3JxJO8phwC3PPvSUw2VbnReb8+fhWIw==;WUKahGZRanX67W0KIm0xNA=="
 ---

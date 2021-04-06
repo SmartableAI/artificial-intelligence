@@ -43,6 +43,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Congratulations to Sophia the Robot, Who Is Far More Successful Than Me"
+    excerpt: "Jezebel formally canceled Sophia the robot in 2019, but—in case you needed further evidence that cancel culture often has no lasting material consequences for its supposed victims—her career continues to flourish."
+    publishedDateTime: 2021-04-06T04:07:00Z
+    webUrl: "https://jezebel.com/congratulations-to-sophia-the-robot-who-is-far-more-su-1846624636"
+    ampWebUrl: "https://jezebel.com/congratulations-to-sophia-the-robot-who-is-far-more-su-1846624636/amp"
+    cdnAmpWebUrl: "https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/congratulations-to-sophia-the-robot-who-is-far-more-su-1846624636/amp"
+    type: article
+    provider:
+      name: Jezebel
+      domain: jezebel.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yy7spz3tn9xfncuiax13.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "oIAkKbnjttTkvslDViBBzXZOoxE8UviF4DhodrVNaU5VTPc+xzVo0gCuTJBeFCyQRlg55N/+bQ34hP0ZnX1Z8wiogtd3Z4kijoyaFqKq/ia0c62FU6ODaTPPGcCS/UVHn2yc/LuWmD9hGOw8gEgRnv87VvjWAluqahmqKOkmGceLV/hw3EZM94l81Qj42mF4XRVo4pFUCNV9eniZ3TXHQUhNrFLg8/+383EzYQbUY8e7OR7Ksuwcxk4ml3qtIsuPeZJ/DWBS3/R0KiJAI7ewoKBd48VITu7i53ie3+wgfBCmhFf/SW5VQDX+fEkJT0LfRHVGm12/OClipBf7KOEpqKi4ZpP4r69vXYxuDSFaaAgCMidSj32h++wzWyZm4uiLrOimkQfN1DU3jNXlkCpSoxw1M8BbymiIxZPeAGX12sEAdvALNBoWdbD9enwb1VfO718I1j3waEBrW1MmDbtb78z8w8gLgWDD1QSbS/RxVHLbQaH/JRb+nFmNVSF0vZboowgbP5QMF6BIv/EPVdKkaA==;EmbXdbVQ7Qa9BU6MxlC4xg=="
 ---
