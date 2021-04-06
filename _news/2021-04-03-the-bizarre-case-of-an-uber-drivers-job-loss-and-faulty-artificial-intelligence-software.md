@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-ar
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/bizarre-case-uber-drivers-job-loss-faulty-artificial-intelligence-software/amp/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 898
     height: 400
     isCached: true
-
-related:
-  - title: "Uber driver claims facial recognition app locked him out of system after he tonsured his head"
-    excerpt: "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,"
-    publishedDateTime: 2021-04-01T15:24:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 65
-    images:
-      - url: "https://www.thehindu.com/business/Industry/2zz7cs/article32892894.ece/ALTERNATES/LANDSCAPE_615/VBK-UBER-BIJOYGHOSH"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "Hp8UQeQVNLJzlaUHBJQPBWdbiM76cpwrGpYgwTj8hd33VihQ10mzdtv1yKCyaMZgw7Qvrr6deghlOjaw31g5TFzcPCeicMecumn+kTxrfVQMXDrCjCkLdgSwDv/vPX96xYk2nkWs6MfxmSP0ZRXXWOi/g3IRLUwUaBzZ1qyLikjF09f1a5j1wqQRYFHbzcaSAss+9mrjdFemMNAgrG0iA76L0MooKkGzluzYK5ntJLGFFbiIg9fmsortkC0AcSR7gW0qZFnNjHfiJizYsuLxo2Yw35JSzdhcfuVb22Ipj2hivfzPmD9becrVwyddIqVQ7cF1V3FKHu2FMEQ00AnIpGNktNw46OJWDigI3dXgCH0=;IhoHolHeMAiQDMDpFky+Cg=="
 ---

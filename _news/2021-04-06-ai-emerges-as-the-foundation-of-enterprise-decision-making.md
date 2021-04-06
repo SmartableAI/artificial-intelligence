@@ -1,27 +1,24 @@
 ---
 category: news
 title: "AI emerges as the foundation of enterprise decision-making"
-excerpt: "Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of"
+excerpt: "3. Ethics, economics, and sustainability issues curb AI adoption. Despite high interest in AI, three key challenges need to be addressed to scale AI implementations: staggering energy consumption, biases in models, and high cost and computing space."
 publishedDateTime: 2021-04-05T20:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20488668/ai-emerges-as-the-foundation-of-enterprise-decision-making"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20488668/ai-emerges-as-the-foundation-of-enterprise-decision-making"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20488668"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488668"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "How AI-powered BI tools will redefine enterprise decision-making"
@@ -55,6 +52,6 @@ related:
         height: 364
         isCached: true
 
-secured: "ZLFNGWY8zVWiH0r+7LFmZXc+KkG9hiy1D66bCn8R3ldb42eze4IZ5Tk6FSuP63s2dRyu9fDlg9er1HnB0tztx7/8qsmoH7bNQ4cLmB88rv/bdoOWdN7NfSpoD2aBV8CNBz9urkQau3PnaKGOJsaru+E0yav/1F1wjpenJs9pQgkcllgBU0CrrMDugagiavvE6Z86YxuG6+kmcwSG7eh4+UpMoi3pCLcuL47qED5pNwPlVR0Fl+75tSfaWQqIUMFIQuElLxO78rnjDOS/M+NwtEFtElfOt0TAawVBCu9/xZcUEpvE51lFgKkcYCMd/8xolwgZVLvNRUxl1zmWy58Km2QDk0M8dxpXAaf0hILLH9g=;QEGI59p4FGUV54PwY78GDw=="
+secured: "yAH/BrLqrTYo11MyhGQExYDdv56Todt5/7lQq11bVCTUi/45XbldXHrhbux8OpNf/TSLVGVONXU+v2ChJHHtZ/IXRKcnEyWF1xdbzt4uefXS80Y4Pe6nW8Of7UP1RKmGpU8k0YkB/IWsUOXM1YyqWHMvp+SbpdswjQdOWC8b/svRWo9lHT5B+XdubHfaydce2fmRqXYnX4O2EPqrweMjoZb0sxUDY7uF/drbUr55FTzizhT1bixaVIwbNA0lXELKLZBzkK11Eorqa3Y/uWuyDGjinPNgFAorPVzpQw+YGYPfp1vF3LNZjlibfRFLyVsI+xBOeqWakh543Nv27H2ymfGvViaPTnjul6WbldPX7e8=;mA0ybp6Z9K2u+Gd/pn17aQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/new-nirvana-song-drowned-in-the-sun-c
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-nirvana-song-drowned-in-the-sun-created-by-computers-ai/?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1767
     height: 884
     isCached: true
+
+related:
+  - title: "AI creates another Nirvana song"
+    excerpt: "On the 27th anniversary of Kurt Cobain's death an AI is attempting to fill the musical gap he made by putting a shotgun to his head. Nirvana tribute band frontman Eric Hogan sings in the chorus. It sounds not all that dissimilar from \"You Know You're Right ..."
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52638-ai-creates-another-nirvana-song"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/233996b7fcd7b25d40a9332adb503ffc_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "XWH7CGdVRT2J8elwhXKRSz/iDORngmcAPTrYVo2RiCIx9lU67R9rDWM9VAbZodlQLFj2cxIHO73sqihAVbZxNpXwPOiOC1G88XxtPHvK9/RsEzCHs6+m5EKgJXkKr53TL4KJpr3Y6VsjwtKcFYDAuk0YRYbtsdnT3RtVHtk7dzD9Jjjh6Rcay5fb2CiRe9oG9FhYjAL/0fmlUYqUXihb7MAxPodTlPyGP6asRjDQeJyAAhkyHoNVJiKeE4Z931MtJT9/d/s1anhK5X+xDzS7BJG3VxDfFzuB0hwtWPzk1HehuvoEI/ox+ggQo61NieS/kfX0xBV8NLWDVsbTyBo90EDRqrB5sMWAOTlF6by9D4hFDORUqlxPJ9+cJDcGa6niRZzBHzVJUuHU2K4QgnjZziJITsETZpvjsKDFO8Irb1J5K1obFEwSTyT1zNOU24JRhRmvtXZ50wYDRvhwGPAgKZuMt2Dm3NqgKgyF4dS2Rk99T8REJO/shBeemH7iMHOz/dUkcyH4mARB8SXFxl/8DQ==;bgvyIA22FWQACkgqnVVGCg=="
 ---

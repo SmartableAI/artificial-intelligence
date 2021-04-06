@@ -99,6 +99,20 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 26
+  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Trending Technologies – Microsoft, Qualcomm, Intel, Google, Alibaba"
+    excerpt: "This research study titled Global Artificial Intelligence for Edge Devices Market 2021 by Company, Regions, Type and Application, Forecast to 2026 reveals the current status of the market to predict the future, by analyzing development trends, competitive ..."
+    publishedDateTime: 2021-04-06T05:20:00Z
+    webUrl: "https://ksusentinel.com/2021/04/06/global-artificial-intelligence-for-edge-devices-market-2021-trending-technologies-microsoft-qualcomm-intel-google-alibaba/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://blog.westerndigital.com/wp-content/uploads/2018/08/Machine-Learning-highway.jpg"
+        width: 1200
+        height: 670
+        isCached: true
 
 secured: "ejs4H2MpZY1zVdxiFm4gu/gZQoeyegB6H+AIgkv6Rg0wFb63H4UfXDOAIfa+vP2g7yx4ts85vWzpPkTF4C4HICJLD13rtdYX2MRhk9dOT6M6a4Qbj7tdX+svV0kDf7cYgn7oaP6NorkpmfHAj/wD6E4Jp46lfZM+xfY8zDgXTKBIGUI8zf9WvPhpWvmA08PLyZsVhyVtdh4LN04lJJsZqDuODi7OiJYpsgdlZWSPdwwBpC7U8a6gKlQZQFd9Yczl0F17ENgRp2/Bb/pueXAWE42NnCnY3BZ4T/EHuPC4kXIWzeP3VZlu4/hfuoFr2qUxDICjs8SsYXaxG0qxoxyRSEprJkoy03e+xPB1MVnfObjSyRb5vL+Era3lzAulXN38mGvANklHYhtWKijWxgrzzUcEyrkUuYt1FacQBwgoE62CmqgdJT5sU1Ddl2ytPJA4+bmaJE8iskwMRRJX7cc1KnPbWUZMSKKV6KXgg51bxz314pH0hcHiEFG38ywVV+4WLhzDUSjdbFI6XcQg8T96Eg==;H4r7UPfBh2OF5NJC4cRmxw=="
 ---

@@ -2,6 +2,215 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
+      "title": "How One State Managed to Actually Write Rules on Facial Recognition",
+      "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
+      "publishedDateTime": "2021-02-27T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-the-company-using-robots-and-fan-input-to-pitch-stories-to-hollywood.md",
+      "title": "The company using robots and fan input to pitch stories to Hollywood",
+      "excerpt": "Wattpad, a social storytelling platform with 90 million users, is becoming a rich source of intellectual property for film and TV producers.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
+      "originalUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/01/netflix-the-kissing-booth-e1611957617563.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
+      "publishedDateTime": "2021-02-27T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020-2025.md",
+      "title": "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
+      "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
+      "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/01/opinion/26bouie-lead-print/26bouie-lead-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "publishedDateTime": "2021-02-26T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-gchq-outlines-how-its-going-to-ensure-its-secretive-use-of-ai-is-ethical.md",
       "title": "GCHQ outlines how it’s going to ensure its (secretive) use of AI is ethical",
       "excerpt": "This week the UK's security and intelligence agency GCHQ shared an in-depth document outlining how it is thinking about AI ethics, specifically ho",
@@ -989,217 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-6-robotics-startups-raising-millions-in-vc-funding-as-they-help-retailers-meet-surging-e-commerce-demand.md",
-      "title": "6 robotics startups raising millions in VC funding as they help retailers meet surging e-commerce demand",
-      "excerpt": "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2",
-      "originalUrl": "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend.md",
-      "title": "Translate and analyze text using SQL functions with Amazon Athena, Amazon Translate, and Amazon Comprehend",
-      "excerpt": "You have Amazon Simple Storage Service (Amazon S3) buckets full of files containing incoming customer chats, product reviews, and social media feeds, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing happy thoughts or sad thoughts,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/22/ML-2620-1.jpg",
-          "width": 587,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T09:13:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action.md",
-      "title": "Robot Spas Are Coming: Watch The New LUUM Lash Extension Robot In Action",
-      "excerpt": "How does taking a 2.5 hour lash extension spa appointment down to 30 minutes sound? According to LUUM CEO Philippe Sanchez, that’s just the beginning: up next are brows, spray tanning, microdermabrasions",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603925fc1fd3e2761266bca3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/amp/",
-      "publishedDateTime": "2021-02-26T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks.md",
-      "title": "Aurora Buys Chip Startup To Cut Laser Lidar Costs For Robot Cars And Trucks",
-      "excerpt": "The self-driving tech developer is acquiring Silicon Valley startup OURS Technology to integrate its lidar sensor into a single chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60385e3c8ad3227117d6102c%2F0x0.jpg",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
-      "publishedDateTime": "2021-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adamgeller/2021/04/05/can-ai-computers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamgeller/2021/04/05/can-ai-computers-write-essays-better-than-you/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 627
     height: 477
     isCached: true
-
-related:
-  - title: "This entrepreneur says AI can take better care of your health"
-    excerpt: "\"AI is a spectrum of things. There are many aspects to AI than just the programming part. There is the design, the creativity. There is also the ethics of designing those systems, the user interface\". AI is therefore not just an intangible zone for tech ..."
-    publishedDateTime: 2021-04-01T15:29:00Z
-    webUrl: "https://www.euronews.com/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
-    ampWebUrl: "https://www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 59
-    images:
-      - url: "https://static.euronews.com/articles/stories/05/41/08/90/1000x563_cmsv2_32a19abb-3f98-5b22-ba66-f7c6e023bee8-5410890.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "i1Dy0lhY5jptTBDLREPabEVnwGTr9/PZ9zq6hqtB/YNybPavI4F8EfSooTIMyskXc5228VZoonLeEnKifmlSv/yQTSeNtNaiJVuNMs1dSHOgbHSg3CpAmH1+eXYXXbG0xRhpguvaJ6+Omm9/QZlm8TPks42Qt/zjNHz855WE/13Z8J+rquM7alyLoBwLHKk4vDxUUTLpUVylocgOUPUyUeZVacDzZ4sd/qE4OkwVFQejdZ+xyMDY/UUjLd01VHdvBMIPxZyOsJsH8puOgFv34sS/TshW09WX1e0NNFvdfwP+8Hp40+IEvotwngD1RtMiomA7fpoq3w7O2bTAsG2cVKD4ub0t2yAsjcuU27W4vsS2VaLzPwbbdY401WyLX0BSsbqoFsULAlDlqQZvy7c+SuSog4XpkcWh5vaMltH54DVhdA/wfXSzIu4u0VS3B0gZD3ttMZu1fPFp3Rzz/Ad5qTcaV39rLTPqN26Zvu8meUiFPQCLnzXVNfgoQDAZG9rbxxMUc52VzkS8x/8/ai9YHA==;tzOAfxj64pFvdgSkoihZWg=="
 ---

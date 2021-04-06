@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobai
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Rolling Stone
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "'New' Nirvana Song Created 27 Years After Kurt Cobain's Death Via AI Software"
-    excerpt: "Twenty-seven years after the death of Nirvana frontman Kurt Cobain, his sound is continuing on thanks to artificial intelligence software."
-    publishedDateTime: 2021-04-05T20:20:00Z
-    webUrl: "https://www.billboard.com/articles/columns/rock/9551482/ai-software-generates-new-nirvana-song-27-years-after-kurt-cobain-death/"
+  - title: "These AI-made songs channel the spirit of Cobain and Hendrix"
+    excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ..."
+    publishedDateTime: 2021-04-06T09:48:00Z
+    webUrl: "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/"
     type: article
     provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://static.billboard.com/files/2021/04/Kurt-Cobain-1993-billboard-1548-1617649217-compressed.jpg"
-        width: 1548
-        height: 1024
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/possessed-photography-U3sOwViXhkY-unsplash-e1617698188720-796x420.jpg"
+        width: 796
+        height: 420
         isCached: true
   - title: "AI Software Has Made A Convincing ‘New’ Nirvana Song Called ‘Drowned In The Sun’"
     excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ..."

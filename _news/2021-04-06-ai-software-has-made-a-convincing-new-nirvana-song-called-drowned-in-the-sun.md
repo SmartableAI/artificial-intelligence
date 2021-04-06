@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "These AI-made songs channel the spirit of Cobain and Hendrix"
+    excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ..."
+    publishedDateTime: 2021-04-06T09:48:00Z
+    webUrl: "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/possessed-photography-U3sOwViXhkY-unsplash-e1617698188720-796x420.jpg"
+        width: 796
+        height: 420
+        isCached: true
   - title: "In Computero: Hear How AI Software Wrote a ‘New’ Nirvana Song"
     excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just finding little moments that are interesting.” O’Connor and ..."
     publishedDateTime: 2021-04-02T15:42:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "'New' Nirvana Song Created 27 Years After Kurt Cobain's Death Via AI Software"
-    excerpt: "Twenty-seven years after the death of Nirvana frontman Kurt Cobain, his sound is continuing on thanks to artificial intelligence software."
-    publishedDateTime: 2021-04-05T20:20:00Z
-    webUrl: "https://www.billboard.com/articles/columns/rock/9551482/ai-software-generates-new-nirvana-song-27-years-after-kurt-cobain-death/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
-    images:
-      - url: "https://static.billboard.com/files/2021/04/Kurt-Cobain-1993-billboard-1548-1617649217-compressed.jpg"
-        width: 1548
-        height: 1024
         isCached: true
 
 secured: "7IyDH7AjtJ/OTkZuTptSX5Qe7dWOhWosfNAOVQsv0Ga5lSRqCOTabumSSYxiix5LxRZjL3/lFVIc8sROm8NHSMUB/C+x8KbaS3j+5zp3IntwSJrsQvpe3JRfrkF1Lw1M8pyrpICzscmUc08ZLbEbs3oeO6UUdvVi+4UwJLaKrKcU0m+DbACoDmamYgCPSRIHVdN3SiYjEeb8pHVAniYghAr8j8vQ8YfGf3rVuLxDs69o6c5ouKmqa1+lzt1svt8ChlDbAjSn0Lppr2uzYluCxYRub/QvVia5nGhvt68Ir0ck/cZZ5nhCkWwLRVOHJ3vGO7md1gNHpdEszzYLgm1BfBTs2vNpVmfIEvxQY/tIYbz/keyv6Eu0GZQ5Leso02FAtTzV9E+8d2b2UbScXlAJ6jR6/Avo7mLf70KmaUsXmoxBAqGSwMwIdsEXtmZ2Q+zwgFmfHfBPA3tnc3ZXccw+yHNM5gM/BCg+a/nrAeweXmLNJt+Lo9ZFdvi83Pt/TPMkwHWTbONMV2eF1wCPWbwMaA==;KtSOq/m9zxIKV41305jdzg=="

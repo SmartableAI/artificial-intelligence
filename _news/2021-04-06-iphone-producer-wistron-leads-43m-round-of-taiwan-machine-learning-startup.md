@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
-excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
-publishedDateTime: 2021-04-06T01:00:00Z
-originalUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
-webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+excerpt: "“As enterprises from manufacturing, healthcare, finance, and other sectors seek to scale their AI operations and model deployments, they will require a platform like InfuseAI to allow seamless collaboration between developers and data scientists,” said ..."
+publishedDateTime: 2021-04-06T05:49:00Z
+originalUrl: "https://www.techinasia.com/patsnap-10b/next"
+webUrl: "https://www.techinasia.com/patsnap-10b/next"
 type: article
 quality: 61
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: finsmes.com
     quality: 17
 
-secured: "UDE/F1w2D1/oSAtlaAn4EE6VPSH5Iee8Yv8zVgOcA51RbQ+fIcOcVMJbHPWS4qcr0xRJWFhMWKhO68IW8Jd+QICLqcO+fOxkzCdXeMSztXtcRwtN7allOK6PB+FXZRxIrVhw8a4cmR56bDFcxBglyUie/SIVnwESNM6n/llBmXyAZqxZKfNn0DXwMJza/8X583Z89PH1/6/iy91NNtusd9Gf3m1TP82RkR3tkU1CrN7bXnse7xRxAleGKIaCsPRN3jbCL/ZK/YSswWViKt8n34a1CtOonUudM1Ys93vJpoeV4m+G1Ab/7dcQAXUHsDG1Z8Qpj74JnbIW+TdSaUnRWne6hZqnVHM1vLRuXl02I5Po3TJHXToBdixbqZMg5dFw4ixNBauAZoRvWDrBE2dlbV/RUTo1lvhrA2PcpQZ4Rcc9501OzAYCmvqqZstpQYTc6p6MjONTRilMXnObD36IWN6iIdMNcPUJyUL08gBU20WsUu8irqAPwPhHSgAPoE6YA4UFtH6WtbyJac316V3TcQ==;2+T3KyUzDOYFXsJAG1SEQg=="
+secured: "17DXdrdpWVdPx6U3m/731WLzEkQv3+fPJJQO6kQ3qkQvsBtT8UIzrgzIWhsQbV2wpIOvfC+JNGsuZQFyWyBDPa+gfByiZMuNwvm1NGGqKdUwWrvj+f7LxWNAezkZXlAKyY/cayNEVPSIqRtiwXwB20C95t1MjBNv2j7od8kSJRNvtYqp7nB6LKkzCNHEJPY6pSHAPChG5WOi/wkdIPz2NW4C9Y1rfReBnNj1cueatyx3mKeh2G5vzp1/oFzUj6w2DQneHFAsbvy7f60aesFvFadZdaX5ED4ErzIIPXq6LMWUsgqfauJoXNeIdoEuDX1ca/tA/0Y+MY+g5LdWvtkLmG0FTQVChXE07FlWpdnFaN/TEe21K01/S0eX0TDZbP1MN79YYU9sJPAZ3bs+u/fhUANhrNspmNXKdFEhCw3aOfp7nrJ02VlWk/TR2cdO/WLznxI+oQ/cU5woIhAl+L20DmwvPavDi+iSVkCTIeX3vCOqr2aJq+2qC6GBuJwjP1pUqvCfAoFuHslOQ9ZcPXPEGg==;fymiD3rcBK96+mYBXzyn3w=="
 ---
 

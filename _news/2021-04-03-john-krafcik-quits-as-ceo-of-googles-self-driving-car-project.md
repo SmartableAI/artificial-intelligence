@@ -1,28 +1,22 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Google's self-driving car project"
-excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures."
-publishedDateTime: 2021-04-03T09:22:00Z
-originalUrl: "https://www.punjabnewsexpress.com/technology/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-134683"
-webUrl: "https://www.punjabnewsexpress.com/technology/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-134683"
+title: "John Krafcik quits as CEO of Googles self-driving car project"
+excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
+publishedDateTime: 2021-04-03T10:56:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: punjabnewsexpress.com
-  domain: punjabnewsexpress.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.punjabnewsexpress.com/images/article/article134683.jpg"
-    width: 740
-    height: 775
-    isCached: true
 
 related:
   - title: "Alphabet Waymo self-driving unit CEO stepping down"
@@ -240,6 +234,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "BsEtl8HHd4wA6OiTy3jJyFqUBevEZrperI1rGL7SAGELciJk76tZY9uoCBCfbGqO67WwBHkvABfME86iqrSo6VIaa6llkKRDT0nVbLgHe3zLRBfxIGcH2IhxX8jzOztr1eqgtz5k9Lr4yif6HN5xQCb0CzIAa4VX6jKCjVfgDFn4m5PBGlwdmhr9VplK7Ba2/GJt3NUuDpUeTW2Tqp6pz7CexgbExrOpkSPTs9ZiYJNwQhR663iJZHqFfuGEUX5dtw8v6VifeGg/+aoWPGKzbIuerQwfQIytSKzJfhbLRqbeC6H5iK5uzNckxuO3n2pki82OGoU7WJhThCxd0k+RSF0qG9kIqJb2Cn0KUkTOX7A=;tm6D0g5LDRIQSyUX+yXzKQ=="
+secured: "wHk3PbdlVEWekxzxo2ItJ8izpE4eI09bs+tcOahrRLHbxIn/qgA4sm3vvfn/aGjk5fzr+Xy5bhhVsv0JOt8mvkNsl4TcKiMrxaxZPKjbIyvS9qPWa+CYB+hVAqnG0iEfY1Ppy156dNJS7GCN8V2xmgOOxnegdgjmomk1IkYH2+I7Gkxz8bLd6crs8twgaPuC0ELDwAAjceZbMDdodAq/DxXCDxQaI62yTZWZjOchiJKr1/5Cq3bcmGMDqtgXQQDUSaHZXHmxZABIY5eld8WJ6x+t2C8FlpIjEQ+yf/vq5xFxr6UYXi+AU2Uia7DRXJlNLSB4o+X9CLKPTdzUTZutdYvDoo8A+7G4oMPMw2erRsk=;95Apoim4Z83nV4fK2lVBCA=="
 ---
 

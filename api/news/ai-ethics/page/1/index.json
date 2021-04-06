@@ -57,21 +57,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-02-in-computero-hear-how-ai-software-wrote-a-new-nirvana-song.md",
-      "title": "In Computero: Hear How AI Software Wrote a ‘New’ Nirvana Song",
-      "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just finding little moments that are interesting.” O’Connor and ...",
+      "path": "_news/2021-04-02-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
+      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
+      "excerpt": "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector.",
       "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/",
-      "originalUrl": "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/",
+      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
+      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg",
-          "width": 1800,
-          "height": 1200,
+          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,13 +79,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/",
-      "publishedDateTime": "2021-04-02T08:42:00-07:00",
+      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "publishedDateTime": "2021-04-01T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,8 +95,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

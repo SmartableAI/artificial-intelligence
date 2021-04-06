@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
+      "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
+      "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "originalUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/03/artificial-intelligence-2228610__480.jpg",
+          "width": 767,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
       "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT ...",
@@ -1393,50 +1437,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington-dc-in-2021.md",
-      "title": "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021",
-      "excerpt": "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

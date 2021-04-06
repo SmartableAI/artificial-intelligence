@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year.md",
+      "title": "Why Analysts See More Upside To Baidu Stock Over The 200% Surge In Past Year",
+      "excerpt": "Baidu also places a lot of emphasis on its Apollo self-driving technology. The company said earlier this month that Baidu Apollo jointly won a bid to construct a 5G intelligent driving project in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/baidu_0.jpeg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20292160",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292160",
+      "publishedDateTime": "2021-03-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-uae-driverless-cars-to-transport-passengers-for-free.md",
       "title": "UAE: Driverless cars to transport passengers for free",
       "excerpt": "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,",
@@ -613,6 +656,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-resume-writing-tips-to-help-you-get-past-the-ai-gatekeepers.md",
+      "title": "Résumé-Writing Tips to Help You Get Past the A.I. Gatekeepers",
+      "excerpt": "More companies than ever are using software to screen their mountains of job applications. Getting seen by a human recruiter takes some effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/03/business/03Resumes-illo/03Resumes-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "publishedDateTime": "2021-03-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1316,110 +1411,6 @@
         "name": "Car and Driver",
         "domain": "caranddriver.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars.md",
-      "title": "Self-Driving Cars And Those Brazen Dogs That Love To Chase After Passing Cars",
-      "excerpt": "Dogs love to chase cars, which will undoubtedly happen to self-driving cars, and AI driving systems need to be prepared to watch for and save those daring pooches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d63aa27b9b02ad1c60215%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D165%26cropY2%3D2853",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
-      "publishedDateTime": "2021-03-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
-      "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
-      "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604cb18fd5d6f97db3738c30%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D167%26cropY2%3D2868",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "publishedDateTime": "2021-03-13T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

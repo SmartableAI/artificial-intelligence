@@ -16,12 +16,13 @@ provider:
   name: New York Times
   domain: nytimes.com
   images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2021/03/03/business/03Resumes-illo/03Resumes-illo-facebookJumbo.jpg"
@@ -29,6 +30,6 @@ images:
     height: 550
     isCached: true
 
-secured: "LBlldoeCyXwQEsKpui/8QRSjNTAhKp0pxoeKF1/AjWk6hJo1MrI6DDV8hBNQ9mZFX0lFkKuzsGOmkfqqac43qH3YexAGjUe49//ktBkoIge00xbp6eVr1HQqODsSqYzVH1ekxifLdDTR/ZK5wZlHGNkmREmaR0rq6NFI4gvT/2RCZkVro5QPyVEQEGYZ5sBZadSduxLLQt32V8HyczyAxd65+oP9UaZB2ZXiitoXqYocovwJ7Zx+cH0ToI+ca8qkSw9KRPStuPcdB48HqGhSD05altjJ1VgRUcD5vseSsJu8kS/8oC8uy59Po10O1qJRTFsQTwwuXt8Ma6GXRRY/vHwHDmMsouWb/IDzXmGY7U7rtsz+1wnOR0yBbRHHIRok7t2ta2+41KhmNtIK1TUb3oQT1Fp3IhzPHB1IPvFVtlTOkQrH5vK+ij4wBGwrd8+KQrFgNWtzxGGf5S1XKXIGZMCku7rDtUEtLS5EPStKp4O5iC7Oq9DFwkshLFGPIYLPFefZSM495twfZWjQgVFair6gWJUbEp8OLvlYFlxfGR0=;OvXAbmcty5+12Tolo40rgw=="
+secured: "fTx3oel/ysS/p0gBO4p2Ak13pl1uWU/Shmk6HGQrJYJLgO1zpo7AAWUEI23ZY2jE77oGnTWDjWC6Omjk9Is3Rj5Z7Rolo6E/abcVxa4eYeK7yknY1zmmWaNFZxBNeFe5DXzKT88sArNbj3veoQ1ZzM7tw7RPTbr0lbhUPCIbYRNFz3SMH4l5fVUVIJ4aaRQKjTF4RT/rKjKxIKDsktNuxt0aL1IOaCI5TqXwOptTPirt+BvYOedUAcj1jQdDOP3Mmv8tn40nRNfQIluQeHMfYJZLY8rddgASgN33UOLzMzq2RdnUMJPdejsFJ028NE+TQoH2/3Wg0IUv59zeRAUIz8jw7FIYaGD9SDqjXyqhhlPxUXtmonr2O3NaaZyo8XLWnZ4eClHvSYhROaFMlzMScVz67rxMpGWtqaFhoTc6SvpMCwN2jphjERjr7bJnKSBqHDnMHHgu1CAUJsVuHLrQzhWuHxxh0NKpMDAKfhPXzfkDMD9Cbq+oEB2xteb4EkdUIwqi8vILZu/VSS8gNtEX4RAwTkCYFkrzMXisOYHFq/Q=;nlVHPc286+FL1TZ4BPE5lg=="
 ---
 

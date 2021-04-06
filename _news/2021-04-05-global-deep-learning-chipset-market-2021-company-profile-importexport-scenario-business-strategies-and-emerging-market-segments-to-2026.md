@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
+    excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
+    publishedDateTime: 2021-04-06T07:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+
 secured: "ZyqlmoY9Y41zOVULOANrxxwkIzfeEL5Hgo6LOUFr/JxUNll/U/++Qg2DxT3e3ISDTD+xFkRrch400va/j23RtAlcd6IxhI+V7V3W2yUyMZoc+zcHPuiEV07lNRzYlk/qFjm/8/Z+XnnA5g6dq7TrouLaHTFjtCUoegbxKOssnfqOShjOkfMRN2n2TZrICXdLo8eLi6e6v53vBL0UVJ5fettdQWreaIhRFU5r+Gbre4e8Ukb3pG4nGOzvZxusdT888n63bIYpbLPaDCdgRqCjoMwnaD8lH1s6KP32uRPFFm1wi0st6w8ba7ucWvWkJJNjhA6ZOlcXnZmLEiIbqA0MIfeXT+1PVtbbKuBRS1TkFWw=;Z84Ef1+YZnjcfZjCmWklyQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/123669/tim-cook-feeling-bullish-on
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123669/tim-cook-feeling-bullish-on-apples-future-with-ar-and-ai?amphtml=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1835
     height: 1169
     isCached: true
-
-related:
-  - title: "Arm Takes On AI With New Chip Architecture"
-    excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations compared to processors currently powered by Armv8,"
-    publishedDateTime: 2021-04-01T15:08:00Z
-    webUrl: "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 54
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "P9Q7vk2v8pk7cuwVZ2i+9OuwLHllc9EcP60QeKIEfPISEz3bqRonxa6Q43Df0g7hFMcKt8x3WXNpDgv3WAcfAUZTojTTSkzSU3KBMs/FI90Hfc4wGxnV9/yVY5ruYVcWJHPQFX460hbLqwa4mwHfvb1Z8vcCl4cy3EZ2RKDxrNFROMh2TuXf17i7frO+/jeHNjpcKLMHEcmjy1bLRzNCiUTpexL62VCKv0oxuzPdye14j9V0hkg4vE4d7D+MvsrdYZn89OX/TRGPNL8iko3B/YnXUOcjNqYZGp29z5d1ujs+jGDadhw5QhIIcaXQ55MTwXW/CI9z84tvPV/oGhGj4DoKVvhNttBMdhUbjhxRVkw=;4udMIMTRKSE8Q9MmBEoFag=="
 ---

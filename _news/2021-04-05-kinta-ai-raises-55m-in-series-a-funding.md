@@ -35,9 +35,9 @@ related:
         height: 576
         isCached: true
   - title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
-    excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
-    publishedDateTime: 2021-04-06T01:00:00Z
-    webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+    excerpt: "“As enterprises from manufacturing, healthcare, finance, and other sectors seek to scale their AI operations and model deployments, they will require a platform like InfuseAI to allow seamless collaboration between developers and data scientists,” said ..."
+    publishedDateTime: 2021-04-06T05:49:00Z
+    webUrl: "https://www.techinasia.com/patsnap-10b/next"
     type: article
     provider:
       name: Techinasia

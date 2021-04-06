@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "China's Plus raises more funds for self-driving trucks"
+    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
+    publishedDateTime: 2021-04-06T09:38:00Z
+    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Opinion: Regulators need the wheel with self-driving cars"
     excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."

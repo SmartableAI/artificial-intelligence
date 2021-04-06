@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Why Analysts See More Upside To Baidu Stock Over The 200% Surge In Past Year"
-excerpt: "U.S.-listed shares have rallied more than 200% over the past year. Analysts now see further upside for the Chinese technology giant’s shares as it lists in Hong Kong, according to a report by CNBC. What Happened: Shares of Baidu made their debut in a Hong Kong secondary listing on Tuesday,"
-publishedDateTime: 2021-03-23T09:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
-webUrl: "https://markets.businessinsider.com/news/stocks/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
+excerpt: "Baidu also places a lot of emphasis on its Apollo self-driving technology. The company said earlier this month that Baidu Apollo jointly won a bid to construct a 5G intelligent driving project in ..."
+publishedDateTime: 2021-03-23T10:10:00Z
+originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year"
+webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20292160"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292160"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "RJ3ZpCVbxoeBfY/ytfNOAJ9gBZKHCh6Fep2eXU941BfOuY1s9hN+SLmEbj4BTOBSChnTNB1Eyl6B+k755TpbXCVe75s6mOVzXWW5ktwWSm3C4/58tH0jLA2sIj9dGPhqT/3a7s2uukoDeKuROiOZKI64eHh487LxQPXNtiQjaMSC9cKEnRve3KI2/kaTfelnkfftLXHOOp8muv+FOa151FWC6fwYUYNIqez1fc7+gsYfnf+3I7mVjeWf2SL3plkeCe/A0cIipb9Garv10oABr7kM3ZxIRR+5GVDYDvRcjtF4yVDHk1WSVxc4nINpEg8+Ddz3F55oDYaP9YhWT5KoD9Qnxt5vTC9C8yzhpC9Y9uQO4/ytqtEyXehl/8dbyt7HqNRBRZVl8LznaQDkdNkp458X8jjXmv04MkagBs49QUzKi4m0drSVc/riLfscuDW9xY7Eokta86tieuuNOCzhW3pvtlsOJJsPIVzSsSgucjqmvqJWToeboCnefu6bQI1kv1wu3LEyFo5JTf7yfowsxQ==;mxZaEnKU6yhdWybjz6cKXg=="
+images:
+  - url: "https://www.benzinga.com/files/images/story/2012/baidu_0.jpeg"
+    width: 1600
+    height: 1068
+    isCached: true
+
+secured: "UN18ZP1XCHTUZKVCZE9UHHhJeUpbjm0ekAZX4G9AIJIkpbdPL6Qv15oTNUfqwO6OtwXMO4yIbPzIPSAcf6iFwTzPcou/NLtSrzumGzNUYfZuOdLbYlfsyw9JwigGNFh4DG+c2McvBWQgcAKtZiZ2tMF/2aMx5fUY46NJu9Z7FWI9byJ3MSWMo0w7E+Bm9TGvn7mg4VrhOcMITt3wSoT/LAH5AdMvRinXXSRzZqiCP8IyLOt8NFCvA3yUELyCxDESU8Axnu2XYPMN89a8IdfbB91ZnlEpTO48SOm3auvOiRtj0Cc7YwaPtFv0fPLNZfCVzjTEzauH7d6Pey9L6Jq6mXNXMbbKsAkohx8Z2LsdGGM=;N27wPpipNpxMTXh0H4mXvA=="
 ---
 

@@ -205,20 +205,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "John Krafcik quits as CEO of Google's self-driving car project"
-    excerpt: "John Krafcik, the CEO of Googles self-driving car project Waymo, has announced to step down and kick off new adventures."
-    publishedDateTime: 2021-04-03T09:22:00Z
-    webUrl: "https://www.punjabnewsexpress.com/technology/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-134683"
-    type: article
-    provider:
-      name: punjabnewsexpress.com
-      domain: punjabnewsexpress.com
-    quality: 24
-    images:
-      - url: "https://www.punjabnewsexpress.com/images/article/article134683.jpg"
-        width: 740
-        height: 775
-        isCached: true
   - title: "CEO of Google’s self-driving car spinoff steps down from job"
     excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
     publishedDateTime: 2021-04-04T04:21:00Z
@@ -239,6 +225,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 8
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
+    publishedDateTime: 2021-04-03T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "sqzDGbGukBAymyOSIlXT7tpVCFVaRVtvKGRGR6oJ08hgdSyCcjl+xcx9iqFrncuTrKGczgGT+Y5N67SaUYT7yRsl8g7qGciRTpHZO2j9oqDkJDov3qWjyp0PCNRJQ39MduEeJ7Ypqesz93Ah1nmIgAm+T6YD8GGnSf/g4Wc5JaeY1Rxb2g0LFI5pcQoCzvFymDsZwPoB7Ip7tnxq1PVkWQxw9yDluONW0+y+1tv19bTcFgFu++COGlN0esw4SqdpEc1KVnTv1fqVG4rmNGlMdzDEfLDQ4T/PxbU3HD91XTssrl7yQSFLc2CBr2Gh8LPXVEDotcsUoklLY2P8EP0IsvBYmjUZOmLzZi16LweF+ruRPvCCtwFmdPC1XgVS6A0insk1iNzdno8NOfPUmNNPQnqdT1VCVU0cT4bYtltR4fUMS5JAH2b8QD8Bqu7DCWeKh9HNF+AbjX4PI+DCNGmu5PPFKks5RZNVd0UKQkBNmBcyH8BkKmiLdbBS2/SQjt/W5TzAF2yWwxV6wvepp70VjA==;mt3/eMdGagdML2oaFku5eg=="
 ---

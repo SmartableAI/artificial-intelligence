@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
+      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 \"Best in Intralogistics\" certificates",
+      "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems ... ACR systems pioneer's strong head start of a fast expansion to the global ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1480252/Carton_picking_ACR_HAIPICK_A42N.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it.md",
+      "title": "Italy messed up its startup ecosystem this week — here’s how we can fix it",
+      "excerpt": "Startup legislation struggles are slowing down ... automotive-of-the-future enthusiasts, and AI wizards, and that perhaps, in the haste of the moment, tried to provide a platform that had more ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
+      "originalUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/milan-italy-gq-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
+      "publishedDateTime": "2021-04-02T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
       "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
       "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
@@ -345,21 +448,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-02-see-how-artificial-intelligence-is-changing-the-future-of-storytelling.md",
-      "title": "See How Artificial Intelligence is Changing the Future of Storytelling",
-      "excerpt": "Heather Maio-Smith, CEO and Co-Founder of StoryFile, joins Cheddar to discuss how artificial intelligence is being used to preserve, record, and interact with stories for generations to come. 5:26 John Deere's CTO on Latest Innovations in AgTech 6:36 ...",
+      "path": "_news/2021-04-02-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
+      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
+      "excerpt": "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector.",
       "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling",
-      "originalUrl": "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling",
+      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
+      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://img.chdrstatic.com/media/dd70dc6d-d3e0-4f5a-a0ef-2c4b198b77ac.jpg?width=1200&source=backend&auto=webp",
+          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -367,13 +470,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp",
-      "publishedDateTime": "2021-04-01T12:49:00-07:00",
+      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "publishedDateTime": "2021-04-01T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -383,6 +486,7 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1036,6 +1140,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
+      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-superhuman-the-future-of-email-or-a-monumental-waste-of-money.md",
       "title": "Superhuman: The Future of Email or a Monumental Waste of Money?",
       "excerpt": "I've been using Superhuman, an invite-only email client Silicon Valley startup owners swear by. With a wait list that's 250,000 users",
@@ -1084,162 +1222,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them.md",
-      "title": "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them",
-      "excerpt": "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/",
-      "publishedDateTime": "2021-04-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
-      "title": "Aussie researchers using machine learning to analyse rock art",
-      "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
-      "originalUrl": "https://www.zdnet.com/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/01/78cdf0c5-f3f1-4302-a7db-b46989bfde20/mimal-image-1.jpg",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/",
-      "publishedDateTime": "2021-03-31T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-bidens-180-billion-rd-plan-prioritizes-key-areas-such-as-chips-quantum-computing.md",
-      "title": "Biden’s $180 Billion R&D Plan Prioritizes Key Areas Such As Chips, Quantum Computing",
-      "excerpt": "These have become central to the U.S.’s technological rivalry with China, which sees quantum computing and specialized chips powering artificial intelligence ... if America lets its lead slip in AI and other critical technologies. In its announcement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60654c034215c3cbe4779086%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/04/01/bidens-180-billion-plan-prioritizes-key-technologies/amp/",
-      "publishedDateTime": "2021-03-31T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

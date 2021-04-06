@@ -1,31 +1,34 @@
 ---
 category: news
-title: "How AI can make weather forecasting less cloudy"
-excerpt: "AI will work to strengthen existing weather forecasting methods by improving efficiency and making more timely weather predictions, as well as enhancing location accuracy."
-publishedDateTime: 2021-04-05T15:09:00Z
-originalUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy"
-webUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy"
-ampWebUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
+title: "How AI Can Make Weather Forecasting Less Cloudy"
+excerpt: "“We’re testing the whole cycle,” she says. “We will actually save lives and save property.” AI is already making existing prediction methods more efficient and contributing to increases in the speed and accuracy of forecasting, and it shows ..."
+publishedDateTime: 2021-04-04T19:00:00Z
+originalUrl: "https://www.wsj.com/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
+webUrl: "https://www.wsj.com/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
+ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-can-make-weather-forecasting-less-cloudy-11617566400"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/53974995-e9ff-4a62-b3c9-b499faebb96c/5e042306-dd4c-432a-82e0-57aafb77c839/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-319875/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
-secured: "36zuVDKYF8sHAVrftlHWv0Rtziwvtk1AnKCLTthHf/qxi5Ljuw4PANeZEaE54etf9hf0DZ+51gXNyhBc2GEql6OUfr1zkx6az6LX6HLrvXRZ6VlQVF4CLWPOKCXRRt30QbX2KW9+Mc4EjYpXnY5cwXmhO6WrkAs+lrcl4+YRavAwczsa4z5hPNyQTECoptssXSP+x50X4FFaYVjwwgMG2DTWpRSiVIlT3wZCTc/aCh1NlzQPuDkJ58wMBBU9eRfoRzCPV5iUpP8/glZ1kS0PjcrP2NuYRs+Ntvyr2KW1AiUNMKHi01/AcIIkJ57B6YUgQHdpfjg9wNgFMFbu7jl1i8s7sokyBTvncD6j2dkazns=;cV+s799ipadlH8uoHB9KaA=="
+secured: "MQTj8nKARLshvDczESehDJXFPdbbQ8kcHRzY0ez9q83cliC5UrfVa2XMKi/0UUEIY04l8InzwyxQkN7TTBdHRWl8unM7Rj3MaYy+Xk7eBg7QhzKg0SZF20nmtpnKx0qjC8EL5YYe2zaQs2y0hWhEeYYZPspLKHOXqBk9/+o6qpxwlYKg7kOV8DkkswgOzPbKtIv7Y99CCp13dLdAS6fn1kdAAz2Nc3KBvJ8c+swZVCmmy9lJa6OFAIzrBQrQeThkS8cTRFfpsiMxrFnHtwT5LuFZ/8O65HjiluiCtT0JbGIO98jWvHtww0hTAP90qBSt+B20KgX2bFCSd7x1lnJrlar4VbszZryBYim8UQ0pqiI=;tayrjsxNqZopgB75zsMCyA=="
 ---
 

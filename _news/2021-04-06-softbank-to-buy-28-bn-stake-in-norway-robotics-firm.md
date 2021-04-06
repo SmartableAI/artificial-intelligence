@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "SoftBank has invested $2.8 billion in Norwegian robotics firm AutoStore"
+    excerpt: "For example, SoftBank backed U.S. warehouse robotics group Berkshire Grey in 2019 ... Nathan Benaich, a venture capital investor with a focus on artificial intelligence, told CNBC that the pandemic has clearly been a \"boon\" for warehouse logistics and ..."
+    publishedDateTime: 2021-04-06T08:09:00Z
+    webUrl: "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105170051-GettyImages-915309154.jpg?v=1588214950"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln"
     excerpt: "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ..."
     publishedDateTime: 2021-04-06T05:43:00Z
@@ -38,20 +54,20 @@ related:
         height: 384
         isCached: true
   - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 billion"
-    excerpt: "SoftBank Group Corp has agreed to buy a 40% stake in AutoStore for $2.8 billion, the Norway-based robotics firm said on Monday, in yet another big investment by the conglomerate in warehouse automation technology that optimizes e-commerce operations."
-    publishedDateTime: 2021-04-05T22:30:00Z
-    webUrl: "https://www.metro.us/softbank-to-take-40/"
-    ampWebUrl: "https://www.metro.us/softbank-to-take-40/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/softbank-to-take-40/amp/"
+    excerpt: "Founded in 1996, AutoStore has 20,000 robots deployed across 35 countries and counts ... took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its customers - Walmart ..."
+    publishedDateTime: 2021-04-06T09:29:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/articleshow/81930449.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/amp_articleshow/81930449.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/amp_articleshow/81930449.cms"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
+      name: Gadgets Now
+      domain: gadgetsnow.com
     quality: 69
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH340ZW-BASEIMAGE.jpg"
-        width: 800
-        height: 555
+      - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "UsaNBSbnsoBjAslSPX1q+fxw9EFKtAkDBJwusAkJAAvwoSrsRCZB2fZfmkLTrWtcvGWHUu8qi+9Yx1kx1sqLvMUppZzjGAYoqmFamYRsDO5S18CKpECzjlTZF5XOeM0GNAutxjrVI1Q7x1YEaIdNkpNjI8UzS6mdq1Ko3/IV5xGguHnjFvEaz3unMkFfdjTV9HmW3XzC+lhf52tZt7qvOm/UEPxpQS4LKOd86q4hn+RMJYFQ/mA92/7y0gvvkc6P9/kD7UgC36DsDRXeeHVNpYdED5r+h+DVByw7N0zyx4gWv0a3YAGhIHkaEOtVFRwTpea5Hcqb3MLBj2NBgTdMs7DNnUGblpHfJqGZWimYlEI=;L+l+f4+gsOyNvMDegbLz7A=="

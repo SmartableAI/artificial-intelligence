@@ -2,6 +2,196 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-10-ibex-raises-38m-for-ai-that-diagnoses-diseases.md",
+      "title": "Ibex raises $38M for AI that diagnoses diseases",
+      "excerpt": "Ibex, a startup developing AI technologies to help diagnose diseases, has raised $38 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
+      "publishedDateTime": "2021-03-09T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
+      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
+          "width": 900,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
+      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
+      "excerpt": "This is the first in a two part series on Amazon Comprehend custom classification models. In Part 1 of this series, we look at how to build an AWS Step Functions workflow to automatically build, test, and deploy Amazon Comprehend custom classification models and endpoints. In Part 2, we will look at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/09/Merged-Image.jpg",
+          "width": 800,
+          "height": 654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:46:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-neural-network-clip-mirrors-human-brain-neurons-in-image-recognition.md",
+      "title": "Neural network CLIP mirrors human brain neurons in image recognition",
+      "excerpt": "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg",
+          "width": 846,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "publishedDateTime": "2021-03-09T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-researchers-find-that-large-language-models-struggle-with-math.md",
       "title": "Researchers find that large language models struggle with math",
       "excerpt": "In a new paper, researchers show that even the most sophisticated general-purpose AI language models struggle to solve math problems.",
@@ -991,194 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
-      "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
-      "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757",
-          "width": 757,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "publishedDateTime": "2021-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale.md",
-      "title": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
-      "excerpt": "In official correspondence with California’s Department of Motor Vehicles, Tesla lawyers recently admitted the $10,000 option that Tesla sells as Full Self-Driving Capability is not, in fact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
-      "originalUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/02d3f82/2147483647/strip/true/crop/4919x3213+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2Fbb%2Ff572d3e343388d62dcdc9415a550%2Fla-photo-jan-4-2021-001.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
-      "publishedDateTime": "2021-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-reimagining-digital-governance-with-artificial-intelligence-and-iot.md",
-      "title": "Reimagining Digital Governance With Artificial Intelligence And IoT",
-      "excerpt": "When choosing workers, look for those who possess the ability to perform critical cross-platform developments and manage multiple release cycles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd921f231029bc6eaa81aa1%2F0x0.jpg%3FcropX1%3D1017%26cropX2%3D9853%26cropY1%3D0%26cropY2%3D4968",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "publishedDateTime": "2021-03-09T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence.md",
-      "title": "OK Computer Trailer: Radhika Apte, Jackie Shroff, Vijay Varma starrer sci-fi comedy is about our future being controlled by Artificial Intelligence",
-      "excerpt": "where everything is ruled by robots and Artificial Intelligence (AI). We can see only the computers and gadgets ruling everything. In the trailer, in North Goa, a self-driving car runs over a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/",
-      "originalUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2021/03/ok-computer-1.jpg",
-          "width": 745,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-bollywoodbubble-com.cdn.ampproject.org/c/s/www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-09T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bollywood Bubble",
-        "domain": "bollywoodbubble.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

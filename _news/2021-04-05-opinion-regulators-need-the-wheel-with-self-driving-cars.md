@@ -51,6 +51,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "China's Plus raises more funds for self-driving trucks"
+    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
+    publishedDateTime: 2021-04-06T09:38:00Z
+    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
     excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
     publishedDateTime: 2021-04-06T03:05:00Z

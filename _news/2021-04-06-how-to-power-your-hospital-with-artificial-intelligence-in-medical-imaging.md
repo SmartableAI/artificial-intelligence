@@ -24,9 +24,9 @@ topics:
 
 related:
   - title: "Adapt’s mission to empower tech users with an ethical approach to AI"
-    excerpt: "Adapt’s metrics to date are impressive. The number of researchers the centre supports is doubling, from 199 up to almost 400. For every €1 publicly invested in Adapt, more than €5 is leveraged back to the Irish economy."
-    publishedDateTime: 2021-04-02T14:52:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
+    excerpt: "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users."
+    publishedDateTime: 2021-04-02T14:58:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation"
     type: article
     provider:
       name: SiliconRepublic

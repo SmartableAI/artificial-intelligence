@@ -2,6 +2,155 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-30-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
+          "width": 750,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "publishedDateTime": "2021-03-29T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
+      "title": "Adversarial training reduces safety of neural networks in robots: Research",
+      "excerpt": "Machine learning needs to improve adversarial robustness in deep neural networks for robotics without reducing their accuracy and safety.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
+      "originalUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/autonomous-robots-adversarial-training.jpg?w=1200&strip=all",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
+      "publishedDateTime": "2021-03-29T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-virginia-lawmakers-ban-police-use-of-facial-recognition.md",
+      "title": "Virginia lawmakers ban police use of facial recognition",
+      "excerpt": "Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/210325_abcnl_prime_dwyer_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
+      "publishedDateTime": "2021-03-29T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-disney-world-tests-facial-recognition-at-magic-kingdom.md",
       "title": "Disney World Tests Facial Recognition At Magic Kingdom",
       "excerpt": "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ...",
@@ -986,142 +1135,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-growth-outlook-how-covid-19-change-the-picture-of-ai-in-construction-market.md",
-      "title": "Growth Outlook: How COVID-19 change the picture of AI in Construction Market",
-      "excerpt": "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "originalUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U329837683_g.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
-      "publishedDateTime": "2021-03-28T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
-      "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
-      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "publishedDateTime": "2021-03-28T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-could-help-advertisers-recover-from-loss-of-third-party-cookies.md",
-      "title": "AI could help advertisers recover from loss of third-party cookies",
-      "excerpt": "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
-      "originalUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
-      "publishedDateTime": "2021-03-28T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

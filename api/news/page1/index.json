@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-06-softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln.md",
-      "title": "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln",
-      "excerpt": "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ...",
+      "path": "_news/2021-04-06-these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix.md",
+      "title": "These AI-made songs channel the spirit of Cobain and Hendrix",
+      "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece",
+      "webUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/",
+      "originalUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindu.com/sci-tech/technology/f00y6r/article34250683.ece/ALTERNATES/LANDSCAPE_615/softbankjfif",
-          "width": 615,
-          "height": 384,
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/possessed-photography-U3sOwViXhkY-unsplash-e1617698188720-796x420.jpg",
+          "width": 796,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,74 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece/amp/",
-      "publishedDateTime": "2021-04-05T22:43:00-07:00",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/",
+      "publishedDateTime": "2021-04-06T02:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-softbank-has-invested-28-billion-in-norwegian-robotics-firm-autostore.md",
+      "title": "SoftBank has invested $2.8 billion in Norwegian robotics firm AutoStore",
+      "excerpt": "For example, SoftBank backed U.S. warehouse robotics group Berkshire Grey in 2019 ... Nathan Benaich, a venture capital investor with a focus on artificial intelligence, told CNBC that the pandemic has clearly been a \"boon\" for warehouse logistics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105170051-GettyImages-915309154.jpg?v=1588214950",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
+      "publishedDateTime": "2021-04-06T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -144,6 +204,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-chinese-robotics-firm-shares-terrifying-video-of-its-four-legged-robots-moving-in-unison.md",
+      "title": "Chinese robotics firm shares 'terrifying' video of its four-legged robots moving in unison",
+      "excerpt": "A user shared a clip from Chinese-based Unitree robotics firm that shows a squadron of four-legged machines moving in unison. The AI-powered, canine-like robot, named, Aliengo, is designed with depth perception, high explosive sport performance and an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/06/00/41377842-0-image-a-35_1617665700920.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "publishedDateTime": "2021-04-05T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -410,7 +513,7 @@
       "originalUrl": "https://www.forbes.com/sites/adamgeller/2021/04/05/can-ai-computers-write-essays-better-than-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1141,102 +1244,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-conversational-ai-platform-market-may-see-a-big-move-major-giants-ibm-google-microsoft.md",
-      "title": "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft",
-      "excerpt": "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U405203353_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "publishedDateTime": "2021-04-05T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-neo-banking-startup-stashfin-raises-40-mn-in-series-b-extension-round.md",
-      "title": "Neo-banking Startup StashFin Raises $40 Mn In Series B Extension Round",
-      "excerpt": "and agility in a startup team. Equally rare is a clear vision and great unit economics. The team has built extremely compelling bank-grade infrastructure in a frugal manner. The advanced machine learning and AI models can be scaled across various geographies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368583",
-      "originalUrl": "https://www.entrepreneur.com/article/368583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617599721-11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368583",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368583",
-      "publishedDateTime": "2021-04-04T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
