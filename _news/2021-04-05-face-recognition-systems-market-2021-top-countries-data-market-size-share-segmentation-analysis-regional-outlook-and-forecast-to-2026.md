@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "9 recent studies that show the potential of AI in healthcare"
-    excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
-    publishedDateTime: 2021-04-01T20:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-recent-studies-that-show-the-potential-of-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI and Its Future in Healthcare"
     excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
     publishedDateTime: 2021-04-05T01:09:00Z
@@ -141,6 +127,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
+    publishedDateTime: 2021-04-06T12:08:00Z
+    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "iEZ6Z8c/QigWCkyqs/rUeQWzEd2I2hYGsppWu7FxMqCm5wav9ehijj31uZ6DAf6szLfUWFfLBvLUAu7Nz1HojcT6l3wRn5jfPBq5m6LnFtPOTTlEzh0BE+s57gpwzihQNfi/5SEbIMXw/BwgIHHFBDH4PiXAtE2lUlOXOu5xcKEW6zvS6aZpigJS2WFg8Ym2AORH806y34RM8z+etGMJQ4bup0+aJwAr3gQIfKRcrjVzj789sSv2H28WrQ/W2TDM/dmsr8VdEEw4afQ/L54YnhFE+D40Dx9OzVnUzQN3THfreUOo3TkPFWqo6YfaeZOdyiMcBQ/J7zkReD6t0kTdGduoJ5HyEZiXpIlBNkCQ1LM=;I3LZuTfubW+juxIYUVaOCQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 646
     isCached: true
 
-secured: "ah9RLibvep9me/nhAqgA7ccQwogDwptUkbPzelxxrJI5VIIGGMhoLt8IBZi+dkxM4e35+ka+0uFrd5JZpyEe/0f2e72TnjfRmAmTxTFuN23SUZem43KdFyycA69xc2YodeRCKZDYDQYiYqBPFTuFOz6rM9puEs5HXNu3LfvRrfyAuplUW2R6H8R2/qeh7x0vd+OqSeLEbCDg0uzhdn/dYRu0t85BYwul2XnEJ4F21YNhVL76uRvnSCoq4Jm0cI7VXi0UKsh5WKhc45tFqWsCEOzqv62sRvmU6KlHN4lZGcrkSCOtp0yQZHS3OXneUlIdfZR1UVtucDXuQ115ukYrYMfevTIoOax/ZIcxtBGXXYc=;G97ZOXHWqjlx+gcirEELQQ=="
+secured: "+u3t4I5tJr31BuwbKDDsU1iDXqKd6nqhrwjRKx7NnX6p9p4oJcilQsVFrizOe01UrUeeoZFz4XomU7cYV/Gb3QPjFhuH5GCiNrho8JevrQryci5JcjO+aEPGCGIbTHrxJiAYhjJogTMM6q4MnDsP4pgOoaadqpcwfdpP0ohYs+Z3Nb+JS9IoD2kaubqOgz28a9bnMhlbdd9vOdi3dFCcogMrmJV3TPEOydzs2JbPFX/Zd5l/24WVkoc9wNkj+Up1ACwKZL2f1a0uNqGemKYKkrBkL6zf160A7Lfps7YKpqzNeZUVvuIggiQMTUCABuL12FShH92KAhpRisi7vO1t72a4RqyjvqtH7sVXWhpDVq/madAQZPP1XCVdhIYygwyPBrokBsJ5KclVMaMPdpgWuFVebToiXSK8k/QSBo8cTSjYk2kJURwupD1OmqwqKdpRTYh7JULzw/kpirel1eRLGVfNYbisAurKAOZJBSabH/3Lo2D6p1ZuzFCkNXMY5MPVNUAzLYxplJF0qEQu9KhiRA==;bTFAyI4rZGd5pLsz9Uzt9A=="
 ---
 

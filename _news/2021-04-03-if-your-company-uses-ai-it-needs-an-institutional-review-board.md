@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-inst
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "If Your Company Uses AI, It Needs an Institutional Review Board"
-    excerpt: "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector."
-    publishedDateTime: 2021-04-01T19:29:00Z
-    webUrl: "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image"
-    ampWebUrl: "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "An AI revolution is about to transform your cup of coffee"
     excerpt: "Startup Demetria analyzes coffee-bean characteristics to ensure a perfect cup of joe while cutting costs and uncertainty along the supply chain."
     publishedDateTime: 2021-04-05T04:31:00Z

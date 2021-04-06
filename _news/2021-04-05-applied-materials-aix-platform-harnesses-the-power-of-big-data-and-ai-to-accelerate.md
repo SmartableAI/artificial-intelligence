@@ -18,6 +18,17 @@ topics:
   - AI
   - AI Hardware
 
+related:
+  - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
+    excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005204/en/Radiology-Partners-and-Aidoc-to-Accelerate-the-Use-of-AI-as-the-Standard-of-Care-in-Radiology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
+
 secured: "D4xc9WG/uHAWx5b4JvY75E+DZAIpF8mhFNWGoLlIpVLcTx4MtF/Kl/jHNkmFeZUrFa2xMnAG5SScxNWIcsm61qdExBykjnp7eC4YdwN/tAXnSHMOO33XU8gn76DP/T0O54AEyaGnyOkv+3o7COc847uh+Zff2iSm6AaVJp11iGZqwzBT/4LFfftULdrPIDY4UV4M57LWYGCq+vJHhuHfcJrCAJo4AjdRJ41d81WNxkj2rMQk+LRYsxBS9sII+amTZ6DZ2QSX/YMJ+Bc4LTE6QXvWBenxTUAkmJSLOmlnC/9F5ZOFs8k4ezCiAShymBncQKTgX4zsjvzWkH0fVRB+1dUzjELewAbC13WsPKFB2BE=;hGp/AK70TgIP4e7hkHmrHA=="
 ---
 

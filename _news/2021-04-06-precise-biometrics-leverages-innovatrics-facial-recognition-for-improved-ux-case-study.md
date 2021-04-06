@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pindrop unveils European cloud offering for voice biometrics security"
-    excerpt: "Pindrop Passport allows call centers to quickly authenticate users through voice recognition to deliver enhanced personalization and customer experience for the caller while simultaneously reducing overall call handling times, leading to greater ..."
-    publishedDateTime: 2021-04-01T21:00:00Z
-    webUrl: "https://www.biometricupdate.com/202104/pindrop-unveils-european-cloud-offering-for-voice-biometrics-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Bank Card Test Center launches face biometrics testing for financial services"
     excerpt: "BCTC can asses facial recognition algorithms for offline payment terminals, systems on Android mobile devices, FIDO biometric identification security components"
     publishedDateTime: 2021-04-05T20:18:00Z
@@ -52,20 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
-    excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
-    publishedDateTime: 2021-04-02T17:44:00Z
-    webUrl: "https://www.biometricupdate.com/202104/european-privacy-advocates-urge-biometric-surveillance-prohibition-as-ec-considers-ai-legislation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
-        width: 800
-        height: 449
         isCached: true
 
 secured: "NKs+7h+UGcDeCoQGclQxHOIs1HbeXsGxZzNdHihELWiNimfJYuQIMkpydilG39tjpNVoEvtMq8xY0lIL2GViwpXq9oXL3SGq+b+EI8WvopeTDWKFCQBSvXoQdqk2JoDu48JSOoZ/PoSYDvMpndNP3NScgapDsHcvt+YMOv0e7WgwlAPo2z3qBi+qLARQtj5cCi68PHgUdSYK3bFJA5yDa4LkdVwZsPlQu1lngYtm2PSpNDSXtZRbPfaCzC6mJ9CSIFWbhwW1eK0u11R+i/LysFuegkK88oHZk3G084fmF/dg6lsHFA8QGOigQWySud7d1weNSVNPrjhp0fOWLIXVfdpBlT3RAjfRgTJM0ikXG+f/7E1hgyPzaxRLTCNyQ9S/n1GNRntWsQjROJeEOb7OTbRJGzBASbEuox4elQ+2mTVVuOZgoWDZnhL5DhkKBmixCcr7MPu1oCbXNqAYhg+/I5vkkgIarNgSZDigac17NVVsl1R/vVGQQePdSUmmI15HnxU/A9gBSq+foJ51Vxbskg==;Bh0GAh8slUtbjpqqNcc3Tg=="

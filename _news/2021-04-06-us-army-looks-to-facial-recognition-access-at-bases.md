@@ -43,20 +43,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "How Face Recognition Can Destroy Anonymity"
-    excerpt: "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore."
-    publishedDateTime: 2021-04-01T21:22:00Z
-    webUrl: "https://www.wired.com/video/watch/how-face-recognition-can-destroy-anonymity"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1617132057/wired_how-face-recognition-can-destroy-anonymity.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Scientists create online game to show risks of AI emotion recognition"
     excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
     publishedDateTime: 2021-04-04T06:12:00Z
@@ -89,6 +75,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
+    excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
+    publishedDateTime: 2021-04-05T10:48:00Z
+    webUrl: "https://emojify.info/menu"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
   - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
     excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
     publishedDateTime: 2021-04-02T07:25:00Z

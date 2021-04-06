@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "9 recent studies that show the potential of AI in healthcare"
-    excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
-    publishedDateTime: 2021-04-01T20:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-recent-studies-that-show-the-potential-of-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
     publishedDateTime: 2021-04-05T04:21:00Z
@@ -137,6 +123,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
+    publishedDateTime: 2021-04-06T12:08:00Z
+    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "QHMxB839bBtNsn3JM/erhwBjdjCSr8XgZLxVAsTCb7dait6bXNzYeat0g1AKgwBT6hUoSOm1RUVz9vUBEvRS9wdAF2XAw83avqLHuTls5hI6scQhKg2lPJzrwvbnKNnFyaL4SdMYdhaMS0FrJ9ahSDTwxLAgJ//08v7Alj9Iw2HTn3Ms22aSqfxM66Ba+sWhVAqXlIcCUzhnmQytYjj4Vgm6zwsRI/sRw+VxpBQV09d/OYRjPx/Wsn7C2QizHxBzhdsr6HKWlVcHhLJ8Vh9fLRR95eFxDNAOlJu7z10MPfjIvZ/iV43rB54ng0hVDIIjY77E4ZPLKecM7X9WDroPqNh9ngnqvSzs5glwD/JHnGg=;PZ3eCatiLF29aIDh1+1rxA=="
 ---

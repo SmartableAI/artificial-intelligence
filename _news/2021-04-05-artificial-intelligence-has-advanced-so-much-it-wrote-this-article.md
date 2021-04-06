@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence has advanced so much, it wrote this article"
 excerpt: "I did not write this article. In fact, it wasn’t written by any person. Every sentence you see after this introduction is the work of OpenAI’s GPT-3, a powerful language-prediction model capable of composing sequences of coherent text. The only thing I ..."
 publishedDateTime: 2021-04-05T16:17:00Z
-originalUrl: "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437?mod=newsviewer_click"
-webUrl: "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437?mod=newsviewer_click"
+originalUrl: "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437"
+webUrl: "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437"
 ampWebUrl: "https://www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "+Hrph0VQv8UvM49clnviuBhXWE9gsZMSB1v76VLoJm9y4r30hGKu91h0FhwDRmmRdeQhzczV0aRFtW9vvp2sJ/QvqNAqYGesbBOR5wnx+OqHmx0CMZbTWk6NK9RvIXiF+ModllvcNFmNptdAxU2XGfeYsN8FjMTIhza7QhbOevTtbDusCR6Yg9fzH2PojRj0iS1YA3lSGPhc2RAABm4ACL3NgMsxp128jPS7wxOrmSHWQ/dxdENHINKKb4SUiscZ399rZ4JkdAa2n4d5PAPcMuSNU9dnNvb4oQMhU3EYrRiLL/aoChbcLve1QzuHLdVPJ+h1qtfS82P2YxvUCXqlCU+fI67DmOj2vgVJvvw3Z433CI6EWgk1JdyGATcezrGkzivbPXLUOp1Jj+8m9+egUfwk1OjikuZ7SSBVquEMQLakX2LKBxA2NTHZW1EWYxZLojAz9l5yDywhqQGi1EsjGPrZKirGc/QTNkb0VYJ1h5mjD7mbrNwJUeln+kDih0ME41NIwn5dTvJPkmXuWDCNpA==;P45Lbl0g/3CepXQ9pWoYxg=="
+secured: "cdBPtpsOPN0tMYvC8g/+7zpwXjlIyZfbQ3lCdKJ8SsT573VRylUpQlGFLtjnfkJYHrcYNPTnTc5RREkkpBu/+gkxcc459wrzpyOhNuGzo6uDXpSUq06id01jsQ0J2NX1fJpKEccIbewkMxjFNYxtLJPiu5vP5pqHXMTmwUUP+H2pqLvJnd1HjepgW4qEIYIT9BV4+42cQB2x5j+8JRbL9R5wQLc6S3mJfuw7zvDObNVGffGPiHpgz/QIJXs88OVG3B0C9xgZWdPR6lOkZu672CDgWJZjI2e2vLopDpDSGq6w/ZoKDIxnU8npUR5/Xb5A5ha00p9b/joZC/+IaFivcGGwyJc8Kyo9cE17GnLRyFU=;W+lljoYEfm+5uztSyLQEvg=="
 ---
 

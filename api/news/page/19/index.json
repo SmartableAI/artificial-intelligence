@@ -2,6 +2,285 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
+      "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
+      "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "originalUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/3c173e31-acbb-4aa8-b06a-1c8c98911b8d/screen-shot-2021-03-16-at-3-27-05-pm.png",
+          "width": 1672,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "publishedDateTime": "2021-03-19T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
+      "excerpt": "and Region – Global Forecast to 2026 The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20259676",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20259676",
+      "publishedDateTime": "2021-03-19T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
+      "title": "Uber under pressure over facial recognition checks for drivers",
+      "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
+      "originalUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-897118616.jpg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
+      "publishedDateTime": "2021-03-19T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-ai-designed-to-distinguish-croissants-from-crullers-and-other-pastries-proves-capable-of-identifying-cancerous-cells-on-microscope-slides-with.md",
+      "title": "AI designed to distinguish croissants from crullers and other pastries proves capable of identifying cancerous cells on microscope slides with 99% accuracy",
+      "excerpt": "The system uses deep learning for object recognition and instead of differentiating baked goods, the doctor hoped the technology could save lives. Identifying cancer cells to determine whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/03/19/17/40688578-0-image-a-23_1616173928996.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "publishedDateTime": "2021-03-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-solving-barren-plateaus-is-the-key-to-quantum-machine-learning.md",
+      "title": "Solving 'barren plateaus' is the key to quantum machine learning",
+      "excerpt": "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
+      "originalUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg",
+          "width": 700,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
+      "publishedDateTime": "2021-03-19T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-messenger-bot-answers-questions-about-whats-recyclable.md",
+      "title": "Facebook Messenger Bot Answers Questions About What’s Recyclable",
+      "excerpt": "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054caec32d36b83b9313d2b%2F0x0.jpg",
+          "width": 1199,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/",
+      "publishedDateTime": "2021-03-19T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-brian-brackeen-returns-as-an-advisor-to-facial-recognition-startup-kairos-following-his-ouster-as-ceo.md",
       "title": "Brian Brackeen returns as an advisor to facial recognition startup Kairos following his ouster as CEO",
       "excerpt": "Brian Brackeen, the founder and former CEO of facial recognition startup Kairos, has made his way back to the company following his ouster in 2018. Brackeen is now chairing the company’s scientific advisory board,",
@@ -884,265 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-adaptive-computing-solves-ai-productization-challenges.md",
-      "title": "How adaptive computing solves AI productization challenges",
-      "excerpt": "Postprocessing is very important to make sense of the AI model outputs and calculate the proper decision making. Indeed, some chips may be very good at AI inference acceleration, but they almost ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/how-adaptive-computing-solves-ai-productization-challenges/amp/",
-      "publishedDateTime": "2021-03-19T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-in-a-face-off-against-fintech-traditional-face-to-face-banks-must-become-more-bespoke-than-ever.md",
-      "title": "In a face off against FinTech, traditional face-to-face banks must become more bespoke than ever",
-      "excerpt": "It’s true that AI, data and automation has come a long way in making customer ... customers simply want to know their money isn’t invested at the expense of others. While FinTech and financial providers are recognising this ESG trend, with financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/",
-      "originalUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/04/1208404284.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/fintech-traditional-banking-bespoke/amp/",
-      "publishedDateTime": "2021-03-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
-      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
-      "publishedDateTime": "2021-03-19T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
-      "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
-      "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/security-safety-things-gmbh-bosch-highlight-iot-platform-smart-cameras-ces-2021-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "publishedDateTime": "2021-03-18T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-webee-and-semtech-simplify-lorawan-connectivity-for-growing-low-power-iot-app-market.md",
-      "title": "Webee and Semtech simplify LoRaWAN connectivity for growing low-power IoT app market",
-      "excerpt": "Webee's No-Code End-to-End Solution Builder powered by Azure provides for very easy creation of IoT solutions using LoRaWAN connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2021/03/19/webee-semtech/",
-      "originalUrl": "https://www.helpnetsecurity.com/2021/03/19/webee-semtech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ai-should-augment-human-intelligence-not-replace-it.md",
-      "title": "AI Should Augment Human Intelligence, Not Replace It",
-      "excerpt": "Artificial intelligence isn’t coming for your job, but it will be your new coworker. Here’s how to get along. Will smart machines really replace human workers? Probably not. People and AI both ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/03/ai-should-augment-human-intelligence-not-replace-it",
-      "originalUrl": "https://hbr.org/2021/03/ai-should-augment-human-intelligence-not-replace-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/03/Mar21_18_535639663.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/03/ai-should-augment-human-intelligence-not-replace-it",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/ai-should-augment-human-intelligence-not-replace-it",
-      "publishedDateTime": "2021-03-18T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

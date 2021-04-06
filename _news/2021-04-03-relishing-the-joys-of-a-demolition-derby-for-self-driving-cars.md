@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Self-driving cars ideal match for Apple: Tim Cook"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
+    publishedDateTime: 2021-04-06T12:40:00Z
+    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 44
+    images:
+      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
+        width: 747
+        height: 498
         isCached: true
   - title: "China's Plus raises more funds for self-driving trucks"
     excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."

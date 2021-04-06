@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "An artificial intelligence tool that can help detect melanoma"
-    excerpt: "Soenksen, a postdoc and a medical device expert currently acting as MIT’s first Venture Builder in Artificial Intelligence and Healthcare. Soenksen conducted the research with MIT researchers, including MIT Institute for Medical Engineering and Science ..."
+    excerpt: "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies."
     publishedDateTime: 2021-04-02T20:47:00Z
-    webUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
+    webUrl: "https://stm.sciencemag.org/content/13/581/eabb3652.abstract"
     type: article
     provider:
-      name: news
+      name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 71
+    quality: 167
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/ai-skin-cancer-detection.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg"
+        width: 1400
+        height: 742
         isCached: true
 
 secured: "sktEOz9qE678LYiotpWjTVZ1R0vWRCat/I1EbOc2+ed4Cse0Zi84UCcc+/dlbnwu7GSLzcirvR75nnsexWhjR2Bh0RUEwHI/IKmpgMjTPJMVARHJmuPFC1a183MzszSEqY7YrTTxF1f85c9UWcYhY3v/yTDqxC160JeyHLvGhjA2pH/pK22Cs3Y5DKgI9JiqrOYDeZyBzznmEY/TKNI8Xq1ngWqBrWVGGNZgz7JLECCMtOsFoZ7QSxRX/1WcoMwP0mQhtd5O4p76wibnkdSc1GpVdnDzW2Bw5aNt2uK96FRE6mBbRFZLdCFo/mFPn+Zp5XwxaH36KE9nAzAICVAQDIcKqWBo21MHXiwHM/9hQAe0hZsbmaRuHj6QIbnZRJiWibSV1FyG8rqNLwK5NLp2zHXQNQRVI50EaSNOPYqAEhz+MYPbhAyTwdWb2cgjR3GOTBbrYdzsHi1wl/IGwlBJzVYvjuePy2T5cWWhvcTmykFMI7g7B9KlsajZWpzyXLOIttfw2q/1X7OpP8J4mIZ/9Q==;fbdUTt6jxezyyogaahC8mg=="

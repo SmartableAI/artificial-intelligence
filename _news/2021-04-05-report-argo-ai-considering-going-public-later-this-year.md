@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self driving startup may go public - report"
+    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
+    publishedDateTime: 2021-04-06T13:02:00Z
+    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Ford-backed Argo AI mulls going public this year, report says"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen Group, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April ..."
     publishedDateTime: 2021-04-03T12:41:00Z

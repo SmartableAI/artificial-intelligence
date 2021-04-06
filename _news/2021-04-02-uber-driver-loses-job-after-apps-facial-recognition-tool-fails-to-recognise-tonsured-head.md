@@ -41,20 +41,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "How Face Recognition Can Destroy Anonymity"
-    excerpt: "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore."
-    publishedDateTime: 2021-04-01T21:22:00Z
-    webUrl: "https://www.wired.com/video/watch/how-face-recognition-can-destroy-anonymity"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1617132057/wired_how-face-recognition-can-destroy-anonymity.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Scientists create online game to show risks of AI emotion recognition"
     excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
     publishedDateTime: 2021-04-04T06:12:00Z
@@ -103,6 +89,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
+    excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
+    publishedDateTime: 2021-04-05T10:48:00Z
+    webUrl: "https://emojify.info/menu"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
 
 secured: "Om3TseX5JHXz1Gi6mOxp9Xi1dE2/sWdteLQBVKhd5govKymw9SJgmqqFkUd++OVixxcWKSP9MrZPSs3i8vb+Pz5SwdN6EQAj9w0rwkG4gO9Dy+8Qtjm68J0iE4k0boqLvM7lfZ/OyW/jb9bRlm40ooepBnGDbar4NlqlIGpqq4BmHBm5+kr5gpSLMmafw6yvANHWvQLdxYdqMlOt+ChYFayfozGYtk1M64JZHZhwqgMWZCO3Py7WmVHCVrf/g3/nEqYwXK/WuYBTCpAQAjtrRAdrCZX1E9dT3kgAXKWmXbVWTeXu8iQ/CTa/qL+G+DjQAuEdAGUIIbkWMAyVU/XDTo58odeQpe8a06QODvkCoS0=;uAr21K1xCedolMvi/B09ZA=="
 ---

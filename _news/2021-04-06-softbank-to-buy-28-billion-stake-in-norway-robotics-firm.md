@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "SoftBank snaps up $2.8 billion stake in Norway robotics firm"
+    excerpt: "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ..."
+    publishedDateTime: 2021-04-06T12:21:00Z
+    webUrl: "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269?mod=fa_center"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://images.mktw.net/im-320890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln"
     excerpt: "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ..."
     publishedDateTime: 2021-04-06T05:43:00Z
@@ -87,6 +103,6 @@ related:
       domain: techxplore.com
     quality: 54
 
-secured: "t+2HsiD1LYvSef/cDAYNutSZod7ebXlKQp6eNXIcB8ucw3wtxM7WEnuD64A3wBVecQo09B0hXzIdIK/LWCcJXikkPg0w9s/9Y/bvJdk/y9PstdZ3Ud1k8dyerHIW2NbEE5rakl2T8wpO3L9xHic8Y20UX2vJ4ZG1ZotWEZHMtmCyWt/ob1GFcQc4u80QRaj8eyDgEQdZLPvCo4dJheYF9MsLp//RR9WUIbJPletK7YBxVFTL6oHSGfGpIynr+spIasdd4VmrR2ItYr6u6mYhEHI7Tvw7eHdx6ct4EMNYU5fAcpt4+r43rAPTYvXWEgvl0/DbBxLlPWE0kkJ0TTtY4bVML6hBNCUoqYPYQnKnp1k=;R5cZtj3fMv9B/xc+bNLS5w=="
+secured: "Z7xuFrHmDZhtjAB5nZbPdbzoodVgRlp2dXlai57JgVOlr+UdaaIP23/vxXfyDqsupaFoVlosw42cZwD6X8sgz1mEN4L+I7olHdloqxL2cz0NRaZDEkEj59ENpih3MZ+k/3pqkaOSplU+TChnoJh49k6Utr+WG/5RDxhJgPS7ax/rc+04JTeDwX0JH8hgaLq+HI05L5tgVdlLJ3yiDwHF7xP/B4PZ09C/o4x7LuwgN+G4OcMQWhBice3E4t0uXHgXG1wvbueMAylHAH653n3e9U996fRGcP9nrIBKx2c9xI566ylgtWrlkTpb7496jGE0dxDdp1B5YywIZh2v8/rhSoOd7M13V5SJxOd77FwBb1N4I7nAu3tWOclI/EXaq3fl8+rtUlc84hW/iOUHhJT1uRHGZWquMYuk2FSjIdlnEZlG9bS8fa/l4SGUgr2JhKGv1TMWF6bS6Fjye54J1p6r4b3NxfAORnLeriNae29AeuOeAVgsJq+rZ71nAdiSZapeRv2/wwoiKfaUi9tWUouFqw==;iUdqQwVfm6WWGWYgtejY5Q=="
 ---
 

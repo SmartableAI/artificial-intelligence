@@ -57,6 +57,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Self-driving cars ideal match for Apple: Tim Cook"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
+    publishedDateTime: 2021-04-06T12:40:00Z
+    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 44
+    images:
+      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
+        width: 747
+        height: 498
+        isCached: true
   - title: "Opinion: Regulators need the wheel with self-driving cars"
     excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
     publishedDateTime: 2021-04-05T02:10:00Z

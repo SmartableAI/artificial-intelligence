@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple’s Tim Cook Talks About Tesla, Musk And Self-Driving Tech"
+    excerpt: "Cook confesses that he's never actually talked to Elon Musk in person, and he doesn't sound like he excludes collaborating with Tesla in the future."
+    publishedDateTime: 2021-04-06T12:20:00Z
+    webUrl: "https://insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/"
+    ampWebUrl: "https://insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/KPA9N/s1/tim-cook-podcast.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "94NFVmGhL1wOJZvFsu3Rskzd0gZZYawcH0k1dbtcGOjnsJXrcaHsJ9Rqd43VQib8Hj8fq5a0eNYfGovhu1KTBEtlCRtzZcnH6fTFC/YqJLpAdS3/3XGYE8yZfQP9vkISAFaXKVZwKZqBBWvSvvRff8Z7m7Kc7hvj/dT8ErhZ3wddmCVe4ltDplm1uyPgxNSqO46CTN6WQAMp34X+d4Y4Blside7plr9a4G/ZDI3erzsK3sZVmDl7HBg1KVlQDIW9ZZt/lfdrs5VzRYd5EekCYfjl2fo8Boz79X1lqvxeOYmcNE45LpXWdONm1np1tbKEwf0tqC3gztE7BL8NL6qDSL+hr+ssNvCp0hfyT2zFDg1UaoefvB4JSARQ4/35oYkJej2VfWf5NZzXrkRKaEuJVk7yJi2JVqrvlagsVYjDqWMyZdpOIavP5msU3Jol2dJ6Y/FjxlYnARwN/IlYYkav/3JTrE7+ETiOf0ud7fYTKPYz/Yy46c+q2Ngty9NQauJN8t7ab9PG5XYq/yCIU5JloQ==;Fh5M1o0WC/L2P3K4aksgOQ=="
 ---

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "US Military Seeks to Speed AI Adoption for Support Systems"
-    excerpt: "Michael Groen, chief of the Pentagon’s Joint AI Center (JAIC) While current military use of AI “is a step in the right direction, we need to start building on it,” stated Groen, who was appointed head of the JAIC in October. He is the second director ..."
-    publishedDateTime: 2021-04-01T19:09:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/us-military-seeks-to-speed-ai-adoption-for-support-systems/"
+  - title: "DoD to Spend a Quarter-Billion Dollars Reorganizing Its Data for AI"
+    excerpt: "JAIC leaders have called the lack of \"data readiness\" the biggest impediment to fielding artificial-intelligence tools."
+    publishedDateTime: 2021-04-03T12:00:00Z
+    webUrl: "https://www.defenseone.com/threats/2021/04/pentagon-ai-hub-issues-241m-data-readiness-contract/173109/"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-2Pentagon-2.jpeg"
-        width: 550
-        height: 372
+      - url: "https://cdn.defenseone.com/media/img/upload/2021/04/02/D1-image-to-post_wDvzz3p/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "odFwqASW7x1rGo49dYlnLYOxou2aK0wx9XyN6rfODuyubDKJwi3eIDOAGba5NgFiHAMc68T3eGZiTSN/yXkKC7krLWWhzScpuG9rWYOL3OUwpYTfX1TLSdd1ISNHc5O+ALJsjDDUmAYyTvM1opDtc358h6k8oDbXrQReR5x2/CoAi0CDM1pJznfXj4IgMSx6njPsZizdW09lgNKHic7Wqs9Wv+oT8YqcjZJ0qeaWfNJu5scSgf/9HC004cN1CBIxo8YLXCgGEiEnXjKscqeFuj6dB8Kv9mZG6zRwyNQJDvt6gP1DEdah0ZuaaqDijx5yfbMAaETe9hz63uSDLAxrBxolBOLWEjcX67MDiW1JrU7V55EJ5QL1GSRSZ3vQOhTl2CFXzlB/KbBNZwXufyMGKERgoA6BDTKmaAM+dBzncPeo5pXKrXfmokFj4X9/T5/esfIC1WUIroueyYXAxcy8KKWsMbvBxRnLAjrYKmDZfzxMdhPCiIF8X0y2SworaeTHugbgm89dVOChc6HpXPWUNQ==;HQ5p1rweint9MeVoiXJr1Q=="

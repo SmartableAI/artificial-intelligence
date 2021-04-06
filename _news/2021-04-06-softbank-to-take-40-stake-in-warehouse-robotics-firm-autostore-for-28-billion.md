@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "SoftBank snaps up $2.8 billion stake in Norway robotics firm"
+    excerpt: "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ..."
+    publishedDateTime: 2021-04-06T12:21:00Z
+    webUrl: "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269?mod=fa_center"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://images.mktw.net/im-320890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Softbank to buy $2.8 billion stake in Norway robotics firm"
     excerpt: "which has spent heavily on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. Japanese investment giant SoftBank Group will buy a 40% stake in Norwegian robotics company AutoStore in a ..."
     publishedDateTime: 2021-04-06T11:22:00Z

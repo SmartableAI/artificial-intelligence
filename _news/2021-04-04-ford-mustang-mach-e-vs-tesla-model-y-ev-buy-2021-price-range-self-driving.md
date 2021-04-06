@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/微信图片_20200720151058.jpg?fit=1620%2C1080&ssl=1"
         width: 1620
+        height: 1080
+        isCached: true
+  - title: "Apple’s Tim Cook Talks About Tesla, Musk And Self-Driving Tech"
+    excerpt: "Cook confesses that he's never actually talked to Elon Musk in person, and he doesn't sound like he excludes collaborating with Tesla in the future."
+    publishedDateTime: 2021-04-06T12:20:00Z
+    webUrl: "https://insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/"
+    ampWebUrl: "https://insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/KPA9N/s1/tim-cook-podcast.jpg"
+        width: 1920
         height: 1080
         isCached: true
 
