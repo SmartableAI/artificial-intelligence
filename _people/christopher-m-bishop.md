@@ -3,7 +3,7 @@ name: "Christopher M. Bishop"
 bio: "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam"
 location: Cambridge, England
 type: "profile"
-heat: 50
+heat: 64
 
 affiliation:
   name: Microsoft
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Christopher M. Bishop"
 
-secured: "Nwfmp+HXGHtJs1QisJBvHDvLaa2tXeu0vx2h3ATIlKFnL25Q1RqFCmfRBBK4FCwN3ad5EQap/nrXNRX5PWW0vYw9EAzvRQDQXL4feW9LQbsO2xsImKGRwUheHkSKETkfS5dBXbcjUmAYr4woh42r2WloqQE2YEyWG2eh3KgICCASJudIr1WvwzMfuAJ2nsdKnuQZugpCLdgKsTdF1EuWjwpRdd/UKTpsZnS46eTQFIn+NiIPce7Sn9JngNsScPVahOm2n/3Y0wGsmjZqiTpew3BhecjFesFYCotLrJd2Dfbkt9BbXJU/XJ9T60MBghnOptjgruWfZWDfkXXpt8QKynOe9vDKSccMTL7HFpH/3iEXhiH/Hxn8PJ/v7GVJ28wU7yLHmUfPP+pmGqunPNPX8bEsHhLD07RrJND5+Z9QzqI=;PgngPz5wWM7FdjbRBWHJlg=="
+secured: "bPx1p8DLWIr4GcVXUXeBetXr3/pw8uXVpkPouolC4vLo+S38Q8suGMGLKaHYy2o2FclXfdsEg+E/dMbuBDxSuUA2CdwJx/rolu+vjYassvWaVpP5gRr0MbYWbtcfw18BmXJt4GV0U6e6ly7gqMXSv1+2dMDf/ZmT1ugaMotYcDdw8Kr4FsHl4mVLb2k1xh6mNJo1pY6GQ1ENoiEcCN1wI44izbV5M4/c+3DzIzTIsTJiDPe6X9CCRe/MTg3D68Fx+gs6RSW0kmgUE8A4cD7NP216LkXWGedFwjVh/oSHscJQzWjLwcjhvr3BTx1JEgLvXbtC6XfnW4CM/ANoqrV3R8X7rzSAC3GmQJ0SZgDwaD/ZUjaOpeeNnyS6p8e6YSX0AZBlKaik2+tab3UHY3qVgMRZF8dKYoDyLKQYbPAoHLM=;STippk3LeRHkf7n6mlzIEw=="
 ---
 
