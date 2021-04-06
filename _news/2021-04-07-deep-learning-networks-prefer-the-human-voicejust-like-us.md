@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.html"
 ampWebUrl: "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deep-networks-human-voicejust.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx1.b-cdn.net/csz/news/800/2021/2-deeplearning.jpg"

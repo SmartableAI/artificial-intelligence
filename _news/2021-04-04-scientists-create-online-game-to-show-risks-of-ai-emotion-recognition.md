@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "This browser game shows the limits of AI emotion recognition software"
+    excerpt: "Spotted by The Verge, the Emojify Project was created by a multidisciplinary team led by University of Cambridge professor Alexa Hagerty. You’ll find it over on emojify.info. It will ask you to look at your computer’s web camera and try to produce six ..."
+    publishedDateTime: 2021-04-06T18:23:00Z
+    webUrl: "https://emojify.info/menu"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 147
   - title: "Discover the stupidity of AI emotion recognition with this little browser game"
     excerpt: "Tech companies don’t just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers’ ability to understand emotion are fundamentally flawed ..."
     publishedDateTime: 2021-04-06T15:17:00Z

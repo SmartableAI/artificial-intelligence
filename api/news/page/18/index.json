@@ -2,6 +2,247 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-22-mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix.md",
+      "title": "Mithril dives into chips again with a $55M infusion to Flex Logix",
+      "excerpt": "The once untouchable semiconductor sector continues to attract fervent attention from VCs. The latest news this morning is that Ajay Royan of Mithril Capital has led a $55 million Series D round of financing into Flex Logix,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/",
+      "originalUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-frederic-moll-ajay-royan-mithril-0819.jpg?w=1024",
+          "width": 1024,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/",
+      "publishedDateTime": "2021-03-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety.md",
+      "title": "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety",
+      "excerpt": "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide cloud-based investigation platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnweekly.com/news/state/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety/article_d09b9f0d-de46-5bc1-a488-1a57daf82bdc.html",
+      "originalUrl": "https://www.cnweekly.com/news/state/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety/article_d09b9f0d-de46-5bc1-a488-1a57daf82bdc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/cnweekly.com/content/tncms/assets/v3/editorial/9/f4/9f43570d-7feb-548f-8356-3819dbaaebb2/60588e641e7e0.image.jpg?resize=704%2C570",
+          "width": 704,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CN Weekly",
+        "domain": "cnweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-how-ai-can-help-humans-expand-their-skills-in-the-workplace.md",
+      "title": "How AI Can Help Humans Expand Their Skills In The Workplace",
+      "excerpt": "AI is rapidly outpacing Moore’s Law; its power and efficiency is on a recurring pace to double in fewer than 16 months, according to the researchers at OpenAI. This rapid progress is fueled by innovative algorithms (deep neural networks),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff621b0bd8bb13426b2d2b0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/",
+      "publishedDateTime": "2021-03-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-artificial-intelligence-are-we-doing-it-all-wrong.md",
+      "title": "Artificial intelligence: Are we doing it all wrong?",
+      "excerpt": "The artificial intelligence or \"AI\" label is slapped on almost anything electronic these days, from \"smart\" toothbrushes to cancer-curing supercomputers. If you're like me you've become jaded by the AI rubric, realizing we're still a long way from true ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
+      "originalUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/ozUtaO5NGKws9zlp-cVIDROmRRQ=/940x0/2021/03/19/8d30f0ed-7fb6-499f-ba1b-cb0c0b67e87b/jeff-hawkins.png",
+          "width": 940,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
+      "publishedDateTime": "2021-03-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-face-recognition-with-smiles-winks-could-increase-phone-security-heres-how.md",
+      "title": "Face Recognition with smiles, winks could increase phone security: Here's how",
+      "excerpt": "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "publishedDateTime": "2021-03-22T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-speech-to-text-apps-what-to-look-for-in-dictation-software.md",
       "title": "Speech-to-text apps: what to look for in dictation software",
       "excerpt": "Why strain your wrists typing on your keyboard when you could just as easily dictate your content and have a designated speech-to-text software take the notes for you? Over the years, the market has been saturated with apps and software to help you do just that.",
@@ -931,250 +1172,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-key-task-in-computer-vision-and-graphics-gets-a-boost.md",
-      "title": "Key task in computer vision and graphics gets a boost",
-      "excerpt": "A researcher has devised a way to speed up a fundamental task in computer vision and graphics known as non-rigid point set registration. Unlike previous registration techniques, the proposed method is computationally efficient even for large data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-artificial-intelligence-kept-expanding-through-a-turbulent-year-with-some-exceptions.md",
-      "title": "Artificial intelligence kept expanding through a turbulent year, with some exceptions",
-      "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/20/19ddf293-651c-4f9c-9293-d4d40fb83d10/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "publishedDateTime": "2021-03-20T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-strong-competition-in-booming-ai-infrastructure-market.md",
-      "title": "Strong Competition in Booming AI Infrastructure Market",
-      "excerpt": "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-20T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-the-future-of-driverless-cars-is-now.md",
-      "title": "The future of driverless cars is now",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
-      "originalUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/44/644e72a8-7e03-11eb-aa0e-c3f742e052b2/6042b2b3be994.image.jpg",
-          "width": 436,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
-      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
-      "publishedDateTime": "2021-03-20T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Oakland Press",
-        "domain": "theoaklandpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions.md",
-      "title": "Artificial intelligence keep expanding through a turbulent year, with some exceptions",
-      "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/20/19ddf293-651c-4f9c-9293-d4d40fb83d10/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
-      "publishedDateTime": "2021-03-20T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

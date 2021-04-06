@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20464632"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20464632"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -28,16 +28,18 @@ images:
 
 related:
   - title: "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot"
-    excerpt: "About LOUNGE LAB INC. LOUNGE LAB is a retail tech start-up founded based on \"We Augment Space with Technology.\" Currently, we are operating a robot-barista collaboration cafe, LOUNGE'X, and an AI ..."
-    publishedDateTime: 2021-04-06T06:12:00Z
-    webUrl: "https://menafn.com/1101865713/LOUNGE-LAB-Unveils-ARIS-Capsule-Based-Ice-Cream-Robot"
+    excerpt: "Customizable with 10 flavors and 3 shapes “We want everyone to be happy.” From the comment on the launch. Visit:  The food-tech start-up"
+    publishedDateTime: 2021-04-05T20:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20488883"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488883"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://menafn.com/updates/pr/2021-04/05/G_655e60cc-0_Image_In_Body.png"
+      - url: "https://www.getnews.info/uploads/ba1c0b33f681aaf9fcd339ba804ddacd.png"
         width: 600
         height: 411
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-r
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "This browser game shows the limits of AI emotion recognition software"
+    excerpt: "Spotted by The Verge, the Emojify Project was created by a multidisciplinary team led by University of Cambridge professor Alexa Hagerty. You’ll find it over on emojify.info. It will ask you to look at your computer’s web camera and try to produce six ..."
+    publishedDateTime: 2021-04-06T18:23:00Z
+    webUrl: "https://emojify.info/menu"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 147
   - title: "These face recognition games aim to guess your emotions"
     excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
     publishedDateTime: 2021-04-05T12:12:00Z

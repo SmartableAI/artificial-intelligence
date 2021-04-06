@@ -3,25 +3,25 @@ category: news
 title: "Hampton and Newport News police used facial recognition app, then denied it"
 excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition app that their departments later said they had never used, data released Tuesday show. The revelation, contained in a database obtained by BuzzFeed News, means officers from ..."
 publishedDateTime: 2021-04-06T15:15:00Z
-originalUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-webUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-ampWebUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+originalUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
+webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
+ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
 type: article
 quality: 57
 heat: 77
 published: true
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Virginian-Pilot
+  domain: pilotonline.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dailypress.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
+  - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
     width: 1200
     height: 705
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 431
         isCached: true
 
-secured: "XQwVR8/vAfNdVh15QMxtdsdRm5lYwzpU3dcT5L467+/4nzJH3XJAVdri3s3Lm4zBNCzokKk6O5MiUFr7kbkpyJPlAc0vFE78b+kQ6HkJ31POvHjALmVKygk+iLPsJ/txL97rvlcAEVRIoj8UO/PfYkVpT/VgbFs5KHRIGzOPnSywcvMx7aLr+MPkzl7YYVgezf2Wxfjk6YiH8Xg2jP6BCn5szrs4rWRTMS1N6j3Ok0RahlIvbJqArrrFaRn9q6tqdDgHVfwzpSgWuHPTc/caBQcv94YJATk1yki564h1jQLcuj6CQJ1CgcZUF4OFGMWJ6MyZjHW9Xom+E9XXURIQXnSpGs2FNN5YXPTRmVMyuTo=;5knbdmYQszuuD+FfkBqnrA=="
+secured: "1ArYbgfwL3vSvE6FPQoKbW91BsqvsGvhEEA8fTn3/jZARbjyKb5uFJmfSrpwiTVocW74Aep1KilKF9mPtc8HFvcGeHhFHfzpgpmB8nEueF8wAxMUF0agIS+je5WEc80z0xOHHrYnUPX9V8jXGXhNmxO0OqzfgZj5xR7gCfl5v7wt/zopd6tdS8MEC1HD+dM86y1r9I3lhNOHe5ci/+ZD8cSaxzY6Ssze1boNRMmgkiD/TLVFjrJaFod3kSuWicKFznkNEIpIBJ8dBA/W4WuXrsA7YB2MG2tTHXIpqUJgT+JupO6994mwwSEsgfHKiHIeLH7P03QCebsYuoiZIglsRSU7vhSQa9XsRQdOPOZsu/I=;y5p6LBVyM0oXPst+6ayxQg=="
 ---
 

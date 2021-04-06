@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
-excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
-publishedDateTime: 2021-04-06T01:00:00Z
-originalUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
-webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round, with Taiwan Venture Capital Group and Silicon Valley ..."
+publishedDateTime: 2021-04-06T05:49:00Z
+originalUrl: "https://www.techinasia.com/patsnap-10b/next"
+webUrl: "https://www.techinasia.com/patsnap-10b/next"
 type: article
 quality: 61
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: finsmes.com
     quality: 17
 
-secured: "ygkYZFq7dEXekqAzwUUEryDRCkYqGWzvf1jAOxwoaKuKsjsi0zIDbRsWRAe2Fj240DSdyoS9wc5Jo2FQ3EYaW9A2Wh1hZR7m6axQwIcb5xmnredRiUFRlvyHgOrql/BYo8mvgLKsEsS4XKWnLzgq9OE+f55Ud5PlmY16AAIs4sYTUX09YNrLutr7sscVMnBQecwc9uOTgoY0CbQoyfTl2fVR3U5jgxNJQei4Z41o3kDn2gE0PmxntG0b/gsfQKTqIlYJNL8PG5IE1H4AF96uPkml8ZwDvZ5UMTNknyVsnwDrotCDUf4QE1mGQ3WgyaDPgXiJq4i5V7slKPBchPBmUITtLvmndZ2yZPd4fIbl0Sigj4DUOnuAIWkO0/pkvn2zjGQvuW7OV4PlUSfMZnmKCgkGjoXqgiXv8MZWAvhHEWIdvMjfXu0Q0Ej4Ey/dIppa37WWO6Ubm2ynvT9BgcMTlVTnrJ5hKl+vMFh2Vv7mxV1LCGNne4c6SIEet3KZquKHsqUgM5aoKqODJWB4Z/HNaQ==;zK3ewdKFEokIHnTgcrvO+g=="
+secured: "8HY8sbNfU9K6TXyjyIFfkw9SqYvzTxL57zg7OYEAIcbzlMhY3Y7jmYYaQTmdWaC6Mb2p6pzvb9XE+6+4+Y4xRo6j79pkR+ar8FIioK8VcE9rBiPBNuqDyhCLiaNxkiOEZHcVF3Z8XU/vUPkoIfdrHiNVRfEAW4dWiJithngJwHvxq9x6+a1FB6Zg75VqXRKCtc5U2kN2pe4h3pyK2lAfRh3yeoDAUBuVxIVB1fKPjn/y72dVW/YvhwgZov2dxA8pmkedSpm+Iny1j5mDYYeG39ekWEBQwFh8GBm7Xa8dOFpIRGPrk73nIGm38kAgrllg/J17V+EgCfpcylge26RkMKuc5Zx6jKSoK0opL1jEniSEm85jrZHfmBy93qLD6xkWcbndaZEMtrqS/kL6g5b8UK6DaI6pILhJVJofsjHflFnODenSyXtmu22/MrDIx3E1GxzXI/iYbvckZBdVquaXQZoX8dT3zL1nFI5er99SHa+MCW6FEGD1JQ0XZ/WEGvdQWkWNPnyLPSgJF8+D5yWGOw==;qSb3vtZg4IrNChzZb+Jsxw=="
 ---
 

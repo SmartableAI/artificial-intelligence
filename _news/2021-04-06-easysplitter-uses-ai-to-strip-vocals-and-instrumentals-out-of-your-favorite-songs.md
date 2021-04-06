@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/06/easysplitter-uses-ai-to-strip-voc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/easysplitter-uses-ai-to-strip-vocals-and-instrumentals-out-of-your-favorite-songs/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "nMi+gdNL3jI13UdNsuLgQopU9VJhTqUd/OcHgp8a4AlUpBBVj+1LheaBlxw/6LFuyFufFtk34ZRJpcaSLvD8Xmwxff0/NzcYkPPI0wlp0ktnEpeb4IdVswx1dr8iHRv4e6II9WvMQjUU19nbWzlq0sCnvSe1ISw583ngJAEpS6ua/fHngKnWnIa7QoldFeVYmp6W15K1OjiVxKYGxfimkiuiID7asWspWcyOmA3Ks0zJQ9nu4zSAJ35poUC9iSXaVuCJ2tg2eAwBE5ae3Dyg0z9XNlfoABAYHpcSQroskfyo57UeLlN+XrMXXIf/Rc8qnzp4DY6xsIaMItI/fP3i6Oo4TleGsUPy/OeWB6GNPOk=;DmfOaKkqaMqFKiP4bNg/FA=="
+secured: "0UoQxj3xvWD3z3sHcctVFOv1lLIDgK30cdLzak1mtzJIQSEQ0D6EQh2ZiVb6thHf6SrM3csoxpypPpSILnb9WY8XptCjUwXOQvfngfpgNy3hYlBoE6mTkHb3dueigsYnvuY1YZ65vZAs9JuPg4T8izcrervzbGhyyEDQWYZPvB2CPk007jI5Me4DG75Apnv26zwasvdCc6RbURiGVLZouovkz5mzMr+wEQE4u02aNAqi4LVeCRvktV6gLL9lrBVTZkCcXRTfWZR4LUaaiaPo9JFXtKtIhqSa2MgFFu0cuQ+cNYCtD13xJEim8ELsDtBj6XqFX8LgcTfH7PGZ1PExD8BNZW6LEU9NJEs3NlqRnaTZjpp8bQ5BSrIbK7xlMc8XsDLWdzsYBrLjwXRMDLPrMIjO5jy/l4VT/9tXD6f3FXqRe4opX/kP9J5HnOjbtTIigDhXCuCQ6mmEBmYw2rY26l+iVd75pZVrEUUqEeGTOBHO/23wPoqcr5pfmOuZlpqsNyYNQGUxtuu9daglqeb6bA==;Bg1JcUVWxSAIn2MzscmyZQ=="
 ---
 

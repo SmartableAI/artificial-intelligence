@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Talkwalker's Speech Analytics allows marketers to extract insights from the growing podcast market in seconds"
-excerpt: "Talkwalker, the leading enterprise listening company, today adds podcasts to the list of sources it covers. With its new Speech"
+excerpt: "\"With our proprietary speech-to-text recognition technology, professionals no longer need to manually sift through hundreds of hours of audio, but can find actionable insights from a variety of podcasts in a few seconds,\" said Pierre Detry, Chief Product ..."
 publishedDateTime: 2021-04-06T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/talkwalkers-speech-analytics-allows-marketers-to-extract-insights-from-the-growing-podcast-market-in-seconds-301262217.html"
-webUrl: "https://www.prnewswire.com/news-releases/talkwalkers-speech-analytics-allows-marketers-to-extract-insights-from-the-growing-podcast-market-in-seconds-301262217.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/talkwalkers-speech-analytics-allows-marketers-to-extract-insights-from-the-growing-podcast-market-in-seconds/article_ae2d88c3-27a8-5c1f-9a47-7a1d41f56902.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/talkwalkers-speech-analytics-allows-marketers-to-extract-insights-from-the-growing-podcast-market-in-seconds/article_ae2d88c3-27a8-5c1f-9a47-7a1d41f56902.html"
 type: article
-quality: 5
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1086291/Talkwalker_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
 
 related:
   - title: "Talkwalker can now analyze speech from podcasts"
@@ -40,6 +34,6 @@ related:
         height: 594
         isCached: true
 
-secured: "FwZNmC6BjpvXVbbHu/6C4V7mWW1yvUtNkfaN9KNvN4z8gDpL7CQ05bw3tuACbxwj9SVJGgoIPcmkxBK8G9tkWpY+aGvt0fwFo96o8JWW9tY0yP1QRB9rmgOGLUSStV5h53sIoXVDLVfCoVCkO6ibvo3tczhI0k60oyeRw/8PHYCoBJsBdwi0XV1FK5xdQAGLim0yhq80mTBsdI9WylYfrMaSb7sBzTCq1QV+h4EViMkG6uWZx0+teKSYtPUmVMtIXgshL/OdMUDMY+UZITeKXtFGFub5a0uik+PWurnHg3IywMLOMI1/7KRMQQlbgtWekbc3KXE+fHzBJxRU95jfIz05ue4rXIeBSg0E1gNWnfw=;FnX0FCXDbbdw7q4QQl+cEA=="
+secured: "Mhd9kIuE9I0/rGOCXu+e9Egk+12odnb3NOJUo4yJmBSmKPb/4Rw89n92vsYbU8A8HD/Oz0UQELVuSsIX153sTeY/s4Glusir+gtJbVXmwgXuaoJhM0UbpxHGBnSL9Sj24gxha0zkOWKaOU+GGldYGPZf58O/2Qdpe1a7wix9IjzOdfz0whxXniFETifdo/1YPsyHO1MpuHjCHgBPJ7JqTFt6E2Vtp+DgD+XC7siyduB2yU5u4KZ8f+tJbVMa2Fxn+YAG7yz0LFqqoOb++vf6QKOQttcd9dk3yXn5AVrGat6Lw1FVCd+xvJwPqibYBfoCNr+BQ90yGdOVQ5aw+k3R+Qz7Ba436COgIRLlQAp4d6g=;F6K2o4i4nijRLGYus/2jWQ=="
 ---
 

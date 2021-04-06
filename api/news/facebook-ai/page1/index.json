@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-google-ai-manager-resigns-following-controversial-firings-of-two-top-researchers.md",
+      "title": "Google AI manager resigns following controversial firings of two top researchers",
+      "excerpt": "In a statement on Facebook in the wake of the firing, Bengio said he was “stunned” by what happened to Gebru. After Gebru’s departure, Google reorganized its research department, slotting the ethical AI team under Marian Croak, a leader in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
+      "originalUrl": "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tZhVSfs38URjRdnbNHF3uhf7Yig=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
+      "publishedDateTime": "2021-04-06T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.md",
       "title": "Insomniac may be using Sony AI machine learning for Spider-Man on PS5",
       "excerpt": "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech.",
@@ -908,6 +960,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-18-new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares.md",
+      "title": "New Research Reveals Publishers Missing Out on +67% Facebook Traffic From Reshares",
+      "excerpt": "LONDON, March 16, 2021 /PRNewswire/ -- Publishers who reshare their existing content on Facebook achieve 67% additional clicks on average, reveals new research published today by Echobox, the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares-301247242.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares-301247242.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456098/Echobox_Research.jpg?p=facebook",
+          "width": 2398,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-instagrams-new-ai-feature-stops-adults-from-messaging-kids-who-dont-follow-them.md",
       "title": "Instagram’s new AI feature stops adults from messaging kids who don’t follow them",
       "excerpt": "The machine-learning feature is one of a range of new tools Instagram is introducing to protect young people on the platform.",
@@ -1372,112 +1467,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-facebook-trains-ai-to-see-using-1-billion-public-instagram-photos.md",
-      "title": "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos",
-      "excerpt": "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1602837049",
-          "width": 4256,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "publishedDateTime": "2021-03-04T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-kaskada-launches-platform-to-prep-data-for-ai-models.md",
-      "title": "Kaskada launches platform to prep data for AI models",
-      "excerpt": "Kaskada, a startup developing a platform for feature engineering, has launched its platform in general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
-      "publishedDateTime": "2021-03-02T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
         "Facebook AI"
       ]
     }

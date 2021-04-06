@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-a
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.amp"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1784
     isCached: true
 
-secured: "J69oL8IJtUEv0u/DprF1RKcOhOPfazElAdac4zjVNR7JjPLIaNfadO6r2lp5gP1tvc8iCWwBYdv93dbHEKRXw2I0dXsDSfhOgkWjC7Ytw1edr3ce8zYXb0yoqdvzvVbLNcUkLGN/vcTBkiRcbYGQdprHIg3ieE4qpigpH/K25ePD0iPvdUr54IkYRtaf2QANrPOFHR7nRyySMPS+tlqePbsBwT05NnXYctnBMRL46q0bmc95NeY+5gS39+XxnLxRGiNkql0yyDDMESDuPWWr08QRN+Lz4FV/p68mH7tMCMfdcgHRSxlsJTE/Jm6tEgh2MUZbii0YmZCEgEeApAmI+B48EH426qHOXcRS/b9RCug=;BbMFA2ecUxiwXO+moglhcw=="
+related:
+  - title: "UCL scientists use AI to identify three new multiple sclerosis subtypes"
+    excerpt: "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple ... treatment choice and identify patients who would best respond to a particular therapy. Explaining the research, lead author Dr Arman Eshaghi (UCL Queen Square ..."
+    publishedDateTime: 2021-04-06T18:21:00Z
+    webUrl: "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "mXWHUR8WW+bx9MEilZJUuUw/skUYkg/2l6Jjg3HeFtDsrsmXML21zLD/cfMU5XrEHzmOYi/5d4OhUq8XMC0mUdqMUIkvig8Jm9pj21/kgrbzBnnWZetADSINrKXOSrx8iGkFJZc5edFFTJJzefbuVDYTzJfBxM8pskQwL+Vew0nVXQR+2MygBbqJxuwfvr7+/3Db/lJotm+GFFzSXDbX14uaiV0QCJJ8M3iuOo5TADXk8FaIIINFz6zRoA24DUrbs7cf18e9Qx+4gaBZrnF86oy1tWCLBD6pcF6rGf8Sk8Tl3pYiLtSxXzd4Ld4aM9XXrmrQUMRkpMxznPi+cWPpF8aSIZpyN08fJnSqAQDLJA5fFBSG5e7FK3eLTS3uztGaT2Ywm8HXy1TrAVjUuzavfCi5eTL9bfH4BJc0Qf1Gulvw/+vL4jmNIE3OasY6E5+GLEU3/cfImZGhWgnvJlkLzWruLORnpMVgjGW1qIMMzRvM1YZ5MVztjwqUibJK6b/BQdtQRf9g+vdqiDugb3R3kg==;nJlXYgdhj2CD3KKBVhhwEA=="
 ---
 
