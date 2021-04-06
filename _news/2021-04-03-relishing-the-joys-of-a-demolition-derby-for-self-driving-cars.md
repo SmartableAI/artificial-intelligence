@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Apple chief Tim Cook talks of self-driving cars"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
+    publishedDateTime: 2021-04-06T01:35:00Z
+    webUrl: "https://english.alarabiya.net/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
+    images:
+      - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Opinion: Regulators need the wheel with self-driving cars"
     excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."

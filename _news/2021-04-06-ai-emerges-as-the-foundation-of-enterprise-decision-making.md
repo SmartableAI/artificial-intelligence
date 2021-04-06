@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AI emerges as the foundation of enterprise decision-making"
-excerpt: "LOS ANGELES, April 5, 2021 /PRNewswire via COMTEX/ -- LOS ANGELES, April 5, 2021 /PRNewswire-PRWeb/ -- Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of this ..."
+excerpt: "Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of"
 publishedDateTime: 2021-04-05T20:20:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-emerges-as-the-foundation-of-enterprise-decision-making-2021-04-05"
-webUrl: "https://www.marketwatch.com/press-release/ai-emerges-as-the-foundation-of-enterprise-decision-making-2021-04-05"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -59,6 +55,6 @@ related:
         height: 364
         isCached: true
 
-secured: "HFA7lKpDOi/qwNdipqPjqK6NwxO8zC61H2fk5uDg+XGBC9yA0KTCMqmhROd+0jf5yFfBX/LddtGPn6kBbvv495d78V5nP3Wp1s77N7yl/oo/R5pBAhNSOCL/Js+2nksI9jWA/nu6nXZMg3d1B4X1y3oY+HbD2H1Sr1tXQvM3n9A0QZWTCxSiTUJXXMa1gBjklWQ79Z2QRLEBiZBDixg+zQdZVS4EUk1h446iVsAfudFZHhY+WMuJR9P5LEAlb0Omyutl3enEj+hD82TEk+ReersPv0svkp2+TegjEP6f/2y3pxoNd4NryfUblXcI3o7AvoYMvBBdCgRdP6mC2cdOnQLLdifY+fRuo6MxyiIn6Bc=;zDNqx0JhrDRaxH8SVuKcQA=="
+secured: "ZLFNGWY8zVWiH0r+7LFmZXc+KkG9hiy1D66bCn8R3ldb42eze4IZ5Tk6FSuP63s2dRyu9fDlg9er1HnB0tztx7/8qsmoH7bNQ4cLmB88rv/bdoOWdN7NfSpoD2aBV8CNBz9urkQau3PnaKGOJsaru+E0yav/1F1wjpenJs9pQgkcllgBU0CrrMDugagiavvE6Z86YxuG6+kmcwSG7eh4+UpMoi3pCLcuL47qED5pNwPlVR0Fl+75tSfaWQqIUMFIQuElLxO78rnjDOS/M+NwtEFtElfOt0TAawVBCu9/xZcUEpvE51lFgKkcYCMd/8xolwgZVLvNRUxl1zmWy58Km2QDk0M8dxpXAaf0hILLH9g=;QEGI59p4FGUV54PwY78GDw=="
 ---
 

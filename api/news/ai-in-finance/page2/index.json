@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype.md",
+      "title": "Il boom dei pagamenti digitali spinge le fintech italiane: numeri record per Nexi, Satispay e Hype",
+      "excerpt": "A misurare l’andamento è stato l’ultimo Osservatorio sugli Innovative Payments della School of Management del Politecnico di Milano",
+      "sourceUrl": null,
+      "webUrl": "https://www.lastampa.it/topnews/economia-finanza/2021/03/11/news/il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype-1.40013757",
+      "originalUrl": "https://www.lastampa.it/topnews/economia-finanza/2021/03/11/news/il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype-1.40013757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gelestatic.it/thimg/7-vRBTKph2tyv1weG2pJPhi9nYQ=/495x330/smart/https%3A//www.lastampa.it/image/contentid/policy%3A1.40013756%3A1615482605/image/image.jpg%3Ff%3Ddetail_558%26h%3D720%26w%3D1280%26%24p%24f%24h%24w%3Dd5eb06a",
+          "width": 495,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lastampa.it/topnews/economia-finanza/2021/03/11/news/il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype-1.40013757/amp/",
+      "cdnAmpWebUrl": "https://www-lastampa-it.cdn.ampproject.org/c/s/www.lastampa.it/topnews/economia-finanza/2021/03/11/news/il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype-1.40013757/amp/",
+      "publishedDateTime": "2021-03-11T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Stampa",
+        "domain": "lastampa.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-fintech-il-futuro-delle-banche-tradizionali-che-punteranno-sullinnovazione.md",
+      "title": "Fintech: il futuro delle banche tradizionali che punteranno sull’innovazione",
+      "excerpt": "Dopo la crescita Fintech, il passo decisivo delle banche, sarà quello di abbandonare le tecnologie di legacy per diventare più agili",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "originalUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitmat.it/wp-content/uploads/2018/06/fintech.jpg",
+          "width": 870,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitMAT",
+        "domain": "bitmat.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-app-fintech-gratuite-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
       "title": "App FinTech gratuite: il 50% non sa che uso viene fatto dei dati personali",
       "excerpt": "Una ricerca effettuata da ESET vuole mostrare come i consumatori che usano App FinTech Gratuite proteggono le proprie informazioni sensibili",
@@ -1264,102 +1350,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack.md",
-      "title": "Berlin’s MorphAIs hopes its AI algorithms will put its early-stage VC fund ahead of the pack",
-      "excerpt": "MorphAIs is a new VC out of Berlin, aiming to leverage AI algorithms to boost its investment decisions in early-stage startups. But there’s a catch: it hasn’t raised a fund yet. The firm was founded by Eva-Valérie Gfrerer who was previously head of Growth Marketing at FinTech startup",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/",
-      "originalUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/eva.jpg?w=624",
-          "width": 624,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/amp/",
-      "publishedDateTime": "2021-02-25T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
-      "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
-      "excerpt": "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19667110.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19667110.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

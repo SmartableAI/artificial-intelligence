@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "At John Deere, ‘Hard Iron Meets Artificial Intelligence’"
+    excerpt: "Intel and John Deere developed an integrated, end-to-end system of hardware and software that can generate insights in real-time, at levels beyond human capability. When using a neural network-based inference engine,"
+    publishedDateTime: 2021-04-05T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/05/at-john-deere-hard-iron-meets-artificial-intelligence/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "ro9eDdSJN04OWJTgnLIBKBpU20k4LiWiS2xYPgMBE1QHXMEQAl6vljHEeicGfbTn9ejx/11JlDq+3mQF4QXPj8/NhsIbgN5ze0HwLJoRpC+J7wjKJjNbThdJHdhPKFsnJMETt6KYVYoeMW+/f5vipgBJCkFWrgk8rvFrTo4NO4Kci7U7o7sFSeYOcedRd58EnVNyRlQLvSQWbHFyYtoGtZ1T8KlYIyj0WkO3zJ+KV7qwWOxDxy+DUMIDXb7/cN2qgwvzyNHZBpiFz4xLOenZGN/Ag7wMcVP0JeRG05jfT8iGCHejZSMM9ANOoFuJXCo9/IfOqkfpkDb8Y9xaJGrpt77KwadjcxEENC7fWL2iI9V6TA8oL/R106Drv/1SXwNLFeTbvnYT35YdxBQsodTl6VVhsc0UouN9ej3FitLeCfGIkVqhN4b7ROjRuGpdOQUr4qiWD9OA294VNFLHqDba97rOi3bw0mWF3eap/fRtQTZQY/3lCCw/ZrICfjrfI5ijLVY335/jVrmPuusO0ghzhQ==;zc7bOgVjGuy08kawZ71zkw=="
 ---

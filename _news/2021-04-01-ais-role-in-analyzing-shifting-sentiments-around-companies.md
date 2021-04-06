@@ -154,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
-    publishedDateTime: 2021-04-01T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eygwi5u9y4feCwAoDF+7CLPu0tcoFs65v0HKC3VBMC7EqCyRArQMHqcSpioiQ4AvAw54RMt2EOyScStwAHngjUFTx9cEZws1cAozkIYzvvi5BIjpPJTpU3qTkAYmfL+vKNnVVDJlhXHoV/S8w4bavko/MxpAKChZcs1nG6Y3h2TlNsXkqk6FLnC6achBQMxlQPexqq6jMu/7B+sS2GI8BlZjAkc9wrNaBow8YrUUQy7GJACo5rO8TAsQii0t52FyrCkoQd87dvSm2ZSTi5D5uf4Aw60O7JNhBAqtQqQJBQLDUdinAMCkpRC7gHF5eYa/GMYAFF+eICR2GF34E6uQYE/qswQBDTa7qB6n0JNf6IqxUqRqytOru8fsn8FcE93IU8Hzd9awVTby0XIwZ66obJYGiqmCVUosvJTI40A05FXYquzPNRiggXJKq0dPIaAk3UCS3AdBxnHre3ObDYDJ4hTSPTPZNG9VMzoQKOg8Ct/8/ZHOOltsgWbRmVMZe5epjQlP2oUY0Kd+u3yfMo7jCg==;3SXobDaRmQom3JPXTVHEMw=="
 ---

@@ -43,7 +43,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
         width: 770

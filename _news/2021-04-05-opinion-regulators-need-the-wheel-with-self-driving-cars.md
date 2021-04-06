@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple chief Tim Cook talks of self-driving cars"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
+    publishedDateTime: 2021-04-06T01:35:00Z
+    webUrl: "https://english.alarabiya.net/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
+    images:
+      - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "PMiRWCa64HKMxdC5ag8uS1baMAmsu2zcsQxyZo3TZuFtLioPFl4DatAjdPphPdYwcXE29X9bbRR06Ga2DQ7RQlNO7N94QORosU4prxcfzKb01Uc6QRhXkO1fBaMZeB2lVf4DlmmJsSVB9LKt4tpdbwrpoYIrjdG5KOS/EbAD3L89YlQeS+0Vc+oJ+Wk/pvd4giufZBLLxJHUdWK3NeYYz8H95bFLNtHTrrg4riQT6J5f3NPEykKWEbx20/gYSeC4h57SqD+FoLPQBOvUeTj+ZVYAjCz8CpIFMPs+5cNre9Tj3mhKSFQ9pbjagCEI7BBgzqbgIyZlgsq3HvV9kxk5b4S703Iqh3HPiosEXD/1oxKgi9HkftDA3bs2sI6HH1zLmoPpcXCvr6+PtI9PniwN1zKHNIwq+W3InlZhWGqcPeInHvMZckCDYb3CoZIFeG5aTRPioWLZict9/mgFkZzcO5+UuQDUbBGTY6B5obtsWcGwqal0FDvY79sCdHqOvg3gr8wHXCsHCoLvdonfjynMnA==;BemcleNg3ozGCkwQoMPlhw=="
 ---

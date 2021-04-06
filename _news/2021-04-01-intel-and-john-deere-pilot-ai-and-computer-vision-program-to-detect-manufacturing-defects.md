@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-and-john-deere
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/01/4fff15ed-9447-4deb-837d-4f8c7f1f9fad/r4e037390-rrd-02.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "At John Deere, ‘Hard Iron Meets Artificial Intelligence’"
+    excerpt: "Intel and John Deere developed an integrated, end-to-end system of hardware and software that can generate insights in real-time, at levels beyond human capability. When using a neural network-based inference engine,"
+    publishedDateTime: 2021-04-05T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/05/at-john-deere-hard-iron-meets-artificial-intelligence/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "Yme+dJOxvajOJ4ig1HX1CflMokkiUVRNH/2haFwTnnOQ0K/5msLGbOCPWSlJReQ5gzQa3WmvFfpXysPTQEXGSuvYBdWmuiR3xuBESF089Le2drkiTkdReiD9tD46YnfT6HY+hsAcNtkPp8RmD6eomfLtIes+mth+XyRD/wORJ74F4pJk29W5CeXIzWD/3Vf4hLUTdgB+m5P2bo6YXffsKeFYohxIYdyBKKrPypSR7MyDAn0bZH6g1mDFbtor8iosULV2zvvaoSbVRSlcPDIFKQgxdfUN0AuDGgZ2sPw1UaT0ThqrSxyJCeCZXq43X8NoE+htu0vrWc7c6X7ShbJ9vlKj6Ayi5c5gLHAXT+d6vDLClcdpe6pIxmVgsO3y9nauiaiVtoBNK7LA2dzXgWiL0Mwq+BWLPq0PM+IB5jJL2iotagwAF3uMlQzUkRiisI8X1ApgpwsiLo9OJRyCcv6IaTxvy34OVCDKVrUGEQRCJCd4LOWuhR23NhdZUB7RMU05Wqoi+YjwKD0XFXO0r6aSpg==;oW6AyrU74+0+OlF8JEQnTw=="

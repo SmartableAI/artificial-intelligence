@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020"
-excerpt: "Eye-care professionals can now be more patient-focused than ever. M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition."
-publishedDateTime: 2021-03-24T05:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-19714379.html"
-webUrl: "https://www.lelezard.com/en/news-19714379.html"
+excerpt: "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ..."
+publishedDateTime: 2021-03-24T05:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20312454"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "M9DsasIUqWq7gdnZ59nSlI031lVAq17xGE4b4gw8/mtpcmVYEKWdMkVRhzg6pE3lyxJu9c43Q9fvBgKmF8SNzsoGaMMqo0zbGf5diz6QFmKwZsB2dqGk7qeoNL5AtbjA5474AkP8H4EgnLUVqG1RLl82M3ns+MTtat/v6NeqIArjw5rvi6y3xmvhvl3PQ/mFstNAGx7USHgRt/SfejsR+ZfjrKT0iSN+03AcC8tp+YO2EUbDir6btXcF0iI62fZoldcX7ZQxA5C0hABPmWWFURNTFgIwJNDq54bxApBRoftOlSgmS856789tNMlzgTKLjnJVXvr8s7NDih4FUmYa5fVZKomzm8jAkVmnjsI0bpI=;3dInczHB6D3IHZH+px/ABw=="
+secured: "l5B8H5d9KW1Ktz7nB/RxRY1khf1wp7Ub/k2vbICsnHZkggDQHTEe59AVYcslITxEk8epNZTpz2k+5C11P4vYflpdcRNd3TQoKxTPAfjLVmmOwwH3GQS9AOzqkIu6s2bb5YyTMPQ1QUeGPbixBTKgkoVHKnp3gr9ZmJY0kdvP27aRir67mmZ/OuQ6G6zu5mMmD998H1P5/Ek6rPB1RQ7QvORgwlcETEo3j/MVJUKE6xh4gDucX5hmLgAQD5U9eJLHEOJc7OG5C911rRAib+Shse+/SzzrvQYQAWv0T+W2rOmHrLZlRkBMpPYYA/emL+Zv11FXRCw6LDelDUXkjJFB9c5R+ZkaM3hQy2BueEPI9NY=;ucz6xctorKrp//H1UI9syg=="
 ---
 
