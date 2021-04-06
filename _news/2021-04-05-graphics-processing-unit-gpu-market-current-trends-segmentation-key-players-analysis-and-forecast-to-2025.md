@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit
 webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,31 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028"
+    excerpt: "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ..."
+    publishedDateTime: 2021-04-05T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
+    excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
+    publishedDateTime: 2021-04-05T07:51:00Z
+    webUrl: "https://www.openpr.com/news/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    ampWebUrl: "https://www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
   - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
     excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
     publishedDateTime: 2021-04-05T07:54:00Z

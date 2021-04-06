@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New app uses AI and ML to monitor changes in skin to prevent cancer"
+    excerpt: "Salesforce's approach for positive AI and product development 23:03 Contract work policy Hiring Kit: Network Architect Data encryption policy How to monitor system resources on Linux"
+    publishedDateTime: 2021-04-05T21:55:00Z
+    webUrl: "https://www.techrepublic.com/videos/new-app-uses-ai-and-ml-to-monitor-changes-in-skin-to-prevent-cancer/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Researchers to Use AI for Cancer Treatment"
     excerpt: "Artificial Intelligence (AI) has proved to be a very useful tool in ... which allows it to identify host response patterns to the therapy. The system is capable of monitoring the patients response to the treatment in real time and can also predict the ..."
     publishedDateTime: 2021-04-02T14:45:00Z

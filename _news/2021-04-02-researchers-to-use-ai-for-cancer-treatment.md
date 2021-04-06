@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New app uses AI and ML to monitor changes in skin to prevent cancer"
+    excerpt: "Salesforce's approach for positive AI and product development 23:03 Contract work policy Hiring Kit: Network Architect Data encryption policy How to monitor system resources on Linux"
+    publishedDateTime: 2021-04-05T21:55:00Z
+    webUrl: "https://www.techrepublic.com/videos/new-app-uses-ai-and-ml-to-monitor-changes-in-skin-to-prevent-cancer/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Global banking’s AI leap"
     excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
     publishedDateTime: 2021-04-02T09:04:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss.md",
+      "title": "AMD's FidelityFX Super Resolution won't require machine learning, unlike Nvidia DLSS",
+      "excerpt": "Despite rivaling Team Green's AI-powered framerate booster, AMD's VP of graphics, Scott Herkelman, informed PCWorld that FidelityFX won't require any machine learning to work. FidelityFX has been teased since the Radeon 6000 graphics cards were announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss",
+      "originalUrl": "https://www.techradar.com/news/amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sZPApusPv2f4N9cbsNyzDG-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss",
+      "publishedDateTime": "2021-03-24T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
       "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
       "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
@@ -1376,49 +1428,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-machine-learning-can-identify-cancerous-cells-by-their-acidity.md",
-      "title": "Machine learning can identify cancerous cells by their acidity",
-      "excerpt": "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/19-machinelearn.jpg",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
-      "publishedDateTime": "2021-03-16T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

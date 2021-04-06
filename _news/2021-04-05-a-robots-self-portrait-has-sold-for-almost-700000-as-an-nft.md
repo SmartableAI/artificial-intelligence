@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/a-robots-selfportrait-has-sold
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

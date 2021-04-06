@@ -1,27 +1,30 @@
 ---
 category: news
 title: "AI emerges as the foundation of enterprise decision-making"
-excerpt: "3. Ethics, economics, and sustainability issues curb AI adoption. Despite high interest in AI, three key challenges need to be addressed to scale AI implementations: staggering energy consumption, biases in models, and high cost and computing space."
+excerpt: "LOS ANGELES, April 5, 2021 /PRNewswire via COMTEX/ -- LOS ANGELES, April 5, 2021 /PRNewswire-PRWeb/ -- Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of this ..."
 publishedDateTime: 2021-04-05T20:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
+originalUrl: "https://www.marketwatch.com/press-release/ai-emerges-as-the-foundation-of-enterprise-decision-making-2021-04-05"
+webUrl: "https://www.marketwatch.com/press-release/ai-emerges-as-the-foundation-of-enterprise-decision-making-2021-04-05"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +59,6 @@ related:
         height: 364
         isCached: true
 
-secured: "CklBFCTYsMmoMMe4seYm6j/OWzkZfEeJmsChCtu4LYiusyjvYtBtql0otOhIw3eF9522pzj16kUbYgJ3GUlEe4Zw+vuvymotVGZtLnaJ88ky0EV6qgQM4+b0jxgOLKARsUy+sH8ozuVfPBonn+kitI1chXfdZxJlIJmiXqbGlA0OfWB6cZbSV4ojpdcfklY/+WJZvIhQHYZxHb/SrN+ug4wLq2VafE1VTQgcHspOq91QlhAC7u5B3pl0r4O21sHDtvL6s/n90red95cLhvl65LN+jHLBTUNZBBCxiIidK7PSwiPId8UKonzk5zNVbiysurNgA0xf/BE+dMbOr7aWUKvAlshzhR+1gSxyUcJjHPk=;RbHLiYGYikYb55F1y7kRIQ=="
+secured: "HFA7lKpDOi/qwNdipqPjqK6NwxO8zC61H2fk5uDg+XGBC9yA0KTCMqmhROd+0jf5yFfBX/LddtGPn6kBbvv495d78V5nP3Wp1s77N7yl/oo/R5pBAhNSOCL/Js+2nksI9jWA/nu6nXZMg3d1B4X1y3oY+HbD2H1Sr1tXQvM3n9A0QZWTCxSiTUJXXMa1gBjklWQ79Z2QRLEBiZBDixg+zQdZVS4EUk1h446iVsAfudFZHhY+WMuJR9P5LEAlb0Omyutl3enEj+hD82TEk+ReersPv0svkp2+TegjEP6f/2y3pxoNd4NryfUblXcI3o7AvoYMvBBdCgRdP6mC2cdOnQLLdifY+fRuo6MxyiIn6Bc=;zDNqx0JhrDRaxH8SVuKcQA=="
 ---
 

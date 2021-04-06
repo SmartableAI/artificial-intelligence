@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
+      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "publishedDateTime": "2021-03-19T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
       "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
       "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
@@ -1147,49 +1181,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-new-peugeot-308-hyundais-space-van-and-self-driving-tesla-crashes-police-car-your-thursday-brief.md",
-      "title": "New Peugeot 308, Hyundai’s Space-Van And Self-Driving Tesla Crashes Police Car: Your Thursday Brief",
-      "excerpt": "Plus: The sad demise of Sabine Schmitz, the GR Supra vs. the Litchfield Yaris, And More Chinese Telco Companies Banned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "originalUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/03/BRIEF10-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "publishedDateTime": "2021-03-18T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

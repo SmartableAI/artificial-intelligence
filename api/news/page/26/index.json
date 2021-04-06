@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-14-cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills.md",
+      "title": "CBSE launches Artificial Intelligence community for students to enhance AI skills",
+      "excerpt": "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
+      "originalUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
+      "publishedDateTime": "2021-03-14T00:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-tiktok-a-chinese-entrepreneurs-unfinished-search-for-global-recognition.md",
       "title": "TikTok: A Chinese entrepreneur’s unfinished search for global recognition",
       "excerpt": "Biden himself has described China as the “most serious competitor” to the US and has vowed to confront Beijing on various fronts, including human rights, intellectual property and economic speech. “The Biden administration has been clear that it will ...",
@@ -1167,58 +1209,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
-      "title": "The Army Is Teaching Facial Recognition to See In The Dark",
-      "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
-      "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center",
-          "width": 1792,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
-      "publishedDateTime": "2021-03-12T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

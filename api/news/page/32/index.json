@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
+      "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
+      "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
+      "originalUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/02/money.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
+      "publishedDateTime": "2021-03-09T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
       "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
       "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
@@ -1109,49 +1160,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-we-need-a-humanitarian-vision-for-ai-and-robotics.md",
-      "title": "We need a humanitarian vision for AI and robotics",
-      "excerpt": "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "originalUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg",
-          "width": 1600,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "publishedDateTime": "2021-03-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

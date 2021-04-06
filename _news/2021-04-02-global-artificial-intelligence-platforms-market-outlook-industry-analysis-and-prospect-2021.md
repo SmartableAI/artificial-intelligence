@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MarketWatch
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021"
-    excerpt: "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation."
-    publishedDateTime: 2021-04-01T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

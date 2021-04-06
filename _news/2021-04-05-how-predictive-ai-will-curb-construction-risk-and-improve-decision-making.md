@@ -41,18 +41,18 @@ related:
         height: 655
         isCached: true
   - title: "AI emerges as the foundation of enterprise decision-making"
-    excerpt: "3. Ethics, economics, and sustainability issues curb AI adoption. Despite high interest in AI, three key challenges need to be addressed to scale AI implementations: staggering energy consumption, biases in models, and high cost and computing space."
+    excerpt: "LOS ANGELES, April 5, 2021 /PRNewswire via COMTEX/ -- LOS ANGELES, April 5, 2021 /PRNewswire-PRWeb/ -- Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of this ..."
     publishedDateTime: 2021-04-05T20:20:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-emerges-as-the-foundation-of-enterprise-decision-making/article_2ee4301a-e662-57ca-acae-a40c9d618e07.html"
+    webUrl: "https://www.marketwatch.com/press-release/ai-emerges-as-the-foundation-of-enterprise-decision-making-2021-04-05"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "z1M9NK1xcF7xVT0lMIcFZ7SDTrWOUXyhN8ACT4A1/5QjmgXenzLwpXtNE8R7VU2n1PNrAMrf2Phr55IpGuFqMwKRo99/86MqbQz1TLrtFFe/Fp7lLvO5T/x4WO1fNOJYvMGKP29MXH7jn5Yqkh7b7/wG737ildOqrS6w1Gc4kIMIkKvhsGRKpw7TYrrVAjjK2Ksmk/nvxMxDKvfnzLVhoojHZ5/TZK4HH0i/6NwGikPPub8lrirQHxvYzm7Mota5WoV4pFa6h1fr90ZIn/sbJaQYyBv6FZvTC7fZ3YoH1fJPLxlJCIx418lVa8JphjAA9cgDTtRMjIh/Q8oBVug2v5VTldEepHS78QAn9Zgp0cI=;lIXEv63StaHxAQTvqJMFuw=="

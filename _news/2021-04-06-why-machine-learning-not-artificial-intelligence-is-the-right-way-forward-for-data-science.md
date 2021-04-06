@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/why-machine-learning-not-artificia
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/"
 type: article
-quality: 93
-heat: 93
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg"
@@ -30,6 +32,6 @@ images:
     height: 800
     isCached: true
 
-secured: "k8rqBzSWl4EyCXqGZcqBZHL62S5hOGND2th6GjPsHTkbkLHJjMyBoZbXVOjxUb0BIXZvvY+eW8O1y39i177POpsr0eCqlLSM4nLnH/iCqGaecjgi1bE+tg9wFGOXwtX9aMpBB+K2OB6HI00K7MQFlhMB76taBEQszfC0hfdbWkgGW8uj1RWxxahMx5cPiLemJU6UDBwQufXmkizZu0EHAPO4629iTNFU82oYjwWpJQXRoYkNorhHg6xBdHVqd99IGCnLkPEQrZq3XWX8qMyJUI/zKbK5AEpjegMI1p/vlbXT+FPx4JF5THkfH7bt51TCeBIu6pj+DUjd8Y8XVjy+dkfSG9ApAL9zOVjDk7Sfa5o=;SjAZYHU8dd0Zf4h0vt/7Bg=="
+secured: "7SLa8I1KTBe9XdjlSSFOMQgrc92e7X/dyiWj2gGpXxLrPfX6Z8UAt1QIc+CeEzC/a1kiWNBA4Q1YP397oRxAqLPy4hVbOavPwuNkJNdHoxKI7DS8jimAJejtu4MW+1QpzBBFJm1odaVLO9Mq4EVu066fosUX+wujz6wf35sWaBiNvAikKg84ar9L3rm5OL104h3E6YDv5+agGW7TIjFZwbeonMnhVIJwtyDh0AFR3NdRgOWK7rfXbdvjGYZWoUIZ7sHvwIvDYTTY7Q8vsJlOd+N2WCzuvxcOiYhfUFny6/Ez7AP0diuhUXOvEOl0bS2+p/qzVCz0Ej8/o4+rFHemQPQ+MQHxh9LC3rNjY3ojTj2VWyoh1EFEb9lZsY4Ga40w6S+UnyBXdWUnEJZeEATRpkLOII6Yh9SxiwwrvmZ06XN1LmrCNsMhmxBGjZz3IAK+k3Ef1h07/alH2V9T3A611atlNRdNxDtyi27E8/L5B/HQH+uJ/oLdYlVBOTAZ55TFcbg2jGylzgfzhUXR2RPI0Q==;lDQIIRyRsN3rO5nTSyd4yA=="
 ---
 

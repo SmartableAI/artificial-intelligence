@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-02-global-chip-shortage-affects-more-than-cars.md",
+      "title": "Global chip shortage affects more than cars",
+      "excerpt": "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
+      "publishedDateTime": "2021-04-01T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-security-in-the-cloud-is-enhanced-by-artificial-intelligence.md",
       "title": "Security In The Cloud Is Enhanced By Artificial Intelligence",
       "excerpt": "However, nothing stands still, and the extra volume of data and networking intersects with the increased complexity of attacks, and artificial intelligence (AI) is being used to keep things safe. The initial hesitation for enterprise organizations to move ...",
@@ -1205,58 +1257,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
-      "title": "5 machine learning essentials non-technical leaders need to understand",
-      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

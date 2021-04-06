@@ -2,6 +2,57 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-02-deep-nostalgia-creepy-new-service-uses-ai-to-animate-old-family-photos.md",
+      "title": "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos",
+      "excerpt": "Service from MyHeritage uses deep learning technique to automatically animate faces",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "publishedDateTime": "2021-03-01T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
       "title": "Underwater robot rises from the depths to save drowning swimmers",
       "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
@@ -1151,57 +1202,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-how-covid-19-broke-ai-and-why-ai-may-break-again.md",
-      "title": "How COVID-19 Broke AI, And Why AI May Break Again",
-      "excerpt": "The unprecedented circumstances caused by COVID-19 caused many AIs to break. How did these AIs break and what can your business do to ensure that future AIs do not suffer from the same vulnerabilities?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c15323845b94ba5c85f92%2F0x0.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/",
-      "publishedDateTime": "2021-02-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

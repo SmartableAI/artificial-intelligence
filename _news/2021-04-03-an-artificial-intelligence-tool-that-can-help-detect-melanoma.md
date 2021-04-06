@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-de
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

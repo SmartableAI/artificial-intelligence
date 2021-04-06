@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How Artificial Intelligence Can Speed up the FMCG Sector"
-excerpt: "Right from chatbots to in-store robots and from real-time actionable insights to future predictions, AI has the potential to provide an edge over competitors in many ways. AI is a part of the voice of customer technology (VoC) that helps businesses to ..."
+excerpt: "An increasing number of consumer packaged goods (CPG) players are integrating artificial intelligence (AI ... Right from chatbots to in-store robots and from real-time actionable insights to future predictions, AI has the potential to provide an edge ..."
 publishedDateTime: 2021-04-05T18:18:00Z
-originalUrl: "https://www.bbntimes.com/technology/8310-how-artificial-intelligence-can-speed-up-the-fmcg-sector"
-webUrl: "https://www.bbntimes.com/technology/8310-how-artificial-intelligence-can-speed-up-the-fmcg-sector"
+originalUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-can-speed-up-the-fmcg-sector"
+webUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-can-speed-up-the-fmcg-sector"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 563
     isCached: true
 
-secured: "tiuEeQjblk3JTMg+brYBQsab5aalRyLh6ClrcetkZUiqtc1w/4T4g2phrPXcz32YAKWG89RunqBH5qApL84Jos59FOT7pYVBhECiliECBGGiNOV73ccqw4N7mVNsqZQdCGrqjWgEVW96DW0CsPxKizfTPRKBQpGtxA/217DBa5XDgnjo0UaB1J6mpS4muMA1fACO8r813o3r9HXpjaKY93xIz2aIvNY8yn1jQ5Zdyjdv9PEszVnqx67CS7TlCjlvlvipNYc7PUPHKO46K3c+lK2+fWbPvSln9yx5p93hVLphMRuIFCQtKM6aaDJwjNaa3i5JBG3Arn3hMrgVGwQ0klCWdUWDh6mg/JbOWnO5U5ReFy5fBIraXcWylcM6RMkSv2xOuLPROCedffcSfMPyMNLzIKNpNe1bUQlCSwiAMjcZHDcdY93+Or4Mm9qldXjLqWpJpdfQc1uF5NZl8khEmysbb/nFmivFCTzhBKynXF0IbxdHuAuakzJOyDbaSPr4DWTGkA/YM/LEqlJEEjgu1Q==;4Ly5YnVNuNExqfboKAQLDQ=="
+secured: "OpgGe+LfcTIVl0x3YMOhs85wblyfzNl1bLYIV2hWthlrFrtvZjQq4fih9F6sHaX+QhJxB1lrBuu617AyOPE1TvIjA+EV2zpl5lgnxYRM7/JQO4PWFkD9Tt9NG1Ns2nmH4Ugb92nmOTvv99qge4gqgQ9BLCB4od1NFmXKytNoYS/F20Ezg/ZSMaffSWqVSAQuNn52m7Jo44ozXW+BSYS+WtxTMgeEPv2aOP05yNiyR9f7SQ7kp8Y3lN3PfG0n+uWzfX7uP5cej9sXdyQvYzzHyvLvYQju7hzyXk3P8PdVjT7v5EgwxBSIdktDNyyJP5k5LZiTYSlWs+soD7+vfuY2tkpkqdS89UHF8Zvw9tT+uIc=;fgiBsK/eHQCfrESaQ0UHjA=="
 ---
 

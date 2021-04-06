@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-06-new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience.md",
+      "title": "New Fantasy Feature Ups The Ante On The Masters Digital Experience",
+      "excerpt": "Aside from driving up fan engagement on the Masters digital platforms, IBM’s new fantasy game also serves to demonstrate the power of Big Blue’s hybrid cloud in action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b21a03f9b09bc331ac04a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "publishedDateTime": "2021-04-05T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
       "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
       "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
@@ -1383,49 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibm-may-sell-its-1b-watson-health-business-report.md",
-      "title": "IBM may sell its $1B Watson Health business: Report",
-      "excerpt": "\"Watson was one of IBM's highest-profile initiatives in ... in part because physicians were hesitant to adopt artificial intelligence,\" the report said on Friday. \"IBM is studying alternatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "originalUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/rksghucichfic.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "publishedDateTime": "2021-02-22T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

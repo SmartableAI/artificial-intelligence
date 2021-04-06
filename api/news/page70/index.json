@@ -2,6 +2,40 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-02-11-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
+      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
+      "excerpt": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
       "title": "Facial recognition has come a long way. Its problems have a long way to go.",
       "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
@@ -1127,40 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-genethon-and-whitelab-genomics-join-forces-to-enhance-gene-therapy-through-artificial-intelligence.md",
-      "title": "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence",
-      "excerpt": "a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
