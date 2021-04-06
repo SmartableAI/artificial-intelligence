@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Another prominent Google scientist is leaving the company amid fallout from fired AI researcher"
+    excerpt: "\"I also stand by the rest of my team who, like me, was stunned and is trying to make sense of all this. In particular the Ethical AI team, but also the broader Brain Research team.\" Gebru was the technical co-lead of the Ethical AI Team at Google and ..."
+    publishedDateTime: 2021-04-06T18:51:00Z
+    webUrl: "https://www.cnbc.com/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 75
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106613376-1594645689091googlelogowhite.jpg?v=1609771555"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "iUE1mgV0EVdiLwdCArVgbwnO2w7w1vfaWict+A9iJ+oZTD8TzOtVEodB9izZKpIvpAXGu2K+oIXTc6V2d83DdAIxubFk+gF0vEYBAHLM5CGCrRD/M8l3uA3MH72bqL9qFgA6Zf4164cbfPoSY8qv3L+GJ5gSCISXkj+mD2yeJ/CNO1dVROs62TWmJ8Q3hj3r+/qCrzw1GPD3mYwNE4cxmkV/8bD6zys7OO0Ov2grbH3NpkO9HVP4nKjI8V9rnGi0+NmMqQn4l2TGdfJhYq4Kx0tvmocuny6lK1w3XC4foOmt5IPJmZw6qWYPahRKC4dn/RDteHcy1numy5SCnJ6vjtPtPuxTtpst72iFp+xgvOA=;37cUeMk0ykr7X6xV7hWRRA=="
 ---

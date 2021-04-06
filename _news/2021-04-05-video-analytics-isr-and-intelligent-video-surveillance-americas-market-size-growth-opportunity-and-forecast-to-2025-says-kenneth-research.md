@@ -85,20 +85,6 @@ related:
         width: 421
         height: 250
         isCached: true
-  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
-    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-04-02T03:24:00Z
-    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
     excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
     publishedDateTime: 2021-04-06T11:18:00Z

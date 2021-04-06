@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-g
 webUrl: "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-gtc-21-april-12-16/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

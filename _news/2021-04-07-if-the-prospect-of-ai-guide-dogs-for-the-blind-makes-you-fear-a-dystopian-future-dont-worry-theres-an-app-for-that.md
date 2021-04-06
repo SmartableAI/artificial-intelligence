@@ -8,8 +8,8 @@ webUrl: "https://www.rt.com/op-ed/520265-seeing-eye-robot-4ir-covid/"
 ampWebUrl: "https://www.rt.com/op-ed/520265-seeing-eye-robot-4ir-covid/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/op-ed/520265-seeing-eye-robot-4ir-covid/amp/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdni.rt.com/files/2021.04/thumbnail/60660b74203027057f7ffaa3.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 258
     isCached: true
 
-secured: "9cb+M4CUS5/XjzUXGlN4ppkLQuoWUWhH5w4RcIdFIS9fqyZYUCZN8zQoYQ+j5uLlMBox0V4/YI/46e8KDaiV/x0VCuIDzxf3XfrELaoYslyRbH04w8W7fiIwfnT0fkJNrXnaJcJldsdU+JqlQ19UnwpbcLEqPPaRFl3QHFJjbtTl9zF3w8x44zmcU7nmdLZQuIIDD/sDq/TRj/6WgXqtY4grdCYAxnxeDHr5Bk6M73bSx3gzUUSEkkSBrVIcNQCU8jv73yWrVB20mQl2/hS+yPnBBJ/jeoGESFyvo0F1tMdrrrK6w8elOrgQnyww1nHwKiv6fI5HELLg+toAaoTQyfToVm6zdXDSr8hHyGGWqn4=;8j2m5PEtSLJ4XmsOE45YRw=="
+secured: "ntuXNZVOR+hfvL77djcF3dZVphxLJ7/Dx+d5s5OSVlDeI9VIx1ihss/CWFiTT+tBx4ikcIUQkvUW4qnnsbZPUhqbporA4k3oKe9FChub7yNZUaw06qUWAsq9j4hxSiPRXVBilj0eTibh/JfNBTg+QTMaCBIW4Ncw14VPdlQOxPImM1yZkgxLNGrf/qwvjlYkaapDAbNNGDa4ZoYu7E1vbhr2SEGFbahQqV9GMr30fPbbwbF1lGO6S5K1jjPiFrWp4tZRITWT2knmz33XCBmuXJLmZLdl+bErb47LF7V0/ET1zCeJ6w7+tp+1wUaC4Ibc5IIrkU3AHOJDIhF3Ep5okzov7hFVfsLH7ylNkv78ch6BbLD2fKQIjTlJ3mq5rRDvZM+3W0mGXHGQVzzMOcxrOmQwwwIW5IL3ylxoleuqR7H379REhtOJxOcIHaZa7UjdYOXyyLL94sAF3kW1RB1B9j9qCoFt2dLF9bF20OtmpYuR0Fh15TpgB7Y8tAX6K2tr2z7RmN1Z2pLluaeuug1Gpg==;SFR20wcrc0nT0fCy3ml8DQ=="
 ---
 

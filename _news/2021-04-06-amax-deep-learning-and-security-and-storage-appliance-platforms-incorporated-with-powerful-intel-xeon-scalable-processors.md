@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AMAX Deep Learning and Security and Storage Appliance Platforms Incorporated with Powerful Intel® Xeon® Scalable Processors"
-excerpt: "AMAX, a leading provider of server appliance manufacturing, turnkey enterprise rack-scale High Performance Computing (HPC) solutions and Deep Learning/AI applications, today announced the availability of its next-generation workstation,"
-publishedDateTime: 2021-04-06T16:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-34a7b99e0de25768ef2e62e6a9da217d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-34a7b99e0de25768ef2e62e6a9da217d"
+excerpt: "AMAX, a leading provider of server appliance manufacturing, turnkey enterprise rack-scale High Performance Computing (HPC) solutions and"
+publishedDateTime: 2021-04-06T15:00:00Z
+originalUrl: "https://prnewswire.com/news-releases/amax-deep-learning-and-security-and-storage-appliance-platforms-incorporated-with-powerful-intel-xeon-scalable-processors-301256644.html"
+webUrl: "https://prnewswire.com/news-releases/amax-deep-learning-and-security-and-storage-appliance-platforms-incorporated-with-powerful-intel-xeon-scalable-processors-301256644.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
@@ -20,11 +20,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1091082/AMAX_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
-secured: "tYsZvczN/yEveKo3/uyW88JqKz3gOaBFcdVxoM6WY43FaHMYKzfC8mqFoBvulssJ2MJ35MDTFvzGMr6U3CwEB4MzWBJ/MzCyqi+luzgcWALaYdOYv9D4cUjQqZsTZfjbQwbVHHdP15MnQfpUo7+jGxfjXhW53NN1/nv8zzl0kxdhYWcRwJa/OmWdvMQcOHSL6nXDYY8IULr6zZrnWeVQKa04D3dRSfKwIiBgD+8LbUzEuZU6SIUUy/dI4lmunYtYoT2fhcAKSc+Xlt7BKlh6UM8+fN6xc/cAk/m260DtGoF6Z+xLkryq/cN3vT+Yk4Mv4y23NnwYlqCQzuXN7a9LNHieJzuc6nU+jziilnw2LZ8=;gkp2TceLEqizrozE/D4O1Q=="
+secured: "1H7oMiYjQHikoYDzsv3u1RAt0Rillss5qvVwDLcnjwmZGUSRrBu6uMl6F/t/vMtH1hCLyjZ+5OrcQuuEtQvusX/zVUCfwCf+o4lL8T+qQJ0c5meJ2qhFaJITgm8M69sTtm3mzc3ccfTj9ZoTiMnQN/T+6ptblKq2T6MpYw3OAq7dwYVsrhq+e6qMWFJa0U44l/5Fd19Q4nNT8QNdwWra8A3+uOmto+ObHXmfK1vXG7klyojiUmaGhTm4Lj0kU0jf51EnXZFjMCsRuTa5sT0UO/1ckpYVqPG+Uh6bYfTYMFWoq2boKJiy+gRWFEtOZmoUAEmNQzysjh07Qabh5/rY20wJzQ+ZNYtr1gX8zxMCDW4=;7rm16jcKYB1h3WcQpQ7WWw=="
 ---
 

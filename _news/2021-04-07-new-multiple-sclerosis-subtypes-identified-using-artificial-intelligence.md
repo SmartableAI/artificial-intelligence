@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data"
+    excerpt: "Multiple sclerosis is a heterogeneous progressive disease. Here, the authors use an unsupervised machine learning algorithm to determine multiple sclerosis subtypes, progression, and response to potential therapeutic treatments based on neuroimaging data."
+    publishedDateTime: 2021-04-06T21:47:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-22265-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 30
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22265-2/MediaObjects/41467_2021_22265_Fig1_HTML.png"
+        width: 685
+        height: 486
+        isCached: true
 
 secured: "mXWHUR8WW+bx9MEilZJUuUw/skUYkg/2l6Jjg3HeFtDsrsmXML21zLD/cfMU5XrEHzmOYi/5d4OhUq8XMC0mUdqMUIkvig8Jm9pj21/kgrbzBnnWZetADSINrKXOSrx8iGkFJZc5edFFTJJzefbuVDYTzJfBxM8pskQwL+Vew0nVXQR+2MygBbqJxuwfvr7+/3Db/lJotm+GFFzSXDbX14uaiV0QCJJ8M3iuOo5TADXk8FaIIINFz6zRoA24DUrbs7cf18e9Qx+4gaBZrnF86oy1tWCLBD6pcF6rGf8Sk8Tl3pYiLtSxXzd4Ld4aM9XXrmrQUMRkpMxznPi+cWPpF8aSIZpyN08fJnSqAQDLJA5fFBSG5e7FK3eLTS3uztGaT2Ywm8HXy1TrAVjUuzavfCi5eTL9bfH4BJc0Qf1Gulvw/+vL4jmNIE3OasY6E5+GLEU3/cfImZGhWgnvJlkLzWruLORnpMVgjGW1qIMMzRvM1YZ5MVztjwqUibJK6b/BQdtQRf9g+vdqiDugb3R3kg==;nJlXYgdhj2CD3KKBVhhwEA=="
 ---

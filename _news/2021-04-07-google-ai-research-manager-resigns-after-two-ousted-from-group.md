@@ -38,23 +38,37 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/tZhVSfs38URjRdnbNHF3uhf7Yig=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg"
         width: 1400
         height: 933
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-    excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
-    publishedDateTime: 2021-04-06T18:31:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
+    excerpt: "Bengio had defended the pair, who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed from the company without his being ..."
+    publishedDateTime: 2021-04-06T17:31:00Z
+    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
+        width: 811
+        height: 545
+        isCached: true
+  - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
+    excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
+    publishedDateTime: 2021-04-06T21:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/revered-ai-researcher-samy-benagio-quits-google-brain-2021-04-06"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Google AI Research Manager Quits After Two Ousted From Group"
     excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc. researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
     publishedDateTime: 2021-04-06T19:37:00Z
@@ -70,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cK0oitkBGsMD3Y+RvrX0I+DJlH1rqFsQR1NeLShaKga5n8iHAdCJNffw0abjcuIne+RwDlr/CndSGF0BBVZVJQy5rcrNbkkh7tmGObWwS8VpNx6pgXacyF28hXcV6DAvtrZBdvHxGM0gpA17uryK58dRWkf8DVAX/SNGHit+PeOhtzQ5CrybhGARia0z+rKM82NHMNKkxR16kBc5jOkGvtPOpl/qn01UFTJDDLRRfElJ65oRManr23HI5+e5sFvrjwyIo2no2R2pn2ay1d08jEQWTsXJcGXv9szFY+81LiPp+uEk2gdghY5TEsXv0aTv36MVdnun/3yPrhy3mLnwZooSTRPlcApncDMqQYCc+sk=;eYg/dwPElr8D+mgCSng/pg=="
+secured: "kqWV24SdSr5DnAJjh5mrF4joRoMqJevoSRGmz2vtP3YDtEldO2uiJ/mJVTOroFPJ2eIetdJY0/houc3TwjBc++9kKbf4WPCU5r97NGc8Kc7BzSd1085ELeU7AFM7GzV4B5Jef4IRu0LzCwRGPTwRC/hDPh7QLjF5CXr2kH7uyuuUliE1mZeV5mu/4Ed3VfjW4ivGjNyXn1arM2iNvUi81B7A9XBrA1j9TgRmX9GH3ix63V/g2TYNhxo553OrPtZ1ehpaG4dcroqJy+4up1/YrRyyIzpnlV3zybqUR7CiszvPlevQmdrMB/SQZCXJ4RYRdvnLMI7hYgPisQ+GRMKTJ2i5+3gNMcd/1TTxCpre9vW2fnPOOeEO0P+R4VB5hCgXoRaMtA8rs6KxR0nr41TdITSsQpbDRarSLTJRbMghg+ru0frfTBfekznqSC86x1yP3hNM60/vVINGUND62amYozA9QPLue8xs6ld7eSbPX0m7n7SxzFYvCTaXyaxGipn81dO30QmLSQcX5SHvAx87jQ==;fbzb285YHb7JUSw0bvpVmg=="
 ---
 

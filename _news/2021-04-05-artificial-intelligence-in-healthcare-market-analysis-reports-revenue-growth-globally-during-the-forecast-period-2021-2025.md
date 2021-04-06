@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Agriculture Artificial Intelligence (AI) Industry Market Outlook, Industry Analysis and Prospect 2021-2027"
+    excerpt: "In this report a comprehensive analysis of current global Agriculture Artificial Intelligence (AI) market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years. http://www.marketwatch.com/story ..."
+    publishedDateTime: 2021-04-06T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-agriculture-artificial-intelligence-ai-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
     publishedDateTime: 2021-04-02T07:24:00Z

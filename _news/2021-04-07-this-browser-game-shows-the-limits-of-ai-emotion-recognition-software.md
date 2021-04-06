@@ -14,7 +14,7 @@ provider:
   name: Engadget
   domain: engadget.com
   images:
-    - url: "/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -96,6 +96,6 @@ related:
       domain: dailymail.co.uk
     quality: 47
 
-secured: "ys+WK2wxo8F83/Q3wxO27u3thNrcoJSTmrvmE93Nm9R39aIuwsZPbTXEtcem65h0E25LpP6bjPNRaO2NmGQx5FlwxtzFgyX88e02cVjpD+SevPFuPTwQVzMRa2+oDa1xdEaB3o1UR2EjK+X27FFwXhQ2rqBp98usPZUk7uMgSATK4R6xSwDetfoIaAM3KriAWPv4ON4UB+8aTss+0z1/SXpzBZXIMS0gYg0Iyrv4P6dZe++N4Qu9CamuhtmGVGUM1RwgLYKO04rom95dNoZeJFKnKlBhktKaXZ7nSFLVSLl2be8+PaEFjaCJuta10oU23FHzUlyx+VkdaVVe7zl6bJ/yJUscontWIbh5k9yWR3azO+drQGwIWyU7ZI7w8Rn3nAHOjnQu1g9BL3+MS8O5K31Nd5OEZ/aoGwWKLSDu5d6+GrQ0UBnUQc/wDUTKR3UJzQ6BszWa2PlI6fdNbfwsC37rmumFRvM5UtvugYb6R7QztHBIELLi5X0b+n4wRuDH98+hRy5EBQ61zQzinpmYy4mMMWOvJHMyb9RWfTponUE=;lprOghzrYaC7gKnD6UuNNg=="
+secured: "bHSyfrz8mc4Jy1MoZ0utZCi1WKAaiVH139pXCGZIrRud/EtEFi9vJiFc1kM5D7KtwmbiVn4mJtQXWs3L6DeRoDEiYmKYe2XG5t5ogSoSafjl7Qf5bDx+l0C6EzeSJan+hbj1LkDLLNCtIblHQgUa0Y/WSAFJQUjGwFe7p6jFsotZdtn5WWNKfH+gdaeaXQ7l6djLeP2NawvKYuoBqN29hhWI2KAC+dzS/hcr1KtVN7gqrxyOQVHbss3DC4apEzBHSBLLHoj4syUMvFpCuR6HQYOFBMPoo2UBxLhSw5hZuPY9Rb1m7jhCtjUe8uFAmGycn/7kUqUq7Ok7MB22MiyyfmD85YFzBhYOyRoXROksSDtvTK/A478CuPws9YtoYYqIogYVo0XdUdJrF3Jcle1ocuD5ubHUpfhuCPQ8wuWgp3cCtBN3Y18vr7vn1w8pcqxSZHB9IQKu1wcaTJOUSMGtOh9mYwp9UGKFbWg8Hr3hHnyw74zplPJ5ixcXO200s/yoWoj3xhimEl1v5NIV4pk1cHTfcOcLKyZcdy2j+GVoHGk=;G3dx1XrNTFv0veMn1PAnig=="
 ---
 

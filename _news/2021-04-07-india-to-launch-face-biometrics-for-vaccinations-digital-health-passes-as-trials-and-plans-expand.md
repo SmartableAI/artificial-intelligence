@@ -1,0 +1,45 @@
+---
+category: news
+title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
+excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
+publishedDateTime: 2021-04-06T20:57:00Z
+originalUrl: "https://www.biometricupdate.com/202104/india-to-launch-face-biometrics-for-vaccinations-digital-health-passes-as-trials-and-plans-expand"
+webUrl: "https://www.biometricupdate.com/202104/india-to-launch-face-biometrics-for-vaccinations-digital-health-passes-as-trials-and-plans-expand"
+type: article
+quality: 10
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/09113822/biometrics-phone-mask-airport.jpg"
+    width: 507
+    height: 380
+    isCached: true
+
+related:
+  - title: "Bank Card Test Center launches face biometrics testing for financial services"
+    excerpt: "BCTC can asses facial recognition algorithms for offline payment terminals, systems on Android mobile devices, FIDO biometric identification security components"
+    publishedDateTime: 2021-04-05T20:18:00Z
+    webUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launches-face-biometrics-testing-for-financial-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "hv7ImzKjuO5JWleO+3eULHi6vztMjfwSay65tSbXOFHZsSXTZGcQZwuLYnjvEhOEpE8F/5jp37pXvbtmA+BwlXPojwzEJf0DLfk2tzCwEwK3qTG0hj8CrJKV//HeYZkAAWdRzeFfqvU3AjzC+Ren5wQYvNTTuUsTLyaAhJVQ2XZuTGTjadU8pEwaLawUG9rh8lH0NdauzmJeLO/2DZxqjKY5pEJ/FLJGAjELjcPFzIVSbYIQou+YrOa4PFsFBJCS2pSeL/uXMXT6shTjONDmd2dwzRIgLiyt3mnSg6LWM61XIRcE4B31w06dY2IQjLDajCuEQHQJh1UdhK2WMiyTo7gwbKylkSVOdyHBvMvl8ps=;0ELQAClcrxBWklw1HK0QVw=="
+---
+

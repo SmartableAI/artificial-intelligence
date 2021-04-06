@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
-    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-04-02T03:24:00Z
-    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "MwBYjq3QbX3cYGoSstoje//DN+wkVPkOkvdl9C9suHWgM2KpUBqbIicPd6pVpr4UTlc9QqDKenJ+YDqrqv9bNkujCZ7VmJHGysM82cmPcSJG6Wj9AX/MhTB6xd3qhnzSrvi5ZIcGGHCsfu5zeFU9FdCg2JPn3d96B9QZGE4845Kzv2nkKkLQ2CVC3OupcKRMPXyUfQdiTU9zlUyzKPhafk1Z9Q3PyZMzpXJDYpMo4EgE0qkR/wTtAjM8KEQRtacSYkQYiPbxV5qNSHX/DNqlH1KUnvHIM0S00251vzoc+//hNojqJWYBp35UtKgGeGeM8XHjo6q0dcNUbDDkh7AMi5QBFb6ujMmKfKgkl7SdpIk=;YxGg7H/cm/q81/PI82CASQ=="
 ---
