@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1426
     height: 808
     isCached: true
+
+related:
+  - title: "How Financial Brands Can Use AI and Data To Offer More Personalized Services"
+    excerpt: "These advances promise to enhance security, optimize operations, and improve customer service. This is why 80% of banks highly anticipate fintech’s AI advantage. But how will they put it to work? Incorporating emerging technology is nothing new to the ..."
+    publishedDateTime: 2021-04-06T13:22:00Z
+    webUrl: "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 36
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg"
+        width: 1920
+        height: 711
+        isCached: true
 
 secured: "+w3Tk9KqARRrCcJg4zLcM5R4oRjRnpvYRNbHqeROpaxoHk/YDwAy94ZZyX8fCgV3fTbKTbxLhMVV8v+DB6gBrThQUlRKFSxUO5I5P3/OlmRfPevEBFHPRkl7YaDxwBzDoqzUDgYCXg0OMxOaEpL3O0UXh2rtKSL1OwJLQR8OxoWFQ4AFN+d/T+lsw8QnYbRyV4/Nc0G6dESFKcFF2repqJDgsEfsA32w6PwfwVUngkMGRHVc0v3AWG8fHkL1p0s1hhsq9F8++OI8OBF3LxdMVFUcpk8iyrzXojM2OnVKDi6m7HNkbXx476TXb/9cKeI7XUB/hG/Rj4ulfGpi0WpR8dlRpmUFECYmvyE+DT6riWtYO5Zk4Ykbnt35wDRyjZnlnOKo9DoUpuIFUKUqA3Xy/QdAIaZsH5+oLTddwYCpClYnClfWwO+yIasbzdhzvWULpL1fAsc5Zqfu48JxMHSFPSUmRo5Vnr2XdiW4N3HXOsr/fuZHX1FyAM0kEX1Od3v7jBk4ghoTpiYNQ5Dgv+3BDg==;CoO71CW6aU0NleyJjK5zCw=="
 ---

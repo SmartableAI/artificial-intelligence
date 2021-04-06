@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-g
 webUrl: "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-gtc-21-april-12-16/"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "DDN to Unveil Latest AI Product Innovations at NVIDIA GTC 2021"
+    excerpt: "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced it will be launching a new innovative set of features for its A 3 I® (Accelerated, Any-Scale AI) solutions,"
+    publishedDateTime: 2021-04-06T14:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-corporate-news-software-industry-f22909e2a549114a9418fe2c22ea08b2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "kMTC8WkSgKItaj1guKZdG7uFYvqVnhHMBlgpXPQuB3pE0l1SjEXhikooeV4j77BDq2/1dHCiVRei37yvwXB6MFZPhoQ6gVNM05yhHC7uMuRrH0mBe8XRQ3C/9pev67hzoLYDlubICIbtbXtHA1fvad2oizaObQZ87AchKQU+3GNDWIjbMjJBQbxcEeoPbEKUw7kmdkFo6myx+fWVJt5Fw6ULbseutGSJCT7L81BX7WOgEUgWsR4lPgtZYHduPjco+ujh0udbhOovxoJjFBANGfVbqQSY+9C3PxB4iaV48hvMPkBvAIsfnQVO9Y/AajP3EJCzxPAf40NukDEjYai5yG0WL8ax7XlyKyBVRwV7zxg=;2fmCIt2EKQGyyIrDFDEmUw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/talkwalkers-speech-analyt
 webUrl: "https://www.prnewswire.com/news-releases/talkwalkers-speech-analytics-allows-marketers-to-extract-insights-from-the-growing-podcast-market-in-seconds-301262217.html"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2696
     height: 1414
     isCached: true
+
+related:
+  - title: "Talkwalker can now analyze speech from podcasts"
+    excerpt: "Talkwalker, an enterprise listening company, is adding podcasts to the list of sources it covers with its new Speech Analytics technology. Brands now have full visibility over what is being said about them,"
+    publishedDateTime: 2021-04-06T14:20:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146138"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "FwZNmC6BjpvXVbbHu/6C4V7mWW1yvUtNkfaN9KNvN4z8gDpL7CQ05bw3tuACbxwj9SVJGgoIPcmkxBK8G9tkWpY+aGvt0fwFo96o8JWW9tY0yP1QRB9rmgOGLUSStV5h53sIoXVDLVfCoVCkO6ibvo3tczhI0k60oyeRw/8PHYCoBJsBdwi0XV1FK5xdQAGLim0yhq80mTBsdI9WylYfrMaSb7sBzTCq1QV+h4EViMkG6uWZx0+teKSYtPUmVMtIXgshL/OdMUDMY+UZITeKXtFGFub5a0uik+PWurnHg3IywMLOMI1/7KRMQQlbgtWekbc3KXE+fHzBJxRU95jfIz05ue4rXIeBSg0E1gNWnfw=;FnX0FCXDbbdw7q4QQl+cEA=="
 ---

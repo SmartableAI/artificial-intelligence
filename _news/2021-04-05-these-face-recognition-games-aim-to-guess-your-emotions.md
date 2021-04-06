@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-gues
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Discover the stupidity of AI emotion recognition with this little browser game"
+    excerpt: "Tech companies don’t just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers’ ability to understand emotion are fundamentally flawed ..."
+    publishedDateTime: 2021-04-06T15:17:00Z
+    webUrl: "https://www.theverge.com/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 85
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ZWlS11gG_bir88B5zuENPLZj6q0=/0x0:2078x1389/1400x933/filters:focal(873x529:1205x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Scientists create online game to show risks of AI emotion recognition"
     excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
     publishedDateTime: 2021-04-04T06:12:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "U.S. Army looks to facial recognition access at bases"
-    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
-    publishedDateTime: 2021-04-05T18:08:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Scientists create online games to show risks of AI emotion recognition"
     excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
@@ -84,20 +84,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 47
-  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
-    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
-    publishedDateTime: 2021-04-02T07:25:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
-        isCached: true
 
 secured: "V52wPwphWjawaeHLy2SxMUonAjUUMP/jtkck3BwlZaOwPe6xhvW6KR03oHlXfT0OILGSSXUsWoGmEiYSy3D2sZGvdqvnQoImJNlPcooHZL4APP8P8o/IbP209ugk39BAjrJC54kOIbgAzBs7R7b7E+Y9sV2CkSfb6u0VnlRSede0eYbgIyDAerHANSk3QnGJlDIuJSji/AdSDP1pBwEnMUVmIRfaLUtcXiT1U+nxn7K40fEbYruqFqyfsJyNTI7AZF/VIUAx7O3Wfhko9k30PyjEsjYSolS2NOg+cI3buKcsiU8Q/OUSyN0vIcSgU5yhY9Q3qvN52jIy7FEgxDJydYLs45SQ+FpqcZFJSUkIcPU6t4iltGDZ6n9goGls5Hoaq7SMGwxtXy2dQ0hPocTsMIusZa1+sBvGjHI0fwKMWt8TOLMXktWJ3G9k7keziG3B2v/vL7Rk8XC3VI5iv/K2E7wV3VzIjvQlglvBg55FUWpj3F7y7nkNO/AAwy1gdDeN231hPJqOaB4zumwBUIG4Bw==;g0cT9QJjm26bMTdeSaLRHA=="
 ---

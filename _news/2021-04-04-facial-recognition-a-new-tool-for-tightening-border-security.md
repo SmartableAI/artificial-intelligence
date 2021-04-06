@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-ti
 webUrl: "https://www.cbsnews.com/video/facial-recognition-a-new-tool-for-tightening-border-security-1/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AnyVision deploys facial recognition access control for New Orleans Saints"
-    excerpt: "NFL team New Orleans Saints are using AnyVision facial recognition for safe, fast and smooth access to training facilities."
-    publishedDateTime: 2021-04-01T21:58:00Z
-    webUrl: "https://www.biometricupdate.com/202104/anyvision-deploys-facial-recognition-access-control-for-new-orleans-saints"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "WJtc9vSqLrMa1KicUYaUA8ft/0TLkcclMy4I5XCoaT7gR0ET/ySYTfoG+o/OXTh7tFVeH6EMZ09+NYdy2eMHZdL/rgUpo9GtDMvgnpg5FzZbgY5NJXThrqQpF5YX4+UmbbUUQil/Z7D5hpQw94mflFfMN/MRShMjeHHxr10v2CBFVHo99GbzBdlaewCgG1o8cdVd31Ln4N7gF2whVRtDlcrX/Llp3KjD9Tm5X/YLEBOzoWAeTAGgNKz5nduwqTofUplgcDKfpZpwEi87cnU4hAY03u/mf+bWnr7du4JKvcxdc/wWFRboIWynbUoUQ/Dkjv2Kjg2vab9em3nnr16TlUcWUryqwVRrg9ytNPMcJb8=;Cso5XV9Gq0anFDFaxmqisA=="
 ---

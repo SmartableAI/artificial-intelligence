@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Its Future in Healthcare"
-    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
-    publishedDateTime: 2021-04-05T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 54
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
     publishedDateTime: 2021-04-05T04:21:00Z
@@ -137,7 +123,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 5
+    quality: 7
 
 secured: "gK17X9bw97hh47TA9dRShGB3wlR21yAuQ9wyfkilWGZZj4sybnmy9LHynDkStOlbkCcMpydlcsN1szUj6d+54f8MWAys5oyKg+5hgIQNvj0cxLWK1S8X5EY10RfC87JG0Xvyl5s9D4Gb1ZoA91f9xNPy3Y78royS3uxeuX1seIjmlEKQZmqJ2s9FHpvIObt98/B2fb7X2d0uDdB3khOztWJtnCzPqldM423xXdtF12roTX9G9CnxlPafGoMmfb3rAe7Fa2JMbRqiBNfIi2I6gdf9rIMJy/a+ixlM/uTLeQ/24N5v5b8RccuAjhoBOhjoFGtaDa1kATB3jKVSfVVGTl0URU4X12kRhpfnUtCNMfY=;a3SecZcxQkLyRhNpLN1YQg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
 type: article
 quality: 77
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI and Its Future in Healthcare"
-    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
-    publishedDateTime: 2021-04-05T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 54
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
@@ -137,7 +123,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 5
+    quality: 7
 
 secured: "KHSYZMJauYIvU8g4a4lUObTf7xMGROUg7v0JRjjS6qM12Snl5yGeOrm790kBf5DB2ieRGV2naOUx5KYMgxCbCATVv4SfhSIs0gFQo0iL9vSD1amOQQJEbq664dzO3DPbIfUZGuynGNWLrFEA2fNI5QZ1NwK5alRAz8Kl500ZXUzvE6j4O25bRV6xa+thhd3myCfVdT9WPXGhHkcYF+oO/g51DwJszZOp7s2z8bWHgkxU55lNN7bypJGeczIn+DrZCe2FiPipZCTf2HW0VHmLPs5e0VIHrd8S0//HR7F14uYNq4tRBWGHS4xyRhjIfxuO8AXjq29K+aW37NnOgvxiPHO2rj4vzPXovXPXCiuRSHw=;A7loVZk5jqWbRcqZFL42bA=="
 ---

@@ -6,20 +6,22 @@ publishedDateTime: 2021-04-02T20:47:00Z
 originalUrl: "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402"
 webUrl: "https://stm.sciencemag.org/content/13/581/eabb3652.abstract"
 type: article
-quality: 167
-heat: 177
+quality: 171
+heat: 181
 published: true
 
 provider:
   name: Massachusetts Institute of Technology
   domain: mit.edu
   images:
-    - url: "/assets/images/organizations/mit.edu-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg"
@@ -45,6 +47,6 @@ related:
         height: 599
         isCached: true
 
-secured: "iUHOhvYCFB1fDBliuP0hnn5TjMATmDxpXcDBxRnJXAWmMGVlwM+tS/4t8ve25XTrUJoC3OuQRK0SG3xgM6UY9n+KyclKF2am+ogzUj76izbjj/ngBzS2U5RpzyWRKmB0+FC3xaITguEflvGc7hKwNUar6Hmq4rbRUzjRS3UKxDzdoADtd615Ul8hYvEVNqREZ9xke65YTA0vaOWTfHYjSEmwBbThRAlAcSo+di/3I1MKYLowiO3lFXjVLw9R01YXDyn+4ttnK5XdDGj5/hWDxVB/dTXQXhx2i8X94FLD9pRC2wKYB4AyqYTdvTS9wcg/b+QPyxzfF0z9Gf99n1R4WKQgowXUs+ENkye5LE3HEbU=;flxNiB7943/ZVEkRBMFl+w=="
+secured: "WmOxYEk0FdvBYqlk5LDTO42uEJcFJ/w6ALbhxIWhyzccSBD7dQQj+Ykr0gfusCNST98meO6f319pELbkJp9ptop5FzUWF1R/LQZgC9cWFO9tPxPBM1db+PoGIrgTLRg4QrCnob4zeIkjIigqRg3x00mqLPcRnrJSgR6ajH8d3Jml4xfa3xJJ2gbLF7GxeexLg9qPAcIABSwq8xJaYVW3vIUeDLODvAaY5sZsH178dhEsmwAV5kEo47LlIoRm1ktSVRDtzM/AoxoSf2xSWP5aPsNOpngCJFZl0f04bW23uOdXGM8DAVVUdo78hk84PloMTCjHAuIqFQr254FQNFedrHVZuA5VJQpwqJFxYSVw1i6yCYlW/jxE7FC448FW0isN8QldzQRmCg7F5bdIyUOsyU3SZCpp+OgZQ3VH3xjDJyNAImGjpzcSxdk92AhCnj3StfMwfgscs02ckdpKY5QnTp3SsUW/aktmTWH+OFt8OpuCsuoNHyrn5FDZEfuPiKqV0xNy/oSUEo1M0lVShh34B/YvkJeWQeib5CjPtukTXBo=;kVabQusBjH2IW0s/X9G3qg=="
 ---
 

@@ -35,7 +35,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 167
+    quality: 171
     images:
       - url: "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg"
         width: 1400

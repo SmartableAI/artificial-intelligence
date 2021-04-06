@@ -27,15 +27,20 @@ images:
 
 related:
   - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
-    excerpt: "Frost & Sullivan's white paper highlights the process of creating an AI strategy for your imaging departmentSANTA CLARA, Calif.,"
-    publishedDateTime: 2021-04-06T06:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
+    excerpt: "SANTA CLARA, Calif., April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of ..."
+    publishedDateTime: 2021-04-06T15:32:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-879581115.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "AwLlVnmWJY2OWTaOWy4dxw5CSWOljHArYZcJJ/kZ2NxPMzE+HPrYsp73frYlQQbOHCwPrTm1pyvRGs2hbZPOuyW9BX2Hf3HmVllUQS9yIRXzQnK0cPJAblWm5RiwGfxHKG4+GoIa55MDv4jpl6d9vqgxUr8gLsUyGKtwovlP82VfVhZ9fa93WEnNepGKHo9MdxYTj41RhbpQ0tEgsmjL/cesH8Ud3uBnO4upakf0GxTEF/3bCZ7KE+Fq2bLJMWOUuG9NhL2C2FeIOCRn3VbtHlL0wK9zADzhblKCEe2AQg3w0HKzZ04GOVoxZ9MRbZLqFmqmAfB6f5LWoQY4R0optB7LLKWGWneGOWB2jzXbyfo=;ia4aOh++eBNV6V0Ik1JRCQ=="
+secured: "ee5IgEZQv/jp5IzUf1x4G6XzU4einxqc/Fj3pk0x3uAZJ4N1DnqkOjAF4IXFk4N6xSFHW1oFN+xX9/hvbfWOsiCfK0YDDvETSoQcpm4evFIKVQByr9WtuNPi2bksqOCzpazwBY0PE3YYWzwsRUFhJByutQ1g65zKu57aoM1I5Xu2/pFVv91tsuh3FGp0YrU84oGtlDnNjakuEgKIM38rysErdWJELtSNrNewPkyPm0788tyuiRfVh1ziiPo8HmcWpNYHPHwtFQLRFzre2BXWmJ3b3FZeyqS9+gzOpYoskWFk4+egqY/APHIY+brggkzEL1Lz8nJM+jnvzXd/a/2Ff28NDhSf9YrDvDNhSFatarY=;WzZfa7kxEG6Gq4ledw2fDQ=="
 ---
 

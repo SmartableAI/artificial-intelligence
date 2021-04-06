@@ -1,27 +1,29 @@
 ---
 category: news
 title: "RESGREEN GROUP INTERNATIONAL TARGETS GOVERNMENT SECTOR WITH ITS HIGHLY EFFECTIVE DISINFECTANT ROBOT"
-excerpt: "About Resgreen Group International, Inc. (RGGI) RGGI is a leading developer of Artificial Intelligence Robotics (AIRs), Autonomous Mobile Robots (AMRs), and Automatic Guided Vehicles (AGVs)."
-publishedDateTime: 2021-04-06T11:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-international-targets-government-sector-with-its-highly-effective-disinfectant-robot-1030276262"
-webUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-international-targets-government-sector-with-its-highly-effective-disinfectant-robot-1030276262"
+excerpt: "Resgreen Group International, (RGGI) a leading mobile robot company, announced today the company is targeting the government and public service sector with its unique, proven effective disinfecting robot."
+publishedDateTime: 2021-04-06T11:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-communication-technology-02d14aceb60edc5d61fc1a22305f31e4"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-communication-technology-02d14aceb60edc5d61fc1a22305f31e4"
 type: article
-quality: 35
-heat: 35
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "xt22NnyungfEGkBBuksCFl+zkDpcF6V1/60uOB/UxAFE8kD7QnLSDkjnnTNHnHLhH5t54qO8l9X3MZTGm4/CB/bgzOKvvgAFNG/t5sJpvXm91mPnahEGRx8v/3ovZQI0BxYGXAwmR8Sv20r+xszsdX8DuV1Z65nmCppvcCy1xvuvftgb5lXO94pO4EtUHlk82EHzZ9KLrsm7FSMVV0zUX+sv/yPNY+rNDvS6CprAFFwLuj+twTozNidheCyBZPPAbFtzsKcD0xW9VZt1HeDanFy0R17w5wTJw3ZLnPmXr5ayY69Se+6Av1yvZNuJzEFzmQwUJruUS1/XIIztg0GazUAvub5ctZHtCojsnE0TpRg=;u6BZcIWkm+2XNBlEaQ3IAA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "TZji7QqqCrSt3gCWWwkWJ7uieh47O/zi8Xfb45MvkgfZ0n1lqnft5R8XhmkZbCrARsg/ulEFObAZvom+j7CMdx5Q+W0Vnrio0Q0F+Wsi+pTp3bCNOmbpcYel/RAsSWI5ovanQkscnASrL5cKErsFZf238Jqqjr+vNdMeDJ9eMD7j/aP/K5qwCFxi8QBUUsTfabMgASH71Wqjr4jcx+CFbTSmP/OITifMmNt3GVnyZ+hNHB9XDOKD1q3nAFLxxUpZ9l1NynxFsPJLdcPHQp56u9cysQXvA8VrUOSk9ET9DrO4YNm+LxFxQxihRGpe+RsMs5cFptnP9hIPH4fxsVbcFi3he9s47uHOds0UWcTI9Pw=;b2dPwK8/blQwHCEjkeuQ2w=="
 ---
 

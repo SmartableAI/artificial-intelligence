@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-niti-aayog-aws-partner-to-train-students-on-cloud-computing.md",
+      "title": "Niti Aayog, AWS partner to train students on cloud computing",
+      "excerpt": "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
+      "originalUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sakshieducation.com/images/logo.png",
+          "width": 510,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sakshi Education",
+        "domain": "sakshieducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify.md",
       "title": "Explaining Bundesliga Match Facts xGoals using Amazon SageMaker Clarify",
       "excerpt": "One of the most exciting AWS re:Invent 2020 announcements was a new Amazon SageMaker feature, purpose built to help detect bias in machine learning (ML) models and explain model predictions: Amazon SageMaker Clarify. In today’s world where predictions are made by ML algorithms at scale, it’s increasingly",
@@ -1365,59 +1408,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger.md",
-      "title": "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger",
-      "excerpt": "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

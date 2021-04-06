@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Its Future in Healthcare"
-    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
-    publishedDateTime: 2021-04-05T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 54
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
     publishedDateTime: 2021-04-04T17:46:00Z
@@ -136,7 +122,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 5
+    quality: 7
 
 secured: "E6toC9z0SPHlWHV1fNusWBR0j574NFfbsnUv5PIucZg56h4liY56DiD2R6eb4HzgFzTSV15oMSwNGxxbhH4SxhLinqJpapRRpZZXqz658mujL1kPkFWrlIBkimtgc69ldKfknjp9x9IDPt1mHC6Z0M4z7EkIhUnb/Fey3+wWFowqtDCT2wZbaOFWGAJQOVh/4idADzsWnnQtvJGVi06mu9iZ5eT4PnE1XGSGR8IX4sDlkrBxR7IKKFGIHBoYNLvX1bBzDb+/h89F/wxMkU5PYmKfy6TqHKPjf5hhsCllbOXvfX64FBKzvyAvn9xCIhU4LhcSOaAGTy94bYt2xO+dcLxXY1OMgPT3Eu4dubeGjMs=;DJHB5yzHGsW7tT9j1tSV6w=="
 ---

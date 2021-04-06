@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people."
-publishedDateTime: 2021-04-05T18:53:00Z
-originalUrl: "https://www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html"
-webUrl: "https://www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp"
+excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
+publishedDateTime: 2021-04-06T14:17:00Z
+originalUrl: "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career"
+webUrl: "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career"
+ampWebUrl: "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true"
+cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: WTXL ABC 27
+  domain: wtxl.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg"
-    width: 1200
-    height: 779
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -115,6 +115,6 @@ related:
         height: 480
         isCached: true
 
-secured: "iM1YGC2UFaxZydoakkjt1DFT1qycAOyc4cS815ASqw/CmQS9pqoEYpswujx9dlav6J63hV/hkx3QjFPJ96xeoe4RdnxTuUBE3niW9zJ5SYAcV5a7SGTZtOa1/ZEyh0lgb4cqz1iXWvNpQ8NFJU08u6R7k+EXjNnCONB6hEhGnBp5dw6eUCzIyxxGs+ON+aWdrWqBRFY+WyI5og2Y3U2WUe9RCjklghN8sHhfjrQdEfxyMmZXXUC9fs24Fwif5/B5aJ8W1/jg5Zv47uqdyQxio0xtZQ20avD7yKT/zgmol+oExQInphQ8hIhZDtxDaMrF/3ZAPKFP1TEvDN1BsCwe3zPjq8z62HWq+0laIAmFMD7ArVEFJiV7Q1KIWWqJEgA292g3bLzeH//rUt+e0GYPHSeGARNzff3jAXn8SqYct65LK/kGsQzSjkuqGRbFUdIHBlsfWbVugU5rEslxc5Y+pFYR9C3Udl5kW8dFxZh/DSK2zwjSSNaKwmptGB+a4zvXKMBhpgZlRgASz9M/Q44UuQ==;y1Ug9/orubccxQyDuQa50g=="
+secured: "GrnGvvftU1IeCIfoKAKifgU+z2Q7bPYcj6Yol3AlgyaXxtkpRrJrj+6eukPqYuZDQhcWnBx+d4VOVETwdXaJVdwoD8fcphjgm3UpTHU6L5YLzyPbcxdLjUYCkN5OdMfWdjuc3+FyKlVpQ+1xO2xS8ToITEwPCHPEpNzcXV968phOe2H7o3OmB34nTSdBSWy+X6LsF8XA2kT0yIz2Y1Ak5+Cti4xADnTgEGzSTLDBT7Ym8ER+P15lkPfSQehcKP0yqpeKkRUqkzbCfka6OY1lPUZ0vdDR4Z9Lw8POPI6fDSuk1eMWQSVSLAV5QHsZxNiwhXhq0RTrIOcvWmZfaDNQCI6K2DN6/Rb2uaav9JBy4ac=;peoGwqwnfCctn2DD9Lk0FA=="
 ---
 

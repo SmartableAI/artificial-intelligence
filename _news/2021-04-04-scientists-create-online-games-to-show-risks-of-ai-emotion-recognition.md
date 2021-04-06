@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Discover the stupidity of AI emotion recognition with this little browser game"
+    excerpt: "Tech companies don’t just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers’ ability to understand emotion are fundamentally flawed ..."
+    publishedDateTime: 2021-04-06T15:17:00Z
+    webUrl: "https://www.theverge.com/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 85
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ZWlS11gG_bir88B5zuENPLZj6q0=/0x0:2078x1389/1400x933/filters:focal(873x529:1205x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "These face recognition games aim to guess your emotions"
     excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
     publishedDateTime: 2021-04-05T12:12:00Z
@@ -62,22 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Army looks to facial recognition access at bases"
-    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
-    publishedDateTime: 2021-04-05T18:08:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
     excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
     publishedDateTime: 2021-04-05T10:48:00Z
@@ -87,20 +87,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 47
-  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
-    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
-    publishedDateTime: 2021-04-02T07:25:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
-        isCached: true
 
 secured: "MAiWgGeInX34JR2t2wDSEvZ4SBomvPXLXbHBQXC+0P80/6CiS7jbN8CQnDuKiJzAuVzmS8eYFt7kmJQEkoczVvmTHwn/8Rx80sDtW4jJqv0WAO5z/ds4mShHnG3L7Mc3WaAqkwUL9Slc0qah4QoOukxYxzhnStCtgAp/mB+IsY+mbJTUFDVFYyAmbgZARD5OKSVi0pABS/SxHt5r3NMZ82HCe4uDhy7OiYJC91KvdCx3J7uJoGGCcUkwjvRjjwYLcwP9miJ3qtiHHWQuvEpYAsSiUgeTLwKng4+LcHDGzG9L39KS5DqVftYtI044dFk0xaX7gRrYZtj+UN9hDiNdCXZACtaFM6IYjbZQ4AUKiuA=;9JfImHwZUnk8dplAh0hXiA=="
 ---

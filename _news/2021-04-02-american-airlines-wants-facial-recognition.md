@@ -25,103 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
-    publishedDateTime: 2021-04-05T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
+  - title: "U.S. Army looks to facial recognition access at bases"
+    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
+    publishedDateTime: 2021-04-05T18:08:00Z
+    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Europe Facial Recognition Market Future Innovation Strategies, Profit Analysis, Forecast by 2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Europe Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends ..."
-    publishedDateTime: 2021-04-05T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-facial-recognition-market-future-innovation-strategies-profit-analysis-forecast-by-2025-2021-04-05"
+  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
+    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
+    publishedDateTime: 2021-04-02T07:25:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
         isCached: true
-  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
-    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
-    publishedDateTime: 2021-04-05T00:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
+  - title: "NY schools facial recognition system sticks around the courts"
+    excerpt: "The New York Civil Liberties Union is fighting a motion to dismiss its challenge to a facial recognition system in a Buffalo-area school district. State education officials had approved the deployment of a $1.4 million Aegis biometric surveillance network ..."
+    publishedDateTime: 2021-04-02T15:55:00Z
+    webUrl: "https://www.biometricupdate.com/202104/ny-schools-facial-recognition-system-sticks-around-the-courts"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/17173501/face-biometrics-privacy-children.jpg"
+        width: 625
+        height: 439
         isCached: true
-  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
-    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
-    publishedDateTime: 2021-04-02T09:07:00Z
-    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
+  - title: "Army Wants to Automate Base Access With Facial Recognition at Drive-Thru Checkpoints"
+    excerpt: "The proposed system uses a reliable form of facial biometric identification but would need to control for variables like weather and low light."
+    publishedDateTime: 2021-04-02T18:05:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/army-wants-automate-base-access-facial-recognition-drive-thru-checkpoints/173113/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
-        width: 421
-        height: 250
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/02/NGface20210402/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
-    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
-    publishedDateTime: 2021-04-05T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
+  - title: "Precise Biometrics leverages Innovatrics facial recognition for improved UX: case study"
+    excerpt: "Innovatrics has released a case study showcasing how its SmartFace solution was integrated into Precise Biometrics’ system to come up with a multi-tenant cloud access control and time and attendance platform dubbed Precise YOUNiQ-Access for seamless and ..."
+    publishedDateTime: 2021-04-05T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202104/precise-biometrics-leverages-innovatrics-facial-recognition-for-improved-ux-case-study"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Asia Pacific Facial Recognition Market Significant Growth Prospects of US$ Mn during 2021-2025 with Major Key Player"
-    excerpt: "Kenneth Research has published a detailed report on  Asia Pacific Facial Recognition Market  , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-04-02T03:24:00Z
-    webUrl: "https://menafn.com/1101848041/Asia-Pacific-Facial-Recognition-Market-Significant-Growth-Prospects-of-US-Mn-during-2021-2025-with-Major-Key-Player"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
-    excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
-    publishedDateTime: 2021-04-06T11:18:00Z
-    webUrl: "https://menafn.com/1101865962/Speech-and-Voice-Recognition-Market-2021-is-estimated-to-clock-a-modest-CAGR-of-109during-the-forecast-period-2021-2026-With-Top-Countries-Data"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
 secured: "kZyKT+43vVtE2AVwZdzCcn9cU6PiwbOm3Ac7PhrMb/YfwASxVWZ1cWwq4KMw3HgxA+euRL0oadBK3UrX56ipIjsJyPGsXL1rcXnWBt/Ct3QeNCzYOf8fX2xMmXDeoaHKz42Qizz2SuS6jfK4zZtYvJC34f1rglVINp9Bk/JGGYRrWiGxEXpqqVAnqZgJiysWodAb/PMikKX2HcQaUcsFcUY3n1c2hMX/Nt42mupO2FOR/ZLbGzo2Brfg9WwPIfhprfm8lFT1gKSEN4Xl4TmEuf/+jtIESn68MM8Ki9DzkQUbxc4LClI2DO+gE/UOZAamC81USjspNtQir4nJyZ6oVvjmh69VZgLMb58XdyDqEiI=;N+5zYd9cEKLFOTH+I24fhA=="

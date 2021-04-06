@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
 type: article
 quality: 58
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "American Airlines wants facial recognition"
-    excerpt: "The IATA warned last month that airlines as a group might burn through as much as $95 billion in cash this year, about double its previous forecast. So what does the future of air travel look like? The former head of United Airlines Robert Crandell says the government may establish rules governing maximum seating density on airplanes and minimum service requirements for smaller airports."
-    publishedDateTime: 2021-04-02T12:38:00Z
-    webUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facial-recognition/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2018/06/american-meals-in-eco_long_37794079_ver1.0.jpg?fit=650%2C366&#038;ssl=1"
-        width: 650
-        height: 366
         isCached: true
   - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
     excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."

@@ -2,28 +2,32 @@
 category: news
 title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 billion"
 excerpt: "Founded in 1996, AutoStore has 20,000 robots deployed across 35 countries and counts ... took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its customers - Walmart ..."
-publishedDateTime: 2021-04-06T09:29:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/articleshow/81930449.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/articleshow/81930449.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/amp_articleshow/81930449.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-2-8-billion/amp_articleshow/81930449.cms"
+publishedDateTime: 2021-04-05T21:30:00Z
+originalUrl: "https://www.reuters.com/article/us-softbank-group-autostore-idUSKBN2BS1YC"
+webUrl: "https://www.reuters.com/article/us-softbank-group-autostore-idUSKBN2BS1YC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1YC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1YC"
 type: article
-quality: 69
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
-    width: 400
-    height: 400
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557385397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH340ZW"
+    width: 785
+    height: 545
     isCached: true
 
 related:
@@ -46,7 +50,7 @@ related:
   - title: "SoftBank snaps up $2.8 billion stake in Norway robotics firm"
     excerpt: "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ..."
     publishedDateTime: 2021-04-06T12:21:00Z
-    webUrl: "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269?mod=fa_center"
+    webUrl: "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
     ampWebUrl: "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269"
     type: article
@@ -103,6 +107,6 @@ related:
       domain: techxplore.com
     quality: 54
 
-secured: "+qTOMv7stF3e7M/u6Whj08CUi9gwGS+i8cCmLoQnWYmcYZSw4aq2aKzXdsiyA6EdYCGtcVO8OEbpbbCOcOie9RD+YAKH1QssCzaSF9y7YppqJIdLPIuvphMY6mbLKx27PjoDcwmWnaAD2CS0/8ZAJ7C6x8NbJ8R5BP1AQ2rFcaJQq067jtaWPJ7efxxb+t5BAGGsmQHQwlqAmDsdn1djWZSgQNC7FjDlAplaERGpJySTuk1kPy6UnFViR8tJdYMlpemJK705mw2Hfw9hEwOQpGpDrZQU2JFR7e6B6cdkCNCYcJjVnU+hBoAoWK1jdOogAqE+8jx5494E8LQaTema/x0/2YrkXv9x3L+m7GBzB7Q=;2KmOBy7eERs6niPrZM0Xpw=="
+secured: "n00pHHbILQIPv0WUz35eQs7Szsas7Gnz/3wlLCzQojoGzZ3FNrH58ntgUN9IZNvSYkjQ4wb3m6lMpaXlILDy0UFPwlUGLCrmsetlkYi4I2AzfBJHsIVcWn0VWbqrYn1q3xsRdCBKuRoVog5uM6CzsgSm5hn3rCMBSM+5mikyWLBDQzGfe4u2VsnWA+xBKMDsbgaxJOJBdT7xYIrgFEdUdLbdegoRXdWMr6GL9V+NgG/iHZkCUa8KK5mTBQ8A09+lOBAC3Hv4W4qM/W6RhqbEQDQTStNY29lvp/WWV4pgAbeszPJ7k9cU6AOgoqPn9mutXp6zmE+OkA7Uc0ot834D8TVXgXp62Rq9l05BUgRKDsA=;zWb6juxloCZ0A2NYNNuGNQ=="
 ---
 

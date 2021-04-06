@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Discover the stupidity of AI emotion recognition with this little browser game"
+    excerpt: "Tech companies don’t just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers’ ability to understand emotion are fundamentally flawed ..."
+    publishedDateTime: 2021-04-06T15:17:00Z
+    webUrl: "https://www.theverge.com/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 85
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ZWlS11gG_bir88B5zuENPLZj6q0=/0x0:2078x1389/1400x933/filters:focal(873x529:1205x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "These face recognition games aim to guess your emotions"
     excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
     publishedDateTime: 2021-04-05T12:12:00Z
@@ -50,22 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Army looks to facial recognition access at bases"
-    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
-    publishedDateTime: 2021-04-05T18:08:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Scientists create online games to show risks of AI emotion recognition"
     excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
     publishedDateTime: 2021-04-04T12:56:00Z
@@ -81,20 +81,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a7653ff89e6bc484d98262cec7a2937264bd8c31/0_14_2167_1301/master/2167.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0bb412e8a7e629951832cefc12f7959"
         width: 600
         height: 360
-        isCached: true
-  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
-    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
-    publishedDateTime: 2021-04-02T07:25:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
         isCached: true
 
 secured: "G/xqXDi52MA3XhvQWxd8am/9VKQiet24ph6Nc32gCdb3XVgLTHT76EcmhZR0+cKypkJuDREYDEhNU0yorlzlrPr+n1CAYZmJLml610mPM5i2IMDJCmHP2Baxj8AHrIL9iLepx73e/YkU8XhUyndoaloGMJVVAY2VIJq1fq6DOCdpedY3NVXmD6etVBtx6pxBaSq0I5tUFwW0s3YK47RF8DalMDZl1lG0ST+t+dpHdcl/mHyrRGLVDd72b8JyjUMBEYZ24DySI0MAWN4GprcJyOHuBmZR6J0kZ+UNP+QRbpE5Ctl1pgEAPCb1NSaLahBCcLm9N2VFSyKV2bsjS5lNBxmssoaTWvhLoV3MrrFsKAbvD+5XXm7JPPI4ze36a9MZnQOK+2kHHs9ZFq8H3e+qqwsjZ3v7lZiKyaORBXIs9wYJGd67j76YO1nEDryV3Ugd/aKWIA1gkcyfexrII7/I6jQUsUcjTQmHaN6t8TLocIy+jna38oBtjN5YnD5lM4IOaFZ/gOpiQx1xZj8P55hJxEK7EXqAlJ6W0nMAs11OvAI=;dYUlBfIb8YeJWJPn+0ZxYw=="
