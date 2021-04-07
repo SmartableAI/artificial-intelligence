@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 615
+heat: 629
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 8744373
+  followers: 8745958
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "VqZ6ugjzsXvSKcHi/nIoA3v6wUHnUaJBb2KEvJsoP+i6faF7bFL/w4ptAf01v3feuxE5gsORc7uBO8oTvYEoerxOwWPs/pl7j0IpNmHd+34H45jnBqZKgKnjjtyttJR/X7hCbvOkFRLYGJm/wYuDKuJN7eDEoJjqP9iGih3TfxA23Ib1ar0SBVJA8rJWEMMiCm+eklw8kLJnluim8TMIuvvjC+0HQh/7dBAuwioeg7sJPAlfbSV6ak/zCgk9CgAGNUL6h7VAvMmqwIhaRgAWIzzzs5BETioJmNk2+cKAbCASGhKguMzr7cYIQfDJSLPWE+5HIwzgpHgC5okM6BoabcNas0/M+6VUZdooAufGn7nZULcARCuGNTKdQLnDWvDBcgLcDTHdbuDw7/TB4BOl0ccLF82i5h5Z1yivJ2tEPsk=;T+bq0K17JtRk0z5tGDopAg=="
+secured: "0bbP4SX9FIapiBsfO0vmREFHGL8S2l5s0UYR5ly5RHHPrgEMGc+HpdK2Hi1yxbw2VNdnd3M3h0+aoIJsKIRenmXJHF0IBmu2X+AY0vbjAeNsRJw/LjR/x2bGJ0WkW0qVrp7CTFbQ16eEh5tbCPHa5/GT8kmWUlPvGIVXhEJQMJ7kQnA6zq0jnpRL7WrGEUU3mCW2Bo5BbSpLY6KMcWA/vDJqgGAAy6LHyloe/UuFAiSpzQYfGal2jnqvV75OnW96nphmKblBpc8sUIDL65uBjqLfqrH9oG6qquMm6qOWWbeQyufDiwDNxKcVuL4av3FJS1O+goa5nxa1A8ye0nsf5+pp3iXyV7stPOt5TcRrO/fArNUp5jGx0yZhgiQA1QecgZge+aBOwotthCedCgXq9Na8IWLrCzqJCtpzTxc51pw=;KkO73iVMCz51KoKa2eYE2A=="
 ---
 

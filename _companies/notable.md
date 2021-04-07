@@ -2,7 +2,7 @@
 name: "Notable"
 overview: "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://notablehealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "notablehealth"
   url: "https://twitter.com/notablehealth"
-  followers: 260
+  followers: 261
 
 size: 11-50 employees
 yearFounded: 2017
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "mgqwlg9GRB3yWd4TnX5kw3pBPHevTPWlmWE4CTJOAkue7hbjYzAZpwcO72X+/f6+t/8TwY1Qk+8ezGCLYqSr/rkuvaGJZGV6dmK3KQG6P1nRzwyv5WxP2qGLesSYm0EL2zjiMeUqY99OSGm+0OSEsIJ7zex0ueTnL5DYlbymHgg5/4BLoe89xGBBzuyeEJZ6Es8vVnbMR9aDUxXefO49r79nf/S+9mcE/nteSic/ngI4k1rdcNHu9v7s9D7L7UWDIsIZQN7uv0ZHnFZLA3wIcyu0qQNkV+0tjr6D7IsBVrGO4mrvh1UVH3kXYUdhGVDA9XGBTMSLZhyJ0tQfIHTyHmYpb8BEC0I5LNWOuQjvkkjcHyzkaHui4mhq28+UGbpL//bBJDPYn5QDmtmzRlvBOQ==;JX4xJTCPV2fGOifNspvVQw=="
+secured: "I1ZFrsqin+lEWE8X/uCo5uBJ0PoLjlBmHgUV+/FC/8PeWuxc2UCn6WwsMW1j4sYso8MpHW6Yzb8BVWDaOs2OAyYzfZqw05SFaJ9b1OtRRfTF4nAJhAnteE2DPrn6D3gTK1xHZZqdkfYOcpxHC8yVGYhACH3tmuKGwMRgiR7aEagqJneQ9XZUb1T7nZ4HoiIyOahK6pI0mVO8Zl2djz0whvMQ/z+6S6MpyBX6/9wOOqUfTSqqZ4ryGVFnL+uDCcy6R6iqQ05k0l4eDq3ACQvKBlt4PIOKiSMb1+SSWc8xXkDG/VsJGxsLS4fIUJOYTGKAiSKShzryjMM3G4LTaPRkThF+xa6RCRHRJpZDqikXjVQ+c1zKPam2WfweWEUzP13BZ6p+D4M2vz1RjuKEYmkoPg==;+gDjV3Cv+/B9yLfXHMJFbA=="
 ---
 
