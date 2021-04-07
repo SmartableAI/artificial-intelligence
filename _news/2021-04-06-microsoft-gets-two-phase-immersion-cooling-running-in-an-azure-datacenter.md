@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
 type: article
 quality: 103
-heat: 114
+heat: 113
 published: true
 
 provider:

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "3rd Gen Intel Xeon Processors Launched With Built-In AI Capabilities"
-    excerpt: "the 3rd Gen Intel Xeon Scalable processor can offer 1.5 times higher performance on a mix of 20 popular AI workloads when compared to the AMD EPYC 7763 and can offer around 1.3 times higher performance when compared to the Nvidia A100 GPU. These processors ..."
-    publishedDateTime: 2021-04-06T15:57:00Z
-    webUrl: "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
+  - title: "Intel and AMD chip war heats up once more with Ice Lake launch"
+    excerpt: "Intel has unveiled its latest weapon in the fight against AMD in the data center wars with the release of its new Ice Lake chips. The new 3rd Gen Intel Xeon Scalable chips are the company's first 10nm data center processors,"
+    publishedDateTime: 2021-04-07T10:44:00Z
+    webUrl: "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
+    ampWebUrl: "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 59
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://www.gizbot.com/img/2021/04/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities1-1617724313.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.mos.cms.futurecdn.net/ns7nbikpEgre9kGi25QHVU-480-80.jpg"
+        width: 480
+        height: 269
         isCached: true
   - title: "Intel launches new artificial intelligence-based data center platform in India"
     excerpt: "Intel has launched the new 3rd generation Intel Xeon scalable data center processors with built-in artificial intelligence in India"
@@ -56,6 +56,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-1.jpg"
         width: 822
         height: 400
+        isCached: true
+  - title: "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach"
+    excerpt: "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads."
+    publishedDateTime: 2021-04-06T15:00:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0268-11f9f2e4c617-fed227271afa-1000/intel-ice-lake.jpg"
+        width: 610
+        height: 457
         isCached: true
   - title: "‘Ice Lake’ Launch: Intel’s ‘Impressive’ 3rd Gen Xeon Chips"
     excerpt: "(Ice Lake) is another advance in the direction of supporting data better with on-chip memory and data movement. That’s going to be very important for markets like AI, cloud enterprise, and edge computing.” This relates to an Ice Lake AI strength ..."

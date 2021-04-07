@@ -2,6 +2,248 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-04-all-ai-driven-crm-platforms-are-not-created-equal.md",
+      "title": "All AI-driven CRM platforms are not created equal",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Customer relationships are changing in unpredictable ways compared to a year ago, creating unique data-driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/",
+      "originalUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-human-in-the-loop.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/amp/",
+      "publishedDateTime": "2021-04-03T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
+      "title": "Robot artist sells art for $688,888, now eyeing music career",
+      "excerpt": "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "originalUrl": "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "publishedDateTime": "2021-04-03T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
+      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
+      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
+          "width": 1199,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-these-are-the-ai-risks-we-should-be-focusing-on.md",
+      "title": "These are the AI risks we should be focusing on",
+      "excerpt": "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/",
+      "originalUrl": "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/",
+      "publishedDateTime": "2021-04-03T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-ceo-of-google-self-driving-car-spinoff-waymo-is-stepping-down.md",
+      "title": "CEO of Google self-driving car spinoff Waymo is stepping down",
+      "excerpt": "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "originalUrl": "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "publishedDateTime": "2021-04-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
       "title": "Ford-backed self-driving startup Argo AI mulling IPO this year",
       "excerpt": "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ...",
@@ -201,7 +443,7 @@
       "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -994,247 +1236,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state.md",
-      "title": "Google’s Eerily Lifelike AI Reservation Service Is Now Available in Almost Every State",
-      "excerpt": "Google has expanded its AI-powered reservations service into every state except Louisiana after more than two years of technical improvements and adjustments to accommodate local laws. The search giant’s Duplex tool is able to call businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/",
-      "originalUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2021/03/Cognitiv_Guide_031821_HP-652x367.jpg",
-          "width": 652,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/",
-      "publishedDateTime": "2021-04-01T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-power-grab-warehouse-robots-take-materials-handling-to-next-level.md",
-      "title": "Power Grab: Warehouse Robots Take Materials Handling To Next Level",
-      "excerpt": "No longer content to just release hard-to-believe videos of humanoid robots doing back-flips, Boston Dynamics this week unveiled something logistically incredible: a box-moving machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/?sh=741426b96d40",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064e99ffb14fb0430d02af7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D376%26cropY2%3D2644",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "publishedDateTime": "2021-04-01T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
-      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
-      "excerpt": "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
-      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
-      "publishedDateTime": "2021-04-01T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-global-chip-shortage-affects-more-than-cars.md",
-      "title": "Global chip shortage affects more than cars",
-      "excerpt": "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "publishedDateTime": "2021-04-01T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-security-in-the-cloud-is-enhanced-by-artificial-intelligence.md",
-      "title": "Security In The Cloud Is Enhanced By Artificial Intelligence",
-      "excerpt": "However, nothing stands still, and the extra volume of data and networking intersects with the increased complexity of attacks, and artificial intelligence (AI) is being used to keep things safe. The initial hesitation for enterprise organizations to move ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-01T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

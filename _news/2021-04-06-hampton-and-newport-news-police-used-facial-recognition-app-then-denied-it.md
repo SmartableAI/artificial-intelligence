@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-2
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
+    excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.idahostatesman.com/news/politics-government/article250461956.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/politics-government/article250461956.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/politics-government/article250461956.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 31
 
 secured: "9FgQ92YcsSm1v0cA9c4rtLTYuc6J2zlL7L+zPnbZfDI8y4FZA1r5y7MHjh5nfvKbnLl0HRuBQ800C3Y0YTDyDwM4mLj+uy2+74tnvDKI9cMbObPxor2mvpWQtc7coqnIQL6Dfxi5VUdsX8HR4VwdbLwgFUAs06NJ43ySh5ye3SVmlLf5vXNUfzilUkOORzZn2BgD20hTicl/AbrOOmWMvUaRIrXpuKD1n9GH+gIf7kbJ7yTwzVznatPP68s1cs15FwKG4M2ByVCPjCKMBjG2LDeoo+FA4VGWf0yet/Nv7dDs5rgxGP/WJrEDxFuDSKolqy8Uohv7dmWMNjPaFeS3QlcNRW07j0A9CccAha/fAZ2H+zI16eLJw3MWlckaSQF8zfqOSMqEgsOWzP2l+CeqbwwA31nfrJjwDP7MncEK9jZFlN/QRFKInDb1wtLoUElwcY1deUBaGdJ9RmcwIJLX4S3tU1J22kDsMpkS+cjgcgUcMRyq203VkngmpSoqNpM0Ckj1nKyKB916Tg5Oke4pBw==;HUZdVl/JIiWjQX8x0Yl1Vw=="
 ---

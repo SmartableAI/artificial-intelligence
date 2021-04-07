@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
+      "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
+      "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
+      "originalUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/polopoly_fs/1.4531004.1617795508!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
+      "publishedDateTime": "2021-04-07T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
       "title": "Deep learning networks prefer the human voice—just like us",
       "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
@@ -451,7 +494,7 @@
       "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -595,33 +638,24 @@
     {
       "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
       "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
-      "excerpt": "Aible, the pioneer in impact-optimized enterprise AI, has scored highest in the Automated Machine Learning (AutoML) services Use Case in Gartner’s 2021 “Critical Capabilities for Cloud AI ...",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for/article_63fcea43-9a4f-5bd0-8930-6c88103a258b.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for/article_63fcea43-9a4f-5bd0-8930-6c88103a258b.html",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/6b/b6b6305e-b7f4-5cfa-9965-dc65cb3701bf/6065ab881f63c.image.jpg?resize=598%2C630",
-          "width": 598,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T05:36:00-07:00",
+      "publishedDateTime": "2021-04-01T04:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1438,50 +1472,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
-      "title": "AWS launches machine learning service to monitor business performance",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "publishedDateTime": "2021-03-26T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

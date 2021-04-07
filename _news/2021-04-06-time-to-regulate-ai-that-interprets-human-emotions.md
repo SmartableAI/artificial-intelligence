@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 887
         isCached: true
-  - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
-    excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
-    publishedDateTime: 2021-04-02T17:44:00Z
-    webUrl: "https://www.biometricupdate.com/202104/european-privacy-advocates-urge-biometric-surveillance-prohibition-as-ec-considers-ai-legislation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "U5q7JSWL9B7ozWeRWFOj89+23tThcj76rTxrSMNdDahjFUl1doken8wlYfp0C5bl95YJMNwNbmoVeVkBvImJKBe976y8IH526eoS4/ImSDLnez85vDtNpMmNnxHEP2Y4dxg9I4QDStRzaT5fdj/z2ydbN7HU0525S1V513e1flm+C9eNY492OSyoGyoiQNRTViF+sC8YwgPc6otOTLAUHnuUXHJ+rFv+jk6ScYRzqpHGOzMl0FuRUxtFA3ZZgfGpu4PsYxfi1W8NxzZzlkLOSzoImQGdQD1WrtQ3vGUyOW/jvIQYYzNLak9hGJq6pCisRd2u+mtEoXDXaX7Rx7sr2zuT+bWSKwA//M6DcslCxFw=;/06ng7roY7roVVaRpgkpsg=="
 ---

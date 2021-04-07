@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-01-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
+      "title": "Airbus is to produce pilotless planes, but will they take off?",
+      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
+          "width": 569,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-americans-want-self-driving-cars-but-want-safety-first.md",
       "title": "Americans Want Self-Driving Cars, But Want Safety First",
       "excerpt": "Americans are not known for prioritizing road safety. No state currently bans all cell use phone behind the wheel, and two states still allow drivers to text. And the United States consistently lags behind other developed nations,",
@@ -1362,58 +1405,6 @@
         "name": "The Independent",
         "domain": "independent.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
-      "title": "Why Baidu Stock Soared Today",
-      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F614330%2Fgrowth-gettyimages-884650780.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "publishedDateTime": "2021-02-19T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

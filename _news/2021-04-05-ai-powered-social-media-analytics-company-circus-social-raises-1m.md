@@ -56,6 +56,20 @@ related:
         width: 2440
         height: 1627
         isCached: true
+  - title: "Engineers tap machine learning to improve graph analytics"
+    excerpt: "Graph databases hold numerous attractions for financial services users, among them the ability to detect hidden patterns in data that could be harder to spot otherwise. Some financial institutions are now looking to go a step further by augmenting graph analytics—the process of analyzing data in graph format to show relationships between data points—with machine learning to identify more complex data patterns."
+    publishedDateTime: 2021-04-07T10:34:00Z
+    webUrl: "https://www.waterstechnology.com/emerging-technologies/7817871/engineers-tap-machine-learning-to-improve-graph-analytics"
+    type: article
+    provider:
+      name: WatersTechnology
+      domain: waterstechnology.com
+    quality: 41
+    images:
+      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/GettyImages-962721460.jpg?h=61c0a37d&itok=KMbgPSCK"
+        width: 378
+        height: 234
+        isCached: true
   - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
     excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
     publishedDateTime: 2021-04-05T20:32:00Z

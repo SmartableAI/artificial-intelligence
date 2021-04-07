@@ -197,6 +197,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-03-ceo-of-google-self-driving-car-spinoff-waymo-is-stepping-down.md",
+      "title": "CEO of Google self-driving car spinoff Waymo is stepping down",
+      "excerpt": "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "originalUrl": "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
+      "publishedDateTime": "2021-04-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
       "title": "Ford-backed self-driving startup Argo AI mulling IPO this year",
       "excerpt": "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ...",
@@ -976,49 +1019,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
-      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
-      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
-          "width": 980,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
-      "publishedDateTime": "2021-03-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-29-didi-is-raising-money-for-self-driving-unit-at-6-billion-value.md",
       "title": "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value",
       "excerpt": "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ...",
@@ -1058,6 +1058,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1415,58 +1458,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up.md",
-      "title": "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up",
-      "excerpt": "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-kodiak-hesai-idUSKBN2BG1I6",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "publishedDateTime": "2021-03-24T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

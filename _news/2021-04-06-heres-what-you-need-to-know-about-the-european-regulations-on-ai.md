@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00868-5/d41586-021-00868-5_19022884.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
-    excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
-    publishedDateTime: 2021-04-02T17:44:00Z
-    webUrl: "https://www.biometricupdate.com/202104/european-privacy-advocates-urge-biometric-surveillance-prohibition-as-ec-considers-ai-legislation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
-        width: 800
-        height: 449
         isCached: true
 
 secured: "qMfddXp2Yr/R8hCquAAOFIlNMQwulJzrWUHETQBYCSFR0D44LStHE+ud5vdn/XBBIVj3zaNCY0q7Tzw0E5P+ca/3WE/ytoJyYs781gnTz2UAShtOX6EZaqj3R7FfS59xD3CVr8E8bptMNUmKBA3rWsTyv+fr/N1PsWnCNJ4wmJCw0hVqL8HM5rGRaW9Qf0aVChAYXVRT+/0AcQuH67LVSY8DLay1PE/hs91JaqySEiEzFeEes6AZ0h+5nkvCZubrDH9Tw+nMByQsIf2FedBNXVNNuzTM6xYK2toNniusG8B/aqU9t2leNfTE1DLPZfmMtK5WttHKE4qbZHu0y12es4MK51YLdx0kbTpV2oKJRvgXx8NRvD0j1i3m7kR0DAbokXHH5B34Q1tgfEfVXSIuZ9h3OeN+TTHRunw5mGVmJbuIXMSYOLqtY44h5DhuaHL5PBEQ5A/bO4RxbjvntIDvI+MOoLe69qCD2BQvgkFAj6Qv/V48AAhOp/uJp+rS0YhyHH7pHKBvhMqWKyTxDDNkzg==;jV2AR/If89hjw8fVN5vYig=="

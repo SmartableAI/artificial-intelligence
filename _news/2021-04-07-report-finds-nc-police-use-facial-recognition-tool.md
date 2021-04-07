@@ -57,6 +57,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
+    excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.idahostatesman.com/news/politics-government/article250461956.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/politics-government/article250461956.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/politics-government/article250461956.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 31
 
 secured: "cXU3y7vvyfGBx6hDr1crjXhQyZfcqaV/4ItHLikg8JIFekitysiI+wo/N/Ale7I2W+4MX2SrK+FPQA/huEEdrvIROBRq4zAEFqTc7VQLim2C+FSWOS8vbJVWa11qjG45DL5LO+Uka+FwqkShjBmz0mkk+uur3Q0bSJle96VS451TutH/0WeVmDZG/vTN1acm5ww4l+bgcImLJNXLmQ4qxPi4T0ToXnelJ0/GfPuUr+XxL3pWssHvkpD/F+gXcHy2Nog+gYp0BUt+lFxZwPti7eXqhj0lMKzKuSSgvsrVo/xnSRikLZwUcXLcHBwBWi0Kbx6f4rv9UEmhW2Np9eZX057qUVR2xMHB9yQSQNq2P2U7c/FOX+jqV0IyaZTHwKUV74QRpa6pC7tvoElNrGmZWCBI+t3S0dgpAFVQXtcO5aUAOmiHvI3SNsoSIo+XqHWYzo6044BW9VbSf6cuqROg6XMJJ//Hx32UL2RXM/2if6XXEHOGK4/1dtwS668biscnM6wZ2mUd4Lvrd5T7IERJZQ==;+eSnaiKIHLpLFfvAga+iMg=="
 ---

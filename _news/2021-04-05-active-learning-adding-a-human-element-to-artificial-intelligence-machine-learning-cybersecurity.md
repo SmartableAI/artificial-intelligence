@@ -58,6 +58,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Customer Engagement During The Pandemic: Lessons Learned In AI And Analytics"
+    excerpt: "When it comes to understanding customer sentiment and needs, AI and analytics can be indispensable. They’re akin to the navigation system of an automobile. They can guide you to the best and shortest route to your desired destination — and that’s ..."
+    publishedDateTime: 2021-04-07T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c7e4bfdbcdb9a01d2e4c6%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "iUE1mgV0EVdiLwdCArVgbwnO2w7w1vfaWict+A9iJ+oZTD8TzOtVEodB9izZKpIvpAXGu2K+oIXTc6V2d83DdAIxubFk+gF0vEYBAHLM5CGCrRD/M8l3uA3MH72bqL9qFgA6Zf4164cbfPoSY8qv3L+GJ5gSCISXkj+mD2yeJ/CNO1dVROs62TWmJ8Q3hj3r+/qCrzw1GPD3mYwNE4cxmkV/8bD6zys7OO0Ov2grbH3NpkO9HVP4nKjI8V9rnGi0+NmMqQn4l2TGdfJhYq4Kx0tvmocuny6lK1w3XC4foOmt5IPJmZw6qWYPahRKC4dn/RDteHcy1numy5SCnJ6vjtPtPuxTtpst72iFp+xgvOA=;37cUeMk0ykr7X6xV7hWRRA=="
 ---

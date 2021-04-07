@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Customer Engagement During The Pandemic: Lessons Learned In AI And Analytics"
+    excerpt: "When it comes to understanding customer sentiment and needs, AI and analytics can be indispensable. They’re akin to the navigation system of an automobile. They can guide you to the best and shortest route to your desired destination — and that’s ..."
+    publishedDateTime: 2021-04-07T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c7e4bfdbcdb9a01d2e4c6%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Active Learning: Adding a Human Element to Artificial Intelligence, Machine Learning & Cybersecurity"
     excerpt: "establishing guidelines for military application of AI, using biosensors to monitor and communicate human emotions, establishing IEEE standards for applying ethics in AI, and curating data playgrounds for cybersecurity researchers and professionals to ..."
     publishedDateTime: 2021-04-05T13:21:00Z

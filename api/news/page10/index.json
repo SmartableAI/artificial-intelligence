@@ -2,6 +2,231 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-30-update-1-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
+      "title": "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence",
+      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "publishedDateTime": "2021-03-29T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
+      "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
+      "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/1-VIsual.jpg",
+          "width": 600,
+          "height": 304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T10:03:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
+      "title": "U.S. banking regulators seek input on how firms rely on artificial intelligence",
+      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LR1RZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1RZ",
+      "publishedDateTime": "2021-03-29T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
+          "width": 750,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
       "title": "Complementary security for Orange's Data and AI Ethics Council",
       "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
@@ -300,49 +525,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
-      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
-      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
-          "width": 980,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
-      "publishedDateTime": "2021-03-29T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-29-didi-is-raising-money-for-self-driving-unit-at-6-billion-value.md",
       "title": "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value",
       "excerpt": "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ...",
@@ -382,6 +564,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -881,265 +1106,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world.md",
-      "title": "Reinforcement learning: The next great AI tech moving from the lab to the real world",
-      "excerpt": "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
-      "originalUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "publishedDateTime": "2021-03-28T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities.md",
-      "title": "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities",
-      "excerpt": "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
-      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-what-ai-can-teach-us-about-the-myth-of-human-genius.md",
-      "title": "What AI Can Teach Us About the Myth of Human Genius",
-      "excerpt": "Because AI does see things in a different way.” Ishiguro’s book is fiction, but his suggestion that a new type of literature may be on the horizon is not. In May 2020, the San Francisco–based start-up OpenAI first publicly described its new language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/culture/archive/2021/03/pharmako-ai-possibilities-machine-creativity/618435/",
-      "originalUrl": "https://www.theatlantic.com/culture/archive/2021/03/pharmako-ai-possibilities-machine-creativity/618435/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/ryxu-3iYfhjc_LuPMChBvOlPbb4=/0x63:2000x1188/570x321/media/img/mt/2021/03/AI_Books/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/618435/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618435/",
-      "publishedDateTime": "2021-03-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-ai-can-be-dangerous-how-to-reduce-risk-when-using-ai.md",
-      "title": "AI Can Be Dangerous - How To Reduce Risk When Using AI",
-      "excerpt": "AI has the potential to be dangerous. As a result, we need to create ways to manage the risk presented by AI-based systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f79eaad8970188040f338%2F0x0.jpg",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
-      "publishedDateTime": "2021-03-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

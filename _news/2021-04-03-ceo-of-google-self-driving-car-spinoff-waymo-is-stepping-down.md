@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-g
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: CBS News
@@ -27,81 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo CEO John Krafcik steps down, replaced by two co-CEOs"
-    excerpt: "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward."
-    publishedDateTime: 2021-04-02T17:39:00Z
-    webUrl: "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet"
+  - title: "Waymo CEO John Krafcik Steps Down From Alphabet’s Self-Driving Division"
+    excerpt: "John Krafcik has stepped down as chief executive officer of Waymo, Alphabet’s self-driving vehicle division. Krafcik has led Waymo for five and a half years and was instrumental in securing agreements with the likes of Jaguar Land Rover,"
+    publishedDateTime: 2021-04-07T11:25:00Z
+    webUrl: "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/"
+    ampWebUrl: "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 189
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BpqqzSlbGMXZmST7t058Qp7ETkU=/0x0:2040x1360/1400x933/filters:focal(714x153:1040x479):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69067594/akrales_180327_2419_0161.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/04/John-Krafcik-3-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
-  - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
-    excerpt: "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ..."
-    publishedDateTime: 2021-04-02T19:09:00Z
-    webUrl: "https://www.wsj.com/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
-    ampWebUrl: "https://www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/waymo-ceo-john-krafcik-is-leaving-the-company-11617385836"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-319923/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Waymo CEO John Krafcik is leaving the self-driving-car company"
-    excerpt: "Read more: How to nail the key interview questions that Aurora, a Jeff Bezos-backed self-driving-car startup, asks job candidates Before heading up Waymo, Krafcik served as the CEO of Hyundai Motor North America and of the car-buying website TrueCar."
-    publishedDateTime: 2021-04-02T18:53:00Z
-    webUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/60675075a7d803001963e7d3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Waymo CEO John Krafcik to step down from self-driving car company"
-    excerpt: "John Krafcik, CEO of Waymo, said Friday that he's stepping down from the top job at the self-driving car arm of Google parent company Alphabet. Krafcik will be replaced by two executives who'll lead as co-CEOs: Chief Operating Officer Tekedra Mawakana ..."
-    publishedDateTime: 2021-04-02T18:59:00Z
-    webUrl: "https://www.cnet.com/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-ceo-john-krafcik-to-step-down-from-self-driving-car-company/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
-        width: 644
-        height: 362
-        isCached: true
-  - title: "Alphabet Waymo self-driving unit CEO stepping down"
-    excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
-    publishedDateTime: 2021-04-02T17:34:00Z
-    webUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "CEO of Google's self-driving car spinoff steps down from job"
     excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
     publishedDateTime: 2021-04-02T20:04:00Z
@@ -148,24 +89,37 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Waymo CEO John Krafcik is stepping down; Alphabet's self-driving unit will now have 2 co-CEOs"
-    excerpt: "Chief Operating Officer Tekedra Mawakana and Chief Technology Officer Dmitri Dolgov will now head Google's sister company, a leader in autonomous vehicle technology, as co-CEOs"
-    publishedDateTime: 2021-04-02T19:20:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/02/waymo-ceo-john-krafcik-stepping-down.html"
+  - title: "Head of Google’s self-driving car project steps down"
+    excerpt: "John Krafcik kept Waymo ahead of rivals while sector failed to live up to big promisesRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-04-03T06:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/head-of-googles-self-driving-car-project-steps-down-9981517"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "John Krafcik quits as CEO of Googles self-driving car project"
     excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T10:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+    publishedDateTime: 2021-04-03T06:29:00Z
+    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      name: Sify.com
+      domain: sify.com
+    quality: 24
+  - title: "CEO of Google’s self-driving car spinoff steps down from job"
+    excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
+    publishedDateTime: 2021-04-04T04:21:00Z
+    webUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/"
+    ampWebUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "kvt8smwa+K5zwCbqQ1Wl42pUbkQCVeX3Xgvm1Eq8s00JKfq3J6aMuQGgF5vEZktXGsJ87HIG8dxS7gfRCxlZK2u8H44TjtoC/Mf54LPuI3n+cK9u02pH2qfJLo0NLuIJ8WxeKsHnLp3O15YSG2ys26R7m5wAFM5zFm6jKCReGqAFUvY/6q8OQiZtAJhP+w3KFA6QY4jgPWMLmbDrnX/j7K3Pq7ZfUCkw6FV1NS4egWwrPUoaeLmrA6msfKaUeLfChbV+j9Ns0A0tk5op/9/p4mwrZmGChjGCW6Uw/EcwvVb7/up88QzzwyboVyqRUbc1xApKHneCe61xyP4l7zJPfMx8yvDM2RauaEWW0jckwkoaVLBxqbVrXxJth1xDsBoIrcvP5exaNtGWc8K1yntaZCnzrfd1eT0GP7/gEk7rJazJwNPahd6ZN933PJ3QGURyUKMa8z0Uk0SuRibd7gY/IHTqlEbi4eNYEKPBUpKhgMGlq8OAjKRMC0jQ2cKmkhzGNj5AZkzoLpDcMWtq9/c9Cg==;NtRiX2/i2IBsmbLo5wAXRw=="
 ---

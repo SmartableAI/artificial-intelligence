@@ -2,6 +2,246 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-03-10-five-ai-myths-and-misconceptions-and-the-role-of-communications.md",
+      "title": "Five AI Myths And Misconceptions And The Role Of Communications",
+      "excerpt": "It's imperative that those of us in the AI industry are honest and forthright about AI's capabilities, limitations, benefits and dangers, as well as the current state of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-fintech-is-evolving-in-2021.md",
+      "title": "How Fintech Is Evolving In 2021",
+      "excerpt": "This year is paving the way to a brighter future, and fintech is at the forefront. Here are some of the key areas in which fintech is evolving right now. For 14.2 million U.S. citizens, digital banking is their only form of money management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52482e3813fbe2dd6ff492%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-russia-ramps-up-facial-recognition-systems.md",
+      "title": "Russia Ramps Up Facial Recognition Systems",
+      "excerpt": "From cameras criss-crossing the city to payment systems popping up at metro gates and supermarket checkouts, facial recognition is rapidly taking root in Moscow. The initiative has gained ground ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/russia-ramps-facial-recognition-systems-3159596",
+      "originalUrl": "https://www.ibtimes.com/russia-ramps-facial-recognition-systems-3159596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/a-facial-recognition-payment-system-at-a-self.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
+      "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
+      "excerpt": "Trueblue, a leading provider of AI solutions for Operational and Analytical CRM in the Life Science industry announces that Angelini Pharma, as part of a major global digital transformation process, has chosen AiDEA,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-health-care-industry-77f793e20cdc466a968cbd7f329fba13",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-health-care-industry-77f793e20cdc466a968cbd7f329fba13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-cloud-cybersecurity-startup-lumu-raises-a-75-million-series-a.md",
+      "title": "Cloud cybersecurity startup Lumu raises a $7.5 million Series A",
+      "excerpt": "Miami-based cybersecurity startup Lumu today announced the closing ... firewalls and spam box filters, then applies AI to correlate threat intelligence from these disparate data sources to isolate ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1179506263.jpg?w=1024",
+          "width": 1024,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/",
+      "publishedDateTime": "2021-03-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-embedded-finance-la-sfida-per-il-fintech-integrarsi-con-banche-e-aziende.md",
       "title": "Embedded finance, la sfida per il fintech: integrarsi con banche e aziende",
       "excerpt": "Non essere più \"finanza alternativa\" ma integrarsi con l'industria finanziaria tradizionale, diventare \"embedded finance\". Lo dice un sondaggio di LendIt sulle fintech europee. Che mettono sul podio R",
@@ -891,239 +1131,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-botz-vs-robo-the-best-robotics-artificial-intelligence-etf-for-2021.md",
-      "title": "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021",
-      "excerpt": "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "originalUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "publishedDateTime": "2021-03-09T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ibex-raises-38m-for-ai-that-diagnoses-diseases.md",
-      "title": "Ibex raises $38M for AI that diagnoses diseases",
-      "excerpt": "Ibex, a startup developing AI technologies to help diagnose diseases, has raised $38 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
-      "publishedDateTime": "2021-03-09T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
-      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
-      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
-          "width": 900,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
-      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
-      "excerpt": "This is the first in a two part series on Amazon Comprehend custom classification models. In Part 1 of this series, we look at how to build an AWS Step Functions workflow to automatically build, test, and deploy Amazon Comprehend custom classification models and endpoints. In Part 2, we will look at",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/09/Merged-Image.jpg",
-          "width": 800,
-          "height": 654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T13:46:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-neural-network-clip-mirrors-human-brain-neurons-in-image-recognition.md",
-      "title": "Neural network CLIP mirrors human brain neurons in image recognition",
-      "excerpt": "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg",
-          "width": 846,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
-      "publishedDateTime": "2021-03-09T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

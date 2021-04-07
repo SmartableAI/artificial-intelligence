@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chi
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/2021-04-04-chips-are-down-shortage-stymies-manufacturers/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1000
     height: 562
     isCached: true
-
-related:
-  - title: "Companies struggle as supply of electronic chips goes down"
-    excerpt: "That's the prediction of the president of Whirlpool corp, Jason Ai. Whirlpool corp is one of the largest appliance makers in the world. The company said its falling behind on its exports to America and Europe. That's because its chip deliveries have ..."
-    publishedDateTime: 2021-04-02T18:33:00Z
-    webUrl: "https://www.wionews.com/business-economy/companies-struggle-as-supply-of-electronic-chips-goes-down-375057"
-    ampWebUrl: "https://www.wionews.com/business-economy/companies-struggle-as-supply-of-electronic-chips-goes-down-375057/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/business-economy/companies-struggle-as-supply-of-electronic-chips-goes-down-375057/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 59
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/04/02/190032-chips.JPG?itok=2dJAKaT_"
-        width: 918
-        height: 506
-        isCached: true
 
 secured: "00WLhI+TGaVxOqm0DefMPNEVP8OqQMMheVhvrkaaYNpFf5Y4l9Hg8CVrbTF4QQTWM/L8gujJW0G/mn3PNeabQKdJNZGgiO76Wj1OmuREqewLUCfTJgbdVieUb7zqo1FZVBN/k7r/+PQg6+LY7KTAmpxKFmCYK7DOw4WBETUys6GDz/qJMiNofPyCAwLjDpLIaxAFl08uOPjkSzfBRnj0Emk6eCQsDVPDlNAzUoXI6xtN+uoM6cXfzniV9GG9oA9dob7H2mzsEWANjA3eQiNSvhOvVyORR82ykvuypaoIm1YGUuYZNSlODKPxCSdMkvth0QejEkFhAXDoBqlmcYJ+7oiXE0N00So9vgKr4AVvvyI=;WGHwZMEaxuB+R2EXv8Pigg=="
 ---

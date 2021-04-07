@@ -41,6 +41,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
+    excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
+    publishedDateTime: 2021-04-07T10:30:00Z
+    webUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google AI Research Manager Resigns After Two Ousted From Group"
     excerpt: "who managed some researchers in the Google Brain team, announced his departure Tuesday in an email to staff that was obtained by Bloomberg. Bengio also oversaw the Ethical AI team led by Timnit Gebru and Meg Mitchell, who were both ousted from the company."
     publishedDateTime: 2021-04-06T17:52:00Z
@@ -278,6 +294,15 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "High-ranking researcher resigns from Google AI team"
+    excerpt: "Google on Tuesday confirmed a leader of its artificial intelligence team has resigned in a departure that comes after the controversial firing of two colleagues."
+    publishedDateTime: 2021-04-07T11:38:00Z
+    webUrl: "https://guardian.ng/news/world/high-ranking-researcher-resigns-from-google-ai-team/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 19
 
 secured: "zJeEDHeKGjh6K5UvZY6Qti9Nxuak22LPznLMJWcSngV4B9nkHh/WGpdBS+bpyetfjjpqDdBcOBrEHd/Usv4CVLXn1T1GMUecqWeGQum4etpjnR6JX2QeqPoHLfhcLZeiVVIaO+9tD8Iwrmb3+Ko+KWR8Pugj6pq+27Im55hV/CT605TzyUNoYcZRLSxRu0/cQMt9ZFKJm+lVbtIflswVs03Kie7XrvLNJWIDy5bXMQzqh7w1K/7+UKCWjVpwBuqnlQL1jAMa5ZVk46w49d2DGJ2JZoCFXIuY6BEuB2WVs5dahu7BhkUnL4FHrJtcvkng6G2KuEakCMR8tnuMQ3EgVmK2cLIycon2SB26n/qpXDs=;rl3dDj1MPvyv7O3Z9tzntw=="
 ---

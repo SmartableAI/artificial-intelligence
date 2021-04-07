@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
+    excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
+    publishedDateTime: 2021-04-07T10:30:00Z
+    webUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
     excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
     publishedDateTime: 2021-04-06T18:31:00Z
@@ -275,7 +291,16 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "High-ranking researcher resigns from Google AI team"
+    excerpt: "Google on Tuesday confirmed a leader of its artificial intelligence team has resigned in a departure that comes after the controversial firing of two colleagues."
+    publishedDateTime: 2021-04-07T11:38:00Z
+    webUrl: "https://guardian.ng/news/world/high-ranking-researcher-resigns-from-google-ai-team/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 19
 
-secured: "C14b+DXudDeKp/38qla56ngwEtjd8S/SucZBN0me2G9+ha3Q/xTQ0FsDdv3veolbvz+573B72JNsahnASo+zyewCbnntagAXuLgbB0YXZay+oqnhycaMfWoZGI44ZqRhs/1216RP7MzWtWACYLyAA2X3VDaSsqCSJ4Hvzg76FZ5ytghcgqcSEGcHJXpJMXWnotm/QYro3BVxw+OCtcQKIsXnFUGqWoXO+GhxCUf5ILiEzrK8Zu593ILo0cXhxQAZae5NId+QNMMD7wmznOXZ1yA20jocNoNkwJbjhGonsH6UqunOm6FrnoQiqw8r4OCwzSTCTyL/qkZtiNJYwIGi6BX6guqWcmFVssEsGUmKRjo=;fIUEQjvlDug3NnJ5hIImRQ=="
+secured: "phrD//AxQHx9uZHFTQ2pBbOCBrYeYDXiMrrBnFRw0CsnC/MMmtkv1xLfVxZlZVc4Lx8v/nHxwUHAnQsouo5TH9Sv7mDXAAD47L7qCRbny1htsNNwuZQZIIjTURpZC9g/d0D69K3oOiMKawuvCv1VJMt5tuRngdAA1pzP3i0ltghy9iKn3UvJKY+L++tzf7TLgW322s3y3pThixywts7pl9REFX00yh2c1bub6PErSDPxFoeUY9XMmlxL28dRgjDlpDZeOTs413baLf0c+PwPDpqT46EaB009yqbSh7gbgYeEBNSCKHUlW83ofE4rNtdxoFOFMulCCVxgtLJ3AKUEYdmkpkIbSJss1TEdYuIpDVS9p3IATjjac4ct2KfSyc1BAqL/cFtN6K0zGXgeP5dTRUVpkBBXVSh7SGZw4MN9gZpPkHePkHquP7mWa7+lhu1g3gqW3gQeR/d2c/40ZiZgPXB1XOtuZUKIfbSxoOlQXczLhhRixg/qJSxER+gusrUr7Z+qIj3P1UpiD2zqChgq+w==;vrKyYNkXC0XgZvazt9teLg=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ..."
-publishedDateTime: 2021-03-29T10:05:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl"
+excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+publishedDateTime: 2021-03-29T09:47:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 512
     isCached: true
 
-secured: "3vL/bpmG7wtjsAUgrIbJi3XPvK8zgIkeQUdTc9pUSGo3+tCJYQbbMuYW9NTgDqdSlay3axvhZkOhQV2u1WAzWBMTFqT9IWSkaHFvCJgcFs8AqOhwKoeJj/gbBY8KFDBIuxp6H+n5Jtx3YzCqBADs91lTQ53mcRUlMEfGazGCck+OpDbJx140l9syj8PNxZDEJUDLtxOYkPLJArJmCDi1kU6c+ysWOSBYGxj2PAtxSZYwLILJijiMLpOur7llpmTbmT8xdt7hPBWKDp30Y4e0a7A/noyRakNCciT2mJSOCDtsriE5Pcb57Uy13LWfV9aXPoFRBir3CWvjP52nTcJdQgBOtN+3pE4fniRM06+eiqg=;ss1lAcee4xF25vLnZzYZww=="
+secured: "oJ6xyQZ50p+rp9OFiPJ6FlAJSap8nMlCp5TGqRLejFfmr+8IXoMM7UUbLTDZqNDUE2hV0yZ26U+377OAmRysybVaQOb4EY7FefsN50Kv2BlXzEC2TRTohqaA7CLFYM0D52um5Os1483muO3M7P/64v6STZ9QB1k1EX3SLUvbivbywNY7XBz7NbK5xSA/s7RFE50FVcbgoJIhMknmvTyTG0IrTm728J9GhjRTND+GW0H6iBETz5quK6gJ5Ob7j7f4HzBbblQfJhSj7lO6waddP6dqtD4rx2CR9D7IEOLHqOxkfR/bjWol+QssNR2xwnoYNxFVWpdA0NPSJmzALTAUGMbuhgDkYPXZXnWnRbdh510=;HodDhslz4cMFPZuhjFh3cw=="
 ---
 

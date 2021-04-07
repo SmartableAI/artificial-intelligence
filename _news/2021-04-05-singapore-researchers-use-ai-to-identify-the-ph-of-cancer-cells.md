@@ -24,22 +24,6 @@ images:
     height: 573
     isCached: true
 
-related:
-  - title: "KSU researcher develops artificial intelligence to identify different bee species"
-    excerpt: "A K-State entomology researcher says an artificial intelligence program he developed to identify bumble bees could help conservation efforts."
-    publishedDateTime: 2021-04-02T18:00:00Z
-    webUrl: "https://themercury.com/news/ksu-researcher-develops-artificial-intelligence-to-identify-different-bee-species/article_2c81ec3e-e50b-54db-8dc2-acd2ace0363e.html"
-    type: article
-    provider:
-      name: The Manhattan Mercury
-      domain: themercury.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/assets/v3/editorial/f/1b/f1bbd355-6ce9-58a8-9870-8f2cf1da7021/60675bb738f5f.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
-
 secured: "XgwKGdBlyWOqFW1KC3Jt3bNR9PxqH1e/NViNCNLAyeEJ1LrM5V1mBAS6u8X0Z/gttEkR4SBp4l1CiM5DAIgYHO2wn+rmK+bE3xwrfycxdne4/TnX6eFRDjaJudlzsYZb+eTtcM/GIt4JjME9+rMWI1hlayBRAl2XbnufQJlVJ5Onb4qZj+idm/VQ0O+FWz2YC3EJAgy7JP+2pa1Qi3/IIG1zk0CVg1pktr3bw7119/Vrnvcfm3Ekwu/3Iqudm1Y4jzABp3zsSdFQzZ/awXJvaijsqvTcGH6PwPZr+Sj0qdtbPCf/1lKxWMefdDTA5kIYbtYxfauaTkuz5IpsDnj8zpN3qssD02UQs61bLhzL+fA=;6B4MMNmtvwLP3ahDMSH+GQ=="
 ---
 

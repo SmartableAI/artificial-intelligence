@@ -42,6 +42,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Engineers tap machine learning to improve graph analytics"
+    excerpt: "Graph databases hold numerous attractions for financial services users, among them the ability to detect hidden patterns in data that could be harder to spot otherwise. Some financial institutions are now looking to go a step further by augmenting graph analytics—the process of analyzing data in graph format to show relationships between data points—with machine learning to identify more complex data patterns."
+    publishedDateTime: 2021-04-07T10:34:00Z
+    webUrl: "https://www.waterstechnology.com/emerging-technologies/7817871/engineers-tap-machine-learning-to-improve-graph-analytics"
+    type: article
+    provider:
+      name: WatersTechnology
+      domain: waterstechnology.com
+    quality: 41
+    images:
+      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/GettyImages-962721460.jpg?h=61c0a37d&itok=KMbgPSCK"
+        width: 378
+        height: 234
+        isCached: true
   - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
     excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
     publishedDateTime: 2021-04-05T07:05:00Z
