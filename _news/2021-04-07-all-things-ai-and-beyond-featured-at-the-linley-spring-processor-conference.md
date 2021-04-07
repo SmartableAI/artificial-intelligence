@@ -51,20 +51,15 @@ related:
         width: 1000
         height: 619
         isCached: true
-  - title: "NVIDIA’s GTC: The Near Term Future Of Advanced AI"
-    excerpt: "One of the major trends this decade is in AI development, and one of the areas that are moving the fastest is Automotive AI.  It has become such a In general, AI has favored GPU technology for accelerators and has become a massive driver for its future potential revenue."
-    publishedDateTime: 2021-04-02T22:14:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidias-gtc-the-near-term-future-of-advanced-ai/"
+  - title: "Lanner Network Appliance and Edge AI Computer Now Officially Validated as NVIDIA GPU Cloud Ready Platforms"
+    excerpt: "Lanner’s first NVIDIA NGC-ready platform for accelerating deployments of network edge virtualization and 5G edge cloud computing."
+    publishedDateTime: 2021-04-07T14:01:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21366470/lanner-electronics-lanner-network-appliance-and-edge-ai-computer-now-officially-validated-as-nvidia-gpu-cloud-ready-platforms"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/network-3537401_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
+      name: Automation World
+      domain: automationworld.com
+    quality: 16
 
 secured: "3MLuuPyfoyc7vIn4r53xdUujqDtUap696lPiWR1jfi6g51mlAel25Qn0iY0HORjNaJ337pq7wYMjEqdnLdVf0MFEL8s9EosAyOmuVfSqLtIpgAQJB78Ddp1pYDd0qFgozhqwx+VqKXuRh0HiOgo+qPkizVEF+ARcfp6GBBWl8I4UI922g23/7+1+dyltQ516SGl8dt7rlBPKXVmqqw/I6oEL9bJEACiKkEvEJcEVFoETi1uqv57cOI3vjWGveBwon8/wC0fvgH7tFqzNKlGGZWHnxSTvx+Cnw9mvJwbDL4cHWkJno2beVmyzVdURJYL9QxmN81N/TzRJ6zFumonLLM5ihLYZOKHJ46kxQg/HcIU=;SAGYTILptwMVSSbvL/Vuuw=="
 ---

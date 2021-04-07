@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes"
-    excerpt: "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring."
-    publishedDateTime: 2021-04-02T21:28:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
+  - title: "U.S. Fintech Obligo Announces Lease Renewal Incentive Program"
+    excerpt: "Obligo, a U.S.-based fintech startup that’s focused on the real estate market, announced on Wednesday has launched a lease renewal incentive program, which is designed for residential landlords to increase retention rates,"
+    publishedDateTime: 2021-04-07T15:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 82
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/02/58b58040-24b1-422c-abb7-a1322db9012e_4cbcb6ff.jpg?itok=vViMRtAY&v=1617370095"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/04/San-Francisco-Home-Houses-3-600x476.jpeg"
+        width: 600
+        height: 476
         isCached: true
-  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
-    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
-    publishedDateTime: 2021-04-06T10:24:00Z
-    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 4
 
 secured: "rBXsM54TVnA3TcKPDveRycjmunNZUkqdUpofhKxQ7PJlsEIIVCrl65sPwmxbzG4J4l9HuOh//En1ObRNK9Vkmdzm1G7YZIb8AEF5+zVh3YeXbkqE3tjUgMuFzAjZtUz7HuS/sIzmFyEcXm8PGa7BgIpvNwktOqQRTd+SNcfIB8Jhk/UPnwHhoLm0EO51YO7im66fpuGEDFJfOglBSBB5RacPJ6vpM9esONHlY5H3hESVi3Z5Tsg2YZLa2wqMqwJVyWbF1Wb1fyPJ77ShUz4LIp5R/JmpArWAJwhH+k+w/lJ8mERGtEGaA4luYt/GU7upjeACBv3lXY+5wF4qYXBHxzPzQV/YDuSiR3YEvvG2IYsS2eMWWybfWBGCeBTxgtEnh/r8IibKMyqp/OWdL8wnhrIEKUWyKRk0QVTRWAqu9MKb1IzABv3CCiq2yiS7NJ1/6huzXqVyXxbHhdN2t+Ji1x+XJwvP4liMiTuT318XNXbF7qc24Qc/pQF+0BtLv5FTLZ1TBsTprV9pkSBhcmtA9g==;kr39Awd4wgXQlxF+71vWoQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-b
 webUrl: "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html"
 type: article
 quality: 137
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 37
+  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
+    publishedDateTime: 2021-04-07T13:20:00Z
+    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Report: Argo AI considering going public later this year"
     excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
     publishedDateTime: 2021-04-05T12:50:00Z
@@ -73,6 +87,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "ZwlLgG9xfzcq1fuzmDWulusgE2Qe+1gljKO3KJ+HtDOeIJuZRUuBc75hrYjIqakplgiu+FsJpj23B6uyIOVWFc5dN+dsOnC7Y/EDsJ5Yydir8U+2K//I2c8Yj8iwLj4X5sIjtdPH9sDZNSS0IfEHTFBOTudGdSteCAhV8MJUrE/Jw89uGrHfPuPZvT3u6ghtYqUi+4DTqSbXZTAZ8sbsF4JTILRiZKApgtO1rTZAt2CdOfah9SHD4e+0k8SOolnbMJKtpZxshRXpPp229UTGg+3xta00hxNBPRPHnQulZlLG79zo70PIh9K4va00oF+9JxN8NuqXGfBVXHBlnTDPWtwRM3moazFQtLYi6vl2Pmc=;8vOvK83DczmR2FZaTEzcUw=="
+secured: "sqfLtqYY6K+IoDwNBEzc6vpiJNWhtzdrUUupM6aadbMyp59kXQcAJKrV/7otf7B722eNMpdY6fQrst+83dGmlrxS12PGBDoIJgTCma3Q9rE0TGo+/a62i+0uagK57/TZUPlToXPgOu13CtEA3mqT3Zjd4Kc/Qs1SXxuRa1noSiAJdF331HVPUnEWXMJ/oS4kjPVel0vSS6Nj4m+uxK4eFAzdUbzW5agMPQY2akspo/X6ypjaKPWn6o+aZh63qHy/cAMrITGx1BavA/EtgqITwZRvB9aLuDhS5NTo8Pi8o8TXQ9lHz6TtsmeMlhTiSBVJwCfP2LoEHp8TVe6yQkDxt65VCv3uxoSBc5Ny7WIivZn+LwPjiUf5X0CnKEmkeNurYexXNZBryGNZhgHALY3kc2E+/CrZ6hi7c/0eWBdSrQYtHZldObEL7OpsBdrRtB3fmYYc+lEGb3nZOXwJqlnlRhyD96SbkPmxzcipqeXIyog0OXsl66kpbZ+YNc+yz2FUySCaz4QF56m9DySUOd7VsARLbxOgPghFmdRMd2qnD7E=;P2Rf4nCGDOP4jzMgoOYHJA=="
 ---
 

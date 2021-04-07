@@ -64,6 +64,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 37
+  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
+    publishedDateTime: 2021-04-07T13:20:00Z
+    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Report: Argo AI considering going public later this year"
     excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
     publishedDateTime: 2021-04-05T12:50:00Z

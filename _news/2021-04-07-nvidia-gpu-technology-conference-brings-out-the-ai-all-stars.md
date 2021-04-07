@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 619
         isCached: true
-  - title: "NVIDIA’s GTC: The Near Term Future Of Advanced AI"
-    excerpt: "One of the major trends this decade is in AI development, and one of the areas that are moving the fastest is Automotive AI.  It has become such a In general, AI has favored GPU technology for accelerators and has become a massive driver for its future potential revenue."
-    publishedDateTime: 2021-04-02T22:14:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidias-gtc-the-near-term-future-of-advanced-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/network-3537401_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "All Things AI and Beyond Featured at the Linley Spring Processor Conference"
     excerpt: "\"AI has generated an explosion of silicon-architecture diversity ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication."
     publishedDateTime: 2021-04-06T17:00:00Z
@@ -70,6 +56,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Lanner Network Appliance and Edge AI Computer Now Officially Validated as NVIDIA GPU Cloud Ready Platforms"
+    excerpt: "Lanner’s first NVIDIA NGC-ready platform for accelerating deployments of network edge virtualization and 5G edge cloud computing."
+    publishedDateTime: 2021-04-07T14:01:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21366470/lanner-electronics-lanner-network-appliance-and-edge-ai-computer-now-officially-validated-as-nvidia-gpu-cloud-ready-platforms"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 16
 
 secured: "06cEZH1Vx65Bi+Ekr7i7thxLU5MzfF4F1HnirNJ/T1vBSQ0iGHqyUB6v51KgJ3QFl0z3NLGekaF/POkPK78W4FAuoG8MM8nmsjRtepw57cFu+gwDrcrVCUal3MQiBnPHJkYz0dN07E0LgCJ4KamijGjlXDkn5Q/9Lj7HqxvPknZXZ6YZt61WcU1cGCkOeNLwq1RpM0G/ogb7nmXKqtAfI/Fo/uAE0gCcvlH2u4uYa+B41zBbAvWcfK0wxFzuj3VEhX5vM92xHgAnVQh3ch8xvmSt4K3dtouvyOcYWSpQGtMFjyqW0/FKy5MR/Om2iSdX+9HNdcY2tJO5A/n5JcdY+E9w2VX0T6qbXlt74LeTl6S36ws26eXhaFiHv2ZKM7oYMpye7xVv1CSfofs8TjmQ3vdSIdscCgRALDhUxOt1ollXU4AMueJx3UydaFwxSsd0+V5LoIfQNq7+gBbBLmuXxABz/xYOVtPUO+P17qHpEAJfQbkmkFQmLY/khOtCHhsD80iQZNmJA1867b5WZaobfA==;GQ9nLnpRJkNY2Ju11T2M/A=="
 ---

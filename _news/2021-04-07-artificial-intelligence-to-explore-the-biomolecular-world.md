@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-04-artificial-intelligence-explore-biomol
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-artificial-intelligence-explore-biomolecular-world.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 622
     isCached: true
 
-secured: "Ud2HYaQVLRa/bNrDKLy9+0coaOBvA/zV2Z7qsYRu3FlhpEP4O35dOIHG4GOvBeFi55yY/1Q1oJwFVKJvKAw+NuklzHcRCZRIyADUvSx5VZrVxQXgn4l5VRlb76obo/1umOPHEDlosJTDIIGbky8ZOys5ixjv1MVaXKvtIikq4PD1Qna1TS5ULzW61QHY1Mouss8vvCrVn1lG1mWg++RroYgobvICPlCM8XsL+1doYiCTHsIW2gnBsw4O/e4fkIqKRGgLKUGX9mE3xIXvRSqjMuU5FkanZoKc9bMRkMbmgWCjQrR4YaJaQCkYc9bMzfZTl9dS0wUOiEVSW4Rs5ngSBrxGJY/Kl8cZB3W7RyuKcdU=;7fx70WLZf9SN2rLvvcyZrw=="
+related:
+  - title: "Artificial intelligence powered nanosensors to explore the biomolecular world"
+    excerpt: "The tiny world of biomolecules is rich in fascinating interactions between a plethora of different agents such as intricate nanomachines (proteins), shape-shifting vessels (lipid complexes), chains of vital information (DNA) and energy fuel (carbohydrates)."
+    publishedDateTime: 2021-04-07T15:25:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=57722.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 34
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id57722_1.png"
+        width: 450
+        height: 253
+        isCached: true
+
+secured: "8MmX1WjMq4ByPV3Bhk00cVpXXQ+3y2odfhChWatMqjUOjnjER4tVM7xcTsIWRO9H97sbRPrRYTBXTbeNOm2a5C5ToKQE94X3l9M9HetSbxoN3zAJcQRm9MLT/7Ps9IVDa2MJPEkgbSJfjBTVi7EpM6AbCJhT05W6IayCtN5KlZNqWm9DnNImL10jZeC/lruykz/5BDiQQpBqLGloNjJxIfWnhtxTT4PgNYtM34wuAWVqZI5SYOgoy8N8xpjcmf0Vj5lW9mGkzw3YMlfjYfltt0a/cr2y/9pyvWuZ9/PHBrVJa4umfG49eQFGyDbxP9P/GI3CZHWwn0hjea79vZm5Uhu/EhsnlXm5MOKcqLJaNXi9CeIwqkS2ED16it8QIE7xwVg4cdp4OsKOlZ2/fkyGQGqzURWemLoeNb+Q2upJiOtZi30kwT3YHEPZY8Qu4R24SOLITaEC+HIyThUM6dcMs0T6PeC3wuNo+j2OPnkeNDbEEqy2QclXqoLcx9HZfcX6ta0rk1j+UQNr5UJMRce7cw==;T81KCYxKTbkabz9njDDHVw=="
 ---
 

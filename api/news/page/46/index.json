@@ -2,6 +2,291 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-03-02-ibm-names-research-veteran-as-cio.md",
+      "title": "IBM names research veteran as CIO",
+      "excerpt": "Helping companies glean value from AI can be a tall order, depending on the industry. The Wall Street Journal reported last month that IBM is exploring the sale of its Watson Health unit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/02/600x338/2021-01-22T172205Z_2_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1614675133801_1614675155889.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
+      "publishedDateTime": "2021-03-02T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players-research-forecasts-to-2027.md",
+      "title": "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027",
+      "excerpt": "Mar 02, 2021 (The Expresswire) -- Global “AI in Fintech Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
+      "title": "India using facial recognition in schools is an ‘overreach’",
+      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "publishedDateTime": "2021-03-02T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure.md",
+      "title": "Compute and storage updates are available for mission-critical applications on Azure",
+      "excerpt": "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
+      "originalUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2015/02/shutterstock_137488049_story.jpg",
+          "width": 760,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
+      "publishedDateTime": "2021-03-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-selected-as-official-cloud-provider-of-pga-tour.md",
+      "title": "AWS selected as official cloud provider of PGA Tour",
+      "excerpt": "AWS's Amazon Rekognition deep learning system will then allow the Tour to tag content with \" specific metadata like player names and sponsor logos\" and provide \"instant access\" to historical tournament moments, enhanced commentary and more. SEE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "publishedDateTime": "2021-03-02T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition.md",
+      "title": "Fears for children's privacy as Delhi schools install facial recognition",
+      "excerpt": "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an \"overreach\" by Indian authorities and an invasion of children's privacy, digital rights advocates said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/india-tech-facialrecognition/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition-idUSL5N2KZ0SZ",
+      "originalUrl": "https://www.reuters.com/article/india-tech-facialrecognition/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition-idUSL5N2KZ0SZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AU0P5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AU0P5",
+      "publishedDateTime": "2021-03-01T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-as-china-rises-the-us-builds-toward-a-bigger-role-in-ai.md",
       "title": "As China Rises, the US Builds Toward a Bigger Role in AI",
       "excerpt": "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers.",
@@ -879,298 +1164,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
-      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california.md",
-      "title": "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/632539/image-20210301005808-1.jpeg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "publishedDateTime": "2021-03-01T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-deep-learning-algorithm-can-de-noise-images.md",
-      "title": "Deep-Learning Algorithm Can de-Noise Images",
-      "excerpt": "Currently, a type of software based on a machine-learning algorithm called deep learning has been shown to be effective at removing the blurriness or noise in images. These algorithms can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "originalUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://goodmenproject.com/wp-content/uploads/2021/02/iStock-12101056561.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "cdnAmpWebUrl": "https://goodmenproject-com.cdn.ampproject.org/c/s/goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "publishedDateTime": "2021-03-01T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Good Men Project",
-        "domain": "goodmenproject.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers.md",
-      "title": "This AI-generated Daft Punk video is the perfect tribute to the electro pioneers",
-      "excerpt": "Computer artist Glenn Marshall paid homage to Daft Punk by using AI to produce a music video for the duo's 2001 track \"Voyager.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-01T195552.789-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/",
-      "publishedDateTime": "2021-03-01T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
-      "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
-      "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "originalUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/skydio-2-11.jpg",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "publishedDateTime": "2021-03-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-deep-nostalgia-creepy-new-service-uses-ai-to-animate-old-family-photos.md",
-      "title": "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos",
-      "excerpt": "Service from MyHeritage uses deep learning technique to automatically animate faces",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
-      "publishedDateTime": "2021-03-01T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

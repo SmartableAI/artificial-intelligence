@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-04-07T12:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
     publishedDateTime: 2021-04-05T04:21:00Z
@@ -191,6 +205,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
+  - title: "Self-driving Vehicles Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players Bosch, Continental AG, Delphi, Denso, Google, etc"
+    excerpt: "Global Self-driving Vehicles Market is growing at a High CAGR during the forecast period 2021-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several ..."
+    publishedDateTime: 2021-04-07T13:00:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/self-driving-vehicles-market-size-2021-demand-global-trend-news-business-growth-top-key-players-bosch-continental-ag-delphi-denso-google-etc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+    images:
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/12.jpg"
+        width: 548
+        height: 308
+        isCached: true
 
 secured: "D7HTdCBfvykQYAizNU+62Y1EdPqJO39MjQPT03VOKgfkx3Bv3zSiAa7ryj18i9z4T7K/e0O5hrBHYCtkO9whBPIn1ZhMc9WElKtF6u8MoKHY8yYrXH/UtTTc+ixWgeY08Qx2GMNj3yGJeTvLCzeaEdwVVKPOJqIe5ebR9/MkJTr8j6KfoYm1L7w25vXaECBMQO/fKWy1NYMDJ1o/tbeC9hhqv/JkRUA1/ZbWRWi+9lOA9AaXjyNbH/TZh0rBeQGse/5939RNtSkm2TFoAA1oBz2TZmfxEx/W5g0NvQCM0Ir8isa/GvTRMY8KvIfVwCmFtWLBM7cPKQjwPynB93Yhx9EfQl0iC/s5PRhFoFw7+4w=;tPQxXOLuCQnT3vFwLRXZZA=="
 ---

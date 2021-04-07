@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes"
-    excerpt: "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring."
-    publishedDateTime: 2021-04-02T21:28:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
+  - title: "Narrowing The Focus Of B2B FinTech To Support The Strategic Role Of The CFO"
+    excerpt: "Born capital discusses why the B2B FinTech niche of CFOTech is key to supporting innovations that fuel the CFO's strategic role within the enterprise."
+    publishedDateTime: 2021-04-07T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 82
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/02/58b58040-24b1-422c-abb7-a1322db9012e_4cbcb6ff.jpg?itok=vViMRtAY&v=1617370095"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/CFOs-survey-economy-pandemic-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "QauJrw55RqBC3ZqbKqvcsB0PMaIy7/ZVl3rHkLphFNJ7IRsddSEMUua315vLOF0vSRgjT2bEOmpWS/yj91cZuqq+A9opaTmimaEDCo8mgfjXDdRW2LczgaUvntwyFTDGfvDB8Uw37/8gfGisPSlugZ5bYL9QKVP7NtotlqEdxL00FVFjBuYnigx11lRjrqytKYL2yxJi10FuFQBUD9lVwpZFrFBQfqED4b+y0k62TkhlbnvkKs79QaiVwSJDZGd6m1wviDBNfjmKwPSENOSbq9m4rtSlq4jlHkkk52XN1cuuaBLCPuATPlIVOdziC40f5ZadOpuZIlj203/4cyXsywJ6mqnLxnChMzR+Ua7ni5QfIBBAlgLvC7kjKJuHmxcDH+QapXCuh7n3lzLlzo0BK23ztJ3YrZ5PJRhBW0TitiZ06HOTpaIhQxi+OWhdiqmbUOot27Li9bqYAVPpYx6vBYg5iFg2kV1YlV18OpHxXm0GnZC5To4aW/e5MGmvJ3iN1UH4REnRO0c66wlzrhqnxQ==;KWsinBpF/fLUiDyl9abG7g=="

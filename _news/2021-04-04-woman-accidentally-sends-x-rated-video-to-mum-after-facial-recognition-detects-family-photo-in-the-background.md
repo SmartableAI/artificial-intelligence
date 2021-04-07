@@ -26,6 +26,24 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "‘I’m so sorry, mom’: TikToker accidentally sends X-rated video to mother thanks to Google facial recognition"
+    excerpt: "TikToker @karatonin experienced the downside of Google's facial recognition when she accidentally sent her mother an X-rated video."
+    publishedDateTime: 2021-04-07T14:08:00Z
+    webUrl: "https://www.dailydot.com/debug/tiktoker-x-rated-video-mom-face-recognition/"
+    ampWebUrl: "https://www.dailydot.com/debug/tiktoker-x-rated-video-mom-face-recognition/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tiktoker-x-rated-video-mom-face-recognition/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 40
+    images:
+      - url: "https://uploads.dailydot.com/2021/04/tiktok-facial-recognition-psa.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
+
 secured: "syflUbr0s1p4sVqmCJeQ5RW4z9pjhiFKJZyZJTlTPOf4UNm8JsRHkdkJ43wRT5nVxwTeKNdqZDlJmURg4jImgsI8dyigoihkQj3nyjKrQ+yseurmwl0ZM7dj2txbG97YN8nefz7EgtdGFo71NJrPWdwb3HSVOIbq5zSYkzw4+bKrhvCvlAYrxMed726eMTJuSVX6WzMDxDUdLWleSeMlVCp+FytfHFlIhFyijnOoxpbYgq8oMNT2yCUAAHx4smUzTyWY7p0Y9gHcPm3Dc9yAh5YQGlp5uM9N9BSup31pVkFzxgltVOfKcW/7LykB8yUe2EvE5sfip7TqHgWGIFYV9xFT9EItkHqaocDPVUU+GCbEABPvkinpR+LtLODtLgQlz2Ibofeg4kYTc2Te4mFqgqFrZ+KiHQJFJ/5fz13huVvz37zKazAejgdNm4xQKeFsJnr1CC7q4SVEpgJMXMJonADXA8LMS86TKEIwiYcw8qC0SDJx8KeyLUGkffY/r3GVjYOKpRXx0vinHxfyvLaAyA==;zZvpScprC5KPx1vIRBIIeQ=="
 ---
 
