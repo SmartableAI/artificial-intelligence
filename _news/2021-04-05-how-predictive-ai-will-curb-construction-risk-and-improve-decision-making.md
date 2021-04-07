@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-powered BI tools will redefine enterprise decision-making"
-    excerpt: "A new wave of AI-supported business intelligence tools will turn traditional BI on its head, surfacing important insights faster."
-    publishedDateTime: 2021-04-02T15:05:00Z
-    webUrl: "https://venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/"
-    ampWebUrl: "https://venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/amp/"
+  - title: "How AI can make weather forecasting less cloudy"
+    excerpt: "AI will work to strengthen existing weather forecasting methods by improving efficiency and making more timely weather predictions, as well as enhancing location accuracy."
+    publishedDateTime: 2021-04-05T15:09:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/BI4-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 655
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/53974995-e9ff-4a62-b3c9-b499faebb96c/5e042306-dd4c-432a-82e0-57aafb77c839/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "z1M9NK1xcF7xVT0lMIcFZ7SDTrWOUXyhN8ACT4A1/5QjmgXenzLwpXtNE8R7VU2n1PNrAMrf2Phr55IpGuFqMwKRo99/86MqbQz1TLrtFFe/Fp7lLvO5T/x4WO1fNOJYvMGKP29MXH7jn5Yqkh7b7/wG737ildOqrS6w1Gc4kIMIkKvhsGRKpw7TYrrVAjjK2Ksmk/nvxMxDKvfnzLVhoojHZ5/TZK4HH0i/6NwGikPPub8lrirQHxvYzm7Mota5WoV4pFa6h1fr90ZIn/sbJaQYyBv6FZvTC7fZ3YoH1fJPLxlJCIx418lVa8JphjAA9cgDTtRMjIh/Q8oBVug2v5VTldEepHS78QAn9Zgp0cI=;lIXEv63StaHxAQTvqJMFuw=="

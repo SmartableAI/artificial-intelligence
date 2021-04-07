@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
+      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
+      "excerpt": "The overall goal of the new platform is to give customers an end-to-end system from hardware to AI. Microsoft unveiled Azure Percept and a dev kit at Ignite. Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "publishedDateTime": "2021-03-02T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud.md",
       "title": "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud",
       "excerpt": "the Azure Arc enabled data services has been enhanced to include Azure Machine Learning as well. “By using Azure Arc to extend machine learning (ML) capabilities to hybrid and multicloud ...",
@@ -1427,58 +1479,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-it-takes-a-village-to-raise-a-child-and-the-same-goes-for-building-a-chatbot-ai-during-ongoing-digital-transformation.md",
-      "title": "It takes a village to raise a child. And the same goes for building a Chatbot AI during ongoing digital transformation.",
-      "excerpt": "One of the most exemplary team efforts I have had the honor of leading was our effort to implement the first AI Chatbot within our organization. A little less than a year after getting the assignment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/takes-village-raise-child-same-goes-building-chatbot-ai-tom-sickert",
-      "originalUrl": "https://www.linkedin.com/pulse/takes-village-raise-child-same-goes-building-chatbot-ai-tom-sickert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGa5jngBMLSIg/article-cover_image-shrink_600_2000/0/1613554963615?e=1620259200&v=beta&t=GRRVbvKSMMKrJjZRxyCmo8JsyH0ffD_ukFSeoNaB8vE",
-          "width": 1800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

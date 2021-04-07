@@ -57,6 +57,15 @@ related:
         width: 1000
         height: 619
         isCached: true
+  - title: "All Things AI and Beyond Featured at the Linley Spring Processor Conference"
+    excerpt: "\"AI has generated an explosion of silicon-architecture diversity ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication."
+    publishedDateTime: 2021-04-06T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005048/en/All-Things-AI-and-Beyond-Featured-at-the-Linley-Spring-Processor-Conference"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "fEST+FmxuFUKg4dZPCEoTBvY41ECKwHXDyk99zEJVy2i9Ae08yaje9hxCyorQgfdOrHcinx+6nkXudOwo/2jfzC9X8Jq1O47bm3T1xKlvpnsu7tWznBwEDdpOsL3dwZ0n7IzJu+7lyG/JHdj9pjbMW/hRy4U7lHRbUjzC4afV3tckvzHpGHo3nAff85WLbqEvEqXd3nPCzb5PYF3ioGirsGuqq22JAKS26sbUKdMuID/4bCagi2Ml7SojrVgWZk1P6qln4bd1jbMrewS6/xWyQsXf1sgdY3EdCoW+dNDViSElUkhZ5sL6he18qqMmxcMT3OPNLggnWNg8AelxKzmeZ+vkgLaLhYlTcVBapv3Er+88m33inODzYPxhuTZvyfFfMh7Z/V+kEoAyGqNBMq1KCQBIutV3wY2WpGzVUAs9XZdF7dA0Uy/L0V+XwzYB0Wfn8gNwoh/E5UZJu2pqAKsbp24mJSpxXAZei2Ws5/r0Lz/l+dEqW76+Ft5LpwR3fF1sHBKJVcN7UexSVwredn2/A==;XeZc4r4MfwOrG/lk0G7vpw=="
 ---

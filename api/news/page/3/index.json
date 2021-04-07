@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-join-aws-at-nvidia-gtc-21-april-1216.md",
+      "title": "Join AWS at NVIDIA GTC 21, April 12–16",
+      "excerpt": "Starting Monday, April 12, 2021, the NVIDIA GPU Technology Conference (GTC) is offering online sessions for you to learn AWS best practices to accomplish your machine learning (ML), virtual workstations, high performance computing (HPC), and Internet of Things (IoT) goals faster and more easily. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-gtc-21-april-12-16/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-aws-at-nvidia-gtc-21-april-12-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T10:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-artificial-intelligence-has-advanced-so-much-it-wrote-this-article.md",
       "title": "Artificial intelligence has advanced so much, it wrote this article",
       "excerpt": "I did not write this article. In fact, it wasn’t written by any person. Every sentence you see after this introduction is the work of OpenAI’s GPT-3, a powerful language-prediction model capable of composing sequences of coherent text. The only thing I ...",
@@ -459,7 +511,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -659,7 +711,7 @@
       "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1091,7 +1143,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1183,49 +1235,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
-      "title": "Ford-backed self-driving startup Argo AI mulling IPO this year",
-      "excerpt": "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/7071414002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7071414002",
-      "publishedDateTime": "2021-04-02T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

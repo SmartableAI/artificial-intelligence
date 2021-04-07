@@ -41,34 +41,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "NY schools facial recognition system sticks around the courts"
-    excerpt: "The New York Civil Liberties Union is fighting a motion to dismiss its challenge to a facial recognition system in a Buffalo-area school district. State education officials had approved the deployment of a $1.4 million Aegis biometric surveillance network ..."
-    publishedDateTime: 2021-04-02T15:55:00Z
-    webUrl: "https://www.biometricupdate.com/202104/ny-schools-facial-recognition-system-sticks-around-the-courts"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/17173501/face-biometrics-privacy-children.jpg"
-        width: 625
-        height: 439
-        isCached: true
-  - title: "Precise Biometrics leverages Innovatrics facial recognition for improved UX: case study"
-    excerpt: "Innovatrics has released a case study showcasing how its SmartFace solution was integrated into Precise Biometrics’ system to come up with a multi-tenant cloud access control and time and attendance platform dubbed Precise YOUNiQ-Access for seamless and ..."
-    publishedDateTime: 2021-04-05T19:15:00Z
-    webUrl: "https://www.biometricupdate.com/202104/precise-biometrics-leverages-innovatrics-facial-recognition-for-improved-ux-case-study"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "5+CcV+iCOCZa0MS3CPCT6omHgrv1K+Jy3HvJqKLO3ppT8x9LcCT/kCOgduYvKRtrlkwAfg9xuC92s6Z+BKlqHA7Y3lbv9MOqlY63Mr+y9UsFpnySj3qc9diJuNqW9CrNJPfqDuRJQLJe8Yw427wyqoRiwaiCEVerO31dDQfE1hOkYoEyrDUwu22t8TIki1Ungkhhfl8NGhD9X1xomKfm4mcJc9UkL9JdVuvkAiI3qoubBhGjPBoTVow9dPiJeTvxWBwIHSh8L4LeXLJ1P3Am35fdAgCELITzIhY2rxVl2sOD+w5YGqAGr4ALf6/FSs0KExyjWqQFF4mK7/gz7j0HaMY3dUPc4m/r5pW61xc9EAonsR09xXAAGLFpUFYgQpuk6Evt57NWG2T+S7SDl94T7DsmzpN45duf4lzjviRsYDdSv25Yrct+CmPuZzvhPzC3r0zGfw4rVdn98cGvUdppKx/8eZo/WRnPXpLRlIEARVr+XOOXT7kMMgLvutOJEXzTlxQZ5PZyktF/9jkbSPu6cA==;ho8mMH3JPWVIkjS+SkC1JQ=="
 ---

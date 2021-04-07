@@ -21,38 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
-    excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
-    publishedDateTime: 2021-04-02T15:03:00Z
-    webUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 80
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Head of Google’s self-driving car spin-off steps down"
-    excerpt: "John Krafcik, chief executive of the Google self-driving spin-off Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
-    publishedDateTime: 2021-04-02T19:45:00Z
-    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Head of Google’s self-driving car project steps down"
     excerpt: "John Krafcik kept Waymo ahead of rivals while sector failed to live up to big promisesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-04-03T06:15:00Z
@@ -62,19 +30,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Apple chief talks of self-driving cars"
-    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
-    publishedDateTime: 2021-04-07T07:38:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+  - title: "CU-ICAR fast tracks self-driving cars with Deep Orange 12 project"
+    excerpt: "But in this race, only a computer is in the driver seat. And the ultimate winner? The autonomous vehicle industry. “Self-driving cars are the next grand challenge in automotive technology, but we’re still a ways away from an autonomous vehicle that can ..."
+    publishedDateTime: 2021-04-06T17:49:00Z
+    webUrl: "https://gsabusiness.com/news/automotive/80307/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
+      name: GSA Business Report
+      domain: gsabusiness.com
     quality: 24
     images:
-      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
-        width: 700
-        height: 471
+      - url: "https://gsabusiness.com/core/files/scbiznews/articles/d34cd8df7c76e53a997027616d1e1b6e.jpg"
+        width: 540
+        height: 286
         isCached: true
 
 secured: "JqwsTAb5bygHAsLmiPX53jP2U3ThcbJwne0/Guy+ocB36F5obj/Z3psyya/0NV7G7nwGjxtLQO7eD9uQVyEgR3wcpdKsA5pF0tVJwvRM9bSnyEMtvgSuVW7ZVaeoY2o8smtBk2zgcFKLC0E7AT9Y0yy43tDai9L0S/i76wIwAQHsOK8wp833rVdbBCQ6HBl1Y4pY0TXKX0CkBrcz/1WcH4Gow8Eyb/1SUOM1Q6TSK+sYgNPH8ZvXxsb1Ozh6ui2PmU8oCICLGJ4NIIyObL2VyVi3Wp4kv5fNyHUZA4kfXzK8aWX/6ZwjzsMWSDW5ste2nzEPu7VdaJ+h8eGahk+QDKzNvRsg7r9AOCreSSLX/A7wtJ/PK+24RrGa2W9vPdRaQYDbU2S1VtP318SI0Y6n2kT9ckxSkLALe7M5B0uzul+Cw9ZyKtRUjVm4BaHaq5lszpRSCzeK2aTRN0AP9RUxFg3UWOYr1VNsdqLPcNIr00N12BMSI2RbnNu2MOaNn7Hk7sSJKyX9z7Ls8yhO4/mdxw==;H5VAKqj5Q7OutzmaoqlSlA=="

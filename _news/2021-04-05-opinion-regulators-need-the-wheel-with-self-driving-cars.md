@@ -35,6 +35,22 @@ related:
         width: 1199
         height: 682
         isCached: true
+  - title: "Head of Google’s self-driving car spin-off steps down"
+    excerpt: "John Krafcik, chief executive of the Google self-driving spin-off Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
+    publishedDateTime: 2021-04-02T19:45:00Z
+    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Apple chief Tim Cook talks of self-driving cars"
     excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
     publishedDateTime: 2021-04-06T01:35:00Z
@@ -94,6 +110,20 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Apple chief talks of self-driving cars"
+    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
+    publishedDateTime: 2021-04-07T07:38:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
+        width: 700
+        height: 471
         isCached: true
   - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
     excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."

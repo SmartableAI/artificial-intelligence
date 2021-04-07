@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Time to regulate AI that interprets human emotions"
-excerpt: "The pandemic is being used as a pretext to push unproven artificial-intelligence tools into workplaces and schools."
+excerpt: "And there is growing scientific concern about the use and misuse of these technologies. Last year, Rosalind Picard, who co-founded an artificial intelligence (AI) start-up called Affectiva in Boston and heads the Affective Computing Research Group at the ..."
 publishedDateTime: 2021-04-06T09:02:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-00868-5"
-webUrl: "https://www.nature.com/articles/d41586-021-00868-5"
+originalUrl: "https://www.nature.com/articles/d41586-021-00868-5?error=cookies_not_supported&code=6b7b9a96-727f-463b-9066-2acac14fe27b"
+webUrl: "https://www.nature.com/articles/d41586-021-00868-5?error=cookies_not_supported&code=6b7b9a96-727f-463b-9066-2acac14fe27b"
 type: article
 quality: 37
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 449
         isCached: true
 
-secured: "XsPg51TjQsgK5U8asnDp20wp2GNaPetiKBhA+PcWe8udSxQVV3c7Zl94nHW+fhasfsgWkOuP1CcdUA8Gx1mV0VrAZ7ERHqvTGMnRTOAAUXDFGM0AVTNo97J+c/VD6133FUJYuf3yGjdl2J7dZfwKNwXJtOy5tT4J0BhxIX7zgrWcXDuqLS2c99PEPDWGe5RcfEyq8N2qKpM507CuUY52lT+9jCk+do2ldGfkHtReerCGXLNDKALlv7qVuaxiTBTh30sO9UxOoTy9rmuU6oAx8WKlkcghkbtOa1Fhi7ML/ccyuZPYWYb7m8VaWvlX6Y/rM+YSxSbTjqS3qikDd28b435vixkdkZTtbCnWeYsuLmI=;hD0+qq+vALl1zE8gwoMbKQ=="
+secured: "U5q7JSWL9B7ozWeRWFOj89+23tThcj76rTxrSMNdDahjFUl1doken8wlYfp0C5bl95YJMNwNbmoVeVkBvImJKBe976y8IH526eoS4/ImSDLnez85vDtNpMmNnxHEP2Y4dxg9I4QDStRzaT5fdj/z2ydbN7HU0525S1V513e1flm+C9eNY492OSyoGyoiQNRTViF+sC8YwgPc6otOTLAUHnuUXHJ+rFv+jk6ScYRzqpHGOzMl0FuRUxtFA3ZZgfGpu4PsYxfi1W8NxzZzlkLOSzoImQGdQD1WrtQ3vGUyOW/jvIQYYzNLak9hGJq6pCisRd2u+mtEoXDXaX7Rx7sr2zuT+bWSKwA//M6DcslCxFw=;/06ng7roY7roVVaRpgkpsg=="
 ---
 

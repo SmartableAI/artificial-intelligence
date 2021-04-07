@@ -41,6 +41,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Silicon Valley Self-Driving Startup Gatik Works With Isuzu To Build Delivery Trucks"
+    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp said they will work together to build autonomous delivery trucks that Gatik will use to serve"
+    publishedDateTime: 2021-04-07T08:31:00Z
+    webUrl: "https://www.esmmagazine.com/uncategorized/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
+    ampWebUrl: "https://www.esmmagazine.com/amp/technology/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
+    cdnAmpWebUrl: "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
+    type: article
+    provider:
+      name: esmmagazine.com
+      domain: esmmagazine.com
+    quality: 38
+    images:
+      - url: "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIxXFxcLzAzXFxcLzI2MTAwODQxXFxcLzEzNzM1OTkyM19tLTEwMjR4Njg0LmpwZ1wiLFwid2lkdGhcIjo0MzcsXCJoZWlnaHRcIjoyNDUsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvd3d3LmVzbW1hZ2F6aW5lLmNvbVxcXC9pXFxcL25vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImExODMyM2EzNDUwYmZhZjAzYmM2NmRmYTY4ZTI5YjY1ODk2ODU3Y2UifQ==/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks.jpg"
+        width: 437
+        height: 245
+        isCached: true
   - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks for North America"
     excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp. on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc. in Arkansas and ..."
     publishedDateTime: 2021-04-06T16:10:00Z

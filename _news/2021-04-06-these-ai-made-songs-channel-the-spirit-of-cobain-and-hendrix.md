@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Computero: Hear How AI Software Wrote a ‘New’ Nirvana Song"
-    excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just finding little moments that are interesting.” O’Connor and ..."
-    publishedDateTime: 2021-04-02T15:42:00Z
-    webUrl: "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "AI Software Has Made A Convincing ‘New’ Nirvana Song Called ‘Drowned In The Sun’"
     excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ..."
     publishedDateTime: 2021-04-05T18:22:00Z

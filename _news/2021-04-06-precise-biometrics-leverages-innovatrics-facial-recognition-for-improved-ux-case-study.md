@@ -25,49 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Army looks to facial recognition access at bases"
-    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
-    publishedDateTime: 2021-04-05T18:08:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
+  - title: "POLITICO AI: Decoded: Queer AI — Oxford on ethics — The people vs. biometrics"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-07T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
+      name: POLITICO
+      domain: politico.eu
+    quality: 71
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
-        width: 800
-        height: 534
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "NY schools facial recognition system sticks around the courts"
-    excerpt: "The New York Civil Liberties Union is fighting a motion to dismiss its challenge to a facial recognition system in a Buffalo-area school district. State education officials had approved the deployment of a $1.4 million Aegis biometric surveillance network ..."
-    publishedDateTime: 2021-04-02T15:55:00Z
-    webUrl: "https://www.biometricupdate.com/202104/ny-schools-facial-recognition-system-sticks-around-the-courts"
+  - title: "Bank Card Test Center launches face biometrics testing for financial services"
+    excerpt: "BCTC can asses facial recognition algorithms for offline payment terminals, systems on Android mobile devices, FIDO biometric identification security components"
+    publishedDateTime: 2021-04-05T20:18:00Z
+    webUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launches-face-biometrics-testing-for-financial-services"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 39
+    quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/17173501/face-biometrics-privacy-children.jpg"
-        width: 625
-        height: 439
-        isCached: true
-  - title: "Army Wants to Automate Base Access With Facial Recognition at Drive-Thru Checkpoints"
-    excerpt: "The proposed system uses a reliable form of facial biometric identification but would need to control for variables like weather and low light."
-    publishedDateTime: 2021-04-02T18:05:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/army-wants-automate-base-access-facial-recognition-drive-thru-checkpoints/173113/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/02/NGface20210402/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "NKs+7h+UGcDeCoQGclQxHOIs1HbeXsGxZzNdHihELWiNimfJYuQIMkpydilG39tjpNVoEvtMq8xY0lIL2GViwpXq9oXL3SGq+b+EI8WvopeTDWKFCQBSvXoQdqk2JoDu48JSOoZ/PoSYDvMpndNP3NScgapDsHcvt+YMOv0e7WgwlAPo2z3qBi+qLARQtj5cCi68PHgUdSYK3bFJA5yDa4LkdVwZsPlQu1lngYtm2PSpNDSXtZRbPfaCzC6mJ9CSIFWbhwW1eK0u11R+i/LysFuegkK88oHZk3G084fmF/dg6lsHFA8QGOigQWySud7d1weNSVNPrjhp0fOWLIXVfdpBlT3RAjfRgTJM0ikXG+f/7E1hgyPzaxRLTCNyQ9S/n1GNRntWsQjROJeEOb7OTbRJGzBASbEuox4elQ+2mTVVuOZgoWDZnhL5DhkKBmixCcr7MPu1oCbXNqAYhg+/I5vkkgIarNgSZDigac17NVVsl1R/vVGQQePdSUmmI15HnxU/A9gBSq+foJ51Vxbskg==;Bh0GAh8slUtbjpqqNcc3Tg=="

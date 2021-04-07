@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
-    excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
-    publishedDateTime: 2021-04-02T15:03:00Z
-    webUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+  - title: "Relishing The Joys Of A Demolition Derby For Self-Driving Cars"
+    excerpt: "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ..."
+    publishedDateTime: 2021-04-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg"
+        width: 1199
+        height: 682
         isCached: true
   - title: "Head of Google’s self-driving car spin-off steps down"
     excerpt: "John Krafcik, chief executive of the Google self-driving spin-off Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
@@ -57,26 +57,95 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Head of Google’s self-driving car project steps down"
-    excerpt: "John Krafcik kept Waymo ahead of rivals while sector failed to live up to big promisesRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-04-03T06:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/head-of-googles-self-driving-car-project-steps-down-9981517"
+  - title: "Apple chief Tim Cook talks of self-driving cars"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
+    publishedDateTime: 2021-04-06T01:35:00Z
+    webUrl: "https://english.alarabiya.net/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "CEO of Google’s self-driving car spinoff steps down from job"
-    excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
-    publishedDateTime: 2021-04-04T04:21:00Z
-    webUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/"
-    ampWebUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
+    images:
+      - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Self-driving cars ideal match for Apple: Tim Cook"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
+    publishedDateTime: 2021-04-06T12:40:00Z
+    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 44
+    images:
+      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
+        width: 747
+        height: 498
+        isCached: true
+  - title: "China's Plus raises more funds for self-driving trucks"
+    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
+    publishedDateTime: 2021-04-06T09:38:00Z
+    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Forgotten Tech — Self Driving Cars"
+    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
+    publishedDateTime: 2021-04-07T02:00:00Z
+    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
+    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
+    publishedDateTime: 2021-04-07T02:29:00Z
+    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
+    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 18
+  - title: "Opinion: Regulators need the wheel with self-driving cars"
+    excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
+    publishedDateTime: 2021-04-05T02:10:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2021/04/05/opinion-regulators-need-wheel-self-driving-cars/4836297001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
+  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
+    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
+    publishedDateTime: 2021-04-06T03:05:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "xuH4nmhv5si8zNA98Iwm2TCbp9i93zcV9jtLIBGqxEmBprh1UA2J1WDetDst+g3a+KlWv4+UmQ8DXNeb5GnMTXBcJWRcfwKCUOQ78bUSBuDdZjw0aJJO7VdJrXKPhje1io2phgqgViqiy6Q5W9OQMzuAjAOcqBizqCRR4ez9i4xzQEO74THlLdwX/3hJdgMg1kPysOY3FRYJGOifkc/ubs9jTPO+0BZZV5zIwOk6djw4/7qdmPQej+vZRhDlVwrOJqngwrpauY5U9wOW93jOrExiWpRtbn8CbH84XzSU3ak/2D/6SOIATHW9nMH5fZsIe4kY2LsjtE/HYOrl85OH9v/rhLKbTaMb+0ekPxy+Uxs=;O5BvSa2KFpquQoOcXRIkiQ=="
 ---

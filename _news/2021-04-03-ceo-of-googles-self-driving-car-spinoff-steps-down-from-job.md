@@ -43,22 +43,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Alphabet Waymo self-driving unit CEO stepping down"
-    excerpt: "The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives."
-    publishedDateTime: 2021-04-02T16:59:00Z
-    webUrl: "https://www.reuters.com/article/us-waymo-ceo-idUSKBN2BP1B5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1B5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1B5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557156136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310ML"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Waymo CEO John Krafcik Is Leaving the Google Self-Driving Affiliate"
     excerpt: "The company said Friday that it is promoting its chief technology and operating officers, Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving cars a reality. They will share the title of co-chief executive. After a long ..."
     publishedDateTime: 2021-04-02T19:09:00Z
@@ -106,22 +90,6 @@ related:
       - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
         width: 644
         height: 362
-        isCached: true
-  - title: "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant"
-    excerpt: "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives."
-    publishedDateTime: 2021-04-02T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F956116944%2F0x0.jpg"
-        width: 1200
-        height: 846
         isCached: true
   - title: "Alphabet Waymo self-driving unit CEO stepping down"
     excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."

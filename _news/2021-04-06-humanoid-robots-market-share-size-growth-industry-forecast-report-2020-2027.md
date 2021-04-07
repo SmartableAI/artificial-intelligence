@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-04-07T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-trends-companies-driver-segmentation-forecast-to-2026-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
     excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
     publishedDateTime: 2021-04-05T08:45:00Z
@@ -91,6 +105,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
+    publishedDateTime: 2021-04-07T09:55:00Z
+    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
     excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
     publishedDateTime: 2021-04-05T07:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launc
 webUrl: "https://www.biometricupdate.com/202104/bank-card-test-center-launches-face-biometrics-testing-for-financial-services"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
-    excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
-    publishedDateTime: 2021-04-06T22:52:00Z
-    webUrl: "https://www.biometricupdate.com/202104/oz-forensics-face-biometric-liveness-detection-chosen-by-sberbank-kazakhstan"
+  - title: "POLITICO AI: Decoded: Queer AI — Oxford on ethics — The people vs. biometrics"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-07T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
+      name: POLITICO
+      domain: politico.eu
+    quality: 71
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
-    excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
-    publishedDateTime: 2021-04-06T20:57:00Z
-    webUrl: "https://www.biometricupdate.com/202104/india-to-launch-face-biometrics-for-vaccinations-digital-health-passes-as-trials-and-plans-expand"
+  - title: "Precise Biometrics leverages Innovatrics facial recognition for improved UX: case study"
+    excerpt: "Innovatrics has released a case study showcasing how its SmartFace solution was integrated into Precise Biometrics’ system to come up with a multi-tenant cloud access control and time and attendance platform dubbed Precise YOUNiQ-Access for seamless and ..."
+    publishedDateTime: 2021-04-05T19:15:00Z
+    webUrl: "https://www.biometricupdate.com/202104/precise-biometrics-leverages-innovatrics-facial-recognition-for-improved-ux-case-study"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 10
+    quality: 31
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/09113822/biometrics-phone-mask-airport.jpg"
-        width: 507
-        height: 380
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
 secured: "SJUpGnALNGFTs1Iu3JMiOWzkILk/TQQ27avRqOkwJSozALhk1Ku59hEbNKNZ1+csTurqTTzC//koeo3drPEwgSejF4zLKMX9F3OBVguiOiH2Y/4X190XsPt0J+9kV3rZ1j787zOFxawTrAjbTlB/fxet1KzeEf9I4PDfxm8fzglYUMwUaHIiQ2ri0gr4nv1wCrpF0w5LSYjtFtT1r2hM/23yEgpbMzh8eJADwvtQ/o0n3rWoRjuyR98CGibWTECXnQ4CGSO8K/Pfz1q4tfVAJSYkkejteipghPTBnzKyNjCrbF/UegK6lyrGkpieNsk+uF2SkbeOK3A4v2+VTKn7N8l1d4RVd5MUyQ3ZRqZ3EGU=;Fdmbc3Ob3yddEU8Hnu830g=="

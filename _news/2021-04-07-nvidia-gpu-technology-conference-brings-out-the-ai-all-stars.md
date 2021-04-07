@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "All Things AI and Beyond Featured at the Linley Spring Processor Conference"
+    excerpt: "\"AI has generated an explosion of silicon-architecture diversity ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication."
+    publishedDateTime: 2021-04-06T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005048/en/All-Things-AI-and-Beyond-Featured-at-the-Linley-Spring-Processor-Conference"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "06cEZH1Vx65Bi+Ekr7i7thxLU5MzfF4F1HnirNJ/T1vBSQ0iGHqyUB6v51KgJ3QFl0z3NLGekaF/POkPK78W4FAuoG8MM8nmsjRtepw57cFu+gwDrcrVCUal3MQiBnPHJkYz0dN07E0LgCJ4KamijGjlXDkn5Q/9Lj7HqxvPknZXZ6YZt61WcU1cGCkOeNLwq1RpM0G/ogb7nmXKqtAfI/Fo/uAE0gCcvlH2u4uYa+B41zBbAvWcfK0wxFzuj3VEhX5vM92xHgAnVQh3ch8xvmSt4K3dtouvyOcYWSpQGtMFjyqW0/FKy5MR/Om2iSdX+9HNdcY2tJO5A/n5JcdY+E9w2VX0T6qbXlt74LeTl6S36ws26eXhaFiHv2ZKM7oYMpye7xVv1CSfofs8TjmQ3vdSIdscCgRALDhUxOt1ollXU4AMueJx3UydaFwxSsd0+V5LoIfQNq7+gBbBLmuXxABz/xYOVtPUO+P17qHpEAJfQbkmkFQmLY/khOtCHhsD80iQZNmJA1867b5WZaobfA==;GQ9nLnpRJkNY2Ju11T2M/A=="
 ---

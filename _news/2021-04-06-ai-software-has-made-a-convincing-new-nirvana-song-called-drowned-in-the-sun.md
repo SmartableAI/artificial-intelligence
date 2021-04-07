@@ -40,22 +40,6 @@ related:
         width: 796
         height: 420
         isCached: true
-  - title: "In Computero: Hear How AI Software Wrote a ‘New’ Nirvana Song"
-    excerpt: "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just finding little moments that are interesting.” O’Connor and ..."
-    publishedDateTime: 2021-04-02T15:42:00Z
-    webUrl: "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2021/03/kurt-cobAIn-nirvAIna1.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "7IyDH7AjtJ/OTkZuTptSX5Qe7dWOhWosfNAOVQsv0Ga5lSRqCOTabumSSYxiix5LxRZjL3/lFVIc8sROm8NHSMUB/C+x8KbaS3j+5zp3IntwSJrsQvpe3JRfrkF1Lw1M8pyrpICzscmUc08ZLbEbs3oeO6UUdvVi+4UwJLaKrKcU0m+DbACoDmamYgCPSRIHVdN3SiYjEeb8pHVAniYghAr8j8vQ8YfGf3rVuLxDs69o6c5ouKmqa1+lzt1svt8ChlDbAjSn0Lppr2uzYluCxYRub/QvVia5nGhvt68Ir0ck/cZZ5nhCkWwLRVOHJ3vGO7md1gNHpdEszzYLgm1BfBTs2vNpVmfIEvxQY/tIYbz/keyv6Eu0GZQ5Leso02FAtTzV9E+8d2b2UbScXlAJ6jR6/Avo7mLf70KmaUsXmoxBAqGSwMwIdsEXtmZ2Q+zwgFmfHfBPA3tnc3ZXccw+yHNM5gM/BCg+a/nrAeweXmLNJt+Lo9ZFdvi83Pt/TPMkwHWTbONMV2eF1wCPWbwMaA==;KtSOq/m9zxIKV41305jdzg=="
 ---

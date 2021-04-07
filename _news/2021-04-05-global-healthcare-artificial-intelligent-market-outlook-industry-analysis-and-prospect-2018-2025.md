@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-04-07T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-trends-companies-driver-segmentation-forecast-to-2026-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025"
     excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
     publishedDateTime: 2021-04-05T11:20:00Z
@@ -85,6 +99,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
+    publishedDateTime: 2021-04-07T09:55:00Z
+    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
     excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
     publishedDateTime: 2021-04-06T11:38:00Z

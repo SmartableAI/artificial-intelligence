@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/why-machine-learning
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/"
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Am I arguing with a machine? AI debaters highlight need for transparency"
+    excerpt: "Can a machine powered by artificial intelligence (AI) successfully persuade an audience in debate with a human? Researchers at IBM Research in Haifa, Israel, think so. The IBM AI system is called Project Debater. The debate format consisted of a 4-minute ..."
+    publishedDateTime: 2021-04-07T09:38:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00867-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 40
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00867-6/d41586-021-00867-6_19038744.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "7SLa8I1KTBe9XdjlSSFOMQgrc92e7X/dyiWj2gGpXxLrPfX6Z8UAt1QIc+CeEzC/a1kiWNBA4Q1YP397oRxAqLPy4hVbOavPwuNkJNdHoxKI7DS8jimAJejtu4MW+1QpzBBFJm1odaVLO9Mq4EVu066fosUX+wujz6wf35sWaBiNvAikKg84ar9L3rm5OL104h3E6YDv5+agGW7TIjFZwbeonMnhVIJwtyDh0AFR3NdRgOWK7rfXbdvjGYZWoUIZ7sHvwIvDYTTY7Q8vsJlOd+N2WCzuvxcOiYhfUFny6/Ez7AP0diuhUXOvEOl0bS2+p/qzVCz0Ej8/o4+rFHemQPQ+MQHxh9LC3rNjY3ojTj2VWyoh1EFEb9lZsY4Ga40w6S+UnyBXdWUnEJZeEATRpkLOII6Yh9SxiwwrvmZ06XN1LmrCNsMhmxBGjZz3IAK+k3Ef1h07/alH2V9T3A611atlNRdNxDtyi27E8/L5B/HQH+uJ/oLdYlVBOTAZ55TFcbg2jGylzgfzhUXR2RPI0Q==;lDQIIRyRsN3rO5nTSyd4yA=="
 ---
