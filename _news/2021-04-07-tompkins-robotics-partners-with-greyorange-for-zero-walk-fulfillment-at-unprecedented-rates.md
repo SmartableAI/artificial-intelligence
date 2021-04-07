@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tompkins Robotics Partners with GreyOrange for “Zero Walk” Fulfillment at Unprecedented Rates"
-excerpt: "About GreyOrange GreyOrange is a global company delivering an advanced software and robotics platform that unifies artificial intelligence, machine learning and Maximum-Life™ robotics design to optimize supply chains and warehouse operations in real time."
+excerpt: "New joint offering dramatically increases ecommerce order fulfillment rates across a broad assortment of SKUs, creating a scalable, end-to-end automated takeaway solution"
 publishedDateTime: 2021-04-07T15:33:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/04/07/tompkins-robotics-partners-with-greyorange-for-zero-walk-fulfillment-at-unprecedented-rates/16628/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/04/07/tompkins-robotics-partners-with-greyorange-for-zero-walk-fulfillment-at-unprecedented-rates/16628/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16628"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16628"
 type: article
 quality: 23
 heat: 23
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "OVsWc3UXRtd3iHtX2sBrHspbFWX44pbsPI7UzekrqO3Y7WaAfITZi0gPUg6vwbzFm0WcVlvJYi5BEv+vFSw3/tRI6lBQUXvu5qSW+t9pfDNGCm99tSLx3a243RWBJkojFkCWfXdicPF6otKPW3utY3FdXUWvg1tMG4ZCRCxkLH0bTJyN9ydHF8Eg4QVUSPMG5dd6WLvloggAPmFXFKcY6lbR6BPdgXTQmK4G7m4FNKfm1WEkeQlaIQEpaCpRWzHCbf9ZD7ne5jmk4PO4UuBJEAQ1Vkhsge6XELpwqKCgGl41m8c3gwZ265UYsE8Eje6bGx3CF6Tgeps+dIMighWRKppOry4iqGAVm4sXFvMvr2s=;iD+8czL7Oc9t/+YOrIz7oA=="
+secured: "PrYfxO4MZv6RW8+Jj3b5nxWAE1VkIf8wCDTMY5yLopDxlK5YJlYRXJjpf9HoZjpZwcqZRVaBYcLLMQFQ6lZifmb4WrkcjTZSsggO5/Gv0lsVnUSqeKyRtZP8ZPT3ALUBKW/ZmC1iqMC/6rwTu4gqty5JpP41fM9DxFc0uN5xmUg4LGC7UX3hTXG0xmI7hmwJtGGXrlP/Ob+bViH60vuM/giO7OihunL8ZPDPYY1zMMbEAtZvooYXoOLE6kH72YaTUdgZSumLrvdtUy96WRjOnmUKhfMqfXNa4nrTefWIbEnofWH/hXXRntS8sjLBoNnyomchFx28EvQ6BQskaZj7EgPU2QOMJXe9znRkKTiWqQA=;MdDK8BVtTWXCdxPCGs3Mfg=="
 ---
 

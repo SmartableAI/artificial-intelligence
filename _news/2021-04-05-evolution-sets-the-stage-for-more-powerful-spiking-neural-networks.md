@@ -24,17 +24,6 @@ images:
     height: 405
     isCached: true
 
-related:
-  - title: "Evolution Sets the Stage for More Powerful Spiking Neural Networks"
-    excerpt: "Spiking neural networks (SNNs) are a type of artificial neural network that most closely replicates the structure of the human brain. This makes SNNs an important step on the road to developing artificial intelligence. Researchers recently advanced a key ..."
-    publishedDateTime: 2021-04-02T23:21:00Z
-    webUrl: "https://www.energy.gov/science/ascr/articles/evolution-sets-stage-more-powerful-spiking-neural-networks"
-    type: article
-    provider:
-      name: Energy Department
-      domain: energy.gov
-    quality: 19
-
 secured: "eucYNKo8+jvDJ/l0N0hA3wYeAh8zGMvn2MMKp/Bj+pTEPNtLmYd8+/Q+UsU7C8mklOp9KjTe/zCBNEQdJiVMjk2anagfa5mUUBmo0rl5LEw0iwg7z7uXn7N9l/B5BP6k6U2BfS4/f0Jgm24BcCqaSrTlJfo7nAVsHVfEUj+YE+KZUdplBJriDl7ogCalG8TATdcJF3kL+nAM18grJYC7U/kqRRZENsMhsnsN0dBksfm+qxQmlS6Rryf/C2avy/dhS/W+NAAmqydjUzJ/WRdvInaXXfjlZLEeNX+Y7U9Nblsglq0l+sAUHkL+rTLsa3+95IbZdepDTWkCUglzGYuYHfYMEiiaeisTbR+cXEHVbr/h2PBLZWbmCqapC+znQcsAQ4BlwWlpmQhnMXe/jU1ZO/hDgo5bkTQn8vY21mRafEcpOZhg/l4WNsnTFg5SkbOTagM9VI8BduhHTrD4lOK3SlA+57L1k0zoauG6rmIn9HByBCNMBThriM6K8u0cedi26482oNjMcW6UVwExW3vp1w==;NofGhXJOZ9Uep5UFaBY6Ow=="
 ---
 

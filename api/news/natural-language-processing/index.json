@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
+      "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
+      "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d8f5f33b81da20078e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "publishedDateTime": "2021-04-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
       "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
       "excerpt": "An Envise blade includes 16 Envise chips in a 4U server configuration that uses a miserly ... And, of course, enables continued growth in our use of AI and machine learning.",
@@ -638,10 +690,10 @@
     {
       "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
       "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "Funds raised will be used to develop Uniphore’s technology in AI, automation, and machine learning across the enterprise.",
+      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
+      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
+      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -651,7 +703,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T05:32:00-07:00",
+      "publishedDateTime": "2021-03-31T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Techinasia",
@@ -1342,59 +1394,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
-      "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
-      "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T08:04:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

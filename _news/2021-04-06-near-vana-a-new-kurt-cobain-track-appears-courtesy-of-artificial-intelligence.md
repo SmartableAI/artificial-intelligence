@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence studied Kurt Cobain to create a ‘new’ Nirvana song, and it… kinda rocks"
+    excerpt: "But in 2021, we actually have a “new” Nirvana song — thanks to artificial intelligence and a pitch perfect assist from a cover band leading man. As part of the Lost Tapes of the 27 Club, a project that is using artificial intelligence to create new ..."
+    publishedDateTime: 2021-04-07T16:45:00Z
+    webUrl: "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song"
+    ampWebUrl: "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 60
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/04/getty-images-kurt-cobain.jpg?offset-x=0&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Google’s Magenta AI was used to write a “new” Nirvana song 30 years later"
     excerpt: "This was created as part of a bigger project highlighting mental health and musicians who died at the age of 27."
     publishedDateTime: 2021-04-05T18:03:00Z

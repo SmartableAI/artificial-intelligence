@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-which-cars-have-self-driving-features-for-2021.md",
+      "title": "Which Cars Have Self-Driving Features for 2021?",
+      "excerpt": "As it turns out, making the final leap to full autonomy — self-driving on any road at any time — remains tantalizingly out of reach both for engineers and safety regulators. And despite all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "originalUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "cdnAmpWebUrl": "https://www-cars-com.cdn.ampproject.org/c/s/www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "publishedDateTime": "2021-03-24T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cars.com",
+        "domain": "cars.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up.md",
       "title": "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up",
       "excerpt": "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system.",
@@ -1368,58 +1402,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cruise-purchases-self-driving-shuttle-service-voyage.md",
-      "title": "Cruise purchases self-driving shuttle service Voyage",
-      "excerpt": "Voyage has been offering its service to customers in retirement communities in California and Florida. Cruise, the GM-backed autonomous vehicle development company, has acquired another self-driving vehicle company called Voyage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "publishedDateTime": "2021-03-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

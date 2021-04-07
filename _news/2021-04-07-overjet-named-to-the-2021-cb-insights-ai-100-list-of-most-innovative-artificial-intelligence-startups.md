@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "CB Insights Again Names AI.Reverie a Top 100 AI Startup"
+    excerpt: "CB Insights today named AI.Reverie, the leading synthetic data platform, to its annual AI 100 ranking of the most promising private artificial intelligence companies in the world for the second time."
+    publishedDateTime: 2021-04-07T17:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cb-insights-again-names-ai-reverie-a-top-100-ai-startup-1030282615"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Theator Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "NEW YORK, April 7, 2021 /PRNewswire/ -- CB Insights today named Theator to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... and other stakeholders in the healthcare ecosystem with actionable value ..."
     publishedDateTime: 2021-04-07T13:30:00Z

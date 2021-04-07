@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
+      "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
+      "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d8f5f33b81da20078e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "publishedDateTime": "2021-04-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-save-the-date-for-the-aws-machine-learning-summit-june-2-2021.md",
+      "title": "Save the date for the AWS Machine Learning Summit: June 2, 2021",
+      "excerpt": "On June 2, 2021, don’t miss the opportunity to hear from some of the brightest minds in machine learning (ML) at the free virtual AWS Machine Learning Summit. Machine learning is one of the most disruptive technologies we will encounter in our generation. It’s improving customer experience, creating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/2021_ML_Summit_Blog_800x400_V2-1.png",
+          "width": 801,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:11:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-doctorate-programme-prepares-leaders-for-a-fintech-future.md",
+      "title": "Doctorate programme prepares leaders for a FinTech future",
+      "excerpt": "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/04/07/campus_0089_1.jpg?itok=VeyU3Y8V",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
+      "title": "Streamlit nabs $35M Series B to expand machine learning platform",
+      "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open source ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
       "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
       "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
@@ -98,6 +307,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
+      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
+      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
+          "width": 3500,
+          "height": 2505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "publishedDateTime": "2021-04-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai.md",
       "title": "There’s a ‘New’ Nirvana Song Out, and It Was Written By Google’s AI",
       "excerpt": "The neural network found patterns in components of each song, like vocal melody or rhythm guitar, then used those patterns to predict what would come next.",
@@ -149,7 +410,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030281693",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -287,7 +548,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -966,249 +1227,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-altopack-and-halodi-robotics-to-develop-packaging-robot.md",
-      "title": "Altopack and Halodi Robotics to Develop Packaging Robot",
-      "excerpt": "Norwegian robot developer Halodi Robotics has entered into a partnership with the Italian packaging company Altopack to co-develop Altopack Packaging Robot. The humanoid robot will be",
-      "sourceUrl": null,
-      "webUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/",
-      "originalUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/04/2020_12_11-Piras_Eve_Vezzani-in-Altopack-892x1024.jpg",
-          "width": 892,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/amp/",
-      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/amp/",
-      "publishedDateTime": "2021-04-06T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "foodindustryexecutive",
-        "domain": "foodindustryexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-how-digital-transformation-is-helping-you-pay-your-mortgage.md",
-      "title": "How Digital Transformation Is Helping You Pay Your Mortgage",
-      "excerpt": "Utilizing artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) on the petabytes of data created with each customer touchpoint through various channels, be it the mobile application, written correspondence, website ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d02416c91f5c406a44d7a%2F0x0.jpg",
-          "width": 526,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
-      "publishedDateTime": "2021-04-06T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-artificial-intelligence-bridges-education-gap.md",
-      "title": "Artificial Intelligence Bridges Education Gap",
-      "excerpt": "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
-      "originalUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
-      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
-      "publishedDateTime": "2021-04-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
-      "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
-      "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e8e74c42155d05d289032%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D1230%26cropY1%3D18%26cropY2%3D689",
-          "width": 1191,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "publishedDateTime": "2021-04-06T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-google-ai-manager-resigns-following-controversial-firings-of-two-top-researchers.md",
-      "title": "Google AI manager resigns following controversial firings of two top researchers",
-      "excerpt": "In a statement on Facebook in the wake of the firing, Bengio said he was “stunned” by what happened to Gebru. After Gebru’s departure, Google reorganized its research department, slotting the ethical AI team under Marian Croak, a leader in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
-      "originalUrl": "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tZhVSfs38URjRdnbNHF3uhf7Yig=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
-      "publishedDateTime": "2021-04-06T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

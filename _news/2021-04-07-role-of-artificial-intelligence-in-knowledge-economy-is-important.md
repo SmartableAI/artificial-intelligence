@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-07T14:46:00Z
 originalUrl: "https://www.app.com.pk/national/role-of-artificial-intelligence-in-knowledge-economy-is-important/"
 webUrl: "https://www.app.com.pk/national/role-of-artificial-intelligence-in-knowledge-economy-is-important/"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://i0.wp.com/www.app.com.pk/wp-content/uploads/2020/08/Fawad-Chaudhry-5.jpg?fit=600%2C399&#038;ssl=1"
@@ -24,6 +26,6 @@ images:
     height: 399
     isCached: true
 
-secured: "Qb8ylql2FVy/T5HEd6zfzKYNftL/ocqEwV5JcdgsA1mhdLOf+NrzaWQ2ktQEO+iofCrvV/BRKYjoA8Vm07ajFyYHL8uyzGP8AVD9emckCnCze0HqYcrb7HpIUHiwM3j+XoWwxjRDWFPfmkL1w4Aqo9BbO8zbkbC/8LhOpxIv5tHSMWALPfooJ38cP1/6prpKsXhEjhIBj6qXMGnz5FebO8/IaP3Qw33x0MzUTse3cr1rYdpTEQbSegpdZT551Je06HuPKfw36WQ71OvbOiIvw4hUMqY7nkbE8qdmTa4SsY1w5gOdxdfin3LPN8kduM3IKJC6wgP0o7HAc5Wivj2TIoAVteuPdrtLqMxJ3vxAhew=;nlIXNrVoDxobZE2Py2PY1A=="
+secured: "iXNsjLUusV/7f+PgUT000F5B0ux8jYnJfSAeEPuDqo3hEnlKzFNGbcayi7ae7RZ+mmkANBpqLQrIK54JjsUV+Aa5VGyuw0N0lyEd+t9neu9H8WZS3EPVHLL+5wQ2j6rW9hi740Eb+FRGIG3H9LYJoiF2EBUw9zvo06XZIXtwMa2xW/i7R1Bjx9f1paU9UhwsqqrsZE7zbv9ynCryX420B8Sr48kMJcOmdZEIuj4caRvm2PsOVQ29JYb1is1Sd9IRM4dG7AJg56ZJ+gctRhMwgGmKIHBWjH1zpBvbhzLygtGt3wPslkQVFVgIdWUbn2DKg8B3iQ8KEb1EtTYE/loB9hlX2Xhq/NqlYm/3MZdq/+KPOiqAe50+18Pj/XFm5X5Y/Y4StMC4NimIgiYZf+T97p47z+mxjCUYcbM+oKKLV3YdiPDh2gRag/1mpCw4Rd9DtsXpez3bom6Qn8nI4RYscYptTmX8Zj/MUY+NUXxhKF0oLyft8ihzZOmwYORmoGviSZZfv0M+h8R2lBWc0reSGQ==;8yWou6tebRUbbD76cgEO6Q=="
 ---
 

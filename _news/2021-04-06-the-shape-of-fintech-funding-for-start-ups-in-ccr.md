@@ -19,21 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "Narrowing The Focus Of B2B FinTech To Support The Strategic Role Of The CFO"
-    excerpt: "Born capital discusses why the B2B FinTech niche of CFOTech is key to supporting innovations that fuel the CFO's strategic role within the enterprise."
-    publishedDateTime: 2021-04-07T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/born-capital-cfotech-fintech/amp/"
+  - title: "Doctorate programme prepares leaders for a FinTech future"
+    excerpt: "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ..."
+    publishedDateTime: 2021-04-07T16:00:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 54
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/CFOs-survey-economy-pandemic-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/04/07/campus_0089_1.jpg?itok=VeyU3Y8V"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. Fintech Obligo Announces Lease Renewal Incentive Program"
+    excerpt: "Obligo, a U.S.-based fintech startup that’s focused on the real estate market, announced on Wednesday has launched a lease renewal incentive program, which is designed for residential landlords to increase retention rates,"
+    publishedDateTime: 2021-04-07T15:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/04/San-Francisco-Home-Houses-3-600x476.jpeg"
+        width: 600
+        height: 476
+        isCached: true
+  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
+    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
+    publishedDateTime: 2021-04-07T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
+    excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
+    publishedDateTime: 2021-04-06T01:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat-600x442.jpeg"
+        width: 600
+        height: 442
+        isCached: true
+  - title: "Angel Broking rides Fintech wave to record 127 pc growth"
+    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
+    publishedDateTime: 2021-04-07T12:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "China dives into FinTech & UK eyes vaccine passports"
+    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
+    publishedDateTime: 2021-04-07T07:01:00Z
+    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 24
+    images:
+      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "QauJrw55RqBC3ZqbKqvcsB0PMaIy7/ZVl3rHkLphFNJ7IRsddSEMUua315vLOF0vSRgjT2bEOmpWS/yj91cZuqq+A9opaTmimaEDCo8mgfjXDdRW2LczgaUvntwyFTDGfvDB8Uw37/8gfGisPSlugZ5bYL9QKVP7NtotlqEdxL00FVFjBuYnigx11lRjrqytKYL2yxJi10FuFQBUD9lVwpZFrFBQfqED4b+y0k62TkhlbnvkKs79QaiVwSJDZGd6m1wviDBNfjmKwPSENOSbq9m4rtSlq4jlHkkk52XN1cuuaBLCPuATPlIVOdziC40f5ZadOpuZIlj203/4cyXsywJ6mqnLxnChMzR+Ua7ni5QfIBBAlgLvC7kjKJuHmxcDH+QapXCuh7n3lzLlzo0BK23ztJ3YrZ5PJRhBW0TitiZ06HOTpaIhQxi+OWhdiqmbUOot27Li9bqYAVPpYx6vBYg5iFg2kV1YlV18OpHxXm0GnZC5To4aW/e5MGmvJ3iN1UH4REnRO0c66wlzrhqnxQ==;KWsinBpF/fLUiDyl9abG7g=="

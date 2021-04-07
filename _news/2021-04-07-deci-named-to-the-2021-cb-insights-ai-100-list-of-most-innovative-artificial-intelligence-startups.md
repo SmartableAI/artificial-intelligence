@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-
 webUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030281693"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "CB Insights Again Names AI.Reverie a Top 100 AI Startup"
+    excerpt: "CB Insights today named AI.Reverie, the leading synthetic data platform, to its annual AI 100 ranking of the most promising private artificial intelligence companies in the world for the second time."
+    publishedDateTime: 2021-04-07T17:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cb-insights-again-names-ai-reverie-a-top-100-ai-startup-1030282615"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Overjet to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private"
     publishedDateTime: 2021-04-07T13:43:00Z

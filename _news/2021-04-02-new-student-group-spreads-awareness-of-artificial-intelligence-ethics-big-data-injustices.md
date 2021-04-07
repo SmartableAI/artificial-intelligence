@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dailynorthwestern.com/wp-content/uploads/2021/04/3_31.png"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "TANZ7cxjqlYP5XF9fpgeBqb8fPgfLptjrAlNrAqGjVwssNxYvRDo3t6EbPQBS+BnViSkLYfrEXkb7bpRqqHKfQAjEv5puplNqOZuz4i0aQG8+fT2nPrPYF5siqgUpj6+a4F7Vw+HLh3Mg/0CfEulGb2rP234H09F7/D1baRVe2QWryfGHtEUzYLY9Ym3MaJlfgeAZU2frn0vdw2Xk5tQYdIb9nqqOpLQ6erixLXaOIhTJvuTU1fsRQe7n1x3FidSPEOGY2YFdSf7Z6qRqXB3fGWD6Mye0lmSpX1oRzfiKUd3gUt0H7jI7nG13ZG/Vx70TBxRkykOeZ5u1mopWzKWo8VKRg5hChnusnwBUmiqIx0=;mrb08FOJCush94kYU2nLVg=="
+secured: "iAyv9IJaSf6ZAA7lz7PzTycGZnQ/b5t+VR1BpF9yyEG/eSMC2OamfiGysresicyhsWlaUKVi8nlzjSu+qpZG692FHHs7GqacQEcy7S2MtVUWWFZ8vS7WWIIOMoNBZfMJKy5fn48ovwqZ3NjeyYcJhq3QodqhmaI5a0/Z3VD+AAyAxFtgXSK4YgoMEBkWc6N+W0PKUvANSlbjUMIkT+oHjyQmLPvIUYjPq2nnQbIfHegCyT7prCKaTUv2/ot5MRTSV8N3glsm7T+f9ggWPUJst9CfurAxPiXARWDsNy0qEMinT+bmiai6XntaFkzpmVq2pYSh9Ju8BA/DxXUW3eyTD2EyMOlu95cieJDVVbBSSP2NsFm3qactnv7rwUN3je1Il352ichWEq9Pt0nPzO5bbJReSxXtAHLcNNfgmUhKo0zorK5SvKk1d7zZzEE9C0QSThhfKtjCt9U6uqCd65QXMzJSuj0h/XZkHnHTKT3eYiUBQzJO3Rxp7tUwksML8s/m5h6gyWI6QTMw0ApyyCkY0A==;lOCW87i7fMrseL/rzxKiFQ=="
 ---
 

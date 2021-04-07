@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google AI scientist Bengio resigns after colleagues' firings: email"
+    excerpt: "(Reuters) - Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices."
+    publishedDateTime: 2021-04-07T02:27:00Z
+    webUrl: "https://www.reuters.com/article/alphabet-google-research-bengio-idUSL4N2LZ3HK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Google AI manager resigns following controversial firings of two top researchers"
     excerpt: "In a statement on Facebook in the wake of the firing, Bengio said he was “stunned” by what happened to Gebru. After Gebru’s departure, Google reorganized its research department, slotting the ethical AI team under Marian Croak, a leader in the ..."
     publishedDateTime: 2021-04-06T19:41:00Z
@@ -218,6 +234,22 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Another Google AI scientist has resigned following colleagues’ high-profile ousters"
+    excerpt: "Her former co-lead on the ethical AI team, Mitchell, was fired in February after she used ... “These red flags suggest the potential for culture, ethics, and/or human rights problems internally,” it added. Trillium is calling on Google to implement ..."
+    publishedDateTime: 2021-04-07T15:38:00Z
+    webUrl: "https://www.dailydot.com/debug/google-scientist-resigns-controversial-firings/"
+    ampWebUrl: "https://www.dailydot.com/debug/google-scientist-resigns-controversial-firings/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/google-scientist-resigns-controversial-firings/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 53
+    images:
+      - url: "https://uploads.dailydot.com/2021/04/google-scaled.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2560
+        height: 1268
+        isCached: true
   - title: "Google AI chief Samy Bengio resigns over colleagues' firing and racial discrimination"
     excerpt: "And in one swoop, just like that, gone. Bengio's resignation has come a few months after Margaret Mitchell, a lead artificial intelligence ethics researcher, took to Twitter to announce the termination of her employment with Google. I'm fired."
     publishedDateTime: 2021-04-07T06:31:00Z
@@ -233,29 +265,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/02/02/180895-untitled-design-2.jpg?itok=njAPhBlB"
         width: 918
         height: 506
-        isCached: true
-  - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
-    excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
-    publishedDateTime: 2021-04-06T21:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/revered-ai-researcher-samy-benagio-quits-google-brain-2021-04-06"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Google AI research manager quits after two ousted from group"
-    excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
-    publishedDateTime: 2021-04-07T04:46:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/07/google-ai-research-manager-quits-after-two-ousted-from-group"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/07/1104373.jpg"
-        width: 1240
-        height: 827
         isCached: true
   - title: "Another Google AI boffin quits"
     excerpt: "Artificially the most intelligent thing to do  Google research manager Samy Bengio has quit the search engine outfit over the firings of his colleagues who questioned paper review and diversity practices."
