@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-2
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+        isCached: true
+  - title: "Report finds NC police use facial recognition tool"
+    excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
+    publishedDateTime: 2021-04-06T22:19:00Z
+    webUrl: "https://www.wral.com/report-finds-nc-police-use-facial-recognition-tool/19613502/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 39
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2021/04/06/19613503/117438-surveillance-DMID1-5qftv183m-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "1ArYbgfwL3vSvE6FPQoKbW91BsqvsGvhEEA8fTn3/jZARbjyKb5uFJmfSrpwiTVocW74Aep1KilKF9mPtc8HFvcGeHhFHfzpgpmB8nEueF8wAxMUF0agIS+je5WEc80z0xOHHrYnUPX9V8jXGXhNmxO0OqzfgZj5xR7gCfl5v7wt/zopd6tdS8MEC1HD+dM86y1r9I3lhNOHe5ci/+ZD8cSaxzY6Ssze1boNRMmgkiD/TLVFjrJaFod3kSuWicKFznkNEIpIBJ8dBA/W4WuXrsA7YB2MG2tTHXIpqUJgT+JupO6994mwwSEsgfHKiHIeLH7P03QCebsYuoiZIglsRSU7vhSQa9XsRQdOPOZsu/I=;y5p6LBVyM0oXPst+6ayxQg=="

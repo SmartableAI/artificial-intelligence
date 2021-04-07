@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
+    excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
+    publishedDateTime: 2021-04-06T22:52:00Z
+    webUrl: "https://www.biometricupdate.com/202104/oz-forensics-face-biometric-liveness-detection-chosen-by-sberbank-kazakhstan"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
     excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
     publishedDateTime: 2021-04-06T20:57:00Z

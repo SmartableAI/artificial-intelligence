@@ -45,21 +45,16 @@ related:
         height: 933
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-    excerpt: "Bengio had defended the pair, who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed from the company without his being ..."
-    publishedDateTime: 2021-04-06T17:31:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+    excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
+    publishedDateTime: 2021-04-06T18:31:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
-        width: 811
-        height: 545
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
     excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
     publishedDateTime: 2021-04-06T21:12:00Z

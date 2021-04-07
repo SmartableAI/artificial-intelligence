@@ -6,9 +6,9 @@ publishedDateTime: 2021-04-05T22:32:00Z
 originalUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/"
 webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: United States Navy
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG"

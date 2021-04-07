@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vysioneer
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vysioneer-receives-fda-clearance-on-first-ever-tumor-auto-contouring-solution-for-radiation-therapy/article_5e4e90c0-7b3e-5e6d-a592-32afce925857.html"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1115
     height: 630
     isCached: true
+
+related:
+  - title: "FDA gives green light to Vysioneer’s brain tumor autocontouring tool"
+    excerpt: "Vysioneer Inc. has won the FDA’s nod for its Vbrain artificial intelligence (AI)-powered tumor autocontouring software. The company said Vbrain is the first AI device to receive FDA clearance for tumor autocontouring in radiation therapy. Vbrain is a ..."
+    publishedDateTime: 2021-04-06T22:37:00Z
+    webUrl: "https://www.bioworld.com/articles/505594-fda-gives-green-light-to-vysioneers-brain-tumor-autocontouring-tool"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/BMT-source/2021/04-06-Vysioneer-Vbrain.png?height=635&t=1617742809&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "XDmoCA5uwFH9kXeJcsZVIyqypu1yPZgRExTZ1gnScaAiWUjvrnQ+PDZUxFJDn+jfc6VvIfaXijk5TXEm+suC5/WRjTfNcNDBrA6BtWPo2rKXp2LqtdP9X0moYMSacZML6MafSTOdwlHvazaNEaSXo5V2SngmVeH9RzOC3tgUr7h9te1Nger78aCb+etZJT26hIlNMgmxYth+9I56acw5b6w6ORXujlvIGUtXxVKJBd9PMFTiEkjbOBC+GjTbbSaGgjw+5JP/PeM8i2gxTeErm0HVPsNunIsCEQ5xa7whsFOL6PvDcavo8HTYUnmAiiNvrQ1/t/A0bCN7M44N3Qh9lXhkzKxld1bDGtFadcuufDJ0vWtwVfqMEgIg2yjBlr8u5UjbfDt2+u4/WKMTDHRJUPYsW7GKGoJfgZkdNJdU0MWud7I3hcGazxiesJqf5WGx3sUHcqvS5x7/zEBWreGk1JNEsw1Ukfc/eL8eCF8obh9pzvOGrwMQTuTNtD9AQ8HW+LiBEf7S5W86wOn0HlpHZQ==;+nejGpzm9nhQ6oaHW4azpA=="
 ---

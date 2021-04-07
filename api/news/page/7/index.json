@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
+      "title": "DALL-E: OpenAI's new neural network wonder",
+      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
+          "width": 1134,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "publishedDateTime": "2021-03-30T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-v9-sets-its-sights-on-ai-and-specialized-computing.md",
+      "title": "Arm v9 sets its sights on AI and specialized computing",
+      "excerpt": "AI, and what it calls specialized computing. The UK-based Arm, now under the ownership of Japan’s SoftBank Group, doesn’t make its own processors. It instead licenses designs and IP to the likes of Qualcomm and Apple who then make actual chips for use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "originalUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/arm-chip.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "publishedDateTime": "2021-03-30T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-please-dont-make-me-eat-the-google-ai-cake.md",
       "title": "Please Don't Make Me Eat the Google AI Cake",
       "excerpt": "Friends, I’m not typically a picky eater. But there’s something about Google’s new AI-generated cake recipe that... makes my skin crawl just a bit.",
@@ -1119,101 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform.md",
-      "title": "Capitolis lands a16z-led $90M Series C for fintech SaaS platform",
-      "excerpt": "To date, the startup says it has optimized $9 trillion in terms of gross notional balances. AI fintech products are operating at scale and investor interest is maturing Alex Rampell, partner at ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/money-explosion-gradient.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "publishedDateTime": "2021-03-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virginia-state-police-admit-after-repeated-denials-that-they-used-controversial-facial-recognition-app.md",
-      "title": "Virginia State Police admit — after repeated denials — that they used controversial facial recognition app",
-      "excerpt": "The agency said investigators signed up for free trials of Clearview without their bosses knowing, a similar explanation to one given by Virginia Beach police recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html",
-      "originalUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pilotonline.com/resizer/hKFhBXXA0QvHHGWfG9aQUqVqxLM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7GUXQQBQWZF25LMGBFB2GN4TUQ.jpg",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp",
-      "publishedDateTime": "2021-03-30T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginian-Pilot",
-        "domain": "pilotonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

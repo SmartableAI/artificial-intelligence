@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020"
-excerpt: "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ..."
-publishedDateTime: 2021-03-24T05:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20312454"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454"
+excerpt: "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process and minimizes clinic contamination."
+publishedDateTime: 2021-03-24T05:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "l5B8H5d9KW1Ktz7nB/RxRY1khf1wp7Ub/k2vbICsnHZkggDQHTEe59AVYcslITxEk8epNZTpz2k+5C11P4vYflpdcRNd3TQoKxTPAfjLVmmOwwH3GQS9AOzqkIu6s2bb5YyTMPQ1QUeGPbixBTKgkoVHKnp3gr9ZmJY0kdvP27aRir67mmZ/OuQ6G6zu5mMmD998H1P5/Ek6rPB1RQ7QvORgwlcETEo3j/MVJUKE6xh4gDucX5hmLgAQD5U9eJLHEOJc7OG5C911rRAib+Shse+/SzzrvQYQAWv0T+W2rOmHrLZlRkBMpPYYA/emL+Zv11FXRCw6LDelDUXkjJFB9c5R+ZkaM3hQy2BueEPI9NY=;ucz6xctorKrp//H1UI9syg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "/NMU1AyfTbIwYyXDnN8UXMiUy94UKAxgaTIaQwAN8WwkV5bhYHmc2Ty8PcEEue4+dwmcawT6cfNriKuTIhjdvulHg0CqXrp7HH9Tkk2gO6ZG2JUrkRGQ95JkeQ/A4FVEj1CKzCxf/HjOD4zKCqzKjhatzX7gDVgPuSXDohUek+c/I/znP4bbfeDtdDB42gqLKjlnN3XaSdT/CzGR1Kgh1J8rPD6v/4zHh4IsynzadzJksa6syIdGQvFvwJI4f9EthwGskop34uSSSqFh7SdSnpgjsopnRTKr7G95Tfc1sSpRawxfESjcsZgYdq7u9F/kjjHjRdmTpVlm336ohIkw2yaN0CYxfx7H7KryeDCZWLE=;GknLAen+2y1iIR1jDJ9j3A=="
 ---
 

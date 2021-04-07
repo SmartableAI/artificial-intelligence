@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-25-ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians.md",
+      "title": "AI Backpack Concept Gives Audio Alerts To Blind Pedestrians",
+      "excerpt": "\"For years I had been teaching robots to see things,\" he said ... QAnon influencers shares its secret weapon Mahendran's AI backpack isn't for sale, but he says he is going to start a GoFundMe to equip any blind pedestrians who want to use the system.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians",
+      "originalUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/a/ai-backpac/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians_v6kt.620.png",
+          "width": 620,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians?amp=1",
+      "publishedDateTime": "2021-03-25T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-from-digital-to-physical-the-ultimate-challenge-for-ai.md",
       "title": "From Digital To Physical: The Ultimate Challenge For AI",
       "excerpt": "How challenging is it to break this digital barrier and have AI spill over to successfully interact with a physical system?",
@@ -205,6 +248,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1074,102 +1160,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-reader-polls-online-dating-via-google-translate-risk-to-top-lsps.md",
-      "title": "Reader Polls: Online Dating via Google Translate, Risk to Top LSPs",
-      "excerpt": "Google improved the UX for live speech translation by reducing flickering text (although Google Translate was deemed not quite ready for use in medical emergencies according to a recent study). Facebook open-sourced 50,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
-      "originalUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/Translation-and-Localization-Survey-2021.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-domo-expands-aws-relationship.md",
-      "title": "Domo Expands AWS Relationship",
-      "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/domo-expands-aws-relationship-2021-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/domo-expands-aws-relationship-2021-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

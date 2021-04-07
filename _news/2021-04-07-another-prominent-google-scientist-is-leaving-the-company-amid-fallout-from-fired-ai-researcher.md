@@ -8,7 +8,7 @@ webUrl: "https://www.cnbc.com/2021/04/06/googles-samy-bengio-is-leaving-amid-fal
 ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106613376-1594645689091googlelogowhite.jpg?v=1609771555"
@@ -61,6 +62,6 @@ related:
         height: 506
         isCached: true
 
-secured: "bixmfPJCRe9b40cQ3qDagvF2YsbPjBTd+GP/QNyw541rwCZ0sdiCvF2M2k4Z1e6PvRbrv6sHpmgQzXYrBOeqhTVVwRjJqDvfbnFjxUv4yT6BycHxphxSYf8OpArTA+hNYvqlcS4xgvOFqOux9IXVvfM+6GXpgsNT0qK4NCPFbT9tFUqtqpE8919TG/xqNk5KOXozbt1ZwaR9tGa1BjgKErS/c2G0cLDMOAXgm9SCuWv/cE+XoFBzzBqroP3+BiDrc2XG7WXEn52HKyrauuBS32lksHBvYVFBFk+BC3luUE+Ix2aweFMOCcnEFGj+PGK19onLye2g9HGcsEpXsrz6IdsQBafugS9reKOR5je/YoM=;UzRpDHH6SNTWz/ISinAnng=="
+secured: "tuejCBA0d+XIv4E2RIhE+fa/ouvScY34trVpAuf6OqBa3abpJPwk8WtM21RXSn3IDkMRMhM0/ItA6YsrtwZRCvmM12wjPu6GEvbQh8rZrH5ZwHGtgOUESBgRpovKrpnlqLFdlB7GBLDS+YpUhEeu4oIC5+LunZIkd5cb88HZCgqyFs0ORyB+TcmGCIJ+2DGyO5YAACeSUoVFvzIKmwdgNg7bIWKoxWXfr64hZF4eJFNE0x9tVAgn3VnH4NKKNOAuzk8RM96RMjctoShLx0QYt0DPy20H2G2BqeUcodaepGX1KcrQCVVI+K9KPq8FoVskxLD/6iRNfwgyhc9pJz/dbp9lOlwwGWOMD1l1C/lHPekaHH0O8ESCZjpcDU7oa1oFvwg0kukDpGtKr7CDypYeMD6tZIKBrvesLJVotjLP4JwMyW678qJrc52U6gOZeOdgVviLu2n/EfKkhpcDmws7s+t0w7Jsf5FuFByxNDk54otxFVs8tnUZJZPeASGX6JwTtdq/rE7ycN0YnUJgFMcVDQ==;Izl8yFlh9cMyInAw5NPzFQ=="
 ---
 

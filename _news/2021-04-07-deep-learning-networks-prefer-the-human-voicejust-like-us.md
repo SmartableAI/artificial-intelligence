@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deep-networks-human-voicejust.amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -26,6 +26,17 @@ images:
     width: 800
     height: 278
     isCached: true
+
+related:
+  - title: "Deep learning networks prefer the human voice -- just like us"
+    excerpt: "Columbia University School of Engineering and Applied Science. \"Deep learning networks prefer the human voice -- just like us.\" ScienceDaily. ScienceDaily, 6 April 2021. <www.sciencedaily.com/releases/2021/04/210406131947.htm>. Columbia University School ..."
+    publishedDateTime: 2021-04-06T21:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/04/210406131947.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "LaZ+3MZ+F2PPaHaEtb2HrLQByTeTwEYToAS4cH0k5PSqLe0UqCzv7pvEKvHhoWTL2FU+o5kLd4JIrHh24UZUehKMp2JcqLBvCQzLw3n8ZM7lpj4L9Jtcf+QCC494EyppLj7rtQQqtIjYcIpdcUY/PEWOooNS+aaNjCTRIta7e37Z6MKaU6vVCjFgMjPbSxHdNCDD4rtxeXU+UJlWkWTbeNDEwpBKNX0u3ze18cIsrcK9dIV9QXc7K0La5OlJ+E9zYBHXcEttbhSjgEqa+2qCbNTbNYcLEf/gawX9QA3Iiq6hJgg7Qnwr9WeX6ReKC/Ue122JS7kjO2P7vho6jbIZb0Jznj1NKgHbNg3/x7jdLr8=;/z0w2sxNiQH684/bwEBjbg=="
 ---

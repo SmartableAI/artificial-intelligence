@@ -1,33 +1,28 @@
 ---
 category: news
 title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-excerpt: "Bengio had defended the pair, who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed from the company without his being ..."
-publishedDateTime: 2021-04-06T17:31:00Z
-originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
-webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
+publishedDateTime: 2021-04-06T18:31:00Z
+originalUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
+webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
+ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
 type: article
-quality: 86
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
-    width: 811
-    height: 545
-    isCached: true
 
 related:
   - title: "Google AI manager resigns following controversial firings of two top researchers"
@@ -84,6 +79,6 @@ related:
         height: 630
         isCached: true
 
-secured: "V1KZPPrg8ZVqjf5WsVmq6DeZOdEPhUI90/JHqCt5zNUpEDRKc4Q9492xUo2coklwrGCA7ZPAqEoMrCyJAM1PWdnhQK2S5Fxe1R6ipvpsTb8mjw/bQ3a0T6Ld4K+WZ1O1xiy0o/+I//F5BZvJ6v0tCISohwdcqb9I9kHk1Xc+Et+RSd0pt5bR/GvEeNSgS30seTRiYefTc/ibgNTvVBCwTBJroj3em7lEGqo9XcQzgFpIHaG8DF0NwcGqXGvLgmv7L+FaouKyWX2OP3ivakead3e7Dv25x58WK7SMBU+by3UITKHfRUtXtj0RqecwPNTUgi4uZ7ogqykL6lxxcth6+BrGFA57Er9bQg47oFIAGoY=;zvv1Oxj77L4LWF4xpFYvyA=="
+secured: "qupuRoxUAeH+eM7JZABSAhg0/Il4wKb9PjZ22kiE+p6QtKRStB6ZovQ+DXKHWNO1DaQMVx6EI2tdkgus+duKIis2q1xvGRgSRcDaUekfyQo6eWQwCdGlU9cJ5LA3ZIP+byVl0OHZHa79zzbxyJTKMVAcQYfS84bFtdxFU8tAqBpNir3JGzDnKm5gD1AQx/WNfpULZGkaB/0OrBu2HA16txyA3rzeFzoe/xe9UAgW0mBx7O940o61lM9vx78gTbrRLFa1F7aakcJ7PFjbxBbLkN4NhJK2rJALRzZviKdxQT5EOtQnmth/BApUVZs1AsRMVPA6yIYMs2W2adeIDN9/3PmDZVKNvyquHWcR3J/eAo4=;a9m6Q20S+EE0xekwVpinAg=="
 ---
 

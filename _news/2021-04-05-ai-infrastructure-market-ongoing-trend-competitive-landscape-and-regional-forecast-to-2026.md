@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players"
+    excerpt: "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ..."
+    publishedDateTime: 2021-04-06T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
     excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
     publishedDateTime: 2021-04-06T11:38:00Z
