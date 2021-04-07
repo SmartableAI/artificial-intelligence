@@ -60,6 +60,38 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "Google AI scientist resigns after colleagues' dismissals: report"
+    excerpt: "A Google researcher who oversaw the company’s artificial intelligence (AI) ethics group resigned on Tuesday following the controversial dismissal of two of his former colleagues on the research ..."
+    publishedDateTime: 2021-04-06T20:16:00Z
+    webUrl: "https://thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report"
+    ampWebUrl: "https://thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/google_11042016_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Google AI scientist resigns after colleagues' firings"
+    excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
+    publishedDateTime: 2021-04-07T07:27:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/5568x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cbea87ab-4c5c-5e49-888b-e90c68c8f9be&operation=CROP&offset=0x272&resize=5568x3132"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Google AI scientist Samy Bengio resigns after colleagues’ firings"
     excerpt: "At least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart"
     publishedDateTime: 2021-04-07T05:29:00Z
@@ -108,6 +140,38 @@ related:
         width: 800
         height: 506
         isCached: true
+  - title: "Google AI Scientist Resigns After Colleagues Fired For Pointing Out Lack Of Diversity"
+    excerpt: "Bengio's fellow researcher Gebru was fired as he criticised a few products of Google while Mitchell was fired as she was vocal against the firing of Gebru"
+    publishedDateTime: 2021-04-07T06:59:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 54
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/k9fx4qjycan7tq0b_1617777250.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
+  - title: "Google AI chief Samy Bengio resigns over colleagues' firing and racial discrimination"
+    excerpt: "And in one swoop, just like that, gone. Bengio's resignation has come a few months after Margaret Mitchell, a lead artificial intelligence ethics researcher, took to Twitter to announce the termination of her employment with Google. I'm fired."
+    publishedDateTime: 2021-04-07T06:31:00Z
+    webUrl: "https://www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828"
+    ampWebUrl: "https://www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 52
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/02/02/180895-untitled-design-2.jpg?itok=njAPhBlB"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Google AI research manager quits after two ousted from group"
     excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
     publishedDateTime: 2021-04-07T04:46:00Z
@@ -121,6 +185,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/04/07/1104373.jpg"
         width: 1240
         height: 827
+        isCached: true
+  - title: "Google AI scientist Samy Bengio resigns after colleagues' firings, reveals email"
+    excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
+    publishedDateTime: 2021-04-07T07:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/world/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-reveals-email-235854"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 34
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_359316227.jpg"
+        width: 724
+        height: 482
         isCached: true
 
 secured: "t55PpBhZ0hF94jzdb1uXu/Y2uASanTBFGFhtjMjjmHQ6ZMucvYVlW7h5S11rlG9tiqv4JFQGTJXM7bV1qsVvBp96FuKBYOsvE5o2dIgdUzWWMhHC5uyvIehtEHKQ+fGqeKQ0BlFRBFzgv2TCWvtvJrh00Y2xuo9dF7NePXQdsqhbTeRgEUlshzSdFlkuqLcIRZtC8t9Fhv4rlcYZGtp8EOLKrUdM2EyAXn5v320BrNZbq1GOHv1JZemntfuGsswoQSFrAOv6GOovmItyF+hErRrYRsVtAEAQNFZoJZw3P6AjR3yd0Y/t6SqKi9WsO1g1LhvwWyPPIZELLHE3YEzVxo6rbCwUbhulCayycsZMNqA=;2bG+kAVkHU3mcdQZabqVLw=="

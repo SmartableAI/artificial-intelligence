@@ -57,15 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
-    excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
-    publishedDateTime: 2021-04-06T07:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1"
+  - title: "Artificial Intelligence Chipsets Market Research Report by Application, by Type, Global Forecast to 2027, Cumulative Impact of COVID-19"
+    excerpt: "Apr 07, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Artificial Intelligence Chipsets Market Artificial Intelligence Chipsets market report elucidates the recent trends in ..."
+    publishedDateTime: 2021-04-07T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-by-application-by-type-global-forecast-to-2027-cumulative-impact-of-covid-19-2021-04-07"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iEZ6Z8c/QigWCkyqs/rUeQWzEd2I2hYGsppWu7FxMqCm5wav9ehijj31uZ6DAf6szLfUWFfLBvLUAu7Nz1HojcT6l3wRn5jfPBq5m6LnFtPOTTlEzh0BE+s57gpwzihQNfi/5SEbIMXw/BwgIHHFBDH4PiXAtE2lUlOXOu5xcKEW6zvS6aZpigJS2WFg8Ym2AORH806y34RM8z+etGMJQ4bup0+aJwAr3gQIfKRcrjVzj789sSv2H28WrQ/W2TDM/dmsr8VdEEw4afQ/L54YnhFE+D40Dx9OzVnUzQN3THfreUOo3TkPFWqo6YfaeZOdyiMcBQ/J7zkReD6t0kTdGduoJ5HyEZiXpIlBNkCQ1LM=;I3LZuTfubW+juxIYUVaOCQ=="
 ---

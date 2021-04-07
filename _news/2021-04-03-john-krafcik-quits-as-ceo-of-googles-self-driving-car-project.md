@@ -2,19 +2,17 @@
 category: news
 title: "John Krafcik quits as CEO of Googles self-driving car project"
 excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-publishedDateTime: 2021-04-03T06:29:00Z
-originalUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+publishedDateTime: 2021-04-03T10:56:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
@@ -200,6 +198,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "a8ah6Xc8QpsyObHe25xalcl++Z0hDaBaAHzwraTy9Cf7OeLc21sgoP6dQ9E7UQFztOwDYq2g3WhsiWmRv84Y9Nwc9AOA8NcKFVXltaeKaM7hzqCnsMq0lowLONfUrIUHaf7sQLGDC4WdWzTtsHDRMdRlFQXjW6b+LnSCiOfKcqKahuaE3VcYBEQ1tr468+p6Nb/YA0oP7PH581Ic/L+J/7cHwZh3xmm0UWoklYhDd2Z/XYUbTxekjveXr1xvZtBO+gowZMRcdwwDtLDf8PlOAqwEFVGjIFkyehYHDOSauKSqllQ2X3688fzROsIjd16YhZEQR8uyrBIAReCqqUn3mGzREukuOXnCKR4Yb+KMBXA=;wlGoxrRwtRYR5t80rPLNGA=="
+secured: "iZwmIrLXKNlP9FBF9LKVOk8HnaAYvpom8X1/6rSMsEeUhcFXrAG77Sz2P+gwK6rxMFr+CSpUwHqOVhgWnLMeKUIi50eJe6/kEvjtpqT/AJlnLw4oKBbooQY03CWBM9CTrHj5lEkCoPag6FvVy9irSQFd6SfoBQ44UnVsrJKUb19Czx54ux2Gs69cR0ldFmzWGCElJslzIl2Z66lcePGxtLwmqGYECxcdG0XXm4sZzb6Vt4Xxtem9JHHDUH5hfa6c+QtH1hyWKjjSWShAF3+tmBCbdhD8k6soWA13YW93l2UvR3GyXlZ5LrzD5C7UueOl3V9wQDMAKAu7EHw1UhkPAiiiohZcl/Vo56FSy/6WXpI=;0P3deaaMieJaTX9hkj1RDg=="
 ---
 

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers to Use AI for Cancer Treatment"
-    excerpt: "Artificial Intelligence (AI) has proved to be a very useful tool in ... which allows it to identify host response patterns to the therapy. The system is capable of monitoring the patients response to the treatment in real time and can also predict the ..."
-    publishedDateTime: 2021-04-02T14:45:00Z
-    webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/ThinkstockPhotos-5845715201.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Impact of Artificial Intelligence in Casino Gaming"
     excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
     publishedDateTime: 2021-04-05T17:11:00Z

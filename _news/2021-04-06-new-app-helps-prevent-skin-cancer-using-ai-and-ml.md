@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-preven
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
 type: article
 quality: 104
-heat: 135
+heat: 126
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Researchers to Use AI for Cancer Treatment"
-    excerpt: "Artificial Intelligence (AI) has proved to be a very useful tool in ... which allows it to identify host response patterns to the therapy. The system is capable of monitoring the patients response to the treatment in real time and can also predict the ..."
-    publishedDateTime: 2021-04-02T14:45:00Z
-    webUrl: "https://techstory.in/researchers-to-use-ai-for-cancer-treatment/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/ThinkstockPhotos-5845715201.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "Impact of Artificial Intelligence in Casino Gaming"
     excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."

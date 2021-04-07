@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.h
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Apple chief talks of self-driving cars"
+    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
+    publishedDateTime: 2021-04-07T07:38:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
+        width: 700
+        height: 471
+        isCached: true
 
 secured: "SESp4pe89coYS6vrYRTBLcgesfyGQyq3RPbpVgSv1KNoCTc3rrzXZnfGGLAeht6PjoPJZ949nW8/AuJGAWAHyPFFdXiv2Qv/DC9sSFf0p1K60068MlFwfVNI5DrdnISeyZo8vyyT1U69aUGzYkskxHuz0AWrp2XLbpP+vorsoGMvdweM87+dPgmPch3hUoV/KqW65Vaxp+wslRbr2Y3wISi8ScPJlzuy6nDunlcZ8Ca+Ya4TxVghnhVfmPiC8b3Vva8wmaceQnSzwMfA5+Nm5SdNrpwpyGrSNOsFeqtVzLXCyLcCcLvAsa7ZDzd55zaMCD42BT5uD/DOisLIX/eRUMueHL0mAZuePoXnxm1a+xaE79fFj5DQKJ0w7m0M6Q6cwEms3fRv/TQJFVM9epQBKAwZI6Sy5YdbOTdj0ngUb9b7l85VtbCMu/bZpTzlHKyLCgu4rvq/hpKN2IPRIY4dzQWCscvnPNX9nJqSSA/0sPdSirG8+TM7aZLoHRIXVdKXvMq3ZzUiGvaTs2xbW4cFCw==;8Jm2jf/+77TkCfXN6aYfDg=="
 ---

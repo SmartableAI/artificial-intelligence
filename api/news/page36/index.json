@@ -2,6 +2,109 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-03-08-debate-over-accuracy-of-ai-transcription-services-rages-on.md",
+      "title": "Debate over accuracy of AI transcription services rages on",
+      "excerpt": "An absence of natural language benchmarks makes it difficult to assess accuracy of competing automated speech recognition (ASR) platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transcription-services-rages-on/",
+      "originalUrl": "https://venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transcription-services-rages-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transcription-services-rages-on/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transcription-services-rages-on/amp/",
+      "publishedDateTime": "2021-03-08T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk.md",
+      "title": "Underpaid Workers Are Being Forced To Train Biased AI on Mechanical Turk",
+      "excerpt": "Workers who label images on platforms like Mechanical Turk say they are being incentivized to fall in line with their responses—or risk losing work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "originalUrl": "https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6042724393b426009ca78cfd/lede/1614977313465-cubicles.jpeg?crop=1xw:0.845229151014275xh;center,center",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "publishedDateTime": "2021-03-08T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
       "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
       "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
@@ -1092,110 +1195,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-china-five-year-plan-aims-for-supremacy-in-ai-quantum-computing.md",
-      "title": "China five-year plan aims for supremacy in AI, quantum computing",
-      "excerpt": "China has unveiled a five-year plan that will boost tech research in hopes of leading the world in fields like AI and quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
-      "originalUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/OPIFTltEG3k7FZh8Xfh0LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/72abf6b0-7f91-11eb-9a27-fd00ec45aa19",
-          "width": 2000,
-          "height": 1263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
-      "publishedDateTime": "2021-03-07T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech.md",
-      "title": "Google Billionaire Eric Schmidt Warns Of 'National Emergency' If China Overtakes U.S. In AI Tech",
-      "excerpt": "Former Google CEO Eric Schmidt on Sunday urged lawmakers to ramp up funding for research and development in the artificial intelligence space in order to prevent China from becoming the biggest player in the global AI market–a development Schmidt warned would spark national security and privacy concerns that could ultimately constitute a national emergency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
-      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6045450b8882a468d26dd8cc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3448%26cropY1%3D124%26cropY2%3D2064",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
-      "publishedDateTime": "2021-03-07T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

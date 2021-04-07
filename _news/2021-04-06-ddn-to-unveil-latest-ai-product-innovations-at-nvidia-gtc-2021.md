@@ -38,6 +38,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "OmniSci Announces Multiple Opportunities To Accelerate Geospatial, GPU Database Knowledge At GTC 2021, April 12-16"
+    excerpt: "Registration for Webinars, Meetings GTC (GPU Technology Conference) provides training, insights, and direct access about many of the hottest topics in computing today, from AI and deep learning to intelligent machines, high performance computing ..."
+    publishedDateTime: 2021-04-06T17:28:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-artificial-intelligence-e67164b0dc80a6e94062105ea7a573c5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "cId9AG7M7fBf/c4WXim+gsEoYJR6b3PJKZEBmoPw9z4jYVi+1v0CJ1mWBrUyruJhgu362Nf2Q7jhU93XjeMgTxhjSJku20+tKctOnVMj6+zNrJS9pdijpx/1xsWDVU9hMRnsD/fhFDRV3K2rKyouO3cfeDIyddFl0Osp2ngMkmEdmyvd7SdBad5XnLbLLonQCL3VcgJI8CNyTOg07izjtNMrN5xxtGJNobG3AMK+vnDuekJvIwK3/zGFw8slDndPL3uxgPCFqfeaDLzNhMUVZ5Dlg346JcXH2MJ8Zusqx3Slo2VMe6xh12Qw9oSAnfPDooBo2yr9u+VQpvTwiRGPqbWhstPt7l+nct0mosrzhQA=;Jb6/ecuqJDyDjj2e62zGQQ=="
 ---

@@ -24,18 +24,18 @@ topics:
 
 related:
   - title: "Claro Enterprise Solutions Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Claro Enterprise Solutions, a leading global technology services company, today announced that its Hospital Asset Management Solution has"
-    publishedDateTime: 2021-04-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/claro-enterprise-solutions-named-winner-in-2021-artificial-intelligence-excellence-awards-301262689.html"
+    excerpt: "... has been selected as a winner in the Business Intelligence Group’s Artificial Intelligence Excellence Awards program. Lost and stolen equipment costs the healthcare industry millions annually. Nurses, meanwhile, can spend more than an hour a day ..."
+    publishedDateTime: 2021-04-06T13:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-184229562d92952f9ad9a0718d03d0d8"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "1a8eOXfhfEyMh1slFE0LjI679PuEntshFldXjVn8Tvg77+SL3A3c/a+PWAI5TtT0a4gISMeT1B9kNnf4mA4NlNZSTb1NIYtqiO790XZXG72x6fm5Co1o2M0+EK3VZmOeicYoRnSBY6CrEyzlcYHbnr3zvXusVmhFvqlK9NZ8V6QH1Zh2NQQOSUp8Xy6iPMNdGVEuJqnTpiLUUY7IY96wjBrI9yPhP1ecxcpYoQqW3Q59d7tHI8Xqvd7+afUOcT2IAFjFv1oncFX77JqMg3D3vBQ+b5xgUyN4+HMIGFhbSQnHq3a9KulHJk0SuhjmzJILdjCwe4evO+oV/dATaNWcrJbkm2a2My8DMEgGRPQL4Us=;bmqO0Bu2jE6LSGgL1IHSGw=="

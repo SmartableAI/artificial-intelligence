@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Claro Enterprise Solutions Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "Claro Enterprise Solutions, a leading global technology services company, today announced that its Hospital Asset Management Solution has"
-publishedDateTime: 2021-04-06T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/claro-enterprise-solutions-named-winner-in-2021-artificial-intelligence-excellence-awards-301262689.html"
-webUrl: "https://www.prnewswire.com/news-releases/claro-enterprise-solutions-named-winner-in-2021-artificial-intelligence-excellence-awards-301262689.html"
+excerpt: "... has been selected as a winner in the Business Intelligence Group’s Artificial Intelligence Excellence Awards program. Lost and stolen equipment costs the healthcare industry millions annually. Nurses, meanwhile, can spend more than an hour a day ..."
+publishedDateTime: 2021-04-06T13:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-184229562d92952f9ad9a0718d03d0d8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-184229562d92952f9ad9a0718d03d0d8"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 40
 
-secured: "013pd0wsb8pDhjTdhgX0KXQRc/ovjxrJVSlDVfqC4G8jCByPfAnM2zCCFD940XowWO9eyeJLHV0QwMpi8VB7EPYwDe2PvCJ2YvjDBnQVCLLrKYYGpFzQ97lafXE3wzAtYfo3zIucXW07RKsO1U1CAASBVzvdMuv67eIRijAocaJlYDzrvsz1WLPKz7VCahWKJ9PjGcQP+sYdz++higuYq6aNbVtIuW7HxLt9hInPY+wNub+oxVn4HVG0ACSRLM0DxEQDWPZbDucXRcqxJAye+WjCS486m1nyQMaXYcuv2jz2ot/fWTYodC7FkhyywQCnz7cfMpKeYxLT4inJJyZcx540kKkVbMQtxGWpb+S535A=;0pppLWy1Vu5Zmc11lHzJ7A=="
+secured: "9Ik9BmmkNlTC8S4RCZNRRB8oZmqMu/GPG+9S41ToHt5ji35e0pUDLXclE/FuIEzWneArs04KtoqsWdpAjWRJ6aFFpCwQ3P/7Q1JVnjwFWVqeP+GxdA0YLdV/tfyw3i33pNjWkW4SUDVJ/18KnJbFEKS3vRYOc7KRRuXjtG3tciOFixH3VBIRWBd6ikDRbBsp7IC6wx07iOq1tu7DugwX6XQg3g+Amo6RZuAqEqqpZp95C10VSecVx6g12vlJd0MMOaaYEMBjUY4m5lx/nN3rslxiijsRKAWgEo+IZNPB5JVmeku+XCH3wY5uPA76Mx/lQJHyLz71gZdKsGh+WTve0RsS38XBpyqkmV0ywBRoBn0=;tlkaUVY+ILUTW6MIHX/umA=="
 ---
 

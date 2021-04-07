@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomp
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Hardware
   - AI
   - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg"
@@ -31,6 +32,6 @@ images:
     height: 900
     isCached: true
 
-secured: "eVRJRNwesB4L3JQid1itSyCfFnZ3ImjYL5CLQmwCjPgt3/HbpRLzYWcYoXdBtfk7xovbPiPgJWCVBwIFaVEzQRMTGSOd7kqMxMy279CSkw6DVt5Xuvt7dm4LaQiCzqkULjL9XTh0iWeOfJnEWJOZkhLk5rTEGcQzAxSSlHtdfMP1BnGkeEXAG5v+PrvQAdVcdrrN47P246xaz1IILvWxXWNXJp6mkDBgpAahpjzvoDwlOzbdP/obaolkRtcraryKaqrBj+zPypCmwLBkDntLx6m+03deVB4GiK3HiJZ5jQML5OFqI40m4VPZ3ciDJm97345SJwSBsNXy517HN7S/itGqNiua4ZgJihBO1/I2JFM=;5mVU8eaEnAR8Aocf2jT3rw=="
+secured: "YHQzglvk+dRxeHRyNaGZVvSGlNVk3Abp6v0Xa9jtKY1vYVPQuzczq19W9PwIsS9Oeqt4GwU+r9Jd8Sm6jgDLW9QLcnotkZiPz36sh9UMwx7lUqIOk4tQaAP/+UO3xKcxVU8fEUrDhBEFkPuCx1AYNulBSMk/uhmiXWNOPAjM0Nx25fV7ZgzxCaz18lfHPXvByCwzqjMhudJ7CareD8SQDy5UQott89hJZcq2OOgCXQCMZED1mI7K19vzKdFHiNx5sohulAGKh+DqvE5HQoLiyoUVij3rISYbCAC2WyFlO3dGWWCLEzEjIpdwBok98r1AJwTtOpACDyr7iMTLAQ+xX2bCEO5XxBpL9P+D6Y4V9WWVSAxE5Mj5osrNAoy4v72XTguBqhawwyB/oZ+spXNDjyQvxQ3nrmHn3obqm6TH6ljiCs5N33rSI+o19OW6x6lNqxhfhoeSZm0sZ+Spk+ObCN2US920vC2ed/FZOypsqZbJ/jJp7OmVWLteMlpMzimg9eoo0IqT3lLkcfQZJEO0dg==;a8+WWQ+ZOjhfvMaw1qbr2Q=="
 ---
 

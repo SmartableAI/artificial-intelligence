@@ -57,15 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
-    excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
-    publishedDateTime: 2021-04-06T07:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1"
+  - title: "Artificial Intelligence Chipsets Market Research Report by Application, by Type, Global Forecast to 2027, Cumulative Impact of COVID-19"
+    excerpt: "Apr 07, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Artificial Intelligence Chipsets Market Artificial Intelligence Chipsets market report elucidates the recent trends in ..."
+    publishedDateTime: 2021-04-07T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-by-application-by-type-global-forecast-to-2027-cumulative-impact-of-covid-19-2021-04-07"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZyqlmoY9Y41zOVULOANrxxwkIzfeEL5Hgo6LOUFr/JxUNll/U/++Qg2DxT3e3ISDTD+xFkRrch400va/j23RtAlcd6IxhI+V7V3W2yUyMZoc+zcHPuiEV07lNRzYlk/qFjm/8/Z+XnnA5g6dq7TrouLaHTFjtCUoegbxKOssnfqOShjOkfMRN2n2TZrICXdLo8eLi6e6v53vBL0UVJ5fettdQWreaIhRFU5r+Gbre4e8Ukb3pG4nGOzvZxusdT888n63bIYpbLPaDCdgRqCjoMwnaD8lH1s6KP32uRPFFm1wi0st6w8ba7ucWvWkJJNjhA6ZOlcXnZmLEiIbqA0MIfeXT+1PVtbbKuBRS1TkFWw=;Z84Ef1+YZnjcfZjCmWklyQ=="
 ---

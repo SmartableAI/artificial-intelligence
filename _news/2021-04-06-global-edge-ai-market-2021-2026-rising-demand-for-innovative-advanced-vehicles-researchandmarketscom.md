@@ -19,47 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
-    publishedDateTime: 2021-04-04T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
+  - title: "Natural Language Processing Market to Grow at a Significant Rate during the Forecast Period – TechSci Research"
+    excerpt: "Rising interest in human-to-machine communication is influencing growth of Global Natural Language Processing Market positively. According to TechSci Research report, “Global Natural Language Processing Market By Component (Solutions, Services ..."
+    publishedDateTime: 2021-04-07T06:56:00Z
+    webUrl: "https://www.openpr.com/news/2266906/natural-language-processing-market-to-grow-at-a-significant-rate"
+    ampWebUrl: "https://www.openpr.com/amp/2266906/natural-language-processing-market-to-grow-at-a-significant-rate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266906/natural-language-processing-market-to-grow-at-a-significant-rate"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Chipset Market 2021 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
-    excerpt: "MarketandResearch.biz has published a report titled Global Deep Learning Chipset Market Growth 2021-2026 that supplies an in-depth overview of the market with the help of market-related details. The report provides complete information on the current market situation and offering robust insights about the potential size,"
-    publishedDateTime: 2021-04-04T19:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2021-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U407841428_g.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "aD66U6ggZRmUbwVlq098p91aipZJToWpZSQxdBD3mDdInSjnCRsJtqu72k63rnZ+hk87R5TJbFzMEPqP9WrKWQFVoCQzuaYgB+1lkwjkRjHSlpKcmQ9bA++GCs+uItmGf/YNepKTdtXRpScCpRjC8VdWtZ7xxzu6NR1yUCbdX6ug0zoHDgFzqf/kzmzf8/muloSXjz7Gxr4om+CcO4uGf5zFfVkgOlGmamfVWiWCMn/MN7kufyedUvBtvtI6WVkGDvFFXV2j6NWduV4axTkZzMduw+W/ngPfT9544RYYSbQLNchc2ZFeyV8sSYh9ShacsTKViWSAmQBDjmcXXdxDEryVjMCoGPeAEYo05PgB0Ec=;zcOxHlduzRbwhWvDbjWDuQ=="

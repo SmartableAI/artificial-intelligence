@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China dives into FinTech & UK eyes vaccine passports"
+    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
+    publishedDateTime: 2021-04-07T07:01:00Z
+    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 24
+    images:
+      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "QauJrw55RqBC3ZqbKqvcsB0PMaIy7/ZVl3rHkLphFNJ7IRsddSEMUua315vLOF0vSRgjT2bEOmpWS/yj91cZuqq+A9opaTmimaEDCo8mgfjXDdRW2LczgaUvntwyFTDGfvDB8Uw37/8gfGisPSlugZ5bYL9QKVP7NtotlqEdxL00FVFjBuYnigx11lRjrqytKYL2yxJi10FuFQBUD9lVwpZFrFBQfqED4b+y0k62TkhlbnvkKs79QaiVwSJDZGd6m1wviDBNfjmKwPSENOSbq9m4rtSlq4jlHkkk52XN1cuuaBLCPuATPlIVOdziC40f5ZadOpuZIlj203/4cyXsywJ6mqnLxnChMzR+Ua7ni5QfIBBAlgLvC7kjKJuHmxcDH+QapXCuh7n3lzLlzo0BK23ztJ3YrZ5PJRhBW0TitiZ06HOTpaIhQxi+OWhdiqmbUOot27Li9bqYAVPpYx6vBYg5iFg2kV1YlV18OpHxXm0GnZC5To4aW/e5MGmvJ3iN1UH4REnRO0c66wlzrhqnxQ==;KWsinBpF/fLUiDyl9abG7g=="
 ---

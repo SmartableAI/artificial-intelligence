@@ -184,17 +184,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "John Krafcik quits as CEO of Googles self-driving car project"
-    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T06:29:00Z
-    webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-    ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 24
   - title: "Waymo CEO John Krafcik is stepping down; Alphabet's self-driving unit will now have 2 co-CEOs"
     excerpt: "Chief Operating Officer Tekedra Mawakana and Chief Technology Officer Dmitri Dolgov will now head Google's sister company, a leader in autonomous vehicle technology, as co-CEOs"
     publishedDateTime: 2021-04-02T19:20:00Z
@@ -204,6 +193,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 8
+  - title: "John Krafcik quits as CEO of Googles self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
+    publishedDateTime: 2021-04-03T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "qiucR4DRfILksC+mZGQfefJdQ/+unkDm6LfSKZ/MoJM6uFm8Q+K3Y5Jgg7asCz1oKZETykDcLgSiisoGPTzcC0fYow7Cf7OqVG7fUHVBl7dVzunYNyrsusMOoyGq44IKQdCr5HfnA5XJyGDDAO8m2NYAimy6N7iJKZHNaK7891fXTPgpsCku7+XWwnG4Jx4zcKpZc13K28TunGi2xKiM9XwgcsYFtDLxr0qVu/mgcb245FjqjWEwfV13Zj561GU1Elpacfkl9yHtVYnaCy4pxCgH5fFxTHUHngvLD6zdEaNaM+4dFvaaivRSSZARyU7xIJQUfOxyLMTE66zLsdh15AKhAUDHhc+AIAI4uegD0iw=;reJSQYPRjEmPKCxO661Lvg=="
 ---

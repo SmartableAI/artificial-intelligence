@@ -195,7 +195,7 @@
       "originalUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -595,24 +595,33 @@
     {
       "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
       "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "excerpt": "Aible, the pioneer in impact-optimized enterprise AI, has scored highest in the Automated Machine Learning (AutoML) services Use Case in Gartner’s 2021 “Critical Capabilities for Cloud AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "webUrl": "https://www.oaoa.com/news/business/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for/article_63fcea43-9a4f-5bd0-8930-6c88103a258b.html",
+      "originalUrl": "https://www.oaoa.com/news/business/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for/article_63fcea43-9a4f-5bd0-8930-6c88103a258b.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/6b/b6b6305e-b7f4-5cfa-9965-dc65cb3701bf/6065ab881f63c.image.jpg?resize=598%2C630",
+          "width": 598,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T04:33:00-07:00",
+      "publishedDateTime": "2021-04-01T05:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null

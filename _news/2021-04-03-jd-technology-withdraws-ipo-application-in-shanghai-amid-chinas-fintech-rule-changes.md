@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-wit
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "China dives into FinTech & UK eyes vaccine passports"
+    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
+    publishedDateTime: 2021-04-07T07:01:00Z
+    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 24
+    images:
+      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Shape of Fintech Funding for Start-Ups in CCR"
     excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
     publishedDateTime: 2021-04-06T10:24:00Z

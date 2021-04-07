@@ -66,6 +66,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Apple chief talks of self-driving cars"
+    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
+    publishedDateTime: 2021-04-07T07:38:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
+        width: 700
+        height: 471
+        isCached: true
 
 secured: "P1bl84A1VNc7fdvZ91uzk0KE14mSWHzRqAKPtQ43xG+zuXuOU8pXRZtLLV1i4evXMR5B1ocomiqeF7wj6WyHeR9onXh8jb7Wkmyt1R2zmFTO85iA4ZRZca4KrarmcNYS+Y5b3/2LAWXcOoCAANGCIcKY5dpBEj8IAmyZrMX7b6wBBw1x4/vVTg7TJ3ho2ox2P8/9KzW51SwBnnlVE6IKC/KhZIM1IykQgYTWGOFfzjmNB18XX5uepWgluaKzjd2/2iKnhOCox1h8HTq4u90JH/mlW7PId6EGwoC+ytPRzR3tRPWyxjkwGQ4YVvemjji1giIsQj0AzMYua1S6N7A7MHaD2b7GCkiDAQ7novN3zng=;6dlmAP4jdGbAF07XIzuI3Q=="
 ---
