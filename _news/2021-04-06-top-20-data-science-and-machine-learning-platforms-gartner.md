@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Weaknesses: Altair needs to strengthen its decision modeling and composite artificial intelligence capabilities, Gartner said. Although Altair focuses on both service- and asset-centric industries, its product marketing needs improvement to resonate with a ..."
+excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/22"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/22"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 type: article
 quality: 41
 heat: 41
@@ -15,7 +15,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
+  - IBM AI
   - AI
   - Machine Learning
 
@@ -25,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "WiR+7tJ52Upwif2WY583HtDDTuJ7/3DgJj78smVNnjtcG6CnbSQXTITq8fI3MxJnoYOhdB7XE/LgHkGw6a6ujEdyyp4Ik81nOSYnpyNYkZDJJ0KniN60QiljeFJ3nrGV3u9mv7nbFDMrq83gPEMh1g2jCZUychSB544LkM11F1k8c5MEoXd4SVygVlhaKSRHVfw5KJqs0gIFkR3MQdUA8eg1cnxEr4kv75TGiSowVrVzEMBSX/t35bMar9/uYNRa8UmD4cRx1R2fwO7vgFvciyff8w3nbgF0CJOwSjrUyM0ZfsQP4FdQDG2F46zrl+/Zr+z6s2l6k0Lf5xiPVrrthYaaWPW/Ib2f863AtUcbbzM=;uj99+8vYedHpqxJNdim1iw=="
+secured: "fN+YjkgdHtYJ6lkwFFZaKLFNPFer8iaVwD4em5YjCd3HGPvLNfei6M7RczOlyw9zzZH5PFY3c7MNGIOsHSog0IXlvxzLoeKUyXu7oiWorVRy9SFVH752FBjIOIbe/DAaWOYAIsS4MYjGpFFy9lVMTj8iQaNbEitOOtTI/ExqA1hGBNZL6OrRHIyrIB10EcJgAWMhTLGjGTLi/VrfWt6PkABlPKMeQF2rDcSVCW+KHftBiPfhgWhICQp+OBq8veMU4DOtDUW7e5ibAUzjx37s2RQgTZxgcTVnuq58kVdxHGj0OMqQKMeJtdm1hlD1ayNfitqzVMCzlWLTETerrzfjaxF14K5LFnCRb1kdxS7rMbc=;44PpvyzjHCf86+nt5c7WEg=="
 ---
 

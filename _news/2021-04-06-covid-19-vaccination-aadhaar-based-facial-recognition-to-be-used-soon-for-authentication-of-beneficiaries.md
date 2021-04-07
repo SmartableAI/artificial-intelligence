@@ -28,34 +28,20 @@ images:
 
 related:
   - title: "Hampton and Newport News police used facial recognition app, then denied it"
-    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition app that their departments later said they had never used, data released Tuesday show. The revelation, contained in a database obtained by BuzzFeed News, means officers from ..."
+    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ..."
     publishedDateTime: 2021-04-06T15:15:00Z
-    webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-    ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+    webUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
+    ampWebUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 57
     images:
-      - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
+      - url: "https://www.dailypress.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
         width: 1200
         height: 705
-        isCached: true
-  - title: "Your Local Police Department Might Have Used This Facial Recognition Tool To Surveil You. Find Out Here."
-    excerpt: "Search through BuzzFeed News’ database to find out if the police department in your community is among the hundreds of taxpayer-funded entities that used Clearview AI’s facial recognition. By Ryan Mac and Caroline Haskins and Brianna Sacks and Logan ..."
-    publishedDateTime: 2021-04-06T13:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 52
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132"
-        width: 1600
-        height: 837
         isCached: true
   - title: "Report finds NC police use facial recognition tool"
     excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."

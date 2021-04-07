@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforc
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 2000
     height: 1125
     isCached: true
+
+related:
+  - title: "Your Local Police Department Might Have Used This Facial Recognition Tool To Surveil You. Find Out Here."
+    excerpt: "Search through BuzzFeed News’ database to find out if the police department in your community is among the hundreds of taxpayer-funded entities that used Clearview AI’s facial recognition. By Ryan Mac and Caroline Haskins and Brianna Sacks and Logan ..."
+    publishedDateTime: 2021-04-06T13:10:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 52
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132"
+        width: 1600
+        height: 837
+        isCached: true
+  - title: "Has your local police department used facial recognition software? Check this database"
+    excerpt: "Hundreds of police departments are using facial recognition to watch over citizens. This free tool checks if you're being surveilled."
+    publishedDateTime: 2021-04-06T20:06:00Z
+    webUrl: "https://www.komando.com/technology/police-using-facial-recognition/785238/"
+    ampWebUrl: "https://www.komando.com/technology/police-using-facial-recognition/785238/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/police-using-facial-recognition/785238/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 51
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/04/kk-article-20210407-clearview-ai-facial-recognition-police-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Hnq9ysI5eOQmRxnKFjACgAZNUl14V2QMJy4wQEWYxvT2VWqbJT/YdpC0cTTYIo8b76bPUDScZ+p6KurAPN/UgHttmkf4brQ45zZRxYixCJhxm+0avSM+NUeJK/rRYbE/okPMemmMpmMCQOm6Jiub0FIfvcYGBXEX/ZyGPc1CddA/VUscsaQKBUVfIVclBzJ4rOe6eyhkK4yfWC4/BYrKS7WEnPHsIpBFZ4ZesssxNwPRksTGRXnUXMTEkckyw100hD8cwtX43rVrKsoFBI6N2QwRhRxL9HLMeqhdMluRdD3Ef8e5J92SUiVaZqokPJ8QDhaqZMorzSw1EK6cBmN9HxpIspbAv8G2rRHoOmOJMIe/l4dVMFgwh3ODfcXw+5VGfRI9qBeYSsAeMJgfqnpu55dVyNbJqGILY1Mc4Z7fSAQHLQevxkArlyLErTL1OOIy+Mu6GyMDaWLId3uK2vJSfcADycJbIFf0S5FqciJSshhOkzutfFP6xR0XdAg+K8quSB10qYfer9gsekpxjtXL+A==;z8VVEfB4mXXZlS8hgU8MnA=="
 ---

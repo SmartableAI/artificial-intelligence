@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-how-digital-transformation-is-helping-you-pay-your-mortgage.md",
+      "title": "How Digital Transformation Is Helping You Pay Your Mortgage",
+      "excerpt": "Utilizing artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) on the petabytes of data created with each customer touchpoint through various channels, be it the mobile application, written correspondence, website ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d02416c91f5c406a44d7a%2F0x0.jpg",
+          "width": 526,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
+      "publishedDateTime": "2021-04-06T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
       "title": "Deep learning networks prefer the human voice—just like us",
       "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1033,33 +1085,24 @@
     {
       "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
       "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
-      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process and minimizes clinic contamination.",
+      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020/article_7fe54805-0c65-520a-b72b-961a62ed956c.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T22:00:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20312454",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454",
+      "publishedDateTime": "2021-03-23T22:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1331,40 +1374,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-global-natural-language-processing-market-to-grow-at-a-cagr-of-184-from-2020-to-2028.md",
-      "title": "Global Natural Language Processing Market to Grow at a CAGR of 18.4% from 2020 to 2028",
-      "excerpt": "Pune, India, March 22, 2021 (GLOBE NEWSWIRE) -- The global Natural Language Processing Market was valued at USD 9.2 billion in 2019 and is anticipated to grow at a CAGR of 18.4% during the forecast period. Natural language processing is a part of computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/03/22/global-natural-language-processing-market-to-grow-at-a-cagr-of-18-4-from-2020",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/03/22/global-natural-language-processing-market-to-grow-at-a-cagr-of-18-4-from-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

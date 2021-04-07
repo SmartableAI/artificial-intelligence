@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
       "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
       "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
@@ -1357,49 +1410,6 @@
         "AWS AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21.md",
-      "title": "Zenoss Brings Together World Experts on Modern Monitoring and Artificial Intelligence at GalaxZ21",
-      "excerpt": "AUSTIN, Texas, Feb. 23, 2021 /PRNewswire/ -- Zenoss Inc., the leader in AI-driven full-stack monitoring, today announced that GalaxZ21 will be held virtually on April 22. The one-day online ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1442662/1200x627_GZ21_Social_lava_bus.jpg?p=facebook",
-          "width": 2154,
-          "height": 1128,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

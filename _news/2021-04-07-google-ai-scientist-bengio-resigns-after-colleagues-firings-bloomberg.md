@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
+    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
+    publishedDateTime: 2021-04-07T01:17:00Z
+    webUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849"
+    ampWebUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
     excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
     publishedDateTime: 2021-04-06T21:12:00Z
@@ -79,6 +95,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qupuRoxUAeH+eM7JZABSAhg0/Il4wKb9PjZ22kiE+p6QtKRStB6ZovQ+DXKHWNO1DaQMVx6EI2tdkgus+duKIis2q1xvGRgSRcDaUekfyQo6eWQwCdGlU9cJ5LA3ZIP+byVl0OHZHa79zzbxyJTKMVAcQYfS84bFtdxFU8tAqBpNir3JGzDnKm5gD1AQx/WNfpULZGkaB/0OrBu2HA16txyA3rzeFzoe/xe9UAgW0mBx7O940o61lM9vx78gTbrRLFa1F7aakcJ7PFjbxBbLkN4NhJK2rJALRzZviKdxQT5EOtQnmth/BApUVZs1AsRMVPA6yIYMs2W2adeIDN9/3PmDZVKNvyquHWcR3J/eAo4=;a9m6Q20S+EE0xekwVpinAg=="
+secured: "FvmyHxmY/4YbFyhoHYpQ2mcAsttWrV5T4RLG7zgoPatIP6GTW/vI44F0urahOv5afSufxY727kJtc+TWT6jpHcS27D0maKln2SkZMMldHfe7XgO1jMkAcpeKFRS8mbDocWpA1tEUuKDfbwMC3sKyJ6Y/ynlsVa0AMaeNmT0c1VNHTnl9ICBLQNKkITxlnyNcjdqlvYPMt7ax/a6lcYrSpnzcUGyHyHuBWm1RH+/pj5H72WU8+6C99n4R6WRuLPblP3kohA/xrJXeqTrFLdYY2ievI3myAX3RydNEq0ykAfZFB/pMQq73cb5mv1sx25CNT3eCJ2Q0WMOxUMtlG+rxehNDhK3Y6x8zKhQRGzmEpGQ=;bhJCih3TnnvIqSn4a2MJ/w=="
 ---
 

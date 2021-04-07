@@ -55,6 +55,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
+    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
+    publishedDateTime: 2021-04-07T01:17:00Z
+    webUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849"
+    ampWebUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
     excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
     publishedDateTime: 2021-04-06T21:12:00Z

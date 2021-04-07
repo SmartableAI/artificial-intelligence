@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
+    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
+    publishedDateTime: 2021-04-07T01:17:00Z
+    webUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849"
+    ampWebUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Google AI Research Manager Quits After Two Ousted From Group"
     excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc. researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
     publishedDateTime: 2021-04-06T19:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
-    publishedDateTime: 2021-04-02T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

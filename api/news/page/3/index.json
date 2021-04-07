@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
+      "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
+      "originalUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
+      "publishedDateTime": "2021-04-05T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-why-we-need-new-benchmarks-for-ai.md",
+      "title": "Why We Need New Benchmarks for AI",
+      "excerpt": "Artificial intelligence has beaten many of the tests researchers have come up with. The challenge now is to create benchmarks that can make AI truly useful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800",
+      "originalUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-320320/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800",
+      "publishedDateTime": "2021-04-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
+      "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
+      "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "originalUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/77de6537-fdd7-5de4-8b4e-cdc36e7ed04a/default-1617617681-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "publishedDateTime": "2021-04-05T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
       "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
       "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
@@ -563,7 +711,7 @@
       "originalUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1091,162 +1239,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-seattle-area-ai-startup-darklight-raises-51m-to-help-companies-automate-cybersecurity-tasks.md",
-      "title": "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks",
-      "excerpt": "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "originalUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "publishedDateTime": "2021-04-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-build-a-cicd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services.md",
-      "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg",
-          "width": 800,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:06:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-steps-down-replaced-by-two-co-ceos.md",
-      "title": "Waymo CEO John Krafcik steps down, replaced by two co-CEOs",
-      "excerpt": "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "originalUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BpqqzSlbGMXZmST7t058Qp7ETkU=/0x0:2040x1360/1400x933/filters:focal(714x153:1040x479):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69067594/akrales_180327_2419_0161.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "publishedDateTime": "2021-04-02T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

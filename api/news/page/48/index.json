@@ -2,6 +2,230 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-02-27-ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage.md",
+      "title": "AI Weekly: Biden calls for $37 billion to address chip shortage",
+      "excerpt": "President Biden this week signed a supply chain executive order and pledged support for $37 billion to address a semiconductor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
+      "originalUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1303925325.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
+      "publishedDateTime": "2021-02-26T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-myheritages-new-ai-tool-turns-photos-of-the-dead-into-unnerving-videos.md",
+      "title": "MyHeritage’s new AI tool turns photos of the dead into unnerving videos",
+      "excerpt": "Genealogy site MyHeritage has released an AI tool called DeepNostalgia that turns photos of deceased relatives into creepy videos.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-26T180643.190-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "publishedDateTime": "2021-02-26T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
+      "title": "Driverless bus hits streets in southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution.md",
+      "title": "Students From 52 Law Schools Boycott Seward & Kissel's Recruitment Over Alleged Conflict in Donziger Prosecution",
+      "excerpt": "The unethical behavior of Seward & Kissel’s Chevron-linked prosecutors opens the door to future cases in which judges give private law firms the authority to prosecute the critics of multinational corporations—without disclosing their ties to those same industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
+      "originalUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-facebook-weighs-adding-facial-recognition-to-smart-glasses.md",
+      "title": "Facebook weighs adding facial recognition to smart glasses",
+      "excerpt": "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/",
+      "originalUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/",
+      "publishedDateTime": "2021-02-26T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
       "title": "Fast-food drive-thrus are getting smarter. Here's how",
       "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
@@ -974,239 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-bollywood-movies-still-associate-beauty-with-fair-skin-ai-study-finds.md",
-      "title": "Bollywood Movies Still Associate Beauty With Fair Skin, AI Study Finds",
-      "excerpt": "By analysing subtitles over the last 70 years, researchers also found that while Bollywood films have improved at representing religious diversity, the plot continues to be helmed by upper-caste heroes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "originalUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/6038c700a13bb1009c61968a/lede/1614333882060-fotojet-55.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "publishedDateTime": "2021-02-26T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-does-ai-driven-cloud-computing-need-ethics-guidelines.md",
-      "title": "Does AI-driven cloud computing need ethics guidelines?",
-      "excerpt": "It’s clear that artificial intelligence is powerful and cost-effective in the public cloud. However, it can be weaponized for unethical tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
-      "originalUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/10/cso_nw_trust_reliability_security_transparency_ethics_handshake_collaboration_by_peopleimages_gettyimages-926653234_icons_by_enis_aksoy_gettyimages-1054994010_interface_by_jamielawton_gettyimages-485370758-100813780-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
-      "publishedDateTime": "2021-02-26T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-tensorflow-a-cheat-sheet.md",
-      "title": "TensorFlow: A cheat sheet",
-      "excerpt": "TensorFlow was originally a deep learning research project of the Google Brain Team that has since become--by way of collaboration with 50 teams at Google--an open source library deployed across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/13/99aff292-46c4-4950-85d2-6e4cd750f51d/thumbnail/1200x675/8558ea8e682f0896a037fc60f2c2bb0e/2fnltensorflow.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-26T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "Though a persistent question, it is one that increasingly accompanies discussions on architecture and the future of artificial intelligence. But what exactly is AI today? As we discover more about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey.md",
-      "title": "Hundreds of Amazon Drivers Agree That They Deserve a Union in an Informal Driver-Led Survey",
-      "excerpt": "In just a few short years, Amazon’s warehouse workers have gone from suffering in silence to jobsite walkouts in Minnesota and more recently a full-blown union vote in Alabama. Now it seems another segment of Amazon’s workforce is taking its first steps towards advocating for better conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
-      "originalUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/02/27/hdce8azbuzg6vylz5imx-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
-      "publishedDateTime": "2021-02-25T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

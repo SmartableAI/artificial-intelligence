@@ -26,34 +26,20 @@ images:
 
 related:
   - title: "Hampton and Newport News police used facial recognition app, then denied it"
-    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition app that their departments later said they had never used, data released Tuesday show. The revelation, contained in a database obtained by BuzzFeed News, means officers from ..."
+    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ..."
     publishedDateTime: 2021-04-06T15:15:00Z
-    webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-    ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+    webUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
+    ampWebUrl: "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 57
     images:
-      - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
+      - url: "https://www.dailypress.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
         width: 1200
         height: 705
-        isCached: true
-  - title: "Your Local Police Department Might Have Used This Facial Recognition Tool To Surveil You. Find Out Here."
-    excerpt: "Search through BuzzFeed News’ database to find out if the police department in your community is among the hundreds of taxpayer-funded entities that used Clearview AI’s facial recognition. By Ryan Mac and Caroline Haskins and Brianna Sacks and Logan ..."
-    publishedDateTime: 2021-04-06T13:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 52
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132"
-        width: 1600
-        height: 837
         isCached: true
   - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
     excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
@@ -72,6 +58,6 @@ related:
         height: 431
         isCached: true
 
-secured: "w2P4jafivy3Cbtvek9NOe+pKJygsgHhp+s7VKYdibWT7HF/ahRoILsP7bptQmbiPRX6HIxoMxciBQv8jxcBNKUniuacbJx3u7SfdaOc9zYDI22B1BSgxR7roQmkYB0w9z+wqIxpP/FwJ/uRK9T9LyM4VFB3u/jwGq+ydvSqXvJnm/pb7yID7ttuTyDL7QZgQmbn9+Bxq/FzAWuln3GcPXrOAqzTwBL0NqHKpinvzGy4b3TU3k9ERzBW9YesSqgsd181BVDKLPlM0ObzNv7ilSG4iiH8IaLLvxbxsYmnlHF/Iepg747MXXZDqOcyLGKKRXuQ3HRcUqnYDvt27EHTRL9OcC0tKY3kbDNIZB0ya9DI=;jrf2JV/mzRKDivKcA2jxmQ=="
+secured: "cXU3y7vvyfGBx6hDr1crjXhQyZfcqaV/4ItHLikg8JIFekitysiI+wo/N/Ale7I2W+4MX2SrK+FPQA/huEEdrvIROBRq4zAEFqTc7VQLim2C+FSWOS8vbJVWa11qjG45DL5LO+Uka+FwqkShjBmz0mkk+uur3Q0bSJle96VS451TutH/0WeVmDZG/vTN1acm5ww4l+bgcImLJNXLmQ4qxPi4T0ToXnelJ0/GfPuUr+XxL3pWssHvkpD/F+gXcHy2Nog+gYp0BUt+lFxZwPti7eXqhj0lMKzKuSSgvsrVo/xnSRikLZwUcXLcHBwBWi0Kbx6f4rv9UEmhW2Np9eZX057qUVR2xMHB9yQSQNq2P2U7c/FOX+jqV0IyaZTHwKUV74QRpa6pC7tvoElNrGmZWCBI+t3S0dgpAFVQXtcO5aUAOmiHvI3SNsoSIo+XqHWYzo6044BW9VbSf6cuqROg6XMJJ//Hx32UL2RXM/2if6XXEHOGK4/1dtwS668biscnM6wZ2mUd4Lvrd5T7IERJZQ==;+eSnaiKIHLpLFfvAga+iMg=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Xpeng says its self-driving tech outperforms Tesla’s"
-    excerpt: "With help from Alibaba's map technology, Xpeng says it now has the most advanced driver-assist function for Chinese customers."
-    publishedDateTime: 2021-04-02T07:52:00Z
-    webUrl: "https://technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
-    ampWebUrl: "https://technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/微信图片_20200720151058.jpg?fit=1620%2C1080&ssl=1"
-        width: 1620
-        height: 1080
-        isCached: true
 
 secured: "7b9NJMx5nDl+DiAb53HgRDpPfQJTjWUpibCbPQ5IxPzpGy4XKorKoDYYsnCU/WXuDvHUtecKblR4Rw4HUPAZ7FRgvnOG0k5+/YWn8FUwzhAKWOWV5C0mj0BE3+AY6C4kPOVTU5p8kgH7J4rRsy1A2GIiu1+9KGMAQ9nrGHqitRgEJCqXwzeZbUSNMMRYnpVnr+S0J+l6q91FMpzqSdfc7bfvL/34/nJ+CnnNQkC5CVyclyCddjP8LJwHIQODeD2bzE+F6cBQD9NoiMgdFtny+JazCF8MWaH5UE5JvONb/oOZtVTNLBQTLsUmf/b2C72sX0T8Ny5ZKkfVqmqRvAKXlRnsV6fthAo9aqLrSI0CN4VPyZDl9X7r9hURmaL4vvVmx7WD/jHhEqJNq/98GeTKJZvftVefC0XQZp2/KPy090WynqVgegjSOsPP1FQdbc7l6Mrhlr7cwqJpM10o6G5rAU2fPD3oXscMdpeYd6D1geL+AvCFyQK1EgpNpo1kFTLKIaxfhFMtUMPhmMmvXmwcQw==;6s0eROwQDjO/OYHVNoDu1w=="
 ---

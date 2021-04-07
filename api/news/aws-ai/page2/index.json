@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-21-healthcare-providers-globally-are-applying-aws-ml-services-to-store-data.md",
+      "title": "'Healthcare providers globally are applying AWS ML services to store data'",
+      "excerpt": "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "originalUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg",
+          "width": 575,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "publishedDateTime": "2021-03-21T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
       "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
       "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
@@ -1338,59 +1383,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
-      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
-      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T09:54:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

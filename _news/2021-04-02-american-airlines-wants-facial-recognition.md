@@ -41,20 +41,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
-    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
-    publishedDateTime: 2021-04-02T07:25:00Z
-    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 711
-        isCached: true
   - title: "NY schools facial recognition system sticks around the courts"
     excerpt: "The New York Civil Liberties Union is fighting a motion to dismiss its challenge to a facial recognition system in a Buffalo-area school district. State education officials had approved the deployment of a $1.4 million Aegis biometric surveillance network ..."
     publishedDateTime: 2021-04-02T15:55:00Z

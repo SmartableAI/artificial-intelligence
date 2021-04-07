@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
+      "title": "Guard Digital Identity With Artificial Intelligence",
+      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
+      "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
+      "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a7fe1ef90295a9f3f14d4%2F0x0.png",
+          "width": 745,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
+      "publishedDateTime": "2021-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-regulating-ai-without-stifling-innovation.md",
+      "title": "Regulating AI without stifling innovation",
+      "excerpt": "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
+      "originalUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
+      "publishedDateTime": "2021-04-06T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-facial-recognition-for-bears-and-other-ways-to-use-the-technology-for-good.md",
       "title": "Facial recognition for bears (and other ways to use the technology for good)",
       "excerpt": "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears",
@@ -217,7 +372,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -766,7 +921,7 @@
       "originalUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1098,154 +1253,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
-      "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "originalUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "publishedDateTime": "2021-04-05T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-why-we-need-new-benchmarks-for-ai.md",
-      "title": "Why We Need New Benchmarks for AI",
-      "excerpt": "Artificial intelligence has beaten many of the tests researchers have come up with. The challenge now is to create benchmarks that can make AI truly useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800",
-      "originalUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-320320/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800",
-      "publishedDateTime": "2021-04-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
-      "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
-      "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "originalUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/77de6537-fdd7-5de4-8b4e-cdc36e7ed04a/default-1617617681-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "publishedDateTime": "2021-04-05T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

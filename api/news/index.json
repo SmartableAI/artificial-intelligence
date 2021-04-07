@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-how-digital-transformation-is-helping-you-pay-your-mortgage.md",
+      "title": "How Digital Transformation Is Helping You Pay Your Mortgage",
+      "excerpt": "Utilizing artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) on the petabytes of data created with each customer touchpoint through various channels, be it the mobile application, written correspondence, website ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d02416c91f5c406a44d7a%2F0x0.jpg",
+          "width": 526,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
+      "publishedDateTime": "2021-04-06T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-bridges-education-gap.md",
+      "title": "Artificial Intelligence Bridges Education Gap",
+      "excerpt": "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
+      "originalUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
+      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
+      "publishedDateTime": "2021-04-06T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFLA",
+        "domain": "wfla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
       "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
       "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -581,7 +676,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -627,17 +722,17 @@
     {
       "path": "_news/2021-04-06-hampton-and-newport-news-police-used-facial-recognition-app-then-denied-it.md",
       "title": "Hampton and Newport News police used facial recognition app, then denied it",
-      "excerpt": "Police in both Hampton and Newport News tried a controversial facial recognition app that their departments later said they had never used, data released Tuesday show. The revelation, contained in a database obtained by BuzzFeed News, means officers from ...",
+      "excerpt": "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html",
-      "originalUrl": "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html",
+      "webUrl": "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html",
+      "originalUrl": "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg",
+          "url": "https://www.dailypress.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg",
           "width": 1200,
           "height": 705,
           "title": null,
@@ -647,13 +742,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp",
+      "ampWebUrl": "https://www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp",
       "publishedDateTime": "2021-04-06T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Virginian-Pilot",
-        "domain": "pilotonline.com",
+        "name": "Daily Press",
+        "domain": "dailypress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -860,6 +955,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-your-local-police-department-might-have-used-this-facial-recognition-tool-to-surveil-you-find-out-here.md",
+      "title": "Your Local Police Department Might Have Used This Facial Recognition Tool To Surveil You. Find Out Here.",
+      "excerpt": "Search through BuzzFeed News’ database to find out if the police department in your community is among the hundreds of taxpayer-funded entities that used Clearview AI’s facial recognition. By Ryan Mac and Caroline Haskins and Brianna Sacks and Logan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
+          "width": 1600,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
       "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Machine learning observability startup Aporia today emerged from stealth with $5 million in venture capital ...",
@@ -1062,161 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
-      "title": "Guard Digital Identity With Artificial Intelligence",
-      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
-      "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
-      "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a7fe1ef90295a9f3f14d4%2F0x0.png",
-          "width": 745,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-regulating-ai-without-stifling-innovation.md",
-      "title": "Regulating AI without stifling innovation",
-      "excerpt": "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
-      "originalUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
-      "publishedDateTime": "2021-04-06T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
