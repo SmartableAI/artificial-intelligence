@@ -36,6 +36,6 @@ related:
       domain: analyticsinsight.net
     quality: 19
 
-secured: "4r5mQzRFCjVT4vjynQCI8Bx0wBlciRZrM30N3s8Y8xSitHdAKEfEkB+9XQUGH27Y8U13QgB4S1o0Yo/qxZ9+LgJTRDtg8/tXx4VthdBu9PmrMeRBvplzFutzdCl2A+T4Qx0Vqv//i8B3HFvnRODw/0+U6bOHBmFomueWbGg5yARisLrmuNblOzqezUAWjBtVB164mknZw5ja9nSmXrhWHPybpNVlGkCO1y//783p56OB1YAoxIy/Jc00WzkCjf07GfXViBhh8v1PxAOfrnUvOBj/QFdtKM8NCf5zt7UzS8VqUGAQmZdxuKKCHRlp5+c2xVmaSiCPqmsUiJ23Axewilw68tUNUrTIqQsr6OuEuiI=;+niS7Vf3i/t30IjTitIs4A=="
+secured: "e60bNheFlt91l+9brDyc1zL4HXHfz0W8llwCZFdeLq65RioyruoxT4ZCgWNJUSBOqrq/xAjHuJmJw4+g35SDwdVc91tD7xqJQkwRhjZPsW91VtsNKLbmbKvLLRUEnTBnVpFdCjEiENNfno/LslZtfnTYgJFSyHbSAHqsfCArAciSzz5B16Zcheu8zIDeT+8BUuq61ecfwZgLjM1A8tcKGFtcWF4aGPyXemohdEHTvwlR8/hNTTNf//p2nrtetewxkN+amWQ9V0epXnbo/Jt1m4JMGtBVCPtLsZmHGe5pqR6Aava3DbmnqPv3mkWNilp4mtf9KOTJ5QYFWK4x87xCs4EuFcowSg3GE5/xy2OeDpk=;UybbVwK/UxpvcHIHU+19qg=="
 ---
 
