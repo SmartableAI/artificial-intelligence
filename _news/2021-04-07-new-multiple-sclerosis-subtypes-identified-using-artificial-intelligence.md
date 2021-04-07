@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "New MS Subtypes ID’d Using Artificial Intelligence"
+    excerpt: "Using artificial intelligence, scientists at University College London (UCL) suggest they have identified three new multiple sclerosis (MS) subtypes."
+    publishedDateTime: 2021-04-07T20:44:00Z
+    webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/new-ms-subtypes-idd-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 39
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2021/04/MultScler2.jpg"
+        width: 800
+        height: 495
+        isCached: true
   - title: "Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data"
     excerpt: "Multiple sclerosis is a heterogeneous progressive disease. Here, the authors use an unsupervised machine learning algorithm to determine multiple sclerosis subtypes, progression, and response to potential therapeutic treatments based on neuroimaging data."
     publishedDateTime: 2021-04-06T21:47:00Z

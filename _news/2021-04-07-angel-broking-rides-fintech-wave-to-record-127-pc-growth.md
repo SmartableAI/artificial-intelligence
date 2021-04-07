@@ -2,17 +2,17 @@
 category: news
 title: "Angel Broking rides Fintech wave to record 127 pc growth"
 excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-publishedDateTime: 2021-04-07T12:43:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
-webUrl: "https://www.bignewsnetwork.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
+publishedDateTime: 2021-04-07T12:27:00Z
+originalUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
+webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - AI in Finance
@@ -111,6 +111,6 @@ related:
       domain: businessnewswales.com
     quality: 4
 
-secured: "gfVClrn3a+r5HSTH+RwuBut2hIWyfgem598VdKYnHZQv2Fv0yJgu1WoV7ej0axOuiiIS0eajIcdNXS+Zo3zODpbuLqBPe+XD1WthwpkQS45tvhIFWjJp61TGwuoj8DIPGh0pdAdAN8iJhd4kR0SHhgAJ1xerkuRIP/2/xMnac+WskaTUhWmEKvW5a3KSi8e49f2wuepSHscgGysyM+VT4utH5HLrnSTCDCpsMtdC0WYFoDn1I2XgfZuYwP5hCixBfvrYoLsnS71HBv6/kv/Dbh+S7JRhIFyzHij4FyR4Ryx2smCDGpwiXw4eTr5xOrUDqcB6Dm+jJDb9qna+nn4qFF873D1i/+/RWzy4UOeiOoo9tBYLNLSwpmwEjfQ62O+k3R3QXzC1BHjr0Y2yp8lYUnjsaO/UebLN/MggdCJZyrrzudxpiHqLKtt8CV2CgcPRRnuePbEigKziHvJ7G3zxqTakYD8vMXPPC9GjiL3+eiSJoO8AjHlzwtroXxk4JDwoKpWXCIGiLllHMxl5N+PYlA==;ZssFv2N9d9Q6m+O1i2TRhw=="
+secured: "zXIp9yLJM7pWjwby+2b0KOIfEgkZtBPemWjFxSDqJP31b143xn1Pea0ti1lBBWD8solYw76enOJvW7bxAUGenjZn/O/564/G7n1kDIN/eZgJFdhYl0UiDfOO1iU5HXCzXEki9gIqN6PAd0LhmkW6ftpf6Q/DVLmeZ0k0XBdUqCjpU1X/4kqEdVWHZtTyY+BzFN3yXgTJTlAUx/JCqYI0lX6l5FI51OsbPFu89jiL5ebLkze+kYoxiPkZClpdrvN63ZgklMaql+1dxA5l0E87mRPtLDMJts99iE0GNvIEjHngWDpekQF6iPLGqEwEi1FfhS7m8IrhP2x6ksMkuuOtCQPqtQFPuD/svIGTWKzQHnY=;7uEuykdyxx4bNqIul9vGVw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommuni
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -28,48 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
+  - title: "Education tech investments boom in 2020 focused on AI solutions"
+    excerpt: "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic."
+    publishedDateTime: 2021-04-07T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence Bridges Education Gap"
+    excerpt: "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the"
+    publishedDateTime: 2021-04-07T00:55:00Z
+    webUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/"
+    ampWebUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
+    type: article
+    provider:
+      name: WFLA
+      domain: wfla.com
+    quality: 74
+    images:
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
+    publishedDateTime: 2021-04-05T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2021 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
-    excerpt: "MarketandResearch.biz has published a report titled Global Deep Learning Chipset Market Growth 2021-2026 that supplies an in-depth overview of the market with the help of market-related details. The report provides complete information on the current market situation and offering robust insights about the potential size,"
-    publishedDateTime: 2021-04-04T19:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2021-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2021-04-04"
+  - title: "Resolver's AI-Enabled Security Management Solution"
+    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
+    publishedDateTime: 2021-04-07T17:47:00Z
+    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/integrated-security-management-systems-psim/product/21217650/resolver-inc-resolvers-aienabled-security-management-solution"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research Report by Application, by Type, Global Forecast to 2027, Cumulative Impact of COVID-19"
-    excerpt: "Apr 07, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Artificial Intelligence Chipsets Market Artificial Intelligence Chipsets market report elucidates the recent trends in ..."
-    publishedDateTime: 2021-04-07T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-by-application-by-type-global-forecast-to-2027-cumulative-impact-of-covid-19-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Security
+      domain: securityinfowatch.com
+    quality: 36
 
 secured: "CjvW8qr5n8qb4K4Ou1TJ9MZAIRrFWcGklgdMLvR6fqHRMor1fTDeo9cD8oYQvvGXdYYm478ceZQ1loTyBSqAem16weDLE805BVCu+RwvluXz+VIxltd00i3biMIwiIevFaRxPLYN8fgq0blugVGUyBGIyhPW/drp0sMD+MTnValfbfAC6Q8FCZCsE4I87AgE9F+f1/aLWh/WxMThLZi6PCKMFEwSW9WfMEvDkFb2tHzRU4E9UjgIts/M0UfHhnJqJu7HPQBJgoW8Bg4NI0/1BDavCOrCyEwTW7OKI+ClhjzMYBtJpqonvMHmSscNREsb+v11Ke5mKGAY5MB4f1eZp/eCR4+KVl/1kv6Rvpzet+A=;OLzvLnA+hAHOGx7YaAJm4g=="
 ---

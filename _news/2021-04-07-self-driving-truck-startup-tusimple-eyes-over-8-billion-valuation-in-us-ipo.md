@@ -36,6 +36,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "UPDATE 1-Self-driving truck startup TuSimple eyes over $8 bln valuation in U.S. IPO"
+    excerpt: "April 7 (Reuters) - Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). The company said it aims to raise about $1.3 billion in its offering by ..."
+    publishedDateTime: 2021-04-07T11:04:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idUSL4N2M02WT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 48
   - title: "Self driving startup may go public - report"
     excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
     publishedDateTime: 2021-04-06T13:02:00Z

@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
+      "title": "Study finds that even the best speech recognition systems exhibit bias",
+      "excerpt": "Learn more. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the world. That’s the top-line finding of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "publishedDateTime": "2021-04-01T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
+      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
+      "excerpt": "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "publishedDateTime": "2021-04-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-apple-removes-siris-female-voice-as-its-default-and-adds-two-new-voices.md",
       "title": "Apple removes Siri's female voice as its default and adds two new voices",
       "excerpt": "“No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P 500 NASDAQ 100 Apple's voice assisitant Siri will no longer default to a female voice, TechCrunch reported on Wednesday. The tech giant ...",
@@ -538,6 +685,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
+      "title": "Ping An AskBob Doctor’s Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "and artificial intelligence to enhance governance systems, the business environment and public services. Ping An Smart City solutions covers life, education, health care, government affairs, smart transportation, and business operations. To date ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -1040,215 +1230,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
-      "title": "5 machine learning essentials non-technical leaders need to understand",
-      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-facebooks-feckless-fairness-flow-wont-fix-its-broken-ai.md",
-      "title": "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI",
-      "excerpt": "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/farinessflow-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
-      "publishedDateTime": "2021-03-31T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "publishedDateTime": "2021-03-31T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download.md",
-      "title": "Safety Pool Announces 100,000 Self-Driving Test Scenarios Ready For Download",
-      "excerpt": "Self-driving teams, academics, and armchair roboticists should be able to build and contribute useful scenarios to the library. Every time there’s a car accident or an unusual situation it should go into the library. Then every car from every company can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064b66db9cbe60ffe61b40f%2F0x0.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
-      "publishedDateTime": "2021-03-31T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

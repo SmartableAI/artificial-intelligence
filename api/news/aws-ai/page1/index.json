@@ -881,33 +881,24 @@
     {
       "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
-      "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT ...",
+      "excerpt": "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers, a 400-location fast casual restaurant chain, is using data ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/domo-expands-aws-relationship/article_27c91547-6fa1-51ac-a10f-d5170af3f610.html",
-      "originalUrl": "https://www.thedailytimes.com/business/domo-expands-aws-relationship/article_27c91547-6fa1-51ac-a10f-d5170af3f610.html",
+      "webUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T10:54:00-07:00",
+      "publishedDateTime": "2021-03-24T14:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -917,9 +908,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-is-femtech-the-next-big-thing-in-health-care.md",
+      "title": "Is ‘Femtech’ the Next Big Thing in Health Care?",
+      "excerpt": "Start-ups and tech companies are creating products to address women’s health care needs. It’s still a small segment ... MobileODT, a start-up based in Tel Aviv, uses smartphones and artificial intelligence to screen for cervical cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/07/multimedia/07sp-hc-femtech3/07sp-hc-femtech3-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
+      "publishedDateTime": "2021-04-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics.md",
+      "title": "POLITICO AI: Decoded: Queer AI — Oxford on ethics — The people vs. biometrics",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/",
+      "publishedDateTime": "2021-04-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
+      "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
+      "excerpt": "An Envise blade includes 16 Envise chips in a 4U server configuration that uses a miserly ... And, of course, enables continued growth in our use of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "publishedDateTime": "2021-04-06T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
       "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
       "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
@@ -52,7 +201,7 @@
       "originalUrl": "https://www.reuters.com/article/alphabet-google-research-bengio-idUSL4N2LZ3HK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 277,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -242,49 +391,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-artificial-intelligence-bridges-education-gap.md",
-      "title": "Artificial Intelligence Bridges Education Gap",
-      "excerpt": "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
-      "originalUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
-      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/",
-      "publishedDateTime": "2021-04-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
       "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
       "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
@@ -345,7 +451,7 @@
       "originalUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -578,7 +684,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -654,6 +760,58 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-best-cheap-computer-reading-glasses-for-april-2021.md",
+      "title": "Best cheap computer reading glasses for April 2021",
+      "excerpt": "Below, you’ll find a nice selection of the best computer reading glasses you can score online ... blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "originalUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dtcn.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2021-04-06T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1035,160 +1193,6 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
-      "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Machine learning observability startup Aporia today emerged from stealth with $5 million in venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
-      "publishedDateTime": "2021-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future.md",
-      "title": "An Exciting, Surprisingly Imaginative, Techy Vision Of Telemedicine’s Future",
-      "excerpt": "Launched in September 2019, its goal is to develop novel medical inventions in the fields of imaging, nanomedicine, artificial intelligence, robotics, sensors, medical devices, and computer vision technologies that include virtual, augmented, and extended ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c4a648ed19cda3fd77be7%2F0x0.jpg",
-          "width": 1200,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
-      "publishedDateTime": "2021-04-06T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-heres-what-you-need-to-know-about-the-european-regulations-on-ai.md",
-      "title": "Here’s What You Need To Know About The European Regulations On AI",
-      "excerpt": "On the 21st April, the European Commission is expected to publish the draft Regulations on AI. Here's what to look out for:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c51180bc8dbd427d2e4c2%2F0x0.jpg",
-          "width": 1200,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
-      "publishedDateTime": "2021-04-06T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

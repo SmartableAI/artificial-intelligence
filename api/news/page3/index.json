@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
+      "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Machine learning observability startup Aporia today emerged from stealth with $5 million in venture capital ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "publishedDateTime": "2021-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future.md",
+      "title": "An Exciting, Surprisingly Imaginative, Techy Vision Of Telemedicine’s Future",
+      "excerpt": "Launched in September 2019, its goal is to develop novel medical inventions in the fields of imaging, nanomedicine, artificial intelligence, robotics, sensors, medical devices, and computer vision technologies that include virtual, augmented, and extended ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c4a648ed19cda3fd77be7%2F0x0.jpg",
+          "width": 1200,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "publishedDateTime": "2021-04-06T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-heres-what-you-need-to-know-about-the-european-regulations-on-ai.md",
+      "title": "Here’s What You Need To Know About The European Regulations On AI",
+      "excerpt": "On the 21st April, the European Commission is expected to publish the draft Regulations on AI. Here's what to look out for:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c51180bc8dbd427d2e4c2%2F0x0.jpg",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
+      "publishedDateTime": "2021-04-06T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla.md",
       "title": "3D printed all-optical diffractive deep neural network created at UCLA",
       "excerpt": "It uses the light scattered by an object to identify the object. UCLA researchers based the system on a deep learning-based design using passive diffractive layers working together. Researchers created a computer-simulated design first and then used a 3D ...",
@@ -1100,145 +1254,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
-      "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. SambaNova Systems, a startup developing chips for AI workloads, today announced it has raised $650 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "originalUrl": "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/05/sambanova-raises-650m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "publishedDateTime": "2021-04-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-how-ai-can-make-weather-forecasting-less-cloudy.md",
-      "title": "How AI can make weather forecasting less cloudy",
-      "excerpt": "AI will work to strengthen existing weather forecasting methods by improving efficiency and making more timely weather predictions, as well as enhancing location accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy",
-      "originalUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/53974995-e9ff-4a62-b3c9-b499faebb96c/5e042306-dd4c-432a-82e0-57aafb77c839/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp",
-      "publishedDateTime": "2021-04-05T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture.md",
-      "title": "AI Holds The Key To Helping Remote Organizations Maintain Great Culture",
-      "excerpt": "How do you know if remote employees are engaged and happy? Do your remote teams have the dynamics that fuel success? Artificial intelligence (AI) is taking the guesswork out of the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b2715c62555e80b1ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "publishedDateTime": "2021-04-05T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

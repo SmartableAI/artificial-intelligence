@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
 quality: 87
-heat: 277
+heat: 287
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google AI Research Manager Quits After Two Ousted From Group"
+    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
+    publishedDateTime: 2021-04-06T19:56:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
+        width: 1200
+        height: 642
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
     excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
-    publishedDateTime: 2021-04-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
     publishedDateTime: 2021-04-07T09:55:00Z

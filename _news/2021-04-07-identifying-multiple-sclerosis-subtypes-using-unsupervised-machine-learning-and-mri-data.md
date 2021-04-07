@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1784
         isCached: true
+  - title: "New MS Subtypes ID’d Using Artificial Intelligence"
+    excerpt: "Using artificial intelligence, scientists at University College London (UCL) suggest they have identified three new multiple sclerosis (MS) subtypes."
+    publishedDateTime: 2021-04-07T20:44:00Z
+    webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/new-ms-subtypes-idd-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 39
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2021/04/MultScler2.jpg"
+        width: 800
+        height: 495
+        isCached: true
 
 secured: "bFlQ6phutYo1E117CKk9UZGplcEAHmC2lg7wGnYoXh5N6W5Eq8C1bzqjlx4g8JL/L5rhIIbsPkp7nNdiGNLmf+1ExHX0VtnJCTHpIBcnABRenwP9RA2js13gvsgd23vXKGukNATQxdzOa1pzmXuW89oeWj7q2Srqlta81pXZ9pbaP9zwh51Ua2zTAfaoYbtjhKG36VK9oYXqOJpkPqhDvgmc00CJFWrW2FJIfFy1CQxD31YR8GreQDmFqcTiW4G55kK/2whZbQ047YOKlkrCy/f502C9udm+SwrIsyLaif0rK5GvRLhTzwflVaj3N+ZkLMwm9bumxh4PNxXK0s8njokHYQhdyf/xPDDHnKcuAwPHGruSljXyzzbFCFC6qkTtx/fI3ny9ftg7ZOIt1cveDRC044I9Jn3AJa8a8eSUGL6id+h7OgWWMqP9C1VLXncNYUsMjg6CgOqHU0XWqZ/QtKoYu+bY86tmsEG5Uzi3SgEFBgRx4kbf2Ki/wQcmC5xUckr9OXuJYWk2FXSPKAxHkQ==;0eJnQ9ZGeERuyJ3NDMqDSA=="
 ---

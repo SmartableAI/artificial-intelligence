@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-multiplescle.jpg"
         width: 1920
         height: 1784
+        isCached: true
+  - title: "New MS Subtypes ID’d Using Artificial Intelligence"
+    excerpt: "Using artificial intelligence, scientists at University College London (UCL) suggest they have identified three new multiple sclerosis (MS) subtypes."
+    publishedDateTime: 2021-04-07T20:44:00Z
+    webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/new-ms-subtypes-idd-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 39
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2021/04/MultScler2.jpg"
+        width: 800
+        height: 495
         isCached: true
   - title: "Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data"
     excerpt: "Multiple sclerosis is a heterogeneous progressive disease. Here, the authors use an unsupervised machine learning algorithm to determine multiple sclerosis subtypes, progression, and response to potential therapeutic treatments based on neuroimaging data."

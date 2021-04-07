@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
+      "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
+      "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
       "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
       "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
@@ -1350,58 +1402,6 @@
         "name": "The National Law Review",
         "domain": "natlawreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance.md",
-      "title": "Facial recognition executive talks vaccine passports, data privacy, and surveillance",
-      "excerpt": "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "originalUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "publishedDateTime": "2021-02-18T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

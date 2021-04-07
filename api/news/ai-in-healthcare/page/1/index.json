@@ -106,7 +106,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -532,6 +532,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
+      "title": "Ping An AskBob Doctor’s Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "and artificial intelligence to enhance governance systems, the business environment and public services. Ping An Smart City solutions covers life, education, health care, government affairs, smart transportation, and business operations. To date ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1344,58 +1387,6 @@
         "name": "Cadillac Evening News",
         "domain": "cadillacnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-3-questions-artificial-intelligence-for-health-care-equity.md",
-      "title": "3 Questions: Artificial intelligence for health care equity",
-      "excerpt": "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
-      "originalUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png",
-          "width": 948,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

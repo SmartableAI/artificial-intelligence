@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
-    publishedDateTime: 2021-04-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players"
     excerpt: "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ..."
     publishedDateTime: 2021-04-06T13:10:00Z

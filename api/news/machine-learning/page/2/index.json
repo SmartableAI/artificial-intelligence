@@ -562,50 +562,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
-      "title": "Domo Expands AWS Relationship",
-      "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/domo-expands-aws-relationship/article_27c91547-6fa1-51ac-a10f-d5170af3f610.html",
-      "originalUrl": "https://www.thedailytimes.com/business/domo-expands-aws-relationship/article_27c91547-6fa1-51ac-a10f-d5170af3f610.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
@@ -1448,6 +1404,59 @@
       "topics": [
         "AI in Finance",
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
+      "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
+      "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/Flight-Graphicv2.jpg",
+          "width": 800,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T16:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
         "Machine Learning"
       ]
     }

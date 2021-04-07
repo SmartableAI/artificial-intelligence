@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 611
         isCached: true
+  - title: "Python Could Reset the AI Inference Playing Field"
+    excerpt: "When it comes to neural network training, Python is the language of choice. But for inference, code needs to be transformed to meet the various hardware"
+    publishedDateTime: 2021-04-07T20:09:00Z
+    webUrl: "https://www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/"
+    ampWebUrl: "https://www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_waves.jpg"
+        width: 1300
+        height: 500
+        isCached: true
 
 secured: "JgpmCjMNRKwBhCDIw9rH0JVQnqi1Lxnrw45sOAECywKjPYuA1M8QT8gCpZLhT8s0FyfWywQ80JOkMpkwScdmMnHkrthwY3fvbN3uUikbLke9p2p/bUd3W9eGgqqyhHq22mk4E2FF5lW+GErSaumdGMnbfe4ieVsU7cEM4d0WeScYQxeohQU51QoMDJMexctAQ40xXHbjo74N5iGkZMjgx9u/FncbeNcySHuPvuDhm/egcNiVY428+PtMS7F0Hdb2j32q73sBGJ5MXT4oUxwWncILQghv//Tbpm0a0/hNEWMm64aRtxJtDKshN13HRcDIit15nQEFnPmYbwidN5+e7LN8QaZ33vXuGdzHRicyVaY=;3xouwvlJ534VMVUFiTuKeg=="
 ---

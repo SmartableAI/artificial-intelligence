@@ -83,12 +83,12 @@ related:
         isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 pc growth"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T12:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
+    publishedDateTime: 2021-04-07T12:27:00Z
+    webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Malaysia Sun
+      domain: malaysiasun.com
     quality: 24
     images:
       - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
