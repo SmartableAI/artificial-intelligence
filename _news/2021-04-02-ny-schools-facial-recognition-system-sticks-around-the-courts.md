@@ -41,20 +41,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "American Airlines wants facial recognition"
-    excerpt: "The IATA warned last month that airlines as a group might burn through as much as $95 billion in cash this year, about double its previous forecast. So what does the future of air travel look like? The former head of United Airlines Robert Crandell says the government may establish rules governing maximum seating density on airplanes and minimum service requirements for smaller airports."
-    publishedDateTime: 2021-04-02T12:38:00Z
-    webUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facial-recognition/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2018/06/american-meals-in-eco_long_37794079_ver1.0.jpg?fit=650%2C366&#038;ssl=1"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Army Wants to Automate Base Access With Facial Recognition at Drive-Thru Checkpoints"
     excerpt: "The proposed system uses a reliable form of facial biometric identification but would need to control for variables like weather and low light."
     publishedDateTime: 2021-04-02T18:05:00Z

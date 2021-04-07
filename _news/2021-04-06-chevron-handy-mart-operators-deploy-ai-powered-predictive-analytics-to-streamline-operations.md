@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered social media analytics startup Circus Social raises $1 million"
-    excerpt: "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,"
-    publishedDateTime: 2021-04-02T11:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Parties use data analytics, AI to understand voters’ preferences in Kerala"
     excerpt: "Though bulk SMSes and recorded voice calls remained in use, political parties, aided by IT firms, used data analytics and Artificial Intelligence (AI) for analysing voters’ minds and the character of a constituency. AI is a machine’s ability to think ..."
     publishedDateTime: 2021-04-04T23:50:00Z
@@ -85,6 +69,34 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
         width: 792
         height: 447
+        isCached: true
+  - title: "Fujitsu Australia acquires Melbourne data analytics consultancy Versor"
+    excerpt: "Fujitsu Australia has acquired Melbourne-based data analytics specialist management consultancy Versor for an undisclosed sum. Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence and machine learning to underpin its digital transformation consulting services."
+    publishedDateTime: 2021-04-06T01:13:00Z
+    webUrl: "https://www.crn.com.au/news/fujitsu-australia-acquires-melbourne-data-analytics-consultancy-versor-562999"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210406121428_crn-14_mergers_and_acquisitions_iStock-1175614304.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Fujitsu Australia snaps up Melbourne data analytics specialist Versor"
+    excerpt: "Headquartered in Melbourne, Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence (AI) and machine learning ... utilities, financial services, and entertainment industries, achieving more ..."
+    publishedDateTime: 2021-04-06T03:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/687414/fujitsu-australia-snaps-up-melbourne-data-analytics-specialist-versor/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/graeme_beardsell.jpg"
+        width: 800
+        height: 556
         isCached: true
 
 secured: "raFJFGt2kmxVQFVrtvr9xq5xAGYKDstfdWdNXDwzI8Ao/r3sM6OnwLWbf8vzai1CLU5YfNaAxuTS9cg4CkG9XgiIe+eHr7m8GKXBI3h7mMIrG7o2FOiZ3OcnmDGY/9CBAuMv57lapmSr9U1NJD4GxSmjif/ESdA5HAywOrQLY734c/VIvVYbAmGZiKDwNOrMGO4WqD084CwDhRpcGfMzIsz5PrRKus8GCAPqPJ44KQFv0CvW7PWcmKPcBVAQWDHBKkE/DAshJI0tgVRLzVdIm20TE/sfh09e1tL+TEmVwblmFZn+FKWxQvOCAQdy+uYxfuJKAyI6xP7pBn5vpiMM8x7LtQgqL6VCN3ZUT5l1e40=;bbfTXoO0HoG9IIviuE7IUA=="

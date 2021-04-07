@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-23-why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year.md",
+      "title": "Why Analysts See More Upside To Baidu Stock Over The 200% Surge In Past Year",
+      "excerpt": "Baidu also places a lot of emphasis on its Apollo self-driving technology. The company said earlier this month that Baidu Apollo jointly won a bid to construct a 5G intelligent driving project in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20292160/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/baidu_0.jpeg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20292160",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292160",
+      "publishedDateTime": "2021-03-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-lgn-which-helps-companies-deploy-ai-at-scale-raises-2m.md",
+      "title": "LGN, which helps companies deploy AI at scale, raises $2M",
+      "excerpt": "LGN, a startup specializing in technologies that help companies to deploy AI and machine learning at scale, has raised $2 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/",
+      "publishedDateTime": "2021-03-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-uae-driverless-cars-to-transport-passengers-for-free.md",
       "title": "UAE: Driverless cars to transport passengers for free",
       "excerpt": "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,",
@@ -1056,103 +1151,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai.md",
-      "title": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
-      "excerpt": "Twenty-eight years ago, Tate helped create a chip company called Rambus. Its technology is in every DRAM memory part that ships today. Tate thinks AI can be an even bigger market over time. Tate's personal investment vehicle, the Tate Family Trust ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/22/6809777c-9d67-473c-a4d5-fbf5115e4c50/2020-10-linley-fall-1-inferx-x1-chip-final-slide-4.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "publishedDateTime": "2021-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
-      "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
-      "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prio.org/News/Item/?x=2690",
-      "originalUrl": "https://www.prio.org/News/Item/?x=2690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.prio.org/cdn_image/14e76b4ea704480c872484b174430a48.png",
-          "width": 1654,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prio.org",
-        "domain": "prio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

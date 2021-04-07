@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-31-the-corporate-forces-that-helped-shape-ai.md",
+      "title": "The corporate forces that helped shape AI",
+      "excerpt": "The Mavericks Who Brought AI to Google, Facebook, and the World,” New York Times tech correspondent Cade Metz writes about the history of AI and the corporate forces that have shaped it since the mid-2000s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2017/09/GettyImages-813130280.jpg?fit=740%2C411",
+          "width": 740,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
+      "publishedDateTime": "2021-03-31T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions.md",
+      "title": "Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions",
+      "excerpt": "“Arguably, the provision does not apply if a bank employee denies a loan on the basis of a recommendation by an AI system,” he said. Write to Catherine Stupp at catherine.stupp@wsj.com Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserve",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
+      "originalUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318272/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-facebook-gets-a-c-startup-rates-the-ethics-of-social-media-platforms-targets-asset-managers.md",
       "title": "Facebook gets a C – Startup rates the ‘ethics’ of social media platforms, targets asset managers",
       "excerpt": "He says that when he left Fidelity he decided EthicsGrade would out to cover not just ESGs but also AI ethics for platforms that are driven by algorithms. He told me: “We’ve built a model to ...",
@@ -1146,101 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-how-are-gpus-going-to-change-your-working-world-its-ai-everywhere.md",
-      "title": "How Are GPUs Going To Change Your Working World? It’s AI, Everywhere",
-      "excerpt": "SPONSORED Mention GPUs these days, and you will naturally think about how they can accelerate the most challenging AI and machine learning workloads as",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
-      "originalUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
-          "width": 1199,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
-      "publishedDateTime": "2021-03-30T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-highradius-raises-300m-triples-valuation-to-31b-for-ai-powered-fintech-software.md",
-      "title": "HighRadius raises $300M, triples valuation to $3.1B for AI-powered fintech software",
-      "excerpt": "HighRadius, which has developed AI-powered fintech software, announced Tuesday it has raised $300 million in a Series C funding round led by D1 Capital and Tiger Global. The round values Houston ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "publishedDateTime": "2021-03-30T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

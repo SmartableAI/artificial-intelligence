@@ -2,6 +2,109 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-03-microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud.md",
+      "title": "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud",
+      "excerpt": "the Azure Arc enabled data services has been enhanced to include Azure Machine Learning as well. “By using Azure Arc to extend machine learning (ML) capabilities to hybrid and multicloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud",
+      "publishedDateTime": "2021-03-02T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-a-new-program-can-animate-old-photos-but-theres-nothing-human-about-artificial-intelligence.md",
+      "title": "A new program can animate old photos. But there's nothing human about artificial intelligence",
+      "excerpt": "Deep Nostalgia is a likely predecessor of technology that could change our reality. And our emotions make it hard to resist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "originalUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302153937-myheritage-deep-nostalgia-photo-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "publishedDateTime": "2021-03-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts.md",
       "title": "Massive Boon In Computer Chip Shortages Will Slam Future Self-Driving Car Rollouts",
       "excerpt": "Computer chip shortages are hurting automakers, which is exactly what will happen even in the future when self-driving cars start becoming viable, here's why.",
@@ -1069,101 +1172,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu.md",
-      "title": "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu",
-      "excerpt": "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ibm-names-research-veteran-as-cio.md",
-      "title": "IBM names research veteran as CIO",
-      "excerpt": "Helping companies glean value from AI can be a tall order, depending on the industry. The Wall Street Journal reported last month that IBM is exploring the sale of its Watson Health unit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/02/600x338/2021-01-22T172205Z_2_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1614675133801_1614675155889.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
-      "publishedDateTime": "2021-03-02T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

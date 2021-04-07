@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians.md",
+      "title": "AI backpack concept gives audio alerts to blind pedestrians",
+      "excerpt": "\"For years I had been teaching robots to see things ... shares its secret weapon Mahendran's AI backpack isn't for sale, but he says he is going to start a GoFundMe to equip any blind pedestrians ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "originalUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F03%252F24%252F0b%252F0a558442b3924a7b84fd2b866ce898d7.79a8b.png%252F1200x630.png?signature=Wj5EMYk7hbZ-7_I5EZdPFLj7N2E=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "publishedDateTime": "2021-03-24T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers.md",
+      "title": "Apple reportedly bans facial scans of employees, but not factory workers",
+      "excerpt": "Apple's new security guidelines reportedly increase surveillance camera use and require background checks on factory workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "originalUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "publishedDateTime": "2021-03-24T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
@@ -1052,102 +1148,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
-      "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
-      "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/28/magazine/28Mag-StudiesShow-1/28Mag-StudiesShow-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "publishedDateTime": "2021-03-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-24T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

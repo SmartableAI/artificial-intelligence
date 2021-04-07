@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-27-walt-disney-world-testing-facial-recognition-tech-for-park-entry.md",
+      "title": "Walt Disney World Testing Facial Recognition Tech For Park Entry",
+      "excerpt": "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?",
+      "sourceUrl": null,
+      "webUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
+      "originalUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
+      "cdnAmpWebUrl": "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
+      "publishedDateTime": "2021-03-27T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "travelawaits",
+        "domain": "travelawaits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-north-american-ai-in-healthcare-market-trends-2019-segmentation-outlook-industry-report-to-2025.md",
+      "title": "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025",
+      "excerpt": "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U327247103_g.jpg",
+          "width": 800,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "publishedDateTime": "2021-03-27T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-ai-weekly-algorithms-accountability-and-regulating-big-tech.md",
       "title": "AI Weekly: Algorithms, accountability, and regulating Big Tech",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,",
@@ -1103,100 +1189,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-committed-to-accelerating-malaysias-digital-transformation.md",
-      "title": "AWS Committed to Accelerating Malaysia’s Digital Transformation",
-      "excerpt": "In August-September 2020, AWS held the ASEAN DeepRacer Women’s League to encourage young women in higher education institutions to acquire skills in artificial intelligence (AI) and machine learning (ML), and discover how technology can be used to create ...",
-      "sourceUrl": null,
-      "webUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
-      "originalUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mluuru4eusyz.i.optimole.com/vpqnqHQ.UqFF~5efcf/w:1880/h:1253/q:90/https://techent.tv/wp-content/uploads/2021/03/pexels-photo-1538177.jpeg",
-          "width": 1880,
-          "height": 1253,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
-      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
-      "publishedDateTime": "2021-03-26T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techent.tv",
-        "domain": "techent.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
-      "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
-      "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "originalUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/341d9ad/2147483647/strip/true/crop/2819x1879+184+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3c%2Fcf%2F7fe2562f4d5ea428995d61d18f67%2Fendww3evaaaosg4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "publishedDateTime": "2021-03-25T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

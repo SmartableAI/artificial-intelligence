@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ai-emotion-recognition-game-182056088.htm
 webUrl: "https://emojify.info/menu"
 type: article
 quality: 147
-heat: 197
+heat: 199
 published: true
 
 provider:

@@ -19,21 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "Aurora, Volvo partner on self-driving heavy trucks"
-    excerpt: "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis."
-    publishedDateTime: 2021-04-04T15:30:00Z
-    webUrl: "https://www.autoblog.com/2021/04/04/volvo-aurora-autonomous-trucks/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/04/04/volvo-aurora-autonomous-trucks/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/04/volvo-aurora-autonomous-trucks/"
+  - title: "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks"
+    excerpt: "(Reuters) - Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in ..."
+    publishedDateTime: 2021-04-06T03:07:00Z
+    webUrl: "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-idUSKBN2BT0AH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT0AH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT0AH"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
+      name: Reuters
+      domain: reuters.com
+    quality: 48
+  - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks"
+    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in Arkansas and ..."
+    publishedDateTime: 2021-04-06T04:23:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-41617682855936.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks/amp-41617682855936.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks/amp-41617682855936.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
     quality: 44
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-04/08bfccf0-93ea-11eb-9aff-3f448d3059a4"
+      - url: "https://images.hindustantimes.com/auto/img/2021/04/06/600x338/Ex4w0ecVEAIRPE__1617442921787_1617682918309.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks for North America"
+    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp. on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc. in Arkansas and ..."
+    publishedDateTime: 2021-04-06T16:10:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-gatik-works-isuzu-build-delivery-trucks-north-america"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Gatik%20Walmart-MAIN_i.jpg"
         width: 800
-        height: 450
+        height: 600
         isCached: true
 
 secured: "vqY6TdKFE/MVLTocMN4CiaRoAXxxoQIb16nOUniBnlQvbx8TFfV32egm2dcqZEMLRvhSMyekKY1KXQqFx/ce+HdA9+1ndzy2O9RI6+umn89u3dy+sA6tNm8fm9yZQNv1ODeqll/9E7RbUf+Wpyv4OKC0l0g1KT1vfhdvvFs2EHEysH9qKedZuDoUzeDUUaADWsHJDmhe9jc4wM0n8kF2/h6KT3NljOEgT1wGYWYCbXlJLovWzPXVRAcUQ4tAfVmlAN/6goG9ayRQM4oAE/QIZKcxEhbS5zwwcp8lcnpEwYHWfAtIXN9tTZuh3jm/LpckSlucAEFSjjobsixoBGTDBuDIRfyXaHRMbLWuWnBoW+wzgf+ydfm337N6mRO51CWxYz6nzhIL4HHXXN5LzUNKlSZt08g1ZzpLTNGP85cxwtat2PoyGMfd1G214XXzaZuN88NIs+UReCE4kLcnAm8bJb2T5qKN0jSu/shzHLsBo26N4MwrV/p4wRPDnFbW6R3WCOj/gi2+2vHw3S6DDYpDwQ==;9/LCi4ltEN+N41fdawRfqw=="

@@ -27,15 +27,20 @@ images:
 
 related:
   - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
-    excerpt: "Frost & Sullivan's white paper highlights the process of creating an AI strategy for your imaging departmentSANTA CLARA, Calif.,"
-    publishedDateTime: 2021-04-06T06:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-to-power-your-hospital-with-artificial-intelligence-in-medical-imaging-1030275502"
+    excerpt: "April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of radiology, as well as the ..."
+    publishedDateTime: 2021-04-06T06:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-technology-medical-diagnostic-technology-diagnosis-and-treatment-e35ec3c20450c2cf9e678084e1db3e7f"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "h211Xp1RXRw+aLi86jQPykCyt/v/ajUGWto2Ll0CtZWb6O9rkwLTNELTEFRsOy1OwpifbqWDYIVzYf7UJssm42+RP0QUJMxcxI/U6969Xd5TiavFsIQwdVGCHi52JNmupV44M885Rz93nFrrjqob8MmJ/C5NDwhHl9jA6V42u2DU35iUmiMLk4g772d5w5jkaHssODJgwA2NQ/b4E/XqdYiHZIKPnu7rZWoxidJNGr5vV1EcOn7bzjsC913gTCRAg1VV9aHVGN/7MSKEcx5YTv2mPSZNlT/LbZEVgdfhefHsT/HAOodlGKcd6Rz4E8XpKmzBEsoISmLYBCTuVqcebrZv+KfyPPhRP64Cg/f5B7Q=;BSIRrUOir2eDbprtFPAo2w=="
+secured: "Sj/NhgIAy0g5bX0kydedrMAzNU0fzfeTa/7CwCCW5OiJTc049Kn5XM7fEk104X/Vmw02A1u8F+eP9vuHkYmi0Z1GiDWDjrlMl0T0vJNx1cS3oaMCIVkEwrFOW/Vvg/Rrd+bvJ/1h+RNsERZrkpMkpfzIAiG7H/e6dygTDZ9c3XliagvEUCYrAUoDgmRCPEe+DUwOBENd33wCRnDgBsbnwO1zPG9+RkYSDeHJxgCMJffM57xY7uNxlu7r/IieblnQx/WhnG41Z9XkjfPRPvBDx4tM+dSY6RQzdkfpKpCZxYfISQHUUnwklM0DcDub3EKnKDRtSFvG79ywva5sB7pZahMi+2uy/qIm9Drbi4GGGSI=;D391HRFMuEEXRibNDwxkzA=="
 ---
 

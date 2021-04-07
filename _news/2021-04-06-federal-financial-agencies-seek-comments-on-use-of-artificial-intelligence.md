@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The National Law Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Rise of Ai Voice E-Commerce"
+    excerpt: "During the last 10 years, companies such as Google, Mercedes Benz, Amazon, Apple and Facebook ... research that fits in with its customers. This may be especially challenging when a brand speaks with multiple demographics. 4. Why Early Conversational Ai ..."
+    publishedDateTime: 2021-04-06T23:30:00Z
+    webUrl: "https://powerretail.com.au/sponsored-post/the-rise-of-ai-voice-e-commerce/"
+    type: article
+    provider:
+      name: powerretail.com.au
+      domain: powerretail.com.au
+    quality: 39
+    images:
+      - url: "https://mlo34ofws4g4.i.optimole.com/T4zpr1M-7IFPyGwv/w:auto/h:auto/q:auto/https://powerretail.com.au/wp-content/uploads/2021/04/Abnormal_1.jpg"
+        width: 760
+        height: 460
+        isCached: true
   - title: "How Financial Brands Can Use AI and Data To Offer More Personalized Services"
     excerpt: "These advances promise to enhance security, optimize operations, and improve customer service. This is why 80% of banks highly anticipate fintech’s AI advantage. But how will they put it to work? Incorporating emerging technology is nothing new to the ..."
     publishedDateTime: 2021-04-06T13:22:00Z

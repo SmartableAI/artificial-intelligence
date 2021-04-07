@@ -45,36 +45,31 @@ related:
         height: 933
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-    excerpt: "Bengio had defended the pair, who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed from the company without his being ..."
-    publishedDateTime: 2021-04-06T17:31:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+    excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
+    publishedDateTime: 2021-04-06T18:31:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
-        width: 811
-        height: 545
-        isCached: true
-  - title: "Google AI scientist Samy Bengio resigns after colleagues' firings"
-    excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
-    publishedDateTime: 2021-04-07T03:06:00Z
-    webUrl: "https://www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-11617764398700.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings/amp-11617764398700.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings/amp-11617764398700.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "Google AI scientist Samy Bengio resigns after colleagues’ firings"
+    excerpt: "At least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart"
+    publishedDateTime: 2021-04-07T05:29:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/lite/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 59
     images:
-      - url: "https://images.livemint.com/img/2021/04/07/600x338/2021-04-06T231455Z_1108314339_RC2NQM9YJR8L_RTRMADP_3_ALPHABET-GOOGLE-RESEARCH-BENGIO_1617764502464_1617764523113.JPG"
-        width: 600
-        height: 337
+      - url: "https://images.indianexpress.com/2021/04/Google_Logo_Reuters_1.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
@@ -117,19 +112,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Google AI Research Manager Quits After Two Ousted From Group"
-    excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc. researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
-    publishedDateTime: 2021-04-06T19:37:00Z
-    webUrl: "https://www.bloombergquint.com/technology/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
+  - title: "Google AI research manager quits after two ousted from group"
+    excerpt: "At Google, he was part of the TensorFlow team, building a rival offering that surpassed Torch in popularity. Facebook Inc researchers used his earlier work for its PyTorch library of AI tools. Bengio also published research in areas like adversarial ..."
+    publishedDateTime: 2021-04-07T04:46:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/07/google-ai-research-manager-quits-after-two-ousted-from-group"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: The Star
+      domain: thestar.com.my
     quality: 41
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/07/1104373.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "kqWV24SdSr5DnAJjh5mrF4joRoMqJevoSRGmz2vtP3YDtEldO2uiJ/mJVTOroFPJ2eIetdJY0/houc3TwjBc++9kKbf4WPCU5r97NGc8Kc7BzSd1085ELeU7AFM7GzV4B5Jef4IRu0LzCwRGPTwRC/hDPh7QLjF5CXr2kH7uyuuUliE1mZeV5mu/4Ed3VfjW4ivGjNyXn1arM2iNvUi81B7A9XBrA1j9TgRmX9GH3ix63V/g2TYNhxo553OrPtZ1ehpaG4dcroqJy+4up1/YrRyyIzpnlV3zybqUR7CiszvPlevQmdrMB/SQZCXJ4RYRdvnLMI7hYgPisQ+GRMKTJ2i5+3gNMcd/1TTxCpre9vW2fnPOOeEO0P+R4VB5hCgXoRaMtA8rs6KxR0nr41TdITSsQpbDRarSLTJRbMghg+ru0frfTBfekznqSC86x1yP3hNM60/vVINGUND62amYozA9QPLue8xs6ld7eSbPX0m7n7SxzFYvCTaXyaxGipn81dO30QmLSQcX5SHvAx87jQ==;fbzb285YHb7JUSw0bvpVmg=="

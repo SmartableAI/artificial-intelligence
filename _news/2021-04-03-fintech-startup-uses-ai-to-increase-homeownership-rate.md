@@ -24,17 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Fintech startup with local presence uses AI to drive up homeownership rate"
-    excerpt: "\"Our initial thought was, 'A home is one of the biggest purchases you'll ever make. There's so much data out here about home buying, and everyone benefits from that except the buyer,'\" Home Lending Pal co-founder Bryan Young said."
-    publishedDateTime: 2021-04-02T11:50:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "TnWyRT0RIFtv34IsvDrUmJ+syJnUvwMR8d8EEfZu/IX06zmbQnjWZurrSvzOTlor7oqmp7edATcjsBhZg0S6+mCyHMv2eBk6T5vo47HvZrL9WKn+PbL0C4uqVfAtCF5NKlByEhiNRofi3uHWK3O7HOmrF+FSznatkLeD1M4C5obJLPOfNo8NEGYC1tdRGse7lWG8iT1x8Op5nQLxbA24MLklfdfXGtuxFzhEZaP0Y5/6UukQCpVYCFsRskBW1X/y0dpT16Mpk07w6zso/aJN6QBS7ReufVqooUzttLVyLDASqGWMq/6AZM7YFV5q7rW2iES46NKo5lE8Pw2MXpiCyUtzMRmAw1vQx5Qrfpa31eo=;d0dhYUNByCt/h+V5ee6gBA=="
 ---
 

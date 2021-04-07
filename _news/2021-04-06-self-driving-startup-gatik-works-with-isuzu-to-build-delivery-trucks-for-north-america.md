@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks"
+    excerpt: "(Reuters) - Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in ..."
+    publishedDateTime: 2021-04-06T03:07:00Z
+    webUrl: "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-idUSKBN2BT0AH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT0AH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT0AH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 48
   - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks"
     excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in Arkansas and ..."
     publishedDateTime: 2021-04-06T04:23:00Z
@@ -41,15 +52,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks"
-    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers."
-    publishedDateTime: 2021-04-06T04:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-2021"
+  - title: "Palo Alto self-driving tech startup Gatik partners with Isuzu on delivery trucks"
+    excerpt: "Gatik Inc., which makes self-driving delivery trucks for Walmart Inc. and others, announced a partnership with Isuzu North America Corp on Tuesday. The Palo Alto company said it will develop and evaluate fully autonomous medium-duty internal combustion trucks with the Japanese vehicle maker."
+    publishedDateTime: 2021-04-06T13:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/06/gatik-partners-isuzu-on-delivery-trucks.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "VyPu9NxWwKcF9EMO8Ww+dGm60wS1Ncro04/Np6dVPcsLBtTfMp35vyfn6ccIDpsriWmCkXbgRaSbyg9WvmrBcEj6zchOzA+n1IoksjoBXBF51WnZv2EvXQiYqUMB/Tt/7I0/3Vuv+mFXzUMxkenQegQbmwmGLGPsAgVN2SESJS5oXVXJMdgJZG1KqRUFtHsBDwpAb/R/XWJIJjCaPFuL5FXHAq0gyoTyhFTtoIc7v8CSEEwE+WhJb77ZotksI8iS/eJ8a7UGJHQYw57pDZFKbmFRNCC8cQBjIV3nq7K1Z/dqaWS1Gt8zJMiOZkqWRLBoxnvnedhX8l+nvSPNwmxM65mn7Cn6+RNstBPd57uCbjgerwIxErBZAafWYqaxQcoEDm6dNbVMmxnPy1VjQwO4K+h6JCd7GCw+stH+GuxiuXDABe1sSDLVPKh7UqrXn3u7g1CTCY4qVoAJqdPj52TgPWOaeyFnYA5vVQk4C8nfzvVsfUL+dZerKpfuqaQ3EdLW/2WBDbiTakvo+7ZOdReEKQ==;LebJIdI7baiSAJCzEh8ReA=="
 ---

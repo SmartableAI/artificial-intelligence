@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI In B2B E-Commerce: The Challenges And Alternatives"
-    excerpt: "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A"
-    publishedDateTime: 2021-04-02T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/"
+  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
+    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
+    publishedDateTime: 2021-04-05T22:31:00Z
+    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
-        width: 1200
-        height: 836
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "How Financial Brands Can Use AI and Data To Offer More Personalized Services"
+    excerpt: "These advances promise to enhance security, optimize operations, and improve customer service. This is why 80% of banks highly anticipate fintech’s AI advantage. But how will they put it to work? Incorporating emerging technology is nothing new to the ..."
+    publishedDateTime: 2021-04-06T13:22:00Z
+    webUrl: "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 36
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg"
+        width: 1920
+        height: 711
         isCached: true
 
 secured: "ytjEHY7NbWfgUMcvV6Yvse0vxe9bplqxZWi85Wi8WaFBOGgffJsvkwFDUsJM82Cmi+bQOxtLKmTvB6E4BYvVfgk3qYt2m68ffeT6hWewhuHDlASIkhR+DIshb1rhUGvLcESUc4zDo7jeA9X92mscd60DUBHrqWz3pjvoTQJPO6EKZRgFqwlZu0IQ8xMHWvGbvjM28klszb3BGzvXBfKhbjpQxcXxd1a7uX1kryrzS4A2jpGZo172Jm6/CSSM71PZxAQeBfqXoxzD/6ukWjgC2PfhgWwn2IK87GLLGUhEOAT4PUVGhVaV6fm7SJnVfK35d5BCEkw8PugQNn7S3wANBbnVPU8Z82plon5Cne0G13k=;18r0QfoqPX2LSOQX23Dr+A=="

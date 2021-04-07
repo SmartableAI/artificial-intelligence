@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-u
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: The New Indian Express
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered social media analytics startup Circus Social raises $1 million"
-    excerpt: "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,"
-    publishedDateTime: 2021-04-02T11:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Chevron, Handy Mart Operators Deploy AI-Powered Predictive Analytics to Streamline Operations"
     excerpt: "Regional convenience and fuel retailers H&S Energy of California, E.J. Pope & Son of North Carolina and Welcome Break in the UK have implemented AI optimization tools from Hypersonix to support functionalities including real-time fuel pricing and ..."
     publishedDateTime: 2021-04-05T19:25:00Z
@@ -85,6 +69,34 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
         width: 792
         height: 447
+        isCached: true
+  - title: "Fujitsu Australia acquires Melbourne data analytics consultancy Versor"
+    excerpt: "Fujitsu Australia has acquired Melbourne-based data analytics specialist management consultancy Versor for an undisclosed sum. Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence and machine learning to underpin its digital transformation consulting services."
+    publishedDateTime: 2021-04-06T01:13:00Z
+    webUrl: "https://www.crn.com.au/news/fujitsu-australia-acquires-melbourne-data-analytics-consultancy-versor-562999"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210406121428_crn-14_mergers_and_acquisitions_iStock-1175614304.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Fujitsu Australia snaps up Melbourne data analytics specialist Versor"
+    excerpt: "Headquartered in Melbourne, Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence (AI) and machine learning ... utilities, financial services, and entertainment industries, achieving more ..."
+    publishedDateTime: 2021-04-06T03:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/687414/fujitsu-australia-snaps-up-melbourne-data-analytics-specialist-versor/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/graeme_beardsell.jpg"
+        width: 800
+        height: 556
         isCached: true
 
 secured: "vUOxIKnghn1pLYY05BBEf1+GcDd/XINe+UtH6x1WEwIpFXoNnAYHKQOvKjeM5VKQJQngthnpAMSP2qNONrl9xvcybqwVq3N0w747DZVR7z/beKDzpxQ2MNOEK+7W16N7shLDYu7C4SXQo0IkMhzCyReEmHZAVtoxhO9MT7CSsvhIabML+4sK+hGkEjfoKOdCp93TQ3+KgiyZSV2EcR4xhYFhrgWRjO7ypP58gyY/BzHiTcfIT6pz9Np/4ZlYDH4Ud26sm63vE2EfVgCa/71mH22gox4N0WuDEmwZNWSZcyXE8dcgf9joR5gDE+H32jyzERs/Rm7EKrvO4VRM3vsUvasb6NHjlR1hifVg9NJeYBo=;JUaBK4EFQGyAAhW5WCN9qw=="
