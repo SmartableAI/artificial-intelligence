@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-20-startup-leaders-heres-how-to-build-a-successful-advisory-board.md",
+      "title": "Startup Leaders, Here’s How To Build A Successful Advisory Board",
+      "excerpt": "I’m sometimes asked about the benefits and limitations of advisory boards for company CEOs, and how to get the most from that investment. I tend to give the same advice: A neglected advisory board is like an untended garden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "originalUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6055ebf29bf087833498638c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "publishedDateTime": "2021-03-20T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
       "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
       "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
@@ -1132,49 +1183,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid.md",
-      "title": "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid",
-      "excerpt": "Travel tech firm Pangiam is betting this is only the beginning with the acquisition of the facial recognition system VeriScan from the Washington, D.C., airports operator. Imagine passing through ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2021/03/IMG_0310.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "publishedDateTime": "2021-03-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

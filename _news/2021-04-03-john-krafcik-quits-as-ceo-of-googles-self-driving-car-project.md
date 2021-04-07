@@ -1,27 +1,29 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Google’s self-driving car project"
-excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-publishedDateTime: 2021-04-03T16:46:00Z
-originalUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
-webUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
+title: "John Krafcik quits as CEO of Google's self-driving car project"
+excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+publishedDateTime: 2021-04-03T05:06:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1146846.html"
+webUrl: "https://www.prokerala.com/news/articles/a1146846.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1146846.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/04/4517ff7349973a2d5d0202f1812be84b.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg"
+    width: 1200
+    height: 799
     isCached: true
 
 related:
@@ -108,6 +110,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "KR1fGZNCA0ye8o+oxG46+NCjLmneN6ZBpQFdgsmrlalTMXjd+Q0YevP5hUk9IKZnVSpbhN1V1qpNHpyiSxXjtQQKUBeWkch96qVyecCw3DnAP/qV3E3U1T+YnFAyn15ePGTvQmYWJ7ng86PQ5bi/H4OFeyQ3g1TteXgdldwI+PSFo7UrvO8BelTHG8kIRL9zYPpimWyL3yXve5/ZQrirQXBWyF53BCEE3MOZhokzJIsJaGcJCRcavLTJ79fyhhGizOJVToldWVxJVd0yJFtu0doTh4H+klX1wqUfsgKM7ZnRUSfjclpD4db7sCIEwptK3Wv90HbntqMCLM9EQusM5M4aTyMhrtYHUkJeJ5MjvFM=;pkAt0H6Cxa5JfDFXa58Tkw=="
+secured: "7IZoZ77GpuDYR1g2crHsEylTaFXGqrKNcY0a0ZC1HZGKEUB3RguAGRnwfVpnSu3lKlz3rV3l24PgBxbOVL7YK0A3jT1nsjb4kSJ37hZNVeCe2EbNf80xfQsrqJxCBaLFMBa1pMkIQ1w5EAWuWlYJ5GftGc4x7b1fIWS87MndUgMHrE7xNn4SbjQ3AEh3ldlK2cx85O5FSpMsiuaDdhq2Ppo4u21pmWAcxx5KYr3RJDWRJS+Uidiq1PxHg3LmrKC0qKpy9yXDUYKHxLyyF9XNYbIAu0sKTpKZvmIr3rDq4cEuBMhyXKdKtOlMVkRfoaDJXiK6FzSk5teqL9Bx7B5TsdISV8VrNqTNY+BcEHRQ7dQ=;na99Dn6+2S18GNjpM+ZZ/w=="
 ---
 

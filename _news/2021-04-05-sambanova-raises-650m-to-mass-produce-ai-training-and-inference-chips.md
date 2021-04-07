@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 64
   - title: "Uniphore Raises $140 Million in Series D Funding as Demand Skyrockets for Enterprise AI and Automation Solutions"
     excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced it has raised $140 million in Series D funding, bringing the total funds invested in the company to $210 million. This latest round of financing was led by Sorenson ..."
     publishedDateTime: 2021-04-06T04:30:00Z

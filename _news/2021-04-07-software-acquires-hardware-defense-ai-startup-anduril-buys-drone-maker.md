@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2021/04/07/software-acqui
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

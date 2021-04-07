@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-qu
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
 type: article
 quality: 71
-heat: 92
+heat: 91
 published: true
 
 provider:

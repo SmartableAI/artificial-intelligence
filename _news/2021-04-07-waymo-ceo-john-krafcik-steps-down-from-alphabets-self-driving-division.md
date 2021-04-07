@@ -45,6 +45,22 @@ related:
         isCached: true
   - title: "John Krafcik quits as CEO of Google's self-driving car project"
     excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+    publishedDateTime: 2021-04-03T05:06:00Z
+    webUrl: "https://www.prokerala.com/news/articles/a1146846.html"
+    ampWebUrl: "https://www.prokerala.com/news/articles/a1146846.html?amp=1"
+    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1"
+    type: article
+    provider:
+      name: Prokerala
+      domain: prokerala.com
+    quality: 44
+    images:
+      - url: "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "John Krafcik quits as CEO of Google's self-driving car project"
+    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
     publishedDateTime: 2021-04-05T13:20:00Z
     webUrl: "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html"
     ampWebUrl: "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html"
@@ -82,20 +98,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T16:46:00Z
-    webUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 24
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/04/4517ff7349973a2d5d0202f1812be84b.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "CEO of Google’s self-driving car spinoff steps down from job"
     excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
     publishedDateTime: 2021-04-04T04:21:00Z

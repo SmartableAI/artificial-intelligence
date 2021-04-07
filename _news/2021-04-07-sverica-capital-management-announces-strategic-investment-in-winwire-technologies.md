@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Sverica Capital Management Announces Strategic Investment in WinWire Technologies"
+    excerpt: "“Ashu has done a remarkable job building WinWire into one of the leading providers of Azure-centric services ... solutions leveraging cloud, AI, machine learning, mixed/augmented reality ..."
+    publishedDateTime: 2021-04-07T18:26:00Z
+    webUrl: "https://venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/"
+    ampWebUrl: "https://venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "WinWire secures investment from Sverica"
     excerpt: "Sverica Capital Management has made an investment in Santa Clara, California-based WinWire, a digital engineering company."
     publishedDateTime: 2021-04-07T13:44:00Z

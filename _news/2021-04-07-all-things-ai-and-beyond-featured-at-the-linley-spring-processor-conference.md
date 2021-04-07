@@ -35,22 +35,6 @@ related:
         width: 1191
         height: 671
         isCached: true
-  - title: "How NVIDIA Is Embracing Cloud Native To Scale GPU Infrastructure"
-    excerpt: "It’s not surprising to see NVIDIA betting big on cloud native. The combination of Kubernetes and GPUs delivers unmatched scale for AI workloads."
-    publishedDateTime: 2021-04-03T02:21:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6067ccb248a1db6867c0c223%2F0x0.jpg"
-        width: 1000
-        height: 619
-        isCached: true
   - title: "Lanner Network Appliance and Edge AI Computer Now Officially Validated as NVIDIA GPU Cloud Ready Platforms"
     excerpt: "Lanner’s first NVIDIA NGC-ready platform for accelerating deployments of network edge virtualization and 5G edge cloud computing."
     publishedDateTime: 2021-04-07T14:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pehub.com/winwire-secures-investment-from-sverica/"
 webUrl: "https://www.pehub.com/winwire-secures-investment-from-sverica/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Sverica Capital Management Announces Strategic Investment in WinWire Technologies"
+    excerpt: "“Ashu has done a remarkable job building WinWire into one of the leading providers of Azure-centric services ... solutions leveraging cloud, AI, machine learning, mixed/augmented reality ..."
+    publishedDateTime: 2021-04-07T18:26:00Z
+    webUrl: "https://venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/"
+    ampWebUrl: "https://venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/sverica-capital-management-announces-strategic-investment-in-winwire-technologies/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Sverica Capital Management Announces Strategic Investment in WinWire Technologies"
     excerpt: "Sverica Capital Management LP (“Sverica”), a private equity investment firm, announced today that it has made a strategic investment in WinWire Techno"
     publishedDateTime: 2021-04-07T14:30:00Z

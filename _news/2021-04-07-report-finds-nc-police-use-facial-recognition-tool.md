@@ -25,49 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Hampton and Newport News police used facial recognition app, then denied it"
-    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ..."
-    publishedDateTime: 2021-04-06T15:15:00Z
-    webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-    ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+  - title: "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies"
+    excerpt: "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa"
+    publishedDateTime: 2021-04-07T01:40:00Z
+    webUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884"
+    ampWebUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 57
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 97
     images:
-      - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
-        width: 1200
-        height: 705
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
-    excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
-    publishedDateTime: 2021-04-06T12:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
+  - title: "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI"
+    excerpt: "Ao continuar com a navegação em nosso site, você aceita o uso de cookies. The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise. By Caroline Haskins Posted on ..."
+    publishedDateTime: 2021-04-06T18:12:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 41
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 97
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
-    excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.idahostatesman.com/news/politics-government/article250461956.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/politics-government/article250461956.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/politics-government/article250461956.html"
+  - title: "BuzzFeed research finds dozens of NC law enforcement agencies have used facial recognition technology"
+    excerpt: "Raleigh, N.C. — A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies. Buzzfeed got access to a list of clients of Clearview AI ..."
+    publishedDateTime: 2021-04-06T14:35:00Z
+    webUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/"
+    ampWebUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
     type: article
     provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 31
+      name: WRAL
+      domain: wral.com
+    quality: 44
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2020/05/28/19118314/5ecfeb5a5672b-c2a8c5de-2c2b-496a-9516-bc92a5ba107c-DMID1-5mzi4s7v8-2000x1125.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
+        isCached: true
+  - title: "Report: Argo AI considering going public later this year"
+    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
+    publishedDateTime: 2021-04-05T12:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "cXU3y7vvyfGBx6hDr1crjXhQyZfcqaV/4ItHLikg8JIFekitysiI+wo/N/Ale7I2W+4MX2SrK+FPQA/huEEdrvIROBRq4zAEFqTc7VQLim2C+FSWOS8vbJVWa11qjG45DL5LO+Uka+FwqkShjBmz0mkk+uur3Q0bSJle96VS451TutH/0WeVmDZG/vTN1acm5ww4l+bgcImLJNXLmQ4qxPi4T0ToXnelJ0/GfPuUr+XxL3pWssHvkpD/F+gXcHy2Nog+gYp0BUt+lFxZwPti7eXqhj0lMKzKuSSgvsrVo/xnSRikLZwUcXLcHBwBWi0Kbx6f4rv9UEmhW2Np9eZX057qUVR2xMHB9yQSQNq2P2U7c/FOX+jqV0IyaZTHwKUV74QRpa6pC7tvoElNrGmZWCBI+t3S0dgpAFVQXtcO5aUAOmiHvI3SNsoSIo+XqHWYzo6044BW9VbSf6cuqROg6XMJJ//Hx32UL2RXM/2if6XXEHOGK4/1dtwS668biscnM6wZ2mUd4Lvrd5T7IERJZQ==;+eSnaiKIHLpLFfvAga+iMg=="
 ---

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
+      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
+      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "publishedDateTime": "2021-04-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
       "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
       "excerpt": "(Reuters) - Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
@@ -49,6 +91,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
+      "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
+      "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
+      "originalUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
+      "publishedDateTime": "2021-04-06T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -199,7 +293,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -239,6 +333,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
+      "title": "Self-driving sensor startup Innoviz's shares rise on public debut",
+      "excerpt": "Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4",
+      "originalUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4?amp",
+      "publishedDateTime": "2021-04-06T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -476,58 +613,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-the-nypd-has-misled-the-public-about-its-use-of-facial-recognition-tool-clearview-ai.md",
-      "title": "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI",
-      "excerpt": "Ao continuar com a navegação em nosso site, você aceita o uso de cookies. The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise. By Caroline Haskins Posted on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "publishedDateTime": "2021-04-06T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
       "title": "Deep learning networks prefer the human voice—just like us",
       "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
@@ -726,7 +811,7 @@
       "originalUrl": "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -820,7 +905,7 @@
       "originalUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -950,58 +1035,6 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-your-local-police-department-might-have-used-this-facial-recognition-tool-to-surveil-you-find-out-here.md",
-      "title": "Your Local Police Department Might Have Used This Facial Recognition Tool To Surveil You. Find Out Here.",
-      "excerpt": "Search through BuzzFeed News’ database to find out if the police department in your community is among the hundreds of taxpayer-funded entities that used Clearview AI’s facial recognition. By Ryan Mac and Caroline Haskins and Brianna Sacks and Logan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
-      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
-          "width": 1600,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1155,58 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla.md",
-      "title": "3D printed all-optical diffractive deep neural network created at UCLA",
-      "excerpt": "It uses the light scattered by an object to identify the object. UCLA researchers based the system on a deep learning-based design using passive diffractive layers working together. Researchers created a computer-simulated design first and then used a 3D ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
-      "originalUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/ucla-od.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
-      "publishedDateTime": "2021-04-06T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

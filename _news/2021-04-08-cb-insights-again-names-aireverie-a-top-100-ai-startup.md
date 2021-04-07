@@ -31,6 +31,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Deci Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Deci to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies"
+    publishedDateTime: 2021-04-07T18:30:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301264041.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Overjet to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private"
     publishedDateTime: 2021-04-07T13:43:00Z

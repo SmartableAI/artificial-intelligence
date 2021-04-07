@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-2
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Report finds NC police use facial recognition tool"
-    excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
-    publishedDateTime: 2021-04-06T22:19:00Z
-    webUrl: "https://www.wral.com/report-finds-nc-police-use-facial-recognition-tool/19613502/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 39
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/local/2021/04/06/19613503/117438-surveillance-DMID1-5qftv183m-640x480.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
     excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."

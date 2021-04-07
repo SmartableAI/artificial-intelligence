@@ -43,6 +43,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Deci Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Deci to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies"
+    publishedDateTime: 2021-04-07T18:30:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301264041.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Theator Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "NEW YORK, April 7, 2021 /PRNewswire/ -- CB Insights today named Theator to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... and other stakeholders in the healthcare ecosystem with actionable value ..."
     publishedDateTime: 2021-04-07T13:30:00Z

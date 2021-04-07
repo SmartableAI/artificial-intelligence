@@ -20,34 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
-    excerpt: "Argo AI, the self-driving startup backed by Ford ... partners and it’s not clear if will do a traditional IPO or merge with a SPAC, the people said. And plans could slip into next year, the people said. “We have a solid financial runway due to ..."
-    publishedDateTime: 2021-04-03T01:45:00Z
-    webUrl: "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 137
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/8iMZWyJSib_U6UOBMp8VFQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f2b7c7c1b8a40627f8e7745a7e5fc85"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Self driving startup may go public - report"
-    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
-    publishedDateTime: 2021-04-06T13:02:00Z
-    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Ford-backed Argo AI mulls going public this year, report says"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen Group, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April ..."
     publishedDateTime: 2021-04-03T12:41:00Z
@@ -62,29 +34,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
-    publishedDateTime: 2021-04-07T13:20:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Report: Argo AI considering going public later this year"
-    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
-    publishedDateTime: 2021-04-05T12:50:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "HV3+xp8STmPVV7YqoPcVsM5DRtyCI43BgcO9ebTAX8+vG9OzfHHvgH5svNT8UwgLJ31cOCikIcKyy63UBx9jx9xuVGk+rBiIPUYbokeBqO4oCSID8+f7zJLDu0abWYYFMLnLh6hVmNkkyz93iObnOBQL7alhZFvV9GZCxjPs28/++MMkG7GZwfHs0UXTB/sD9u1m/h07kPMaghBo9UE8XcJqqneFed7JKbb6MrfU4Adz0596NOcYeFaIVmbrQzvhesYvQkvYjKTBHiAAoQ0FSNnjAqvJTvaKhQGG6j6TxmxUwT3p6xFSMttb5h8846dVY2iS8/a8+/p98aVMkIILe14mc3llEC09i05hg+Ra6Ys=;GsSbNFgZRYdEmdedktPqbQ=="
 ---

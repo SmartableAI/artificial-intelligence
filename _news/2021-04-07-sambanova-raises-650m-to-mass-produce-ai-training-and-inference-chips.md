@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-06T17:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417"
 webUrl: "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417"
 type: article
-quality: 47
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "SambaNova raises $650M to mass-produce AI training and inference chips"

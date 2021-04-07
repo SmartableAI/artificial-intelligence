@@ -2,6 +2,110 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-02-18-ai-powered-math-tutoring-app-photomath-raises-23-million.md",
+      "title": "AI-powered math tutoring app Photomath raises $23 million",
+      "excerpt": "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
+      "originalUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/01-photomath-formula-scan-android-e1613491006395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
+      "publishedDateTime": "2021-02-18T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-baidu-hops-aboard-the-electric-vehicle-express.md",
+      "title": "Baidu Hops Aboard the Electric-Vehicle Express",
+      "excerpt": "Baidu’s announcement that it will venture into EVs has supercharged its shares, and though it brings some advantages, its conversion from value to presumptive growth stock has been remarkably fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "originalUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-300769/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "publishedDateTime": "2021-02-18T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
       "title": "Baidu revenue beats estimates as core search business recovers",
       "excerpt": "In January, the company announced it is teaming up with Zhejiang Geely Holding Group to produce smart electric vehicles, prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. With its AI applications still in the early ...",
@@ -1050,92 +1154,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-samsung-creates-ram-with-integrated-ai-processing-hardware.md",
-      "title": "Samsung creates RAM with integrated AI processing hardware",
-      "excerpt": "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
-      "originalUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
-      "publishedDateTime": "2021-02-17T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition-technology.md",
-      "title": "ACLU, civil rights groups urge Biden to halt use of facial recognition technology",
-      "excerpt": "The American Civil Liberties Union (ACLU) and other civil rights groups are urging President Biden to halt the use of facial recognition technology by the federal government over dangers the technolog",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology",
-      "originalUrl": "https://thehill.com/policy/technology/539218-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

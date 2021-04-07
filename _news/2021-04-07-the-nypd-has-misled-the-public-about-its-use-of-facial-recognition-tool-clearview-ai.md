@@ -9,8 +9,8 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misle
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
 type: article
 quality: 97
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: BuzzFeed News
@@ -29,6 +29,77 @@ images:
     width: 625
     height: 415
     isCached: true
+
+related:
+  - title: "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies"
+    excerpt: "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa"
+    publishedDateTime: 2021-04-07T01:40:00Z
+    webUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884"
+    ampWebUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 97
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "BuzzFeed research finds dozens of NC law enforcement agencies have used facial recognition technology"
+    excerpt: "Raleigh, N.C. — A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies. Buzzfeed got access to a list of clients of Clearview AI ..."
+    publishedDateTime: 2021-04-06T14:35:00Z
+    webUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/"
+    ampWebUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 44
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2020/05/28/19118314/5ecfeb5a5672b-c2a8c5de-2c2b-496a-9516-bc92a5ba107c-DMID1-5mzi4s7v8-2000x1125.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
+        isCached: true
+  - title: "Report finds NC police use facial recognition tool"
+    excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
+    publishedDateTime: 2021-04-06T22:19:00Z
+    webUrl: "https://www.wral.com/report-finds-nc-police-use-facial-recognition-tool/19613502/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 39
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/local/2021/04/06/19613503/117438-surveillance-DMID1-5qftv183m-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Report: Argo AI considering going public later this year"
+    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
+    publishedDateTime: 2021-04-05T12:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "qKtjdcXoSJ+5fQMTFJBlPRUQ1eMy2PEsuiXythv2Egk+tBTY7jlduJQLy6wRNyn1RAqFQI246jLpK+iNlyrcbFGlcPmeq6EDY6w1uOBUm2w6afH9p+CrznH1GtkrKG+YfgnhxBmM1jdCmXoy+UpxlpQWWnaWFat2JuRZKlV6fJkv4bKeI9Z9OB+zCPX/NWIPS7PEqFObTWiHfeECuIVt4ifCOfb9BKWGpK4YcRouAWQVDefZKoHxX8Ewyad9cZ4AliyPIHBMZQWCSl1E8a2q+nSpczvSi2t/b4albBf+sYYyjk0ClKNiAa54ihyh1iYVVb0z/r/Xqs0J92smHpbJbr2r7Plxu25RXw86zak3xu5mm4bweV8z7yNDFvxxIzymmxpy27VGe+1s7yb0WhEZgTaKj570ZWIoS48tCg16HeecNlMf4oNzNrW8Cpv1p9iis4NraOE2AET8PvBXUnzctTuFkUrvRXJ+ZV/vmZ/0wSyRaUMuIcysSaZr8C5owiv4dKh1CtJidqfUsuzXX3IbHA==;JGOMzUbmEc4/kqEPfbTdvg=="
 ---

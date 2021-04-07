@@ -18,72 +18,81 @@ topics:
   - AI
 
 related:
-  - title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
-    excerpt: "Argo AI, the self-driving startup backed by Ford ... partners and it’s not clear if will do a traditional IPO or merge with a SPAC, the people said. And plans could slip into next year, the people said. “We have a solid financial runway due to ..."
-    publishedDateTime: 2021-04-03T01:45:00Z
-    webUrl: "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html"
+  - title: "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies"
+    excerpt: "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa"
+    publishedDateTime: 2021-04-07T01:40:00Z
+    webUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884"
+    ampWebUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 137
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 97
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/8iMZWyJSib_U6UOBMp8VFQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f2b7c7c1b8a40627f8e7745a7e5fc85"
-        width: 600
-        height: 400
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Self driving startup may go public - report"
-    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
-    publishedDateTime: 2021-04-06T13:02:00Z
-    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
+  - title: "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI"
+    excerpt: "Ao continuar com a navegação em nosso site, você aceita o uso de cookies. The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise. By Caroline Haskins Posted on ..."
+    publishedDateTime: 2021-04-06T18:12:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 97
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "BuzzFeed research finds dozens of NC law enforcement agencies have used facial recognition technology"
+    excerpt: "Raleigh, N.C. — A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies. Buzzfeed got access to a list of clients of Clearview AI ..."
+    publishedDateTime: 2021-04-06T14:35:00Z
+    webUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/"
+    ampWebUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 44
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2020/05/28/19118314/5ecfeb5a5672b-c2a8c5de-2c2b-496a-9516-bc92a5ba107c-DMID1-5mzi4s7v8-2000x1125.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
     quality: 39
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
         isCached: true
-  - title: "Ford-backed Argo AI mulls going public this year, report says"
-    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen Group, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April ..."
-    publishedDateTime: 2021-04-03T12:41:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-ai-mulls-going-public-year-report-says"
+  - title: "Report finds NC police use facial recognition tool"
+    excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
+    publishedDateTime: 2021-04-06T22:19:00Z
+    webUrl: "https://www.wral.com/report-finds-nc-police-use-facial-recognition-tool/19613502/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
+      name: WRAL
+      domain: wral.com
+    quality: 39
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/Argo%20AI-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving startup Argo AI is said to consider IPO this year"
-    excerpt: "Argo AI, a self-driving startup that is backed by Ford Motor Co. (F) and Volkswagen (VWAGY), is reportedly considering an initial public offering as soon as this year."
-    publishedDateTime: 2021-04-03T15:23:00Z
-    webUrl: "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
-    publishedDateTime: 2021-04-07T13:20:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
-        width: 800
-        height: 600
+      - url: "https://wwwcache.wral.com/asset/news/local/2021/04/06/19613503/117438-surveillance-DMID1-5qftv183m-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "g7/hL6V/xwJZvVyqNI/UoVjriiCuWto2EGE8W9ar2y5wugH6wpFPtW/NVkoUlCaDVLRtFroAFp5grhZoq/jGCrJIA6nXP9lMH+czyrCBGBS+mxfFji+dSx940/SRWI4gQ8JkPPQE96+FTtxUtdMCje9e2+f+RGjhOiPQ1RE9nrA+++mtm6lyosWXRK5PUwsr7GPx9OZs1c1w8XIvaCrpZbByk58BhUMp0CKx/6BXs98+mAGRbqcvNrxI7TG6npcRYZEPc4XXtHgy8atSJ0zRJWncKI7cmSIY+Eoj7ofgob/IU+hYARDCat/73dFdf71d9tiEkMhbfPogwx9cWyY6dHaB/Y5lVB3ZqP30kUepzvveWm9rZ8wbOjgPqPRm7KvUj28Hexa1eR/0/MCWYmCrL+rAm1aN2EHN/rxD3mLolqtRbIgW7yNB0lG+s0Md52mh8MssYcxpZcS1eOmWDYeV618VueZ2rzg5+tjLlLmqqTDX1b3NjmAM7A0llte11xI6Lc6iL52T6psFxroY7ooHEg==;z3HDX0tHxwTJfKVd+XKiuw=="

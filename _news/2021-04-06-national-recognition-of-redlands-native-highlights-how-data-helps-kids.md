@@ -26,6 +26,24 @@ images:
     height: 548
     isCached: true
 
+related:
+  - title: "Half Hollow Hills' Music Program Receives National Recognition"
+    excerpt: "After two years of music education, researchers found that participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and ..."
+    publishedDateTime: 2021-04-07T19:09:00Z
+    webUrl: "https://patch.com/new-york/halfhollowhills/half-hollow-hills-music-program-receives-national-recognition-1"
+    ampWebUrl: "https://patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-hills-music-program-receives-national-recognition"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-hills-music-program-receives-national-recognition"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/22950191/20210407/030954/styles/patch_image/public/2021-hhh-namm-best-community-for-music-education___07150840777.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+
 secured: "BcACNdrPABjyVy9QtG6EZVHJjP8Sgvj6b1SQvpKd6MW9gTYifkHkwfYC45zwwhf3ukSNTQH7js3eBpRtJ89gzLee/lMVwfiMlLq2gZ7+DrHAEmhEELlye48Sjx58Y6walGWKxWQn3Kklxr7aC3lguucewv0h8HhMSPBipR076ZUqmy9eF6EPzXOveYxGKXv9Y7c53iuRjH0Va54MpB/n8UC5ga7osyiQ9AQsvoCZE484FWbmQsGgGhq/UJlZvvq/oymkdbJeiaFdFGa0v+nvqSXPFB8JjSrjhy3u+N+hwb7x1NsoK+8sWuhY6GGnYG/0oLqpChmgF4t5w5+2Wp8KW2zci6icfzZ3p0W0QvfhWNC8Y00VwxCeKW6liX84+jeF9VgtqRMlndmiyavUGtCijMbTKcGshc1LE0S+9WhE5uktEExg8VnvAutgs8Zg1gShxK5sEA12TJRIJQpLMGEB0xigPfQzXHeOfkMDNh6Fp3rUHeldkBL7NTwiwJ5pvcCNjtWkKh8xBCbmmVgVM0gYgg==;WjYD2kljKKQBPnvDqjgzsQ=="
 ---
 

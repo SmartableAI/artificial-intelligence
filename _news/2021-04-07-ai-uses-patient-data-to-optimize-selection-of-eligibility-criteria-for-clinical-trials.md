@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-07T16:31:00Z
 originalUrl: "https://www.nature.com/articles/d41586-021-00845-y"
 webUrl: "https://www.nature.com/articles/d41586-021-00845-y"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00845-y/d41586-021-00845-y_19027968.png"
@@ -39,6 +40,6 @@ related:
         height: 799
         isCached: true
 
-secured: "Dy7gtszmm5fhkQA1MaxYnhfgyyak1pY0RhLnFeypQaHEYW4b9jTK0QR/MMkCZ2tVW59QKPBKQY7XpsgLiLjlEkQ7EERr4Izcv+OIhfJImk2aafDNjwDMrlYHxEcRJNkzM+x+SVdQkhOFBeLTdOCj1AdwbZ4XP185V4qMGobmT/m6SeI2HyS5BeZ1idLPoFRvkymUmQpwkhXJIGEbj5Dk7EYoX+neMyulhQ4ddwC9Itb3+J+Vxr8jLEII3cIYmheVDnks6eAZKvHeLgXp/8XK1wanoEXaCyw3teOup+NIoAZ9Q0fuiMxEmarVGFqX7xqP43rotJ9oDfDQ/r7u+EFBjstygy7TddWanFmmpwv/+lc=;YLOGITRrWR8LzCezkJLiAw=="
+secured: "kDUFenTMw+efMPW4AHapeL75XGbFVlm8QSBWfCPEpV8Jxw7IBZwEpzd6vXiA1lj0/eXzZOc76q3O1taPvrPtJgAHKoAGHhyyZU7W5pvKJ/5repNnZRP1YwvJFtvIANV7U3AAJSy/0jIsBMKryWFhQJ013OY4nIHbtqUvspTxa0HNvAjg2Vd72lXzVY5dI5tmDOz98Uys5sJoNw7Cgpi0+0jGOBGV0f87doPJjPmIEOHEIEd5lwPGNmjgQgUKvI3GHGZT4V8y0R0XYn2meb8Xj6wdQXz86uBm7vMOMCWtRg0Yz2PQHMleB/xE4K+NG+LFqxnQwTnRwpfCLta9IJfqdh+IZhNGck9OE7Yke4URG01b1ye0JMN41RPEfgeiNDhe2tmsq+rgPhYRiuV4/X1MJWvwYnEeu9Sz7rbhkpTgnyqVgjA0E1ZOiPIP8r+TBueedaSdrV31i1XiSQ1khO9kqmaROyxvAWBSrh8lpSPDEpY6JuHj1pKlbBHplI/8vrSRO8F447RHK1kbwTzlyli5sw==;qwo8vVt1u8Ecb7h18Qu+Nw=="
 ---
 

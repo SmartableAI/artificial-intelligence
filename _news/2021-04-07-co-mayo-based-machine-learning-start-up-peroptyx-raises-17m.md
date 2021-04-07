@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishtimes.com/business/technology/co-mayo-based-machine
 cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

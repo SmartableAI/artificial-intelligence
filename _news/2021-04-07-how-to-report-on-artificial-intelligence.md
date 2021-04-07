@@ -1,16 +1,16 @@
 ---
 category: news
 title: "How to report on artificial intelligence"
-excerpt: "What are neural networks and how are they trained? What are the key milestones in the history of AI? And she also read tons of papers on AI from the open-source database arXiv. \"In the first few months of me starting the beat, I would go there every ..."
-publishedDateTime: 2021-04-07T16:03:00Z
-originalUrl: "https://www.journalism.co.uk/news/how-to-report-on-ai-effectively/s2/a811366/"
-webUrl: "https://www.journalism.co.uk/news/how-to-report-on-ai-effectively/s2/a811366/"
+excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
+publishedDateTime: 2021-04-07T16:17:00Z
+originalUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
 ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
 cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Journalism.co.uk
@@ -41,7 +41,16 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Louisville continues to lag on AI capabilities, report shows"
+    excerpt: "Brookings Institution has released a first-of-its-kind report that highlights the challenges Louisville faces in developing its artificial intelligence (AI) capabilities and overall data economy."
+    publishedDateTime: 2021-04-07T18:32:00Z
+    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/07/brookings-louisvilles-slow-growing-data-economy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "YyZ/kZ6zmujkmcX/XhledIiajhFuID6xAzxcnUtP859yuhrLHXMlDu1pOC4/zowjLYOJ/uRWlRhq82sJMfZq1H/kf66pfXwzpKxvO9+EOmjTxaoPfmiJQRYFHdPANYaj3KTeLjTXEYkTNdP4TMJzVyKFGhw1JeeHJ2OwRnzNQoS8sXeGZaMEjw1zDlb5+Zm20khKMwav/1rpYQQ/4iJjFx51Z/ilRuyDJcHtW0dwIciL21BGkM5wSGrB0bGl/zWniqVFfmQyv/wCXeDuZxgQZf81MNoq5SSqO+TPShIXnNZW3fGtNLTl8SAy1LZbIkMSFJXdfFN5YfxlGtOOdqQDNl6GqA0Cx47aY6ozVfxrwGE=;minTGiSi0Q2ZI+Dor8LJxg=="
+secured: "cn7AVmQVDfYvt/ZXssHJDYUB7yi0iTTyOtVACA3SxmeqRU6NLnrX6oSEulPPhE7mzjuZQRJ6WLYqsg/z7YcsdpIuj6otdbq3OP4VATHlqb2ueJ4SJT4aUjH4WORFE8u39tl4VGj7hm5/wm92MppVbkcHKRonew9l/eOxU/YlagCiZqAkcPF/sBpPYdh5zPU8WF/4RVIiXMWnRBBe8nSOyyL3TS4lJ9AC3byW7O3yUbkrMaTDrXkCgQDiUUfub4f5hQWhy4AFJlkQaMFTomC8oCy7lg3hm2G+mE+gNlI1ahXvnYO/6PmRq5aPSvqCE/uAUMiLdAuEI+RVZeeao7eZSp739qKIXv4tFTzpUmx/iwU=;choa2avogZhYFRrzXU9efQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/04/05/oakland-as-lose-to-dodgers-br
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/05/oakland-as-lose-to-dodgers-break-more-records-in-historically-bad-start/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 782
     isCached: true
+
+related:
+  - title: "How the 2021 Oakland A’s got to 0-6, tying a franchise-worst start"
+    excerpt: "Outfielder Ka’ai Tom pitched a scoreless ninth for a depleted bullpen to provide some comic relief. Oakland A’s are off to worst start in 105 years Adding injury to insult: Trevor Rosenthal to meet with specialist, Olson out, and A’s lose two ..."
+    publishedDateTime: 2021-04-07T18:11:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/07/how-the-2021-oakland-as-got-to-0-6-tying-a-franchise-worst-start/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/07/how-the-2021-oakland-as-got-to-0-6-tying-a-franchise-worst-start/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/07/how-the-2021-oakland-as-got-to-0-6-tying-a-franchise-worst-start/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 42
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/BNG-L-AS-0406-7.jpg?w=1024&h=630"
+        width: 1024
+        height: 630
+        isCached: true
 
 secured: "7D6vHRNRQdfjcIUoJn4bQjRuc+gKs05tBDGvCP02RVayhZFtno/GlnBbDAPt1uxSJCfhWmPZh0mTv51eq+ih+sawx6RcpcXq/dooNEJ3JB7rgwMoqPYT7Ohw7Y6NVTf19NxsTwygi1QvVCGncpl5Al/yqqWyc3yRbEijkzTxbYq7t4e6rz8P8/bg5kzRtRBCfSopJ0hDz6xqGG8A+IDh1jKeaTOjeRRq3/ZS/Zy3g8IiqIO48IFdkoDU8XuDbMV+CCPH9nwhc8sbomDlMMlH8A2p1F8VA2XvsRaI2zRyMPXDXzlPOGPBvhbsTZIkOSnsv5NWzN4rY+ypucHYzZW8ko4VkvOmmTCjfvc9qwC9QA6FPneaUCZo1tXUD8t2Jb4ty+yiII3WhlZswG2LR6Vbk/05IOwMeKYtRrVoGTbLAWlnJxQ04e2lsR1VZPjV61LHKW9r90g6a+QPFUZuAx2ImJ3B4E5T9Kg9NWvJhG11FCL0fxahospWhmCQueEwXJhRQUhSh+hBximwjAsTBaEngg==;cYbNzbjMZa9xq3OsuEwWaw=="
 ---

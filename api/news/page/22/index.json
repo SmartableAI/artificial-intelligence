@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-19-pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid.md",
+      "title": "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid",
+      "excerpt": "Travel tech firm Pangiam is betting this is only the beginning with the acquisition of the facial recognition system VeriScan from the Washington, D.C., airports operator. Imagine passing through ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
+      "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2021/03/IMG_0310.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
+      "publishedDateTime": "2021-03-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.md",
       "title": "13 startups selected to join Microsoft AI for Social Impact programme",
       "excerpt": "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme",
@@ -1093,58 +1136,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
-      "title": "UK Must Avoid Complacency And Seize AI Opportunity",
-      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the UK’s AI talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "publishedDateTime": "2021-03-18T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
