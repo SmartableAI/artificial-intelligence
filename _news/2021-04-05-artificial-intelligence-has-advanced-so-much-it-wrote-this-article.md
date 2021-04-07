@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/artificial-intelligence-has-ad
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

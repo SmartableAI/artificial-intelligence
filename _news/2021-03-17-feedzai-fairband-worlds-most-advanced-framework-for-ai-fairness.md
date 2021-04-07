@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-excerpt: "New patent-pending AutoML algorithm that automatically discovers less biased machine learning models with zero additional model training cost while increasing model fairness by 93% Innovation ..."
-publishedDateTime: 2021-03-17T08:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/g20207676/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/g20207676/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20207676"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20207676"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-03-17T08:19:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "mvqzuZliVPhdXi3v/5KHxCwjzwEUglvA3/XLODSFpclSTxxdNfYjIGbDn1RBOwef5Ud7Oi21NrA73nhNRaH/dLc3bn5EdmQmGhcDbpVVH7wsTPfIuAhpOYkzdLtSf2VXrbdsl/MGLxaAPwAzdaIOQfdse7ohj9aCLuaRoz+mXsV16+wKWIP9uFPt1I2a2mfuIXQl321co5tSlWmkNS9uQvcoY4ApgXF/iD/IP4iUK+SUUyC5LgAWfjAqvopk9XpcwDmKNtQz27XRBPOYYUgRzYd5c9d6GVQzM2hYvsB7giPG3X3MA/i/Z+m5PyOEpDMFEuGzyBUpeB/4MFnA6LunK2dzbu8SRgl4H/lZOkTIGPM=;oxiVT6SZ0r/O+82uDapaKQ=="
+secured: "82K38Ezzn6cyuwgIq2wNrNnLEB7M1jUOkZg4UH6vpp3D7OMLa2bbUdcroR+Ad1bR1pQkh0taFOvOr/gMcgUpud2o6fUcgomrCAD04Bk6z2uE30uFeWvrlcDjpivEEJTPR69ETNgrG1w7BCTrzTMTnrcVXHKeWbdYlBHXBF/3qXV7kyrJFFa/bKgwykDNaWtLjbr3/cIP9yFJuWB1zeX4lRYGiLNWFcigS8SM83bBPeRzrZ0t1iDbSZv93WHVaIlLL2ng/KwzPDl2hvFXPuAmR/FZJh6900cOHXRC4UEkZnsL0UYbAayKUMAPpMXFUPoEKcCTxGSLjilHQRJKGhgPqj5l/E9JwdniciByR/kqVzs=;feOLWQhBW9NC5a43RVDm4A=="
 ---
 

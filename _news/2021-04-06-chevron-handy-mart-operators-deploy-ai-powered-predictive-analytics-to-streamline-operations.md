@@ -56,20 +56,6 @@ related:
         width: 378
         height: 234
         isCached: true
-  - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
-    excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
-    publishedDateTime: 2021-04-05T07:05:00Z
-    webUrl: "https://analyticsindiamag.com/ai-powered-social-media-analytics-company-circus-social-raises-1m/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Bangalore-based-AI-powered-Social-Intelligence-Analytics-Company-Raises-1M.jpg"
-        width: 2245
-        height: 1587
-        isCached: true
   - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
     excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
     publishedDateTime: 2021-04-05T20:32:00Z

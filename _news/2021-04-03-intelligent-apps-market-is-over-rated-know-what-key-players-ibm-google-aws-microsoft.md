@@ -66,6 +66,20 @@ related:
         width: 675
         height: 381
         isCached: true
+  - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
+    excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
+    publishedDateTime: 2021-04-07T13:09:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/global-artificial-intelligence-market-2021-growth-analysis-ibm-intel-nuance-communications-iflytek-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
+    images:
+      - url: "https://teceze.com/sites/default/files/inline-images/Artificial%20Intelligance.jpeg"
+        width: 5000
+        height: 2661
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M"
     excerpt: "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ..."
     publishedDateTime: 2021-04-05T06:41:00Z
@@ -89,6 +103,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
 
 secured: "Q13jm/nO4j9bc23z/hrdz8HzR5EmhvGSYqqlc9XJ/ecY3s24SQ7RbHL6R82+4eQbabiqMH7eP8CcyTJV3uz4GSSU11bn2dVd7rusVKoV+T/LY2LE8Zxp0Mkg2mIYrV0Vjd7A1+41vdPXinyu6+V571yAyDuxenrTB/G/7yneRkH7vcsLJ599fqHX9dvixANfT/LBd7DmJtEgfuE+D4W6c8I8W23k0r4hGMVLTq+jYd/bllKLe6LPiDNFqiDnuJ1n7MWlVkKhWeaGU6nFpqi4S36lPy+IhCkgi+71FIedLfrzMZF9Nqnu/eeDev5Q7BKJJnvgASqjCc7tdEBm0BU6ajTcAyyDrCG6pTvefIVMEC4=;z5GNp8600/1n4nL128LelQ=="
 ---

@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "An artificial intelligence tool that can help detect melanoma"
-    excerpt: "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies."
-    publishedDateTime: 2021-04-02T20:47:00Z
-    webUrl: "https://stm.sciencemag.org/content/13/581/eabb3652.abstract"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 171
-    images:
-      - url: "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg"
-        width: 1400
-        height: 742
-        isCached: true
-  - title: "An artificial intelligence tool that can help detect melanoma"
     excerpt: "Now, researchers from MIT and elsewhere have devised a new artificial intelligence pipeline, using deep convolutional neural networks (DCNNs) and applying them to analyzing SPLs through the use of wide-field photography common in most smartphones and ..."
     publishedDateTime: 2021-04-07T09:52:00Z
     webUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.html"
@@ -51,7 +37,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/anartificial.gif"
         width: 800

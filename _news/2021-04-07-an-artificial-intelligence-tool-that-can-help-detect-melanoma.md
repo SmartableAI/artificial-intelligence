@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melano
 ampWebUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/anartificial.gif"
@@ -27,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "An artificial intelligence tool that can help detect melanoma"
-    excerpt: "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies."
-    publishedDateTime: 2021-04-02T20:47:00Z
-    webUrl: "https://stm.sciencemag.org/content/13/581/eabb3652.abstract"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 171
-    images:
-      - url: "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg"
-        width: 1400
-        height: 742
-        isCached: true
   - title: "The Artificial Intelligence Tool that can Detect Melanoma"
     excerpt: "A newly developed system could use neural networks to spot 'ugly duckling' pre-cancerous lesions on a patient's skin, potentially detecting cancer more efficiently."
     publishedDateTime: 2021-04-05T12:52:00Z
@@ -58,6 +45,6 @@ related:
         height: 599
         isCached: true
 
-secured: "hjJkzD6sD0/1LKqCqCPuSp7AJ4Zz9pEYe17upwlOQLuu5232F1Ah+iyIOLnL0HzzCSBItNNsYZt59R/1gDF4vA1CV6v6KTLex+9xyDbXuvu31j6vOSSZFf4U8Oheiyx+ZU++YdejA6Gzs7+8YB873Er5ETpI0RX3cq41DZVfP0gPrueOjwokh6ObnDtiMdUj/S5R7k9Vn3fXbSD2FBsESlMA+heazLXchBrYTBvQN5gQMPZupaLplDlERfvXWHI47B4YYiAEtbqVBY/xyEfosChJ+oG9XVysfnoSqfwmm1uoHNDVgK/VPWTCNOr2X5CcZf1YHNdH0Q6wEsST3zrvhhEZyjp4qNXdyUJeGI3bKBg=;JAhSgVWwYA2fvxXN4E0N6A=="
+secured: "BvhCnVCTvS0Heaw6ovnzp2IUjKyIj8nSfzQYrMdMcoSCJlCXYCniVSomHA0FnpajtmQ7gjx5ckzlpnZxRpuaAS1snXMELtQ7Kog9gdhsD/rh7OeXHwYcp+apB6RbaIuSQwsggIQLGnXUPx4nsqbxbBlBog1qtxfvnwkiA311p/fW60GCmGqTZRQVoVw8z2Y2rNaYxhZ/8TIeBgZdAVAlhCmeyDDj8MgKkRYKQJcwEEa86XsmdxLPcTOa24YVTDIVInmlv08F47P0/Ftild2EVDnzRn7TgGwJRD0Ei9EPXPpU3bxRdzrk3jCUIjLtpy5SKTIZQts9eWfWCoC6cgmfkfB72zYeglqzuPOV6krKKDUg2f//DrCaw5OYjpgY+ZbWj3gwFbWeiMOc+zAJNuwxrILc3zDVm3Vu1VKtAJliQ5U+yO5sx9sBk7pi5hJPSjEPEAGM1f/MQnLmB+1KXL4fq80r1aKv06SYydG90sjO/IYieCfbcLCs/bPy23jZsirNOHDiLZPMKW9jISlDSphIWA==;bZAG+p9sYFj89uTssyUUUg=="
 ---
 

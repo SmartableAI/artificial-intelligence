@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
-excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
+excerpt: "Argo AI, the self-driving startup backed by Ford ... partners and it’s not clear if will do a traditional IPO or merge with a SPAC, the people said. And plans could slip into next year, the people said. “We have a solid financial runway due to ..."
 publishedDateTime: 2021-04-03T01:45:00Z
 originalUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
-webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/7071414002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7071414002"
+webUrl: "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html"
 type: article
-quality: 59
-heat: 99
+quality: 137
+heat: 177
 published: true
 
 provider:
@@ -17,13 +15,12 @@ provider:
   domain: detroitnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.yimg.com/uu/api/res/1.2/8iMZWyJSib_U6UOBMp8VFQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f2b7c7c1b8a40627f8e7745a7e5fc85"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -76,6 +73,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "E9wsKzl1kn9MLnXQv9zVjf+6gecFsHpOJP1Qi3qYOrjLrC+1xgH4JTrHeq+SCnS0q3mEj8HWmebtAotz4+3HfY3p8+ZCQ/wJ2+neTo6svW5CO3kTgUSozS93EcoI8y5Syd7iMOZ/wizmSl2WY1susC6YmMn1yT5mKYKk5NO0hHMURpCmcBFbIvVMgyP62olMELuGGL8XevjmJ1mpfhdPiWWKspUQ564D1G0gehnR46wEeQlQPbYuQ/CUslOp9Mk5PJVmJE3t8uYbatEJjUrBz+2OloOd+jqrtdch/N4sABwuGDk61di61q3JLAPO5Kjgkju221HgLubN2gyCO2F89/rY0E0abTiOvasCGSqcrP81mvGfmTWstJeSzZRZBbqxNmRSm1edTfbZsPBpzAfUlwWUCY1GvlpVDAv2rS2eJUM5NLNI6sOgUZWG5Z+5Jy+Nu7Se38N4UHh1dDSjUmwTfXv83lCy1uLiFBfAbIaRPp/O45KZbk5yxtZ09g7lsRRTkb2bTAAK4jldPhsFqj1wpQ==;6XZmmRVaBv4fXD+qQKduGA=="
+secured: "ZwlLgG9xfzcq1fuzmDWulusgE2Qe+1gljKO3KJ+HtDOeIJuZRUuBc75hrYjIqakplgiu+FsJpj23B6uyIOVWFc5dN+dsOnC7Y/EDsJ5Yydir8U+2K//I2c8Yj8iwLj4X5sIjtdPH9sDZNSS0IfEHTFBOTudGdSteCAhV8MJUrE/Jw89uGrHfPuPZvT3u6ghtYqUi+4DTqSbXZTAZ8sbsF4JTILRiZKApgtO1rTZAt2CdOfah9SHD4e+0k8SOolnbMJKtpZxshRXpPp229UTGg+3xta00hxNBPRPHnQulZlLG79zo70PIh9K4va00oF+9JxN8NuqXGfBVXHBlnTDPWtwRM3moazFQtLYi6vl2Pmc=;8vOvK83DczmR2FZaTEzcUw=="
 ---
 

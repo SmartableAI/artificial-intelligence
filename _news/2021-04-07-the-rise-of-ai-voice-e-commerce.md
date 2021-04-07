@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
-    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
-    publishedDateTime: 2021-04-05T22:31:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
+  - title: "What’s next in AI-assisted governance, risk and compliance"
+    excerpt: "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,"
+    publishedDateTime: 2021-04-07T13:00:38Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "How Financial Brands Can Use AI and Data To Offer More Personalized Services"
-    excerpt: "These advances promise to enhance security, optimize operations, and improve customer service. This is why 80% of banks highly anticipate fintech’s AI advantage. But how will they put it to work? Incorporating emerging technology is nothing new to the ..."
-    publishedDateTime: 2021-04-06T13:22:00Z
-    webUrl: "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 36
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg"
-        width: 1920
-        height: 711
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png"
+        width: 2000
+        height: 1006
         isCached: true
 
 secured: "ytjEHY7NbWfgUMcvV6Yvse0vxe9bplqxZWi85Wi8WaFBOGgffJsvkwFDUsJM82Cmi+bQOxtLKmTvB6E4BYvVfgk3qYt2m68ffeT6hWewhuHDlASIkhR+DIshb1rhUGvLcESUc4zDo7jeA9X92mscd60DUBHrqWz3pjvoTQJPO6EKZRgFqwlZu0IQ8xMHWvGbvjM28klszb3BGzvXBfKhbjpQxcXxd1a7uX1kryrzS4A2jpGZo172Jm6/CSSM71PZxAQeBfqXoxzD/6ukWjgC2PfhgWwn2IK87GLLGUhEOAT4PUVGhVaV6fm7SJnVfK35d5BCEkw8PugQNn7S3wANBbnVPU8Z82plon5Cne0G13k=;18r0QfoqPX2LSOQX23Dr+A=="

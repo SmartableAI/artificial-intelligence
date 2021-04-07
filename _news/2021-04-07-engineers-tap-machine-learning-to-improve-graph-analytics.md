@@ -58,20 +58,6 @@ related:
         width: 2440
         height: 1627
         isCached: true
-  - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
-    excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
-    publishedDateTime: 2021-04-05T07:05:00Z
-    webUrl: "https://analyticsindiamag.com/ai-powered-social-media-analytics-company-circus-social-raises-1m/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Bangalore-based-AI-powered-Social-Intelligence-Analytics-Company-Raises-1M.jpg"
-        width: 2245
-        height: 1587
-        isCached: true
   - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
     excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
     publishedDateTime: 2021-04-05T20:32:00Z
@@ -115,6 +101,6 @@ related:
         height: 556
         isCached: true
 
-secured: "W3wqzfImHPXLJlUSjiKCEyST5thfhMFAPYkc3x39gSCV29VJ96TkTt4AkQOqMEl2S/rrmsk3op9Lm899ofMJfRpF9dxpouu4r6SVrozHqzlTyO63gTIH9O7qAGeHWcUStw9xFZPMMfzOFEuywjqhXuIAgZ3/IXR6VdZG413mdEZ4khH2thhk5ptkEc8G3rQm/JGP/ZAP+5MgtYWbB8B5sSIcjstlFKUfL3RVxorYEUjWVG66KaqjPBwN+KO5yb1cz/TKdyvhy/cNYm5X5+MJ6LdKDSh6fAG0yGW5Qeijc6XXziTxHC+p7kfX8BRsPrMU/nAP1mq/thmT9tdXweJNxEh6tX7vgOAGFwfI13lTqLg=;ssZzUZZTo6yumPU1RmLYbA=="
+secured: "qFh3pTWJztdoDgmUsL0pEQ1MjUb7A2XOWJy+eoXzSGPtUzkbEx6U8cj/IVscUMcaBD3FPZxji+3DCM49vHyWtKJC0Yq3aRHC0Kbut/8MKZUR7mk35fvqS5D16R+MXBt9jssuS3WfBqjso+SWqg7PcyFkgG9yUiDFqinMsZqSBNoRvKmKlKj0vV0Bo300prbY46zMg+SuZz/NCzhI8vtHIZBzfwPEzStI8m1sS05SNMptAs4dmYrn80RJqOj2qbUcOyrnjHNroCYNoNFkJd0wa1ZlLGt0vgoUICGrCAfS0L/FytV44KjXIBRIdcoX85/n18VxJKIBbWoCGyKb1TxeRKinZjp4BXAUakF0rqfo2utcXRwMlkhIpzFKYPlBgK1J5ND722UDwf2oI/mKs9+hk1lXUh5xo0EoZ0N2cqvRWdgBQV84LgZmvBTqiT+i3XGZrbFtKc54haAqgaMqcaIcVLRnry6INZb50ukNycsRZL+5DYmo1AkSok0jxMUFVrRyWFiJ9hvXLRmE2zqnxRaV2A==;/mIZFWdnLOHWs7p4HLLtrQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iPhone producer Wistron leads $4.3m round of Taiwan machine learning startup"
-excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round, with Taiwan Venture Capital Group and Silicon Valley ..."
-publishedDateTime: 2021-04-06T05:49:00Z
-originalUrl: "https://www.techinasia.com/patsnap-10b/next"
-webUrl: "https://www.techinasia.com/patsnap-10b/next"
+excerpt: "Taiwan-based Hive Ventures announced that it has participated in a US$4.3 million series A round of machine learning company InfuseAI. Wistron Corporation, a Taiwanese iPhone manufacturer, led the round,"
+publishedDateTime: 2021-04-06T01:00:00Z
+originalUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
+webUrl: "https://www.techinasia.com/iphone-producer-wistron-leads-43m-round-taiwan-machine-learning-startup"
 type: article
 quality: 61
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: finsmes.com
     quality: 17
 
-secured: "uJNfA77X3ojYE53We5sudXNeQoQxbCdK9DxYTmgpazetFSTf279rl3440y5sqq8NB43uGTmVbBL50l8mcyRcqaENU8wpVYqr713nnXaqnHo0tjp6tVgijFprbBqo1HGoHCMH1v1ChH15D85TFylDU2ILy1f0nDwK8pbjzu0k2vAWQskQ9eilYtIU7mcK4g2t62fr+dDHjbUfizqGJ7uON35fA0k2GGZneJPcQYRQAdY0/l16FSNo+va5x9rcKZwKeUA18Abb3k3Wdkxr4GUvlNcLSTop1/nby6vmmNG8lEalC+zz6pg4fRO2AEgzCXmn8zXHSCn9mU/b8hoiV25ypn7J7wx0gnSQEhL2X1CUj5sFPku+nSMEkk/XfHzLelul3f5y3yW4kX3AjS9AFWux3Qf+ov/Hny6RojA4nIJNDZhxw89apV3P4ixnT2TdFR4fuYIG8XnMuyNYjWsVS5wKL6zr6TQlfzoRXEwvsem9ZOflUzpdMHS6NWYGrX786nBpR8eGsPKMxDmrlZAjcxFybg==;XzeyUgU0Ugad9AFW2qQPAg=="
+secured: "6dTptakcvMS9yoj5pQe7Syqa2wKVbWgobhk6LDjwCx5ISqSEi6OWAslNG+OdhguIcn/BSqJvMo0jWzT9c4R+vUgYRUFr4qjiTk5KTVOg4t3ISkfUiFJZFEjh0w8WIxczQIWZZedvocDYjlTxmNF5MJfs1LBUm4hJiHhHQRGrh9LJJgYn66vlAU0olC/v7hNlVeDLgO6z+RyhLlPvRm8Sno+bM8iXg1X26SqCifnP679YpfQdD3kN6iMzK3s8pl8HNf1Ut6pwT4+FgpTf33I8osB6kbcLd169Jx25/pHQQUT/yD+i+D31KE1FWiRhhKLxpQ29AhXpK7WPj70I9r96tci+l5NAlQfl30KJqQwOr11rCVCed69OXn2aFLcoEZyhxJflhTfk8AQYTudxFLBu0M8P4sZKX3TagKsKKkMOjFyIFuMR9PD8FrIafzjXgJU3lFwM9uCTADtPfPMmESv9JPpJHUMbqTu9h2uKETcRhAbj0wlrElCPV/OlGsezp4ERYjNr7c8rvrl9vtYEDCpm4g==;LMvBIJeOWX75kJuUF6Pfvw=="
 ---
 

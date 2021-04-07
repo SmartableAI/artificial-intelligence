@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/using-deep-learning-alg
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 615
     height: 384
     isCached: true
+
+related:
+  - title: "Predicting cell-penetrating peptides using machine learning algorithms and navigating in their chemical space"
+    excerpt: "Machine learning (ML) methods have proved as an efficient approach to select, filter, and predict compounds properties giving accurate predictions, improving decisions regarding drug development, and shedding light on the pharmacokinetics and ..."
+    publishedDateTime: 2021-04-07T13:09:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-87134-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 20
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87134-w/MediaObjects/41598_2021_87134_Fig1_HTML.png"
+        width: 685
+        height: 282
+        isCached: true
 
 secured: "v3B67H5KWOd9oeSNYLn6Z6Q8WzsZ9xag8CG9Cx7BWbDeNNkjBsbz8Ftc1yzL53hcudBYzLZ4mnSXmZUJJfeg/fVCRHFjdUzPSTviIdJFpzbDGkTUysj3pB1qLP3vv12qUiyA3ek0sOs2Mgo8DTt9k3dmk9LtDrUExiDASNlUR7e9NJWUwUUPU+85khaf3YoLID0Tju87QwVv3w6VaItrrDtugVmNs2GLiLKkeAQIyqEMA4qWxG1Ed3tCSbNsoanwkti1CmYV/ZCWPLCqxB/ggw34lMjvRs56ARqkQ6ZgunqICFhrglh98SrHYStVbhtqopm+Ebp4+v4UpulnReFUD/PULaZIQfHepOGHquvHGJc=;vr9DQubeNslrlinKmGBXxg=="
 ---

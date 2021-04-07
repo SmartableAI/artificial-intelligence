@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Why We Need New Benchmarks for AI"
-excerpt: "Artificial intelligence has beaten many of the tests researchers have come up with. The challenge now is to create benchmarks that can make AI truly useful."
+excerpt: "An AI system, for instance, can perform well enough that humans ... Ms. Snow is a writer in Washington, D.C. She can be reached at reports@wsj.com."
 publishedDateTime: 2021-04-05T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800"
-webUrl: "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800"
-ampWebUrl: "https://www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-we-need-new-benchmarks-for-ai-11617634800"
+originalUrl: "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/can-an-ai-system-be-given-a-patent-11570801500"
+ampWebUrl: "https://www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
   name: Wall Street Journal
   domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,11 +24,11 @@ topics:
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-320320/social"
-    width: 1280
-    height: 640
+  - url: "https://s.wsj.net/public/resources/images/JR-AA286_AIPATE_SOC_20191010143234.jpg"
+    width: 900
+    height: 471
     isCached: true
 
-secured: "IRETMNhn1qMkQ90OvQ6D7DhBugARhUkxOGO+FrMwv489QT3tK+z8LQthAo2VJKu8JG67M0ZMl1L4+rqTaVwT+22HuLjuOZenCQUG9hND7QZuv2Wsipu4Mk+w+JvBr4THI+C7JNUNTdbZpmnizfamlTelELtXHWIzbF/rhf5PRWke8UhANEkrvtJ6fUHn+QCXNWk0KjbXzIn4qoau9if038kV/xP8QvWe1yY1IwWxDZdvYOgOUcrPXD3HXQtz2XVYNGjgt3e55/P3NFIvYx3T68YAZJ48tWQTU7Ob9GOKMy9tZUFWf8dCk/yNlJoQUkmrrhuuNRs4Dsp1jB7iopz/pd817iyulFKSHdDa1+GMr2jrvPH338FnJTzfOxgLV4/duDbl6AnoB9Tp7TEZCaQpW8X3BL5XRyzujmZwGKJzE6OgS0epXCNfxhfB4YFmtPzMIeOV6Ld/TmFf8y/neuTDt4Y4H/8V4iXBQWUTbyht+nfGL1T5McGHsKcayggfrKGS6TphV6eqSMVSeR/jySQZaQ==;WfSS1Wc+m2ZiluNUlFE9fg=="
+secured: "FMBSe1K0sVERoyywdUjb4/kttDInWl+OYxhCfG0fmlj+6M+dCHZPV1tXJRhBh9FwND0sXxflcgaH3pEGqRfNatLhVPEd1Lh88jmFOZSZFSQczWd3RMlXWO7hXN/aCxvpeci/6OjI0Nh+IYZXhTnw/Oayw1ttsqMaw4xkOoADQGPkrlqt7sFlWfn2mTfiZwtD6LntI2eTJldH3hqj7Q+fIEINZYAFRPHflVCdHs3aWbmRIZ/rwHdAHJKk/9VG0QAyxvJjoGvceBNmrSi4ngA2H/l6+vEKUZ3E4mNcvOh/mUR1WkXO+LSrw6KBQjJmi4DyIoi2rd70E8iy0rLEk9BVhjY6+qohAUdszpbd/xPoChM=;4QRiANgT9SgQyYEcJfUR8w=="
 ---
 

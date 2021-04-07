@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dynamics in Post-pandemic Global Natural language processing (NLP) Industry: Supply and Demand, Markets and Prices 2021-2027"
+    excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
+    publishedDateTime: 2021-04-07T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dynamics-in-post-pandemic-global-natural-language-processing-nlp-industry-supply-and-demand-markets-and-prices-2021-2027-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Video Games Market Insights, Overview, Analysis and Forecast 2021"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (Heraldkeepers) -- Global Artificial Intelligence in Video Games Market Overview: Global Artificial Intelligence in Video Games Market Report 2020 comes with the ..."
     publishedDateTime: 2021-04-05T11:14:00Z

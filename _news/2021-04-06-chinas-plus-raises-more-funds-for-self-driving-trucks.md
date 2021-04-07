@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 682
         isCached: true
-  - title: "Head of Google’s self-driving car spin-off steps down"
-    excerpt: "John Krafcik, chief executive of the Google self-driving spin-off Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
-    publishedDateTime: 2021-04-02T19:45:00Z
-    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Apple chief Tim Cook talks of self-driving cars"
     excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
     publishedDateTime: 2021-04-06T01:35:00Z
@@ -88,6 +72,22 @@ related:
       - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
         width: 747
         height: 498
+        isCached: true
+  - title: "Perfecting self-driving cars: Can it be done?"
+    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind ..."
+    publishedDateTime: 2021-04-07T12:47:00Z
+    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/perfectingse.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Forgotten Tech — Self Driving Cars"
     excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"

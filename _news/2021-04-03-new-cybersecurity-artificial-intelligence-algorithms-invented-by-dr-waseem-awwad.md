@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20470500"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20470500"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 436
     height: 480
     isCached: true
-
-related:
-  - title: "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks"
-    excerpt: "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ..."
-    publishedDateTime: 2021-04-02T20:15:00Z
-    webUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/"
-    ampWebUrl: "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "AvSCgyzpudnzdDlL/HuP4oQK55AC+OIHkZfWHalNRfsfskvKX5ADzgoiXjJab3qYAn2tP0cyx4KO3LZuTmkBgqDJOkLas4z40iFmmCd0dm5Gg+EJutiOVrZ0HRkPXwkSNM1lrE6jH764ZobfPuT4Nq59/Zns9O739hkrbunI1BA4YW3j0mZBS2nxh3CEoEKav1DWMjjmmnbN7Cj4k71FkOAQ8VWKYzIAiqOQiZfkcQ+Ysgj776+sQxdfo5AS08xI9Po6McFjPNeWw4B5KhuEw7ZpfhgfmAL9wbLEjVfCw0cFH5WGsO3BaHaE1zQJJfIoCfqUjjIBlPrq7mwy8Rq5XJwc6lv550/SLPNQC2iETC8=;gWylSas/JQYLJMRIpTnd/A=="
 ---

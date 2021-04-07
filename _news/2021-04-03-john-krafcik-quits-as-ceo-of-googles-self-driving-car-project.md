@@ -1,24 +1,28 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Googles self-driving car project"
+title: "John Krafcik quits as CEO of Google’s self-driving car project"
 excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-publishedDateTime: 2021-04-03T06:29:00Z
-originalUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+publishedDateTime: 2021-04-03T16:46:00Z
+originalUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
+webUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/04/4517ff7349973a2d5d0202f1812be84b.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
@@ -52,22 +56,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/04/John-Krafcik-3-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "CEO of Google's self-driving car spinoff steps down from job"
-    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo,"
-    publishedDateTime: 2021-04-02T20:04:00Z
-    webUrl: "https://www.chron.com/business/article/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-    ampWebUrl: "https://www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/CEO-of-Google-s-self-driving-car-spinoff-steps-16073111.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "John Krafcik quits as CEO of Google's self-driving car project"
     excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
@@ -120,6 +108,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "ZyIH6XH4n8+kh+9QjJP8wFIagyqh13yP+buQSACrIXi4N0pPhF+MNS2kUu8TqDAAHC+ufyS3j7om619vBacR6nlSWFd8uRk9XuppOZn8Ym93+m9pAegOBoyOclIv2/EttVNM9DZ0AkazphoCtgyUlw1D6fDD5YfD7cRKTRwatp/WqaQZIvkQ1ObNEswdIImqP76We88jI2IzJoNX9BH2PV62ADOUl77jE+hKhLk75ZYtUagAym/Xng6c8MbLajIMF5DMiTI4eLjaUf3SobIy3Zahxl/wDnlGpp5rE4rdVaekm7mfLwcK4Xu+OIRRwH2ORds5om9FimMWR1OwQus7xEFchHiySdHGG70db2m9ZDI=;Fpeme99M006cBT2lHmLUeQ=="
+secured: "KR1fGZNCA0ye8o+oxG46+NCjLmneN6ZBpQFdgsmrlalTMXjd+Q0YevP5hUk9IKZnVSpbhN1V1qpNHpyiSxXjtQQKUBeWkch96qVyecCw3DnAP/qV3E3U1T+YnFAyn15ePGTvQmYWJ7ng86PQ5bi/H4OFeyQ3g1TteXgdldwI+PSFo7UrvO8BelTHG8kIRL9zYPpimWyL3yXve5/ZQrirQXBWyF53BCEE3MOZhokzJIsJaGcJCRcavLTJ79fyhhGizOJVToldWVxJVd0yJFtu0doTh4H+klX1wqUfsgKM7ZnRUSfjclpD4db7sCIEwptK3Wv90HbntqMCLM9EQusM5M4aTyMhrtYHUkJeJ5MjvFM=;pkAt0H6Cxa5JfDFXa58Tkw=="
 ---
 

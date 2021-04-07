@@ -67,6 +67,20 @@ related:
         width: 675
         height: 381
         isCached: true
+  - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
+    excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
+    publishedDateTime: 2021-04-07T13:09:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/global-artificial-intelligence-market-2021-growth-analysis-ibm-intel-nuance-communications-iflytek-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
+    images:
+      - url: "https://teceze.com/sites/default/files/inline-images/Artificial%20Intelligance.jpeg"
+        width: 5000
+        height: 2661
+        isCached: true
   - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
     excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
     publishedDateTime: 2021-04-03T09:55:00Z
@@ -90,6 +104,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
 
 secured: "DeWqccmNiYzwRBNZjN/k7bOemj8F1MxpggHSt6/Ecjih7Rc5rZrGmIAPq4JfeWTdrvAeAHlZwm8wymzr560y1/79NvL5+V7/iPAerlphZqJiwmRaGFcIBh9tJnr1DtOBb7PGAKTS4U76cZvO+dSV+EyfhtUuGGLMBgD9oJAgj90FXI+bDgWwTf8YY8yPrJUKG+PpMugH2lpAdSYmmGPdLtvp/iMsaG9Aw0qe73MQJ61qNs3E5YAGw+TNzsQBSkgQ8M0v92dVlv6Vk5o2lXhKgFeZChZQrbQnz7gmNHzaErZLzoLq6E9IZa4bJJYn/0TZk994MtJfqSC+sf4f+V5MfWnv3iJBxRa9Ms7dnHHt7no=;ybGXDIAQrLHGaAQxyO/QeA=="
 ---

@@ -21,20 +21,18 @@ topics:
 
 related:
   - title: "Ford-backed self-driving startup Argo AI mulling IPO this year"
-    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ..."
+    excerpt: "Argo AI, the self-driving startup backed by Ford ... partners and it’s not clear if will do a traditional IPO or merge with a SPAC, the people said. And plans could slip into next year, the people said. “We have a solid financial runway due to ..."
     publishedDateTime: 2021-04-03T01:45:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7071414002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7071414002"
+    webUrl: "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html"
     type: article
     provider:
       name: Detroit News
       domain: detroitnews.com
-    quality: 59
+    quality: 137
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.yimg.com/uu/api/res/1.2/8iMZWyJSib_U6UOBMp8VFQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f2b7c7c1b8a40627f8e7745a7e5fc85"
+        width: 600
+        height: 400
         isCached: true
   - title: "Self driving startup may go public - report"
     excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
