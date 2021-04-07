@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Facial Recognition Market Competitive Insights with Key Driving factors and Top Players"
-    excerpt: "(MENAFN - America News Hour) Kenneth Research has published a detailed report on Europe Facial Recognition Market , which has been categorized by market size as well as growth indicators ..."
-    publishedDateTime: 2021-04-02T09:07:00Z
-    webUrl: "https://menafn.com/1101848039/Europe-Facial-Recognition-Market-Competitive-Insights-with-Key-Driving-factors-and-Top-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?568619"
-        width: 421
-        height: 250
-        isCached: true
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
     excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
     publishedDateTime: 2021-04-05T08:37:00Z

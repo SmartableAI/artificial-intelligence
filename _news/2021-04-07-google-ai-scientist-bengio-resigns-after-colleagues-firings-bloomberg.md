@@ -1,28 +1,33 @@
 ---
 category: news
 title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
-publishedDateTime: 2021-04-06T18:31:00Z
-originalUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
-webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
-ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
+excerpt: "Bengio had defended the pair, who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed from the company without his being ..."
+publishedDateTime: 2021-04-06T17:31:00Z
+originalUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
+webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
-quality: 68
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
+    width: 811
+    height: 545
+    isCached: true
 
 related:
   - title: "Google AI manager resigns following controversial firings of two top researchers"
@@ -55,6 +60,22 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "Google AI scientist Samy Bengio resigns after colleagues' firings"
+    excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
+    publishedDateTime: 2021-04-07T03:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-11617764398700.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings/amp-11617764398700.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings/amp-11617764398700.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/04/07/600x338/2021-04-06T231455Z_1108314339_RC2NQM9YJR8L_RTRMADP_3_ALPHABET-GOOGLE-RESEARCH-BENGIO_1617764502464_1617764523113.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
     publishedDateTime: 2021-04-07T01:17:00Z
@@ -70,6 +91,22 @@ related:
       - url: "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Google’s senior AI scientist resigns after colleagues' firing, reveals email"
+    excerpt: "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart."
+    publishedDateTime: 2021-04-07T03:39:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg"
+        width: 800
+        height: 506
         isCached: true
   - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
     excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
@@ -95,6 +132,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FvmyHxmY/4YbFyhoHYpQ2mcAsttWrV5T4RLG7zgoPatIP6GTW/vI44F0urahOv5afSufxY727kJtc+TWT6jpHcS27D0maKln2SkZMMldHfe7XgO1jMkAcpeKFRS8mbDocWpA1tEUuKDfbwMC3sKyJ6Y/ynlsVa0AMaeNmT0c1VNHTnl9ICBLQNKkITxlnyNcjdqlvYPMt7ax/a6lcYrSpnzcUGyHyHuBWm1RH+/pj5H72WU8+6C99n4R6WRuLPblP3kohA/xrJXeqTrFLdYY2ievI3myAX3RydNEq0ykAfZFB/pMQq73cb5mv1sx25CNT3eCJ2Q0WMOxUMtlG+rxehNDhK3Y6x8zKhQRGzmEpGQ=;bhJCih3TnnvIqSn4a2MJ/w=="
+secured: "nmwt1B3slBMeyvFPqK0LHjGM0KoNI/m2d9I5g0QnbolNLdRyRFZGpuIkF8Y0XslMx4SeYnJtRHpoP8B8YmPXtMpgwye/Osaq9jgZvzaqeeq+uDBKrP44m9mm1Ifj9ehfEcHA8vApkbOweNFIUTGMM6hghmixH/CMkpNWPQY4sF/vsdxs2k90EWnyQMbETSSjL9fpJbdnxtj1LSQjwacUjrPIZyXTPML1SCv5eS08ubowz8tkh/H+Brf1+Cm4s4UBfv69PlBfeGWOR3BU70f8oCxUh3yjj6Y4voiIXsZj3b5V9gIpnXNERhSPNz7JbzPK8xchQrAslF1RGeXohbvPQAjUoHhnyAz52ZE7uBGMRHA=;DVALYa0ytlVBhplS5sm4pA=="
 ---
 

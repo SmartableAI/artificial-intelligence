@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Understanding The Challenges Of Commercializing AI From A Provider's Perspective"
-    excerpt: "It's All About The Data AI systems are fed solely on data. That means you need significant amounts of data on a consistent basis for it to operate at full capacity. Once installed, the real fun begins as the system needs to start collecting data as soon as ..."
-    publishedDateTime: 2021-04-02T10:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3465677416e0007c6d460%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ytjEHY7NbWfgUMcvV6Yvse0vxe9bplqxZWi85Wi8WaFBOGgffJsvkwFDUsJM82Cmi+bQOxtLKmTvB6E4BYvVfgk3qYt2m68ffeT6hWewhuHDlASIkhR+DIshb1rhUGvLcESUc4zDo7jeA9X92mscd60DUBHrqWz3pjvoTQJPO6EKZRgFqwlZu0IQ8xMHWvGbvjM28klszb3BGzvXBfKhbjpQxcXxd1a7uX1kryrzS4A2jpGZo172Jm6/CSSM71PZxAQeBfqXoxzD/6ukWjgC2PfhgWwn2IK87GLLGUhEOAT4PUVGhVaV6fm7SJnVfK35d5BCEkw8PugQNn7S3wANBbnVPU8Z82plon5Cne0G13k=;18r0QfoqPX2LSOQX23Dr+A=="
 ---

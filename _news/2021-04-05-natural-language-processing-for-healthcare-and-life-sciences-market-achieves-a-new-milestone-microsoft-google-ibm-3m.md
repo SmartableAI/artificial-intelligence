@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
-    excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."
-    publishedDateTime: 2021-04-02T09:31:00Z
-    webUrl: "https://industribune.net/uncategorised/5689/ai-in-social-media-market-expected-to-reach-highest-cagr-by-2025-google-facebook-microsoft-aws-ibm-etc/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 34
   - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
     excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
     publishedDateTime: 2021-04-03T09:55:00Z

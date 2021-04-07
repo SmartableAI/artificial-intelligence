@@ -55,20 +55,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Global banking’s AI leap"
-    excerpt: "The next chapter in the story? Embracing opportunities opened up by the AI leap When Covid-19 reached the US, lifelines that millions of families had long taken for granted risked being cut. Access to everyday services was compromised, from doctors to ..."
-    publishedDateTime: 2021-04-02T09:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/NTT/global-bankings-ai-leap.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/partnercontent/NTT/distribution/static/images/article2/hero-img.jpg"
-        width: 1920
-        height: 680
-        isCached: true
   - title: "Impact of Artificial Intelligence in Casino Gaming"
     excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
     publishedDateTime: 2021-04-05T17:11:00Z

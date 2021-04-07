@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The Challenges Of Commercializing AI From A Provider's Perspective"
-    excerpt: "It's All About The Data AI systems are fed solely on data. That means you need significant amounts of data on a consistent basis for it to operate at full capacity. Once installed, the real fun begins as the system needs to start collecting data as soon as ..."
-    publishedDateTime: 2021-04-02T10:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/understanding-the-challenges-of-commercializing-ai-from-a-providers-perspective/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3465677416e0007c6d460%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Rise of Ai Voice E-Commerce"
     excerpt: "During the last 10 years, companies such as Google, Mercedes Benz, Amazon, Apple and Facebook ... research that fits in with its customers. This may be especially challenging when a brand speaks with multiple demographics. 4. Why Early Conversational Ai ..."
     publishedDateTime: 2021-04-06T23:30:00Z

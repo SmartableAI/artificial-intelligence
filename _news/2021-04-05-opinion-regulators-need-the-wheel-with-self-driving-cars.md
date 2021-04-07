@@ -81,6 +81,31 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Forgotten Tech — Self Driving Cars"
+    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
+    publishedDateTime: 2021-04-07T02:00:00Z
+    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
+    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
+    publishedDateTime: 2021-04-07T02:29:00Z
+    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
+    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 18
   - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
     excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
     publishedDateTime: 2021-04-06T03:05:00Z
