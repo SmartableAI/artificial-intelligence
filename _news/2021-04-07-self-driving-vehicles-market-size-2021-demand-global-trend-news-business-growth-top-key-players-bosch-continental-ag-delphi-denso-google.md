@@ -173,20 +173,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "USD 3.82 Billion in 2020, Market Growth – at a CAGR of 23.6%, Market Trends – Increasing adoption of Artificial Intelligence in oil & gas industries The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-04-07T23:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-with-top-countries-data-potential-growth-share-size-trend-and-analysis-of-key-players-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
     excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
     publishedDateTime: 2021-04-07T11:15:00Z
@@ -234,6 +220,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+        width: 383
+        height: 250
+        isCached: true
 
 secured: "z97BvOGcxPMY4WvY4v77PPoksWr/9np7ktw8DnnHfXk9nzKY5rm252ayfdnB6Q6kzOhmeEU2WQ0hgrBpbWdMIP9qqTXE7CfIA97l3pqfmTWGrxtBvd0KO+SKBmfa/dD5/+fSq5un9t18nyeC8Xq5lw1aH6cUwG7d/F01HUiLj3sQLzX8F87qpCKY3eB0mlImOBaOslmjJBHPeNcpynHwEGSeQq6sHYS6eKpjLI5y9m1zJvol/Wbvh2KTa9hzTdDPmy8wlJsBY/KxpsvFqVUorD+67vnmfknGf8aX3/PDlQiWMgqcNyuFXeFCJ6+i3mjJj4YBSKvTxleRgtR5ebZaQrnx0VBuDXmyKnmQF3sHtAs=;uJ4Kx/9vcJ6YIOw+5Vdm3g=="
 ---

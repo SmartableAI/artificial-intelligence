@@ -39,17 +39,6 @@ related:
         width: 990
         height: 660
         isCached: true
-  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
-    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
-    publishedDateTime: 2021-04-07T02:29:00Z
-    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
-    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 18
 
 secured: "g1vBWUxgSx+0Sx7sPCuTjdokGAmGbeSx9NwHNtkaMylfnEjz9BeVfuKJ0s7fWKFK+lKTHZaJD2i80xSm/chI1cv4MTgbHVejzRFCtKEwL5DnStBiFl9r2fuVSjj6yLMfgxxyTN8gSI3Dwpd4rU+DIc+H9E5e5+wTrgt0oPzNJkALOIOr7U2DbkfnOyvilUfrH8zGTnoc9M2IPNvNJacxVbWCF07KweYiLO/M11q0TALoKTvmPNIFUtw1ordMrAWFkPUuH1UadS3zZaVvMZsent+KJq2RPMxP39BFSZJ05ubCKJ1NBI2e1dxQNkHAVI8fBPWtiL3t+oIV/Df011maws8GR+7chWNfHR8EuNn2jO0=;QPydAyVlJDk9SQpZSBBOlA=="
 ---

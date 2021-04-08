@@ -36,6 +36,20 @@ related:
         width: 690
         height: 560
         isCached: true
+  - title: "Intel Launches Third-Generation Xeon Scalable Processor With Built-in AI: Major Feature & Updates"
+    excerpt: "Intel has launched its new third-generation Xeon Scalable Processor with built-in AI. Intel SGX for built-in security, Intel Crypto Acceleration, and Intel DL Boost for AI acceleration are the latest and improved platform capabilities."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/intel-launches-third-generation-xeon-scalable-processor-with-built-in-ai-major-feature-updates/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/unnamed.jpg"
+        width: 512
+        height: 362
+        isCached: true
 
 secured: "5fbqiIACGhs4I88j5TLO0m7HEecE/u3nQiNLrhulgghhDgCLa+Io3wvTkZ6a64i+P+AUUOzba78EDco4qZmna9tciYiq+wdnVkmKFeLlDMAn/sdstCGGNZPJg43XnwBtYoWvIBleC/nKYXbAW654pF6csNb211vPED1PdRENSaXg+xIRGHMeqiRe5nuw551hsFzEhqw6pPVKi0itpUiXdCrOf3EUu28mbTsnV66gOrO85XlLKQicHcy5QCyRHxgBdVKwhih5BlXYoPtwNiTP+EMVfjamlS7He6XJowFviycveMctihvHDg9ae+IqB8jDD/CdeUEN3LkSULMKRfXfi6+HI7Z6wvEjwPtkqOuTAWo=;xe2Rx7Dx86wf4h6Vaz6XvQ=="
 ---

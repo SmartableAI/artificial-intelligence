@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-23-william-shatner-taps-ai-to-preserve-himself-for-future-generations.md",
+      "title": "William Shatner Taps AI to Preserve Himself for Future Generations",
+      "excerpt": "StoryFile plans on making Shatner’s video program available to the public this May, enabling you to ask the Star Trek actor questions, and hear pre-recorded answers in response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations",
+      "originalUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/078BoZOC23ojBLGOPmCZVXn-2.1616430770.fit_lim.size_1200x630.jpg",
+          "width": 928,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations?amp=true",
+      "publishedDateTime": "2021-03-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-nvidia-could-create-the-worlds-fastest-mining-card-using-its-a100-gpu.md",
       "title": "Nvidia could create the world's fastest mining card using its A100 GPU",
       "excerpt": "The rumor claims that the first-ever Ampere GPU, the A100 designed for AI, HPC workloads, and cloud computing, will power a new CMP HX card. The news comes from regular hardware leaker kopite7kimi. They tweeted that the new CMP HX card based on the A100 ...",
@@ -1138,58 +1189,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000.md",
-      "title": "Need Another Stimulus Check? New AI-Powered Apps Can Help Save $1,000",
-      "excerpt": "Consumers don't want savings accounts--they want to save more money. New, automated savings tools help some consumers save m$1,000 more than they currently save--almost like getting an additional stimulus check.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
-      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c2267e1b97b5792d4d2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2619%26cropY1%3D243%26cropY2%3D1716",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
-      "publishedDateTime": "2021-03-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

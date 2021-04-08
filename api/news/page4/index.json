@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-06-taiwan-based-mlops-startup-infuseai-raises-43m-series-a-led-by-wistron-corporation.md",
+      "title": "Taiwan-based MLOps startup InfuseAI raises $4.3M Series A led by Wistron Corporation",
+      "excerpt": "That’s where MLOps (machine learning operations) companies come in, helping clients scale their AI technology. InfuseAI, a MLOps startup based in Taiwan, announced today it has raised a $4.3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/",
+      "originalUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1257762119.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/",
+      "publishedDateTime": "2021-04-05T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-seeking-the-cellular-mechanisms-of-disease-with-help-from-machine-learning.md",
       "title": "Seeking the cellular mechanisms of disease, with help from machine learning",
       "excerpt": "Caroline Uhler blends machine learning, statistics, and biology to understand how our bodies respond to illness. Caroline Uhler’s research blends machine learning and statistics with biology to better understand gene regulation, health, and disease.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://news.mit.edu/2021/caroline-uhler-disease-machine-learning-0406",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1195,49 +1246,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-makers-of-humanoid-robot-sophia-are-building-its-sibling.md",
-      "title": "Makers of humanoid robot Sophia are building its sibling",
-      "excerpt": "Joyce will use data-in-picture technology and a multiple sensors to provide data to its AI, neural network and computer vision to increase visual perception",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/vgq89j/article34243251.ece/ALTERNATES/LANDSCAPE_615/sophia-joycejpeg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "publishedDateTime": "2021-04-05T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

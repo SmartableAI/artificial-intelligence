@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UAE to leverage biometric face recognition to accelerate government services"
+    excerpt: "As part of its endeavour to launch the first safe digital national ID for citizens and residents, the UAE has announced plans to employ biometric face recognition (Facial ID) to register customers in the ‘UAE Pass’ application. The UAE Pass app is the ..."
+    publishedDateTime: 2021-04-08T11:02:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 36
   - title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
     excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
     publishedDateTime: 2021-04-06T20:57:00Z

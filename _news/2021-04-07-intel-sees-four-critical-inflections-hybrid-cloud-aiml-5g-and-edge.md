@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Launches Third-Generation Xeon Scalable Processor With Built-in AI: Major Feature & Updates"
+    excerpt: "Intel has launched its new third-generation Xeon Scalable Processor with built-in AI. Intel SGX for built-in security, Intel Crypto Acceleration, and Intel DL Boost for AI acceleration are the latest and improved platform capabilities."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/intel-launches-third-generation-xeon-scalable-processor-with-built-in-ai-major-feature-updates/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/unnamed.jpg"
+        width: 512
+        height: 362
+        isCached: true
   - title: "AI/ML Innovations Inc.: AI/ML's Health Gauge Partners with My Viva to Address Metabolic Rehabilitation"
     excerpt: "A realtime, actionable solution using Health Gauge's AI-powered wearables - TORONTO, ON / ACCESSWIRE / April 6, 2021 / AI/ML Innovations Inc. (CSE:AIML), a company committed to acquiring and advancing"
     publishedDateTime: 2021-04-06T11:33:00Z

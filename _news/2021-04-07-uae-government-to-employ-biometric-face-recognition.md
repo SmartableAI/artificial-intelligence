@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "UAE to leverage biometric face recognition to accelerate government services"
+    excerpt: "As part of its endeavour to launch the first safe digital national ID for citizens and residents, the UAE has announced plans to employ biometric face recognition (Facial ID) to register customers in the ‘UAE Pass’ application. The UAE Pass app is the ..."
+    publishedDateTime: 2021-04-08T11:02:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 36
   - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
     excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
     publishedDateTime: 2021-04-06T22:52:00Z

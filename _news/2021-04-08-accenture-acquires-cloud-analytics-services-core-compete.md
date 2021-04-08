@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture Buys Core Compete For An Undisclosed Sum, Boosts Client Services"
+    excerpt: "Focused on supply chain, retail, and financial services, Core Compete helps in enabling digital transformations with cloud-native solutions, which deliver AI and machine learning-infused business results. Notably, the firm caters to a huge client base ..."
+    publishedDateTime: 2021-04-08T11:54:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/accenture-buys-core-compete-for-an-undisclosed-sum-boosts-client-services/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-buys-core-compete-for-an-undisclosed-sum-boosts-client-services/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-buys-core-compete-for-an-undisclosed-sum-boosts-client-services/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 42
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/01/acquisition.jpg"
+        width: 750
+        height: 406
+        isCached: true
   - title: "Accenture Grows AI, Cloud Capabilities With Core Compete Buy"
     excerpt: "Accenture expanded its native cloud analytics and related artificial intelligence capabilities with its Core Compete acquisition."
     publishedDateTime: 2021-04-07T22:51:00Z

@@ -177,20 +177,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "USD 3.82 Billion in 2020, Market Growth – at a CAGR of 23.6%, Market Trends – Increasing adoption of Artificial Intelligence in oil & gas industries The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-04-07T23:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-with-top-countries-data-potential-growth-share-size-trend-and-analysis-of-key-players-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
     excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
     publishedDateTime: 2021-04-05T07:51:00Z
@@ -224,6 +210,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+        width: 383
+        height: 250
+        isCached: true
   - title: "Self-driving Vehicles Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players Bosch, Continental AG, Delphi, Denso, Google, etc"
     excerpt: "Global Self-driving Vehicles Market is growing at a High CAGR during the forecast period 2021-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several ..."
     publishedDateTime: 2021-04-07T13:00:00Z

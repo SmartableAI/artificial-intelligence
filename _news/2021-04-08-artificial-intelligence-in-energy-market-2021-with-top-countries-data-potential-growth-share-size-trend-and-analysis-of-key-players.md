@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-excerpt: "USD 3.82 Billion in 2020, Market Growth – at a CAGR of 23.6%, Market Trends – Increasing adoption of Artificial Intelligence in oil & gas industries The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-publishedDateTime: 2021-04-07T23:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-with-top-countries-data-potential-growth-share-size-trend-and-analysis-of-key-players-2021-04-07"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-with-top-countries-data-potential-growth-share-size-trend-and-analysis-of-key-players-2021-04-07"
+excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+publishedDateTime: 2021-04-08T11:30:00Z
+originalUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+    width: 383
+    height: 250
     isCached: true
 
 related:
@@ -238,6 +234,6 @@ related:
         height: 308
         isCached: true
 
-secured: "0TU6MDT+HNHv23qkYJkpttut1a3JCtK6kgj6pZbnG3VeoSIEo9c/3CfIzufp2Ofw+JYlZ9hYI6Kx539RF3ePNzrHWUIKzmD8VehjUWa8xqqj1HHbPkkLjseQaChE6pG/Dzyqjxsi2W9zVF418K96i1JWDNmAnEMc4/pQ/G5W2wfuxgfNm3Cyc5/iZ/+5hYnEU/7ZbwtR02pRpoFZkKgM07R0jIDXckzExz7utRh/w0WdXhhyy953f6vJWh0zJqfkWbTJQKWqffGtXhBN/xmcQfJYpJdT63y+ZVg7Qk72bYOlu6grMOyLCgv6n/nufioeybr/eTSHBw5s6D8keF30DkUzGqkITTlLQu8FAYdzIZY=;mTI1/xzP8EXpA1wSXtuLuw=="
+secured: "NC812hoCJZFy9ONqsXeA923sEGY6KyEJtIYB38oD+lEEtVHRcwZ3dVkcXsiCfNHUR9g0UJdMib02XVguKFUV6m4fB4sLEcZUUVmA3hfbko6OrAf9qdcuaA1ByBY29qS+lo+IHAMwWR3TH4qe0jKM800pcfzwJ4+z6zClEYerYBjtNLBhJf3g1nCAR9SjIyeQTpbZtPmPHuNQeJWM8KwLd8jG7U6zKHKkCVGmo1P2kjbNRZ+Qk8zrd/q9ZQqDBeMy9YgplcZSsQcpzqcTfwDSprcM7bPcg/I2RDqAxoNUDgzTjg2REzOdR5FWXcU7RiBkNGlDxI65+edZFp9ZE30Qj8FUsM63tE5zTdlLuCEY8wk=;QZwmN1OFtgRCd3G6dEh4wg=="
 ---
 

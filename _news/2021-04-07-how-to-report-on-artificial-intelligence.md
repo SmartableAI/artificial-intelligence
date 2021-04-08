@@ -9,8 +9,8 @@ ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively
 cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Journalism.co.uk
@@ -27,29 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "An AI revolution is about to transform your cup of coffee"
-    excerpt: "Startup Demetria analyzes coffee-bean characteristics to ensure a perfect cup of joe while cutting costs and uncertainty along the supply chain."
-    publishedDateTime: 2021-04-05T04:31:00Z
-    webUrl: "https://www.israel21c.org/an-ai-revolution-is-about-to-transform-your-cup-of-coffee/"
+  - title: "Luminar AI, hands on: Quick and easy AI-powered photo editing"
+    excerpt: "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ..."
+    publishedDateTime: 2021-04-08T11:03:00Z
+    webUrl: "https://www.zdnet.com/product/luminar-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
     type: article
     provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/03/taylor-franz-GJogrGZxKJE-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg"
+        width: 278
+        height: 578
         isCached: true
-  - title: "Louisville continues to lag on AI capabilities, report shows"
-    excerpt: "Brookings Institution has released a first-of-its-kind report that highlights the challenges Louisville faces in developing its artificial intelligence (AI) capabilities and overall data economy."
-    publishedDateTime: 2021-04-07T18:32:00Z
-    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/07/brookings-louisvilles-slow-growing-data-economy.html"
+  - title: "Artificial Intelligence Powers Mineral Rights Investing"
+    excerpt: "How You Can Invest as Little as $300 in Proprietary AI Software For Mineral Rights Investing Traditionally, only large investors had the resources to invest in the land and professional services criti"
+    publishedDateTime: 2021-04-07T12:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "PvC7ynISuTd+iyl8GRrg+ORI3TMU4EKKL7rP9DD9hRitHfVX9H3aMNtPBLafvuuAhZEP98A4Bg8BpUkbPTnEEsgdJmqEmCM446io49Qc+Sj8XdJG3YHE/o8n0k01i+qAeezzr3xNDTxX8FJkYeu/W9UUzk3QmHmmJB89XmPn+n1EISbJV7carf9QGzlJyzwayvojTG+OJGuKEIFi8QJfGRlxZft7TBrRY8Iq10Iy/7qgkUqNioMG522WqVu0gHjEgNEgrbn32k3giylAx3QLEb9XC9jI9yIGjVhhD/VDZj2j66BckjhNYN3TOcoeQ/+he3VZaW5xXIY4Iy2lLt6pxyZtlgcD+W3DgSUd9odjxi4=;Jh1Xiuuj16nreKto8os4vg=="
 ---

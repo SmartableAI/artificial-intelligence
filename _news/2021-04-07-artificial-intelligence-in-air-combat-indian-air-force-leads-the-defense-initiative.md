@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/defence/artificial-intelligence-in-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gupshup, an Indian AI startup, raises $100 million from Tiger Global to join India’s fast growing club of unicorns"
+    excerpt: "Ten years after it last raised funds, Gupshup, the artificial intelligence led conversational messaging platform, has become the 10th unicorn from India in 2021. The startup has raised $100 million from Tiger Global and is now valued at $1."
+    publishedDateTime: 2021-04-08T10:03:00Z
+    webUrl: "https://www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/articleshow/81968331.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/amp_articleshow/81968331.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/amp_articleshow/81968331.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 35
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-81968332,height-275,width-412,imgsize-24608/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/messaging.jpg"
+        width: 412
+        height: 275
+        isCached: true
   - title: "AI and Economy in India are Climbing the Progression ladder"
     excerpt: "With AI, this industry is reaching to greater heights and artificial intelligence offers diverse pathways for scientists to experiment with. It goes without saying that where there is chip making, there is AI. The government’s previous attempts were to ..."
     publishedDateTime: 2021-04-06T15:30:00Z

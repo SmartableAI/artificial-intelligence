@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How To Become A Fintech Market Participant"
+    excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
+    publishedDateTime: 2021-04-08T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
     excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
     publishedDateTime: 2021-04-07T16:02:00Z

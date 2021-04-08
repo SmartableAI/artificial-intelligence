@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "How To Become A Fintech Market Participant"
+    excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
+    publishedDateTime: 2021-04-08T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5cUzcv5jXnyk2AVLJtpDK6GoY1cfygbcJ8wpJMVm2+8t42znDAqTDGTGNI9O0ZV7xEEk1wU8UDUEfQ16XA2msc+q1SLZqQjtfi7DxL+EhIZKI98h+q/nYDfhXBhJoL9Dux87lA+BTY8o+g5a8zzWDK4Xm0n5ZD+DkmgO6bxXLDUNcNHMSGK8a+3iBjrTjW0LV7BPhfUGhHmeqUmkn0sZEUcxvGdyAPRKL0kgSOb8BNF8/baqZtqLYks5ikB2G/gyugFNKaIeKPY/wkSElje0a+BIuuU/on82UaW1rDF3+Vu1Zb/mWQEtY6M+ZzeqBFlAWeeBHLSd8p1F+vVcU1wdFFohDHOTa3UG77nCWlveChs=;VE7UJJBaQ5r3AE/awV3jDg=="
 ---

@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-04-an-era-of-coding-robotics-and-ai-for-education.md",
+      "title": "An era of coding, robotics and A.I. for education",
+      "excerpt": "Coding, robotics and Artificial Intelligence (A.I.) are important skills of the 21st century to succeed professionally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/ai-1614865061.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "publishedDateTime": "2021-03-04T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
       "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
       "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
@@ -1375,51 +1419,6 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-why-artificial-intelligence-is-marketing-hype-and-machine-learning-is-indispensable.md",
-      "title": "Why artificial intelligence is marketing hype and machine learning is indispensable.",
-      "excerpt": "Warehouse automation systems have evolved with new generations of mobile robots and multi-directional shuttles that offer a high degree of operational flexibility. New technologies demand advanced application expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-artificial-intelligence-marketing-hype-machine-learning-ripple",
-      "originalUrl": "https://www.linkedin.com/pulse/why-artificial-intelligence-marketing-hype-machine-learning-ripple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
       ]
     }
   ],

@@ -1,0 +1,57 @@
+---
+category: news
+title: "Gupshup, an Indian AI startup, raises $100 million from Tiger Global to join India’s fast growing club of unicorns"
+excerpt: "Ten years after it last raised funds, Gupshup, the artificial intelligence led conversational messaging platform, has become the 10th unicorn from India in 2021. The startup has raised $100 million from Tiger Global and is now valued at $1."
+publishedDateTime: 2021-04-08T10:03:00Z
+originalUrl: "https://www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/articleshow/81968331.cms"
+webUrl: "https://www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/articleshow/81968331.cms"
+ampWebUrl: "https://www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/amp_articleshow/81968331.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/amp_articleshow/81968331.cms"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: Business Insider India
+  domain: businessinsider.in
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.businessinsider.in/thumb/msid-81968332,height-275,width-412,imgsize-24608/business/startups/news/gupshup-messaging-platform-raises-100-million-from-tiger-global/messaging.jpg"
+    width: 412
+    height: 275
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative"
+    excerpt: "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ..."
+    publishedDateTime: 2021-04-07T03:44:00Z
+    webUrl: "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/"
+    ampWebUrl: "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 65
+    images:
+      - url: "https://images.financialexpress.com/2021/04/indian-air-force.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI and Economy in India are Climbing the Progression ladder"
+    excerpt: "With AI, this industry is reaching to greater heights and artificial intelligence offers diverse pathways for scientists to experiment with. It goes without saying that where there is chip making, there is AI. The government’s previous attempts were to ..."
+    publishedDateTime: 2021-04-06T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-and-economy-in-india-are-climbing-the-progression-ladder/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
+
+secured: "iz1UhX3ZgHBcpHXIlm6KVmNASDieM8rNtwaFynZb01noUcUrk4RFhVtOXbTdf324DFBbL9GBuOQDKYFsPOTN3wkrmdDqD9633ktRuH7KCddBZn2EO5+Dh2WT8q0mXmgeHXqccSQHKWqZH7SwM6TvmNLLrEMKTio0MXiVvQ39mSqsgjpYl0G7ZsdBSFHz5HD9XT9SQ2xTpO13oiqHBKLKlz/+kFq5U4Nsanb35ScCexELDvXiHurwySQGzQr7c1U/SNWdKwbH+0GI3s/ZYqtNV47ARczna76Z3cwNssGEzGh90S7bO3IIDV4QljDzgOiBZ8JZZh5RnQgZqxgiQ9vwakrlGI7XQJExKknIzOLx8Mg=;LFMm3bF96uBbubGIzXuetA=="
+---
+

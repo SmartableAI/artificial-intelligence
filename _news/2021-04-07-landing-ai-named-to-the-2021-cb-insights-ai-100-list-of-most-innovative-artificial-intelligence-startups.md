@@ -98,6 +98,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
+    publishedDateTime: 2021-04-07T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_45c49b24-dc28-5f55-b88e-40a5978b73d6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "SentinelOne Named to the CB Insights AI 100 List For Second Consecutive Year"
     excerpt: "SentinelOne, the autonomous cybersecurity platform company, today announced the company was named to the annual CB Insights AI 100 ranking for the second consecutive year, showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2021-04-07T13:16:00Z

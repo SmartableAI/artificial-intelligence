@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-31-facebook-gets-a-c-startup-rates-the-ethics-of-social-media-platforms-targets-asset-managers.md",
+      "title": "Facebook gets a C – Startup rates the ‘ethics’ of social media platforms, targets asset managers",
+      "excerpt": "He says that when he left Fidelity he decided EthicsGrade would out to cover not just ESGs but also AI ethics for platforms that are driven by algorithms. He told me: “We’ve built a model to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
+      "originalUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/EthicsGrade-Industry-Summary-Scorecard-Social-Media-.jpg",
+          "width": 620,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
+      "publishedDateTime": "2021-03-31T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-uniphore-raises-140-million-to-expand-ai-to-video-call-analysis.md",
       "title": "Uniphore Raises $140 Million to Expand AI to Video-Call Analysis",
       "excerpt": "“Labor-intensive contact centers couldn’t handle the deluge so AI and automation products like ours stepped in to fill the gap.” Sales tripled in the fiscal year ending March 2021 and the company is set to reach $100 million in annual subscription ...",
@@ -1181,58 +1233,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-highradius-raises-300m-triples-valuation-to-31b-for-ai-powered-fintech-software.md",
-      "title": "HighRadius raises $300M, triples valuation to $3.1B for AI-powered fintech software",
-      "excerpt": "HighRadius, which has developed AI-powered fintech software, announced Tuesday it has raised $300 million in a Series C funding round led by D1 Capital and Tiger Global. The round values Houston ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "publishedDateTime": "2021-03-30T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

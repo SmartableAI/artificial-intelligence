@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-07-gnarlywood-chooses-invia-robotics-for-fulfilment-operations.md",
+      "title": "Gnarlywood chooses inVia Robotics for fulfilment operations",
+      "excerpt": "will deploy inVia’s Logic artificial intelligence-powered warehouse execution system (WES) at its Carlsbad, California, warehouse. Gnarlywood will eventually add inVia’s Picker autonomous mobile robots as part of efforts to modernize and automate its f ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "originalUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/Gnarlywood_Group_1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "publishedDateTime": "2021-04-06T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
       "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
       "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
@@ -1192,57 +1235,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-taiwan-based-mlops-startup-infuseai-raises-43m-series-a-led-by-wistron-corporation.md",
-      "title": "Taiwan-based MLOps startup InfuseAI raises $4.3M Series A led by Wistron Corporation",
-      "excerpt": "That’s where MLOps (machine learning operations) companies come in, helping clients scale their AI technology. InfuseAI, a MLOps startup based in Taiwan, announced today it has raised a $4.3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/",
-      "originalUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1257762119.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/taiwan-based-mlops-startup-infuseai-raises-4-3m-series-a-led-by-wistron-corporation/amp/",
-      "publishedDateTime": "2021-04-05T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
