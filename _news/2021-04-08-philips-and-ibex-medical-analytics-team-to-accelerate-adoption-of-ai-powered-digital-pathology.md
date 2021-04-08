@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
-excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
-publishedDateTime: 2021-04-08T13:51:00Z
-originalUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
-webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
+title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
+excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
+publishedDateTime: 2021-04-08T13:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Medindia
-  domain: medindia.net
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Parties use data analytics, AI to understand voters’ preferences in Kerala"
@@ -108,6 +114,6 @@ related:
         height: 556
         isCached: true
 
-secured: "QQuU1csg80cSGhK68OmY+O2bMsDA7cnr1wghIZhVjLer3jL89Zeyt7Gm7e6yDyNodXgr5mgBXQ9JNvLB7cgCuVvX+h/SP5Hb+EPS87abImswuqKE3tXjnnczUYMHqrieQ58QJGZ+dGPA8mC8B0wn9gfdzSnHcgIqHvsG25mwu19E8vLOLiea7seBEQJDvDv4qO+v5orheOJSRhyWPqKO5dquhHj55jbnHpJzO0DCkh6J/ahhgR4h2Uf5neRi1Vr3eZo+K6i41gxARHhemiZyKIufOYYl76cMtCTv+tNHAKo8atmiZ0K2j/AivvnIvJm38R/iltI7+bUfpfzOGDWt8IaPGAZu+01bcpVdNJhS/PE=;uCMCSncNNnweQVP1tHuDGg=="
+secured: "m98/9QYnzHKnJ2LIP4X5duwaxh8EjZBOIQG/A2kve3SH+5PxJtQdu2V6TqZVls/+yJUg8NUbs6rQgomKhpxviTdi+RqFQSF0C+z5nodj07DL55cdZ8fFvZBze3hb6fzvS30IuB499y/dOfqPLzujiCNa/sB++cIorBdxzt8oTGYg2up/L6BprfjI6SG/Pn2JEH1resU2rJBkuO7EFOsCUabjJ6tgWBQHEwFQEHqukfBM1NXC43k6A+zbVpLmh/uk58Hslz28X99LwVdlkzz8DEW2+QeYvESSHumFrMvNWQ8KohjQi5J2Gg5/rT3NvS0SxMi+ntxxjob/S3tyCjz0BUqtnBIPt+MegQXVrhl+uTQ=;Y2d9Hf17Nb+NciWIMHdtZQ=="
 ---
 

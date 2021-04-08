@@ -37,15 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
-    publishedDateTime: 2021-04-08T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "CB Insights Again Names AI.Reverie a Top 100 AI Startup"
     excerpt: "CB Insights today named AI.Reverie, the leading synthetic data platform, to its annual AI 100 ranking of the most promising private artificial intelligence companies in the world for the second time."
     publishedDateTime: 2021-04-07T17:44:00Z
@@ -111,6 +102,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
+    publishedDateTime: 2021-04-08T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
+        width: 800
+        height: 286
+        isCached: true
   - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
     publishedDateTime: 2021-04-07T13:00:00Z
@@ -154,6 +159,6 @@ related:
         height: 450
         isCached: true
 
-secured: "EVnsU4CyABmN5wTX8jPiDfRFpJL8UXaqq5BvmJxqYbTrLJd5s99FNgHYZ7G/mwJib1z6KgRIIwTy0jB3No0iNDQv8jzY7yRfgbBmXi8T28UfAATmA/9mXq9oiIIsH4dQQAPkJJ+IyXVUj8JToxur7FQRJ1W3fN9IKr/nj0zqutQ/Xy7+qAbd8CIxidVaY93Aztr1EBxdnx+rfsLRR/bGx/q07QkSswz14rVmJ6DXXKDkakYZ7fLUjl9YZu/x6Sger8JfanVgal2TodjIqzIMf3j8cHYpWhWGapQHPOGLnmxfZEWlzpvvR7dtJ64RcwN0eFceZhXUpX2MhXhbuiC3QBbb/NMbvOga968A+lHNJFU=;krUom4HDRTlEGSZpyzVMPA=="
+secured: "L2Rjd2w0a3S3Q3QHRjhBUFJ3o8CImuWgsxBYToUfVugGKJLq6XjEXyIuUSEICWT5vjSirfme4PmyUOTtwMtY3uzw6zkbcrUX+Au3275bKgDbxH1VFp96nCCdnKMRL/kcNP7hMvo+D6CGYh6o7RDEpeUlN+sT55wUCQL19jj0qsePJmBOPC3TWOAs2AOqSTd7VQQ2WALHAyIm7kGWW7MMof87BpkkQx4cwjTNJjCNn4aFDEoRtZ7ZpivrprLyIlHXqE1RQ8/GKRjGk4fuPmunb/ciF7lspLfYRoTKlTHblPp6hlFBSwNv0KpvREfS9BarzxEXKFwTchhByeWVO+SNSMYkchoZjoH0H5X4Km0qpeF2Gv9N6WIAljCjx3iqy0bYDDZU2EHkFC7ApXEfvVr+7J6YbxuhkXyI+n/O5Il1Tu8DfKMhoWVN/JaUQk3QhqfBLIavGUFglC6Aqmu8WWyw2FOkOk+Ddee4hBWaCywxuEnEauIpu6MNfShnTqP4hReg2487bHdj57zE1N8dYhzRSw==;l5ZEHGnERdUfAKRkdcdpUA=="
 ---
 

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AppHarvest Announces Acquisition Of Root AI And Its Signature Robot, Virgo - Quick Facts"
-excerpt: "(APPH, APPHW) has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. Based in Somerville, Mass., Root AI has 19 full-time employees,"
-publishedDateTime: 2021-04-08T10:23:00Z
-originalUrl: "https://www.nasdaq.com/articles/appharvest-announces-acquisition-of-root-ai-and-its-signature-robot-virgo-quick-facts-2021"
-webUrl: "https://www.nasdaq.com/articles/appharvest-announces-acquisition-of-root-ai-and-its-signature-robot-virgo-quick-facts-2021"
+excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. Based in Somerville, Mass., Root AI has 19 full-time employees, all of whom are ..."
+publishedDateTime: 2021-04-08T10:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/appharvest-announces-acquisition-of-root-ai-and-its-signature-robot-virgo-quick-facts-1030284752"
+webUrl: "https://markets.businessinsider.com/news/stocks/appharvest-announces-acquisition-of-root-ai-and-its-signature-robot-virgo-quick-facts-1030284752"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -34,6 +38,6 @@ related:
         height: 450
         isCached: true
 
-secured: "WX5A7XbB7Agm2Lld8UrCbKUQA1+RuQF5oQAccQqbDBgtb857wo/7tjIUFU639DkawNycq38/d8tlWHPsMxOPXAOaVLqd63hTKc/6pGBLYFZCxg/Sg6/xBahOPHPUGQuRU3Jv6NdMQenYldpk15UB5Njm4apDgdx5Ca5/EM1C+oC0+dZkco6NH6Q4ZpEjT1GkdVcS3YhJ/6WqZssOCl4W2LHWSq8cgyhvnIp9t56WOjX4ZbJo7CeIWNPSq+zKw79zMw8ROx2erS9pXyb8pbW820CJBucGxuywmCOoAHfRmflF5Z1Ci0hE4DgOjG/tH2lDa03d+QshwUTCilng1n+2k1k/NSBwl7SyKLOJ1VjRZJE=;qeBHcQkNxTswQhtCLagnIg=="
+secured: "G0E/llGzmzCBYe5DDZWdNcpHm9jttQyIzoeRoVG75/4SHnPZgKp/eENqh7k2velr9D8k/vGcl5BILd1lRgVq9Rs1IpQdobQwl/Oz11vdK67a9ESExu+22LPPCyYYSm/VfezLmAqU7eHUEYXkM5kSJ7jtJu5mK8ZwfjB7x6aBP00QEYCNRr4m7KhRS3J+XC9QGSKEqWXuitHf5X/ptvQRGVC/6wWzNjo5P8rBQMATgdmriMqhhson6YXubeCFABrE4rNJaqT27xRiosDE/ySqL63jxwazGHs8MZzOylB6WQ/6Y4hnRAdqdhwHEjuGGVD/20BoG6bBKxa9UsHX2n6jxCVZvHPZLYRWHUoltzVQ+Yg=;zzRwOKoVnurKtXM+jCpKpg=="
 ---
 

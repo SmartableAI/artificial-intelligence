@@ -85,6 +85,20 @@ related:
         width: 792
         height: 447
         isCached: true
+  - title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
+    excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
+    publishedDateTime: 2021-04-08T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fujitsu Australia snaps up Melbourne data analytics specialist Versor"
     excerpt: "Headquartered in Melbourne, Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence (AI) and machine learning ... utilities, financial services, and entertainment industries, achieving more ..."
     publishedDateTime: 2021-04-06T03:07:00Z
@@ -99,15 +113,6 @@ related:
         width: 800
         height: 556
         isCached: true
-  - title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
-    excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
-    publishedDateTime: 2021-04-08T13:51:00Z
-    webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 7
 
 secured: "b7/hfd5ohFOGAPfdAoX7zx5mbREZhpcHfzrEgKyQtF/EKuRJX4iIr8rK0xJrHnAB6CtI6PuzHJIsILvwi95AkdJF7LL/dXm4d/Ti9wj0v+SOUni/4ceCYgRSjsrEINkQ8yydUWjR0NJsGdSGMP1Dlv53Te0OQFixSkPfq/LgRuCYmVh1f3IGY+B/ctzoklNu+fG+sJKuIpr9dAhJLVkqhX8h4xjYzv2VXBctdkk77curLteHOR9GJFEycWfjN5x4v9RdL2PhhS4Gcp44CjRYaPP+uGmP5unZXOz3MorTJsYrJGmaSoutOq0Jy4tSv85GnY6zWDnoyRpUNL7QygUMSMfWXT6uZTFN9Sct4fwZgSiCmuFb8NCjhPqXsDhsqQ0fWNcP7ek7G1e4Z7Dhd2nwJzytxi4TAyOoZpoP+/wdK63F8Asb8x3MH5W4U+WLWWOjjfFtLdgTE0IwPbxFn7ktDuxYOpwz4cbe7JRbtVIvQmPJRBG1OfUeSvOkKPJKohIUCYPDsobnmbpAbed8Qtfo4g==;nrRHk8pGtaNG2WjXB63dsQ=="
 ---

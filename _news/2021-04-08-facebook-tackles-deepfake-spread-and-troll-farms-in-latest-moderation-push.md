@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:59:00Z
+    webUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.html"
+    ampWebUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/8/c1/8c17db3f-3423-543f-a636-bae25ee030e1/606f020bef710.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "oBqjIPpAsQepZlioFe9Rmp+OxLFqlc7Bd9fNALtLUpJ1sDcaOhrP/hpvcdWwC/kM//3io5gvBzbZ2GiAE6qhVbfNloBvQJpTe07vo08NQZg3bHcSg8QdlOycH9CAQDBhjp0N757/EuwvBfUQco776BWY/h6R7Y3t1zVaoTbE/ExkjLjC1v9Ei7rdy4r2eBNpCTLXWabIFnqok6O5+nE1+SKUPa6sZf3Fb0HOalw1luFVK4i+E8tj1SgEW4k0DrLdnNXU01aApXYhyACDsjOnFCfchMx0JkcueJTpVrfiM/HTLj2ddjtTTuAni8TKzXrHCUVWctRPsi5XdLdigvRf0Ghh7Mz7/D3tidoIiQJyeKs=;mtL8gRld0lSvLVAFrbjkCw=="
 ---

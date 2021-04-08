@@ -20,15 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028"
-    excerpt: "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ..."
-    publishedDateTime: 2021-04-05T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05"
+  - title: "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ..."
+    publishedDateTime: 2021-04-08T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,43 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
-    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
-    publishedDateTime: 2021-04-05T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
+    publishedDateTime: 2021-04-05T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025"
-    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
-    publishedDateTime: 2021-04-05T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
-    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
-    publishedDateTime: 2021-04-07T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -104,45 +76,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
+    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
+    publishedDateTime: 2021-04-05T00:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players"
-    excerpt: "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ..."
-    publishedDateTime: 2021-04-06T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
-    publishedDateTime: 2021-04-07T09:55:00Z
-    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Artificial Intelligence in Diabetes Management Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2020-2026"
     excerpt: "New York, United States The report by Zion Market Research titled \" Artificial Intelligence in Diabetes Management Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2020-2026 Market Research Report \" presents a profound comprehension regarding the functioning and expansion of the Artificial Intelligence in Diabetes Management market on regional and global level."
     publishedDateTime: 2021-04-07T10:58:00Z
@@ -157,15 +104,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-04-08T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+  - title: "Artificial Intelligence Chipsets Market Research Report by Application, by Type, Global Forecast to 2027, Cumulative Impact of COVID-19"
+    excerpt: "Apr 07, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Artificial Intelligence Chipsets Market Artificial Intelligence Chipsets market report elucidates the recent trends in ..."
+    publishedDateTime: 2021-04-07T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-by-application-by-type-global-forecast-to-2027-cumulative-impact-of-covid-19-2021-04-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -182,34 +129,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Blockchain AI Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
+    excerpt: "New year, new updates! Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact: https://www.thebusinessresearchcompany.com/global-market-reports The global blockchain AI market is expected to grow ..."
+    publishedDateTime: 2021-04-05T06:43:00Z
+    webUrl: "https://www.openpr.com/news/2265695/blockchain-ai-market-size-analysis-growth-insights"
+    ampWebUrl: "https://www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
     excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
     publishedDateTime: 2021-04-05T07:54:00Z
@@ -221,45 +151,24 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
-    publishedDateTime: 2021-04-06T12:08:00Z
-    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
+  - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
+    excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
+    publishedDateTime: 2021-04-06T07:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
-        isCached: true
-  - title: "Self-driving Vehicles Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players Bosch, Continental AG, Delphi, Denso, Google, etc"
-    excerpt: "Global Self-driving Vehicles Market is growing at a High CAGR during the forecast period 2021-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several ..."
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/self-driving-vehicles-market-size-2021-demand-global-trend-news-business-growth-top-key-players-bosch-continental-ag-delphi-denso-google-etc/"
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+  - title: "Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
+    excerpt: "The business report released by Zion Market Research on Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026 is focused to facilitate a deep understanding of the ..."
+    publishedDateTime: 2021-04-08T10:16:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-in-diabetes-management-market-how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
-    images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/12.jpg"
-        width: 548
-        height: 308
-        isCached: true
 
 secured: "GiB0/s5Xkm20U7l2qW5eXcemR+g5kc1vVYpISM5mhLqhBI4Zdq0OzhhXsixY+uhgcUmxacUzXKRR8BEbBEp2u+dzalBPH3MLoxA52u5y3tmjwYu2muFzXq/RNWHRPp0rEkRmQCs1DykcRjoYAUwGysHChlJKogq2bdEvGgdYFbThjq0S8y9h3kWVOJILJinf9g9Npir8uS8Sl2/OgeQqHb06VvHo8CFPAUrNsLuCWPh7zsPbOoau+ZNbSmGgHoFdszVQgQPrmrGumCrvYz+aweEBfvp2BiNf4lIctZQK+u4ObIiTldi0ldENTNlZFdd/J38Sp+EsMnlKbJa8vcClIywZtAX+x3h+x8QvN/H8TvU=;gQ+Pm+afg3g6ytxxv36kIQ=="
 ---

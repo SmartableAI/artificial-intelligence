@@ -70,6 +70,20 @@ related:
         width: 378
         height: 234
         isCached: true
+  - title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
+    excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
+    publishedDateTime: 2021-04-08T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fujitsu Australia acquires Melbourne data analytics consultancy Versor"
     excerpt: "Fujitsu Australia has acquired Melbourne-based data analytics specialist management consultancy Versor for an undisclosed sum. Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence and machine learning to underpin its digital transformation consulting services."
     publishedDateTime: 2021-04-06T01:13:00Z
@@ -98,15 +112,6 @@ related:
         width: 800
         height: 556
         isCached: true
-  - title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
-    excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
-    publishedDateTime: 2021-04-08T13:51:00Z
-    webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 7
 
 secured: "l1uqJ52AUkreHsUjbdtFYF4tRN2e6mEwikkmHE0oqbexyytn5lJYyqiPz2f2alE4CtqJgeXZueN/14xsuGZmBLQwPYh+Qoca+Ghr27kY6S/evVDeSmLHvhhQusGd85TqMZQheFtU9yP1dGeIYnAg1aCEQEN9bicyfwBIpDkyZq/rT9wjSRwyomQ13uS7nghHd2G7bg2ktujEaUaz5OyuQfPwjrFW83K1NWH9sIDMhVN7Hkfb9e5GARJFSlS3kSy+bvHnrImW+P0rM6ST5jwkp3pLhV4WbWWkfFA4JxAqn70huFhPriGCr5kk2CRVYgyOSDDhzFfDzkVyMbxGFO217NFHJ3oXgPL6uDweoEA/1h4dTYCBtz18qfIVLBkQS1x51CchGBkD20htIDGJuEYFfscwm8WCCHLdNmggBbFEhctGmLxrYDEwJRRIK25Zm0ht9i1da4JrqllZVsp4YY7QOhA73K7ey+DE+Fjq1QvK+N4dW4fVNGog+AdvMy0EDRNPtJ3iNHtBJTIvIwTdGL73hg==;42I85O5jgef5UHqD3m2u+Q=="
 ---

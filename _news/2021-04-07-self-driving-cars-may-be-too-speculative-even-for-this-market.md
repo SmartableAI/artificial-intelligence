@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Cars May Be Too Speculative Even for This Market"
 excerpt: "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ..."
 publishedDateTime: 2021-04-07T16:14:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
-webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
+originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
+webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 471
         isCached: true
 
-secured: "8pVXwSKL2kqrBmgFzBzKiOEFTlPfLELmIIFqTjApGGNPXdgmdCMP4S1PiS2R+2D1GFpHkwTE1lQlrAj9a4DcMb7EeRmwbkPGoFNNkSDNoqY4bQmh5l0adWOrKouMyLitqBX07jQ0xlnvFbqRi3rxNTBfP7obBDr2I4dUhLOQQ4JZ2/hYYo3QjPWnHCSz46B2gc3cYgmZDNNzOFVnKXIu2x0Y9DNWzWre4NJn3kcHlhMmkhDbLXfIyLXsh2WACy9tL530FjT9oKOA9HMLPSyGDDBguSesTzrXIk52jW2tyygekjrnkcaPd9Kk2wNHIe+DC5TGd1BYyyJAkn7TICTnq1Ml5H4i2V/RCepH2TTnH1A=;FxZov+gxnWW2OEyMqz0+hg=="
+secured: "kXXeiR0YyaaWXxFFZVy1eZgW2S7Vc90GF/bcYkD7nOJgHMF9PwXhtAaQTvUi+HmoaZfJQPbkE3mlzQ8jPMpvkUOymaAGCDF0ftK2Vq/sqKusBldiwAED5WzrC3rsZX/BOpaxIUNNryovJwwE64eaMXeE0OnANvVZaj8rB6tEBFNV9j0QiVWfC9kZCEDnoYt3R0PihZp2sbFxm4d9Mh7YX0wVVk9R3vzczmGf1+HBWghSVQhVuaeM8YziAmRRX5V4n1brZbLHtm+chNIq07GVE7wAE653pHqT5R8+3robw3Q1Lbu7E4wpy/xJ9YNGRoeLoLNblUeHlVRLxvE9REZt6f/5KDwc5F2Mq4tg+t8psek=;vI3HXJjwaP39xS9tEYjaDA=="
 ---
 

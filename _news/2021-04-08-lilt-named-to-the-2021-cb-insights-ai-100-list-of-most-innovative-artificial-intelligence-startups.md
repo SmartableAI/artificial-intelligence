@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
-publishedDateTime: 2021-04-08T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
+publishedDateTime: 2021-04-08T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
 type: article
-quality: 50
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
+    width: 800
+    height: 286
+    isCached: true
 
 related:
   - title: "Riiid named to the 2021 CB Insights AI 100 list of most innovative AI startups"
@@ -154,6 +155,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Vov0dSG2x+c5t9hGP2nZqpQuc3CFTzxdGAB0lhuReLrlShIAMzVEOu0reLCfx69fUwG+EuccwI27+edRrcRIHiAPF7PnaAbLg1oPiTBLxBLQeyu3sv5dbOwmvjSbOKHURaja25schfYT60xaciEfT9Dmtah0tE3ZuLAPdqH1Yhr7jLCecTfgbnNYYPYgga0kh98VJOPhDaC/JPbbLHRay3+FsfhonYg2TBXsYEj4IY/yqrOa+PFWbJeLfKa9yxXwrpOpi27coTZmMQnPeugAwjHcFbLPDpB06mCSEeRK2w5Zaz7ajwiSEi0r63d26IPaHXoCaczq2K+IigcUWdp4fUAI1z69nC4SIRK1XZ2XdtfY14vJRSgiNVpL9PNp2gExCkzGN9KBzeSESnoDk6MmCnyNnExATP/mxgCK8KipYiKgllYwT7r1GvHumpB2cBD25aysfsZXpn49uB8Z516yhnNHVqLGedlkl32wQ0mGfB9PZRx5woob9N4geiyiiGLNoS3fGXVSEWpbHXueNQSKaw==;6aJs3H3o0c1roO+mWRSjSg=="
+secured: "XA/KYTnuVK9y9ziDYPYwd8r0GsS+Hz5Lky7Y5xzaH7L/4Y5JqD6cB8g0ynIFbO6TgoF6WYaNswNYMd+mNZ6llwpMfEg9oTsFDqR3YTaGPPB0D4GeqM+jaGXqUsODvZuznyaV6nLu9l2zvjT17ZkdD+gi1doR1tToE24BVIyYjl/1w/TXxvjaeGa180cKT4yKLI6GpVxehwItUFlEBF4GztWM7o61DzbLJF/2pQr0Li5PSkDp9SvQeCpMKcSUU0WxM8dtl/vsmV8w1x+PqgpKLsRGkhMs7cRj0AeeRa9bMPotYppKbEy60c2wgS7JdzcIOQQ5h622D1wH8SS8B4XYPF8zZbJHJoJSLQ+PQvayAYw=;2iy8AdrM/GzHssfWIpn+Ug=="
 ---
 

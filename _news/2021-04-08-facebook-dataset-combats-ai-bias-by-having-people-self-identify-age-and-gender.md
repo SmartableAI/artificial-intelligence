@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:59:00Z
+    webUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.html"
+    ampWebUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/8/c1/8c17db3f-3423-543f-a636-bae25ee030e1/606f020bef710.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
     excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
     publishedDateTime: 2021-04-08T11:05:00Z
@@ -75,6 +91,6 @@ related:
       domain: zdnet.com
     quality: 52
 
-secured: "zRx7sTixGOL8TdTIG0aUULy2mOYgcBHZ7A9FNuRXv6aHUEn5ERynyLweY5OdPi/FsS9wrbK8+UC1aTEv57QrvpRxol8kGNq9eWkBPk8a/P2AcvsNIh8PSblKp3v/ybvFfpos4yS7i1MRQ/J+dyVZX1BM/GfhsyqEhE2CACPDBHcgwWOYGCtkjHmnV3yYLntWf+eRSbHn6yQuMcIB0jSJ+rDIgMg+WD5olABAcMRagcbeb/4Twxwy4G8uj+FRWcV4JM+U8PvZVdQPcLTahDntY6nG5w7P6XWBUzyPtmaCsy5mLpQl/vasQmyd77CvHLeOK0XthVjMML/f4fVTVYzgFtdo9Lj/DJJRo2kvk6C0LAo=;mzMgBLo73ucpfIImCvVWTw=="
+secured: "bGiQ2y9vLS4Usk2mwLrwk8fIDTCl8u56GeOrj6Rknl51kw4c4Hs9opClf2beOqXFJ8x+ZYoI+G4lUwfx0yOUrdyaVTH/OxWoLnP19EQLdXhy3dZVTBKlvKvv5x1O4QJNnvFcBOHX+0K+ajKfOoBlrc5WLJuyRoFQMgXGgWDEWKI1JLwwtgltHusHrstBBTyqRiyT2zi5V+XV3VSPRoCnNa1lghLMfcCyaWQefRzl7lIOnBfOGsCQXHA4cdSTbydR8xOnlwLSdRw6GvIl0QuZ311gv9gKLnY1oaH4OSahhGeYr1GHtI2kzdJcAAsjPRsjt0tJdSs4Hffr3mms/apkQ4cGjKsCi7MVIfz6kxh3APPbf2sfLJbTjns2tvY9XWkjM9AzI33smFNHuioRxzM2CqgUBWM/oeZ+2tbB3DxLlaikDCprcqcHRmOKEp4VYhtOVoNOLTFkbWgam0riPB+L5k75YYjOQNzsRbIMDrIOBMuq765bjLtfgOYu/681MQI3XYDhcH/CGeSBtc0e1H4u4w==;4oAy1r/uW3L3PKtWVmQDIQ=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
-    excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
-    publishedDateTime: 2021-04-05T00:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-assisted-diagnosis-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
     excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
     publishedDateTime: 2021-04-06T11:18:00Z

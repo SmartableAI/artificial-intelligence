@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
-secured: "DGRQ+GX5CEZ6vwj6ivFYfF1/ZwXBV5rZ4q6gO+UI8Io2LR8Rsdsta3RtASoZ6F31ZrLvPc3qQK0IGxRoZf7afxtr7eRrEzWoYaI4XD7JzDIGk4eAKi+2b6f/3qMSzUwia12WfXtUSOiCSajEDeT6oFcmqjLXObxSr6kjMuFXSJSyNNg+5RQ4FUxpyPvJKikXGG7pOfNssszCEWKJ4VnE++UAeqfaWRCvPoqOnnaIlNMxKfxSmshq5YokfEML5WI3sK09XDZzuK2UcAK7d5bADiQh0l72C0SaLdfuxmGzLC6bRlm0Sv96hz6CtaqeZFOu27kECM3Dk0qBqUs39cp/XxZEjIxGvKG70B8yk3R+7xo=;vZrHpCkw4vEZ5pbP12mCtw=="
+related:
+  - title: "Habana Labs AI Accelerators To Be Used in Voyager Supercomputer"
+    excerpt: "The San Diego Supercomputer Center (SDSC) at UC San Diego has selected Habana Labs’ artificial intelligence (AI) training and inference accelerators to provide high-performance, high-efficiency AI computing in its Voyager supercomputer."
+    publishedDateTime: 2021-04-08T15:03:00Z
+    webUrl: "https://www.unite.ai/habana-labs-ai-accelerators-to-be-used-in-voyager-supercomputer/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/board-2440249__480.jpg"
+        width: 720
+        height: 480
+        isCached: true
+
+secured: "1XKfdFTCfIpHK4y2hU3d5d4/hYkaNYZmRetriLlkIoOrW7EqfTn/FQaBnLFhKNzHDGKYpQw02vCYCApvvXadd1poWzSX7ToNOZusF64va2F+dOD5LiuYf7aCbvDW5GxRgGTHx5swX6JhRQ1c96Bn6fLCjjnWfwWJL85lXgTXAObSKCfi/baxzzctAlHIz1ndG16KCSEhM51W80uD06kpjWXpwmCkpLvSlAnhz6rEDW3rAw0ASTQSBr60XUC7BLeflurkVpM90WnGuouyllqVSzE3X61043i2X8+92exJaQsy+bpzERlmqsRyH1cvDsIRv7cBxSDg7/OwumxitAq0Fk9kBVwLm8H9Trm4zfWc+7J91mnnu5TvcWYaVWFM6SvXltCq9yjoZUmj34Hm3DxnTUV5cbDlE+114PQ8RWMxykhc8l0km8T/WPRL4DGGnjxY3FpGX6ZeGBXiJsW8vjcOMl1DluXQkcBxC4LmDe95PENTPCw5I4vSVbiMYf389xh9gB862Y1TjCk1IARXU6/bhw==;rfom4T0be8eT5eatSllEeA=="
 ---
 

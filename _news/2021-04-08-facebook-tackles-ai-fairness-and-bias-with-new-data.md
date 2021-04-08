@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-an
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-and-bias-with-new-data/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:59:00Z
+    webUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.html"
+    ampWebUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/8/c1/8c17db3f-3423-543f-a636-bae25ee030e1/606f020bef710.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
     excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
     publishedDateTime: 2021-04-08T11:05:00Z
@@ -75,6 +91,6 @@ related:
       domain: zdnet.com
     quality: 52
 
-secured: "9Ogyng5irsDc8O2WGTF3jM6I/kluT7tw/7hc8E5fMsjjzBD+5G2zywMub6EWnpPDthQ7s7JTO+GmTifjjwctgXDrHfMT8eAyAIn54Gn8XYVjVUrSWI2i7ob2O5Ag8UpCgHLhhI5gLDpzdH0tfGbI326nGY68XekZOYhC2jA5PLasUPhyUc4+S1MsNK+i27d2e08rjul+WUc2ToVT5ZzkGm2b2JTMbmSPnz6bs1BBslbwkd6ZmDgWIgDSLk/bouUPktvNGO1NBcMwLEMEInQgyI+6b854w9ep21Y5g4nSDXtWYNHhUOklxxJTREEM41MGCf8yStIiP9isY1u2G8IG7Hn3tzxqx2Tgg9VlP8jxDwc=;/hFDbHLQshbjnrC2cuhMHQ=="
+secured: "u4CnyUPVldR0LSbG5YVevofAprLVuGsmrHbgchk8XTKcESVujTonD71lWDPT9pFlFgylJE5fpdGVxVdp6STEVATlX6AZbh7grJD6LeRZesPbRtpco8xqrC8Ye+ByMEZ4aGWKVDbDX5ZRQuY20Or+pe8JSXPcJionQVRQyxvI2smGE73PjdwdGDh/lcyCl/5ptOFJcLZpmpMt8Oj7J94A4iNb8zWBbHOr74Q7wPF1OejqWYpcnw7q4PGHKbHsefnJ/eD5s/pC+OxL+pERtnFNQZEDip3ty9Bpq5HAJPDdmykib4NLJsZjzyvtfp16xh6h64Bok6F33BpqSTBMSQP5KCaav9qk5PvwZrGcla3SNvsKZhUwj8GFp6HsU0Aucpm2jqSWGYZCK16hNN+B7UHwtFt1V9V63nFvf6ADCYZvLjkPSuDmeMqeDJU4hmHO/hgJ/mhqTh/ECWbcSsVOSMzd4dPjHO1njVOGbUaPz0M8EsMIttGe5zdo7UUmf+o62uLXV8hkX6/RpYiH6X8MiUNVwA==;LahvSLW4UkCslE4GpWYzXA=="
 ---
 

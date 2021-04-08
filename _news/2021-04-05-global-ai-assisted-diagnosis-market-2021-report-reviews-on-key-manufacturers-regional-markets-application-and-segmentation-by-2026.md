@@ -28,10 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
-    publishedDateTime: 2021-04-05T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
+  - title: "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ..."
+    publishedDateTime: 2021-04-08T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-04-07T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-trends-companies-driver-segmentation-forecast-to-2026-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
+    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
+    publishedDateTime: 2021-04-05T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
     type: article
     provider:
       name: MarketWatch
@@ -42,48 +70,110 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Facial Recognition Market Future Innovation Strategies, Profit Analysis, Forecast by 2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Europe Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends ..."
-    publishedDateTime: 2021-04-05T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-facial-recognition-market-future-innovation-strategies-profit-analysis-forecast-by-2025-2021-04-05"
+  - title: "Artificial Intelligence Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-04-07T12:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
-    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
-    publishedDateTime: 2021-04-05T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
+  - title: "Artificial Intelligence in Diabetes Management Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2020-2026"
+    excerpt: "New York, United States The report by Zion Market Research titled \" Artificial Intelligence in Diabetes Management Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2020-2026 Market Research Report \" presents a profound comprehension regarding the functioning and expansion of the Artificial Intelligence in Diabetes Management market on regional and global level."
+    publishedDateTime: 2021-04-07T10:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2021-04-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
-    excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
-    publishedDateTime: 2021-04-06T11:18:00Z
-    webUrl: "https://menafn.com/1101865962/Speech-and-Voice-Recognition-Market-2021-is-estimated-to-clock-a-modest-CAGR-of-109during-the-forecast-period-2021-2026-With-Top-Countries-Data"
+  - title: "Artificial Intelligence Chipsets Market Research Report by Application, by Type, Global Forecast to 2027, Cumulative Impact of COVID-19"
+    excerpt: "Apr 07, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Artificial Intelligence Chipsets Market Artificial Intelligence Chipsets market report elucidates the recent trends in ..."
+    publishedDateTime: 2021-04-07T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-report-by-application-by-type-global-forecast-to-2027-cumulative-impact-of-covid-19-2021-04-07"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
+    excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
+    publishedDateTime: 2021-04-06T11:38:00Z
+    webUrl: "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Blockchain AI Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
+    excerpt: "New year, new updates! Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact: https://www.thebusinessresearchcompany.com/global-market-reports The global blockchain AI market is expected to grow ..."
+    publishedDateTime: 2021-04-05T06:43:00Z
+    webUrl: "https://www.openpr.com/news/2265695/blockchain-ai-market-size-analysis-growth-insights"
+    ampWebUrl: "https://www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
+    excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
+    publishedDateTime: 2021-04-05T07:51:00Z
+    webUrl: "https://www.openpr.com/news/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    ampWebUrl: "https://www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+  - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
+    excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
+    publishedDateTime: 2021-04-05T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+  - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
+    excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
+    publishedDateTime: 2021-04-06T07:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+  - title: "Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
+    excerpt: "The business report released by Zion Market Research on Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026 is focused to facilitate a deep understanding of the ..."
+    publishedDateTime: 2021-04-08T10:16:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-in-diabetes-management-market-how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "QTuhQLwem5bgTr0MwLfwnVkMabzCXxvIEKYSBdZSkv0eWClXvZfiXj9IQ6ZJsimEQSBNyjvgmpRvtgAQwvI66bzSfNtMpID6XZwI1D8awG5MZqHZ609WN47ckEAoJxmhzKnyu75G5L8r606vMbwCnyCNNqqQ1PouMCnuWuKMvo7F1ElLBDiEKjTAGs899Vdjln9M13RGz6Q/+h3OWVMzUOlAFKJw8GZDXN0gaLEEHCYc6WPHLAkaDrWu09zZGK686Zb4gmVQwoUlXBwKmas5VfdFbNnPJvUbvteJcV7q3W+DLfO8raaxnC2IuAwlcsBtJDFzEwO9IhdZOitFicWlaDWgKZQBrhAm7bz+a3aqlZs=;xJ67P2v0z/FI0Z/qh17seA=="
 ---

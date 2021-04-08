@@ -72,6 +72,20 @@ related:
         width: 792
         height: 447
         isCached: true
+  - title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
+    excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
+    publishedDateTime: 2021-04-08T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fujitsu Australia acquires Melbourne data analytics consultancy Versor"
     excerpt: "Fujitsu Australia has acquired Melbourne-based data analytics specialist management consultancy Versor for an undisclosed sum. Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence and machine learning to underpin its digital transformation consulting services."
     publishedDateTime: 2021-04-06T01:13:00Z
@@ -100,15 +114,6 @@ related:
         width: 800
         height: 556
         isCached: true
-  - title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
-    excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
-    publishedDateTime: 2021-04-08T13:51:00Z
-    webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 7
 
 secured: "qFh3pTWJztdoDgmUsL0pEQ1MjUb7A2XOWJy+eoXzSGPtUzkbEx6U8cj/IVscUMcaBD3FPZxji+3DCM49vHyWtKJC0Yq3aRHC0Kbut/8MKZUR7mk35fvqS5D16R+MXBt9jssuS3WfBqjso+SWqg7PcyFkgG9yUiDFqinMsZqSBNoRvKmKlKj0vV0Bo300prbY46zMg+SuZz/NCzhI8vtHIZBzfwPEzStI8m1sS05SNMptAs4dmYrn80RJqOj2qbUcOyrnjHNroCYNoNFkJd0wa1ZlLGt0vgoUICGrCAfS0L/FytV44KjXIBRIdcoX85/n18VxJKIBbWoCGyKb1TxeRKinZjp4BXAUakF0rqfo2utcXRwMlkhIpzFKYPlBgK1J5ND722UDwf2oI/mKs9+hk1lXUh5xo0EoZ0N2cqvRWdgBQV84LgZmvBTqiT+i3XGZrbFtKc54haAqgaMqcaIcVLRnry6INZb50ukNycsRZL+5DYmo1AkSok0jxMUFVrRyWFiJ9hvXLRmE2zqnxRaV2A==;/mIZFWdnLOHWs7p4HLLtrQ=="
 ---

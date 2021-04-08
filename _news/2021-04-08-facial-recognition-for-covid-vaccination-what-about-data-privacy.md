@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/facial-authenticati
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -69,6 +69,6 @@ related:
       domain: cnbctv18.com
     quality: 23
 
-secured: "0XQ1pQ22rQ7Ay2s47AmfWO1TsfFXIVqlR9/NVlyKn1rFSWrtO8ov6jkWY+qj+QDZI29hJ5CCVM2qS+JTfqwdnTGqVIpQ+tx/goNr5wYh3jlfBzRLkDAeWU2XyqvO8h1RE1WyEOD0IfLDLVLjhGuF1qaeYm96ERbkeeWjVChklFNM6iB23oGI9GRK7FLIL5bJWMAzfFJLlHpq2BGps1uFlzgk9ks/uokohJ6YYsmNhck/f6offwIjUdactuZ/NgAz6+uEqklFj3/iefO95urXgRTqfT0k1lHBUNO6R2rox3qAAjmkfR0ll07Eosb8uvvhVenSC+4E8MAjAJnhLHbMA1yrUTTJCU9r3RRUVWuRcHQ=;IauTbn5kZghmD79DKfAUTQ=="
+secured: "9wVoB+rHK7weB5pYDjIi5lsxUTAqbDKr3AieyqKvanT1L81YGRwl1AK7Rw+2O3Atx6NPdrinUUALuzMm2Nw+ddnUGezUDPo7sR7heQa3OmOosjm45wPhT5qQeT2jiQItQcYoc0DwUybATkLWIL0Y3vn1VSnv8MbSnafTWeGEGHdiqO4ydrMhLR1ED9M5RuqP0wUHgUvYGCa9i+EeoLnqH6YFPR2zzXReVHorixNTBzy+86TUuJEjVEzO9g7+55b7g4Hr7c9URb9mpXlPX8YUR2pobTJ34EdkL+L557+SV01NOmeHQyqNcU2WpZjpM3LxCzizxm3oZXTlq0cwgNbzUF40nFy5Ou7TJHnx2BStotIJIyDV5bygWsbgdjkow6KUiFMaN4vXCI7LEzbZced0he99K2G0IPAM0yk5iOBpDdbCuKxP/FULhbF/4AM2WvTKaXrDcBgKNtubrx6RxGDJHD8nZz0nri0jgI5tMgPPAHXGY4GWU+o2oLR2BRUsRNB3CocSbjKoNzuUOVzkSHqy/w==;6zrofGXFiM/niEaRLDBMqw=="
 ---
 

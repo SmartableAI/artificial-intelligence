@@ -43,6 +43,38 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
+    excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
+    publishedDateTime: 2021-04-08T15:29:00Z
+    webUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "India’s COVID Vaccine Drive to go Contactless With Aadhaar-Based Face Recognition: Here’s What it Means"
+    excerpt: "The process of facial recognition will help alleviate concerns of accidental infections at vaccination centres. (Picture credit: PTI) New Delhi: At a time when the country is running its vaccine drive in the third phase, India’s efforts appear to add ..."
+    publishedDateTime: 2021-04-08T00:23:00Z
+    webUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/"
+    ampWebUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 43
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/01/covid-vaccine-drive-PTI-delhi.jpg"
+        width: 1200
+        height: 708
+        isCached: true
 
 secured: "PmKNph9k8Ln2Pj28LJaOcxRodvXVdGm1auah0DOEgrF8y9a6R0ilYE5aQZXY3al06ux8pCrlBCmR0ICOQgGTD+uh9eKtW43s+qIaPJFvYa+ZZ8lhJ/p/fpSSDff6Ecp48254wMi1crPoln7LNriJYyfYPWB21AJt0M8Ype2d9ESUTQnMX8O6uFEcqYBd98Uc7szhIWGszpkKSqzQvcuCOMnOHTJG2H5UqZMvWDQ0/jr3anEgaGcBN0cYZlqHtr/aoewyBXsn1aa8sDk+I2LCvbUejKfHFLcBOqNuczOrQA2nToT+68eBWanNiToMIcfeB1SWLOoR87Z/tkRGbCKe2Qa7MueQMJJzQlTLB8NKcQs=;c6ubsUBUgw7v+TBGGc5gOg=="
 ---
