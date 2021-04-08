@@ -40,6 +40,15 @@ related:
         width: 4724
         height: 2969
         isCached: true
+  - title: "Surgical robot developer EDDA raises $150m led by SoftBank Vision Fund 2"
+    excerpt: "This new funding round will help EDDA capture untapped opportunities in hospitals in second- and third-tier cities."
+    publishedDateTime: 2021-04-08T00:46:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/softbank-edda-235271/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 35
   - title: "Trax secures $640m in pre-IPO Series E round led by SoftBank Vision Fund 2, BlackRock"
     excerpt: "Including the latest funding, the Singapore-headquartered retail tech company has raised $1.03 billion to date."
     publishedDateTime: 2021-04-07T05:20:00Z

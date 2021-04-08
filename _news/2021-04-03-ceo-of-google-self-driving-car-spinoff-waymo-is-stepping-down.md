@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-g
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Googles self-driving car project"
-    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T10:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "kvt8smwa+K5zwCbqQ1Wl42pUbkQCVeX3Xgvm1Eq8s00JKfq3J6aMuQGgF5vEZktXGsJ87HIG8dxS7gfRCxlZK2u8H44TjtoC/Mf54LPuI3n+cK9u02pH2qfJLo0NLuIJ8WxeKsHnLp3O15YSG2ys26R7m5wAFM5zFm6jKCReGqAFUvY/6q8OQiZtAJhP+w3KFA6QY4jgPWMLmbDrnX/j7K3Pq7ZfUCkw6FV1NS4egWwrPUoaeLmrA6msfKaUeLfChbV+j9Ns0A0tk5op/9/p4mwrZmGChjGCW6Uw/EcwvVb7/up88QzzwyboVyqRUbc1xApKHneCe61xyP4l7zJPfMx8yvDM2RauaEWW0jckwkoaVLBxqbVrXxJth1xDsBoIrcvP5exaNtGWc8K1yntaZCnzrfd1eT0GP7/gEk7rJazJwNPahd6ZN933PJ3QGURyUKMa8z0Uk0SuRibd7gY/IHTqlEbi4eNYEKPBUpKhgMGlq8OAjKRMC0jQ2cKmkhzGNj5AZkzoLpDcMWtq9/c9Cg==;NtRiX2/i2IBsmbLo5wAXRw=="
 ---

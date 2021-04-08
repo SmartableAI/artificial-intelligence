@@ -1,0 +1,47 @@
+---
+category: news
+title: "Accenture acquires cloud analytics services-Core Compete"
+excerpt: "and machine learning-infused business outcomes, to serve a diverse client base across the US and UK, with particular focus on supply chain, retail and financial services. Terms of the transaction were not disclosed. Founded in 2012, Core Compete’s team ..."
+publishedDateTime: 2021-04-08T03:09:00Z
+originalUrl: "https://www.crn.in/news/accenture-acquires-cloud-analytics-services-core-compete/"
+webUrl: "https://www.crn.in/news/accenture-acquires-cloud-analytics-services-core-compete/"
+ampWebUrl: "https://www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
+cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: CRN
+  domain: www.crn.in
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://cdn.crn.in/wp-content/uploads/2018/06/22091210/Digital-Partnership.jpg"
+    width: 696
+    height: 465
+    isCached: true
+
+related:
+  - title: "Accenture Grows AI, Cloud Capabilities With Core Compete Buy"
+    excerpt: "Accenture expanded its native cloud analytics and related artificial intelligence capabilities with its Core Compete acquisition."
+    publishedDateTime: 2021-04-07T22:51:00Z
+    webUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabilities-with-core-compete-buy"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0268-11fc96109c5c-f4cb6a9c686e-1000/accenture_sanjeev_vohra_small.jpg"
+        width: 480
+        height: 719
+        isCached: true
+
+secured: "Ufwa90b+PUTrZuB3WEqrhuqgTVTtmTeVgpez5GonI9e8nH079O8d/Swfzp99zyfYt4sS5+PgMFgWXh+gMl+yRe2VLvKECyTU2CiNkj+8y+il8qBoCx+pdjVSuD3EDyrjNoTgkueRTRwP8Ib6DfTa2BT9PKal8qdWIxwzklPI4ckFv/bPQbWRsGHXJFYYNaci5nVoedBGrk2GyK9QnOyYq6BZXLeufraUpEh2UTqr+aR1WFIMId1VAr8q1sMiM7+NJKPgwj9CvD3GtVsFX/0M73OZ1cKsC6vqYDrkYyfEkVvKuIpS1RalFth9VdNdyPtmaUfLOsKMjh9qWPVJcjNfWmUcXunXBdgsDvDwIhjjZgY=;UNBXAgWjthPRkKACQ9f9Ew=="
+---
+

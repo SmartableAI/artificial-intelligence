@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Doctorate programme prepares leaders for a FinTech future"
-    excerpt: "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ..."
-    publishedDateTime: 2021-04-07T16:00:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme"
+  - title: "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level"
+    excerpt: "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release."
+    publishedDateTime: 2021-04-08T02:21:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 54
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/04/07/campus_0089_1.jpg?itok=VeyU3Y8V"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Fintech Obligo Announces Lease Renewal Incentive Program"
-    excerpt: "Obligo, a U.S.-based fintech startup that’s focused on the real estate market, announced on Wednesday has launched a lease renewal incentive program, which is designed for residential landlords to increase retention rates,"
-    publishedDateTime: 2021-04-07T15:06:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173997-u-s-fintech-obligo-announces-lease-renewal-incentive-program/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/04/San-Francisco-Home-Houses-3-600x476.jpeg"
-        width: 600
-        height: 476
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
@@ -71,21 +57,33 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
-    excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
-    publishedDateTime: 2021-04-06T01:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
+  - title: "Avant makes digital banking play through Zero Financial acquisition"
+    excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
+    publishedDateTime: 2021-04-07T23:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37815/avant-makes-digital-banking-play-through-zero-financial-acquisition"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat-600x442.jpeg"
-        width: 600
-        height: 442
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Fintech key to China’s financial institutions for further digitalisation, Bairong CEO says"
+    excerpt: "A wide variety of state-owned funds and leading investment firms have invested in the AI fintech firm. According to its prospectus, Hillhouse Capital holds 12.39 per cent while state-owned China Reform Holdings Corp holds 12 per cent. Sequoia Capital China ..."
+    publishedDateTime: 2021-04-05T04:39:00Z
+    webUrl: "https://phnompenhpost.com/business/fintech-key-chinas-financial-institutions-further-digitalisation-bairong-ceo-says"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 29
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/visitors-check-out-a-digitalised-production-line-during-a-hi-tech-expo-in-wuzhen-of-chinas-zhejiang-province-in-november.jpg"
+        width: 990
+        height: 614
         isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 pc growth"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
@@ -110,6 +108,15 @@ related:
       name: businessnewswales.com
       domain: businessnewswales.com
     quality: 4
+  - title: "Angel Broking Rides Fintech Wave to Record 127 Percent Growth in Client Base"
+    excerpt: "One of India’s leading digital stock broking company, Angel Broking, is adding a new chapter to its decades-old journey as a financial services company. Having achieved several awards, accolades, and growth through digital transformation in the previous decade,"
+    publishedDateTime: 2021-04-07T13:10:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetails.asp?id=55964&cat=Press Releases"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
 secured: "rBXsM54TVnA3TcKPDveRycjmunNZUkqdUpofhKxQ7PJlsEIIVCrl65sPwmxbzG4J4l9HuOh//En1ObRNK9Vkmdzm1G7YZIb8AEF5+zVh3YeXbkqE3tjUgMuFzAjZtUz7HuS/sIzmFyEcXm8PGa7BgIpvNwktOqQRTd+SNcfIB8Jhk/UPnwHhoLm0EO51YO7im66fpuGEDFJfOglBSBB5RacPJ6vpM9esONHlY5H3hESVi3Z5Tsg2YZLa2wqMqwJVyWbF1Wb1fyPJ77ShUz4LIp5R/JmpArWAJwhH+k+w/lJ8mERGtEGaA4luYt/GU7upjeACBv3lXY+5wF4qYXBHxzPzQV/YDuSiR3YEvvG2IYsS2eMWWybfWBGCeBTxgtEnh/r8IibKMyqp/OWdL8wnhrIEKUWyKRk0QVTRWAqu9MKb1IzABv3CCiq2yiS7NJ1/6huzXqVyXxbHhdN2t+Ji1x+XJwvP4liMiTuT318XNXbF7qc24Qc/pQF+0BtLv5FTLZ1TBsTprV9pkSBhcmtA9g==;kr39Awd4wgXQlxF+71vWoQ=="
 ---

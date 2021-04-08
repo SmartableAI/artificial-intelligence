@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
+      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
+      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "publishedDateTime": "2021-04-07T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-doctorate-programme-prepares-leaders-for-a-fintech-future.md",
       "title": "Doctorate programme prepares leaders for a FinTech future",
       "excerpt": "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -266,11 +309,11 @@
     },
     {
       "path": "_news/2021-03-31-chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit.md",
-      "title": "China's JD Spins off Cloud and AI Businesses to Fintech Unit",
-      "excerpt": "China's JD Spins off Cloud and AI Businesses to Fintech Unit The unit, JD Digits, will issue ordinary shares to JD.com as part of the transaction, taking JD.Com's stake to about 42%. (https://bit.ly/3dkKavz) The plans were originally announced in December ...",
+      "title": "China's JD spins off cloud and AI businesses to fintech unit",
+      "excerpt": "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion).",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit",
+      "webUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
+      "originalUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -278,16 +321,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T04:09:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1KM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1KM",
+      "publishedDateTime": "2021-03-31T03:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1367,40 +1410,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-financial-services-firms-accelerate-digital-first-business.md",
-      "title": "Financial services firms accelerate digital-first business",
-      "excerpt": "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

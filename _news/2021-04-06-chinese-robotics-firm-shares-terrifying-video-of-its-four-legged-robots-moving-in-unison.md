@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Hundreds of robots moving in unison"
+    excerpt: "Robots and artificial intelligence have been portrayed as the doom of humanity in Hollywood. Watch as an entire group of legged robots moves in unison. Is this really the future?"
+    publishedDateTime: 2021-04-07T18:54:00Z
+    webUrl: "https://www.komando.com/video/komando-picks/hundreds-of-robots-moving-in-unison/785387/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 19
 
 secured: "63eR+ophYuAec5ANqfBq4L9Hi7xd2fEY2/VAsVLd/lk6cxHk6hEbMVTLS4q93Pw4Vp7x88nO37Hy7pHCenWBRQtSeFv4xQiACIVd1prj50+AlEyH51Bf0oKZjjS2wkFSIShyU5PC9LrDn2vBSN/MnnAFvdzd9TBscfk8IaLUHCtZ4c+UKbXXSD9FJQMWxOJ8d7Wm2ILUK1r2tzzXw/g+GwDAKScBtsc65HYpy2s7iEqzi+YKOykTqW9X4dVGwsIpWKviQQGhTXQRaSgLG8Ow1JIaYlVbWo3SPVn4qW7IOE+Y5WJaF7T1AbukOMuwjkZZDhKAMCb89tQx2NzOio9D20a4vCkL7V4/NDgmVAR5dM4=;HIhT80qwpnF84JW9IGsG8g=="
 ---

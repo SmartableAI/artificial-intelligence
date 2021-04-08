@@ -94,15 +94,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 28
-  - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
-    excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
-    publishedDateTime: 2021-04-03T09:55:00Z
-    webUrl: "https://industribune.net/uncategorised/9661/intelligent-apps-market-is-over-rated-know-what-key-players-ibm-google-aws-microsoft/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 26
   - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
     excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
     publishedDateTime: 2021-04-07T12:35:00Z

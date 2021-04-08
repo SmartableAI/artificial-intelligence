@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
+      "title": "Why machine learning strategies fail",
+      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "publishedDateTime": "2021-02-26T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-kinetix-makes-strategic-investment-in-senfino-ai.md",
       "title": "Kinetix Makes Strategic Investment in Senfino AI",
       "excerpt": "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix Trading Solutions, an innovator in Trade Management and Compliance software. Senfino AI, a leading ...",
@@ -1287,50 +1341,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-dhs-seeks-financial-systems-modernization-with-ai-machine-learning-solutions.md",
-      "title": "DHS Seeks Financial Systems Modernization with AI, Machine Learning Solutions",
-      "excerpt": "The purpose of this synopsis is to gain knowledge of interest, capabilities and qualifications of business to compete and perform service under a contract ... the automation technologies, such as Machine Learning and Artificial Intelligence (AI), which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/dhs-seeks-financial-systems-modernization-with-ai-machine-learning-solutions/",
-      "originalUrl": "https://www.hstoday.us/subject-matter-areas/information-technology/dhs-seeks-financial-systems-modernization-with-ai-machine-learning-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2021/02/IDT_Feb2021_300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

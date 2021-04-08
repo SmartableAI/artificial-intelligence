@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-
 ampWebUrl: "https://www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-Lane-Enforcement.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-Lane-Enforcement.html?AMP"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_149883545.jpg"
@@ -41,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bb2WihPR0Lq3hiI6hzQBveDHwPGeu2EOMJvN03jW9sjAqhmca55hHe2meLiGjTSTWurWvQ2BqW/+Gmx+FevBVbf41sTPw9whRz3SUmLFIw75/5hv9r8uLs55U7eIn6RVzuodKOZI6uwIUGhabGBcgbBFoHJpj27PbMIrgaPiNLMhDAndJvrg7fPeHuRl/aqbRCKtzmGKSfkjxm9yJeFKCQLyMT2CN3q6HjEf4LSDBWs2jbeK4uWTWnVTn1mTAbtw5JFX5KEmrQrURO6/EMwL0Xb3Wc94EZKzHHkaOT0ONj+ry2ll7U3XX5I43LLLYXaegXOb+wYDb68aMeCraUtkipcc7Y6gpZd3rbB7tIJYQ+A=;oxq8hNosywHsOWoHdL6gYw=="
+secured: "UXF78lrUz6XA18jKXR29/C3w+RHIFe7rx+nen/nYCrf8xO962oTNkERerEJhKJyCJZkMKAyanZf8usulg3nFIF4fMDZsVVTOM08Q4M6txnzmQJiF6e1K8PKSycQQVIj7K3EBrpmkBVV6msxLVX2DFq69hAWTZdc4M+2yruQu7NQv56pOONwITG2+ql2bNqtf84fAB0AFwG7MzC1ic7wDbibyHU89Ncy9wGQCMaUjFAGef2BuSiHOvK1eOOmuzKEpUITNZ+yxPhNMdGb5riRhclRNZ7IXmTOFisDuCBH9mIAS6ot7DSMFVsQU7pdsXk3mrf8oPRg/I+k9yWV7BkmgaWCBuVQfWLY47vdyBc4sR5ynhfhtwb/GsK0h8kl1x/IcZpwbaB+O3g52hd70RJ3+VQOSVYE8c2mvLE3EV5WcPScM6undIfHG3x1pXVhrIy1158hKIhi37uZqp0WqJAT57hXRmSvYr4bH6HCRythXph/SOKCa+NjSIWfL/9jUqZ6iZA6UhMY5FTqbkcinZRB3kg==;F7KhcMFE5WeXBD50a9yIYg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabiliti
 webUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabilities-with-core-compete-buy"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 719
     isCached: true
 
-secured: "czzxkl4a7Gi2E+L3Fp0kj/WugqVkFMPD5EXAlUNw25gwF1987eet5PPbdQs/GMHfSCGG0QJxV5wIgttJTA9ChCXuzruFkGYC9SOVZclSHVmyKklHh0tSlylaDJCidO+O5n1w20vSWid56ylawVdPCy8VofoKhD9OVeLjVMUCv7a4USWLBmxyNlhnz1kMh7PP2Pol1w7Q9/9pfVMHW1Qmwzrwu5dRAhGM9ue9VTq24p7SHkO4QTjMLeo1+UZTPC5WeWBv2kd3eRwWcLxrVHEHagzwZtXD65YMJCrul0UQd8hBcfW3kz2nslTmWycpuw53rFU78hr3zzgkN1rTGyl8LAlhS2T76ubGQFNNB05Uka4=;0494sDMWAuVRC4KNOe7F2A=="
+related:
+  - title: "Accenture acquires cloud analytics services-Core Compete"
+    excerpt: "and machine learning-infused business outcomes, to serve a diverse client base across the US and UK, with particular focus on supply chain, retail and financial services. Terms of the transaction were not disclosed. Founded in 2012, Core Compete’s team ..."
+    publishedDateTime: 2021-04-08T03:09:00Z
+    webUrl: "https://www.crn.in/news/accenture-acquires-cloud-analytics-services-core-compete/"
+    ampWebUrl: "https://www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 44
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2018/06/22091210/Digital-Partnership.jpg"
+        width: 696
+        height: 465
+        isCached: true
+
+secured: "yhLt+vFMjzVF1gxaVXkvtPgJB4gtspY4SS1LYEVlXVK9/SArbg9KOE/9I/1VeEzIaImkVmUUOjstlSvNGzRB0dw3R3YdTFnBWs+0U+S+NlGa+R7Dax3izPIeCs5W1EUWrh0n/WhIWYOUeP8sQyWgHxygNuUMFhBLXmxNxbfGAk+fmQycAYJ2zGRifr/AoTZorNnaQZpnwwdk14NWS2GGPXvd3mVp5S8UZupc7yW02J9gXlA9zcEGpa5S3sSjw+/9Iq9Y12umf0gU0PlveoBFWyYjrcj/zFBd6ImRs3OEvvvZsRVR01WJwS4D53ZeRFhcfmvWtJHYex4bNj7J29YDDkQSrICUbLosSoZJ9eBH5AR2tmz8WIxpyvloUpSZC0tTa+Kat5CDgF2WzPP/Y19AOXJ/UA0C8+JpoIcFCpAUQ5cfLCu29AOUf+hAKWxg5RXeZ2rrhSstWv343cz16gpmTnCEZ6tQJ5HkYszsGBE8Kf7hwEw35fknAP7NEdPO/zoCTfpRFAU7OjLlFcAprdQ3tA==;1XnruvssBh8IzuavYMcOGw=="
 ---
 

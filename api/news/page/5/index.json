@@ -2,6 +2,197 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-04-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.md",
+      "title": "Insomniac may be using Sony AI machine learning for Spider-Man on PS5",
+      "excerpt": "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/8/78555_34_insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html",
+      "publishedDateTime": "2021-04-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-all-ai-driven-crm-platforms-are-not-created-equal.md",
+      "title": "All AI-driven CRM platforms are not created equal",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Customer relationships are changing in unpredictable ways compared to a year ago, creating unique data-driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/",
+      "originalUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-human-in-the-loop.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/all-ai-driven-crm-platforms-are-not-created-equal/amp/",
+      "publishedDateTime": "2021-04-03T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
+      "title": "Robot artist sells art for $688,888, now eyeing music career",
+      "excerpt": "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "originalUrl": "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php",
+      "publishedDateTime": "2021-04-03T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
+      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
+      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
+          "width": 1199,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-these-are-the-ai-risks-we-should-be-focusing-on.md",
       "title": "These are the AI risks we should be focusing on",
       "excerpt": "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration.",
@@ -62,7 +253,7 @@
       "originalUrl": "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1036,195 +1227,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027.md",
-      "title": "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027",
-      "excerpt": "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state.md",
-      "title": "Google’s Eerily Lifelike AI Reservation Service Is Now Available in Almost Every State",
-      "excerpt": "Google has expanded its AI-powered reservations service into every state except Louisiana after more than two years of technical improvements and adjustments to accommodate local laws. The search giant’s Duplex tool is able to call businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/",
-      "originalUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2021/03/Cognitiv_Guide_031821_HP-652x367.jpg",
-          "width": 652,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/",
-      "publishedDateTime": "2021-04-01T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-power-grab-warehouse-robots-take-materials-handling-to-next-level.md",
-      "title": "Power Grab: Warehouse Robots Take Materials Handling To Next Level",
-      "excerpt": "No longer content to just release hard-to-believe videos of humanoid robots doing back-flips, Boston Dynamics this week unveiled something logistically incredible: a box-moving machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/?sh=741426b96d40",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064e99ffb14fb0430d02af7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D376%26cropY2%3D2644",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "publishedDateTime": "2021-04-01T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
-      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
-      "excerpt": "Standard approaches ignore scores of possible ethical problems. To better mitigate risk, companies should take a cue from the health care sector.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
-      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board?ab=hero-main-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
-      "publishedDateTime": "2021-04-01T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

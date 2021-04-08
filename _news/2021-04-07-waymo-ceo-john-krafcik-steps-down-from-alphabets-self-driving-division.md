@@ -98,15 +98,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "John Krafcik quits as CEO of Googles self-driving car project"
-    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T10:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "EYk6HrkWwlSMldZiCyKHBUXCNwuvJlAaPLAgh9Rgmo7qkTCkSl0bQJTMSuxfe+0bcr9L3VoX1iSthkCZZoIZhXdIK1c1JazrirGmliyhkaIw7865DrRkAgfwIBQpLaywM05RCP4EZiVE1YG3r7pVFPv+RyYFAUMYrGujLuI/EEN9c5DVZYgcGO/ntB9ASGSmSF/mBA7hqNSS570sIB0iIWwSdLRUJokyBlCxUVKT5Po5+1/m+A6OeFTr7kWNzZlycurhyaJaKWZT4/x/fTQAAYO//JHZwNFdCJ/KvgBDN2KERNbo230gn+UIYE/QsGMrTBeY/uda9vmgqdtpcdbh2DibkzewRqN8PaLXhT3PzNCw1RBWIkobIiFesKNhS/RM9qqjHKWqkTRwJNQQJWfwV7IS9TROWkNTqBcfO+jVY+ih449wz90V1/1f9McHLJ7jqfLOfDpcMjvtaznLCWnq8ak5VbPIJIAxcbUZ9EcvNcX04S344jy32u3wMtI/e/hTb3v87hgjpzAxxcnI9Yun9g==;IUi5VUR3IzIGHGI/Ng/ceA=="
 ---

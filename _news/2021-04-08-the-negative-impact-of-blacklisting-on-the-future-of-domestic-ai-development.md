@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-
 ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e365b33a5a8a82d408f31%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1616%26cropY1%3D18%26cropY2%3D927"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "BUqm8++uuQgZkGzPPTsjCrMghP8bgCclhfWTfvoKcUkNLNDYTsfqf2iOPt6MKhharU+tc3WPq/QReMoAKE/ymseqmvHqMVci3wGuWSlgLU3A7XT6V/32G3BhamcLr5f/YRYAlO4nlKH3ez6fSbhAt4sthbtMhuQqHicM53xlcx2P5lYzS2iXc/J2IdcExKSXhDeFAHUbhnxJ6qXi8T5dlv/faPXs8j3Yb5BhNWDm3BB5r1tVGRoaP2z16SYG3TyejU5nbMNRvKNrIpej/liDC3DmgwjTqV5h9SbTz2PqgIYdHWgtlJSIpewPOPx89XUHd0GvpnJ/nfxeuWtiT8K9TOuU/ssCd9SAo7gkV6SOCzg=;a1raD9tWqdYy3dZxdyXZjA=="
+secured: "aT2m7FAZ/eUXlecB30fVhzZRti4IWxqvELyfkXKA1ppGymJkMCzAtQuR9y6yyH+MOagVRE92rurFWaO4U+sqzEWMfeQsW688bXB55mrqbjS61mHzyN8HzmC1eIe0s9XKQjfUbZC3IQo5RWpCPgWtS/PYrnZ5xmzWLkmPSBPuouT985/MpkhNzet0trnrdX5zhsm/QOzLDbBAJJrn7cWP1NKD5ckpNnpHlZ14rxCPQLNoA6uXHw/3pyxolhP/Fg0oX1R9LCDoKTXg0oxd6Ai2sMSS8BBZgMnrB44NGLRM/1gHSXmlrdAeDd/LlTMOIzJCRorLlnESzmEc7/FUlrds+9JRaUupdXrDDU5SRGW/wpCbGns9eTo5y82pnD1wxKT9wpVkHPbB0Oq2mlq9I+heNYnziEeTYc6UzWHmsVaKlZb2R399lpVIxNnETT4+IXPPzZZcRmM0Uq3w0HibO1BhHbu3bz+N0ZI+dro54W+wKPeYIP4RONzvE4kBBJghCmyTCMDiCAG2BkT6NzeYZoTJRA==;/K63gzh3XywlqpYk4Mf1vQ=="
 ---
 

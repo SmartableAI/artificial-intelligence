@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Leading American researcher and DKK 350 million will take Danish artificial intelligence research to"
+    excerpt: "ARTIFICIAL INTELLIGENCE A new pioneer centre for artificial intelligence research is expected to open in Copenhagen at the end of 2021. Headed by world-leading American AI researcher, Serge Belongie, and with a good DKK 350 million to back it, the centre ..."
+    publishedDateTime: 2021-04-07T03:59:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uoc--lar040721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 2
+
 secured: "T1nSP/pOtO0KjlAip7mBuUoA5bvGhKWG8Tqv3zXNm6WZ7oaZ2Cq7J5GazjJFMY1uNjOaHR2xFEI/Z9lAcOR9mjsdp2WMQvLET/NH8dMJ8AtOFAyRoeoat6+IIAwVwUA/pIJXlSkRPtOD9BbqpWOROWW2mdu2F88JVavl4WckDQ+cLLMM++tFL9fNmD8NJr+ATRLkT0FRgPDMk5T3BjxnQIe42tYuoFE8jkRaJrDC1U0Hun4B4RKTaDhhohmI/7EOfpg6mnTbTOQC5INVRYme+gnUMHT5KagX3vCqkuD+febLoWnLdDGYaR2qaf8OqcOF3PkNiZ6igI4YRZhUP3Ll52jbWgjb2pGy2dWEZRwQqm1PtIZLhj7KOPABTpll9H4UwV6fQNux+LXORTNtvpfYr8gJFcx4oT97FIxtHh+iW00yHxRjqJwJYFuu7qjpcwDp5y24SM/EuYInwVPMRj52r+IU/RJDVuQGFv8Ag95UbfRO7dqk1x+ppFjVWJ5Vr8A50UeIQH06R7CnM431kIKDRQ==;d9i1gu2nyo+07Lsmk/5Jkg=="
 ---
 

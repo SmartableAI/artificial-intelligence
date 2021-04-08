@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/thousands-of-us-government-agenci
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -58,7 +58,21 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 31
+  - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
+    excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
+    publishedDateTime: 2021-04-08T02:00:00Z
+    webUrl: "https://cbs58.com/news/47-wisconsin-law-enforcement-agencies-used-facial-recognition-software-reliant-on-social-media-photos"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 24
+    images:
+      - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
+        width: 1751
+        height: 985
+        isCached: true
 
-secured: "S4jciUr79USh9o4uuMqGo9LwmqnsacF8luK5Yqkiw+M3TS3QwthGEMYnk4Fd4NoeykHdpx8nzQo6qPWo46K1V6OmvVlfHgmg/g9z04+034i4O3z4g5rPaQ1A2TidiiojQFn/if58vIe/470z4h50baLg9mvnPjUMHm9vBcLpPVGoZYx4McoMMd1Rd7rwPNcPU+24W6IgBU8iQEu57seA4w4rcRNNPklRTJHkB0m8H+cHZQBa6h1OYSG+y1ul5WAE0Xf1tdxEewqJlupmZAu29PVUtL8dIuITpEpArKC1c1NHJ/quLtOSzgS2DWbp09p4mxdd3/6b0g1ZmILy4qCmQcMagy5pcTTpy2G1J3GgkhQ=;r5iLADdvSLzOPezPjRG37A=="
+secured: "JYxDC8kyHV4a1YwW8buQoLpuuYkN1Dj8TKkbuKuNjLQ6MWtJsGSw7q3e3Eelgz4fp9BLKBmvTWDTgbzg7aHiGreODS+s2a+j8VZkC6u6+uUnyWeIw2ajE8s/MOJ2xEb2WZdn4twUITDcs9jszG2PmYnBIgQQuqcxyRPcfWcG7f4LviJWDBbJtPXLacCTEVZO5GtJetA82zBUAyLle2kNhw6bKRQtwKEmgXOAGHLuQyozSv78yoTcRpWWuJWZfQc/ZBTLI1ucVlHJYtY4Cxj4ejcvIlFl8tnoZEPepsiczcapPCRSzWZbmyw/+Yc9sxqCdW4luE5rXjhf31dxh3A/0xM+jTzxm1kwN8lYaW5suiLphjguYcZR6llECYKYmOb2ajFpnl73YzZCFb+hqre8NIDZ3SO+OPWBW0J74glZ7KT9UB77WbtYE5XHIOIHz4C1/H8Rv+NZ4w4c5zQz2gEb+RwIHBIC8QpVPwfn0KjpAgfehh7donJbf/zl55sfqjBXYukBVVaTBNupwR3dlVwGPA==;VgHuo97RPD0MTO0bnTxRWA=="
 ---
 

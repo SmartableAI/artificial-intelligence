@@ -55,6 +55,15 @@ related:
         width: 2245
         height: 1587
         isCached: true
+  - title: "Surgical robot developer EDDA raises $150m led by SoftBank Vision Fund 2"
+    excerpt: "This new funding round will help EDDA capture untapped opportunities in hospitals in second- and third-tier cities."
+    publishedDateTime: 2021-04-08T00:46:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/softbank-edda-235271/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 35
 
 secured: "GIzxVKQZI68ldAGrfLXk+Pb5t0iO1rcaSHBPfE+PRtpvctJcYeXLGqUQxshVcZ4e76LqQiSkNpgfWqBaQPdZFDfObUGmoP9cWqk+Gt6zwHSbm+8zjZjJiGlZ+5PdMcdroJABNs/dTbDFoyv8iga9/a+UGq5f6rcCUrvxn0MzQ/COwEX6WM1tPSt+jA5l2wxtgHPi6B2UDyHqvLoXcJUsUJ/kZ8wuTVRw7qYHbliEmLX4cHYfKFwDFW6YmSh3rr5YWG9UAE8+tneyPhZUIFRTHe0sjFnsBjOvo4zerrAVo9p56rPLOz4a2ejZMsdZV4MBLCINK6R36AU8u+SfetFug4bv1MFEMvCvwu9ltMUdRQ4=;+466XUcEGJVQAwOVtssYBA=="
 ---

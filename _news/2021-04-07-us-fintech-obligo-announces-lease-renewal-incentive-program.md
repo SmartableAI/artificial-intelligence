@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T13:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
     excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
     publishedDateTime: 2021-04-06T01:26:00Z
@@ -73,43 +57,6 @@ related:
         width: 600
         height: 442
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 pc growth"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T12:27:00Z
-    webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
-    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
-    publishedDateTime: 2021-04-06T10:24:00Z
-    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 4
 
 secured: "KDFYwvIL2dlp5MqjxRgubTXCZHx2fPa64aR4J3S6lFC+oV7JIhOpZ5ybYOjt48XakI3ih/jvQ8xJzrEIKgNB87TOFUSKqK6FaVQdTDtiv7Z7s3EZ9LELrQ5+MIjAzk2ZKI2iWeLnyKA9ivrdrpY01K5IDi0tPNQzbAZNRzu/x40GFYCKKq0ySSR7hlEe7CDfdetHlRO+Lvs9XAAX0IeEeeOz9mJqXg5wX43XoVDwnPEOswBXOXSi2dFqBJgmhlw8SyWQtkyihAI3YVT9oX9ThtbFCyly7AmAaaq2pSE2EpysCuqIVlcn6R14APFzMOwV6jHjocQJjOZUM9J42n+YxvBs9rVS4Ag+OsM1XrGvJepEYOoFsN8LLxyEYV4gNBNpe2wyneI6/rQiNweN4E4LBEoADl7rD2ttVV5qweQckHazneeUwGAG3FNXYCpmIjshqWs8Q/Maq3mMV3reBXYZSlGIamINe2922IA3ISZjJY5G5GrFEFPaYMUKvPU9PSjZvWxAkONoH7/827C0HsOG4A==;jZtq32qQGf4UysUmAbGLQA=="
 ---

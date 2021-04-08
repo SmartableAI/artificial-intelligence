@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Intelligence and Healthcare Outcomes"
+    excerpt: "The next session in the Lifelong Lerner Webinar Series: Artificial Intelligence (AI) and Healthcare Outcomes will be held from noon to 1 p.m. (EST) on Thursday, April 15. Faculty from the University of Delaware’s Alfred Lerner College of Business and ..."
+    publishedDateTime: 2021-04-07T00:00:00Z
+    webUrl: "https://www.udel.edu/udaily/2021/april/artificial-intelligence-and-healthcare-outcomes/"
+    type: article
+    provider:
+      name: University of Delaware
+      domain: udel.edu
+    quality: 34
 
 secured: "/WwSyKllDQdFC6q12pArCLUDKqTGVE/mCDJv1osZOtileTVHRDh7J0K65o1QA+dUpNW698AIj85H/k8HrfpAG2HztQLfIUcwnrtKwBF6aAX6RQ+MYwXPSMgwWa3yyqGb4ieiHYilk0ndZhIAOZvsOYJ2JcveLalk6IZoSFIASlAW7rUo95SwHKW5DD0Q2F8txO7DWIt9xunVJrqFHus3ZWwvcuK4zKA1hmCD3aKR/Vedfi1joL5iRmMsQJLIGQVO6hh7yCESNv9ic8P5d9hEoFSOP5VvJNDYtGhU8u1UqzUZgjXPSzy1P61fn2Bc7IcTevDvOxDxODqeLo6g9AXkjjiY5QQhhGcZarNaqDbH0EUthjwQ7YF2UfntVtnUlSsB4su4ltTVnraEWejtmGifejxXtxrA4b23Lev4HbdTvZhlViLJPB7wjsaMzzDsjessKxQTonifGnLlVD6lmx0dTK7CEtyLy0XmHQ1A3u+t6x3eOOoPSrP7avEZoGKIp/CLzN86lcppN7iJKBbKBvVi9Q==;kYB9kGqyz69SN+itFCGLqw=="
 ---

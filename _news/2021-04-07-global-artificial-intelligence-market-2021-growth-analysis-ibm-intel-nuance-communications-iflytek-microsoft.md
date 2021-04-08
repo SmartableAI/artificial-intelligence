@@ -80,15 +80,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 28
-  - title: "Intelligent Apps Market is Over- Rated | Know What Key Players| IBM ,Google ,AWS ,Microsoft"
-    excerpt: "The companies are highly focusing on technology development such as artificial intelligence and others. Intelligent Apps Market Report offers a detailed overview of this market and discusses the dominant factors affecting the growth of the market."
-    publishedDateTime: 2021-04-03T09:55:00Z
-    webUrl: "https://industribune.net/uncategorised/9661/intelligent-apps-market-is-over-rated-know-what-key-players-ibm-google-aws-microsoft/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 26
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Trending Technologies – Microsoft, Qualcomm, Intel, Google, Alibaba"
     excerpt: "This research study titled Global Artificial Intelligence for Edge Devices Market 2021 by Company, Regions, Type and Application, Forecast to 2026 reveals the current status of the market to predict the future, by analyzing development trends, competitive ..."
     publishedDateTime: 2021-04-06T05:20:00Z

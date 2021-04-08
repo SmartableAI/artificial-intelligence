@@ -57,59 +57,6 @@ related:
         width: 600
         height: 476
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T13:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 pc growth"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T12:27:00Z
-    webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
-    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
-    publishedDateTime: 2021-04-06T10:24:00Z
-    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 4
 
 secured: "3gHf6bnjPycUO1GZiPPBXedDK7RDcjHHQqDfoEwvXymgj9vKuEt/Y8mERN7k2ddZBtzJ8wmQl9mMfC13FphU5lAxo679ssuzn8zbF+vfZD0KtVGVYTP5IvtfU3jhrmKqHyc9bLwsiI1PTha4JAxnOCA46hqpc91kxRWqmittQIGLvIDjyO7AbjUkqZ++Zgxf1H32P9s0AaZkO293RDU0ZAWpOwpS30R/W3+Qsq+df/b61tnlg+hQaJ6AsJPDJ3ds07q0B7BWZMxwC2y/VUKkDgixk36hCFucO75E9HNh7cdh/ylWS7eAH7KhMeiU6aMhLDbMjDCO2SfNyjUoRyyb0e026qYt2zTOubmnpw2gvhYS7Ljyr0bEqyF+trMIVgBIyq4/ampHDtZDR082qcQUD7GgIGD/1kNbP16psHLHbmu3RiBFYaEndUbQ3DJXemlllhtBFE1lMthkqwpQcDhe84bhXWEfgB+Bstkjoe2l1nJwqDsPJKUolUysPL8ttjoGtQ7L8iEjPzmjlDBTZK/v3Q==;lJeQo3Qxze4Y0ll4pi5QkQ=="
 ---

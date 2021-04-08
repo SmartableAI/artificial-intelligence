@@ -27,17 +27,17 @@ images:
 related:
   - title: "Vysioneer Receives FDA Clearance on First-Ever Tumor Auto-Contouring Solution for Radiation Therapy"
     excerpt: "BOSTON and TAIPEI, Taiwan, April 5, 2021 /PRNewswire/ -- Vysioneer, the leader in Artificial Intelligence (AI ... enabling a quicker response time for performing radiation therapy with more precision in targeting the tumor. Manual contouring time that ..."
-    publishedDateTime: 2021-04-05T17:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/vysioneer-receives-fda-clearance-on-first-ever-tumor-auto-contouring-solution-for-radiation-therapy/article_5e4e90c0-7b3e-5e6d-a592-32afce925857.html"
+    publishedDateTime: 2021-04-05T17:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-first-time-events-artificial-intelligence-ed13e31e61b2438d06d55a78220b4b60"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 25
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/2d/a2dc90d7-7690-59d9-a78c-7b360a690a9b/606b49aedd8ec.image.jpg?resize=1115%2C630"
-        width: 1115
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "CrIiivBFTuHc3mSLLXqnMcj0v7Ujcw4UHLsQZjJ27cC8GbEubpG5MQE4hYYQiXg6Im9b87CXBP6YzF4xwSVFDgviZ/Pb+pA/QGcAkFt29kEGPuMQRpgZcyw5aF2NEitwZ6wW8+pkG6ziq4jcFFwfKRXPlnCESAN8cTVw3vaB+SWE6yXMwwivlP+RqmsHXjvk9gjPY/qYgIy3SI8/yjt9TlX58UL07kpW5gFGxLGSq/3xdtEs1mW/PbOasWSIL4ahfjSuzdCKxxrN0Campw6xfs3gdW7QHPneK+rD1Y8qMCjRzxsAieEgWaCVUmO8CdcffrTxzvV4CWYZQM+/TvUyVO+LbfwZKMCZgLzaTOJ9fojlKRnCVFwBEU+mrKxLhVC3O6QEppxjou2fV2vYgsdOLq3aRBTqMaKWik/up8ip2NyrfHsBnqomykmoVcyeIRoxHTVu2zv9D2qR/9JCrRTdio5rolQslM4c5VjdIqjs/lFS1aGs6MySf9RjflKQeP+HaJWIuEBIrBwtHV170qyJCQ==;h3FgKfESbXrw83wDRkU6Mw=="

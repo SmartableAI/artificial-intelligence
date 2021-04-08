@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fi
 webUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme"
 type: article
 quality: 54
-heat: 114
+heat: 74
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
         width: 600
         height: 476
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T13:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
     excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
     publishedDateTime: 2021-04-06T01:26:00Z
@@ -77,43 +61,6 @@ related:
         width: 600
         height: 442
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 pc growth"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T12:27:00Z
-    webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
-    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
-    publishedDateTime: 2021-04-06T10:24:00Z
-    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 4
 
 secured: "AOTocSILuuw3E5gA7vF1/x5mHgxMmV6/ioCpQ/2Pi1KALDhSH6wHi0kANH07BuFGVRGV2l1ZFonKwlDkpSc+jMmwMXbA2t5fKAozSBvC+TlKMBC6e7CYg28QHmeRYS+NwTmoan3C645vrXcA4/1cKYM2agnk3sWe86NDvnu1z89xxRz5jlwyxtvdG8Brq3GcGAJWRm/mLjiB0NVUKZy4Q1zQqj0UFQpRLlSo2T2CK8XEG+g4j+rRImXMHT7zvDfM+UYRTF6WYiBHhbhjVgVAsu9qD9JU1+IoRyup6nxq9EurrLNckPBTkM/ESu2E//l7WdK87EULl+cg+13Iyy2PVV4Q0LoDqT2i2nGk1JizjyEC29WbeeWvyfHGPf9QKsDtzlqN/27zJqfNuNGlQKjS5Wi6DcxggpkQAVFADStHJYWxc9tXdlJM1gKZFxFKYMhF97MB9LgZKhuv1p7gBqdhAw3jFJqvAAtrAWctXE2elrKHiOj7ue/hANvs/0iZ1b24uRN9CQaaw6BItJgdMuebIw==;cuq8ll6K2DHi6P36K/BoxQ=="
 ---

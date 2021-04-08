@@ -53,6 +53,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
+    excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
+    publishedDateTime: 2021-04-08T02:00:00Z
+    webUrl: "https://cbs58.com/news/47-wisconsin-law-enforcement-agencies-used-facial-recognition-software-reliant-on-social-media-photos"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 24
+    images:
+      - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
+        width: 1751
+        height: 985
+        isCached: true
 
 secured: "7RbNZod95AO3FDJOR73T7dpc330U85+P2AFr+36GNAFlWvDf79dIHZRXzaicS0X3wF4ODLbIpZpmSBluz0fzXdCORzSAc/9eSFTY9e9+GHMe9PLWaeVCZYANMiDlCIdVFKD90tT8fyuNiZOOm+w0BW5+h3BeMKdJImGkS6AtnlNyt/qTAcRjWqKtt1Bj1rLTcdQR+sy6Mfy0EInKvpKMrXDJZGZHRjOiSxPtIgZvGpNG2dx/C9ONZaJWf4xscj31NQLfWc6lP61/2oGMuWNoYXO+GXRFdkpLet1YpBn5Qsu7urFfUogSCauhgCne0oVQj40l6MVn0cQSC0gyH1+KbfS/meghOcuFJjFVZn5kfzo=;Axx3aMMPLpbXrnir1ww/Lg=="
 ---

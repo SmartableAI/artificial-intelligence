@@ -56,6 +56,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Intelligence and Healthcare Outcomes"
+    excerpt: "The next session in the Lifelong Lerner Webinar Series: Artificial Intelligence (AI) and Healthcare Outcomes will be held from noon to 1 p.m. (EST) on Thursday, April 15. Faculty from the University of Delaware’s Alfred Lerner College of Business and ..."
+    publishedDateTime: 2021-04-07T00:00:00Z
+    webUrl: "https://www.udel.edu/udaily/2021/april/artificial-intelligence-and-healthcare-outcomes/"
+    type: article
+    provider:
+      name: University of Delaware
+      domain: udel.edu
+    quality: 34
 
 secured: "tSqt7g4MALgZnZ/PX+kCMt7QvVhvzcNZjQr9nCDH/1tWIlQaYZJDoWmHds2tMoBOprvqsJkiJRGl67VUgg671nw7MN/LbjDq7kzS9dNY8dJp83f6mbVEJTKQw0ywbKA3simqpPzaqhUP2+c6ijgxOKSX7UoomnD8Cq7L4LJBETCj5xrkGqTJwR2kp9DKYVR64tRTbSryI8LYU8K6GLYk3QLZFeABSlq5G6EUdDOwGiUU0pgBClO0fYgOoNj3bU7VzzSJOxu5uDc8SBT5nwmRm1ov6UUFYZooTxmbG6RHblMuZvFQuf/lAsW2+xFsV4zrACvAkyTZwbCxokVCYPF73LQlKlvaQBblGlqrEQr4vkg0vmXX3qqzcdnlec7Z7d8rcvDRBbSViNG0dnYKPs+pm/WjIrQFxo+D7Jor3OYZZtY/9Lxxtz4ju/+mEmLhj9WvEnOP0em1bilrSsHm/I2pPaCJJy19+KIGny1ndm5ZV6OGpfv0wLTNB+xl0uNgOcXEcgj3Yj6leDZg9+lY7IuIlg==;yAyaJFLJJ2wPovMV5Tfbgw=="
 ---

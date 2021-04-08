@@ -43,6 +43,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Hundreds of robots moving in unison"
+    excerpt: "Robots and artificial intelligence have been portrayed as the doom of humanity in Hollywood. Watch as an entire group of legged robots moves in unison. Is this really the future?"
+    publishedDateTime: 2021-04-07T18:54:00Z
+    webUrl: "https://www.komando.com/video/komando-picks/hundreds-of-robots-moving-in-unison/785387/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 19
 
 secured: "N2ZqtkxmVfyYYClt8/WCi0YvLJYNI9uMsxJYbjgXyn1NXe8tCrJyV6wH18pYCcHbMIICZ5iy1r6+Uxr3arqdv8nZfWhvml648CQKNFJi12WtbG8ffyT+eu1jICGUYfg//CT8jwhpT/g/xRKSrIamYwViy/nhW5HsY6mEIyo4Y2c5By/E+TzNYyG2w4aFOrjTNjCJhwRrecEmLJgIDpqa+Zia5wPfAmUucKpcqXRU5/ZCjENdhzrxaDCB6PebXURcitJqo830axUqppUK4xjlO9RKjux5cowdRkII10F4G4Dkw5JV/PTnYIaRKVg/BEi37OQk9lA225I1ale5IDtexGZo0oCIs41V0d7ifnLzf81PXo4zNyeKEH/3znrzFEb6iIn3n6vcmUw/IShl6LCDHom1pUpdpeMgHHS8+IbCD4HO+CHrFrTYuTGtR6UIVL0Vwsl8qK+lRmWZ/Thif6IE5G9A5zt4h3Qdz4L7NRQRVDvoVf0/TF+/PGqzAh1iZ+YjvwDbZ9ArxTKHP2itpf45OA==;exefNzBB3peeONxJKT+k3w=="
 ---
