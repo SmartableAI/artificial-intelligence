@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
 type: article
 quality: 68
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
         width: 411
         height: 292
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Growing at a CAGR 11.3% | Key Player Microsoft, Apple, Google, Tobii, Intel"
+    excerpt: "In the post COVID-19 scenario, the global Emotion Detection and Recognition Market size is projected to grow from"
+    publishedDateTime: 2021-04-08T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-growing-at-a-cagr-113-key-player-microsoft-apple-google-tobii-intel-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."

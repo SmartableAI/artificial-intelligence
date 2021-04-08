@@ -1,29 +1,40 @@
 ---
 category: news
 title: "Varian and Google Cloud Collaborate to Aid in the Fight Against Cancer"
-excerpt: "Varian (NYSE: VAR) today announced it is collaborating with Google Cloud to build an advanced artificial intelligence (AI) based"
+excerpt: "\"We are excited to see how Varian accelerates AI innovation and segmentation quality to improve cancer care with radiation therapy using our state ... we are harnessing advanced technologies like artificial intelligence, machine learning and data analytics ..."
 publishedDateTime: 2021-04-08T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/varian-and-google-cloud-collaborate-to-aid-in-the-fight-against-cancer-301265017.html"
-webUrl: "https://www.prnewswire.com/news-releases/varian-and-google-cloud-collaborate-to-aid-in-the-fight-against-cancer-301265017.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-and-google-cloud-collaborate-to-aid-in-the-fight-against-cancer/article_b62c3571-71ee-534e-a740-0847b2e7de31.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-and-google-cloud-collaborate-to-aid-in-the-fight-against-cancer/article_b62c3571-71ee-534e-a740-0847b2e7de31.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "S83P9r32XBax25xMwx8vDNdgBeakAiMCVn0Ei0VH9zmHD0rTniOIk1kvQ5nQiXDNefNon9B+qe2Xzflwq2Elkw1Mx2mWiN6+b+AkbMM14MVNINDnS290sEq1sGtsmmQEGEsMiMaT6TkTmzht2yiHmfNG9/9TqNVId/o0PwX6XrcECRemWkZGIhnlwRV8A39wDSf3LVws0QkucxIzTeMfhLwqiS+TuoiqQAWu1yXtBVQSa8U5LJwr+OuNkbADqn538ZvZxNuDKbVlFrgv8y/S2LgPBLaAXcCorcQaaCJTTVWxM864bCa0pJCMD7R2h9PdViYirQEgXsaLbCZaWL8W8ZbZxIU6sYbd/fXIJsFgCrg=;qZnW42QfbeQfgt6bivP7eA=="
+related:
+  - title: "Varian Teams Up With Google Cloud To Build AI To Fight Against Cancer"
+    excerpt: "(RTTNews) - Varian (VAR) Thursday said it has teamed up with Alphabet Inc.'s (GOOG, GOOGL) Google Cloud to build an advanced artificial intelligence based diagnostic ... protected during a course of radiation therapy. These segmented images are then ..."
+    publishedDateTime: 2021-04-08T18:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-2021-04-08"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+
+secured: "ho00cZ7y0usyggru5MadmCDQz6agei5ufm3e3iAvFctRMw36AaPVTfk/JKeWAny66sfKHYvuNug0Z6jLLBGZJmLc5FTO3bufq20sDy0/yx1tydDzzR7lqU5Ngcyw9qYa+XM5ncdI6nykNvbC0K7HlFAwhYHuvTVgMPLgnp6ObVBF0uXMT9YuAI1fFuNG8eFd5T8k2YW1jdiPvjB95k3v55EOvg9jz6BZ0eOAWfcQsvk3RaFIUYlTJr28DyHEhrY8YuscfINq5FPw3fXZ44vJSZ9xegWS8oIzEJMGirBGzN36InVnxv3KdrkxBdypTr+jO/LabghuBBLvXxUTW7ymNUUYRN/OPyC3kexAKy19VaY=;l3+hQPPOnkldhqHmlzXytg=="
 ---
 

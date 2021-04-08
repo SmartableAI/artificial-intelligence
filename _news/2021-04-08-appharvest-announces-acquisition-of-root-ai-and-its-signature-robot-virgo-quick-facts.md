@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "AppHarvest buys ag-robotics firm, Root AI"
+    excerpt: "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ..."
+    publishedDateTime: 2021-04-08T18:30:00Z
+    webUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024"
+        width: 1024
+        height: 765
+        isCached: true
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
     excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
     publishedDateTime: 2021-04-08T10:02:00Z

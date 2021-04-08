@@ -71,6 +71,20 @@ related:
         width: 411
         height: 292
         isCached: true
+  - title: "Emotion Detection and Recognition Market Growing at a CAGR 11.3% | Key Player Microsoft, Apple, Google, Tobii, Intel"
+    excerpt: "In the post COVID-19 scenario, the global Emotion Detection and Recognition Market size is projected to grow from"
+    publishedDateTime: 2021-04-08T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-growing-at-a-cagr-113-key-player-microsoft-apple-google-tobii-intel-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
     excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
     publishedDateTime: 2021-04-08T12:55:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AppHarvest buys ag-robotics firm, Root AI"
+    excerpt: "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ..."
+    publishedDateTime: 2021-04-08T18:30:00Z
+    webUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024"
+        width: 1024
+        height: 765
+        isCached: true
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
     excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
     publishedDateTime: 2021-04-08T10:02:00Z
@@ -49,6 +65,6 @@ related:
       domain: businessinsider.com
     quality: 55
 
-secured: "8GdpNSFF4O3MvSBCXWyia3Zb8r2nF/dNX+/XQf87rxQ2HqiPfMTj06pRp5DUIulloSzbXf7F/QZ7pyZgKmWeX3rU9ppf9jkt+EIYoumjjuaQPsw4FT/hmYrXuj9KuNbUjlVk73/fhZQw9yv8U9iC5Xg4UYNCbaLQtvshu2odcaCUxmzSomAqCgcB+A5eFkG9NueQLsgOIMn7Tfh9PLJOEatik3r+TfhLgouVMqQW/yFUDV/ygtaxZlSfcAsLcfTjW90dTAJVlminbL3RxM3SRT9Nf0v//sYTBQUdlVsF4CGM7OCGmxmazvaRk22+ou4jHC0k7Rfecq0+iOMt9og6eiI2StKaWAliCQ1mJA4hRpg=;T4VjfzwiaBnddAbmvMqSkw=="
+secured: "RIptWUp42bTtmNrMRNcPsMauNOR8SiENlVp5yQo92BioWkEx0bx4y3VSc82vhAnWfOESmVBXEzWmJnxePw/A/F7nFrc8c4UdCPELHpfDKivBUNXF6mE+vIogumuRP6Uu4ak/+VqYawK0EWI9cHH2QW+6LDELzzP1FtB6Kx7qFQ5Ys7X7WSkg6034bqRu+c1O7eYrY3fWni2zh29WjBQqZdF8vF0ntT8MR+sfT/AXGpIc2b9Qdi+H/JAWL29x+CQb9ADmlOkQ0QKRpUeloe2HFX3YzKMNpqgVL0+rB/qclkxRT0tI+COFOFzwStlhaiE+aXTQktaygxms+jDyW53MZ2N6EfVp7Tkh+Q49qTrnDaZBIJjg4ISwzGC4tXgHcLIDMxSakyvjNaw0w9P1sS+oxIBekbTPX3K+RNRdwDnINjIBZhIFZLKCim4cj0T+EC77cHBtGQUtfHf4ZFzeS4aK0XCa61vTlXYI8a1HjEML+eBQkOAhdqRnC50SQo7AJ+5u/ftCfCwF0+ECmroKzQ5S7g==;piQVQnSAVIrXwFpmdEKLUw=="
 ---
 

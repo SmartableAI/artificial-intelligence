@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AppHarvest buys ag-robotics firm, Root AI"
+    excerpt: "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ..."
+    publishedDateTime: 2021-04-08T18:30:00Z
+    webUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024"
+        width: 1024
+        height: 765
+        isCached: true
   - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
     excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
     publishedDateTime: 2021-04-08T14:01:00Z

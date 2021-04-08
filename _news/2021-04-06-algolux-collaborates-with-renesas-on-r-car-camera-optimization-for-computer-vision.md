@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Algolux Brings Atlas Camera ISP Optimization for Computer Vision to Arm ISP Users"
+    excerpt: "Cloud-enabled Atlas workflow allows vision system designers and SoC providers using the Arm Mali-C71AE and Mali-C52 ISPs to securely scale and deploy automated camera optimization to quickly maximize"
+    publishedDateTime: 2021-04-08T09:06:00Z
+    webUrl: "https://www.design-reuse.com/news/49760/algolux-atlas-camera-isp-optimization-arm-mali-c71ae-c52.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 14
+
 secured: "EHpqEzCM4F5QTRfYH3rkKv0AhJOciGNLJY4nh24MAFeg25QVdXYOioDLNNFVxyfTOMFS6bUejJ5COEsuNv6I32LA7JnL59c0gOhIi26tqYFZ+tZQS2s1M3EZvxd9nj4Yb+SbUDhWnWL+vdiR3odf7o+tBdofFYKqNRx80mX2R1Lls1MUc9+/CwjCdXI8uFRyeOf8xIVMMcz8+nYJkZxEYHAtwFs8LNEDaBe4rlXA7VshTmBxHf74Rg3t5DmHF521FKKzYBwuO5/00LgP3XYUaa1emJnRP5Mz8Xbtdy3Jk7TkuL0XJ6R847tzC5hk2aaLAHzFcxPk32y6C3tq6RJhCuXbNyfPvQRXf1Z+amWMBko=;9bC2cxl6TtqU1XTv4iYEXA=="
 ---
 

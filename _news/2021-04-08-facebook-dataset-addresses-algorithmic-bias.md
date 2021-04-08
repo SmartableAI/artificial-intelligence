@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
-    publishedDateTime: 2021-04-08T16:15:00Z
-    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facebook tackles AI fairness and bias with new data"
     excerpt: "Facebook said Thursday it's releasing new data that could help researchers improve artificial intelligence systems so they're less biased and more fair. AI is already being used in various tech products from self-driving cars to facial recognition."
     publishedDateTime: 2021-04-08T13:00:00Z
@@ -78,6 +62,31 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/hero_image-e1617644891864.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
+    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
+    publishedDateTime: 2021-04-08T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways,"
+    publishedDateTime: 2021-04-08T16:58:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_c6209b3da2f6a031f19d4ffc6d34a140-h_37d3273139ca2210d16ff84ac2f9fe83_preview.jpg"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "E0jdKnmg/IcwylwNfVaO6ZwGfz+XpzBY1h/MzbQ+H8pvQVM75ksc2g21GPVBV0C14YkQgg9RJbkdgVTSavm5dYQ9ttrb2CBvaybYDGhmB7dOHxioDmhl9mQHKAYUEl0kBGVxljs+cpcVfHV0JIsdxRkhMqXGeEsD4ILzEZQixM1bY1vOkI9mk3IJxUZr7JTturEC0leeRPQX2O6mUp5Sfo8eOb3wYdbUgKahY94UyPBbtQe/vQTB6Vpk/C6r1zn9X88vsW0aAW3Ok2sXVy3OMbH0AY0HHsaaXX64wjhVwdxEmI5fidoXLnH0U+MqG650Nq+2tda6aRuUaDFW4H+Pv2KjIbalqnKo6Y9Cy7sdzjM0rps0NbmeikoPJoef2lIHqcd/OZ7VOyvME6xGPzNqOMaKar5AAUjRNAZfw845cHepHDUDSyG6PhHgYIg0JYpI0wC0qbVUrktBXqBPKyy84Z+ijWDgzy7xADE+I/xLlDznwClfNGrAlSDh2iqhdRslHvCJ5DxHg3GTckIHxNxg2g==;/gc4x4316bTAv75XpKYFyg=="

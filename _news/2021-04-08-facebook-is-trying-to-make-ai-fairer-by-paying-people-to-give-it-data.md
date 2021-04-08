@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
-publishedDateTime: 2021-04-08T16:15:00Z
-originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways,"
+publishedDateTime: 2021-04-08T16:58:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
+webUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
 type: article
-quality: 89
-heat: 119
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_c6209b3da2f6a031f19d4ffc6d34a140-h_37d3273139ca2210d16ff84ac2f9fe83_preview.jpg"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -79,7 +73,18 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
+    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
+    publishedDateTime: 2021-04-08T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
 
-secured: "gpcX8FeOIiMTMnBl2vUqUOE7EQiwuA1PyN5g/RuMAx5A99d8cLs8qThrd9taQ/LYPDoRg4R+2Sp2DFkJw5OePzkBsK8DaWqwIU79P9Ix0p2Z4emgbJxD6zWT4eEIjrfOk9s6WAcdtHYqMLTKnYPVoVFmlipT2CLIHnVaKfoTL1Wfqg/Vee1gjKMMLHL+xYMBYPjR6Elz1HLxSNpPMq3GgI6ubXbo7oLB3CCptHTdDPAqhHc8eFsHUoTEcXCZleZpC++0QPh5OuZIAW3PG9Y0CRSvu2n/gulgUurZb5LZc381dOc51WqYkX5mlCfp4jU56wPFU5NFwm9fkE9DYzP4H+kMeWyCGz7Tu+8SPHM4Kvk=;pH8Nae4URkvoFGpNQUVclw=="
+secured: "e1nuE5zaSkn5PYsx7ojqOeiUQ3Hx/5OpwkLsQVpZb6KBPFo8ddfGoXwWkeuxvGPiI61KhlnPvW2hMDBgqQFQFYYsIr7qqeQ8JxqkbYPpr0ZeUyyaIA/1RTGWS2OoUd8G/Q4jjrjGKbeXdaSb88xVC6NkjkCfKkdEnOU0SKKatTTIwrOh+Mm4z/X4kFsbgmLX55cE036pK4FD3gWtfdvHIeqSEu8u0BQ8WEztZ1TbAX7i1JMMIRAnhfT5K3rlPHo3iIMxPk7hoO8Qla99hFjHnTyidj41AFFaFoV65y/xdTUyFTO86kjfBAEyDhVGdFmXj/d6E4imqR2dlhBVa11PzY+nf2Xa5UOUoVZ1a+4jU44=;CV/Je7GE2fgxxAqrCvW+6w=="
 ---
 
