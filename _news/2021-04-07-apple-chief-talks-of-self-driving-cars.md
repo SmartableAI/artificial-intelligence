@@ -28,7 +28,7 @@ related:
   - title: "Self-Driving Cars May Be Too Speculative Even for This Market"
     excerpt: "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ..."
     publishedDateTime: 2021-04-07T16:14:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
+    webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
     ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
     type: article

@@ -46,6 +46,22 @@ related:
         width: 999
         height: 534
         isCached: true
+  - title: "Klevu raises $12M for AI that personalizes ecommerce search"
+    excerpt: "Klevu, a startup developing products that leverage AI to optimize ecommerce discovery experiences, has raised $12 million,"
+    publishedDateTime: 2021-04-08T17:13:00Z
+    webUrl: "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/"
+    ampWebUrl: "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Black Owned AI Messaging Company Raises $36M In Series B Round"
     excerpt: "The latest funding round for Travis Montaque’s AI messaging company, Holler ... “Under Travis Montaque’s visionary leadership, Holler boldly stands for a new era of ethics in social media, and also deeply reflects the values of diversity, inclusion ..."
     publishedDateTime: 2021-04-05T15:48:00Z

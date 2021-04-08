@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/facial-authenticati
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
 type: article
 quality: 59
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 23
+  - title: "Malaysia proposes reciprocal COVID-19 vaccine certificate recognition among D-8 member states"
+    excerpt: "Malaysia on Thursday proposed to the D-8 Organisation for Economic Cooperation (D-8) the possibility of having Reciprocal COVID-19 Vaccine Certificate Recognition among D-8 member states to speed up the reopening of hardest-hit sectors."
+    publishedDateTime: 2021-04-08T13:28:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1950352"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 13
+    images:
+      - url: "https://www.bernama.com/storage/photos/fd924ab320f618ef5031306bb3e18e60606f048827351"
+        width: 1110
+        height: 694
+        isCached: true
 
 secured: "9wVoB+rHK7weB5pYDjIi5lsxUTAqbDKr3AieyqKvanT1L81YGRwl1AK7Rw+2O3Atx6NPdrinUUALuzMm2Nw+ddnUGezUDPo7sR7heQa3OmOosjm45wPhT5qQeT2jiQItQcYoc0DwUybATkLWIL0Y3vn1VSnv8MbSnafTWeGEGHdiqO4ydrMhLR1ED9M5RuqP0wUHgUvYGCa9i+EeoLnqH6YFPR2zzXReVHorixNTBzy+86TUuJEjVEzO9g7+55b7g4Hr7c9URb9mpXlPX8YUR2pobTJ34EdkL+L557+SV01NOmeHQyqNcU2WpZjpM3LxCzizxm3oZXTlq0cwgNbzUF40nFy5Ou7TJHnx2BStotIJIyDV5bygWsbgdjkow6KUiFMaN4vXCI7LEzbZced0he99K2G0IPAM0yk5iOBpDdbCuKxP/FULhbF/4AM2WvTKaXrDcBgKNtubrx6RxGDJHD8nZz0nri0jgI5tMgPPAHXGY4GWU+o2oLR2BRUsRNB3CocSbjKoNzuUOVzkSHqy/w==;6zrofGXFiM/niEaRLDBMqw=="
 ---

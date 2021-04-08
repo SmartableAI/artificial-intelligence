@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
+    excerpt: "Apr 08, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market Size according to market dependency of specific report. That Provides A Comprehensive Review Of This ..."
+    publishedDateTime: 2021-04-08T14:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-with-report-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2025-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
     publishedDateTime: 2021-04-07T12:21:00Z

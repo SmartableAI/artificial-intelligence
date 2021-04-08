@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
+    excerpt: "One way to gauge the deployment of artificial intelligence in the marketplace is to track CB Insights' top 100 most-promising private AI companies to watch. The firm released its annual list this week, culled from over 6,000 companies. \"This year's cohort ..."
+    publishedDateTime: 2021-04-08T16:27:00Z
+    webUrl: "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/08/72f782b6-01c1-4475-985a-b1364e55e4ae/resize/1200x/f82f649b8dd9dadf1861a9a2e5fbb37a/ai-100-export-3000x2250-v4.jpg"
+        width: 1200
+        height: 896
+        isCached: true
   - title: "Riiid named to the 2021 CB Insights AI 100 list of most innovative AI startups"
     excerpt: "\"Last year's AI 100 companies had a remarkable run after ... Since inception in 2013, Born2Global has been setting the standard for successful startup ecosystem as the main Korean government ..."
     publishedDateTime: 2021-04-08T12:59:00Z
@@ -155,6 +171,6 @@ related:
         height: 450
         isCached: true
 
-secured: "XA/KYTnuVK9y9ziDYPYwd8r0GsS+Hz5Lky7Y5xzaH7L/4Y5JqD6cB8g0ynIFbO6TgoF6WYaNswNYMd+mNZ6llwpMfEg9oTsFDqR3YTaGPPB0D4GeqM+jaGXqUsODvZuznyaV6nLu9l2zvjT17ZkdD+gi1doR1tToE24BVIyYjl/1w/TXxvjaeGa180cKT4yKLI6GpVxehwItUFlEBF4GztWM7o61DzbLJF/2pQr0Li5PSkDp9SvQeCpMKcSUU0WxM8dtl/vsmV8w1x+PqgpKLsRGkhMs7cRj0AeeRa9bMPotYppKbEy60c2wgS7JdzcIOQQ5h622D1wH8SS8B4XYPF8zZbJHJoJSLQ+PQvayAYw=;2iy8AdrM/GzHssfWIpn+Ug=="
+secured: "oisBhLrXuYhwkYL5vGM08R6uIa688gKtcUlrjW55PgT0uWFdJ6TlEwa2JgufrgbQ0sHzUAdwET/PdY6rBJRMkDCw5ZsPpRPMsuv9gzmxbOdoL8t2vazkM/KtmIbF4EOpaR5oZSRntm1rUvQNCmYfe3gtU7xpAYvPZSxnd5lBdABQlezS/ttNDdHz8wEXcVCKz5paRYy2CEezOpDJ3/E+GVRWG8hoqKqWQhjXX1EyzA8qNcy62hbAxP9gfe81yEi1dUuvC1gUpfnpyO5OHHdL6IfMzOSljoim3lBEA3AOVU/L/BxZs54W7qVc+dT8g2fsYS6qjxec6dQ501A1+Fe1RlB0lirgvq0K1Lp1arPOYXY=;Kg+GPCI1NJbrVYy+bSMayA=="
 ---
 

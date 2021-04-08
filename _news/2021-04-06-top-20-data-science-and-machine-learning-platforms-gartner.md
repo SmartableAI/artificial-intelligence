@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Zurich-based company’s open-source Knime Analytics Platform focuses on the authoring of data science and machine learning workflows and projects. The company’s commercial product, Knime Server, focuses on automation, deployment and orchestration ..."
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/13"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/13"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -24,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "Cy7PsEBDzOUZeUbxte1jFbmq5Fjb70x+rDCuXko0RIE3pmszpZNSXM7c0Jhh785XcS3yOe/65CFdvXSiQSAPjbronwfRkkSmu4q9G1XY4Ef0mM++vnNCYmSGL4qfN50huPfHMX25V5V7CdR3aMD9DW0hWJHoT79pSUXUXiTslBzVhK+pLEEhmfHzrqWTThQlU8IPZntvAe70kBTc/LyaqqWPuZ6YQL018vgbI247zUIh312vyoep35EPJOfDMDc8s+yJucWaTehFtLghrGju6kXvz9s2wsIugFpnL1xHvnMxbpK+1Q7Fvf9kfAKHG4yFBJhESjJvMfwTi+CHIF4iguLaF4p4ttuyqO7P7IaY5MA=;ddWmKgLAcVs2suR30Ex2pQ=="
+secured: "PpX1dm4e9RmcdeANfMGOOQ6iaJlQ0a8O2N4EC3G25WgqF11awGdgPod0mIhJWyNCjsA8oEXaxwpSrtaxYgdYi5Q8m7WbgbNSzigXkhkoO2bEXYakNCE3wt04OEmo3hAJ5v68AFMlxkBGbm6z0U5Nxlxavk/BgCkDCmsHClQ8ZvTkF4AJNPvrm0SEKfLa5ck2BjkysxwarZPnT+FKrLfmhTJMBVxoeLtQ0/2x8g67XutWX1CNa3RdwxpJXOUJDsAl+fULHwQOm+N520Ia41AHGzQvz0sPyy8uoElMN0RSVBgiEgW8v6m1rQYk6PiW0qsr7feIqMmJexwGtvhKrLXJ8MmhsukBca7f2mPNjJBkmpU=;WAVmFxvRfgdCiWvYVDDk0A=="
 ---
 

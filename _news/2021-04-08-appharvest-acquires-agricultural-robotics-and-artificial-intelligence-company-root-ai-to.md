@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
+    excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
+    publishedDateTime: 2021-04-08T14:01:00Z
+    webUrl: "https://www.lanereport.com/140277/2021/04/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to-increase-efficiency/"
+    type: article
+    provider:
+      name: Lane Report
+      domain: lanereport.com
+    quality: 70
+    images:
+      - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2021/04/08095227/AppHarvest-Root-AI-1.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "AppHarvest Announces Acquisition Of Root AI And Its Signature Robot, Virgo - Quick Facts"
     excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. Based in Somerville, Mass., Root AI has 19 full-time employees, all of whom are ..."
     publishedDateTime: 2021-04-08T10:30:00Z

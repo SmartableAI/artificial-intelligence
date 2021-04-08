@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-07T15:01:00Z
 originalUrl: "https://www.statnews.com/2021/04/07/cancer-clinical-trials-pathfinder/"
 webUrl: "https://www.statnews.com/2021/04/07/cancer-clinical-trials-pathfinder/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_332207718-1024x576.jpeg"

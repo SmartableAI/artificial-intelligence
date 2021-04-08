@@ -68,6 +68,20 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 23
+  - title: "Malaysia proposes reciprocal COVID-19 vaccine certificate recognition among D-8 member states"
+    excerpt: "Malaysia on Thursday proposed to the D-8 Organisation for Economic Cooperation (D-8) the possibility of having Reciprocal COVID-19 Vaccine Certificate Recognition among D-8 member states to speed up the reopening of hardest-hit sectors."
+    publishedDateTime: 2021-04-08T13:28:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=1950352"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 13
+    images:
+      - url: "https://www.bernama.com/storage/photos/fd924ab320f618ef5031306bb3e18e60606f048827351"
+        width: 1110
+        height: 694
+        isCached: true
 
 secured: "FdjPbMuTNcNuOZnSvVfPte3McGk+IeA6u62Gsr/zav0Jphig2o72EEPlqHoiUkmcbYKucQ6uIYKZzwQlvlxKa3lKnOzBU9VeZvGvUnSueTQw1Daa/X8V+GJQVbtogEgQwopDKbWky+yeleL9vBpynA6FUzciGXCLDB/If76HNskE7bQPMHcjy6z0SI4igBGqU3NMJc3uqN/YJKf0hPMln+VHPw/YSy9fZoZV4+fiZaqUUp7KOmIVPQsoVjI4KmkTCuSe8Gq5SGh8UPs7SSe+yszMSTtNfxkJymWD3tyc5cMTlwRJe4sWpO394W3w7d7ur1jbv2q96vMN8H9Vb/mNM0YF/VFpaMbId94op7W86kFaXliVeDANRb8BQzZdE57BsKKyHbOsqfqn+R6s/FxHji8D1ZeUWoLcPJwj1YcCZfeMBfdzQhpWnqjy00djND3LiRj0cJJv0c18qmOcbfahMW9NXvFWbbfz0+kDT9h7n+fyaXiJJdNFPfpJe/x0h+I24G2u9xISmGluqHIUOw07kQ==;oMSG7JPzcr8eDN6W2V3RiQ=="
 ---

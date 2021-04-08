@@ -48,7 +48,7 @@ related:
     provider:
       name: STAT
       domain: statnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_332207718-1024x576.jpeg"
         width: 1024

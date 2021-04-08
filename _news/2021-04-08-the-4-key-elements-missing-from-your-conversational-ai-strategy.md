@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversati
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/"
 type: article
 quality: 119
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 2000
     height: 1006
     isCached: true
+
+related:
+  - title: "How will conversational AI impact the media and entertainment industry"
+    excerpt: "Conversational AI is used in the form of voice and chatbots ... that is powered by artificial intelligence can take any piece of content, and translate it into the language the recipient needs. It can also translate information about that content into ..."
+    publishedDateTime: 2021-04-08T17:19:00Z
+    webUrl: "https://www.jbklutse.com/conversational-ai/"
+    ampWebUrl: "https://www.jbklutse.com/conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-jbklutse-com.cdn.ampproject.org/c/s/www.jbklutse.com/conversational-ai/amp/"
+    type: article
+    provider:
+      name: GhanaWeb - Ghana HomePage
+      domain: jbklutse.com
+    quality: 59
+    images:
+      - url: "https://www.jbklutse.com/wp-content/uploads/2021/04/businessman-holding-chatbot-with-binary-code-message-data_110893-1070.jpg"
+        width: 626
+        height: 294
+        isCached: true
 
 secured: "yl4gws58FRvJ4Er6yWpcVqdvC/X44F7JEw/zV0S27Tm+Qh1y6jpD7UDnhU9WUGdbt1U91UNHKVre0uzCbTR5Ri8tQ50Rftu9b8/QzwRqye69h7NUdpDgXw6q6AxrEdHq6VRPXzf06VZRcAY3xsvGmun6nzyITWhfCASs2seq9Ddfi0NfXTGotGH+vJy+aZW5IiE2i2xOKR5hrYMTJueKoyevX5JFXOjYnMnwmJo6JiNzFj3N1gE8redrrxcRVT95TlRmiX5cD03vZCiWErWcBVRflohrrDZfSmZVOJt3bwESyPDMtAIK7oDKLteqlSqYFAVfjd3wMDc7X79PfVCF7lB2d49rnzQUaMLu/dPvuTw=;KpMoy/sPEeExCmpWDiTKLg=="
 ---

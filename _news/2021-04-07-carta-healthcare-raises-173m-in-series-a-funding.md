@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/04/carta-healthcare-raises-17-3m-in-s
 webUrl: "https://www.finsmes.com/2021/04/carta-healthcare-raises-17-3m-in-series-a-funding.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1622
     height: 596
     isCached: true
+
+related:
+  - title: "Kinta AI Raises $5.5M in Series A Funding"
+    excerpt: "Kinta AI, a San Francisco, CA-based manufacturing digitization startup, raised $5.5M in Series A funding. The round was led by Lachy Groom’s LGF and Mo Koyfman’s Shine Capital. The company intends to use the funds to scale out factory implementations across existing top general industrial clients as well as deploy at a series of new manufacturing firms."
+    publishedDateTime: 2021-04-05T15:16:00Z
+    webUrl: "https://www.finsmes.com/2021/04/kinta-ai-raises-5-5m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
 
 secured: "gfxMRe9tNOrwkUZL5MH/gHAI26naMqbnxL9u1EMsUfXY2AJtGaVK3r4YwQWdF4e7/6nBfydTJ1xPbJOUh9mdkJIIFwk4HASBs0kjzeO4m3RRXC1viWGEDtEx6LpwKqGVPe0t5wGD2eBWWeUlIWScYwupW2ZDEZ10JtTX9xyipVn77UdMuG3vBbXGl+HwJzsjA9LdTjrUblGVdlAF35sjDVggJj7qrt6s9s0zkrWims5I/jEWyyfYDts6Z/TnE7a5y3k5pCTWNzbavqeR7syJDwM/SdXkjQMTHUl/sQsdC1baKFE9QtT2Z/GSlyl2JG2OXRJZIZ0egu43fOpy98KWxuSeXfYn40HUKF/qOheHnuA=;xgR14w6HV/xh1ltLiA1kdw=="
 ---

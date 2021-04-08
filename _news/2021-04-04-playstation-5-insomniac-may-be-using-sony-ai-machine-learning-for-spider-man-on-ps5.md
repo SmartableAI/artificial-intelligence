@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_playstation-5/playstation-5-i
 webUrl: "https://fintechzoom.com/fintech_news_playstation-5/playstation-5-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 348
     isCached: true
-
-related:
-  - title: "Insomniac may be using Sony AI machine learning for Spider-Man on PS5"
-    excerpt: "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech."
-    publishedDateTime: 2021-04-03T23:59:00Z
-    webUrl: "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78555/insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 76
-    images:
-      - url: "https://static.tweaktown.com/news/7/8/78555_34_insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.jpg"
-        width: 620
-        height: 348
-        isCached: true
 
 secured: "Oj4UdBpMydilFQkNpEnPJ3Td8EiGdBOegAz9mrCsezJtcfiBXLUlt0Rv5AKBZoz9bsH8zps97emZ09ngi+c64Vq+8OjxC2Ef1z5/M3Gq8DBL3rt3sdGJqk7QzbN2b+bi5OY9doRF8dkOMNNFbl6IsFUgAqjOV8KMWxYX0vBXcbNmYlAFVQU/hDgdlhxo1BFksf5ThMmCIa1qKLWLjUH/R2gMITf7ovNN4dmZk9i8uMK55x0jvoX9hgp68plFZpH2oRRoEqy6AQKOpHyTrgxVEwr4rgyDGM8eueIaviOFli84bLokWS6YKm0SCq8iScgVhjXn3ui3Sv9GGw2CeGBJLwL9SrkasG4NqsKuah8W/VA=;OhoGmy89XyrXMyUc3KvlDg=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 999
         height: 534
         isCached: true
+  - title: "Klevu raises $12M for AI that personalizes ecommerce search"
+    excerpt: "Klevu, a startup developing products that leverage AI to optimize ecommerce discovery experiences, has raised $12 million,"
+    publishedDateTime: 2021-04-08T17:13:00Z
+    webUrl: "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/"
+    ampWebUrl: "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Blue dot raises $32M for AI that helps businesses manage their tax accounting"
     excerpt: "In the latest development, an Israeli startup called Blue dot, which uses AI to help companies handle their tax accounting, is announcing $32 million in funding to continue its growth ..."
     publishedDateTime: 2021-04-07T10:33:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
-publishedDateTime: 2021-04-08T12:59:00Z
-originalUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.html"
-webUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.html"
-ampWebUrl: "https://www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
-cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/article_24f51b6e-c104-5f5a-a065-ab3a3906aa5f.amp.html"
+excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
+publishedDateTime: 2021-04-08T16:15:00Z
+originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/8/c1/8c17db3f-3423-543f-a636-bae25ee030e1/606f020bef710.image.jpg?resize=1024%2C576"
-    width: 1024
-    height: 576
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -75,18 +79,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
-    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
-    publishedDateTime: 2021-04-08T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
 
-secured: "zv0F85y44iMWrRbjj5ihiXtG9NhUIuwL4eJ+hJ2Td0VUG7gVQacjjOEOmoh2jjHT0c1Pb60Y/SM8BKVReciTrthhEZtQwWFttxYcSF3QTW1OIZcwm+zru6bBCSO88bC6V48kVueFokdmnAnv/UCanZfRCMOyu+gzqMc/1LN/BmcLRkWvhe3sVTAZASQySGNtYtCiQeCsZd5v0iINBIvVKwFLFhhLE8O+6Pvbnu2y3rHdtNIAx0FfYDo9U7aazS5N6/qo/suw/oKz6COfOUHJhPLSZHAOTBQmq7fLu+0u6TPoDSro8qhsXZ2NchKlQHZEHYCaqABLKfeEJRqW01tL7Yb+OCan/WAdHj+oEI9utFU=;ijR32S3xXxPlcPurA+0jog=="
+secured: "4fL8GU1xk6My6YgiG96FtAZy6r+leSEN6r0wsBYKOpn1dbWWkM64EM6fZW4BSAGN+rZWhR0WiMLpiVGDM9h5fSPKUO1afniw3RLD/kLgmN6k5eEX/bnl+ylLhQujCTte9Ey9iPApLK8M0zJcVexTNiyC9Pix0YUuvUBuG+0EdQ2OLD2vzLUcZ8hUhdVn8RhtNnRHZpz6xNsYKOueULRqLNIgAcr64pbA7DSi6shs+uVVPq5cIx1YfKjiphKX8I1ZXDhlRBT/BRwxge+lYZwVeJGoQ5EX4vWIuyuHSnDiMUH7TPI1qGJoXCc9Ec5+dfozMaptZKViUR9UPC5iWZl5+vD5sl1SVSGNBFZJHw9DZGE=;8f4dQ15TcB0GXpdk8nXijQ=="
 ---
 

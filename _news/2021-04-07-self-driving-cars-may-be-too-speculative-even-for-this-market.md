@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Cars May Be Too Speculative Even for This Market"
 excerpt: "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ..."
 publishedDateTime: 2021-04-07T16:14:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
-webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
+originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
+webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 471
         isCached: true
 
-secured: "kXXeiR0YyaaWXxFFZVy1eZgW2S7Vc90GF/bcYkD7nOJgHMF9PwXhtAaQTvUi+HmoaZfJQPbkE3mlzQ8jPMpvkUOymaAGCDF0ftK2Vq/sqKusBldiwAED5WzrC3rsZX/BOpaxIUNNryovJwwE64eaMXeE0OnANvVZaj8rB6tEBFNV9j0QiVWfC9kZCEDnoYt3R0PihZp2sbFxm4d9Mh7YX0wVVk9R3vzczmGf1+HBWghSVQhVuaeM8YziAmRRX5V4n1brZbLHtm+chNIq07GVE7wAE653pHqT5R8+3robw3Q1Lbu7E4wpy/xJ9YNGRoeLoLNblUeHlVRLxvE9REZt6f/5KDwc5F2Mq4tg+t8psek=;vI3HXJjwaP39xS9tEYjaDA=="
+secured: "OueWCsYXBYeUOKysgqS/B9VFTSPkb/YY3ETe7O7/mBPkShjYQr2q3RHLmvJ4CMOfnLcwK6qV5G/e1FHwP7mLKADVCZeSo8rKWRpPMNGdDb3MHhVstUZVn8FHXqznrN+A5P0lfAYyFdeix8eOgWzxNv6xLUcQQdK7luGU0iKWPo6LK6qZxIT9RGQB5G132gc1lRXJI6RuJ/R7cZEr5dVOXHmpCo6it0whDw7MRp+iyMTPKe4Cg3rlqNqWXdtYsl6PtTyq9h1II12KBxsAzcUQhDOKIk3L/kkNn2iAMMq6rmSRidr8GgHp/57YOAN4oBpu8rx+LWi6qgVRKd5e2lUt/Cu9IqKNAnI2C0k1Y3hHGpI=;4J26BzJU1Q2wW8PfUrok+g=="
 ---
 

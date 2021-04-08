@@ -37,6 +37,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
+    excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
+    publishedDateTime: 2021-04-08T14:01:00Z
+    webUrl: "https://www.lanereport.com/140277/2021/04/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to-increase-efficiency/"
+    type: article
+    provider:
+      name: Lane Report
+      domain: lanereport.com
+    quality: 70
+    images:
+      - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2021/04/08095227/AppHarvest-Root-AI-1.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "G0E/llGzmzCBYe5DDZWdNcpHm9jttQyIzoeRoVG75/4SHnPZgKp/eENqh7k2velr9D8k/vGcl5BILd1lRgVq9Rs1IpQdobQwl/Oz11vdK67a9ESExu+22LPPCyYYSm/VfezLmAqU7eHUEYXkM5kSJ7jtJu5mK8ZwfjB7x6aBP00QEYCNRr4m7KhRS3J+XC9QGSKEqWXuitHf5X/ptvQRGVC/6wWzNjo5P8rBQMATgdmriMqhhson6YXubeCFABrE4rNJaqT27xRiosDE/ySqL63jxwazGHs8MZzOylB6WQ/6Y4hnRAdqdhwHEjuGGVD/20BoG6bBKxa9UsHX2n6jxCVZvHPZLYRWHUoltzVQ+Yg=;zzRwOKoVnurKtXM+jCpKpg=="
 ---
