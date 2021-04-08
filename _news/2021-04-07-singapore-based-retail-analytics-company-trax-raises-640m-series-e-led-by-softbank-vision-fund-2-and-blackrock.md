@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 354
         height: 336
         isCached: true
+  - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    publishedDateTime: 2021-04-08T06:05:00Z
+    webUrl: "https://www.businesswireindia.com/trax-secures-usd640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies-72431.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "ebk7HLZpj99NPRXIbvzxygzqzP7k50IZogjxO4Jd5Q+opl58z7fpdWapzvRBKo0jCjmNIQaQRvXjF9hDQJ5xqMPGUl6AjpH98ADg6UE8qi00mF7BT0yXXwz/GyOe7rAxS+RNcJHi8dkcVFY7QJ1ZuLFyorgoGfyYVEsXfwvFJcDJuss7ng2B6VfM0PmPYFjkVIFSdi/A+wv/Y3+P/RHeXtK66bnI5QewSlenah50Epvb2CRxTxTnoFG3r+/JtjtCMA+BMhj75jr4ha032uMGvy8hVjPBoIA3L2CFBPG+8hRdIlrtvKxx16nEASkScoY+0xryzFrFXgQODWvJMcYI5cXad4nD9PaG+/R1IEp/GocICViCpiGYhvXcVWfF5eanBqr87m6JrHWvMG23KTM4Vv4fVPlGGt60Gz6DZdATbpom5mcI++4s5gC1g+G3HEJvHdUOBuZzDubyoDpSAp56l43MvwMJxBp5KsZEt4QjnplTkA2wq8cN3+j2YzK2YBWD80JsZFSO7X965dRUx31QMg==;lOE7+F+k6q9BD5fHmfyd0A=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1006
         isCached: true
+  - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
+    excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
+    publishedDateTime: 2021-04-08T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-governance-of-ai-and-ai-regulations-are-crucial-for-ai-growth/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "ytjEHY7NbWfgUMcvV6Yvse0vxe9bplqxZWi85Wi8WaFBOGgffJsvkwFDUsJM82Cmi+bQOxtLKmTvB6E4BYvVfgk3qYt2m68ffeT6hWewhuHDlASIkhR+DIshb1rhUGvLcESUc4zDo7jeA9X92mscd60DUBHrqWz3pjvoTQJPO6EKZRgFqwlZu0IQ8xMHWvGbvjM28klszb3BGzvXBfKhbjpQxcXxd1a7uX1kryrzS4A2jpGZo172Jm6/CSSM71PZxAQeBfqXoxzD/6ukWjgC2PfhgWwn2IK87GLLGUhEOAT4PUVGhVaV6fm7SJnVfK35d5BCEkw8PugQNn7S3wANBbnVPU8Z82plon5Cne0G13k=;18r0QfoqPX2LSOQX23Dr+A=="
 ---

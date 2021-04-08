@@ -64,6 +64,15 @@ related:
       name: dealstreetasia
       domain: dealstreetasia.com
     quality: 35
+  - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    publishedDateTime: 2021-04-08T06:05:00Z
+    webUrl: "https://www.businesswireindia.com/trax-secures-usd640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies-72431.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "GIzxVKQZI68ldAGrfLXk+Pb5t0iO1rcaSHBPfE+PRtpvctJcYeXLGqUQxshVcZ4e76LqQiSkNpgfWqBaQPdZFDfObUGmoP9cWqk+Gt6zwHSbm+8zjZjJiGlZ+5PdMcdroJABNs/dTbDFoyv8iga9/a+UGq5f6rcCUrvxn0MzQ/COwEX6WM1tPSt+jA5l2wxtgHPi6B2UDyHqvLoXcJUsUJ/kZ8wuTVRw7qYHbliEmLX4cHYfKFwDFW6YmSh3rr5YWG9UAE8+tneyPhZUIFRTHe0sjFnsBjOvo4zerrAVo9p56rPLOz4a2ejZMsdZV4MBLCINK6R36AU8u+SfetFug4bv1MFEMvCvwu9ltMUdRQ4=;+466XUcEGJVQAwOVtssYBA=="
 ---

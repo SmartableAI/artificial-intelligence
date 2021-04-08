@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "These are the AI risks we should be focusing on"
-    excerpt: "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration."
-    publishedDateTime: 2021-04-03T13:40:00Z
-    webUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/"
-    ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes.jpg?w=1200&strip=all"
-        width: 1200
-        height: 611
-        isCached: true
   - title: "Python Could Reset the AI Inference Playing Field"
     excerpt: "When it comes to neural network training, Python is the language of choice. But for inference, code needs to be transformed to meet the various hardware"
     publishedDateTime: 2021-04-07T20:09:00Z

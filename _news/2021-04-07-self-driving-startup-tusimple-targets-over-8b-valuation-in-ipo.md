@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Self-driving truck startup TuSimple hopes to raise $1.3 billion in US IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc is aiming to raise about $1.3 billion by selling around 34 million shares at $35 to $39 each in its initial public offering (IPO) in the US. The San Diego, California-based company is also targeting a ..."
+    publishedDateTime: 2021-04-08T07:08:00Z
+    webUrl: "https://www.econotimes.com/Tesla-assures-China-that-car-cameras-not-activated-outside-North-America-1606008"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 38
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202104083f5da995c8b63f0a0_th_1024x0.jpg"
+        width: 800
+        height: 482
+        isCached: true
 
 secured: "JNamIs7dFWDfpHiM+IkfzH1MTwKaSbPV8DCjb3CL5Af1o7MNpX6AYp00+OYlNQ2zeI+l/xJgOhur8C1GqNEzPT/rEMw7mJxxMNSG5sANnbHcxrsl7P8FBrkVRt9vRRw5PqcGoeIQ9bW+mDSi0W0TzH0y5I4cKOtH9Zc2hNnLkZMgKa+WMO6bYJm8VpXsi3NFCa7iP7g8J5lRR1ax4SxeTPzlbGApOgPkpMVymzLAswGYre6SeXXpJugV08TgvJp3Geyot3ZtrZ7fuzIIvyjFSHEnviZW92nKV/cD19oXmoXiLpu7mJHKForWnmfJIEft9xJgL/yWurRCvFSr6S8hZRwxypkSy9ysdlCL+QRKBNs3ZWdal9kXqm7m/RsPpcq5/t05cSU2wJ7lBlUdgdpiIcG/tqpC7/xlis+AOqZBDp2uV5K/vJCi+3vHhn0jFEJ3vDzrsiN4TXNtivHyrE4MW8A1fOJFEAnOJaWdtylLxNBMJlDkqdwAf3Bs1q+K9wHW++iRkc0yM1oZb8JA06zIUg==;5QOUl0t6n6L8BKswEvewtw=="
 ---

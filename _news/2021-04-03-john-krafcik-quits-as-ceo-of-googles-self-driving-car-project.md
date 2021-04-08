@@ -1,40 +1,30 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Googles self-driving car project"
+title: "John Krafcik quits as CEO of Google’s self-driving car project"
 excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-publishedDateTime: 2021-04-03T10:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210403/3734655.html"
+publishedDateTime: 2021-04-03T16:46:00Z
+originalUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
+webUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/04/4517ff7349973a2d5d0202f1812be84b.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
 related:
-  - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
-    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
-    publishedDateTime: 2021-04-03T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Waymo CEO John Krafcik Steps Down From Alphabet’s Self-Driving Division"
     excerpt: "John Krafcik has stepped down as chief executive officer of Waymo, Alphabet’s self-driving vehicle division. Krafcik has led Waymo for five and a half years and was instrumental in securing agreements with the likes of Jaguar Land Rover,"
     publishedDateTime: 2021-04-07T11:25:00Z
@@ -81,20 +71,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo’s CEO steps down after 5 years at helm of self-driving vehicle firm"
-    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job."
-    publishedDateTime: 2021-04-03T11:19:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/03/waymos-ceo-steps-down-after-5-years-at-helm-of-self-driving-vehicle-firm/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 38
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/waymo-truck-and-van-e1559229274410-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "CEO of Google’s self-driving car spinoff steps down from job"
     excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
     publishedDateTime: 2021-04-04T04:21:00Z
@@ -107,6 +83,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "Mhv3hBhNKL9EgiMYA8qjrqc9+j3omco8CV6sBpQbmIVRCQwoQwbq2LVc1gObKhtyeVcN09pgSQkAG4A4sCiz+Ige8VEXf2FS8Eh6xBiWQSVzK/lm7JuJix3CiOLZIA2aaGLQn5M1Y7dpRO0kkbR/vrWl+duhVw6IUsbJZQPmRRJ2ous4s7z+uAPOAoXQzXfWUTfNbflhU2F3kGGYCPwKXObE6s8YcWxQDwPuEnIcfXMnJ2ojpiPmmGj2D/wH7ToZSZWDr5B8jjLk7mja+kljlY5+mtphYxBFAxmgsjaInldKZRjeOqENG6qTI1OAKMjyL76JYCSyFVlX7mQTS6shlrtGlE7vaONQoTPbmpP8sHs=;JrVrKsfPbW7+WHkdr2QRYw=="
+secured: "8gER07mqIlNQYu27g67bKr98pFUbRbb1ZZoq3llGPWkVgL1pHL8QCF3LHk66utfsxGhqk4Of3nbW6Fs95ZRu+1V4M9iXQoWftCJ34i6ZDEs3aLXXHw+CUjDf7J1B/rxqRz0bw0+XBZkd2MoHTUxjjNDCm9OFVAy161UZa4BFs057hPtkwD4RgmUmdW7Ynlhi0/Y3U8cz/scSOrSEifNby0Fv0d9r1zLL7z5KKWbb5QrJmlcqDmlP8lVOFuLoKjMTwDNDFgrUuj7sidr+LfjBZe4vvDc7uzIrGzonvtpGvcWsTzEWzDoS1HVgJ8UXV9blHmbmpZl1YvhEHG7iAv3F+did8pHTYmN39oPK70zXzJ0=;bPe1rN25JIqWiJket2UWSA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compli
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 760
         height: 460
         isCached: true
+  - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
+    excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
+    publishedDateTime: 2021-04-08T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-governance-of-ai-and-ai-regulations-are-crucial-for-ai-growth/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "GKt377KIQOPQ7Rp2OJqE4A1AyEJGKJPuYttBvfHisUr4B7KrZHB1dppYqi2sLPn6d1t4U2+7MaIBF26T5vQnu9Ne037pOHbIkm7XmnmA1a4k1XXMGCqP3gZQDHYM92OeziyuoQ+m+eFtNex8wRbmdClUmf4TUFEGXfTih1X+BADq252VNIqGVxlhUilSaUo3/6OujP0V2nKhtt0gBFt+1g/R12VrmD0iP3qLNVTZMWeAU79m7sBBQsJEj25NOt8BhW/mprw+T+O0MExPfwPV2+QKc3hw6YcCJT4XKhUWiFMQ9UHWfs5A3dqAWm5HhE5BN2bREvz7nAzEkRCMdkc5MqR/O0WH2eO3Fk+jRf1CcNs=;RvZ5RDP4pArWEsY7k4zqVQ=="
 ---

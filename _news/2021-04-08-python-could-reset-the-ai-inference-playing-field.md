@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2021/04/07/python-could-reset-the-ai-in
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Next Platform
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "These are the AI risks we should be focusing on"
-    excerpt: "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration."
-    publishedDateTime: 2021-04-03T13:40:00Z
-    webUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/"
-    ampWebUrl: "https://venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/03/these-are-the-ai-risks-we-should-be-focusing-on/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes.jpg?w=1200&strip=all"
-        width: 1200
-        height: 611
-        isCached: true
   - title: "The AI Revolution Could Send These 2 Stocks Higher"
     excerpt: "The AI market was valued at $9.5 billion in 2018, over $27 billion in 2019, and is projected to exceed $250 billion in 2027. AI refers to the use of data to simulate human intelligence processes including learning,"
     publishedDateTime: 2021-04-04T18:38:00Z

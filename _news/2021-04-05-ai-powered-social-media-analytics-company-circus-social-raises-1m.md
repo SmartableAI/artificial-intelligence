@@ -63,6 +63,15 @@ related:
         width: 354
         height: 336
         isCached: true
+  - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
+    publishedDateTime: 2021-04-08T06:05:00Z
+    webUrl: "https://www.businesswireindia.com/trax-secures-usd640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies-72431.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "CIYBHsUNozCrpm5MDziSvhOuS8lQ4DIP60UZG19fWFyYsnLhjFqv6OCZPX2yNWMP6vRaq8qykkcSD7su6vy+lWpaQLLI93WXdPZAzKQdBgFFuKYunZoVIUJJkweSW9TbZ7x2Y+d3e0fybz0+fgldF7XZwcf1xI0VV9z/dI6LQq4WmLyV50cHIDRniohJLzd2kp7gL1aiMe6sIo2VnUZFRrFsiy/6XZxdc/USdi2TBGX1kinmq9HbvrYNswx6WWBrhj2JHcsanpHKTDoaprT2WJ96Wl5h2qlCnc5t1yDsaojvtWA3D4pKcg05SSTFEqVjL5v4TlebljdIe8WyZ7sRgsPbZPML3gZaqtPlsta6xa0=;UQnMYb7jRK8z/+hAvT/ACw=="
 ---

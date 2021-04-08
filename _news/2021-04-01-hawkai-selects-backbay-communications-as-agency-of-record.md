@@ -1,23 +1,26 @@
 ---
 category: news
 title: "HAWK:AI Selects BackBay Communications as Agency of Record"
-excerpt: "The program, centered on sharing HAWK:AI’s news and executive thought leadership, will be focused on building relationships, awareness and credibility with targeted media covering fintech, banking, technology, risk management, compliance, financial ..."
-publishedDateTime: 2021-04-01T15:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210401005211/en/HAWKAI-Selects-BackBay-Communications-as-Agency-of-Record"
-webUrl: "https://www.businesswire.com/news/home/20210401005211/en/HAWKAI-Selects-BackBay-Communications-as-Agency-of-Record"
+excerpt: "HAWK:AI (Hawk AI GmbH), a global leader in real-time Transaction Screening and Monitoring solutions for financial institutions, has selected BackBay Communications as its U.S. agency of record. BackBay is an integrated financial services public relations,"
+publishedDateTime: 2021-04-01T11:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "9gWDTCHCAZFhk08Slm62bQwjpyIV+FsHGGHqB+4cWawwgqWygGabkZtGTa45Xl4zExMRLjMQSHKU0jOJochYpBFpmPXHyjrlN7bjcYGxDWlUCt6vC6K/14GUvQCee0BpTVCJdyzCEg9Tmgskq9DhOV9hhP1juswc7Xty8QPhq4tlcpurRoiNHqom4As/qVGJQsggaE5oiZgEpk+rVFCd80gL4l0dg25tzHaAEo9CxkjoF9PPQ8wk3Tp6S7xabsUc3sTYMeZ0qb2LR4LunRZgISVt2no2k44/5/c4Sq+IqpyOsegffLhswn/LQszVfWasfM1R9Kej6lt0d9SVKL22BWovTUCFoECBS2DWKpWhvUs=;8XEXSTA0gTpViyapnAgKtQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "M59u/ST2On+7Bgp3KM2U2Eql+QwHpOmRSOjbaDAZk5DWh8rayqkSpYkyqNw8nA4uXZG6Tw7mWauRs2B/xvS28YL1oi57y+q8NzI1oJQKfniFsraYhi85/9PMJ28LqRS5rVZv5PHoFJHbN9bjReyD2xbn/9AjFDpIVOsvbtrx0mEbnJuWSSE1Uf9asntsq+uQ3Bmu6Lcve84oaZ39s3W3qxucFbQ0DKOn0ezZOkHowE/oIzeMrwZg4Hmsrq0agxBYVud3GQ0/rofJvT9SwZUnP7bCVW1UcG6iLu/0yRFxkAPvvCkRdW2i4Stw1KlwYS+9r+FzzKMlxeRtqT/VMWIpuCASpg1fJDyDJ0WqNNmSKhg=;0/DEiUKxJH6bqhrD4FKW2Q=="
 ---
 
