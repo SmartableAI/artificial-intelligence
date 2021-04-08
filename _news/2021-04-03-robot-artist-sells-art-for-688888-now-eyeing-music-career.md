@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for
 cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
-    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
-    publishedDateTime: 2021-04-03T11:35:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 29
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "6LxH+zcDtwYXxFA/QZG9SQR2drTUm4MPWLKYWzyIRcxueqRQFyxaU0MyZiu5L2QxkGVav3Qz8vpRxr8Ds9hIeu5mI7w4hoPDarZmK2YN1h0+6DAaQfxzi6hylZS+UI7ZaxzEI72PHR42RNM/HhLeIHv4Ina+JmR0+RWXfwrDjZZh7BPxTfkMHmRv0QENcl1sDnq1V4fm7ELuZ+wfvXCoUif5Rel0dVbZy+IiYJBk61TsohQlf0wiLiS+jOMgqHORdFhNZ5iEJ8zM65olhhIE3pFpGWri07Qzya0tXyoPCDCFUDdb/JNQerK1DhCANI3CpEgeAXyLFvlo1DUFWWq2RLzTCYPP2LMHg24Dzl6KrnE=;CUtPCm6maTd93tTOUJHgdQ=="
 ---

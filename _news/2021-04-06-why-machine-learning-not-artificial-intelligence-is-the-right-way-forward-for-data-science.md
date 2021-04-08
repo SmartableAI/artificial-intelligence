@@ -35,14 +35,14 @@ images:
 
 related:
   - title: "Am I arguing with a machine? AI debaters highlight need for transparency"
-    excerpt: "Can a machine powered by artificial intelligence (AI) successfully persuade an audience in debate with a human? Researchers at IBM Research in Haifa, Israel, think so. The IBM AI system is called Project Debater. The debate format consisted of a 4-minute ..."
-    publishedDateTime: 2021-04-07T09:38:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00867-6"
+    excerpt: "With artificial intelligence starting to take part in debates with humans, more oversight is needed to avoid manipulation and harm."
+    publishedDateTime: 2021-04-07T09:37:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00867-6?error=cookies_not_supported&code=455bfb37-a79d-482a-b4bc-76c81c48b196"
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 40
+    quality: 36
     images:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00867-6/d41586-021-00867-6_19038744.jpg"
         width: 1024

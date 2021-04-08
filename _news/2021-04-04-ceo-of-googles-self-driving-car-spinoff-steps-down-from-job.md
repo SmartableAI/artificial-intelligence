@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "CEO of Google self-driving car spinoff Waymo is stepping down"
-    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as CEO of Waymo, a company spun ..."
-    publishedDateTime: 2021-04-03T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/john-krafcik-waymo-ceo-steps-down-google-self-driving-car/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/02/271d41df-a776-4db3-a628-92b024a71f66/thumbnail/1200x630/4970571782941b9512c1fa52cf123b09/ap40358595708.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Waymo CEO John Krafcik Steps Down From Alphabet’s Self-Driving Division"
     excerpt: "John Krafcik has stepped down as chief executive officer of Waymo, Alphabet’s self-driving vehicle division. Krafcik has led Waymo for five and a half years and was instrumental in securing agreements with the likes of Jaguar Land Rover,"
     publishedDateTime: 2021-04-07T11:25:00Z
@@ -82,20 +66,6 @@ related:
       - url: "https://i.insider.com/606b75d9a7d803001963ed67?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Waymo’s CEO steps down after 5 years at helm of self-driving vehicle firm"
-    excerpt: "The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job."
-    publishedDateTime: 2021-04-03T11:19:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/03/waymos-ceo-steps-down-after-5-years-at-helm-of-self-driving-vehicle-firm/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 38
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/waymo-truck-and-van-e1559229274410-1024x575.jpg"
-        width: 1024
-        height: 575
         isCached: true
 
 secured: "JqwsTAb5bygHAsLmiPX53jP2U3ThcbJwne0/Guy+ocB36F5obj/Z3psyya/0NV7G7nwGjxtLQO7eD9uQVyEgR3wcpdKsA5pF0tVJwvRM9bSnyEMtvgSuVW7ZVaeoY2o8smtBk2zgcFKLC0E7AT9Y0yy43tDai9L0S/i76wIwAQHsOK8wp833rVdbBCQ6HBl1Y4pY0TXKX0CkBrcz/1WcH4Gow8Eyb/1SUOM1Q6TSK+sYgNPH8ZvXxsb1Ozh6ui2PmU8oCICLGJ4NIIyObL2VyVi3Wp4kv5fNyHUZA4kfXzK8aWX/6ZwjzsMWSDW5ste2nzEPu7VdaJ+h8eGahk+QDKzNvRsg7r9AOCreSSLX/A7wtJ/PK+24RrGa2W9vPdRaQYDbU2S1VtP318SI0Y6n2kT9ckxSkLALe7M5B0uzul+Cw9ZyKtRUjVm4BaHaq5lszpRSCzeK2aTRN0AP9RUxFg3UWOYr1VNsdqLPcNIr00N12BMSI2RbnNu2MOaNn7Hk7sSJKyX9z7Ls8yhO4/mdxw==;H5VAKqj5Q7OutzmaoqlSlA=="

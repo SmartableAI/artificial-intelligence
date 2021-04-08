@@ -116,20 +116,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Masterpiece! Digital art NFT from Sophia – world’s first robot citizen – sells for $688,888"
-    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an"
-    publishedDateTime: 2021-04-03T11:35:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/03/masterpiece-digital-art-nft-from-sophia-worlds-first-robot-citizen-sells-for-688888/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 29
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/04/sophia.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "ZgPo1NN0EUX/dEEFzlt2h4d0UU61J3RhedkBqkOh6/jtipiqHqAvaNWHDx+zQDtPS7QsRBsWvb/WNCZITlKhZGtWBBqsDr54BuRf6bMGhrr1fkH3GFl4FSCk7t0E5r5AhANsCnacK2CzFuEHezbf8lWsHBKwbRMN7cCPikqGEHTfjc48endyZ18VV8eF+wVPSPKkJEIslaNQiGC3FMi5YEw/HmlQGlZndioMj7HD4b4kFQ3dnKFalCOR87FWeJYzSxxJ9IFxYH0cP1GFoFSZE/to/72h0IrELkFILGkk5dVE9CYGN8PB9hmLoM0vMKy1Xlqla8VUM1rNQ4pgswL3MxyRxZ1rdxsRyMkhsUzVdPaw5D2z0cSDecKcnX1/WjZnPFlZ2C08cm/qAxvur6SUKabyfB8Bg+UBW0G+KWqk3eeBLdh3X3ZKlupX5Td4NGICqv3X7CvIVbpKxzn/r7frFsS4zwYBFGyJ1XoN+nl4Sy6Qx/9TyFTH4jSPJEW0LSzExhLZsCT7dRQO9ZCFvgQ0gw==;bT8rwgBhwtosUmxR65fHFg=="
 ---

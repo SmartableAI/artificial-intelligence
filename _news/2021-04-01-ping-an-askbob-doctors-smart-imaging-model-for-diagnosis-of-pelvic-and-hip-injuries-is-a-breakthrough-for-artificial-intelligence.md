@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence"
-excerpt: "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California."
-publishedDateTime: 2021-04-01T09:35:00Z
-originalUrl: "https://www.lelezard.com/en/news-19728461.html"
-webUrl: "https://www.lelezard.com/en/news-19728461.html"
+title: "Ping An AskBob Doctor’s Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence"
+excerpt: "and artificial intelligence to enhance governance systems, the business environment and public services. Ping An Smart City solutions covers life, education, health care, government affairs, smart transportation, and business operations. To date ..."
+publishedDateTime: 2021-04-01T09:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "NV192NR+N32B7NeDVKFg+37xveK4qjHQMcPEyTCN2SBQZqnGfEIU2X6dSnrlqUYkOHk3W/YhtXcf/HvP++GTJ7L9RtpfZZ1+0seGv3LL+uxh3JrlrvEQ7oB5BUczsm6EtUCC4YIsCI9HiUqfyJdsRwcBNbIJFDT3zqqjTnMEUcr+apyEl3Z1fqSeRlhxYXBU+v1eK0ZSScwaKgJ4BoY1YaN5jZSZKjHIB1KAWcoJVPjYxrAjXMhQHAtnT9ryzvbqwfk1Sa5Pr4MppFMCts1PyKheBjnkabJLWIaC6NPvG+nmXHkg2Qyn/bm0qVBTmaxJERz/N4uEDaGNMO3ePgeV/XyaeGCD3Z/kam8rbeJnJbE=;C8xy3ABLJFvUVZK/n6n1eg=="
+secured: "kERZ/ymBEQNvcqL3h2f5rRDtdBS9fS3S+jPRyJZ1b8kmzw79Dt/myZ8az557TI0IG5x8sDMJK9UJtdTEIUyVRSfiVuv0/b2z+IUi9n9a/AGLvPPKVvGu6FLKqxaTNM+2zbBHIChT+VOeR3cTSDL7KvOi4pp2arO1uUtUssd3ApHvo4I0maQ671cNZiZ5S9AkIpp5vvTannsvXmmTTAVfr55Btm16q1Sc8L4EdxPqcXze2KkoNqTv9n1WLPG5higvyHV+exOAz75cnq6AMGFV6AmHF7V7IYxZUyIVU1AOqfkPBS1JTsuvJfE5NttDmhCyZ5bqqv0SPnC3fXnEechDs7AyU2WsPA2SrjX/s+bcZKo=;COaqPeJKukpBhRvaF5KPqQ=="
 ---
 

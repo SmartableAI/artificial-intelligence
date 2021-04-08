@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2021/04/07/python-could-reset-the-ai-infer
 ampWebUrl: "https://www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/04/07/python-could-reset-the-ai-inference-playing-field/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_waves.jpg"

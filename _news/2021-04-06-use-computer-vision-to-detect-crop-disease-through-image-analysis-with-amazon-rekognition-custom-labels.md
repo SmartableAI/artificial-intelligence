@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 105
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 344
     isCached: true
+
+related:
+  - title: "AI Prototype To Diagnose Genetic Disorders Through Facial Recognition"
+    excerpt: "Read about DeepGestalt, an AI program that is being studied by researchers. AI is leveraging facial cognition across industries, especially in healthcare. Studies conducted by medical scientists and researchers from around the world focus on the influence ..."
+    publishedDateTime: 2021-04-08T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-prototype-to-diagnose-genetic-disorders-through-facial-recognition/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 34
 
 secured: "6qje75SK+okCvCYs+7XXQyyYw4emsl1AhzArNbV248EkxtekhbUmju6zsMpiwdp+UtkLsIqC9I4VZcwwkTQjWMz36ALoeXN/QK4cd21M3dlpn5QvtQyyutUnXIHQMmc0Xp1y4jYtZ3AUaslZASmntVqMFIWB9Ykp5mUHKjTRR95+37E0io5am5bMw79hm+yKgivRi1qSAL4BDO52mPeIQeHbW2ChfJuzDssdov2R5y1BzFO6Bpztg7vPkoxV4Uy0u6gxi+ivARh5dxBH4fnPdXAVNkUZaJuGRMqRzspDgNp1z1v7xdikkP2oE0f5Bx2fQzo533N6NIE2QdrYIbXN+7+TVWgAkfUHt5EgatAB/f0=;L5X5Zn5gFNkBnfU6va0XDw=="
 ---

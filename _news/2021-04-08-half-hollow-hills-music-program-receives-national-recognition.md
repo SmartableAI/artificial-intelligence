@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "National recognition of Redlands native highlights how data helps kids"
-    excerpt: "What Think Together and other expanded learning providers are doing right, Durán said, is “they’re listening, they’re giving students voice.” That leads to buy-in, both from students who could choose to do something else, and from schools that ..."
-    publishedDateTime: 2021-04-06T00:50:00Z
-    webUrl: "https://www.pe.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/"
-    ampWebUrl: "https://www.pe.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
-    cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
+    excerpt: "Helen Welderufael is data operations manager for Think Together, a nonprofit that reaches 3,200 students in San Bernardino County from Redlands to Montclair."
+    publishedDateTime: 2021-04-06T07:49:00Z
+    webUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids"
+    ampWebUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
+    cdnAmpWebUrl: "https://www-redlandsdailyfacts-com.cdn.ampproject.org/c/s/www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
     type: article
     provider:
-      name: The Press-Enterprise
-      domain: pe.com
+      name: Redlands Daily Facts
+      domain: redlandsdailyfacts.com
     quality: 44
     images:
-      - url: "https://www.pe.com/wp-content/uploads/2021/04/RDF-L-AFTERSCHOOL-03-16x9-1-1.jpg?w=975&h=548"
+      - url: "https://www.redlandsdailyfacts.com/wp-content/uploads/2021/04/RDF-L-AFTERSCHOOL-03-16x9-1-1.jpg?w=975&h=548"
         width: 975
         height: 548
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-con
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

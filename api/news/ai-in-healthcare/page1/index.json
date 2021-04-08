@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19.md",
+      "title": "30 Under 30 Europe 2021: Changing The World From Artificial Intelligence To Covid-19",
+      "excerpt": "Brinkmann is just one of the many entrepreneurs and scientists on this year’s Forbes 30 Under 30 Europe: Healthcare and Science list. These researchers, innovators and business leaders are changing the world with everything from new cancer treatments to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b91b7ac889ee96a51d99b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3240%26cropY1%3D0%26cropY2%3D1823",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "publishedDateTime": "2021-04-07T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
       "title": "An artificial intelligence tool that can help detect melanoma",
       "excerpt": "Now, researchers from MIT and elsewhere have devised a new artificial intelligence pipeline, using deep convolutional neural networks (DCNNs) and applying them to analyzing SPLs through the use of wide-field photography common in most smartphones and ...",
@@ -536,20 +588,20 @@
     },
     {
       "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
-      "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
-      "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
+      "title": "Ping An AskBob Doctor’s Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "and artificial intelligence to enhance governance systems, the business environment and public services. Ping An Smart City solutions covers life, education, health care, government affairs, smart transportation, and business operations. To date ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19728461.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-financial-services-media-artificial-intelligence-9f24104cc1db8e7934777a15be11275d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -559,11 +611,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T02:35:00-07:00",
+      "publishedDateTime": "2021-04-01T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1354,49 +1406,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services.md",
-      "title": "Artificial Intelligence As A Service Market Key Factor Is Increasing Adoption of Advanced Commodity Services",
-      "excerpt": "Ltd : The New Report Artificial Intelligence as a Service Market posted through ... Segmentation by Industrial Vertical: Healthcare and Defense, Government and Utilities, IT and Telecommunications, Media Communication Services, Banking, Financial Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "originalUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cadillacnews.com/app/image/ownlocal.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadillac Evening News",
-        "domain": "cadillacnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
