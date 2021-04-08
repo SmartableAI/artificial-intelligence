@@ -3,8 +3,8 @@ category: news
 title: "Google AI scientist Bengio resigns after colleagues' firings: email"
 excerpt: "(Reuters) - Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices."
 publishedDateTime: 2021-04-07T02:27:00Z
-originalUrl: "https://www.reuters.com/article/alphabet-google-research-bengio-idUSL4N2LZ3HK"
-webUrl: "https://www.reuters.com/article/alphabet-google-research-bengio-idUSL4N2LZ3HK"
+originalUrl: "https://www.reuters.com/article/technologyNews/idUSKBN2BT2JT"
+webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN2BT2JT"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
@@ -327,6 +327,6 @@ related:
       domain: guardian.ng
     quality: 19
 
-secured: "ofjYWu3ceMWeL8jar/YvFk2cAAiZvUU+0HQSnYY6R5NpVfzzO26VteFiWA8jbvs6H6SgkIi4iqCXNV2masQfNthx7W/xv29WFTogPBRp2WLcW2WadckB+MmBctSt4ujq5+aXYcMwpz2YwmEVBRCAAZGQvlW9Gzh+Cge/O47S3L/l6PbFxKDluBcA3Zmqz5i/El3JnwYP6dVemc5LoPE8u2aIHkFBG9MA7u50lEW4XVerdcKcy00cb973UoY+WQVWqGokDUn4HpIvRTuqio+wHWTizzlKofthiiYwrBLrAfOPT4Z4grPKGKlQ5AumOC8ub56TSaamfAey/8m5Oaw/nRkdhTbnfFdPPE6a5ZJlV+2ZGVGLv11JMyQlM+BDgbEJHOdf/V3MOlruyCYdPCx503ZQIXAf7AzAIPiaKmC1TJjBBwTJ2fb+OxBGzAXrpCceJwPnhcLcDYuKTvVEXxHgWW0EjEk6CPDWANmGCuUm+XG84qwJpKCuyMRzMTpr5zl4ywM1Wqcbm3wq+WqL02opKg==;C0czsTIRqvkdU+aWbM9T8w=="
+secured: "0aj2gIw1QGtMGw3sqnrFJCxydkXIhcBm3wpdexiZ9m4rYuzOc7Tn2drn0Z75ZUh+88oqaS7lR3TTuEwB0Zg5n3/fONCjIqvpnveZcMzxZA/iVll+5utnvwzzM29vrYOYtADcvRqRfxYmsFMqhsmzlRZFhGAvOdeMaqfWgStjt4sMLlrJKNN8sXcI7GWgjAaynYF6r+PSGKeWsMBTmUSEBHDZdOYZXn7H+tnwgK1nX8I0eGLhMYDTAapzcBLSQV/fmNAlQNML6Aw9uMlDeD6kCYG0ALMfqMdywN2q3kD/vYlHOLHVVEjD7z4Gw2CPslvkjU7wi2O3m65IfcwgFFiL7oDhVtLQJmp28EsnZNMmB+Y=;gzau/puMHkayjVKzzRCC1w=="
 ---
 

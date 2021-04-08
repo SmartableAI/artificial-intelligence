@@ -155,6 +155,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "USD 3.82 Billion in 2020, Market Growth – at a CAGR of 23.6%, Market Trends – Increasing adoption of Artificial Intelligence in oil & gas industries The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-04-07T23:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-with-top-countries-data-potential-growth-share-size-trend-and-analysis-of-key-players-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
     excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
     publishedDateTime: 2021-04-07T11:15:00Z

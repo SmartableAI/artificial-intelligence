@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-s
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 3500
     height: 2505
     isCached: true
-
-related:
-  - title: "Why AI can’t solve unknown problems"
-    excerpt: "Data scientist Herbert Roitblat explains why each of the different branches of AI falls short of the dream of creating general intelligence.Read"
-    publishedDateTime: 2021-04-03T06:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-ai-cant-solve-unknown-problems-9981359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "UeyZYMIx15mqjUuDXW96zW+AdXEMF3mBOhhlGcnZ4o7mHlN2a19bHHFMUrjOEQQ+jX0gUy4j1MqgOQTCAGRrUpg5asl92ZfHbWsnk4+bw7vYJ8IzmGEmY7Shlzgjmov384JKeLogfqxN/IWfJJkEY/l8A0i4wn2cjmloHDSZ2kuHBZRFzCr3/+ahsFr9Lrb7Hokx811sSeHZQ2sExk1TQSDqPMkBZvkg6GEjlsCpg43XkVwIDKrKC9caCTYrWRqfDNQ8eXXpE7QFw4jW/yAF1H2ve9b6hWdWqRiGWtMM1uzeAH07EHRDZu26N7Xdmz8TJ57iz826Qh6Y2Q9lXw3s+/iIaE2rUbsPVbhd8hvRpgSRCDLY3fQUIPH+YJ2P/biRpK/v0h7ZGOAxNhINWUcIfYLK/wPSRxec5WGqUaii1trk/rJ9amROEIGp0sxxwJUM3X7dbAtzgZ0vHrL4v/CEIjVa3/zSz7qS44uaciiREwEb6LASe7HwAf/YWT2boDKO7/YSS9xZHa9Wa5iEaY12yQ==;fBo1Uu4/p0voRjMfgGmRaw=="
 ---

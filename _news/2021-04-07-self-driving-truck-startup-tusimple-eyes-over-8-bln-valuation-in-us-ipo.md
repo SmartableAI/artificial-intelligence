@@ -35,20 +35,15 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Self-driving truck startup TuSimple targets over $8 billion valuation in U.S. IPO"
-    excerpt: "(Reuters) -Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). TuSimple is the third company to announce plans to raise more than a billion ..."
+  - title: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO"
+    excerpt: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday, as companies continue to tap into the red-hot U.S. IPO ..."
     publishedDateTime: 2021-04-07T12:37:00Z
-    webUrl: "https://kfgo.com/2021/04/07/self-driving-truck-startup-tusimple-targets-over-8-billion-valuation-in-u-s-ipo/"
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
     type: article
     provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 19
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
-        width: 600
-        height: 315
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
 
 secured: "C5p+HmST0XN5JdeCA8kM9hnN/haeciForX2kfVl/tDcYYx+YukeBMFIRk22hEcgZDo/pe8wktAiJaue0P4BsXW03VCkwexgCHLAfmKa2n1NRQ3OqrtqqFyQvtXkPv6s4Ezt3Qq1mJCknXwYSCr0HvtT6uNIG4r4WQOIXlhEI6F6BNvfE9KslMoU+AgEZ8jmSMoU8pG4/u80jXt/HCOV2KfYjYdNsggRCCjKF5sG7sWGDANpa6X892N6Ukc12xNWk65EdT/HoC/2QpX7amE6Ns0dGw8WWVCCRJtRdXq/mdMShiedX6Wr+HsUYimFLSk9cXPA9HzAdB7fHuvEzwh7w74GIoZqDLgVyDmSMJ9QerQs=;rBHmYUIuQzTGpC4HwlTjjw=="
 ---

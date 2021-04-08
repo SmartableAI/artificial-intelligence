@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/06/easysplitter-uses-ai-to-strip-voc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/easysplitter-uses-ai-to-strip-vocals-and-instrumentals-out-of-your-favorite-songs/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

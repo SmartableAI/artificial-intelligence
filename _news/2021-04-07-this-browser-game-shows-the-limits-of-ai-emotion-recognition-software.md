@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ai-emotion-recognition-game-182056088.htm
 webUrl: "https://emojify.info/menu"
 type: article
 quality: 147
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 47
+  - title: "Researchers create online game to spread emotion recognition awareness"
+    excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
+    publishedDateTime: 2021-04-07T22:39:00Z
+    webUrl: "https://www.biometricupdate.com/202104/researchers-create-online-game-to-spread-emotion-recognition-awareness"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "bHSyfrz8mc4Jy1MoZ0utZCi1WKAaiVH139pXCGZIrRud/EtEFi9vJiFc1kM5D7KtwmbiVn4mJtQXWs3L6DeRoDEiYmKYe2XG5t5ogSoSafjl7Qf5bDx+l0C6EzeSJan+hbj1LkDLLNCtIblHQgUa0Y/WSAFJQUjGwFe7p6jFsotZdtn5WWNKfH+gdaeaXQ7l6djLeP2NawvKYuoBqN29hhWI2KAC+dzS/hcr1KtVN7gqrxyOQVHbss3DC4apEzBHSBLLHoj4syUMvFpCuR6HQYOFBMPoo2UBxLhSw5hZuPY9Rb1m7jhCtjUe8uFAmGycn/7kUqUq7Ok7MB22MiyyfmD85YFzBhYOyRoXROksSDtvTK/A478CuPws9YtoYYqIogYVo0XdUdJrF3Jcle1ocuD5ubHUpfhuCPQ8wuWgp3cCtBN3Y18vr7vn1w8pcqxSZHB9IQKu1wcaTJOUSMGtOh9mYwp9UGKFbWg8Hr3hHnyw74zplPJ5ixcXO200s/yoWoj3xhimEl1v5NIV4pk1cHTfcOcLKyZcdy2j+GVoHGk=;G3dx1XrNTFv0veMn1PAnig=="
 ---

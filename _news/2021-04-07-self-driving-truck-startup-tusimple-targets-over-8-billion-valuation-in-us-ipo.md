@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Self-driving truck startup TuSimple targets over $8 billion valuation in U.S. IPO"
-excerpt: "(Reuters) -Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). TuSimple is the third company to announce plans to raise more than a billion ..."
+title: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO"
+excerpt: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday, as companies continue to tap into the red-hot U.S. IPO ..."
 publishedDateTime: 2021-04-07T12:37:00Z
-originalUrl: "https://kfgo.com/2021/04/07/self-driving-truck-startup-tusimple-targets-over-8-billion-valuation-in-u-s-ipo/"
-webUrl: "https://kfgo.com/2021/04/07/self-driving-truck-startup-tusimple-targets-over-8-billion-valuation-in-u-s-ipo/"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
 type: article
-quality: 19
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: KFGO
-  domain: kfgo.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Self-Driving Truck Company TuSimple Files To Go Public"
@@ -51,6 +49,6 @@ related:
       domain: nasdaq.com
     quality: 32
 
-secured: "m20BQdBOwOxk5a131aET9i5SysSKLtPR91TOlzQeuNJ0DhBoiy4kbau7KElSdGCKQInznBovQ+UMNxMAK0FKuHH74sTw6AAya7Ugu47VeVyUDBj0x8V/k6dij+riw1iliT5fLYlPctudVqZrTqB1/FAUzhVz/L8kYHMLsM0UcMB0n87OvmE1yXQntCBz316o42kvQZ5EHhUs0mJfQHJxC5UDB8Ln53M69dk0qLyKDQFeTeN5/+zeubfIMOo8o5vwSDXTfm8v9bkQWVm4ZzbCAtULZ6iPp2MNY95jHljCqkMgix+ly6E/tIVM/o8jVOze1yaAS6lRCBNsVL34OeGYeDbeWZIlozjMLV8JiTF6kJk=;Y4ouz2YDRIKeAiY1yKCuzg=="
+secured: "hpazFKomOwKMvHCn1/fS2L8RkCd9AsH6DSTQ9svtBKvYBCCKwLTTeF7NJ18dJeyWQE+c+RyU6rBNUqQC0nriLimwKM6uVZ3KSO0IjDpZwzLDY+/mNta30iAc6dPERuMpHuZ8f6rQSkfmusvD+Yv9+z052ZriXHnPn57UVYZAFTv3ix1TKRWkbIJA9fV8pegjkWQApHTZqd0TaqgoEPfgXiq5uvnVoiMypFrT5G2GJ+GdDhl4zUu+A6lPg3iNAy73yilfj/AYcyIaqBfZnfHk3kE7ny58Vf7PTlj5UAUN4OKUtDJd7bwBRQmXJ1mFx7Ht42afRf+/edsagPTkLyBBSA2PHW0oI5MlSiJ2nhvOUrI=;R0iUPfVaa7RcSKEIiFjJWw=="
 ---
 

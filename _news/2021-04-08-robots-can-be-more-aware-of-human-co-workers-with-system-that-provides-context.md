@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Robots can be more aware of human co-workers, with system that provides context"
-excerpt: "A new context-aware system for robots is ready for implementation on the factory floor. A recent study shows the system is more efficient because it can recognize co-workers and their body shapes, and even predict their movements."
-publishedDateTime: 2021-04-07T17:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/04/210407124010.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/04/210407124010.htm"
+excerpt: "These abilities provide the robot with a context to be aware of while interacting. Liu says that the system operates with artificial intelligence that requires less computational power and smaller datasets than traditional machine learning methods."
+publishedDateTime: 2021-04-07T17:24:00Z
+originalUrl: "https://techxplore.com/news/2021-04-robots-aware-human-co-workers-context.html"
+webUrl: "https://techxplore.com/news/2021-04-robots-aware-human-co-workers-context.html"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "6ucRnSqnNRTMW8u9PEWYQJHn2SiQWE1HJeh56+ps8VgLJGQC0l7+ElqpQw1ZPDxNjpYJmiQI/mGrjj0C+rRZ7Cui5gmClBUBof94a7E3QUgEwOlu4Ywhz8d8o4KpK0ejsezosnhh8wvE3cXl/EMUZwQX06RrZRrwzrhMtnlaWpczVlwJDNGybTf63h9SlIfuqvYZJ1wG5zXVOWhkYre1RbefQ8XQaHt2uyhbwjx+/RV1mMPYC+Jkjq4U4oIE0wlCp5ak4p8ZWrq8dQSNfKyemMNUoQSOG/+dx2PZw3/vBkelKOWwAP8nvA5We37jSKrhnIi3OOlGfmP3cRnlv5MV2nEZuRprfNGgmCJOuGlPN3M=;2lxWey9j7U63f4KgwKlaKg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/robotscanbem.jpg"
+    width: 868
+    height: 613
+    isCached: true
+
+secured: "vsF1D6FUPzL0IkLsATr5FafK5WKi80Wpnvbkd/OvYETw+k9RKc57FnX7UKYCGTrOHDwmqXLFCg+4Pf01OMv+9c0+Uyte6Ts5DSXuBggon8uyDZ+w+ZnX1ohN475S/pBlNijcB1MjSbL6/F8BHl55NoRt88AIpJFBn8CJ2+4OXjr2PJtsJ0EjlZKhcuwcf2LcEkdCJRJTpyJMNF0UKDmQxL1s3Rhx8yKbTvnyJP0ajCZgpWyKQo5BcZzejp+2wHCwnEDgPDLAihd8AJ2pzwXYok63N0Z5jSC3466IOHJse1q0YCyvmzSBuCV0X52D0AmJoUV4nO9U3zLyOo+BlYQfduVBQAYf0cSMYVXTJllAH00=;LK8PQDOOyoPvL8BZmXQu/Q=="
 ---
 

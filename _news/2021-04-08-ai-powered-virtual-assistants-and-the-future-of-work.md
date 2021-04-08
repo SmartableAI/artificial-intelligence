@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg"
@@ -29,6 +30,6 @@ images:
     height: 856
     isCached: true
 
-secured: "fna7h1HNUeiBqy9NKG/AGHNfDhYswJYCekzXnpRS2u5F+oa4bP/6j8UjEq9cbGd/dMdrDIqIJMPTAmWGe7G3VXdanePEReaKAdisGG+enNlf8TZcdjkF8JTNOGHFCgwOBCPtM/VsTCtUp1qBkI+DT4ZNmW8syFBj2dBCIQc9vJOWBI2RE4VVKiGVv9bIYLuasTtFlI1K/hncw7lT2x+ZZ+l3ibwL6QNpp1DgvQYNk+OhdoZrLvCw5ZYB1vOjYbQIadfmcx35+rY+sEIFEsLuYqWD8zO/NnE+MVYcOfvvt7AzhBX9L9ANdQQiUYOE1Cnw1Or5vTT+tweY1mxmmsa+cCoCdVcwopVRjph7zUBHHHs=;eYLT8I6KbbU5yIBd2LIXiw=="
+secured: "kwdQs9DA8T1xHat0wKVOwaqhGBK762B2aLKEqAlnEa0gjyySakx0F2uUMY7+nphVfnF/kpjyTUvy7ryaJknxXs66LmkvRcacJ/eWhKeayZLNWESz9TSvB45snkZ3yU5rjO272BtEEfaXEIv6YlDnAk9XNE0mPHtddd3u0ah1MldTX1ACmtcs227PzcDifT/vwrzRKdV+jSE/lZlKHDOXroB5Qx9XaBU02B7lDoVFIK+RponKRi+pDJzBx46QGHzaj0Va2v5z457xmwDpXKLyXAEB4Ov/N6GK1XnkhFKuVDxVPXsK+EcyOzTpuxKDPMkFh2T0UkxNb8X1oPz7uU/d3W09ODrp6fgw8hrcR5Bt6AJW2tf/pvpq7E5r47YWZuJY9X2fNDqIPcByEGFSYq3WuYhYamYaC/tIUJhdCaISUnC9fo4Gk3Da6xmr1WJxXvenYg9N1+jg8F3bHf6hSoBLDeAvbBLG0JxIyMjtVjodC6XKjbbB54DlRCpMRB6K6JwPjnxUwU2JMU76X1EK/LgtTA==;iyws7l5WaxQhOJT1iiMLiA=="
 ---
 

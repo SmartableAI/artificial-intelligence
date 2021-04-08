@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "GSI Technology and Partner Space Micro Awarded NASA Phase 1 Contract for Radiation Tolerant AI Processing in Space"
-    excerpt: "Featuring parallel data processing with two million-bit processors per chip, Gemini’s massive in-memory processing reduces computation time from minutes to milliseconds, even microseconds."
-    publishedDateTime: 2021-04-06T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gsi-technology-and-partner-space-micro-awarded-nasa-phase-1-contract-for-radiation-tolerant-ai-processing-in-space-1030276568"
+  - title: "Conduent, Hayden AI Team Up to Automate Bus Lane Enforcement"
+    excerpt: "One is a giant, publicly-traded company. The other is a two-year-old startup. Together, they're putting out a solution that seeks to help local government speed up bus systems by keeping dedicated lanes clear."
+    publishedDateTime: 2021-04-07T22:09:00Z
+    webUrl: "https://www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-Lane-Enforcement.html"
+    ampWebUrl: "https://www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-Lane-Enforcement.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/biz/Conduent-Hayden-AI-Team-Up-to-Automate-Bus-Lane-Enforcement.html?AMP"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_149883545.jpg"
+        width: 920
+        height: 630
+        isCached: true
 
 secured: "6pNDIXiDAYssgJFmwK7J+nv5zZLMv9/ekOwYt4CkGn2Zny20LTocSk7E7fp7UuunCkuzvEXSsEwrQoyLBjnNASJSLTzZZBnXpDbnzrJPkHraVHJy66RpFCUu1PusHEtYyFrxXW/Loj/0nPBC/s6uULdn1kqPfgLlW4Mn7r5bF5teAYzgUeAsm14phUJZ8xwfLUb8u6/NkQ8fjJORJJKR10dCE3aQhYIGUSk9cCRO/rgn3hKzYFNblgksR05k1LCpJGajnIgZUcEW61lqOaH8Pkt8iURYJTTkqC2aeJU5eGr6XGzmCqy885H70UuK7fhWtQdN407FpIOTe/dyOLFwxZsLsE1JFBujJzApZtKt95I=;rvgWDtNKfgLfBvFdrSgQVw=="
 ---

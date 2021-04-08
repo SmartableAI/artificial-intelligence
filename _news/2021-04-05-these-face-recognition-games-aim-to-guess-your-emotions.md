@@ -93,6 +93,20 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 47
+  - title: "Researchers create online game to spread emotion recognition awareness"
+    excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
+    publishedDateTime: 2021-04-07T22:39:00Z
+    webUrl: "https://www.biometricupdate.com/202104/researchers-create-online-game-to-spread-emotion-recognition-awareness"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "V52wPwphWjawaeHLy2SxMUonAjUUMP/jtkck3BwlZaOwPe6xhvW6KR03oHlXfT0OILGSSXUsWoGmEiYSy3D2sZGvdqvnQoImJNlPcooHZL4APP8P8o/IbP209ugk39BAjrJC54kOIbgAzBs7R7b7E+Y9sV2CkSfb6u0VnlRSede0eYbgIyDAerHANSk3QnGJlDIuJSji/AdSDP1pBwEnMUVmIRfaLUtcXiT1U+nxn7K40fEbYruqFqyfsJyNTI7AZF/VIUAx7O3Wfhko9k30PyjEsjYSolS2NOg+cI3buKcsiU8Q/OUSyN0vIcSgU5yhY9Q3qvN52jIy7FEgxDJydYLs45SQ+FpqcZFJSUkIcPU6t4iltGDZ6n9goGls5Hoaq7SMGwxtXy2dQ0hPocTsMIusZa1+sBvGjHI0fwKMWt8TOLMXktWJ3G9k7keziG3B2v/vL7Rk8XC3VI5iv/K2E7wV3VzIjvQlglvBg55FUWpj3F7y7nkNO/AAwy1gdDeN231hPJqOaB4zumwBUIG4Bw==;g0cT9QJjm26bMTdeSaLRHA=="
 ---

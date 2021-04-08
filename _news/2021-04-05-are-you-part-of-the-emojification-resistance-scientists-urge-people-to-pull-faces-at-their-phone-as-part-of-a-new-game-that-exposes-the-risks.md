@@ -91,6 +91,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Researchers create online game to spread emotion recognition awareness"
+    excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
+    publishedDateTime: 2021-04-07T22:39:00Z
+    webUrl: "https://www.biometricupdate.com/202104/researchers-create-online-game-to-spread-emotion-recognition-awareness"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "G/xqXDi52MA3XhvQWxd8am/9VKQiet24ph6Nc32gCdb3XVgLTHT76EcmhZR0+cKypkJuDREYDEhNU0yorlzlrPr+n1CAYZmJLml610mPM5i2IMDJCmHP2Baxj8AHrIL9iLepx73e/YkU8XhUyndoaloGMJVVAY2VIJq1fq6DOCdpedY3NVXmD6etVBtx6pxBaSq0I5tUFwW0s3YK47RF8DalMDZl1lG0ST+t+dpHdcl/mHyrRGLVDd72b8JyjUMBEYZ24DySI0MAWN4GprcJyOHuBmZR6J0kZ+UNP+QRbpE5Ctl1pgEAPCb1NSaLahBCcLm9N2VFSyKV2bsjS5lNBxmssoaTWvhLoV3MrrFsKAbvD+5XXm7JPPI4ze36a9MZnQOK+2kHHs9ZFq8H3e+qqwsjZ3v7lZiKyaORBXIs9wYJGd67j76YO1nEDryV3Ugd/aKWIA1gkcyfexrII7/I6jQUsUcjTQmHaN6t8TLocIy+jna38oBtjN5YnD5lM4IOaFZ/gOpiQx1xZj8P55hJxEK7EXqAlJ6W0nMAs11OvAI=;dYUlBfIb8YeJWJPn+0ZxYw=="
 ---

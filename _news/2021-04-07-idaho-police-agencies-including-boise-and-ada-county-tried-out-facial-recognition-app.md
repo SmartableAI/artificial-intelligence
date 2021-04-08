@@ -21,37 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Hampton and Newport News police used facial recognition app, then denied it"
-    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ..."
-    publishedDateTime: 2021-04-06T15:15:00Z
-    webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-    ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+  - title: "Thousands of US government agencies using facial recognition without permission"
+    excerpt: "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data."
+    publishedDateTime: 2021-04-07T22:00:00Z
+    webUrl: "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
+    ampWebUrl: "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 57
+      name: TechRadar
+      domain: techradar.com
+    quality: 85
     images:
-      - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
-        width: 1200
-        height: 705
+      - url: "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg"
+        width: 480
+        height: 320
         isCached: true
-  - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
-    excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
-    publishedDateTime: 2021-04-06T12:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
+  - title: "Dallas Police Used Face Recognition Software Without Authorization, Installed on Personal Phones"
+    excerpt: "Dallas police officers used unauthorized facial recognition software to conduct between 500 and 1,000 searches in attempts to identify people based on photographs. A Dallas Police spokesperson ..."
+    publishedDateTime: 2021-04-07T23:00:00Z
+    webUrl: "https://gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918"
+    ampWebUrl: "https://gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918/amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 41
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 76
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dlvvrj29qyefhehoe4pj.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "7RbNZod95AO3FDJOR73T7dpc330U85+P2AFr+36GNAFlWvDf79dIHZRXzaicS0X3wF4ODLbIpZpmSBluz0fzXdCORzSAc/9eSFTY9e9+GHMe9PLWaeVCZYANMiDlCIdVFKD90tT8fyuNiZOOm+w0BW5+h3BeMKdJImGkS6AtnlNyt/qTAcRjWqKtt1Bj1rLTcdQR+sy6Mfy0EInKvpKMrXDJZGZHRjOiSxPtIgZvGpNG2dx/C9ONZaJWf4xscj31NQLfWc6lP61/2oGMuWNoYXO+GXRFdkpLet1YpBn5Qsu7urFfUogSCauhgCne0oVQj40l6MVn0cQSC0gyH1+KbfS/meghOcuFJjFVZn5kfzo=;Axx3aMMPLpbXrnir1ww/Lg=="
