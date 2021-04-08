@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Times of Israel
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli startup partners with US radiology practice to apply AI solutions"
-    excerpt: "RP is one of the leading radiology practices in the United States while Aidoc is a leader in artificial intelligence solutions for medical imaging. RP's equity reportedly totals $4 billion itself."
-    publishedDateTime: 2021-04-07T09:17:00Z
-    webUrl: "https://www.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383"
-    ampWebUrl: "https://m.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383/amp"
+  - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
+    excerpt: "April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of radiology, as well as the ..."
+    publishedDateTime: 2021-04-06T06:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-technology-medical-diagnostic-technology-diagnosis-and-treatment-e35ec3c20450c2cf9e678084e1db3e7f"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 56
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/457504"
-        width: 640
-        height: 428
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
     excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"

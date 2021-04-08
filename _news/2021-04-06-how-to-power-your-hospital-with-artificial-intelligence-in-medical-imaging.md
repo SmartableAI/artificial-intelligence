@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-m
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-technology-medical-diagnostic-technology-diagnosis-and-treatment-e35ec3c20450c2cf9e678084e1db3e7f"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US"
+    excerpt: "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ..."
+    publishedDateTime: 2021-04-08T09:49:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
+    excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005204/en/Radiology-Partners-and-Aidoc-to-Accelerate-the-Use-of-AI-as-the-Standard-of-Care-in-Radiology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "FP+bcPSrQJM5cNSfywMB+gyyaHi7zuFL6eeJFtwDiDfa/8Xqpk+QZU58NHwZcf5QiQ38CHbn5ch5wPOqQGfjslYndOtC3NhNE87Fb36WjOSPMqBLwa+bH/sZi5bvwYrwm7YrL+L/2CJEzBtbmwPNtS2oxopoW70lSLat/8CqK49pLcCt5vkjJOEgjPMOnGiHOZsTLGL3cEs4GPi86JaWTPvUwoUvj+GBah0d9GcgT9cZDsrUH3d8/+nw7gR3EYi67x3hUZJXfZzNClHtZUHldwN68D4Ba+VqxWbT51avlj7gYT381rl0DtvaOprDoIpKMrFg6tsLhyQHQKKmZMS7p7p68ingc2ySfGbrovV2MWc=;auLS/yRNstsmabwFunLbpw=="
 ---

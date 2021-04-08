@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Start-Up Backed by James Murdoch Launches AI Platform for Virtual Artists"
+    excerpt: "a start-up whose investors include James Murdoch’s Lupa Systems, on Wednesday unveiled the launch of an artificial intelligence-powered virtual artist platform for music, gaming and streaming applications. The \"creative AI company\" said the proprietary ..."
+    publishedDateTime: 2021-04-07T17:31:00Z
+    webUrl: "https://www.hollywoodreporter.com/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists"
+    ampWebUrl: "https://www.hollywoodreporter.com/amp/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 56
+    images:
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/Authentic-Artists-and-inset-of-James-Murdoch-H-2021-1617806774-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "James Murdoch’s Lupa Systems Invests In Virtual Music Startup Authentic Artists"
     excerpt: "James Murdoch’s Lupa Systems has invested in Authentic Artists, a seed-stage startup that Wednesday launched a new AI-powered virtual artist platform for music, gaming and streaming applications."
     publishedDateTime: 2021-04-07T16:29:00Z

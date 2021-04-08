@@ -36,6 +36,20 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
+    publishedDateTime: 2021-04-08T13:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-19739313.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 63
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
     excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
     publishedDateTime: 2021-04-05T11:12:00Z
@@ -51,6 +65,34 @@ related:
       - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
         width: 411
         height: 292
+        isCached: true
+  - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
+    excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
+    publishedDateTime: 2021-04-08T10:26:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-software-system-market-2021-present-scenario-google-brighterion-microsoft-baidu/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 47
+    images:
+      - url: "https://www.techgenyz.com/wp-content/uploads/2017/11/artificial-intelligence-software-testing.jpg"
+        width: 610
+        height: 380
+        isCached: true
+  - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
+    excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
+    publishedDateTime: 2021-04-08T12:55:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-innovates-ai-driven-natural-language-processing-and-unparalleled-automation-for-microsoft-windows-endpoint-management-301265117.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1483731/aiden_Logo.jpg?p=facebook"
+        width: 599
+        height: 315
         isCached: true
   - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
     excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"

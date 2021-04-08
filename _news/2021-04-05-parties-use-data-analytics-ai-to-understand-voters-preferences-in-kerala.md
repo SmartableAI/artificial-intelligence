@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-u
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 800
         height: 556
         isCached: true
+  - title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
+    excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
+    publishedDateTime: 2021-04-08T13:51:00Z
+    webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 7
 
 secured: "vUOxIKnghn1pLYY05BBEf1+GcDd/XINe+UtH6x1WEwIpFXoNnAYHKQOvKjeM5VKQJQngthnpAMSP2qNONrl9xvcybqwVq3N0w747DZVR7z/beKDzpxQ2MNOEK+7W16N7shLDYu7C4SXQo0IkMhzCyReEmHZAVtoxhO9MT7CSsvhIabML+4sK+hGkEjfoKOdCp93TQ3+KgiyZSV2EcR4xhYFhrgWRjO7ypP58gyY/BzHiTcfIT6pz9Np/4ZlYDH4Ud26sm63vE2EfVgCa/71mH22gox4N0WuDEmwZNWSZcyXE8dcgf9joR5gDE+H32jyzERs/Rm7EKrvO4VRM3vsUvasb6NHjlR1hifVg9NJeYBo=;JUaBK4EFQGyAAhW5WCN9qw=="
 ---

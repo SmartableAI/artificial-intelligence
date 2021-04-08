@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2021/04/223-aadhaar-covid-vaccine-facial
 webUrl: "https://www.medianama.com/2021/04/223-aadhaar-covid-vaccine-facial-recognition/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition for COVID Vaccination: What About Data Privacy?"
+    excerpt: "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres."
+    publishedDateTime: 2021-04-08T13:17:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 59
+    images:
+      - url: "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
+    excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
+    publishedDateTime: 2021-04-06T12:24:00Z
+    webUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 41
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "COVID-19 vaccination drive to go contactless with Aadhaar-based face recognition: All you need to know"
     excerpt: "India is looking at adding Aadhaar-based facial recognition in an effort to make its COVID-19 vaccination procedure contactless. The Unique Identity Authority of India (UIDAI) has already started a pilot project in Jharkhand to test the efficacy of the ..."
     publishedDateTime: 2021-04-08T09:51:00Z

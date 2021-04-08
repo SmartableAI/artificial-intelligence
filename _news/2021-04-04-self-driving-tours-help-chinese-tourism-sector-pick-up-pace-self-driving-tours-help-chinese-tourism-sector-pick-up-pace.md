@@ -41,6 +41,20 @@ related:
         width: 950
         height: 530
         isCached: true
+  - title: "Artificial intelligence victorious in Chinese fruit growing competition"
+    excerpt: "Experts in artificial intelligence have beaten some of the world's best strawberry growers in a Chinese competition to see who could grow the most fruit. Three teams of top traditional growers were set against four teams of AI experts in the contest ..."
+    publishedDateTime: 2021-04-08T12:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9310041/artificial-intelligence-victorious-in-chinese-fruit-growing-competition/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/08/Aii.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "axo+vDYYrigMRZZ3FofgapB+Hk2NmseLsvnIvy4c7rtmUbHFOmc7ELZjXGUK9d/mNpzvc8aclfzl3HuG3B83UMWsBz/+zzxKyrf3C7Yi5XkWFgtPyNHdGzj0ZASiBL+aBz3PgVAeZ14CAQBvyyIvmLLCOmH24DWxcMyCB1jV2nnFwAgG67WCReAlS0+5aYJoU3DqD+eFPyuH8sT+1nJtUnFYgZLFD142YgXgl3QKcZMFxeJb5G3NCibpDTLbWs4OLIC23FMM+TasrxAjfvmfbdyyDCDrS16XzKjNcBWCsaS0bx1Kx6VWN6V64z1AEtbIi55tO4/wMt43n9kDgEt1E/OlKD42gJjY8jqHH7WKcKo=;SJNC4RzkkmZ4sDZnGtooAg=="
 ---

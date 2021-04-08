@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System"
+    excerpt: "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ..."
+    publishedDateTime: 2021-04-08T13:03:00Z
+    webUrl: "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 53
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg"
+        width: 600
+        height: 263
+        isCached: true
 
 secured: "ypp38OMOezuIjrX2JQaV2ff0tg/D0oeMtutve3PmuUaXYyIQBVfoGJgbUlI9CiQSqs+UQ/bFiw4dALM1KC0ZfULyEQWPmfcLEIUDhzoNu3OlUstNOt6EivOkHjpJnqM84C1fLi2XVkvoszKaw6PkrY+QjZFvAb8m4+aq7why5rg0UKv+wpup8Dej0AijhaObIv0tvPMdtOwFFzJ3g4nDJcNUDR+Ra+aS9Jf8E1Of/W0+khaveSwVUMsoGp7F/JxriplJ3ZFzXr6lzLc1ys9WfvscNiYg/MwOkVdwo7w7uSTd3zWwZ+VoX573glv+JVoIDXhrIHkEjYFjtybX5sNSAY+Va0qFgPbe/ZwUQq4m4lU=;xFrhoXIEXunMHOedTOKcow=="
 ---

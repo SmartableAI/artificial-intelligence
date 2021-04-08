@@ -43,6 +43,22 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Toyota unveils new models with advanced drive-assist technologies"
+    excerpt: "Toyota’s latest launch comes as automakers, electric car startups and tech giants invest heavily in so-called active safety features"
+    publishedDateTime: 2021-04-08T13:18:00Z
+    webUrl: "https://www.theglobeandmail.com/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 44
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/yaeBa_Cp7SoHeXkxtvfXg6VlFfk=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5XRU74PZ2FN3BDW2ZDE6KS5SYM.JPG"
+        width: 760
+        height: 506
+        isCached: true
   - title: "Toyota unveils new cars in push for advanced driver-assist tech"
     excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota's latest launch comes as automakers,"
     publishedDateTime: 2021-04-08T08:00:00Z

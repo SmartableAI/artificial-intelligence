@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future Of Work: How AI Is Changing The Time Management Game For Executives"
+    excerpt: "AI are developing at record speeds, especially in the remote work and work productivity sectors. Executives are leaning on AI to enhance or support new remote work routines."
+    publishedDateTime: 2021-04-08T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/"
+    ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e183174aaf063be2df695%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SEAS Panel Discusses the Future of AI in Healthcare"
     excerpt: "Health and technology experts discussed the advantages and pitfalls of deploying artificial intelligence to improve health care equity at a School of Engineering and Applied Sciences panel Wednesday. The event, hosted by the Center for Research on ..."
     publishedDateTime: 2021-04-08T06:10:00Z

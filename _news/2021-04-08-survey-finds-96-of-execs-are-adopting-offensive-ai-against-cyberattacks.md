@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adop
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Preparing for AI-enabled cyberattacks"
+    excerpt: "Artificial intelligence in the hands of cybercriminals poses an existential threat to organizations—IT security teams need “defensive AI” to fight back. In association withDarktrace Cyberattacks continue to grow in prevalence and sophistication."
+    publishedDateTime: 2021-04-08T12:59:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/08/1021696/preparing-for-ai-enabled-cyberattacks/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/08/1021696/preparing-for-ai-enabled-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/08/1021696/preparing-for-ai-enabled-cyberattacks/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Figure3forWeb.png?w=975"
+        width: 975
+        height: 525
+        isCached: true
 
 secured: "V+tKKNktkFMZ7ZU0b1ZRHoRoSnQ8/BCoROy68ouCK5k0nfJaOE4uEDaBlXGk0SEyfWGLA3i0j/MsW7hp/kZZM/2CQ9V8YvTQZZlXFC0lHpUb4gy1hgezQ0MS8eBZSLhTYH7bY4JYZLj1Q2BSzFvOwSF/JC+rfJut61gzikuWCr52qvsE0UEiUiGXv4/NpCR62idn8JDSdlGr++mORPxJpMe/vAnsse3FGU+U0Cdb5LwenR+3tvoWghoqwMmA9XtAQoKjXBoWLMTTFCFpmb5Impn71cAxOBg/oRUiNtDOU/aV0eTe5r5/A78ZR8LEw2Qih1ZrMeWRZ3q4xIcZsQHPfEJKbNMBngC6Ll6omR3SVnuZctKrfI3uLVwfbf4NCUWxH366lxGTKrAbi9PrAdYQ3j8j7z3SlJNE7CovULX+xy3JcHdJOGJ7w49f2NULpQ6MTRB5VADzrBgy8dpBC7CgwI9c7aXHVCWtAW25qA2iKkRERDjxBNjqQ5NVzvyrN/btyiWLAzVDveFRtqktei3mMA==;8e3vl3LaoS9khv80btdq2A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
+    excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
+    publishedDateTime: 2021-04-08T12:48:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
   - title: "Listen to ‘new’ Nirvana song, Drowned In The Sun, created by Artificial Intelligence"
     excerpt: "If you heard Drowned In The Sun introduced on radio as a previously unreleased song from Nirvana, it’s highly likely that you’d take the DJ’s words at face value. In reality, the song is an AI composition,"
     publishedDateTime: 2021-04-06T12:27:00Z

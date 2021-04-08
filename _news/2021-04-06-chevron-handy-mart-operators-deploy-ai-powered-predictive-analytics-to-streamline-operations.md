@@ -98,6 +98,15 @@ related:
         width: 800
         height: 556
         isCached: true
+  - title: "Philips and Ibex Medical Analytics Team to Accelerate Adoption of AI-powered Digital Pathology"
+    excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions ; Combination of Philips’ digital"
+    publishedDateTime: 2021-04-08T13:51:00Z
+    webUrl: "https://www.medindia.net/health-press-release/Philips-and-Ibex-Medical-Analytics-team-to-accelerate-adoption-of-AI-powered-digital-pathology-520379-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 7
 
 secured: "raFJFGt2kmxVQFVrtvr9xq5xAGYKDstfdWdNXDwzI8Ao/r3sM6OnwLWbf8vzai1CLU5YfNaAxuTS9cg4CkG9XgiIe+eHr7m8GKXBI3h7mMIrG7o2FOiZ3OcnmDGY/9CBAuMv57lapmSr9U1NJD4GxSmjif/ESdA5HAywOrQLY734c/VIvVYbAmGZiKDwNOrMGO4WqD084CwDhRpcGfMzIsz5PrRKus8GCAPqPJ44KQFv0CvW7PWcmKPcBVAQWDHBKkE/DAshJI0tgVRLzVdIm20TE/sfh09e1tL+TEmVwblmFZn+FKWxQvOCAQdy+uYxfuJKAyI6xP7pBn5vpiMM8x7LtQgqL6VCN3ZUT5l1e40=;bbfTXoO0HoG9IIviuE7IUA=="
 ---

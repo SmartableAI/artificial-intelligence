@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth-with-4-5m-to-create-synthetic-face-datasets/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Synthesis AI emerges from stealth with $4.5M to create synthetic face datasets"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Synthesis AI, a startup developing an API for generating synthetic data, has emerged from stealth with $4.5M in funding ..."
+    publishedDateTime: 2021-04-08T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-emerges-from-stealth-with-$4-5m-to-create-synthetic-face-datasets-9992419"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "c3lkZryhpWmWCN6p1xQp4dlVjoM2snHuQivqvu48u1Foznirw6vev+SbO9fJA5/6zgCDJ3MpwLg4PDRadU+A01U8zvjSmxKqvDApjui+IaP0sJTf38HlLawg2e1H32kWBT1/rqPeb0myooYyzZq0ROWi3m2scDcUjTmWASJCaThQ+YUzjpyPr84ntlpEL6UgI82gGI6Yq8apvswNlWEIDoTymOOKuzczNyTOmHQMT7FyfB2qabqovKdD5cmB1uCAR9Ov0zvrTfx8fHBmIDWu570bpoTS13P0aXWCDr4cquCh+m3MYI27wdDj6F9w0mj1EGMgcZDqXHouy9usUvlJhRgDzLmDr/fvE7MBY3mjzWvMkjk/GGLd2cuxbJpzGWfU1NNlUEgTeJYmm/9G4RbDV+dOwFoxzBkTvVnPSZnI5LePwJFkiQiJzHj6QmyvCSl31/IFCnBHy6uOJhy/Xo9jNT3t2m8IRGRWFRMiOZ2fLr5As2tTteIiRavR+wUbtEwh7pEGmIOqFg/XiIXjoP2JIQ==;jPd0CIMDYypqF0ApZO+F+A=="
 ---

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Self-Driving Cars May Be Too Speculative Even for This Market"
-excerpt: "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors."
-publishedDateTime: 2021-04-07T11:14:00Z
-originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
-webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
+excerpt: "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ..."
+publishedDateTime: 2021-04-07T16:14:00Z
+originalUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
+webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
 ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 type: article
 quality: 74
-heat: 84
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars ideal match for Apple: Tim Cook"
+    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
+    publishedDateTime: 2021-04-06T12:40:00Z
+    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 44
+    images:
+      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
+        width: 747
+        height: 498
+        isCached: true
+  - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
+    excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
+    publishedDateTime: 2021-04-08T11:36:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 41
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2021/4/8/selfdrive.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "Forgotten Tech — Self Driving Cars"
     excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
     publishedDateTime: 2021-04-07T02:00:00Z
@@ -45,7 +77,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple chief talks of self-driving cars"
+    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
+    publishedDateTime: 2021-04-07T07:38:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
+        width: 700
+        height: 471
+        isCached: true
 
-secured: "babsgCBhMOGkNDOcVb4pMWWvVyeJLlMdDjNeor9AK/5s5BEjybyryhzSA2ZcAN03vmhbgJFBkMHGSjpIqSI9Pf4G6phCCoCezISO9km7W7FkEUQ88SVCOWGJvKf3mTpYSoDR1vb71bj/cb0X807rXkF38bN1TZSg7kyyDT5pBA3MgAiIu/4mz47Vqin0BDjDTZh9AD8jykEeZGSJuWUZwNdmj/AHOk+FE1oJ1UfP7oaw6YQ7Cq0W5ukhy1ZJxw1VpCylXLSu6udhyolbYV3yRuRy2nKK6HOw7/2M4tiNOd8FvnstIY+3vQgtMxK1Ce0VpE3vslztf6DqKbIQAyrheuqpl0fKJoB0YvHRDcDbPxFpE/o2CPqDM+3Eehuc9z2dbPoC3JEQwWB5ees/sJJSiFR7uHriYwWIFnM/0nHa9WDbNyhRILA5UVmD8BEorYDWZv8KGGc1au7jR3jvHiq6KbkXkuvPA52EYh6OdBTAV5/KqOioHas2upm5McUiYYZ8Cu31XMKwOVLPNHMdqoD5CA==;K1X4rOF6rCxU8KUNd9tprg=="
+secured: "8pVXwSKL2kqrBmgFzBzKiOEFTlPfLELmIIFqTjApGGNPXdgmdCMP4S1PiS2R+2D1GFpHkwTE1lQlrAj9a4DcMb7EeRmwbkPGoFNNkSDNoqY4bQmh5l0adWOrKouMyLitqBX07jQ0xlnvFbqRi3rxNTBfP7obBDr2I4dUhLOQQ4JZ2/hYYo3QjPWnHCSz46B2gc3cYgmZDNNzOFVnKXIu2x0Y9DNWzWre4NJn3kcHlhMmkhDbLXfIyLXsh2WACy9tL530FjT9oKOA9HMLPSyGDDBguSesTzrXIk52jW2tyygekjrnkcaPd9Kk2wNHIe+DC5TGd1BYyyJAkn7TICTnq1Ml5H4i2V/RCepH2TTnH1A=;FxZov+gxnWW2OEyMqz0+hg=="
 ---
 

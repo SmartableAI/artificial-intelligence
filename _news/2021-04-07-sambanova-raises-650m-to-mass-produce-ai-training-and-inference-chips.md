@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 88
+  - title: "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System"
+    excerpt: "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ..."
+    publishedDateTime: 2021-04-08T13:03:00Z
+    webUrl: "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 53
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg"
+        width: 600
+        height: 263
+        isCached: true
   - title: "Uniphore Raises $140 Million in Series D Funding as Demand Skyrockets for Enterprise AI and Automation Solutions"
     excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced it has raised $140 million in Series D funding, bringing the total funds invested in the company to $210 million. This latest round of financing was led by Sorenson ..."
     publishedDateTime: 2021-04-06T04:30:00Z

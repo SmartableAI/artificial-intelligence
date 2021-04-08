@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-
 webUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030281693"
 type: article
 quality: 50
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,6 +23,29 @@ topics:
   - AI
 
 related:
+  - title: "Riiid named to the 2021 CB Insights AI 100 list of most innovative AI startups"
+    excerpt: "\"Last year's AI 100 companies had a remarkable run after ... Since inception in 2013, Born2Global has been setting the standard for successful startup ecosystem as the main Korean government ..."
+    publishedDateTime: 2021-04-08T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riiid-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-ai-startups-1030285656"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1483624/image_819222_28456087.jpg"
+        width: 400
+        height: 299
+        isCached: true
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
+    publishedDateTime: 2021-04-08T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "CB Insights Again Names AI.Reverie a Top 100 AI Startup"
     excerpt: "CB Insights today named AI.Reverie, the leading synthetic data platform, to its annual AI 100 ranking of the most promising private artificial intelligence companies in the world for the second time."
     publishedDateTime: 2021-04-07T17:44:00Z
@@ -111,20 +134,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "SentinelOne Named to the CB Insights AI 100 List For Second Consecutive Year"
-    excerpt: "SentinelOne, the autonomous cybersecurity platform company, today announced the company was named to the annual CB Insights AI 100 ranking for the second consecutive year, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2021-04-07T13:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-0dbca6dbedf841e0890409307ae0402f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

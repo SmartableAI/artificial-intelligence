@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Toyota unveils new models with advanced drive-assist technologies"
+    excerpt: "Toyota’s latest launch comes as automakers, electric car startups and tech giants invest heavily in so-called active safety features"
+    publishedDateTime: 2021-04-08T13:18:00Z
+    webUrl: "https://www.theglobeandmail.com/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 44
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/yaeBa_Cp7SoHeXkxtvfXg6VlFfk=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5XRU74PZ2FN3BDW2ZDE6KS5SYM.JPG"
+        width: 760
+        height: 506
+        isCached: true
 
 secured: "6KIrKhFTjXJlk9JnS2XJ2unlJTLOKG/baqmPeR7GmjR76cT8NvU1SH8dbAD/p7jAbZyOn9EW9x/hJhpkoTZ7LEgahGmPNyuOFdE7jvxJBBj+FwhpOgxRH9w9ZidkdLO7SX+J3yTqh4gfvybJMNzW2jcz2u5mbXtOmHhHTmLRcV0+5UiRzUZ4HTFAsc3QJ4aKd+n2qhYFck8EoPsjnZVF8AGziwV72zIdawMPuq1EDb+tvgL1v1Fdy5prAb80rziEY0Ccwko58jurohzd3lmoVD1fVtYdAuLZ5lqiJRW+7+NH1c+UFD1YSVgAdf7DD+roJYyxQGGK7mKZiOJOR1ER8i/QFftS2GbzZvwNKqIeiV533+pH62pXbI9R155XvoH6FwLpsdytTVOu3z96CGpx3CgR39uu7hmgB18biwJ1pXJ+YR8yQ1tFqU19CYA/LG4QA9A+kTDfx+T0jIjBcjqhXOECWO9w0QiGLdQRb487uaZNK1BwNQ6N1w+0hNTtV6Ixev4v13bKA4tAyBz7lKMoRA==;xNHa5hdqDairALyLTgE6vg=="
 ---

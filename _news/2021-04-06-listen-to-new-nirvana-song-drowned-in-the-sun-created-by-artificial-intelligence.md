@@ -54,6 +54,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
+    excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
+    publishedDateTime: 2021-04-08T12:48:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
 
 secured: "KVPzlV49Il8/f2jDex33fpkXiMFSYxDS6x8I8tnIOgs5tQDM86nUD1/IWiY3/IE2brUjSTmnRvBg80c84Knm6nw3HkL21LCi44QixSVs/MrR6OkyfGzVkz1ELRzw7WycRCFll2Aku0qNDhyGFrKI/RmEm17AwezyWtAna7iOsNxw/h/vHS30g8KTXXen0+lVuYqFgGhmbLsZOAZAaD7euLSb9JFIR7YeZzcM5djCM6gltITI9x1yWToA+QjCMVh8ZvFiBA5D/OZ0Hr18aJsZEhcQG4VDRXxysVW5fMyuPGENkAnW9aAIxrstrg5bWnIQMoSLs0Gw+ZFolqezbKYLvW6+NTfVAezQFNO5WKrU877Euv9ueJALr58CqYPGUVT+m/I/0IiYrM7SgPJKRmgy0So0Hv9OxqwjOdRtHQU8CasyDELGz73MiOkY6y/toQe77esx70uLIOF4TiYhz/Hwds9ygCIjiiYrHX9kakC79CKB6VXEglWMbQnlz55ySyV1HT6qcrInQFfCuCe6nDkgJg==;UajMrnjBxbeFKKRRYshQfg=="
 ---

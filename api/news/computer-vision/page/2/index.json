@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-rsip-vision-unveils-robust-metal-implant-anatomical-segmentation-tool-for-improved-planning-of-specialized-orthopedic-procedures-including.md",
+      "title": "RSIP Vision Unveils Robust Metal Implant & Anatomical Segmentation Tool, for Improved Planning of Specialized Orthopedic Procedures including Revision Arthroplasty",
+      "excerpt": "TEL AVIV, Israel & SAN JOSE, Calif.--(BUSINESS WIRE)--RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces an advanced joint segmentation tool for detailed, non-invasive planning of revision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210324005356/en/RSIP-Vision-Unveils-Robust-Metal-Implant-Anatomical-Segmentation-Tool-for-Improved-Planning-of-Specialized-Orthopedic-Procedures-including-Revision-Arthroplasty",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005356/en/RSIP-Vision-Unveils-Robust-Metal-Implant-Anatomical-Segmentation-Tool-for-Improved-Planning-of-Specialized-Orthopedic-Procedures-including-Revision-Arthroplasty",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-global-ai-in-computer-vision-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
+      "title": "Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
+      "excerpt": "ZMR analysts forecast the latest report on AI In Computer Vision Market Size continues to grow from 2020 to 2026, according to their latest report. The report on the global “Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcarecmi.files.wordpress.com/2020/07/analysis.gif?w=800",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-disney-begins-testing-facial-recognition-software.md",
       "title": "Disney begins testing facial recognition software",
       "excerpt": "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021.",
@@ -1337,93 +1415,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-image-recognition-market-outlook-regional-growth-analysis-by-2025-with-predominant-players-honeywell-ltu-technologies-catchoom-panasonic.md",
-      "title": "Image Recognition Market Outlook, Regional Growth Analysis By 2025 With Predominant Players: Honeywell, LTU Technologies, Catchoom, Panasonic, Toshiba",
-      "excerpt": "QR/Barcode Recognition, Object Recognition, Optical Character Recognition, and Pattern Recognition. The 'object recognition segment dominated the market in 2016 and it is anticipated to lead the ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
-      "originalUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675238",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-clearview-ai-sued-in-california-over-most-dangerous-facial-recognition-database.md",
-      "title": "Clearview AI sued in California over ‘most dangerous’ facial recognition database",
-      "excerpt": "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "originalUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg",
-          "width": 768,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "publishedDateTime": "2021-03-11T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

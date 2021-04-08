@@ -2,6 +2,499 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-01-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
+      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
+      "excerpt": "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "publishedDateTime": "2021-04-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-apple-removes-siris-female-voice-as-its-default-and-adds-two-new-voices.md",
+      "title": "Apple removes Siri's female voice as its default and adds two new voices",
+      "excerpt": "“No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P 500 NASDAQ 100 Apple's voice assisitant Siri will no longer default to a female voice, TechCrunch reported on Wednesday. The tech giant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4",
+      "originalUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e45352f11d0019431932?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4?amp",
+      "publishedDateTime": "2021-04-01T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-hyundai-ioniq-5-ev-will-serve-as-motionals-next-self-driving-taxi.md",
+      "title": "Hyundai Ioniq 5 EV will serve as Motional's next self-driving taxi",
+      "excerpt": "The lovely Ioniq 5 is in for the robotaxi treatment. If Motional has its way, and autonomy plans out as the company sees it, the Hyundai Ioniq 5 will serve as an autonomous taxi. On Tuesday, the startup company announced Hyundai's new EV will serve as the vehicle platform for its next-gen car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/b328YpeuyHZrJSOFHfIIXta1VoQ=/2021/02/22/b9bf5e91-004f-4d30-856d-76561388f5f9/hyundai-ioniq-5-1-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
+      "publishedDateTime": "2021-04-01T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-uber-driver-claims-facial-recognition-app-locked-him-out-of-system-after-he-tonsured-his-head.md",
+      "title": "Uber driver claims facial recognition app locked him out of system after he tonsured his head",
+      "excerpt": "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/business/Industry/2zz7cs/article32892894.ece/ALTERNATES/LANDSCAPE_615/VBK-UBER-BIJOYGHOSH",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/",
+      "publishedDateTime": "2021-04-01T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects.md",
+      "title": "Intel and John Deere pilot AI and computer vision program to detect manufacturing defects",
+      "excerpt": "These solutions range from sprawling LED-equipped indoor farming facilities to robotically plucking ripe produce off the vine using computer vision and artificial intelligence (AI). On Thursday, John Deere and Intel announced a pilot program that relies on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
+      "originalUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/01/24afeb96-0fbc-4eea-a829-45cf404f852e/resize/1200x/cb0cce3d1fdb8f244a749341905133fb/john-deere.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
+      "publishedDateTime": "2021-04-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
+      "title": "Nvidia's fastest GPU has gone on sale",
+      "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "originalUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nd5ssQsrfZLY2eYoqhGNbD-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "publishedDateTime": "2021-04-01T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-curri-nabs-6m-for-ai-powered-last-mile-construction-logistics.md",
+      "title": "Curri nabs $6M for AI-powered last-mile construction logistics",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Curri, a Y Combinator-backed logistics startup delivering construction supplies and materials, today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "publishedDateTime": "2021-04-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-researchers-develop-explainable-artificial-intelligence-algorithm.md",
+      "title": "Researchers develop 'explainable' artificial intelligence algorithm",
+      "excerpt": "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg",
+          "width": 750,
+          "height": 304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
+      "publishedDateTime": "2021-04-01T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-device-monitoring-and-management-startup-memfault-nabs-85m.md",
+      "title": "Device monitoring and management startup Memfault nabs $8.5M",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Memfault, a startup developing software for consumer device firmware delivery, monitoring, and diagnostics ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
+      "publishedDateTime": "2021-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
       "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
       "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
@@ -710,519 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
-      "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
-      "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg",
-          "width": 630,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "publishedDateTime": "2021-03-31T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
-      "title": "5 machine learning essentials non-technical leaders need to understand",
-      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-facebooks-feckless-fairness-flow-wont-fix-its-broken-ai.md",
-      "title": "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI",
-      "excerpt": "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/farinessflow-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
-      "publishedDateTime": "2021-03-31T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-using-artificial-intelligence-to-discover-new-drug-treatments-science-next.md",
-      "title": "Using Artificial Intelligence To Discover New Drug Treatments: Science Next",
-      "excerpt": "In the fields of medicine and pharmacology, drugs have historically been discovered either by identifying active ingredients from traditional remedies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
-      "originalUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/6e23bb3/2147483647/strip/true/crop/1109x683+46+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrkf%2Ffiles%2F202103%2FAI_AVPs.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
-      "cdnAmpWebUrl": "https://www-wrkf-org.cdn.ampproject.org/c/s/www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
-      "publishedDateTime": "2021-03-31T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRKF",
-        "domain": "wrkf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "publishedDateTime": "2021-03-31T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download.md",
-      "title": "Safety Pool Announces 100,000 Self-Driving Test Scenarios Ready For Download",
-      "excerpt": "Self-driving teams, academics, and armchair roboticists should be able to build and contribute useful scenarios to the library. Every time there’s a car accident or an unusual situation it should go into the library. Then every car from every company can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064b66db9cbe60ffe61b40f%2F0x0.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
-      "publishedDateTime": "2021-03-31T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
-      "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
-      "excerpt": "Processing of human language via machine programs has been coming to corporate computing for a while now. Some believe it can be not only reliable but also very broadly applicable. Software startup Moveworks of Mountain View, California, which has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "originalUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/31/04c51f4c-e000-4fbb-962e-8c2560699c68/moveworks-group-19-10-20-1127-1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "publishedDateTime": "2021-03-31T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-to-spot-an-ai-ethics-watermelon.md",
-      "title": "How To Spot An AI Ethics Watermelon",
-      "excerpt": "The tech industry is full of watermelons. Companies that look 'green' on the outside, but have deep fleshy red inners: Here's how to spot",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
-      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064aebacb513678fa61b40f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m.md",
-      "title": "Cresta, which uses AI to mentor customer service agents in real time, raises $50M",
-      "excerpt": "Cresta, an AI-powered platform that gives real-time support to help customer service agents respond to enquries on calls or in chats, has raised $50 million in a series B round of funding. The company’s latest investment,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Untitled-4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/",
-      "publishedDateTime": "2021-03-31T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google.md",
-      "title": "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google",
-      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     }
   ],

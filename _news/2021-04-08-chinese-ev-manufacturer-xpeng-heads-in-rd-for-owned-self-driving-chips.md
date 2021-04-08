@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence victorious in Chinese fruit growing competition"
+    excerpt: "Experts in artificial intelligence have beaten some of the world's best strawberry growers in a Chinese competition to see who could grow the most fruit. Three teams of top traditional growers were set against four teams of AI experts in the contest ..."
+    publishedDateTime: 2021-04-08T12:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9310041/artificial-intelligence-victorious-in-chinese-fruit-growing-competition/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/08/Aii.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving tours help Chinese tourism sector pick up pace Self-driving tours help Chinese tourism sector pick up pace"
     excerpt: "Urban one-day tours and suburban tours are likely to recover, and the proportion of self-driving tours has increased. Local transport departments and companies are also gearing up to ensure the safety of passenger transport during the Qingming Festival."
     publishedDateTime: 2021-04-04T10:50:00Z

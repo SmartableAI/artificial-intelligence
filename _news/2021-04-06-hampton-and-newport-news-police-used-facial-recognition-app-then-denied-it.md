@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-2
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 705
     isCached: true
-
-related:
-  - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
-    excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
-    publishedDateTime: 2021-04-06T12:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 41
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
 
 secured: "9FgQ92YcsSm1v0cA9c4rtLTYuc6J2zlL7L+zPnbZfDI8y4FZA1r5y7MHjh5nfvKbnLl0HRuBQ800C3Y0YTDyDwM4mLj+uy2+74tnvDKI9cMbObPxor2mvpWQtc7coqnIQL6Dfxi5VUdsX8HR4VwdbLwgFUAs06NJ43ySh5ye3SVmlLf5vXNUfzilUkOORzZn2BgD20hTicl/AbrOOmWMvUaRIrXpuKD1n9GH+gIf7kbJ7yTwzVznatPP68s1cs15FwKG4M2ByVCPjCKMBjG2LDeoo+FA4VGWf0yet/Nv7dDs5rgxGP/WJrEDxFuDSKolqy8Uohv7dmWMNjPaFeS3QlcNRW07j0A9CccAha/fAZ2H+zI16eLJw3MWlckaSQF8zfqOSMqEgsOWzP2l+CeqbwwA31nfrJjwDP7MncEK9jZFlN/QRFKInDb1wtLoUElwcY1deUBaGdJ9RmcwIJLX4S3tU1J22kDsMpkS+cjgcgUcMRyq203VkngmpSoqNpM0Ckj1nKyKB916Tg5Oke4pBw==;HUZdVl/JIiWjQX8x0Yl1Vw=="
 ---

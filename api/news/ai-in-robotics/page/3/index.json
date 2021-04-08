@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-22-how-the-construction-industry-builds-smarter-with-artificial-intelligence.md",
+      "title": "How the construction industry builds smarter with artificial intelligence",
+      "excerpt": "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "originalUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MultiBriefs",
+        "domain": "multibriefs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-hong-kong-forum-of-artificial-intelligence-and-robotics-promotes-development-of-smart-industries-in-hong-kong-and-greater-bay-area.md",
       "title": "Hong Kong Forum of Artificial Intelligence and Robotics Promotes Development of Smart Industries in Hong Kong and Greater Bay Area",
       "excerpt": "The Hong Kong Productivity Council (HKPC) , with the funding support of the Innovation and Technology Fund of the HKSAR Government, joined hands with the Hong Kong Society",
@@ -1323,58 +1366,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
-      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
-      "excerpt": "Citic Securities Co. is the sponsor of the listing. Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with security, which in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
