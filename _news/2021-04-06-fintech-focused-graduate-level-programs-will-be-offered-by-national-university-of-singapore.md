@@ -57,6 +57,22 @@ related:
         width: 600
         height: 476
         isCached: true
+  - title: "How fintech boosts the progress of the MSME sector"
+    excerpt: "These AI-enabled services may also help on the simplest of queries like MSME full form. The primary function of fintech is to simplify the entire process of fact-finding. It is not just limited to MSME loans. Fintech companies help MSME owners in filing ..."
+    publishedDateTime: 2021-04-08T08:41:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/04/08/1600x900/Ziploan_HT_1617871219657_1617871224708.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "3gHf6bnjPycUO1GZiPPBXedDK7RDcjHHQqDfoEwvXymgj9vKuEt/Y8mERN7k2ddZBtzJ8wmQl9mMfC13FphU5lAxo679ssuzn8zbF+vfZD0KtVGVYTP5IvtfU3jhrmKqHyc9bLwsiI1PTha4JAxnOCA46hqpc91kxRWqmittQIGLvIDjyO7AbjUkqZ++Zgxf1H32P9s0AaZkO293RDU0ZAWpOwpS30R/W3+Qsq+df/b61tnlg+hQaJ6AsJPDJ3ds07q0B7BWZMxwC2y/VUKkDgixk36hCFucO75E9HNh7cdh/ylWS7eAH7KhMeiU6aMhLDbMjDCO2SfNyjUoRyyb0e026qYt2zTOubmnpw2gvhYS7Ljyr0bEqyF+trMIVgBIyq4/ampHDtZDR082qcQUD7GgIGD/1kNbP16psHLHbmu3RiBFYaEndUbQ3DJXemlllhtBFE1lMthkqwpQcDhe84bhXWEfgB+Bstkjoe2l1nJwqDsPJKUolUysPL8ttjoGtQ7L8iEjPzmjlDBTZK/v3Q==;lJeQo3Qxze4Y0ll4pi5QkQ=="
 ---

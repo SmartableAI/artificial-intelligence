@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
+    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
+    publishedDateTime: 2021-04-06T03:05:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "wn85Ua1sboOC+nuQg8UzYymlJKo/7WC4+DldV6HaxoutNSj+eauChHvo4/aqWg1ugky1vKbMQA919w1aSgRSPtd1tV1FYDC+a0nbuGtPZLc6qC8P0sf+N0EuuAB7xx2zcHp+dTwWl+r8pqCyF3hVRM+ksA74CyEcyh3shIPggRWDrG9WXjfncHSwLEFIRqi9aIVjamF9MtCnP/3MDPUwjtk12GuhP3oQ9PvMRn+89LAvQUc57BA9myzTJeyeC6Z6aUFXgLnSLgUKEi+eysdxpoi0/gndEkXcILkVWXJpkwO1X1tmvZN4wDvd5yetqJAvERZQ8dTgNbFW2XBspksU4N1VG+5/zIRQ8WRYQFzMezwQLJQRDk1jrhjc6/rw+8CkzCBnXYU6uNAo8gKG22GTCzUzuIuWgjFimG8CiBvFBmZdx/pfAMhBh21hoBb+ZF4XhZ4Wiz/mdwrINuNp685heAtMBv21ki5qMPreK70HBbygwrO9epBp1BBor+oOTygCtUoBiqq3nHnjvnFwfWzD+g==;mIpQIcJXDg1saBsa5nahOA=="
 ---

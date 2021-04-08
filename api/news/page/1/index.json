@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-today-i-learned-about-intels-ai-sliders-that-filter-online-gaming-abuse.md",
+      "title": "Today I learned about Intel’s AI sliders that filter online gaming abuse",
+      "excerpt": "Intel’s Bleep announcement starts at the 27:24 mark in its GDC 2021 presentation. Last month during its virtual GDC presentation Intel announced Bleep, a new AI-powered tool that it hopes will cut down on the amount of toxicity gamers have to experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters",
+      "originalUrl": "https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/mjukuSzndWHmyGK2bezPhcsPuuI=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22429051/msedge_ophDP9qyMx.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks.md",
+      "title": "Survey finds 96% of execs are adopting ‘offensive AI’ against cyberattacks",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. “Offensive AI” will enable cybercriminals to direct attacks on enterprises while flying under the radar of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks/",
+      "originalUrl": "https://venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks/amp/",
+      "publishedDateTime": "2021-04-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19.md",
       "title": "30 Under 30 Europe 2021: Changing The World From Artificial Intelligence To Covid-19",
       "excerpt": "Brinkmann is just one of the many entrepreneurs and scientists on this year’s Forbes 30 Under 30 Europe: Healthcare and Science list. These researchers, innovators and business leaders are changing the world with everything from new cancer treatments to artificial intelligence.",
@@ -157,7 +259,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -695,7 +797,7 @@
       "originalUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -887,6 +989,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs.md",
+      "title": "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs",
+      "excerpt": "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685",
+          "width": 1200,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/",
+      "publishedDateTime": "2021-04-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
       "title": "Op-ed: Using AI to help solve today's semiconductor problems",
       "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
@@ -1055,162 +1209,6 @@
         "name": "Zawya",
         "domain": "zawya.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-whats-next-in-ai-assisted-governance-risk-and-compliance.md",
-      "title": "What’s next in AI-assisted governance, risk and compliance",
-      "excerpt": "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:00:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
-      "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
-      "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help ... have a lot of interest from many of the top fintech companies that are out there,” Bloch ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
-      "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
-      "publishedDateTime": "2021-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
-      "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
-      "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
-      "originalUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Joel-Bar-El-Justin-Behar-Dror-Feldheim-1.jpg",
-          "width": 4724,
-          "height": 2969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
-      "publishedDateTime": "2021-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

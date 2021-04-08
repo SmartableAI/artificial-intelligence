@@ -43,7 +43,21 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Toyota unveils new cars in push for advanced driver-assist tech"
+    excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota's latest launch comes as automakers,"
+    publishedDateTime: 2021-04-08T08:00:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-unveils-new-cars-in-push-for-advanced-driver-assist-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F2%252F7%252F0%252F33500724-4-eng-GB%252FCropped-16178662572021-04-08%2520TOYOTA-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "kfjMQIs19tjeLkfXbHnWCwmtUxL8OOuUqQmq9ds4A6rApfQrf4mHikj8eFgJeluNJ/xjGGDxGWrqJanRoaebjq8KR7VVZGbCNsWcng3LY6CXS7Web6JpKLyxZQP5OIs/E7qwMGddF6mOcRGgt6+oZ2X2I9jtAkKoj/dpJN0iuzQh44jpCM9doSd6ACqq2MeIQto7koqhmJqV3GMTSZuu1OwGmb+lS+oG3UIpL7rx4PA3rxonmTtU3ZSpwdNc61K/cOLNjHRkE0Emccc1tCfuOEJSSmS4nPxqThWBMT4HxY6gPntBVEhmMwQ8VyNAYQUVvqjVHiLB/rOrogKzKiJ3A/WYq4MWWxijKiWT7kzAz/Q=;qj+b8+lNtuF1pcCC77v6jw=="
+secured: "1WFbVBbSMLr083TBw05GTzwEkzpO7C4x3IZ9P6iOXlfbRMrcHRpkrsXVPfC2w4OUyCwnvG2yBUxbHPubsDWesNIXxo7CYUzPb760QTakNCDt1qtfHX0m0I9QqUylgSGVhb7Hk9tQ1RZq+9bliMm0q7g4FmPkAwKpBbBq2ZaDCh9m2WLI2j59B+FQkOs4DKuP952hnvgoIKCG06Jo2rnLewlsrqTCi3Rs7Ph6Ac3CxPLZzyJ2ttsbHkTYMx3qyLDEWddIcAw4nll+raBiW/jY8yV2cNM5EWhr84S9vWPcAZzMq2MkaSoDJlAWyXcPQuxjvYGzH9FFN5we8/+t37pi8JvLgc78pyv/1eJ5f0E6c9QY3owjPWKjnz2CRXQ/A7N2FNSepW3TZ2FlEa3AvQl4MVl34IvMB1g7X8E7RggVehvUpQbsYa4V4PMBQhx+BPykJgkUr9s/ANkJG+nQIEkdpFru5euMHYARcYoPhCKo+w3Bz6L7Cp4/+mdrbhDjpEf12qo8i8jdt5rJshp8YbZDkw==;r4qhKnlHR23k0dlhKy1z6g=="
 ---
 

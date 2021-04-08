@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs.md",
+      "title": "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs",
+      "excerpt": "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685",
+          "width": 1200,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/",
+      "publishedDateTime": "2021-04-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division.md",
       "title": "Waymo CEO John Krafcik Steps Down From Alphabet’s Self-Driving Division",
       "excerpt": "John Krafcik has stepped down as chief executive officer of Waymo, Alphabet’s self-driving vehicle division. Krafcik has led Waymo for five and a half years and was instrumental in securing agreements with the likes of Jaguar Land Rover,",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1388,58 +1440,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
-      "title": "Artificial Intelligence: Blazing A Trail For The Future",
-      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "publishedDateTime": "2021-03-26T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

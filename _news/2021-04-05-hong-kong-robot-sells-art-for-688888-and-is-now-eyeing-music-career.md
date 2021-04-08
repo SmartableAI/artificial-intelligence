@@ -9,8 +9,8 @@ ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-f
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: KTLA
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
-    publishedDateTime: 2021-04-03T15:43:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
     excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
     publishedDateTime: 2021-04-05T15:53:00Z

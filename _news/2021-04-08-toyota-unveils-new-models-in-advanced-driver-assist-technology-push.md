@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Toyota unveils new cars in push for advanced driver-assist tech"
+    excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota's latest launch comes as automakers,"
+    publishedDateTime: 2021-04-08T08:00:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-unveils-new-cars-in-push-for-advanced-driver-assist-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F2%252F7%252F0%252F33500724-4-eng-GB%252FCropped-16178662572021-04-08%2520TOYOTA-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "MAh1JkgQL8ZyRRky9qw86cB07bEZ2VxrQGWPCdckJ3KsE/BGsXW4IwV13DFwExUVY1Rv1n3ajsNw766yH+6e2HDy2oDEhm1nnuP3pBJYV6vUz7I1XTUchiDij77mxP1kdekAx1oLW7YH+KRUafAcbm7mt3vLEQlxKDanPSNcQHnIR2yuyMxI3KoSIKacEEGjNb1dNMLlsZknwxpEEEpUCj8QR9g32kL5Y2rFMZ2LxZv1Nj0zq4yzJRpFa4jy0KAe+94xuhAdS1XkCZQdoxLkEMfaWI0Azb52GxR6YrUmVRxXmR+aWfa1pi5OSoeJErCTuGrfUiSwqPo+2GdlmhWSPkg6W+1oPq+sxp5wQM2o7Nw=;tRtwNIzQfrsj/Iy1PvFJwg=="
 ---

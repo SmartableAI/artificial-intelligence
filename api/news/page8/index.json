@@ -2,29 +2,81 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
-      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
+      "path": "_news/2021-03-31-virginia-lawmakers-ban-police-use-of-facial-recognition-technology.md",
+      "title": "Virginia lawmakers ban police use of facial recognition technology",
+      "excerpt": "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
+      "webUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
+      "originalUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:25:00-07:00",
+      "ampWebUrl": "https://amp.delmarvanow.com/amp/4819349001",
+      "cdnAmpWebUrl": "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001",
+      "publishedDateTime": "2021-03-31T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
+        "name": "DelmarvaNow",
+        "domain": "delmarvanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-fact-checkers-and-googleorg-are-fighting-misinformation.md",
+      "title": "How fact checkers and Google.org are fighting misinformation",
+      "excerpt": "Misinformation can have dramatic consequences on people’s lives — from finding reliable information on everything from elections to vaccinations — and the pandemic has only exacerbated the problem as accurate information can save lives. To help fight the rise in minsformation, Full Fact, a nonprofit",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/full_fact_presentation.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
+      "publishedDateTime": "2021-03-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,7 +92,145 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
+      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
+      "title": "Scientists turn to deep learning to improve air quality forecasts",
+      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "originalUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/scientiststu.jpg",
+          "width": 730,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
+      "title": "The Future of Lab Robotics",
+      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "publishedDateTime": "2021-03-31T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -515,6 +705,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
+      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
+      "excerpt": "Funds raised will be used to develop Uniphore’s technology in AI, automation, and machine learning across the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
+      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
       "title": "Self-driving truck startup Plus raises extra $220 million",
       "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
@@ -943,248 +1176,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-uniphore-raises-140-million-to-expand-ai-to-video-call-analysis.md",
-      "title": "Uniphore Raises $140 Million to Expand AI to Video-Call Analysis",
-      "excerpt": "“Labor-intensive contact centers couldn’t handle the deluge so AI and automation products like ours stepped in to fill the gap.” Sales tripled in the fiscal year ending March 2021 and the company is set to reach $100 million in annual subscription ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL.YJ53uTW1E/v0/1200x826.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-chinese-government-run-facial-recognition-system-hacked-by-tax-fraudsters-report.md",
-      "title": "Chinese government-run facial recognition system hacked by tax fraudsters: report",
-      "excerpt": "Concerns mount for data privacy in China, as a group duped a government-run facial recognition system to issue fake tax invoices valued at US$76.2 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/30/2a7c0ac1-68a8-4dd9-98e1-1a4f79a2a3a5_e59cdf4c.jpg?itok=avqNscSA&v=1617100153",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "publishedDateTime": "2021-03-31T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
-      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
-      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "publishedDateTime": "2021-03-30T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
-      "title": "DALL-E: OpenAI's new neural network wonder",
-      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
-          "width": 1134,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "publishedDateTime": "2021-03-30T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-v9-sets-its-sights-on-ai-and-specialized-computing.md",
-      "title": "Arm v9 sets its sights on AI and specialized computing",
-      "excerpt": "AI, and what it calls specialized computing. The UK-based Arm, now under the ownership of Japan’s SoftBank Group, doesn’t make its own processors. It instead licenses designs and IP to the likes of Qualcomm and Apple who then make actual chips for use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
-      "originalUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/arm-chip.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
-      "publishedDateTime": "2021-03-30T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

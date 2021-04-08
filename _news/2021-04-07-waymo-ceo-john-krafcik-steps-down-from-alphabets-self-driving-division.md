@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://i.insider.com/606b75d9a7d803001963ed67?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "John Krafcik quits as CEO of Google’s self-driving car project"
-    excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-    publishedDateTime: 2021-04-03T16:46:00Z
-    webUrl: "https://www.glamsham.com/world/technology/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 24
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/04/4517ff7349973a2d5d0202f1812be84b.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "CEO of Google’s self-driving car spinoff steps down from job"
     excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."

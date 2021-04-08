@@ -25,143 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Relishing The Joys Of A Demolition Derby For Self-Driving Cars"
-    excerpt: "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ..."
-    publishedDateTime: 2021-04-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
+  - title: "Self-driving sensor startup Innoviz's shares rise on public debut"
+    excerpt: "Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company."
+    publishedDateTime: 2021-04-06T20:34:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg"
-        width: 1199
-        height: 682
-        isCached: true
-  - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
-    excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Self-driving truck startup TuSimple eyes over $8 billion valuation in U.S. IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO)."
+    publishedDateTime: 2021-04-07T12:37:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685"
-        width: 1200
-        height: 1031
-        isCached: true
-  - title: "Apple chief Tim Cook talks of self-driving cars"
-    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
-    publishedDateTime: 2021-04-06T01:35:00Z
-    webUrl: "https://english.alarabiya.net/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
-    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "UPDATE 1-Self-driving truck startup TuSimple eyes over $8 bln valuation in U.S. IPO"
+    excerpt: "April 7 (Reuters) - Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). The company said it aims to raise about $1.3 billion in its offering by ..."
+    publishedDateTime: 2021-04-07T11:04:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idUSL4N2M02WT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1N1"
     type: article
     provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 44
-    images:
-      - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Self-driving cars ideal match for Apple: Tim Cook"
-    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
-    publishedDateTime: 2021-04-06T12:40:00Z
-    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
+      name: Reuters
+      domain: reuters.com
+    quality: 48
+  - title: "Self driving startup may go public - report"
+    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
+    publishedDateTime: 2021-04-06T13:02:00Z
+    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 44
-    images:
-      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
-        width: 747
-        height: 498
-        isCached: true
-  - title: "Perfecting self-driving cars: Can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind ..."
-    publishedDateTime: 2021-04-07T12:47:00Z
-    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-04-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/perfectingse.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Forgotten Tech — Self Driving Cars"
-    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
-    publishedDateTime: 2021-04-07T02:00:00Z
-    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
+      name: Just Auto
+      domain: just-auto.com
     quality: 39
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Apple chief talks of self-driving cars"
-    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
-    publishedDateTime: 2021-04-07T07:38:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
+  - title: "Self-driving truck startup TuSimple hopes to raise $1.3 billion in US IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc is aiming to raise about $1.3 billion by selling around 34 million shares at $35 to $39 each in its initial public offering (IPO) in the US. The San Diego, California-based company is also targeting a ..."
+    publishedDateTime: 2021-04-08T07:08:00Z
+    webUrl: "https://www.econotimes.com/Tesla-assures-China-that-car-cameras-not-activated-outside-North-America-1606008"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 38
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202104083f5da995c8b63f0a0_th_1024x0.jpg"
+        width: 800
+        height: 482
+        isCached: true
+  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
+    publishedDateTime: 2021-04-07T13:20:00Z
+    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
-        width: 700
-        height: 471
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
-    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
-    publishedDateTime: 2021-04-07T02:29:00Z
-    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
-    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 18
-  - title: "Opinion: Regulators need the wheel with self-driving cars"
-    excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
-    publishedDateTime: 2021-04-05T02:10:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2021/04/05/opinion-regulators-need-wheel-self-driving-cars/4836297001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
-  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
-    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
-    publishedDateTime: 2021-04-06T03:05:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
 
 secured: "9VrnFB/Uq8HUyfgVJtCCYOnXbTSkvJVbkjCrQISofc3Ot86AYz16o6IcgLUVpCfgC5TkUthdztBJ4K9TCiYQmU4BlSLb2JSAAZlG15RulS5iwDd7BmK5b9xqgEhoKW3qmanv83JzwgiUqYdC3GOvvgCi429PxeVmKsAZg2Gc85EzURgUMI5EtubcKbo0h0Vssz1R9WHS1DMPAuw/f8kvqj/nHMmPMuJrVU2b/7nvNNMmZYk5FWR2p/4I0wAnCNFXguJqGKRoALYso/3R9TEydNkQxpC92EX9Nncf2xbbJfxbJzIQkyX3owrmVXxRDR8KcyJUK2WXF+4KV3TaaZUyCeQua4DjWH/tgZrl3KJKZiA=;qdPWPP7Ph+MI5OIXccnxlw=="
 ---

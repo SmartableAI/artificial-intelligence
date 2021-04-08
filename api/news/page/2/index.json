@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-whats-next-in-ai-assisted-governance-risk-and-compliance.md",
+      "title": "What’s next in AI-assisted governance, risk and compliance",
+      "excerpt": "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
+      "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
+      "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help ... have a lot of interest from many of the top fintech companies that are out there,” Bloch ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
+      "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
+      "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Joel-Bar-El-Justin-Behar-Dror-Feldheim-1.jpg",
+          "width": 4724,
+          "height": 2969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-synthesis-ai-emerges-from-stealth-with-45m-to-create-synthetic-face-datasets.md",
       "title": "Synthesis AI emerges from stealth with $4.5M to create synthetic face datasets",
       "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for free or grab a discounted VIP pass today. Synthesis AI, a synthetic data company, today emerged from stealth with the announcement that it ...",
@@ -104,7 +260,7 @@
       "originalUrl": "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -147,7 +303,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -250,7 +406,7 @@
       "originalUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -437,6 +593,48 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions.md",
+      "title": "Israeli startup partners with US radiology practice to apply AI solutions",
+      "excerpt": "RP is one of the leading radiology practices in the United States while Aidoc is a leader in artificial intelligence solutions for medical imaging. RP's equity reportedly totals $4 billion itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383",
+      "originalUrl": "https://www.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/457504",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383/amp",
+      "publishedDateTime": "2021-04-07T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -889,7 +1087,7 @@
       "originalUrl": "https://www.businessinsider.com/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1016,188 +1214,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
-      "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
-      "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/5-plant-leaf-disease-data.jpg",
-          "width": 800,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T11:23:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-this-browser-game-shows-the-limits-of-ai-emotion-recognition-software.md",
-      "title": "This browser game shows the limits of AI emotion recognition software",
-      "excerpt": "Spotted by The Verge, the Emojify Project was created by a multidisciplinary team led by University of Cambridge professor Alexa Hagerty. You’ll find it over on emojify.info. It will ask you to look at your computer’s web camera and try to produce six ...",
-      "sourceUrl": null,
-      "webUrl": "https://emojify.info/menu",
-      "originalUrl": "https://www.engadget.com/ai-emotion-recognition-game-182056088.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-ucl-scientists-use-ai-to-identify-three-new-multiple-sclerosis-subtypes.md",
-      "title": "UCL scientists use AI to identify three new multiple sclerosis subtypes",
-      "excerpt": "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple ... treatment choice and identify patients who would best respond to a particular therapy. Explaining the research, lead author Dr Arman Eshaghi (UCL Queen Square ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
-      "publishedDateTime": "2021-04-06T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
-      "title": "Deep learning networks prefer the human voice—just like us",
-      "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2021/2-deeplearning.jpg",
-          "width": 800,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deep-networks-human-voicejust.amp",
-      "publishedDateTime": "2021-04-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

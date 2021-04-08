@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How fintech boosts the progress of the MSME sector"
+    excerpt: "These AI-enabled services may also help on the simplest of queries like MSME full form. The primary function of fintech is to simplify the entire process of fact-finding. It is not just limited to MSME loans. Fintech companies help MSME owners in filing ..."
+    publishedDateTime: 2021-04-08T08:41:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/04/08/1600x900/Ziploan_HT_1617871219657_1617871224708.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
     excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
     publishedDateTime: 2021-04-06T01:26:00Z

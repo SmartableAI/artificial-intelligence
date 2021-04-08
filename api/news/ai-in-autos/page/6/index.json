@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-22-apple-in-talks-with-suppliers-for-self-driving-sensors-report.md",
+      "title": "Apple In Talks With Suppliers For Self-Driving Sensors – Report",
+      "excerpt": "Meanwhile, Apple (AAPL) has been working on its autonomous car project for the past several years and while it has developed most of the necessary software and artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
+      "originalUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
+      "publishedDateTime": "2021-02-22T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027.md",
       "title": "Global Self-driving Cars Market Analysis including Size, Share, Key Drivers, Growth Opportunities and Trends 2021 – 2027",
       "excerpt": "Feb 22, 2021 (The Expresswire) -- Global “Self-driving Cars Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
@@ -1367,58 +1401,6 @@
         "name": "newsoneplace.com",
         "domain": "newsoneplace.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-the-wealthiest-self-driving-car-add-on-options.md",
-      "title": "The Wealthiest Self-Driving Car Add-On Options",
-      "excerpt": "Shifting gears, consider that the future of cars involves the emergence of self-driving cars. We are gradually going to witness the advent of AI-based true self-driving cars, whereby the vehicle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dc225367d07fd58a05945%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4595%26cropY1%3D266%26cropY2%3D3328",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
-      "publishedDateTime": "2021-02-13T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

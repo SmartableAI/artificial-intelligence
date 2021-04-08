@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Relishing The Joys Of A Demolition Derby For Self-Driving Cars"
-    excerpt: "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ..."
-    publishedDateTime: 2021-04-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg"
-        width: 1199
-        height: 682
-        isCached: true
   - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
     excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."
     publishedDateTime: 2021-04-07T15:30:00Z
@@ -91,34 +75,6 @@ related:
         width: 747
         height: 498
         isCached: true
-  - title: "China's Plus raises more funds for self-driving trucks"
-    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
-    publishedDateTime: 2021-04-06T09:38:00Z
-    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Forgotten Tech — Self Driving Cars"
-    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
-    publishedDateTime: 2021-04-07T02:00:00Z
-    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple chief talks of self-driving cars"
     excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
     publishedDateTime: 2021-04-07T07:38:00Z
@@ -133,17 +89,20 @@ related:
         width: 700
         height: 471
         isCached: true
-  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
-    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
-    publishedDateTime: 2021-04-07T02:29:00Z
-    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
-    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+  - title: "CU-ICAR fast tracks self-driving cars with Deep Orange 12 project"
+    excerpt: "But in this race, only a computer is in the driver seat. And the ultimate winner? The autonomous vehicle industry. “Self-driving cars are the next grand challenge in automotive technology, but we’re still a ways away from an autonomous vehicle that can ..."
+    publishedDateTime: 2021-04-06T17:49:00Z
+    webUrl: "https://gsabusiness.com/news/automotive/80307/"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 18
+      name: GSA Business Report
+      domain: gsabusiness.com
+    quality: 24
+    images:
+      - url: "https://gsabusiness.com/core/files/scbiznews/articles/d34cd8df7c76e53a997027616d1e1b6e.jpg"
+        width: 540
+        height: 286
+        isCached: true
   - title: "Opinion: Regulators need the wheel with self-driving cars"
     excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
     publishedDateTime: 2021-04-05T02:10:00Z
@@ -153,15 +112,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 4
-  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
-    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
-    publishedDateTime: 2021-04-06T03:05:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
 
 secured: "tH/rK0TO0EXUhHDYduz0btC+QzxAqwvCgpWDKdAIYL7qjFT9Ykdo7WdwZZyZlzPzq1E02eg6Ll20vR6f1gII8bmcGrc+0pR0qawAQ8EnnrYwIQKnLr95q9me6ex45eVUmkKwz/WbWiYRvRI1NddraaBQdlEDd0FzU2EbTNHJUXKIATniCJWyiRZvEf5OiiUVWiUGV2SWB40vkhQc03hlKx+KWRYV3sABan2ipnJv0LfsVmCB9qUnGOmASmUAHWwHu2c+dQqmSKnzb7WrYAvIOd/seSlFXuoZgFad7kSyxk/8D3mVM9k8SOqN2QbPUWy9V9TNgtm42/oBF565qfSqz/fcGklAZI0a+mqPwpgFCNqmaa0i5ixBo6tDw44QI3oTwad793lRK8v01wpb3PA7gDAqsWQ0UQN2kAtdLMFQAUYut3kussSdxXny7VqLaO/n10j+4yRHCLM9Ogzt/fmCbtrqDSCyKPv+ULUb34eLq0anRsEmhQ31HHi9T6uL00UBmIjTWThi7vHgL43z+oYz3Q==;dT3CXveXstq625nREu6XrQ=="
 ---

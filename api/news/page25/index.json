@@ -2,6 +2,237 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-18-ibm-develops-artificial-intelligence-system-that-can-debate-humans.md",
+      "title": "IBM develops artificial intelligence system that can debate humans",
+      "excerpt": "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355",
+      "originalUrl": "https://www.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/441868",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp",
+      "publishedDateTime": "2021-03-17T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-servicenow-adds-ai-to-low-code-platform.md",
+      "title": "ServiceNow Adds AI to Low-Code Platform",
+      "excerpt": "It features expanded native AI capabilities and new low-code app development tools, designed to enable quick development of new applications by line-of-business employees. With companies constantly updating the way they operate, platforms such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/",
+      "originalUrl": "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2020/10/Servicenow.image_.jpg",
+          "width": 432,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-what-happens-when-our-faces-are-tracked-everywhere-we-go.md",
+      "title": "What Happens When Our Faces Are Tracked Everywhere We Go?",
+      "excerpt": "When a secretive start-up scraped the internet to build a facial-recognition tool, it tested a legal and ethical limit — and blew the future of privacy in America wide open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/18/business/18ontech-clearview-illustration/18ontech-clearview-illustration-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/technology/clearview-facial-recognition-ai.amp.html",
+      "publishedDateTime": "2021-03-17T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares.md",
+      "title": "New Research Reveals Publishers Missing Out on +67% Facebook Traffic From Reshares",
+      "excerpt": "LONDON, March 16, 2021 /PRNewswire/ -- Publishers who reshare their existing content on Facebook achieve 67% additional clicks on average, reveals new research published today by Echobox, the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares-301247242.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares-301247242.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456098/Echobox_Research.jpg?p=facebook",
+          "width": 2398,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-planning-a-data-analytics-career-here-is-how-you-can-be-successful-in-it.md",
+      "title": "Planning a Data Analytics career? Here is how you can be successful in it",
+      "excerpt": "A cognitive analyst uses tools ranging from ... himself/herself with managing spreadsheets, mainly through services like Microsoft Excel and Google Sheets. The skills one gains from such may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/in-focus/170321/planning-a-data-analytics-career-here-is-how-you-can-be-successful-in.html",
+      "originalUrl": "https://www.deccanchronicle.com/in-focus/170321/planning-a-data-analytics-career-here-is-how-you-can-be-successful-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-mfs2oogshlq0oaajt649582j41-20210317203259.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/in-focus/170321/planning-a-data-analytics-career-here-is-how-you-can-be-successful-in.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/in-focus/170321/planning-a-data-analytics-career-here-is-how-you-can-be-successful-in.html",
+      "publishedDateTime": "2021-03-17T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies.md",
       "title": "BrainChip Joins tinyML Summit 2021 for Ultra-Low Power Edge Machine Learning Technologies",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it",
@@ -938,238 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-the-fundamentals-of-facial-recognition.md",
-      "title": "The fundamentals of facial recognition",
-      "excerpt": "Face recognition can be done from a photo, video, or live capture. Face recognition is a broad term given to the process of identifying or verifying people in photographs and videos. The method comprises detection, alignment, feature extraction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/the-fundamentals-of-facial-recognition/",
-      "originalUrl": "https://www.embedded.com/the-fundamentals-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/PathPartner-Facial-Recognition-featured-image.jpg",
-          "width": 1379,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-nses-buying-spree-continues-with-investment-in-machine-learning-start-up.md",
-      "title": "NSE’s buying spree continues with investment in machine learning start-up",
-      "excerpt": "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
-      "publishedDateTime": "2021-03-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-startup-vizai-raises-71-million-in-new-funding.md",
-      "title": "Startup Viz.ai Raises $71 Million in New Funding",
-      "excerpt": "Viz.ai has raised $71 million in new venture-capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601",
-      "originalUrl": "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-312633/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-vmware-and-nvidia-team-to-deliver-virtualized-ai-workloads.md",
-      "title": "VMware and Nvidia team to deliver virtualized AI workloads",
-      "excerpt": "“AI is a full-stack computing problem ... of features in the latest generation of Nvidia GPUs like multi-instance GPU, which allows GPU cycles to be shared across multiple users.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/NVIDIAEnterpriseAI-UseCasesGraphic.jpg",
-          "width": 8000,
-          "height": 4500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-hearing-aids-optimize-sound-in-real-time.md",
-      "title": "AI hearing aids optimize sound in real time",
-      "excerpt": "A software update is coming to an ear near you. Whisper, which develops AI-enabled hearing aids, just announced that they've rolled out the first software upgrade to their Whisper Hearing System, AI-powered hearing aids that improve over time. If you don't ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-hearing-aid-optimizes-sound-in-real-time/",
-      "originalUrl": "https://www.zdnet.com/article/ai-hearing-aid-optimizes-sound-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/15/521621f4-61a1-4479-9daa-cc786773b096/whisper.jpg",
-          "width": 4800,
-          "height": 2700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/",
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

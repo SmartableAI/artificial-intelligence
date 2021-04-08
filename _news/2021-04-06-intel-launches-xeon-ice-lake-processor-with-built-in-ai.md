@@ -99,6 +99,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Intel’s server chips finally go to 10nm"
+    excerpt: "Partners show off new ranges Intel just officially launched its first server products built on its 10nm process node and its partners have issued their server-based products. The third Gen Xeon Scalable family of processors are based on the 10nm Ice Lake-SP microarchitecture,"
+    publishedDateTime: 2021-04-08T09:21:00Z
+    webUrl: "https://www.fudzilla.com/news/network/52655-intel-s-server-chips-finally-go-to-10nm"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7b389cce19a0a20867f31251ebd3fdfb_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Ice Lake has arrived: Intel launches 10-nanometer Xeon server chips with 40-core flagship"
     excerpt: "Intel is promising 74% faster AI performance than previous-generation chips and up to 150% faster speeds than rival Advanced Micro Devices Inc.’s EPYC 7763 CPU. The chipmaker reached the latter ..."
     publishedDateTime: 2021-04-06T17:12:00Z

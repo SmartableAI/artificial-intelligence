@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-marke
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05"
 type: article
 quality: 68
-heat: 218
+heat: 228
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
     excerpt: "New York, United States The report by Zion Market Research titled \" Artificial Intelligence in Diabetes Management Market: Global Industry Analysis, Size, Share, Growth, Trends, And Forecast, 2020-2026 Market Research Report \" presents a profound comprehension regarding the functioning and expansion of the Artificial Intelligence in Diabetes Management market on regional and global level."
     publishedDateTime: 2021-04-07T10:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2026-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
+    publishedDateTime: 2021-04-08T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
     type: article
     provider:
       name: MarketWatch

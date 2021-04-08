@@ -58,6 +58,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 48
+  - title: "China's Plus raises more funds for self-driving trucks"
+    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
+    publishedDateTime: 2021-04-06T09:38:00Z
+    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Self driving startup may go public - report"
     excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
     publishedDateTime: 2021-04-06T13:02:00Z
@@ -87,6 +101,6 @@ related:
         height: 600
         isCached: true
 
-secured: "VzlcnHo0rls1L2cVHcnAxG6ApXdL/mpiga46/JF4Siny0ATvTF3AUX9nxYi6BhI+K4faENw59sR8lBe+8TvBL5R/iTwnoNuP6CwbYfsl7VgMDa4+jLvG/ELEHEGxeP12rRb6dJWgLFxXE63qtLGpMOxaPZHrK4mgt5lLlucqS2pOjKocSlweRnq/J+QT/RL0nvK6yy6zVq9q6PoRO8I7td7fH9v5Lm1iCTuNJcBluYQ2uf5oqqGc8LUZ+crbGo84KwkPXHVnNcvny6bjaV1m+UZN8Pi7gjZQiqUppTT2g/8jCgdVDlOXemoZIYjx5jI4+ksrMdXZe6RtoSrJCuqFH2dyUsQkKGbnJBucT2+Gw2I=;y2grdIzVtrbcHbnIK2cURw=="
+secured: "AS0DorUpcPEhRW9XLy1jyrtv57dR92BQNVvcr9pwAXe4Jh8kk52Csj6MgOfKLLAB3oxxotPOmK72PH4dMXnxbrv0N8iZnpWm4G+qcetAQQAhPvL2hfXSjoUA5RwXjXaSXtEKvA/MRU+40zjktIvhF0jr7t2wlAAZR6SWzbqM4EAv0oUYwAQwm4+41wqoRX0mlKNGpKESsVFkxDMPMhv0tIWqiKdcXKuatLRY+YWpQcIMuDg3H0RBB/KZjgtxzaIZpcp/nBDzi5f/0au+oGvYfHcFquPIR80Sy8+uilPqCBHbyAzZV0XNA9AjsO99I6MV5lGHU+/h2KeXli97/JiIwKXvCzXlZ7FwWKcRt5gQjS9YY0mMM358wU70c7s5kNQAsQO4OhulYU8D1HguS2UUkEHIbNFA7Fwno958mCxPdAvSArGm6+QMGqruwpC6n+7PX0sQ1GSKqQUsLhXObd2ZJdseA7DZrkJvJAv1O+S1BmKRIHarPfglcGyce0FPAcGSyelGzej8ynNUYCcSAintZg==;7g/UXzBuu/s0qViOFm7XMg=="
 ---
 

@@ -2,6 +2,198 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-06-seeking-the-cellular-mechanisms-of-disease-with-help-from-machine-learning.md",
+      "title": "Seeking the cellular mechanisms of disease, with help from machine learning",
+      "excerpt": "Caroline Uhler blends machine learning, statistics, and biology to understand how our bodies respond to illness. Caroline Uhler’s research blends machine learning and statistics with biology to better understand gene regulation, health, and disease.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/caroline-uhler-disease-machine-learning-0406",
+      "originalUrl": "https://news.mit.edu/2021/caroline-uhler-disease-machine-learning-0406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/MIT-Caroline-Uhler-02-PRESS.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-chinese-robotics-firm-shares-terrifying-video-of-its-four-legged-robots-moving-in-unison.md",
+      "title": "Chinese robotics firm shares 'terrifying' video of its four-legged robots moving in unison",
+      "excerpt": "A user shared a clip from Chinese-based Unitree robotics firm that shows a squadron of four-legged machines moving in unison. The AI-powered, canine-like robot, named, Aliengo, is designed with depth perception, high explosive sport performance and an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/06/00/41377842-0-image-a-35_1617665700920.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "publishedDateTime": "2021-04-05T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience.md",
+      "title": "New Fantasy Feature Ups The Ante On The Masters Digital Experience",
+      "excerpt": "Aside from driving up fan engagement on the Masters digital platforms, IBM’s new fantasy game also serves to demonstrate the power of Big Blue’s hybrid cloud in action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b21a03f9b09bc331ac04a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "publishedDateTime": "2021-04-05T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
+      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
+      "excerpt": "Participants utilized Amazon SageMaker – a service used to build, train and deploy ML models for use cases – to build and train models for the event. During the finale, racers watched via livestream as their models, which were downloaded to AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
+      "originalUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG",
+          "width": 1460,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United States Navy",
+        "domain": "navy.mil",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-new-app-helps-prevent-skin-cancer-using-ai-and-ml.md",
       "title": "New app helps prevent skin cancer using AI and ML",
       "excerpt": "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily.",
@@ -858,7 +1050,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -1046,205 +1238,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-conversational-ai-platform-market-may-see-a-big-move-major-giants-ibm-google-microsoft.md",
-      "title": "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft",
-      "excerpt": "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "originalUrl": "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U405203353_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major",
-      "publishedDateTime": "2021-04-05T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-neo-banking-startup-stashfin-raises-40-mn-in-series-b-extension-round.md",
-      "title": "Neo-banking Startup StashFin Raises $40 Mn In Series B Extension Round",
-      "excerpt": "and agility in a startup team. Equally rare is a clear vision and great unit economics. The team has built extremely compelling bank-grade infrastructure in a frugal manner. The advanced machine learning and AI models can be scaled across various geographies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368583",
-      "originalUrl": "https://www.entrepreneur.com/article/368583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617599721-11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368583",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368583",
-      "publishedDateTime": "2021-04-04T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
-      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
-      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/EVyHjtXCueLKu0u1DCNzYopAafs=/1200x630/2020/09/24/ec6f03fc-1fda-4877-ab8e-12434a759b86/lg-wing-phone-7832.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "publishedDateTime": "2021-04-04T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-the-four-cs-of-ai-literacy-building-the-workforce-of-the-future.md",
-      "title": "The Four Cs Of AI Literacy: Building The Workforce Of The Future",
-      "excerpt": "The workforce of the future will require not just data scientists but broad AI literacy across all job roles. We define the 4 C's of AI Literacy - Concepts, Context, Capability and Creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a798a09d1c7dbc33f14d6%2F0x0.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
-      "publishedDateTime": "2021-04-04T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

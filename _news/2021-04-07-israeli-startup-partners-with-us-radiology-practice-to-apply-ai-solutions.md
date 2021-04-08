@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/israel-news/israeli-startup-partners-with-us-rad
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-startup-partners-with-us-radiology-practice-to-apply-ai-solutions-664383/amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US"
+    excerpt: "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ..."
+    publishedDateTime: 2021-04-08T09:49:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
     excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
     publishedDateTime: 2021-04-06T13:00:00Z

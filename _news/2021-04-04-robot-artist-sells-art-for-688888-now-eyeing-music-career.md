@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is the most famous robot creation from Hanson Robotics, with the ability to mimic facial expressions, hold conversations and recognize people. In 2017, she was granted Saudi Arabian citizenship,"
-    publishedDateTime: 2021-04-03T15:43:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Robot-artist-sells-art-for-688-888-now-eyeing-16074290.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
     excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
     publishedDateTime: 2021-04-04T20:24:00Z
