@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 8762330
+        "followers": 8772203
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1053857
+        "followers": 1054161
       },
       "yearFounded": 0,
       "locations": [
@@ -85,7 +85,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 250,
+      "heat": 326,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
@@ -117,7 +117,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 69843
+        "followers": 69886
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -177,7 +177,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 20848
+        "followers": 20854
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 65166
+        "followers": 65179
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -297,7 +297,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 17393
+        "followers": 17396
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -410,7 +410,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 5063
+        "followers": 5064
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -457,7 +457,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 9808
+        "followers": 9818
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -512,7 +512,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3834
+        "followers": 3839
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -554,6 +554,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 17260
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/voyage.auto.md",
       "title": "Voyage",
       "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
@@ -573,7 +611,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 10033
+        "followers": 10034
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -627,7 +665,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5547
+        "followers": 5546
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -862,7 +900,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 3140
+        "followers": 3142
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -915,7 +953,7 @@
       "twitter": {
         "username": "gatik_ai",
         "url": "https://twitter.com/gatik_ai",
-        "followers": 609
+        "followers": 610
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1021,7 +1059,7 @@
       "twitter": {
         "username": "AEyeInc",
         "url": "https://twitter.com/AEyeInc",
-        "followers": 1129
+        "followers": 1130
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1073,7 +1111,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 2163
+        "followers": 2165
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -1130,7 +1168,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 8860
+        "followers": 8870
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1244,7 +1282,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 2744
+        "followers": 2743
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -1371,44 +1409,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17257
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
         }
       ],
       "content": "\r\n"
