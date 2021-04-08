@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
 quality: 87
-heat: 287
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI scientist resigns after controversial ousting of colleagues"
+    excerpt: "The move comes after months of turmoil following the high-profile oustings of two AI ethics researchers on his team. Bengio, a 14-year veteran of the search giant, worked in the Google Brain unit that focused on deep learning and artificial intelligence."
+    publishedDateTime: 2021-04-06T22:51:00Z
+    webUrl: "https://www.cnet.com/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/BaDPTiuNWDd7HJ4tNZs3Lk1n4AA=/1200x630/2019/09/10/2d492ffa-1bfc-47a6-a2db-358c76182121/google-logo-7.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google AI manager resigns following controversial firings of two top researchers"
     excerpt: "In a statement on Facebook in the wake of the firing, Bengio said he was “stunned” by what happened to Gebru. After Gebru’s departure, Google reorganized its research department, slotting the ethical AI team under Marian Croak, a leader in the ..."
     publishedDateTime: 2021-04-06T19:41:00Z
@@ -45,6 +61,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/tZhVSfs38URjRdnbNHF3uhf7Yig=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Another prominent Google scientist is leaving the company amid fallout from fired AI researcher"
+    excerpt: "\"I also stand by the rest of my team who, like me, was stunned and is trying to make sense of all this. In particular the Ethical AI team, but also the broader Brain Research team.\" Gebru was the technical co-lead of the Ethical AI Team at Google and ..."
+    publishedDateTime: 2021-04-06T18:51:00Z
+    webUrl: "https://www.cnbc.com/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106613376-1594645689091googlelogowhite.jpg?v=1609771555"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
@@ -275,6 +307,15 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "Revered AI Researcher Samy Benagio Quits Google Brain"
+    excerpt: "(RTTNews) - Samy Bengaio, a team lead in Google's research architecture Brain, becomes the latest name to quit the foundation, since its controversial firing of ethics AI researcher Timnit Gebru in December 2020. Gebru was the co-lead in Benagio's team and ..."
+    publishedDateTime: 2021-04-06T21:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/revered-ai-researcher-samy-benagio-quits-google-brain-2021-04-06"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Another Google AI boffin quits"
     excerpt: "Artificially the most intelligent thing to do  Google research manager Samy Bengio has quit the search engine outfit over the firings of his colleagues who questioned paper review and diversity practices."
     publishedDateTime: 2021-04-07T09:47:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+    publishedDateTime: 2021-04-08T16:15:00Z
+    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Facebook dataset combats AI bias by having people self-identify age and gender"
     excerpt: "Facebook today open-sourced a dataset designed ... days of understanding fairness and bias when it comes to AI … The AI research community can use Casual Conversations as one important stepping ..."
     publishedDateTime: 2021-04-08T12:59:00Z
@@ -74,20 +90,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways,"
-    publishedDateTime: 2021-04-08T16:58:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_c6209b3da2f6a031f19d4ffc6d34a140-h_37d3273139ca2210d16ff84ac2f9fe83_preview.jpg"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "E0jdKnmg/IcwylwNfVaO6ZwGfz+XpzBY1h/MzbQ+H8pvQVM75ksc2g21GPVBV0C14YkQgg9RJbkdgVTSavm5dYQ9ttrb2CBvaybYDGhmB7dOHxioDmhl9mQHKAYUEl0kBGVxljs+cpcVfHV0JIsdxRkhMqXGeEsD4ILzEZQixM1bY1vOkI9mk3IJxUZr7JTturEC0leeRPQX2O6mUp5Sfo8eOb3wYdbUgKahY94UyPBbtQe/vQTB6Vpk/C6r1zn9X88vsW0aAW3Ok2sXVy3OMbH0AY0HHsaaXX64wjhVwdxEmI5fidoXLnH0U+MqG650Nq+2tda6aRuUaDFW4H+Pv2KjIbalqnKo6Y9Cy7sdzjM0rps0NbmeikoPJoef2lIHqcd/OZ7VOyvME6xGPzNqOMaKar5AAUjRNAZfw845cHepHDUDSyG6PhHgYIg0JYpI0wC0qbVUrktBXqBPKyy84Z+ijWDgzy7xADE+I/xLlDznwClfNGrAlSDh2iqhdRslHvCJ5DxHg3GTckIHxNxg2g==;/gc4x4316bTAv75XpKYFyg=="
 ---

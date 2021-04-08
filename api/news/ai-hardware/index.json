@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
+      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
+      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
+      "originalUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
+      "publishedDateTime": "2021-04-08T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-habana-labs-chosen-to-ai-train-the-voyager-supercomputer.md",
       "title": "Habana Labs chosen to AI train the Voyager supercomputer",
       "excerpt": "Artificial intelligence (AI) chip maker Habana Labs has announced San Diego Supercomputer Center (SDSC) selected it to provide high-performance inference accelerators and AI training for its Voyager supercomputer. SDSC’s Voyager, scheduled for release ...",
@@ -477,6 +529,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities.md",
+      "title": "3rd Gen Intel Xeon Processors Launched With Built-In AI Capabilities",
+      "excerpt": "the 3rd Gen Intel Xeon Scalable processor can offer 1.5 times higher performance on a mix of 20 popular AI workloads when compared to the AMD EPYC 7763 and can offer around 1.3 times higher performance when compared to the Nvidia A100 GPU. These processors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "originalUrl": "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/04/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities1-1617724313.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "publishedDateTime": "2021-04-06T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1354,92 +1449,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess.md",
-      "title": "US chip giant Nvidia to recruit 600 engineers in Israel to boost AI prowess",
-      "excerpt": "The US firm, which completed acquisition of Israel's Mellanox Technologies in 2020, already employs over 2,400 workers in seven R&D centers including in Yokneam, Tel Aviv, Raanana",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
-      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/-ומייסד-אנבידיה-גנסן-הואנג-קרדיט-צילום-באדיבות-אנבידיה-e1617007247895-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
-      "publishedDateTime": "2021-03-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
-      "title": "Fridges, Microwaves Fall Prey to Global Chip Shortage",
-      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

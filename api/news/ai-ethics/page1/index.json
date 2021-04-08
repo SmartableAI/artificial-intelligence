@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-google-ai-scientist-resigns-after-controversial-ousting-of-colleagues.md",
+      "title": "Google AI scientist resigns after controversial ousting of colleagues",
+      "excerpt": "The move comes after months of turmoil following the high-profile oustings of two AI ethics researchers on his team. Bengio, a 14-year veteran of the search giant, worked in the Google Brain unit that focused on deep learning and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/",
+      "originalUrl": "https://www.cnet.com/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/BaDPTiuNWDd7HJ4tNZs3Lk1n4AA=/1200x630/2019/09/10/2d492ffa-1bfc-47a6-a2db-358c76182121/google-logo-7.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/",
+      "publishedDateTime": "2021-04-06T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-regulating-ai-without-stifling-innovation.md",
       "title": "Regulating AI without stifling innovation",
       "excerpt": "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology.",
@@ -1391,58 +1443,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-the-departure-of-2-google-ai-researchers-spurs-more-fallout.md",
-      "title": "The Departure of 2 Google AI Researchers Spurs More Fallout",
-      "excerpt": "Two academics changed plans to attend an invite-only conference this week; a third says he’ll no longer accept funding from the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
-      "originalUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6050029af65a735f26384356/master/pass/business_google_1230739760.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
-      "publishedDateTime": "2021-03-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

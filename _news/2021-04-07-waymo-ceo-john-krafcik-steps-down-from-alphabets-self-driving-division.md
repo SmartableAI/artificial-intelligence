@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CEO of Google’s self-driving car spinoff steps down from job"
-    excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
-    publishedDateTime: 2021-04-04T04:21:00Z
-    webUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/"
-    ampWebUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "EYk6HrkWwlSMldZiCyKHBUXCNwuvJlAaPLAgh9Rgmo7qkTCkSl0bQJTMSuxfe+0bcr9L3VoX1iSthkCZZoIZhXdIK1c1JazrirGmliyhkaIw7865DrRkAgfwIBQpLaywM05RCP4EZiVE1YG3r7pVFPv+RyYFAUMYrGujLuI/EEN9c5DVZYgcGO/ntB9ASGSmSF/mBA7hqNSS570sIB0iIWwSdLRUJokyBlCxUVKT5Po5+1/m+A6OeFTr7kWNzZlycurhyaJaKWZT4/x/fTQAAYO//JHZwNFdCJ/KvgBDN2KERNbo230gn+UIYE/QsGMrTBeY/uda9vmgqdtpcdbh2DibkzewRqN8PaLXhT3PzNCw1RBWIkobIiFesKNhS/RM9qqjHKWqkTRwJNQQJWfwV7IS9TROWkNTqBcfO+jVY+ih449wz90V1/1f9McHLJ7jqfLOfDpcMjvtaznLCWnq8ak5VbPIJIAxcbUZ9EcvNcX04S344jy32u3wMtI/e/hTb3v87hgjpzAxxcnI9Yun9g==;IUi5VUR3IzIGHGI/Ng/ceA=="
 ---

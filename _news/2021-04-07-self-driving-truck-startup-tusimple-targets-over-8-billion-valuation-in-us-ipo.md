@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Self-driving truck startup TuSimple targets over $8 billion valuation in U.S. IPO"
-excerpt: "(Reuters) -Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). TuSimple is the third company to announce plans to raise more than a billion ..."
-publishedDateTime: 2021-04-07T16:44:00Z
-originalUrl: "https://www.reuters.com/article/tusimple-ipo/update-2-self-driving-truck-startup-tusimple-targets-over-8-bln-valuation-in-u-s-ipo-idUSL4N2M02WT"
-webUrl: "https://www.reuters.com/article/tusimple-ipo/update-2-self-driving-truck-startup-tusimple-targets-over-8-bln-valuation-in-u-s-ipo-idUSL4N2M02WT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1N1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1N1"
+title: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO"
+excerpt: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday, as companies continue to tap into the red-hot U.S. IPO ..."
+publishedDateTime: 2021-04-07T12:37:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -51,6 +49,6 @@ related:
       domain: nasdaq.com
     quality: 32
 
-secured: "ExTpLC5NpwL34WwUJ8kTMeQ3Tjxs9MRSx/q8DZufzmSEYKd8oqt4AZYNt08s9Q8zyHxz3R6QQ+YbGS7hVGObgilAod7P6ZGP4Eu/KXj+zaxszatVmzMj+in2OOogp0oQWZcSyHzCYaSpAYK43/ztXl/gwdUku3j9gacJlPOevrC45XtGpUmrmuI84EH+QIBn02L1Q7QNAi2biGl0yTkOihAspvsdzPEb4MxpEuzkErQC/no/VxB/qDqFopu1FIW5mazYATtF0hJJFGMwcray1Mqm1NDuELxlfVfEWuDeNsY4Xky+5gdCu/B4TkgNqqvWeay7gP/dCDarmxVc+TkkyMdzdvqOzv6bAwoEPU0kYWg=;1rfVHpPrvD/ZewSkvlEg5Q=="
+secured: "qN7+LvE79CIuzipstiGakpyoDqqP9UXPDVutSPa6zJaoszkS3UsDqoLpIga7I2kt4BxuXVz1EVv2gqphDAMKpWqDn2HRZtmYTO0Wk7gYIfxWwnYEy6WNrPiMDc2r4O0mBM61K3YaC+H14I4T4E0oJ5I/uKqz8xCe+vU4swZzHYXQnnp6e/oZZkTJRLpdT4prghLzbdFdghTH1fAvHZatElA90GRL3EaF/Qifql8XD2h5jn5HXS3aZuoHisKobst+MPl6sYQzgmpWvV2xtH+e3mQ+WiB1IIdGzB6oVBvSyROGoLF/vTKirW0rbtUGLNaDW3dctgKXZnVp8gSDRt3hehB52Mc34p5Ww9RQSPrzN0g=;yILUBh65cWWrmUUxwef6dg=="
 ---
 

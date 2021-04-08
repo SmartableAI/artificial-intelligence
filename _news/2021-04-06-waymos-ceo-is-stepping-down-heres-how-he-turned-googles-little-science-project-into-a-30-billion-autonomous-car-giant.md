@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CEO of Google’s self-driving car spinoff steps down from job"
-    excerpt: "SAN RAMON, Calif. (AP) — The executive who steered the transformation of Google’s self-driving car project into a separate company worth billions of dollars is stepping down after more than five years on the job. John Krafcik announced his departure as ..."
-    publishedDateTime: 2021-04-04T04:21:00Z
-    webUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/"
-    ampWebUrl: "https://www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ceo-of-googles-self-driving-car-spinoff-steps-down-from-job/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "ZYw772vrPHMhXivEirtzet/+O0bi1920rKEmkUDDoKYWiiwSbmsxJ+k+bY2PBeBw5Kpv66O+MJs3M5Bm4aZmILU3RvmBteT5d8F1YU7b6b5+PvKx0x8OXF8Vznof0KugpcuXqU1fYV1F144sUaT7dbEP9TqVbAQmEfD8mT46CMxuQeR6QylzfDbGbQgqZ30VVsCfAHExAyBcdh0Xrms9tr+uyRccqJu/T6o7mPKh+u+bPfV4XyClTrdAsPJYzbGfrKF6FdqpfN5PDIaV/7p9rzBl7lzbKKn1OLBAGUm8pXjifR+tVIyMLyVlkKZ82ed3DM84Hf+rCkvHaG7ROpZGuDMZOn+ZHE87D9YDISihKtw=;/SyDxrwSBZiYypVufIjQEw=="
 ---

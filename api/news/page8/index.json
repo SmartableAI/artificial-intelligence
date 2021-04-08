@@ -2,6 +2,169 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
+      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-hawkai-selects-backbay-communications-as-agency-of-record.md",
+      "title": "HAWK:AI Selects BackBay Communications as Agency of Record",
+      "excerpt": "HAWK:AI (Hawk AI GmbH), a global leader in real-time Transaction Screening and Monitoring solutions for financial institutions, has selected BackBay Communications as its U.S. agency of record. BackBay is an integrated financial services public relations,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-superhuman-the-future-of-email-or-a-monumental-waste-of-money.md",
+      "title": "Superhuman: The Future of Email or a Monumental Waste of Money?",
+      "excerpt": "I've been using Superhuman, an invite-only email client Silicon Valley startup owners swear by. With a wait list that's 250,000 users",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2217-superhuman-email/",
+      "originalUrl": "https://www.techspot.com/article/2217-superhuman-email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2217/images/2021-03-24-image-3.jpg",
+          "width": 2089,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2217-superhuman-email/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2217-superhuman-email/",
+      "publishedDateTime": "2021-04-01T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-global-sanitization-robots-market-is-expected-to-grow-at-a-cagr-of-34-from-2020-to-2028.md",
+      "title": "Global Sanitization Robots Market is expected to grow at a CAGR of 34% from 2020 to 2028",
+      "excerpt": "Introduction of advanced autonomous robots powered by cutting-edge technologies such 3D mapping, artificial intelligence and others are anticipated to boost the growth of global sanitization robots market in future years.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them.md",
       "title": "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them",
       "excerpt": "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ...",
@@ -1060,204 +1223,6 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ai-champions-driving-new-industry-solutions-for-climate-change.md",
-      "title": "AI Champions Driving New Industry Solutions For Climate Change",
-      "excerpt": "Moreover, with Climate AI Champions in the picture, these innovators could provide the right solutions we need in the fight for survival and growth. The climate change crisis is real, finding quick and affordable solutions is an urgency, and AI can play a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606498925b677d282a0db79e%2F0x0.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
-      "publishedDateTime": "2021-03-31T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-virginia-lawmakers-ban-police-use-of-facial-recognition-technology.md",
-      "title": "Virginia lawmakers ban police use of facial recognition technology",
-      "excerpt": "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
-      "originalUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.delmarvanow.com/amp/4819349001",
-      "cdnAmpWebUrl": "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001",
-      "publishedDateTime": "2021-03-31T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DelmarvaNow",
-        "domain": "delmarvanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-fact-checkers-and-googleorg-are-fighting-misinformation.md",
-      "title": "How fact checkers and Google.org are fighting misinformation",
-      "excerpt": "Misinformation can have dramatic consequences on people’s lives — from finding reliable information on everything from elections to vaccinations — and the pandemic has only exacerbated the problem as accurate information can save lives. To help fight the rise in minsformation, Full Fact, a nonprofit",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/full_fact_presentation.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
-      "publishedDateTime": "2021-03-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
-      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
-      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

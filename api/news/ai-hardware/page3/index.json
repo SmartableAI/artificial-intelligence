@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds.md",
+      "title": "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds",
+      "excerpt": "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
+      "originalUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/baidus_ai_chip_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20188295",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20188295",
+      "publishedDateTime": "2021-03-16T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
+      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
+      "excerpt": "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation. The plan is still at an early stage and the company's focus is on Arm-based server-side chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16",
+      "originalUrl": "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
       "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
       "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
@@ -1391,111 +1469,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything.md",
-      "title": "PS5 and Xbox Series X out of stock? How a global chip shortage is 'impacting everything'",
-      "excerpt": "Cristiano Amon, incoming CEO of chipmaker Qualcomm, warns in an interview with CNET that the shortage may not end until late 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
-      "originalUrl": "https://www.cnet.com/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/dt5fQ0CXBRZ6uzNv7F5r480pqrE=/0x52:953x585/1200x630/2021/03/04/ea11d43d-dfa1-4b98-b35e-1ba2a2a20179/cristiano-amon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
-      "publishedDateTime": "2021-03-04T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter.md",
-      "title": "What If Media Group introduces AI tool to make marketing campaigns smarter",
-      "excerpt": "What If Media Group's new tool promises to improve marketing campaign performance through the use of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Marketing-tech.shutterstock_311883674.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
-      "publishedDateTime": "2021-03-04T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

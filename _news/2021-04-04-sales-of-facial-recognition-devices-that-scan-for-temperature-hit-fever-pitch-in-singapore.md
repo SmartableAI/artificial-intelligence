@@ -40,6 +40,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Body temperature-scanning facial recognition device sales boom in Singapore"
+    excerpt: "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times."
+    publishedDateTime: 2021-04-08T20:45:00Z
+    webUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "LgTwjtxpFPBRWgg3Ecv0NuaRfsoMrx12GWTpRVSwnSyHtCwLJ5LsRvx0yVP0BTG8Gi7zsGNbda5lLDQESS8D+KxgIElSiVs0U5aTN0ZnqeiN8ef78z/TzU3rJbanUQwq5sBwq8h69f5GcQzCaB9jd7upDLmWOwsAB3h6A76QTE5P5jKEcOWYKrJ3LeoaCW7CL4E7zfgt7PPNhgrPjZWI5jpddgLeDyC1FEurvay5vcuMoM+dBVFV3E9hsgD9xwBlUkdrEmvHBvgXb69bdZ/hNLhhR2sp85CMlmVca5WIVCE1IkX/kG6zUVsHNleuXTJlt/7wWUHn0ptsC7MQAupw87Cr2upX/fONKMcCZdmsyNQ=;cRTyWTk/hg7+r17wh7tarA=="
 ---

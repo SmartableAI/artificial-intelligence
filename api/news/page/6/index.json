@@ -2,6 +2,186 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-05-the-four-cs-of-ai-literacy-building-the-workforce-of-the-future.md",
+      "title": "The Four Cs Of AI Literacy: Building The Workforce Of The Future",
+      "excerpt": "The workforce of the future will require not just data scientists but broad AI literacy across all job roles. We define the 4 C's of AI Literacy - Concepts, Context, Capability and Creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a798a09d1c7dbc33f14d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "publishedDateTime": "2021-04-04T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-parties-use-data-analytics-ai-to-understand-voters-preferences-in-kerala.md",
+      "title": "Parties use data analytics, AI to understand voters’ preferences in Kerala",
+      "excerpt": "Though bulk SMSes and recorded voice calls remained in use, political parties, aided by IT firms, used data analytics and Artificial Intelligence (AI) for analysing voters’ minds and the character of a constituency. AI is a machine’s ability to think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
+      "originalUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/4/5/w600X390/Partiesaaa-.JPG",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
+      "publishedDateTime": "2021-04-04T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-sales-of-facial-recognition-temperature-screeners-soar.md",
+      "title": "Sales of facial recognition temperature screeners soar",
+      "excerpt": "It switched to importing and selling facial recognition temperature screeners, which saw a steep rise in demand. The company's business development manager Jimmy Lim said: \"We saw a huge need for non-contact temperature scanners during phase one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-temperature-screeners-soar",
+      "originalUrl": "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-temperature-screeners-soar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/05/st_20210405_vncafe1_6445289.jpg?itok=hm2Pf2KS",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-hong-kong-robot-sells-art-for-688888-and-is-now-eyeing-music-career.md",
+      "title": "Hong Kong robot sells art for $688,888 and is now eyeing music career",
+      "excerpt": "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
+      "originalUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280",
+          "width": 1280,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
+      "publishedDateTime": "2021-04-04T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021-price-range-self-driving.md",
       "title": "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving",
       "excerpt": "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,",
@@ -1013,211 +1193,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation.md",
-      "title": "Five Things To Consider When Choosing AI-Driven Proptech For Your Multifamily Operation",
-      "excerpt": "Elik Jaeger President & CEO at SuiteSpot Technology, frictionless facilities management PropTech for multifamily operators. Many multifamily operators are still making important decisions about property operations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606615d9264f96883f69916a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
-      "publishedDateTime": "2021-04-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
-      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 \"Best in Intralogistics\" certificates",
-      "excerpt": "Stock quotes by finanzen.net SHENZHEN, China, April 2, 2021 /PRNewswire/ -- HAI ROBOTICS ( pioneer in autonomous case-handling robotic systems (ACR systems) has received two \"Best Intralogistics\" certificates from the world-renowned IFOY AWARD,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1480252/Carton_picking_ACR_HAIPICK_A42N.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it.md",
-      "title": "Italy messed up its startup ecosystem this week — here’s how we can fix it",
-      "excerpt": "Startup legislation struggles are slowing down ... automotive-of-the-future enthusiasts, and AI wizards, and that perhaps, in the haste of the moment, tried to provide a platform that had more ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
-      "originalUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/milan-italy-gq-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
-      "publishedDateTime": "2021-04-02T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
-      "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
-      "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
-      "publishedDateTime": "2021-04-02T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

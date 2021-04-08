@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-29-us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess.md",
+      "title": "US chip giant Nvidia to recruit 600 engineers in Israel to boost AI prowess",
+      "excerpt": "The US firm, which completed acquisition of Israel's Mellanox Technologies in 2020, already employs over 2,400 workers in seven R&D centers including in Yokneam, Tel Aviv, Raanana",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/03/-ומייסד-אנבידיה-גנסן-הואנג-קרדיט-צילום-באדיבות-אנבידיה-e1617007247895-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "publishedDateTime": "2021-03-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, Microwaves Fall Prey to Global Chip Shortage",
+      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
       "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
       "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
@@ -1363,84 +1449,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds.md",
-      "title": "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds",
-      "excerpt": "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
-      "originalUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/baidus_ai_chip_1.jpg",
-          "width": 2080,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20188295",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20188295",
-      "publishedDateTime": "2021-03-16T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
-      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
-      "excerpt": "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation. The plan is still at an early stage and the company's focus is on Arm-based server-side chips,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16",
-      "originalUrl": "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
-    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
-    publishedDateTime: 2021-04-05T22:31:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "How Financial Brands Can Use AI and Data To Offer More Personalized Services"
     excerpt: "These advances promise to enhance security, optimize operations, and improve customer service. This is why 80% of banks highly anticipate fintech’s AI advantage. But how will they put it to work? Incorporating emerging technology is nothing new to the ..."
     publishedDateTime: 2021-04-06T13:22:00Z

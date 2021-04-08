@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-08T18:58:00Z
 originalUrl: "https://www.itbusinessedge.com/cloud/compare-top-cloud-providers/"
 webUrl: "https://www.itbusinessedge.com/cloud/compare-top-cloud-providers/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Cloud-Computing.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 915
     isCached: true
 
-secured: "CWPaE2dtsAvwAI+155WVkWcaBPaGFXThRALNZH6N/yABsTaf8xCg3ZQmTjDI7CUq1fVXE99IJW+T4GZa7RtGPflxFa9VePOmVQ9Y2+IIVE+OV3thh+2e+ruRX2QKGAs13Iu5Ixc2MVSxg5CkISfAKFL6uH6RuMW2/4VPiaKl/7NcpUgHUZQq29V6nqp30H//xR1kOaEu2gzPuLCS3MusGh3iUsYzztE8jSzW3wzdSGHNoYrZMnhI5rPOdyPKNWynUDLv15inFhU79VE5JpmAW9Yb86pxmSnROFShn8euMf9SsiCVdSUOfBUntHEN1nzsDZTLqBvcD5UGmLF9EuzLeDXo+uE3cO/+dBwG3uiC0Lc=;roWm42hDP+nfFU1AYmahZA=="
+secured: "gJD2h8UX4wVlGturFia6cvHeN/BMuLFiHQ7eRU/pB+LJZdNCCYBXIIdLKacROcM8y3Gq1MZUIhzVwDSVKZxiSGW/hmaVwefn5oHylab+C+vsDdH1iV03jlhn5n3YGx7wtCS/G8JbU5xram4zWYEama634e3rx3iYIc+doK1N49DXc9hCbsPSDnzJXjct3adKFjHdSxcAC1xXYc021VrpNI+Lr/bNBbTczfwy7QSvIjqPsv/nrTfKZZ9ttjUjkd6Nqz54xmTzNFJwyBzYRktUATfVWpv2zCzz9yRT3H73htDt3tAps5CSToctyGtMNNr8UT2XgYh0X716ylkCJISwHRTRJSKIzWmwUhDwvbc4laNPnCfh2UmIfdDc1xojXQjadRWVIyrxRiux9bagM3uGCEQlTZ0dW5+v0RKPSUnwgyPZcre0dvpvitrkcvvl3BhgsyJgKiv6T4SVSBEQWyhf045a/hOB+HYeFEgtHEvqwpeT/LPdT0bXiWI+ppkUdtLJ9vYwboodRBkAMSV7V1KACA==;UeIYn0HA9S27zoyWC2t5rA=="
 ---
 

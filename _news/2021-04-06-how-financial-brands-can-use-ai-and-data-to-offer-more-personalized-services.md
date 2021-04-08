@@ -7,7 +7,7 @@ originalUrl: "https://dataconomy.com/2021/04/how-financial-brands-ai-data-person
 webUrl: "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
-    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
-    publishedDateTime: 2021-04-05T22:31:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "Expert.ai and Fincons Group Extend the Use of Natural Language in Insurance and Financial Services via APIs"
     excerpt: "Fincons Group increases its support of the digital transformation within financial services, enhancing its offering for banks and"
     publishedDateTime: 2021-04-08T12:00:00Z

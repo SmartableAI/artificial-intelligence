@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/tag/3rd-gen-xeon/"
 webUrl: "https://insidehpc.com/tag/3rd-gen-xeon/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "AMAX Deep Learning and Security and Storage Appliance Platforms Incorporated with Powerful Intel® Xeon® Scalable Processors"
-    excerpt: "AMAX, a leading provider of server appliance manufacturing, turnkey enterprise rack-scale High Performance Computing (HPC) solutions and"
-    publishedDateTime: 2021-04-06T15:00:00Z
-    webUrl: "https://prnewswire.com/news-releases/amax-deep-learning-and-security-and-storage-appliance-platforms-incorporated-with-powerful-intel-xeon-scalable-processors-301256644.html"
+  - title: "3rd Gen Intel Xeon Processors Launched With Built-In AI Capabilities"
+    excerpt: "the 3rd Gen Intel Xeon Scalable processor can offer 1.5 times higher performance on a mix of 20 popular AI workloads when compared to the AMD EPYC 7763 and can offer around 1.3 times higher performance when compared to the Nvidia A100 GPU. These processors ..."
+    publishedDateTime: 2021-04-06T15:57:00Z
+    webUrl: "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1091082/AMAX_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
+      - url: "https://www.gizbot.com/img/2021/04/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities1-1617724313.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers"
+    excerpt: "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ..."
+    publishedDateTime: 2021-04-07T20:05:00Z
+    webUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 53
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
         isCached: true
 
 secured: "wC80pnF+8NaIBzY75YkLjbpuMD5glK2YbPlOHGqw2Yys+Yeudi76hIkpujGa3jP6ZrWHsFYv8GWwDDf5WDZQw3DiMszwhtU0Yp02muMDOtwf+8I0bCpB24cQOI6dbrSM7TcdZXZi4AIPTcqgIkfPcXUBi9dMod8I5pB/eGCxiyj4+vqltH812H7mRvIao3UwWRbQA9E6TJA/A/k93H0cFe7C2ccejP0C7Hqasyk9b35JS7ZkzngH9L1xeQJwVivSwvtzhdGjXWQRZUgBQ/cUJPpwt4HyHFv5SpwqChEpUif7d+sNro017WberUd50faw3UxgBcTN6289py7aHPw3kyzn1Tg+4VpzVbRvDfW3WoM=;rqe/7u4DzKiEu6z5vA0Ctw=="

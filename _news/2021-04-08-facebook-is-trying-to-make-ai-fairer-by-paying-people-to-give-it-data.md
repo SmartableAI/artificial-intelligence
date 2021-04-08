@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways,"
-publishedDateTime: 2021-04-08T16:58:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
-webUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
+excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+publishedDateTime: 2021-04-08T16:15:00Z
+originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_c6209b3da2f6a031f19d4ffc6d34a140-h_37d3273139ca2210d16ff84ac2f9fe83_preview.jpg"
-    width: 500
-    height: 281
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -85,6 +90,6 @@ related:
       domain: zdnet.com
     quality: 52
 
-secured: "e1nuE5zaSkn5PYsx7ojqOeiUQ3Hx/5OpwkLsQVpZb6KBPFo8ddfGoXwWkeuxvGPiI61KhlnPvW2hMDBgqQFQFYYsIr7qqeQ8JxqkbYPpr0ZeUyyaIA/1RTGWS2OoUd8G/Q4jjrjGKbeXdaSb88xVC6NkjkCfKkdEnOU0SKKatTTIwrOh+Mm4z/X4kFsbgmLX55cE036pK4FD3gWtfdvHIeqSEu8u0BQ8WEztZ1TbAX7i1JMMIRAnhfT5K3rlPHo3iIMxPk7hoO8Qla99hFjHnTyidj41AFFaFoV65y/xdTUyFTO86kjfBAEyDhVGdFmXj/d6E4imqR2dlhBVa11PzY+nf2Xa5UOUoVZ1a+4jU44=;CV/Je7GE2fgxxAqrCvW+6w=="
+secured: "u/qU4cZUPMGzkDlGvSEUZE3/BRKNRrcAzrnF14DIM5ES4u1/l450jW/qCcMhqyHbDP5vHVfu46fTBnnAiZap8+gGx6n5Fs6kNTcv/Szvm95o9b6iWcMBxjiWltFrwpiPeKiHvRTodLig7ELja9akJI/gY3oOxMXXMNNF0krZ64acbOio6nDERhPCD4Yj8UjTYQ4EkWbExaXD0IjdOCaqzJdio/7grOOJP9rI2uJRZyUufM/AOR9XzQOVIfpFK4qNRPh5O+PVWUr6Z0AlEwuJmUXIcRyil6s7l8OykgT2AJ0eQ2V3lUZD93Y/C7UGE1DVULALsWjwRiw3YPJwxNH3B7+rR9P+LjLzyFF41orfx2A=;D1334Dtw0mfwZxCLmC/lTA=="
 ---
 

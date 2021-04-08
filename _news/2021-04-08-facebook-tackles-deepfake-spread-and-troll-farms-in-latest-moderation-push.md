@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+    publishedDateTime: 2021-04-08T16:15:00Z
+    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Facebook dataset combats AI bias by having people self-identify age and gender"
     excerpt: "Facebook today open-sourced a dataset designed ... days of understanding fairness and bias when it comes to AI … The AI research community can use Casual Conversations as one important stepping ..."
     publishedDateTime: 2021-04-08T12:59:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://images.wsj.net/im-322079/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways,"
-    publishedDateTime: 2021-04-08T16:58:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/08/facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_c6209b3da2f6a031f19d4ffc6d34a140-h_37d3273139ca2210d16ff84ac2f9fe83_preview.jpg"
-        width: 500
-        height: 281
         isCached: true
 
 secured: "oBqjIPpAsQepZlioFe9Rmp+OxLFqlc7Bd9fNALtLUpJ1sDcaOhrP/hpvcdWwC/kM//3io5gvBzbZ2GiAE6qhVbfNloBvQJpTe07vo08NQZg3bHcSg8QdlOycH9CAQDBhjp0N757/EuwvBfUQco776BWY/h6R7Y3t1zVaoTbE/ExkjLjC1v9Ei7rdy4r2eBNpCTLXWabIFnqok6O5+nE1+SKUPa6sZf3Fb0HOalw1luFVK4i+E8tj1SgEW4k0DrLdnNXU01aApXYhyACDsjOnFCfchMx0JkcueJTpVrfiM/HTLj2ddjtTTuAni8TKzXrHCUVWctRPsi5XdLdigvRf0Ghh7Mz7/D3tidoIiQJyeKs=;mtL8gRld0lSvLVAFrbjkCw=="

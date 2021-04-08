@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
-publishedDateTime: 2021-04-08T13:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
+publishedDateTime: 2021-04-08T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
+    width: 800
+    height: 286
     isCached: true
 
 related:
@@ -87,9 +87,9 @@ related:
         height: 300
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
+    excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
     publishedDateTime: 2021-04-08T18:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
     type: article
     provider:
       name: Associated Press
@@ -199,6 +199,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QEqSIaB9abkIOU4A63wHeDFD75TG51hORS1AN4QYShcVGAK7ZdT0yebSs6D+H9493oeyV8po4LrybSNad8G4zMfJfE5bD68z3oA9V+gBurlU20wwK+1zQhF4OtXZwz3+hqtxbHE3jNmOy/9f/lpHskD2ctv1j3JuGwmV6bO1oX29j74V6N0qwXuuRM9JIouJ6gct5g7cZb49LndriWnhRriXjF/wiRv5xfbB+oezOsvLGnP5qFzY9WzyUNGIbIq4tNCqLbgDJFaE2V0c6SqOWrYCSAmFYuvZ9UB82b73n6o7zw+fhkvNFfFN7ZmjBpKunfbnzEq2dFa6G+KUuDDPvxvz7mj7jphgwtbPKLq7s7E=;ssoKlGj0yCnlAC4QyvIlGw=="
+secured: "hGQk55gNZVotM+N7fOBx8z9D4fE300ZkeSq2QXmiwfS2zoC/yjgYE/qnQjwv1MVt9Yg0646ljo0C1uCRVdj8OERtV7YqargQdZ4L0Gy1mp81PVVvM1pJkCy5WoYyxYpxHCtDjtKiTpv63dqRfEwARXZEQDRnR2ODx4LaLLIJi/+X9KvaW+4+LyA4d8kHll67nEDVzVhPBNs7CFMjYq6bVmQDKUZvwP8bch1LbDA4ahRvdI0YAwZIzg8iEqu3HzNMdxeEFL698iqpWnDAcS7qj6ES7s0f14haarpyTKRNkbQw5EhDR1tgj0K0pbYMYCLOPsbIog4BNkCP1cRXjpTPyV/lQJ49mpJdAmXyeSjRWBw=;t286rJJQTAmWsk56BiWxOA=="
 ---
 

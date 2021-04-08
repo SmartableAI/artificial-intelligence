@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-f
 webUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-temperature-screeners-soar"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Straits Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Body temperature-scanning facial recognition device sales boom in Singapore"
+    excerpt: "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times."
+    publishedDateTime: 2021-04-08T20:45:00Z
+    webUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sales of facial recognition devices that scan for temperature hit fever pitch in Singapore"
     excerpt: "They switched to importing and selling facial recognition temperature screeners, which saw a steep rise in demand. Please subscribe or log in to continue reading the full article. *Terms and conditions apply. Join ST's Telegram channel here and get the ..."
     publishedDateTime: 2021-04-04T06:41:00Z

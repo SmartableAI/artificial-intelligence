@@ -2,9 +2,9 @@
 category: news
 title: "Crypto Investor: Coindex Capital Launches 4 AI-Driven Funds to Grow Your $100,000 Investments"
 excerpt: "AI hedge funds have picked up a lot of velocity ... although they declined to say how much – into each of the strategies and will cover the startup and operating costs for the first year, said Shareef Abdou, Coindex director of strategy and finance."
-publishedDateTime: 2021-04-08T17:08:00Z
-originalUrl: "https://www.thestreet.com/crypto/aricles/crypto-hedge-fund-articial-intelligence-coindex"
-webUrl: "https://www.thestreet.com/crypto/aricles/crypto-hedge-fund-articial-intelligence-coindex"
+publishedDateTime: 2021-04-08T21:04:00Z
+originalUrl: "https://www.thestreet.com/crypto/articles/crypto-hedge-fund-articial-intelligence-coindex"
+webUrl: "https://www.thestreet.com/crypto/articles/crypto-hedge-fund-articial-intelligence-coindex"
 type: article
 quality: 26
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LRrp8hQ0pjYl7H7d6HUcMap4urgJWpfGZDC4tax6zmiVAgWNTSijk/j/yXWpOBct8LtQd9WV1MN+X+MNcVG2VIY3ZtteCd1gT8Ov1ltYeKa9fKwAEBKC+BkUJxJwKeqIzuCfL9mqRahAq8iz0lzb+w4govsAIYiqPig1soDBdScfb5a2vptOXLDqTCQjaq9MlylksCtpuodYBEPFq9h2ww2pDmVQf48HJFES4Yx/gQhT9d+c+bMZgTMDNsgJ5PpF74u6jlvZVQejVAApps1+aoOjK0opmmMLeMXlKBRZlgiqc6udXdn+aGwRxNgixcz/VvZ9eBQshCYBiuJjelloQ6EZv6aURNGuKVKDLYr7+pgmE710Wb4PkISWNz3VYLyMQXyIpREKKOuvhXoHRXHJizK5U7nlRElMkObRvDUze2/B2OR3VkvrY41dBhJql10jdHCxBMk6moNqPWY8K7Qn5Kp9aSrLhPJGiMhGg4gF+yQXrJ9y72vZrTlANx0Omi/OKddyqQ3qz6ClaWkmJnvb+A==;ii3P9r+VaxHYYUEvYhJMwg=="
+secured: "YyEd+uPQV2tfH6VRCCDwGpjLM1MPZ21QaJ0kzTrgrafe/622W+aKTUrpv9rV6NNMMhYGD5qe0rGo5NwYlJsJkMh4uDwn+usLetrZBTuItjvvX4Ni8TOiZXtEWdlnshyFxq6XbLT+Lpc1GghElFudp71PypyKgqCgZFbyQayMmnOYFJPuQrmOL1OkzkL3BHhU6KNV1NBtrl8XcrAsOf3EnoVHKdF/vsB3T/9rsCHgbZmDB7DUutlThrqeX/Msam9ON2LzXzCwVUrMx0p5D1mY791u82hJK2XcFh+Ke+QraQpzhYadCCoV1MoRImkIdbGz629gQ0/yUGu9KjImF2IRj+rPyq4YYchy/RhaAUDHZxM=;9VpBIEp+swu7oXMPWu/UOg=="
 ---
 

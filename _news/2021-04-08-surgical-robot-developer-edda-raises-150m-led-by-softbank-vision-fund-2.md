@@ -36,6 +36,22 @@ related:
         width: 4724
         height: 2969
         isCached: true
+  - title: "Computer Vision Firm Trax Collects $640M in New Funding"
+    excerpt: "Trax, an Israel-based technology firm with ambitions to digitize retail through computer vision, has secured $640 million in new funding. The Series E financing round was led by SoftBank Vision Fund 2 and technology-focused funds managed by existing ..."
+    publishedDateTime: 2021-04-08T20:16:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-trax-collects-640m-new-funding"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-trax-collects-640m-new-funding"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-trax-collects-640m-new-funding"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 59
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/shutterstock-shelves_1617902941.jpg?QkPw9aRyMWhRr6ilVRwLxEJlAWMvxXgg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "AI-powered Social Media Analytics Company Circus Social Raises $1M"
     excerpt: "Shah said, “Plain vanilla social marketing is passé.” The company’s recent numbers have proven its mettle in having a core and comprehensive understanding of AI and its use in social listening, making it a good opportunity for IPV to invest in the ..."
     publishedDateTime: 2021-04-05T07:05:00Z
