@@ -71,22 +71,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Scientists create online game to show risks of AI emotion recognition"
-    excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
-    publishedDateTime: 2021-04-04T06:12:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html"
-    ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
-    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 59
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
     excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
     publishedDateTime: 2021-04-05T10:48:00Z

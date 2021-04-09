@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO"
-excerpt: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday, as companies continue to tap into the red-hot U.S. IPO ..."
-publishedDateTime: 2021-04-07T12:37:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
+title: "Self-driving truck startup TuSimple targets over $8 billion valuation in U.S. IPO"
+excerpt: "(Reuters) -Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). TuSimple is the third company to announce plans to raise more than a billion ..."
+publishedDateTime: 2021-04-07T16:44:00Z
+originalUrl: "https://www.reuters.com/article/tusimple-ipo/update-2-self-driving-truck-startup-tusimple-targets-over-8-bln-valuation-in-u-s-ipo-idUSL4N2M02WT"
+webUrl: "https://www.reuters.com/article/tusimple-ipo/update-2-self-driving-truck-startup-tusimple-targets-over-8-bln-valuation-in-u-s-ipo-idUSL4N2M02WT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1N1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1N1"
 type: article
-quality: 29
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -49,6 +51,6 @@ related:
       domain: nasdaq.com
     quality: 32
 
-secured: "qN7+LvE79CIuzipstiGakpyoDqqP9UXPDVutSPa6zJaoszkS3UsDqoLpIga7I2kt4BxuXVz1EVv2gqphDAMKpWqDn2HRZtmYTO0Wk7gYIfxWwnYEy6WNrPiMDc2r4O0mBM61K3YaC+H14I4T4E0oJ5I/uKqz8xCe+vU4swZzHYXQnnp6e/oZZkTJRLpdT4prghLzbdFdghTH1fAvHZatElA90GRL3EaF/Qifql8XD2h5jn5HXS3aZuoHisKobst+MPl6sYQzgmpWvV2xtH+e3mQ+WiB1IIdGzB6oVBvSyROGoLF/vTKirW0rbtUGLNaDW3dctgKXZnVp8gSDRt3hehB52Mc34p5Ww9RQSPrzN0g=;yILUBh65cWWrmUUxwef6dg=="
+secured: "+kNj5V2MwmVI3SfFSUpyTtMJdNfVT3T3xSDbp1y/TZf7w8WjVSiZoEPg8sdpl2LoRS1hys/ecyymQse52M8+184QPhk2OSTaBS4rtuCdlVWky639EnIFwzZdh1Brqu7oD3rO7/yqENTKgpqTtQW+qMV9cwZ9RhJY573XiYhLqstfmQQG5oz07j1sOL7E8b/zjh4vjaytQfMLa0D8KPmyA3HDjbWVWR9G5VyzbaDwgvw/fI3LM8IBXA7HK8k+kQMNvOyCfeVsvrl6YpOm33BtD26EKFyF4nQYJp47AO+9I3aSQXchjptRRsrK1tb8XbsruMLH6kJWL51NWUdyCmIIULtvhtKFXXpH1eLjfgCsNLo=;jpWw6b6Smr5DUOkYd4u7CA=="
 ---
 

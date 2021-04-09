@@ -1,12 +1,12 @@
 ---
 category: news
 title: "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU"
-excerpt: "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ..."
+excerpt: "Nvidia's noise removal feature, formerly released as RTX Voice, does a pretty stellar job of removing unwanted background noise for your microphone and PC audio. You can see for yourself in the video below if you don't believe me."
 publishedDateTime: 2021-04-06T10:26:00Z
-originalUrl: "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
-webUrl: "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
-ampWebUrl: "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
+originalUrl: "https://www.pcgamer.com/uk/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
+webUrl: "https://www.pcgamer.com/uk/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
+ampWebUrl: "https://www.pcgamer.com/uk/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/"
 type: article
 quality: 55
 heat: 55
@@ -26,6 +26,6 @@ images:
     height: 270
     isCached: true
 
-secured: "w8+AGyTu2tJpHGjyMBaEcjFRuiitMQVBAr+Sx0/RggXZMxucYl8KDXEvmh7XVGxqy2jSLSwN5iEr2P52Bk1oeDGiHQBLgTvflPIiz39yddYyqi5VAtqFif3zGx9VpA3fAMfOmlXm/Gvh+PssasGFu4v3ns7zqlB4dwJ4WPGdQ//JFTbtUF6xFLcgyzNQwZT9n/ZQ34XsAdpXznMmYS/m8V6480O35OZS1T4IlD3zsaGiyEH6+wriXYa3JVgLnxSTqQrCdWpVQQYqAC6aPgGC7bMYVhal2C9m/cj2KS8IY3ce+L3op2JngiquWgkjkmMyB+UCROkgdLYZR56TxBAiiDZZgLE5u9D87IHpn9m3Hahx/apFhIW8B7w6FhQQEtY2TtXEhPkIlzYuDDVrzrUBpfyyTJzpWW1ziylJ4B76xX6oxuEB1cgrBvdKQpO6d2bLJbBb3pOqywIfU0A+pTcZc/85egpLk7jKFaf2N+Zf8sNNNUuQamd6cV1flaTWD1Vvw8TRsFTzDAWRrDETxpqMsw==;xtmG6ixrwS1l97+q4DLAjw=="
+secured: "KccSje4ofEM9xc5CgWT71ZiYImemARUzQIXyFYLHtdC3rnaMtmOLVBQl4A8LdrnqarDXHEC6YD7Cn7xqUOhc1MVdMHH1vsmanlfsvffR4LxD0q0HE19okmwquwB0JhUXFRhqTuHKo+LL7lReUKlcSI9E5Cz3cprQiiXo18dqFrpe7YQQ21uO8eSyZMHg9gwIfVapshpc0v/cxnFi7xcsH0AFnZ0bwkKGHFMNTqH4iH2nZTuptqkigE8ygtG0Io6Rxm+7AFU6bNO+fhgYuKIxnB+TgPfkYvn628sxsBoNs7zP4OKR3caJkC1FJhv6/woi6gqT8KtMW1oDTKeb89RFgkEUw5lCUJkfUBZo4kXjPNY=;EVIBNCGEqFwt8NQPQj9EVA=="
 ---
 

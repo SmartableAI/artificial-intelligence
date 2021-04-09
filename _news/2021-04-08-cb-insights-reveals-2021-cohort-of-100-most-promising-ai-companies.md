@@ -77,9 +77,9 @@ related:
         height: 300
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
+    excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
     publishedDateTime: 2021-04-08T18:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
     type: article
     provider:
       name: Associated Press
@@ -203,6 +203,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3HYPS65GkEdJFpb4gvxVbwWVAlWTpHLvu2wEQ1GsdHv4Ljy3ax4Ve5kxQONSZQDB2bjdFyBHi1b3lfLr5WIPvemclABo94XOExveVNboyLB3cffA1E+pYF/w7ayG1Q+VZMCg0GLhJ92xSx+4DS1LAEZSBa/5NfIdWbSk/q65OwO0QGeP30OOpOsSomVM9MS/WUbjCp6R+EfrPbT74JCIXX2t4yqtLhhKgvcMQto7C1qwpof9spICP9m04h0xxrlOJwvANWSl0FMQGPeDXNBQWX1FPOyNuQmk3z6kU+OEkKqSd6vuPW8AnDG25HzcvRRjXYqMxo1dWbOspdEGmZyh2v0LWlI1/CL6VRns4E4gk1g=;yXyPzaxreB4P+PM0g6mJEw=="
+secured: "qjAABrCliCm0RoO+lRFep5wUTgGLnazhFXGCGpzgblRsXozZpj5j8bWVEDl/m68pgZlSDc0d5X4mXprkyB0OzHdpZy3m5E0cllpGJY6ggozcLo7RfCTHagDDQShtNOy3fKFmo7hsgl0acZHOYKV5xRceGO7CGgVDmbV6qS/15pYXVSx7FCneSLeQK27hA02wTQZuz4jjMmj5538+prgsL/AW0trKXgmnRjCWGs/AXQARw7DfP9NXJ3mhHzdFy5tiDHuzDWbnGMrFhw8unRu3qWih9ehpcpn52ZiI+uhUjmeVo94gz97mMHDWx6q+eDll0IxRmeEBLldTV078jNPOpA173/bHQalYbMq+kMRCD8HplD/DY0juK/MadPvd2lf+qtYFP1JWLFfH7913A97zY7LNgj784VW4x2HULi2EiveNhdcFjm/fEkZhDqvorCLlTx9aZCHy36ThY6UwPJhAcCO9ggobgcF6rHb6IIqYwpt6d1o+1j/lV2U0jxIEDypoxQIJtM/nhYF+oQsPu6WIrg==;7GING/oMIbYAXJEWmVZJUg=="
 ---
 

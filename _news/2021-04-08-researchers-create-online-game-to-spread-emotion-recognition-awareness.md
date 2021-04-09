@@ -66,22 +66,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Scientists create online game to show risks of AI emotion recognition"
-    excerpt: "a consultancy specialising in technology ethics, who directed the design of the interactive research website, said: “We want people to interact with an emotion recognition system and see how AI scans their faces and what it might get wrong.”"
-    publishedDateTime: 2021-04-04T06:12:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html"
-    ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
-    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40258220.html?type=amp"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 59
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/4796/2398145_4_googlediscover_e7793496-d578-41e9-b12c-0c8573132b41.png.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Scientists create online games to show risks of AI emotion recognition"
     excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
     publishedDateTime: 2021-04-04T12:56:00Z

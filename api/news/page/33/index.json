@@ -2,6 +2,186 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-03-12-baidu-seeks-up-to-us36-billion-in-hong-kong-share-sale-as-fundraising-in-city-reaches-a-record-in-first-two-months-of-the-year.md",
+      "title": "Baidu seeks up to US$3.6 billion in Hong Kong share sale as fundraising in city reaches a record in first two months of the year",
+      "excerpt": "Baidu has signed strategic agreements with 10 carmakers to power their passenger vehicles with the Apollo self-driving technologies. It also plans to use some of the proceeds on upgrading its Baidu mobile app and related ecosystem, which had 544 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/28193f29-27ac-4509-948e-ebbd7962e2e1_5740b6b8.jpg?itok=SqDO47bL&v=1615521028",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
+      "publishedDateTime": "2021-03-11T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-singapore-sends-robot-couriers-out-for-delivery.md",
+      "title": "Singapore sends 'robot couriers' out for delivery",
+      "excerpt": "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "publishedDateTime": "2021-03-11T17:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-artificial-intelligence-at-the-accademia-dei-lincei.md",
+      "title": "Artificial Intelligence At The Accademia Dei Lincei",
+      "excerpt": "On March 5 it hosted a one-day symposium on Artificial Intelligence, which counted a very distinguished set of lecturers from computer science, biology, physics, and other disciplines. The focus were applications of AI and the ethical and societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.science20.com/tommaso_dorigo/artificial_intelligence_at_the_accademia_dei_lincei-253475",
+      "originalUrl": "https://www.science20.com/tommaso_dorigo/artificial_intelligence_at_the_accademia_dei_lincei-253475",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg",
+          "width": 300,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science 2.0",
+        "domain": "science20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-ncfa-announces-7th-annual-ffcon21-digital-breaking-barriers-fintech-conference.md",
       "title": "NCFA Announces 7th Annual FFCON21 Digital 'Breaking Barriers' FinTech Conference",
       "excerpt": "will bring together an international community of leading voices in fintech, digital banking, tokenization, blockchain, CBDCs, digital identity, AI, capital markets innovation, EDI (equality ...",
@@ -1000,212 +1180,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
-      "title": "Hugging Face raises $40 million for its natural language processing library",
-      "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/",
-      "publishedDateTime": "2021-03-11T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-go-big-or-go-home-asset-wealth-managers-need-to-seize-the-day-on-ai.md",
-      "title": "Go Big Or Go Home: Asset & Wealth Managers Need To Seize The Day On AI",
-      "excerpt": "Everyone in asset and wealth management is using AI, but there are significant differences between the leaders and the laggards in how they are applying it within their organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048d0304680ea5d0de7f05a%2F0x0.jpg",
-          "width": 513,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "publishedDateTime": "2021-03-11T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-hugging-face-triples-investment-in-open-source-machine-learning-models.md",
-      "title": "Hugging Face triples investment in open source machine learning models",
-      "excerpt": "Developers have used a hub on Hugging Face to share thousands of models, and CEO and cofounder Clement Delangue told VentureBeat Hugging Face wants to become to machine learning what GitHub is to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
-      "publishedDateTime": "2021-03-11T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud.md",
-      "title": "‘Your Computer Is On Fire’ draws on tech history to critique AI and the cloud",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a story last year about nine books I read about AI in 2020, I called Your Computer Is On Fire a book worth ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/9780262539739-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
-      "publishedDateTime": "2021-03-11T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-f
 webUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-temperature-screeners-soar"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Straits Times
@@ -39,20 +39,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png"
         width: 720
         height: 405
-        isCached: true
-  - title: "Sales of facial recognition devices that scan for temperature hit fever pitch in Singapore"
-    excerpt: "They switched to importing and selling facial recognition temperature screeners, which saw a steep rise in demand. Please subscribe or log in to continue reading the full article. *Terms and conditions apply. Join ST's Telegram channel here and get the ..."
-    publishedDateTime: 2021-04-04T06:41:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-devices-that-scan-for-temperature-hit-fever"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/04/rk_facialrecognition-tempscanner_040421.jpg?itok=SmheslZB"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "8TnN1izQ0B9E35t20idob7qy+xSrcYbPvwBkbwKjkjlxbXx8438UdXbXP2TMvPx/Um4LD9uCYZlijn1vn4JNhX6L5HhzQRCoxW1jwDJGw6FsKNP/xqHZYNJbQ9MBvHBtW3I+ukTzPHx1uO77FhcHDghzxNYORyM9bPQLUmAx0O4TIs+yMetYE601M8/WnY8juQlYRO/y9bVYNONA6n/g/IMiRHnQ3esjkgjaTgYRM0CFkaofaDC4C9/sCtqqGcZ9eFumX4Nnz8ra2N7TdQVWadkdaS5rzq+9wr82rO7MbuWjOpXKQEr7ti7G3fAJMtbik5Vwp0U3cYZGhZ9oqv0mTZzdP12+KSARqwdOdZnEmzY=;taFEE+yRoeiGrCqRpj72tw=="

@@ -32,7 +32,7 @@ related:
   - title: "Crypto Investor: Coindex Capital Launches 4 AI-Driven Funds to Grow Your $100,000 Investments"
     excerpt: "AI hedge funds have picked up a lot of velocity ... although they declined to say how much – into each of the strategies and will cover the startup and operating costs for the first year, said Shareef Abdou, Coindex director of strategy and finance."
     publishedDateTime: 2021-04-08T21:04:00Z
-    webUrl: "https://www.thestreet.com/crypto/articles/crypto-hedge-fund-articial-intelligence-coindex"
+    webUrl: "https://www.thestreet.com/crypto/aricles/crypto-hedge-fund-articial-intelligence-coindex"
     type: article
     provider:
       name: TheStreet.com

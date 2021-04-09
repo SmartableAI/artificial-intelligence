@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
+excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
 publishedDateTime: 2021-04-08T18:12:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
 type: article
 quality: 41
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4w/H9ngpJd5Tx83ddc/wAeaPKMRRN2VM7BzQTGBbmxWEVlVI8wOElt5apBjVOZx7lkSGV2W7vw8NYM510NKh1GExUPpEJMgutscSREkJILEcNX0kgfedzc3SxOJHoEKlc38UVS0CeX4pkPahVZxVc2xEyBPsO5yJdAa66g8XDkUZcKYdVoEyF+3NgiwI4cEbncnCE8P4efgLT0aFatrPE2M/huQA7DTpI1Udt/wZ+WI9B0fAnagbBJuEBk7MjJommNdXPuP68Juv3UJ//XXg/r7IoRTJ43/w38gttst6JkDK2VCPvAHa1vEvOZK7cA76sK6sRqGEShjC9Cz/d/Hoo3AM2vZMvq7KewNnCOIkGl4=;uwd7YFe6O5VebYhyNZB4+g=="
+secured: "ZmbqBSFrhpEDHhnmsX9hCMyNy7RGm7f8/yKrgrKzhSJDN8fqJpOSIGcEHXo71BfV+RxFdRwUqy4s9BAOqys0crcbnicDm/Cbn99FW5nuqwB93EK6WWnXQfzOthmGb0qnxZplcaJWrLx/in78NG9RQqUL6fEDs3NSSi33qjUsauIF4nRYNq0mFuCsZ/tul+OlxyKzVyNMx8z1yz59MQ9RKmfQlrKV0lWKS37E2MHfEcWigXMkazj8guP+ZW6JNGQ1g67qj5j0uWTBk7lIdWYi4oMg8glOTr/veqC1HYTJCsZ6nhd+RvOKJ0c0kJ/Ad1R2xd31oC7GLKfrSZq3p+5zukyajJAU2pou5I7RgvxKN30=;wmQH0nEMmttbOovvzGoyCw=="
 ---
 

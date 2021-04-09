@@ -43,6 +43,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "'I was doing unspeakable, ungodly things!' Horrified woman reveals she accidentally sent a VERY X-rated video to her MOTHER because of a facial recognition slip-up on Google Photos"
+    excerpt: "A Canadian woman learned the hard way just how good Google Photos' facial recognition software is when it automatically sent a rated-R video she took to her mother. Kara Tonin shared her horror at the discovery on TikTok last week, explaining that she ..."
+    publishedDateTime: 2021-04-08T22:40:00Z
+    webUrl: "https://www.dailymail.co.uk/femail/article-9451069/Woman-shares-horror-Google-Photos-sent-raunchy-video-MOTHER.html"
+    ampWebUrl: "https://www.dailymail.co.uk/femail/article-9451069/amp/Woman-shares-horror-Google-Photos-sent-raunchy-video-MOTHER.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/femail/article-9451069/amp/Woman-shares-horror-Google-Photos-sent-raunchy-video-MOTHER.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 4
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/08/21/41514520-0-image-a-24_1617914424830.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "syflUbr0s1p4sVqmCJeQ5RW4z9pjhiFKJZyZJTlTPOf4UNm8JsRHkdkJ43wRT5nVxwTeKNdqZDlJmURg4jImgsI8dyigoihkQj3nyjKrQ+yseurmwl0ZM7dj2txbG97YN8nefz7EgtdGFo71NJrPWdwb3HSVOIbq5zSYkzw4+bKrhvCvlAYrxMed726eMTJuSVX6WzMDxDUdLWleSeMlVCp+FytfHFlIhFyijnOoxpbYgq8oMNT2yCUAAHx4smUzTyWY7p0Y9gHcPm3Dc9yAh5YQGlp5uM9N9BSup31pVkFzxgltVOfKcW/7LykB8yUe2EvE5sfip7TqHgWGIFYV9xFT9EItkHqaocDPVUU+GCbEABPvkinpR+LtLODtLgQlz2Ibofeg4kYTc2Te4mFqgqFrZ+KiHQJFJ/5fz13huVvz37zKazAejgdNm4xQKeFsJnr1CC7q4SVEpgJMXMJonADXA8LMS86TKEIwiYcw8qC0SDJx8KeyLUGkffY/r3GVjYOKpRXx0vinHxfyvLaAyA==;zZvpScprC5KPx1vIRBIIeQ=="
 ---

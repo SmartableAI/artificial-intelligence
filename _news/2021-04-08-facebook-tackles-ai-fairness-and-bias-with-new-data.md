@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-an
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-and-bias-with-new-data/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -41,7 +41,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
         width: 1100
@@ -79,17 +79,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
-    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
-    publishedDateTime: 2021-04-08T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
 
 secured: "u4CnyUPVldR0LSbG5YVevofAprLVuGsmrHbgchk8XTKcESVujTonD71lWDPT9pFlFgylJE5fpdGVxVdp6STEVATlX6AZbh7grJD6LeRZesPbRtpco8xqrC8Ye+ByMEZ4aGWKVDbDX5ZRQuY20Or+pe8JSXPcJionQVRQyxvI2smGE73PjdwdGDh/lcyCl/5ptOFJcLZpmpMt8Oj7J94A4iNb8zWBbHOr74Q7wPF1OejqWYpcnw7q4PGHKbHsefnJ/eD5s/pC+OxL+pERtnFNQZEDip3ty9Bpq5HAJPDdmykib4NLJsZjzyvtfp16xh6h64Bok6F33BpqSTBMSQP5KCaav9qk5PvwZrGcla3SNvsKZhUwj8GFp6HsU0Aucpm2jqSWGYZCK16hNN+B7UHwtFt1V9V63nFvf6ADCYZvLjkPSuDmeMqeDJU4hmHO/hgJ/mhqTh/ECWbcSsVOSMzd4dPjHO1njVOGbUaPz0M8EsMIttGe5zdo7UUmf+o62uLXV8hkX6/RpYiH6X8MiUNVwA==;LahvSLW4UkCslE4GpWYzXA=="
 ---

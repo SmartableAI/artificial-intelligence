@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 105
-heat: 115
+heat: 116
 published: true
 
 provider:

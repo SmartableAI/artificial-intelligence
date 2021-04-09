@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-27-gchq-outlines-how-its-going-to-ensure-its-secretive-use-of-ai-is-ethical.md",
+      "title": "GCHQ outlines how it’s going to ensure its (secretive) use of AI is ethical",
+      "excerpt": "This week the UK's security and intelligence agency GCHQ shared an in-depth document outlining how it is thinking about AI ethics, specifically ho",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
+      "originalUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-02/D9827B6A-9F14-4640-AE24-D7E0890FF6CA.png",
+          "width": 703,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
+      "publishedDateTime": "2021-02-26T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-does-ai-driven-cloud-computing-need-ethics-guidelines.md",
       "title": "Does AI-driven cloud computing need ethics guidelines?",
       "excerpt": "It’s clear that artificial intelligence is powerful and cost-effective in the public cloud. However, it can be weaponized for unethical tasks.",
@@ -1413,50 +1456,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-who-should-stop-unethical-ai.md",
-      "title": "Who Should Stop Unethical A.I.?",
-      "excerpt": "“Curious if there have been discussions around having ethics review boards at either conferences or with funding agencies (like IRB) to guide AI research,” one person wrote. (An organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
-      "originalUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg",
-          "width": 2560,
-          "height": 3200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
-      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
-      "publishedDateTime": "2021-02-15T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Yorker",
-        "domain": "newyorker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

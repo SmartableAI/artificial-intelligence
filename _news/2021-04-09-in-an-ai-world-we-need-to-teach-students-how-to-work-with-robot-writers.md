@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-ho
 ampWebUrl: "https://theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
 type: article
-quality: 74
-heat: 94
+quality: 76
+heat: 96
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -56,6 +57,6 @@ related:
         height: 338
         isCached: true
 
-secured: "D1CcKRMLPY7GVXo5l27KMD5n1jt8lThDcYblVJ5OeJkLWbdr9RgmKtOvcHSmZvamCHMNrvTUvrksBD7ksfvP4HU4m3tNKYtmGdnYdFrqmk0HJpW/QFBwCjAgAMS56xbh8wSv3Hgth4RG6AHX3Mf66adjQ03wkqoW3garXmhej3JyYwz45EUqnt4ktBMy9W93GLRU6cPK3C0GvCWHhJY9P3Aok9htLR1tL57U/Ng3RsexvOPrtBQjEM8D5JzFXzkqFUdWabezMetoJwrbAEo2/QGYbSAb1/jG2T8j941CYhzeygTDYXbgPfl536nLdGgqxfW9qMmysRtW/dPvEKIRV+1vuYJYbVjm/lXwaKPczaU=;N679KmmpUbI6TwUMOfSrGA=="
+secured: "0NqCQvG/tRap6BWk5YfU1/0p/+nP1iO31bZ07qWM+HFkGtRc1pUVJcjuv8gP/Mu9f2w1D3nzcERowxHZ//Z0gL6quRLZV8UhyAGwergwravgc9+vibmrQmmvvlF87Si3HtHSer69rjlcyL1aNQZTBKMY6YymcFXWLjVWgN0i7gvirTmSB7e93IYcHfhpJEa0ZC5L1oSLPr/6e5ZR5sCo7uUINSrfALOHvJwTjB4PY2dXC+Z6dSyptxDLddyQ7kLiojtKS3dvnyvokgWw/517ItmhY1NiQwv62Vzd0gurugieoeZNHqhcG/Ala5FeTfkxtIDOgtP5F5+/WL63/bFMg9QoZdxglT+8XyUg1vP6w4pocKvxQcH/tfpDi7NgLeutNTXr7hwOJqLA4jk1RmjUd4da00z8ZZO2wh9p730Xt6OJ42VbfpiyfX5kxr3sn5b4ulYvj2KL7+R8C/w6bJXYyKHpFwAGuuYcnHLnmXONkRx/6z0bx/5fZSBoHwnYMIPPJF87ydW8X1Av+OO08HruoQ==;+jIjFkN1TAWY6PzG4aJqUQ=="
 ---
 

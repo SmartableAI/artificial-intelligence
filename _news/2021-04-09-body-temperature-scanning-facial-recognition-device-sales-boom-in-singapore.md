@@ -40,20 +40,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Sales of facial recognition devices that scan for temperature hit fever pitch in Singapore"
-    excerpt: "They switched to importing and selling facial recognition temperature screeners, which saw a steep rise in demand. Please subscribe or log in to continue reading the full article. *Terms and conditions apply. Join ST's Telegram channel here and get the ..."
-    publishedDateTime: 2021-04-04T06:41:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/sales-of-facial-recognition-devices-that-scan-for-temperature-hit-fever"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 46
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/04/rk_facialrecognition-tempscanner_040421.jpg?itok=SmheslZB"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "reaU0yKtctpMABvOWclw9aKgqnBMIwnDHeaDl52vGbny8VbnfAgxtu19wDiz7T46MXC+zofGRuj8H3WLeLwAnOm4tiLxGtaO88WUE1QLZ+VhfYFqLbBnqUWiUXTlmMQaLlDp5B7R7C0e48wN3VxihodOiBvt1QJPv5W4T3Ad9FFRzPNH65KzxIetMPkr2LJ3Xdlw18JIxvJHdlErNwKMXfuvB2AH7j5EGLzArSUrA71GgWMwCkKWtcVOJLyajvi9jOZq5Bmgh9acmJmkjw27ERJEsnFdcnPzxItidOMKjLcUb0Q3VkTGdYnoHCmhJuFPxRPX2dYVZJ7AP8io+75XvbsgR5a8SDPwpfO7mYr0HeI=;kmopE8YO2xdF20wJLvXuLA=="
 ---

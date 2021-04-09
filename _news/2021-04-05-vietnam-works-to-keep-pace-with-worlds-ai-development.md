@@ -34,7 +34,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320

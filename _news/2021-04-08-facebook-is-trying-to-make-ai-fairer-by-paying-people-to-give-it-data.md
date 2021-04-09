@@ -8,9 +8,9 @@ webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/i
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: CNN
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
@@ -78,18 +79,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
-    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
-    publishedDateTime: 2021-04-08T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
 
-secured: "u/qU4cZUPMGzkDlGvSEUZE3/BRKNRrcAzrnF14DIM5ES4u1/l450jW/qCcMhqyHbDP5vHVfu46fTBnnAiZap8+gGx6n5Fs6kNTcv/Szvm95o9b6iWcMBxjiWltFrwpiPeKiHvRTodLig7ELja9akJI/gY3oOxMXXMNNF0krZ64acbOio6nDERhPCD4Yj8UjTYQ4EkWbExaXD0IjdOCaqzJdio/7grOOJP9rI2uJRZyUufM/AOR9XzQOVIfpFK4qNRPh5O+PVWUr6Z0AlEwuJmUXIcRyil6s7l8OykgT2AJ0eQ2V3lUZD93Y/C7UGE1DVULALsWjwRiw3YPJwxNH3B7+rR9P+LjLzyFF41orfx2A=;D1334Dtw0mfwZxCLmC/lTA=="
+secured: "/XhLFEpfOQtBTQs7J+LU7LiitzxW/KVV+GJtVmJhKSsM8/SQGTPmHAsaHV4IgtOYvNyngI92vtBUtdfkM+z/lI6cny9wottaOLJxH3840J1YE7EC7ha3LQzajWxkN7IFpVEkgl0htktOZ/nS+E4lLaRKROc+MBZyLLOn+4ZOx/w/u8gxE9IAZ/18YQslqpyT9jRhlDtT9OwRSqhKMHSHtYIXAqH+fJNwvDpblpSw5RmcpKISnhmOx14b6Ak30RjIYz89rlj0+RL0AvOP9eek0vK7f9h2ffueb7J1JqWXd4JeBKp27JEqDDu06VzK5h/AewddbZG3S4/LVssh2TbDS18IOLnXkc+gHAVi40ERhryrmRx63opTC03vRdVc7i22DLA2eR8uZz7IjcPGpsXWg3flgl1qtP9IosrbDQzusfWleA3uwrX6McORhtEeec5J7K6HTqpljuUB2CPslzIIvtxAUG15LeNRwbPqrL/jsY90J4UKGcqwkXz15NjFXkTUzYiaFErM+nyRIOXTcGZBCQ==;fENWZsleDd/kEFebZ81CSg=="
 ---
 
