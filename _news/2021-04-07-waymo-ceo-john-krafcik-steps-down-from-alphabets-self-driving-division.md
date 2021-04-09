@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/04/waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Waymo power players who will replace John Krafcik as the co-CEOs of Google's $30 billion self-driving unit"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW -0.00% ..."
+    publishedDateTime: 2021-04-08T17:23:00Z
+    webUrl: "https://www.businessinsider.com/waymo-new-ceos-tekedra-mawakana-dmitri-dolgov-john-krafcik-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/606f2ea330004b0019b26aa3?width=700"
+        width: 700
+        height: 466
+        isCached: true
   - title: "John Krafcik quits as CEO of Google's self-driving car project"
     excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
     publishedDateTime: 2021-04-05T13:20:00Z

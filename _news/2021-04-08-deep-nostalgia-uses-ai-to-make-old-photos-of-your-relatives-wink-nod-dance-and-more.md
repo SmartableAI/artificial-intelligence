@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "This 'Deep Nostalgia' tool can bring photos of your loved ones to life"
+    excerpt: "You can now make photos come ... old family photos blink, move their heads, and smile.The Deep Nostalgia tool is licensed by MyHeritage from D-ID, a company specializing in video reenactment using ..."
+    publishedDateTime: 2021-04-07T12:10:00Z
+    webUrl: "https://www.youtube.com/watch?v=tjBYSnoAWqg"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 122
+    images:
+      - url: "https://i.ytimg.com/vi/tjBYSnoAWqg/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Deep Nostalgia’ Can Now Make Old Photos of Your Relatives Dance and Blow Kisses"
     excerpt: "MyHeritage is doubling the number of unique movements that can be applied to still photos in Deep Nostalgia, including one that finally shows your ancestors getting down to a funky beat."
     publishedDateTime: 2021-04-05T20:40:00Z

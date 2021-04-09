@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 887
         isCached: true
+  - title: "Neurosymbolic AI: Know About The Next AI Revolution"
+    excerpt: "Artificial intelligence is one of the most disruptive technologies of our time but it still lacks some finesse. David Cox, Director of MIT-IBM Watson AI Lab agrees, “It’s time to reinvent artificial intelligence” with neuro-symbolic AI. With neuro ..."
+    publishedDateTime: 2021-04-09T12:48:00Z
+    webUrl: "https://www.analyticsinsight.net/neurosymbolic-ai-know-about-the-next-ai-revolution/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "U5q7JSWL9B7ozWeRWFOj89+23tThcj76rTxrSMNdDahjFUl1doken8wlYfp0C5bl95YJMNwNbmoVeVkBvImJKBe976y8IH526eoS4/ImSDLnez85vDtNpMmNnxHEP2Y4dxg9I4QDStRzaT5fdj/z2ydbN7HU0525S1V513e1flm+C9eNY492OSyoGyoiQNRTViF+sC8YwgPc6otOTLAUHnuUXHJ+rFv+jk6ScYRzqpHGOzMl0FuRUxtFA3ZZgfGpu4PsYxfi1W8NxzZzlkLOSzoImQGdQD1WrtQ3vGUyOW/jvIQYYzNLak9hGJq6pCisRd2u+mtEoXDXaX7Rx7sr2zuT+bWSKwA//M6DcslCxFw=;/06ng7roY7roVVaRpgkpsg=="
 ---

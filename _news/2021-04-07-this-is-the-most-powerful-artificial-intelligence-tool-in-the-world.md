@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/368843"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/368843"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843"
 type: article
-quality: 87
-heat: 100
+quality: 89
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1617656858-inteligencia-artificial1.jpg?width=600&crop=16:9"

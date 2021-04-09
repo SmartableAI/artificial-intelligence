@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-    excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
-    publishedDateTime: 2021-04-08T10:00:00Z
-    webUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
+    excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
+    publishedDateTime: 2021-04-08T10:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 73
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
     excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
@@ -68,6 +68,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "AppHarvest acquires artificial intelligence farming start-up Root AI"
+    excerpt: "Agtech company AppHarvest has acquired agricultural robotics and artificial intelligence (AI) company, Root AI, in a deal valued at $60m."
+    publishedDateTime: 2021-04-09T12:00:00Z
+    webUrl: "https://www.foodbev.com/news/appharvest-acquires-artificial-intelligence-farming-start-up-root-ai/"
+    type: article
+    provider:
+      name: FoodBev Media
+      domain: foodbev.com
+    quality: 34
 
 secured: "Fz39hPU3aCIdVF1DTSQ73sfBAK+g3Vd2msdG82MmJXsyT89dx2mJJTUJ+WuMQTC4E4RXUvIXi+DlKumDk9NCZHCvDUQp98DbZI/2MPvcUuREMu+bR6MZby1i1riQVTAbQHTwx71HL/ybhjzKRcFTxhUxOQmVeN/ncuul8jrOmrjUPNpwjev7mDS44xwh4V5xH2xvDSHLRimBEmOrWCAucV2Co4N7YMIpYb87UhsuMIOMNbJ8v+1bPVwkuL3bVTwwpUILZYQIB+szCGLlSQyNm6YvxzJEsBCUSoJCDirZPcz/poIIcXnM7WAcknJKu7IM/yHupA0+xaeDuv1QujMF38T9INMRKzBMgH8O8S74LwBkIQFUgOoUzAIYYQKCO0MKxgoiq4vlCHDKt9YVDSHbM+TJsEPMkPyyziE5o7C+NO38ALaOkJWb1kLmQCAdc8+a7D5bTK1uQaa0Pli3bCdKv6BlSM6GfCJ0CXH2FL5bIEn8De5i4ZF65i0VoynvmILNe6248AQ1U/CX7KKUO3WxVg==;0DHA4NlhLlRG2wfB6k6Hgw=="
 ---

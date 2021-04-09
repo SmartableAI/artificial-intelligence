@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed.md",
+      "title": "Savills, MRI Software Announce Expanded Partnership to Accelerate AI and Machine Learning Capabilities for Knowledge Cubed",
+      "excerpt": "As part of an extended agreement, Savills will expand its integration of MRI's artificial intelligence-powered data abstraction tool, MRI Contract Intelligence powered by Leverton AI, to include MRI ProLease,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1483336/Savills_Patrick_McGrath.jpg",
+          "width": 400,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-weaviate-is-an-open-source-search-engine-powered-by-ml-vectors-graphs-and-graphql.md",
       "title": "Weaviate is an open-source search engine powered by ML, vectors, graphs, and GraphQL",
       "excerpt": "A modular structure enables people to plugin their own vectorizers, too. Weaviate also works with popular machine learning frameworks such as PyTorch or TensorFlow. However, there is a catch: At this time, if you train your model, or use one provided by ...",
@@ -631,7 +683,7 @@
       "originalUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -730,58 +782,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-deep-nostalgia-can-now-make-old-photos-of-your-relatives-dance-and-blow-kisses.md",
-      "title": "‘Deep Nostalgia’ Can Now Make Old Photos of Your Relatives Dance and Blow Kisses",
-      "excerpt": "MyHeritage is doubling the number of unique movements that can be applied to still photos in Deep Nostalgia, including one that finally shows your ancestors getting down to a funky beat.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089",
-      "originalUrl": "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/o4aeqzm6sml85uviazzy.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp",
-      "publishedDateTime": "2021-04-05T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
       "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
       "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
@@ -842,7 +842,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {

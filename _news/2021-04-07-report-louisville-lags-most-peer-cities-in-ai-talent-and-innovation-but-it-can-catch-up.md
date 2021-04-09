@@ -27,6 +27,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "National thought leaders, local employers weigh in on AI acceleration in Louisville"
+    excerpt: "\"With every innovation that we're seeing now, we are one step closer to a world where every organization will be an AI-powered organization,\" said Gretchen O'Hara, vice president of U.S. artificial intelligence and sustainability strategy at Microsoft."
+    publishedDateTime: 2021-04-09T13:17:00Z
+    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/09/national-thought-leaders-local-employers-weigh-in.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
 secured: "JRqXnXsMq6iW2z4j4KgrZu4P7AYSYasolzPsgXFR/9mX+Ug+JdUG5jBfbsu8j+oTMYdpAXI6gap76/Y+KjVsvJ0mJTW4/sme44Ag2L7Tdju0zdEcESlUnFXgkRQRA/rvLcqzkjQZSH1BuvZbbzgll61ydtOBZzS2HGgkJmQXwmTZaHuWe2f1QQpeIjmqOImrRAOMG483kIG49+rHzLkiaDK2r3RHJijEc4y6RZkGGIdqxHCX+EqxxLpjRQQddTVl44FGkyysIahFzozUhoZvBqn/YG8K+JhijMtR6J1+vvAUoKftHmaTsz5ToGwzX4rCaBb7qO4g7ta9WXXCTvd8pW08eL5nxj600C4AVa+FqrI=;Fi9lSlN+Clf4o9iBc/WtKQ=="
 ---

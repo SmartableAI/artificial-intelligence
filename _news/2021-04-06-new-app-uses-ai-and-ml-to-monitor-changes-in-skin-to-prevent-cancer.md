@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Creating better strawberries using Artificial Intelligence"
+    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Impact of Artificial Intelligence in Casino Gaming"
     excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
     publishedDateTime: 2021-04-05T17:11:00Z

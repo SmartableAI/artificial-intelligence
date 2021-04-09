@@ -30,34 +30,20 @@ images:
 
 related:
   - title: "In an AI world we need to teach students how to work with robot writers"
-    excerpt: "Robots are writing more of what we read on the internet. And artificial intelligence (AI) writing tools are becoming freely available for anyone, including students, to use. In a period of rapid ..."
-    publishedDateTime: 2021-04-08T20:12:00Z
-    webUrl: "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
-    ampWebUrl: "https://theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
+    excerpt: "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ..."
+    publishedDateTime: 2021-04-09T13:27:00Z
+    webUrl: "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 76
     images:
-      - url: "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Vietnam works to keep pace with world’s AI development"
-    excerpt: "Vietnam is working to realise its goal of being listed in Top 4 in ASEAN and Top 50 of the world in terms in artificial intelligence (AI) research, development and application by 2030. Vietnam targets to be in top Top 4 in ASEAN and Top 50 of the world ..."
-    publishedDateTime: 2021-04-05T07:31:00Z
-    webUrl: "https://vietnamnet.vn/en/sci-tech-environment/vietnam-works-to-keep-pace-with-world-s-ai-development-725164.html"
-    type: article
-    provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 37
-    images:
-      - url: "https://vnn-imgs-f.vgcloud.vn/2021/04/05/12/vietnam-works-to-keep-pace-with-world-s-ai-development.jpg"
-        width: 600
-        height: 338
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "HbpZIoPwHWwL8/uK+cxj9rdheOuGO07GgVVmSgADn93+SCsYi/qQKJF7bRTLDlBBoKRqUCeAmwD0IUALJYs9qCwSEYRdFZ4umR2LKDjOki2SD7pLpC6mYox2MRkaQnKcK0ZAlLeuHvIBtf79P7nDUfy72GrkYrDcgn1JscZlwRNhFmoT86p9yYmUx93o5eiVMfqAYnTt+wXTwK7px7qsE5gBbfjf5Hbo8VtWWDx3nQ0dxF+7sV5b1JkPRqlvB2ghsJ4mZTZVnJm7WP0iVTb3xR6hqS0wrkTf0QwaGSnzbruvir7XwSgbwfIVYoVbDm7AaFOJkQShHdKyJB9z85j1d2Lvw2QIDpMllHrc1K2pT2A=;GjScWS9PhqgfRlWpuhyfuQ=="

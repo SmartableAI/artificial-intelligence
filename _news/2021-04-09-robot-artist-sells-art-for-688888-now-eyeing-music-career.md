@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hong Kong robot sells art for $688,888 and is now eyeing music career"
-    excerpt: "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ..."
-    publishedDateTime: 2021-04-04T20:24:00Z
-    webUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/"
-    ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280"
-        width: 1280
-        height: 831
-        isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
     excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
     publishedDateTime: 2021-04-05T15:53:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg"
         width: 1200
         height: 779
-        isCached: true
-  - title: "Sophia the robot sells art for $688,888, eyes music career"
-    excerpt: "Sophia is the most famous robot creation from Hanson Robotics ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia is working on ..."
-    publishedDateTime: 2021-04-05T11:57:00Z
-    webUrl: "https://nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/04/sophia-creepola.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
     excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
@@ -89,23 +57,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sophia the robot sells art for $688,888, eyes music career"
-    excerpt: "In March, she shook the art world when a digital work she created as part of a collaboration was sold at an auction for $688,888 in the form of a non-fungible token (NFT)."
-    publishedDateTime: 2021-04-07T00:51:00Z
-    webUrl: "https://nbc-2.com/news/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/04/sophia-creepola.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "ly/dzToHHbP1TiJIEAvNDYGnnNuWSvctQuR4+z3F7D6wu5iW+zKGjrHTX7+BZAyb3Ni2IvkWAUQeirI15GkKLFeWtzqGdmx7aprsXOmJNFZYHTS5ls8ysuwz1zbDwuddUDm2BoiSxCCZpMgcbzXMZT+7M1StEysPEbOE2v604DUApAPISzLR9uBBVbx7k0HqaZog47gVYCwykQQ9F2UEHGlOnH6HRjnvV9RNZ0Ihv+oKgQzw59SL0YmUgAKotMwRxntIWP5CPJnyGiIHi3g/ysxd4VPgDcUbays71KqLeLHLy0wZHf+2lSCVE4E1cTxBK4jQFYv2uli+NLdo5FfqZkq4hXs9FnG/++FjvqhFo48=;oXZzZNL+nUZm2jCsmwYchQ=="
+secured: "Lg73fOwnKRJMUoK4brhXbrNi35sadIygKCRrdgOPl0XGQ55nxPSD2tQiaAGFEOGqeDVWB9Pm8PZzw3dZyJ5Jx9gT/2i7cd2v+azoVjOu2FdupaOaSHun5asyJ8pfqtPf6LbqZIjvvzOp/1x7TTPy4DneSvuxzZwrNMVEQiWadUzud8nBuLWLmWPsKc0RTgVhwLx3pkDEiT3H1i00J/Ty1Fn/l4pYhc0wG7xqmxkkjb1f5SYkU1TE12VR2u0/jvjKgg8CWysSXfWeG+pvQOsG6bKv8HIMhc1SKGzIEAsY4KYInlLRMqGwEL9X97wuFVnBfjkqWKwQR29R2p8ul+0+HTiTYGlTaOc2SaoU/X5pC9jwf7qPrzFH9bmKLF4ykFeXJ7vQHLGn2L6qC4kkYNvQkRf1PBi/391usZSm3s9KPahyEQhdS1vuDHMmgYAoFjl+9sJKQQKjlesHASHmCSZo6ZaDesmeyKtHZ8gz4d31Qfc8dNdz19NWHvMwaDPPh702l4sn0pBflJFBvfiuwp0M3w==;/GO3bL3redLzc0D3QgojMQ=="
 ---
 

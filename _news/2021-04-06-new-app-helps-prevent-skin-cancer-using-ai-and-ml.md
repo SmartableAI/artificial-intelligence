@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-preven
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 39
     images:
       - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Creating better strawberries using Artificial Intelligence"
+    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
         width: 1200
         height: 630
         isCached: true

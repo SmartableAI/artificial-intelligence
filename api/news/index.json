@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
+      "title": "In an AI world we need to teach students how to work with robot writers",
+      "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "publishedDateTime": "2021-04-09T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
+      "title": "NLPCloud.io helps devs add language processing smarts to their apps",
+      "excerpt": "with a focus on natural language processing (NLP), as its name suggests. Developments in artificial intelligence have, in recent years, led to impressive advances in the field of NLP — a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "originalUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg?w=1024",
+          "width": 1024,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "publishedDateTime": "2021-04-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-securing-your-data-in-the-new-world-of-ai-enabled-data-management.md",
       "title": "Securing Your Data In The New World Of AI-Enabled Data Management",
       "excerpt": "When your company is using AI-generated data and provides your vendors with access to sensitive information — including facial recognition scans, up-to-the-minute images from embedded security cameras and sensitive employee data — the topic seems to ...",
@@ -347,21 +443,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
-      "title": "In an AI world we need to teach students how to work with robot writers",
-      "excerpt": "Robots are writing more of what we read on the internet. And artificial intelligence (AI) writing tools are becoming freely available for anyone, including students, to use. In a period of rapid ...",
+      "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
+      "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
+      "excerpt": "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times.",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "originalUrl": "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
+      "webUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "originalUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -369,13 +465,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "publishedDateTime": "2021-04-08T13:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T13:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -385,9 +481,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI",
-        "AI Ethics"
+        "AI in Sales"
       ]
     },
     {
@@ -545,7 +641,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -597,7 +693,7 @@
       "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -949,7 +1045,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1089,64 +1185,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-facial-recognition-for-covid-vaccination-what-about-data-privacy.md",
-      "title": "Facial Recognition for COVID Vaccination: What About Data Privacy?",
-      "excerpt": "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres.",
+      "path": "_news/2021-04-08-savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed.md",
+      "title": "Savills, MRI Software Announce Expanded Partnership to Accelerate AI and Machine Learning Capabilities for Knowledge Cubed",
+      "excerpt": "As part of an extended agreement, Savills will expand its integration of MRI's artificial intelligence-powered data abstraction tool, MRI Contract Intelligence powered by Leverton AI, to include MRI ProLease,",
       "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225",
+          "url": "https://mma.prnewswire.com/media/1483336/Savills_Patrick_McGrath.jpg",
           "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "publishedDateTime": "2021-04-08T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
-      "title": "The 4 key elements missing from your conversational AI strategy",
-      "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-46_-Enterprise-Plan-Launch-Thought-Leadership_Leadspace_Final.png",
-          "width": 2000,
-          "height": 1006,
+          "height": 331,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1156,14 +1209,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:00:57-07:00",
+      "publishedDateTime": "2021-04-08T06:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1179,60 +1232,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls.md",
-      "title": "Securiti releases AI-powered data privacy and security platform to provide unified controls",
-      "excerpt": "In addition to catching Cisco’s eye, Securiti has landed on CB Insights’ list of the 100 most innovative AI companies. The company has also raised $81 million in venture capital to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
-      "originalUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/OG-image-e1617866228765.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/",
-      "publishedDateTime": "2021-04-08T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -152,6 +152,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
+    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-08T10:37:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
   - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
     excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
     publishedDateTime: 2021-04-07T11:15:00Z

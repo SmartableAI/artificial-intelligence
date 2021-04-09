@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-facial-recognition-for-covid-vaccination-what-about-data-privacy.md",
+      "title": "Facial Recognition for COVID Vaccination: What About Data Privacy?",
+      "excerpt": "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "publishedDateTime": "2021-04-08T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
+      "title": "The 4 key elements missing from your conversational AI strategy",
+      "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-46_-Enterprise-Plan-Launch-Thought-Leadership_Leadspace_Final.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:00:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls.md",
+      "title": "Securiti releases AI-powered data privacy and security platform to provide unified controls",
+      "excerpt": "In addition to catching Cisco’s eye, Securiti has landed on CB Insights’ list of the 100 most innovative AI companies. The company has also raised $81 million in venture capital to date.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
+      "originalUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/OG-image-e1617866228765.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/",
+      "publishedDateTime": "2021-04-08T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-israeli-startups-precision-robots-poised-to-transform-brain-surgery.md",
       "title": "Israeli startup’s precision robots poised to transform brain surgery",
       "excerpt": "Shoham include Mazor Robotics, a surgical robotic startup acquired by Medtronic for $1.64 billion in 2018; Diagnostic Robotics, an artificial intelligence-based triage and clinical predictions platform; and Microbot Medical, a Nasdaq-traded company.",
@@ -53,7 +200,7 @@
       "originalUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -196,48 +343,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us.md",
-      "title": "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US",
-      "excerpt": "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
-      "originalUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "publishedDateTime": "2021-04-08T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1132,110 +1237,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning.md",
-      "title": "Regulatory Compliance Must Be Addressed With Multiple Techniques Including Machine Learning",
-      "excerpt": "Machine learning and artificial intelligence are still moving up the food chain. It’s good to see that the industry is moving past an important but still narrow focus on pure system security. Linking the tactics to compliance strategies is the next step in a more mature use of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "publishedDateTime": "2021-04-07T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
-      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
-      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
-          "width": 3500,
-          "height": 2505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "publishedDateTime": "2021-04-07T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

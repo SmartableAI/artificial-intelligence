@@ -69,6 +69,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "San Diego Supercomputer Center to use Intel's Habana chips for Voyager"
+    excerpt: "The San Diego Supercomputer Center plans to use chips from Intel subsidiary Habana in its AI system Voyager. Intel acquired Israeli Habana in 2019 for $2bn, replacing its AI-focused Nervana product line, which was also gained from an acquisition."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/san-diego-supercomputer-center-to-use-intels-habana-chips-for-voyager/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1XKfdFTCfIpHK4y2hU3d5d4/hYkaNYZmRetriLlkIoOrW7EqfTn/FQaBnLFhKNzHDGKYpQw02vCYCApvvXadd1poWzSX7ToNOZusF64va2F+dOD5LiuYf7aCbvDW5GxRgGTHx5swX6JhRQ1c96Bn6fLCjjnWfwWJL85lXgTXAObSKCfi/baxzzctAlHIz1ndG16KCSEhM51W80uD06kpjWXpwmCkpLvSlAnhz6rEDW3rAw0ASTQSBr60XUC7BLeflurkVpM90WnGuouyllqVSzE3X61043i2X8+92exJaQsy+bpzERlmqsRyH1cvDsIRv7cBxSDg7/OwumxitAq0Fk9kBVwLm8H9Trm4zfWc+7J91mnnu5TvcWYaVWFM6SvXltCq9yjoZUmj34Hm3DxnTUV5cbDlE+114PQ8RWMxykhc8l0km8T/WPRL4DGGnjxY3FpGX6ZeGBXiJsW8vjcOMl1DluXQkcBxC4LmDe95PENTPCw5I4vSVbiMYf389xh9gB862Y1TjCk1IARXU6/bhw==;rfom4T0be8eT5eatSllEeA=="
 ---

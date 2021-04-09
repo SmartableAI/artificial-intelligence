@@ -2,6 +2,288 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-29-growth-outlook-how-covid-19-change-the-picture-of-ai-in-construction-market.md",
+      "title": "Growth Outlook: How COVID-19 change the picture of AI in Construction Market",
+      "excerpt": "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
+      "originalUrl": "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U329837683_g.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai",
+      "publishedDateTime": "2021-03-28T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
+      "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
+      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "publishedDateTime": "2021-03-28T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-ai-could-help-advertisers-recover-from-loss-of-third-party-cookies.md",
+      "title": "AI could help advertisers recover from loss of third-party cookies",
+      "excerpt": "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "originalUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "publishedDateTime": "2021-03-28T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-infobips-communications-paas-now-available-on-microsoft-azure.md",
+      "title": "Infobip's Communications PaaS Now Available on Microsoft Azure",
+      "excerpt": "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-backpack-ai-system-helps-the-visually-impaired-navigate-safely.md",
+      "title": "Backpack AI system helps the visually-impaired navigate safely",
+      "excerpt": "There, a computing unit like a laptop or Raspberry Pi runs an AI interface called OpenCV’s Artificial Intelligence Kit with Depth (OAK-D), which uses neural networks to analyze the visual data.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/",
+      "originalUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/ecd4812/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F62%2Faa5e4925429e85fbf7af32b6c1b3%2Fdepositphotos-355246818-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true",
+      "publishedDateTime": "2021-03-28T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world.md",
+      "title": "Reinforcement learning: The next great AI tech moving from the lab to the real world",
+      "excerpt": "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
+      "originalUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
+      "publishedDateTime": "2021-03-28T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities.md",
       "title": "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities",
       "excerpt": "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue",
@@ -925,298 +1207,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-can-ai-make-data-security-simpler-and-smarter.md",
-      "title": "Can AI Make Data Security Simpler (and Smarter)?",
-      "excerpt": "Cybersecurity teams often face tough choices, and there’s typically much at stake. For example, do you rely on already",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196",
-      "originalUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/03/Data-security-and-compliance1.png",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196/amp",
-      "publishedDateTime": "2021-03-26T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-avvir-raises-10m-for-ai-that-spots-construction-site-errors.md",
-      "title": "Avvir raises $10M for AI that spots construction site errors",
-      "excerpt": "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/91e28747-bc1b-43dd-bf95-6650cec819f1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
-      "publishedDateTime": "2021-03-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-ai-could-make-the-new-nintendo-switch-a-powerhouse-overnight.md",
-      "title": "How AI could make the new Nintendo Switch a powerhouse overnight",
-      "excerpt": "The AI-driven feature that’s used in Nvidia’s RTX-series graphics cards and possibly the new Switch You’ve probably seen the acronym “DLSS” appearing in more gaming and tech stories recently. You might know that it’s an Nvidia graphics thing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "originalUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/QSmJqItREIvE1BPhcch_adVHDls=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19086567/akrales_190820_3597_0355.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-sage-buys-israeli-ai-firm-as-part-of-push-into-new-technologies.md",
-      "title": "Sage buys Israeli AI firm as part of push into new technologies",
-      "excerpt": "Sage said the deal for Task Sheriff, an AI-based software-as-a-service start-up based in Tel Aviv, would strengthen its the experience it offers to its customers as emerging and advanced technologies drive benefits for businesses. Task Sheriff automates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
-      "originalUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.chroniclelive.co.uk/incoming/article12461914.ece/ALTERNATES/s615/0_PNP_NEC_260914sage_010JPG.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
-      "publishedDateTime": "2021-03-26T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police.md",
-      "title": "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police",
-      "excerpt": "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "originalUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "publishedDateTime": "2021-03-26T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
-      "title": "How Yandex plans to expand its autonomous robot delivery service",
-      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
-      "publishedDateTime": "2021-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

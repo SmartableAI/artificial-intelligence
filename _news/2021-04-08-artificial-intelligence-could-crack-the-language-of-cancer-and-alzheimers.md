@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-langu
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Powerful Algorithms Used by Netflix, Amazon and Facebook Could “Crack the Language of Cancer and Alzheimer’s”"
+    excerpt: "Artificial Intelligence can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found. Powerful algorithms used by Netflix, Amazon, and Faceboo"
+    publishedDateTime: 2021-04-09T13:12:00Z
+    webUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/"
+    ampWebUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 27
+    images:
+      - url: "https://scitechdaily.com/images/Protein-Condensates-Forming-Inside-Living-Cells-777x465.jpg"
+        width: 777
+        height: 465
         isCached: true
   - title: "Algorithms similar to what Netflix and Facebook use to recommend shows and friends can ‘predict’ the biological language of cancer and Alzheimer’s, study finds"
     excerpt: "Experts used a recommendation AI to teach train a large-scale language model to look at what happens when something goes wrong with proteins that leads to disease."

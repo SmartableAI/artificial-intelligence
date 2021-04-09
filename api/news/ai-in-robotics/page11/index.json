@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-21-south-african-startup-aerobotics-raises-17m-to-scale-its-ai-for-agriculture-platform.md",
+      "title": "South African startup Aerobotics raises $17M to scale its AI-for-agriculture platform",
+      "excerpt": "As the global agricultural industry stretches to meet expected population growth and food demand, and food security becomes more of a pressing issue with global warming, a startup out of South Africa is using artificial intelligence to help farmers manage their farms,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
+      "originalUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Image-5-1024x683-1.png?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
+      "publishedDateTime": "2021-01-21T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-designing-customized-robot-brains-for-critical-applications.md",
+      "title": "Designing customized robot brains for critical applications",
+      "excerpt": "While robots are stronger and moving faster than ever before, they still struggle with complex situations and their movements grind to a halt. “The hang up is",
+      "sourceUrl": null,
+      "webUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
+      "originalUrl": "https://www.controleng.com/articles/designing-customized-robot-brains-for-critical-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2021/01/CTL2101_WEB_IMG_MIT_Robot_Brains.jpg",
+          "width": 645,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-designing-customized-brains-for-robots.md",
+      "title": "Designing customized “brains” for robots",
+      "excerpt": "MIT researchers have developed an automated way to design customized hardware that speeds up a robot’s operation. The system, called robomorphic computing, accounts for the robot’s physical layout in suggesting an optimized hardware architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
+      "originalUrl": "https://news.mit.edu/2021/robot-customized-hardware-0121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202101/Robomorphic-01-press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T21:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-ces-2021-celebrates-new-era-with-whimsical-robots-ai-influencers-and-billie-eilish.md",
       "title": "CES 2021 Celebrates New Era With Whimsical Robots, AI Influencers And Billie Eilish",
       "excerpt": "Meet the robots of CES 2021, ones that will pour you a glass of wine, soar you across the sky and land firmly on the moon. A look at AI innovation with an eye toward sustainability and equity at Samsung,",

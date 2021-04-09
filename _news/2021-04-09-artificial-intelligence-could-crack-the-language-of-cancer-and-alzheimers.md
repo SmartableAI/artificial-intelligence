@@ -55,6 +55,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Powerful Algorithms Used by Netflix, Amazon and Facebook Could “Crack the Language of Cancer and Alzheimer’s”"
+    excerpt: "Artificial Intelligence can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found. Powerful algorithms used by Netflix, Amazon, and Faceboo"
+    publishedDateTime: 2021-04-09T13:12:00Z
+    webUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/"
+    ampWebUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 27
+    images:
+      - url: "https://scitechdaily.com/images/Protein-Condensates-Forming-Inside-Living-Cells-777x465.jpg"
+        width: 777
+        height: 465
+        isCached: true
   - title: "Algorithms similar to what Netflix and Facebook use to recommend shows and friends can ‘predict’ the biological language of cancer and Alzheimer’s, study finds"
     excerpt: "Experts used a recommendation AI to teach train a large-scale language model to look at what happens when something goes wrong with proteins that leads to disease."
     publishedDateTime: 2021-04-08T21:29:00Z

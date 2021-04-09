@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/unesco-director-general-and-president-o
 webUrl: "https://www.miragenews.com/unesco-director-general-and-president-of-540029/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1416
     height: 829
     isCached: true
+
+related:
+  - title: "UNESCO and VIVA Tech launch a call for AI-based solutions that benefit people and planet"
+    excerpt: "... of recommendation 3C of the Secretary General’s Roadmap for Digital Cooperation dedicated to AI. With the Recommendation on the Ethics of Artificial Intelligence, currently in development, UNESCO will further contribute to protect and ..."
+    publishedDateTime: 2021-04-09T12:13:00Z
+    webUrl: "https://www.miragenews.com/unesco-and-viva-tech-launch-a-call-for-ai-based-542095/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 32
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
 
 secured: "5DUv/booxwYsCARmj0vLGUYvsVFJyOb0xLAB8vuU/85Vh69h+A693dWcXY2sybJJ9kSxHZsfj5vJ2LpgB4cXVvhB59BFrPmdDKOgDWXjyrWCJiAscRxGrkRkibQM30tdW/MGgQGOe5bsQujz21sXiixJzWtlBuAeqQLz4qsQPxJrA4VYJUhDRyKwWmaCFR35dSbn4Y9SlWOewyyTEgWjKtjhvs0VnBhT+PbY0c1CayZU61z2Z+hZoPChvJefuG0C/Zkbl5ti+Ef5W2id8Togu/bQA6WXmfO0VXxcHgjAszr2ZkLGUNzl+KfDXHBCgqTxh/klOk3i81o0kTOlMoaDdAowsjTU3hioscQM//HJwSM=;cofrG5KF8uCzENibFDxAGQ=="
 ---

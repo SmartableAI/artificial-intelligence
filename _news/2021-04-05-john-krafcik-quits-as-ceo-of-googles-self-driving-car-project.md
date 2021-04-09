@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Meet the Waymo power players who will replace John Krafcik as the co-CEOs of Google's $30 billion self-driving unit"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW -0.00% ..."
+    publishedDateTime: 2021-04-08T17:23:00Z
+    webUrl: "https://www.businessinsider.com/waymo-new-ceos-tekedra-mawakana-dmitri-dolgov-john-krafcik-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/606f2ea330004b0019b26aa3?width=700"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Waymo's CEO is stepping down. Here's how he turned Google's little science project into a $30 billion autonomous-car giant."
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% When John Krafcik became the CEO of Google's self-driving-car division in 2015, it was an expensive science project. Now the unit, renamed Waymo in 2016, is a fledgling business with paying customers, an ..."
     publishedDateTime: 2021-04-06T16:50:00Z

@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-05-government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai.md",
+      "title": "Government audit of AI with ties to white supremacy finds no AI",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In April 2020, news broke that Banjo CEO Damien Patton, once the subject of profiles by business journalists ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/6849676544_dbab162f57_k.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/amp/",
+      "publishedDateTime": "2021-04-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
+      "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
+      "originalUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
+      "publishedDateTime": "2021-04-05T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-why-we-need-new-benchmarks-for-ai.md",
+      "title": "Why We Need New Benchmarks for AI",
+      "excerpt": "An AI system, for instance, can perform well enough that humans ... Ms. Snow is a writer in Washington, D.C. She can be reached at reports@wsj.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "originalUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/public/resources/images/JR-AA286_AIPATE_SOC_20191010143234.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "publishedDateTime": "2021-04-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
       "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
       "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
@@ -156,7 +312,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -301,6 +457,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-makers-of-humanoid-robot-sophia-are-building-its-sibling.md",
+      "title": "Makers of humanoid robot Sophia are building its sibling",
+      "excerpt": "Joyce will use data-in-picture technology and a multiple sensors to provide data to its AI, neural network and computer vision to increase visual perception",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/vgq89j/article34243251.ece/ALTERNATES/LANDSCAPE_615/sophia-joycejpeg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
+      "publishedDateTime": "2021-04-05T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1009,207 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
-      "title": "This premium AWS training could enhance your job prospects",
-      "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "originalUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/02/83a2478f-e18b-47e1-8ad4-5c893f0459fc/resize/1200x/85b4f359ae9c5961c8abf2e96147cb57/aws-amazon-logo-5g-phone-lg-velvet-5893.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "publishedDateTime": "2021-04-02T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-jd-technology-withdraws-ipo-application-in-shanghai-amid-chinas-fintech-rule-changes.md",
-      "title": "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes",
-      "excerpt": "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/02/58b58040-24b1-422c-abb7-a1322db9012e_4cbcb6ff.jpg?itok=vViMRtAY&v=1617370095",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3128171/jd-technology-withdraws-ipo-application-shanghai-amid-chinas-fintech",
-      "publishedDateTime": "2021-04-02T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
-      "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
-      "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "originalUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Derived-3D-Point-Clouds-for-Robotic-Vision-Training-777x454.jpg",
-          "width": 777,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "publishedDateTime": "2021-04-02T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
-      "title": "An artificial intelligence tool that can help detect melanoma",
-      "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://stm.sciencemag.org/content/13/581/eabb3652.abstract",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg",
-          "width": 1400,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

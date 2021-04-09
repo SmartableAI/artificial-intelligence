@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Aunalytics launches Daybreak for Financial Services"
-excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
+excerpt: "Aunalytics, a data platform company delivering Insights-as-a-Service for enterprise businesses ... and employs artificial intelligence (AI) and machine learning (ML) driven analytics to glean customer intelligence and insights in focus from relevant ..."
 publishedDateTime: 2021-03-26T13:40:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145979"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145979"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: KMWorld Magazine
@@ -24,6 +21,6 @@ images:
     height: 594
     isCached: true
 
-secured: "76fZch8IIY/490AHxFmP0nIktRWuYkIRM3BIRdwgiGG3/ppOh+ia50G3hTT2JC3gMG1LrlOlJ8jY4HM7pwrdfkwyamWeN9/3DyIplTRSfH97FbS9VEDIjAyT7LotGvqrFwU1DV9ZopUi4bZTMdZqNeSCBbisSvhw2n4mzzNEcBGZfc3oA5PLLT3Mqk3ik3INVvaNlA18sRhh7vnTqF0bXjnYzSW2+FKzFBMS5Y6XkjAgn4MaZpJl7nJSCuEAC+WYTiPPjj9BcK5vIqudUrUv7Dtn3fktdQEVKsbfQwvW10gW2qjJfPDWxooHX3dfrRQN6pvGMgMrAgHt6cPt4jkSMXYrHlNGKdIxgYKY1hSr+HQ=;uuMmfOdfckVoTe30gC3K6w=="
+secured: "42La2jximmjFfsLMGbjQVDwY1lrgY0sNw/auY7BH9pbatf551HQ7MEDQlVEuPs5ealetaNJQqVaD8ZN2BXRsgCVdk0RMrfIkPiH4NvDBerp/oqn4XVCwfsLiIclTjZiKVEPY+YFpSnS/kQrYPSgS/qUR0w2jeTF+UV5VGvLOApCjrY8mPIYvfveIo9+L82+Qs6Ho+Y4NLNBpfqFMsplBdnVkot3Lr96884b+1/c7uCLUh5sA8rMze7vLWK5TKMczOsosajHA4PMzCJRVCEZo4L6B9qvbxI1G8dUSE7o7gMHRacL187YsRUlk8aEcTSoBMebMObrtH2aZVRSrfRtiREAhkWU4xD/wuRnflqKAbMY=;y3bWnokHU1Nukza8TSZL1Q=="
 ---
 

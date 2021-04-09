@@ -49,20 +49,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2021 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
-    excerpt: "MarketandResearch.biz has published a report titled Global Deep Learning Chipset Market Growth 2021-2026 that supplies an in-depth overview of the market with the help of market-related details. The report provides complete information on the current market situation and offering robust insights about the potential size,"
-    publishedDateTime: 2021-04-04T19:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2021-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
     excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
     publishedDateTime: 2021-04-08T11:07:00Z

@@ -92,7 +92,7 @@ related:
   - title: "Facebook launches free AI bias programme"
     excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
     publishedDateTime: 2021-04-09T10:21:00Z
-    webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
+    webUrl: "https://www.research-live.com/article/news/facebook_launches_free_ai_bias_programme/id/5082312"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
     type: article
@@ -105,6 +105,17 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Study flags gender bias in Facebook's ads tools"
+    excerpt: "A leading-edge research firm focused on digital transformation ... But researchers remain concerned about bias in artificial intelligence (AI) software choosing which users see an ad. Facebook and LinkedIn both said they study their AI for what the ..."
+    publishedDateTime: 2021-04-09T12:13:00Z
+    webUrl: "https://www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "I don't know how many times and ways I can tell you people to get off Facebook"
     excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
     publishedDateTime: 2021-04-06T16:48:00Z
@@ -118,6 +129,22 @@ related:
       - url: "https://i.insider.com/606c87e02556c5001894791f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook’s ad algorithms are still excluding women from seeing jobs"
+    excerpt: "Its ad-delivery system is showing different job postings to men, excluding women from opportunities without regard to their qualifications. That’s illegal."
+    publishedDateTime: 2021-04-09T12:04:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/paper-female-crop-v2.jpeg?w=2249"
+        width: 2249
+        height: 1265
         isCached: true
   - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
     excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
