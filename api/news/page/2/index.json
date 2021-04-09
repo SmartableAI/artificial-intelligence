@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-08-israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us.md",
-      "title": "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US",
-      "excerpt": "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ...",
+      "path": "_news/2021-04-08-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
+      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
+      "excerpt": "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ...",
       "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
-      "originalUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
+      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
+      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png",
-          "width": 640,
-          "height": 400,
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg",
+          "width": 278,
+          "height": 578,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "publishedDateTime": "2021-04-08T02:49:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
+      "publishedDateTime": "2021-04-08T04:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -52,7 +62,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -778,58 +788,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
-      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
-      "excerpt": "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321568/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "publishedDateTime": "2021-04-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-save-the-date-for-the-aws-machine-learning-summit-june-2-2021.md",
       "title": "Save the date for the AWS Machine Learning Summit: June 2, 2021",
       "excerpt": "On June 2, 2021, don’t miss the opportunity to hear from some of the brightest minds in machine learning (ML) at the free virtual AWS Machine Learning Summit. Machine learning is one of the most disruptive technologies we will encounter in our generation. It’s improving customer experience, creating",
@@ -1217,6 +1175,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-whats-next-in-ai-assisted-governance-risk-and-compliance.md",
+      "title": "What’s next in AI-assisted governance, risk and compliance",
+      "excerpt": "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

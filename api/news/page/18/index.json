@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-24-rsip-vision-unveils-robust-metal-implant-anatomical-segmentation-tool-for-improved-planning-of-specialized-orthopedic-procedures-including.md",
+      "title": "RSIP Vision Unveils Robust Metal Implant & Anatomical Segmentation Tool, for Improved Planning of Specialized Orthopedic Procedures including Revision Arthroplasty",
+      "excerpt": "TEL AVIV, Israel & SAN JOSE, Calif.--(BUSINESS WIRE)--RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces an advanced joint segmentation tool for detailed, non-invasive planning of revision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210324005356/en/RSIP-Vision-Unveils-Robust-Metal-Implant-Anatomical-Segmentation-Tool-for-Improved-Planning-of-Specialized-Orthopedic-Procedures-including-Revision-Arthroplasty",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005356/en/RSIP-Vision-Unveils-Robust-Metal-Implant-Anatomical-Segmentation-Tool-for-Improved-Planning-of-Specialized-Orthopedic-Procedures-including-Revision-Arthroplasty",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-salesforce-introduces-ai-powered-features-to-improve-meetings-and-identify-sales.md",
       "title": "Salesforce introduces AI-powered features to improve meetings and identify sales",
       "excerpt": "Salesforce introduced new features in Sales Cloud, including AI-powered meeting insights for video calls and models for opportunity scoring.",
@@ -1114,58 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-3-questions-artificial-intelligence-for-health-care-equity.md",
-      "title": "3 Questions: Artificial intelligence for health care equity",
-      "excerpt": "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
-      "originalUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png",
-          "width": 948,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

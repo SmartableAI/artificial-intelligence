@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Self-Driving Cars May Be Too Speculative Even for This Market"
-    excerpt: "TuSimple, which is focused on the none-too-simple task of creating a self-driving system for long-distance trucks, will likely become the first autonomous-vehicle company to tap the public market. It filed official documentation for an initial public ..."
-    publishedDateTime: 2021-04-07T16:14:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642?mod=markets_lead_pos11"
+    excerpt: "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors."
+    publishedDateTime: 2021-04-07T11:14:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
     ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
     type: article
@@ -40,52 +40,6 @@ related:
       - url: "https://images.wsj.net/im-321568/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Self-driving cars ideal match for Apple: Tim Cook"
-    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."
-    publishedDateTime: 2021-04-06T12:40:00Z
-    webUrl: "https://www.thejakartapost.com/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/06/self-driving-cars-ideal-match-for-apple-tim-cook.html"
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 44
-    images:
-      - url: "https://img.jakpost.net/c/2020/06/23/2020_06_23_98519_1592880438._medium.jpg"
-        width: 747
-        height: 498
-        isCached: true
-  - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
-    excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
-    publishedDateTime: 2021-04-08T11:36:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 41
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2021/4/8/selfdrive.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "Apple chief talks of self-driving cars"
-    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
-    publishedDateTime: 2021-04-07T07:38:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
-        width: 700
-        height: 471
         isCached: true
 
 secured: "rJWz9W5c+A7GX4cvPsksCbbv4bZ4da1SH0qzGZd25KVtctSHLhmlwurOuE0Z+B3PwUsxsfLjj6Lpz4Rk2tsAxPWVWTk+C/uTG2T1qQ8Xi/6IMG9I+iQvG0CMg9R0mjq4CsYmyYPT7qRXYnlis+zzq/wv1b8xqRx+Pya+P8qvcPHVejTceBgwl36yIaEoHa7wlw7kqzfQanKCfnRezC5UE5xv0ZX/XaocE6EkJcQJyUonZSjzS9RnuJRZ5ppw3shLai0IbVCF3Dr+EJc1V8xfw0ACBYY22082pDHco3ea1CvHxlL+w/EbnMtLtFayYYz7FhqiaARNOSDUrJbNP1SV5+LeCz3S6RtYv3IiM8EzwocJJIPpHEtPvt8QcrzWPCGq4S0Sf2WlkStk2utCHHq7nRxELIq02s3opQbhCwtivrvdFJlTOSk9tltTw3c1qxaga9jjJDp80zOwuU71tgoYZN9mY0nSNtfc0RMTF/9VHMVmp+I2Zqkk3bYSy3YaPp7jI6dgjfiSSTUOwwJ5VeXNKA==;+30vvM7AonvVg8pbkFgoDQ=="

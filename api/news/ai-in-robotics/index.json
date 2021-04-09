@@ -978,20 +978,20 @@
     },
     {
       "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
-      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 \"Best in Intralogistics\" certificates",
-      "excerpt": "Stock quotes by finanzen.net SHENZHEN, China, April 2, 2021 /PRNewswire/ -- HAI ROBOTICS ( pioneer in autonomous case-handling robotic systems (ACR systems) has received two \"Best Intralogistics\" certificates from the world-renowned IFOY AWARD,",
+      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates",
+      "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems since 2015 and ... of the Shenzhen based ACR systems pioneer’s strong head start of a fast expansion to the global markets.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-1030271990",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1480252/Carton_picking_ACR_HAIPICK_A42N.jpg",
-          "width": 400,
-          "height": 300,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1001,21 +1001,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T06:48:00-07:00",
+      "publishedDateTime": "2021-04-02T06:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
+excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
 publishedDateTime: 2021-04-08T18:12:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
 type: article
 quality: 41
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ZmbqBSFrhpEDHhnmsX9hCMyNy7RGm7f8/yKrgrKzhSJDN8fqJpOSIGcEHXo71BfV+RxFdRwUqy4s9BAOqys0crcbnicDm/Cbn99FW5nuqwB93EK6WWnXQfzOthmGb0qnxZplcaJWrLx/in78NG9RQqUL6fEDs3NSSi33qjUsauIF4nRYNq0mFuCsZ/tul+OlxyKzVyNMx8z1yz59MQ9RKmfQlrKV0lWKS37E2MHfEcWigXMkazj8guP+ZW6JNGQ1g67qj5j0uWTBk7lIdWYi4oMg8glOTr/veqC1HYTJCsZ6nhd+RvOKJ0c0kJ/Ad1R2xd31oC7GLKfrSZq3p+5zukyajJAU2pou5I7RgvxKN30=;wmQH0nEMmttbOovvzGoyCw=="
+secured: "zBcMp+QlpXzlazq9vTApN424MrgHsSx/jfzso/IXHFf9rdbNFYA9E6JkluX6GJdNsvfoVDUilGDPAFn5Q2ycTyJ77IjCDOlxv/rzsLygoxeIh87igVVdVjdxT6TLnXQaQC8Rxpit20CXGgMxR3s27f+TDpmb30FGStsWdQBVqdvdc6XhzQPg7dr1DlVnos9KdrNF2jkyz8eIhSiV4NRuNZb8cQb1D1sWgU2ok8Ec74FPBwNA8DtoGxGEBG5h7C8ZdcWBVCFKRZqchfKUCjJO5U0yvlKMr96WqYIR+ql1QH00nw6rDMAPuSBcGLf8G0bRcQlyZ/K4r+72vIXb+8w+ASE/se8IrJ9lkm/4PNFeh5g=;nfMetQq7ofZvNYxwWbz7YA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2021-01-26-trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones.md",
+      "title": "Trinamix unveils 3D imaging to stop facial-recognition theft on smartphones",
+      "excerpt": "Trinamix is introducing a 3D imaging solution that helps prevent fraud when someone tries to log into a system using facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/trinamiX-secure-face-authentication-solution-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/trinamix-unveils-3d-imaging-to-stop-facial-recognition-theft-on-smartphones/amp/",
+      "publishedDateTime": "2021-01-26T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-edgeq-reveals-more-details-behind-its-next-gen-5gai-chip.md",
       "title": "EdgeQ reveals more details behind its next-gen 5G/AI chip",
       "excerpt": "G is the current revolution in wireless technology, and every chip company old and new is trying to burrow their way into this ultra-competitive — but extremely lucrative — market. One of the most interesting new players in the space is EdgeQ,",
@@ -1132,58 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world.md",
-      "title": "Hyundai DAL-E Is A Robot Salesperson For A Covid World",
-      "excerpt": "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
-      "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
-      "publishedDateTime": "2021-01-25T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

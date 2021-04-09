@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Indian AI-driven speech recognition firm banks $140m in series D round"
-excerpt: "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ..."
-publishedDateTime: 2021-03-31T13:25:00Z
-originalUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round"
-webUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round"
+excerpt: "Funds raised will be used to develop Uniphore’s technology in AI, automation, and machine learning across the enterprise."
+publishedDateTime: 2021-03-31T12:32:00Z
+originalUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!"
+webUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "ncXVc425DHJLdRkqXo9uzCfZBLD8ckCCk5Vq1Fya1iaE8gKZGjyTVVd5flVtHcblCNAMjz22i+YuyLjzX/E1hV+IBf7M6paEO0jB3GmuQ2G2iXjjwuurXF5W1fLnKRDSwv/LX4H8bHyyypB+/Je5E3iyf4NaewGPnfpWQT7RLQjzB6qHHgRAbhkqzyyfYJ4L6WHCxSLC1M1OpJhh6frJFrQR8hv0+09rAOjlKogpgjXFvfGgemte4JCJ232njIjsLP/7jSOG5D6qr4245xrvj62XHzmCDrY8ExlZ/vqjr1dzQTq6ZCenZ7splcMWWHSPtgJcwCoiE0sAuLjcWmaOgVK7X2EmuSB65NpqVCtNkRmzi9bjO6l4jwB4w9KD5kPaNdVXm5i8tFo+j2hXV5m93l2CyVF1J4YiLF4f46jCqAOYoLjmfbjJAOTT27hhSDg7m5c8OAqWB/pnIRaMUoE7ZtM0/AxUMxoic7GgHyVdkTodzdKczpqkk7Fxj4qYwxkJphzfdR5lOYmoPlGvDwicVA==;T32p0HJfprXtZHFooqaQyA=="
+secured: "YjVId1Z48mn/dWXnmLAFsgl7/HlRrgKOgH/AtIhXH165K7gcIpR9zc/m5hk54kCqqlK69mgWk+or12ALtoK8UFlUDT2d4y0gvx/MZZv+kd+PPpMJGlkNwf4HZ71Rj6Qfk+NWnfw8isMh41+XYFV/oCS8SJZ0ykFu7uBIQkajlmfgB2imQ8VxePEnS9spmbvSmNTGBIPz4JM5xi4SUTV+5ma518y/6JTExFxynUxGEIMaCQ/4veK+7FWd5SCsFCZUDuvoA8I1l2q6bXWJU62xrAZYZR25y6EUFZMFZzIDLs3sZHrCMdkTBR3hsftZgkCkGRZW9m91JLddX5SdXIrkgqiOo6YBwopeaCDVAFd5xOMnCt+MVvacrNvAhV7UPIdHyil8PcNF1ZQFlFDuH6ZxGJgMXSmFe9URGLKhgNiEy40x2JIT8rsVswRUbVFGzUAjwsGwiHKrpA2bhYHKlfT2ETjAkQwtFyETOoP54vW6XRE0Be2bFORC2+XPVXjzbAr2/yDGCRdTjf/l9Uok/Q6t9A==;wRWZEeSukV9Yd5Grbvzmlg=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-07-whats-next-in-ai-assisted-governance-risk-and-compliance.md",
-      "title": "What’s next in AI-assisted governance, risk and compliance",
-      "excerpt": "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:00:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
       "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
       "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help ... have a lot of interest from many of the top fintech companies that are out there,” Bloch ...",
@@ -282,6 +230,58 @@
         "name": "Carscoops",
         "domain": "carscoops.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
+      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
+      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-321568/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "publishedDateTime": "2021-04-07T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -297,6 +297,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-self-driving-car-from-lawyer-frederick-penneys-perspective.md",
+      "title": "Self-driving Car From Lawyer Frederick Penney's Perspective",
+      "excerpt": "SACRAMENTO, Calif., March 25, 2021 /PRNewswire/ -- On March 18, 2018, the first known automobile accident death by a self-driving car occurred in Tempe, Arizona where a Volvo XC90 SUV struck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/self-driving-car-from-lawyer-frederick-penneys-perspective-301255886.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/self-driving-car-from-lawyer-frederick-penneys-perspective-301255886.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443473/Frederick_W_Penney.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
       "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
       "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
@@ -1365,49 +1408,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
-      "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
-      "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "originalUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Self-Driving-Cars.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "cdnAmpWebUrl": "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "publishedDateTime": "2021-03-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

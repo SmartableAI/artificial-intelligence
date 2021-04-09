@@ -87,9 +87,9 @@ related:
         height: 300
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
+    excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
     publishedDateTime: 2021-04-08T18:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
     type: article
     provider:
       name: Associated Press
@@ -199,6 +199,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TAkYpFgFIIazv7IN4VU0XenxZlrP7ga7jz4+g8aYY4g/+XRPngK6zVqgpSGxQGRe/rkRO6AP51opD8Br6FzbYd27OLfyWln4XZfBq4JAd5cZKGxGkAoodTpF9BTqfPIgjfnplvo1phHBqZuPEMfrteZNQm3CqrPOnE6+6SRgFZ94E90LauZrXcibqBSnNhV1R0WHCcKkAfDhLnguypXRI3gDkBFMZdx0aDO4PEGNLwaRevE80Ziz9vWL2NiioFwcEvZiSylR+viska+6m7BhWN2FVLZbYs0or0PhXEUF+2AA1P31BjmysLhOVH2SeB10vHBJNea4aLqhSkBDa1qM3+U08UKk6Mec2MzHfAU7geI=;maK+CDk1JM5WvxrvfMpzNQ=="
+secured: "9AzieapFFkD0Jlh3xMHfSQ0GLzgZWXwy2fNXYiCwRI3fxJLM5K638PcNeTANcsRIx3B6DnbxCGsJVSImSXErs6FwwKvtMkqK99EjtraCe7y2X55S6pCaPmchX8caVKOl4MwYrgrv8gOBiHHlTbBRK7pTMqvBgbMDUQEswhduddBil+EMOVk0M+2uOCEVJQ9jxvyp8HZM/Wif/CWg3SJ88E0WFh+YR90jZA1Y0mOJ+HKe3zK8I/9I1CQtlGCVZu9/wPR1DF3z7akJfd9IwBxRHhi4nsHsWS3dPwHwXGW7bSUlxpAnbLIcdKRBJKkvcAv0ipRT89dWILHldlHP3w3n67bz0eIy33SKZRmH/rsEfI4=;AB0TXXRUHTNBsuErudlbuA=="
 ---
 

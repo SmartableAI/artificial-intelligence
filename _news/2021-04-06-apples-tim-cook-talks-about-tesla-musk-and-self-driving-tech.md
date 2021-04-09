@@ -9,7 +9,7 @@ ampWebUrl: "https://insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-auton
 cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/499187/apple-tim-cook-on-musk-tesla-autonomous/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving"
-    excerpt: "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,"
-    publishedDateTime: 2021-04-04T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/"
+  - title: "Grab And Tesla Might Soon Compete In The Self-Driving War: Who Will Stand To Win?"
+    excerpt: "If the number of trials for self-driving vehicles in Singapore is anything to go by, the future of driving in the Republic is, it seems, driverless ... s a preliminary version of its self-driving artificial intelligence (AI) program."
+    publishedDateTime: 2021-04-04T23:54:00Z
+    webUrl: "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/"
+    ampWebUrl: "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/"
+    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Vulcan Post
+      domain: vulcanpost.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60696d2c3a792eb62a553dc8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1827%26cropY1%3D100%26cropY2%3D1128"
+      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/04/tesla-grab-606abf42e7396.jpg"
         width: 1200
-        height: 675
+        height: 624
         isCached: true
 
 secured: "7b9NJMx5nDl+DiAb53HgRDpPfQJTjWUpibCbPQ5IxPzpGy4XKorKoDYYsnCU/WXuDvHUtecKblR4Rw4HUPAZ7FRgvnOG0k5+/YWn8FUwzhAKWOWV5C0mj0BE3+AY6C4kPOVTU5p8kgH7J4rRsy1A2GIiu1+9KGMAQ9nrGHqitRgEJCqXwzeZbUSNMMRYnpVnr+S0J+l6q91FMpzqSdfc7bfvL/34/nJ+CnnNQkC5CVyclyCddjP8LJwHIQODeD2bzE+F6cBQD9NoiMgdFtny+JazCF8MWaH5UE5JvONb/oOZtVTNLBQTLsUmf/b2C72sX0T8Ny5ZKkfVqmqRvAKXlRnsV6fthAo9aqLrSI0CN4VPyZDl9X7r9hURmaL4vvVmx7WD/jHhEqJNq/98GeTKJZvftVefC0XQZp2/KPy090WynqVgegjSOsPP1FQdbc7l6Mrhlr7cwqJpM10o6G5rAU2fPD3oXscMdpeYd6D1geL+AvCFyQK1EgpNpo1kFTLKIaxfhFMtUMPhmMmvXmwcQw==;6s0eROwQDjO/OYHVNoDu1w=="

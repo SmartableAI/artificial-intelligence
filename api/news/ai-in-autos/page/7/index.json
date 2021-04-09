@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-16-self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand.md",
+      "title": "Self Driving Trucks Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand",
+      "excerpt": "Feb 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
       "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
       "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
@@ -1413,58 +1465,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others.md",
-      "title": "Toyota, Denso team with Aurora on self-driving cars for Uber, others",
-      "excerpt": "DETROIT (Reuters) - Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
-      "originalUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR",
-          "width": 781,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A92G0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0",
-      "publishedDateTime": "2021-02-09T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

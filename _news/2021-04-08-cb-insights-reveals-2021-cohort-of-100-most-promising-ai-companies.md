@@ -77,9 +77,9 @@ related:
         height: 300
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "PALO ALTO, Calif., April 8, 2021 /PRNewswire/ -- DeepMap, Inc., a global leader in autonomous driving technology, today announced it was selected for the annual AI 100 ranking of the most promising private artificial intelligence companies in the world."
+    excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
     publishedDateTime: 2021-04-08T18:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
     type: article
     provider:
       name: Associated Press
