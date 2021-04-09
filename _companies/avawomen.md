@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "avawomen"
   url: "https://twitter.com/avawomen"
-  followers: 1609
+  followers: 1610
 
 size: 51-200 employees
 yearFounded: 2014
