@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "Sophia is a robot of many talents -- she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an auction for $688,"
+    publishedDateTime: 2021-04-09T09:13:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198046440_AP21092018861389_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 389
+        isCached: true
 
 secured: "GrnGvvftU1IeCIfoKAKifgU+z2Q7bPYcj6Yol3AlgyaXxtkpRrJrj+6eukPqYuZDQhcWnBx+d4VOVETwdXaJVdwoD8fcphjgm3UpTHU6L5YLzyPbcxdLjUYCkN5OdMfWdjuc3+FyKlVpQ+1xO2xS8ToITEwPCHPEpNzcXV968phOe2H7o3OmB34nTSdBSWy+X6LsF8XA2kT0yIz2Y1Ak5+Cti4xADnTgEGzSTLDBT7Ym8ER+P15lkPfSQehcKP0yqpeKkRUqkzbCfka6OY1lPUZ0vdDR4Z9Lw8POPI6fDSuk1eMWQSVSLAV5QHsZxNiwhXhq0RTrIOcvWmZfaDNQCI6K2DN6/Rb2uaav9JBy4ac=;peoGwqwnfCctn2DD9Lk0FA=="
 ---

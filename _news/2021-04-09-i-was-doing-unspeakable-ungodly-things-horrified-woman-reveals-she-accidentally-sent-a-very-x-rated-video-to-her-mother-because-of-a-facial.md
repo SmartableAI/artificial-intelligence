@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Woman accidentally sends x-rated video to mum after facial recognition detects family photo in the background"
-    excerpt: "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Sometimes technology can be really useful – but it also can get us into trouble. One woman discovered a feature on her phone that she loved where she could easily share pictures of her son Josh with her mum – until it accidentally sent her something she didn’t want her to see."
-    publishedDateTime: 2021-04-04T16:00:00Z
-    webUrl: "https://metro.co.uk/2021/04/04/woman-accidentally-sends-x-rated-video-to-mum-14356038/"
-    ampWebUrl: "https://metro.co.uk/2021/04/04/woman-accidentally-sends-x-rated-video-to-mum-14356038/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/04/woman-accidentally-sends-x-rated-video-to-mum-14356038/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 40
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/PRC_189224240.jpg?quality=90&strip=all&w=480&h=360&crop=1&zoom=1"
-        width: 480
-        height: 360
-        isCached: true
   - title: "‘I’m so sorry, mom’: TikToker accidentally sends X-rated video to mother thanks to Google facial recognition"
     excerpt: "TikToker @karatonin experienced the downside of Google's facial recognition when she accidentally sent her mother an X-rated video."
     publishedDateTime: 2021-04-07T14:08:00Z

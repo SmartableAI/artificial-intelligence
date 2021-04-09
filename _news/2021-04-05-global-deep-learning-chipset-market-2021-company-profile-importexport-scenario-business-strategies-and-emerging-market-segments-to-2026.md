@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fusing business and Artificial Intelligence: The ideal way to salvage your now-useless Covid data"
+    excerpt: "That’s going to come as quite a shock to any CIO who’s been carefully building up a great conventional BI (Business Intelligence ... like predictive maintenance across manufacturing, healthcare and many other sectors. This is one of the most exciting ..."
+    publishedDateTime: 2021-04-09T09:01:00Z
+    webUrl: "https://www.itproportal.com/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 46
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KV2t7TXAWBTBWFvg3GP7oB-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
     excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-04-06T08:07:00Z

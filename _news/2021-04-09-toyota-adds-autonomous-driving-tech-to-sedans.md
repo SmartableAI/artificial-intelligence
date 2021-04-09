@@ -27,19 +27,19 @@ images:
 related:
   - title: "Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
-    publishedDateTime: 2021-04-08T09:14:00Z
-    webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUKKBN2BV0F1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BV0F1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BV0F1"
+    publishedDateTime: 2021-04-08T06:39:00Z
+    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 44
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
-        width: 817
-        height: 545
+      - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "Toyota unveils new models loaded with autonomous driving tech"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
@@ -88,6 +88,6 @@ related:
         height: 512
         isCached: true
 
-secured: "XwN9MN3QE2faxM4pvnTRysN8EinEdZSErOzH3hmFTZCpPFBVKeW0OdhJA9E1Ga9xD3IBMe4PnhaE6JfDLdt3iP9KF0L3wPAKycfWpMAeGBlkaoDAq3Vb9rq7ZkppnkGmw45qaMpqwNLR8JPwWLcXcy4s5eB8a0Pgj4mClWiR2ZG8bvtqHDrnr48K6dyZesodlBZeshjuHWDUWrh+TFXel0uZsv0gbAvvQ+ah1aYN/t7LI2atMpSEfbm5zywE9NtQ9swYB9EVsQr5ysZPlS09GlLWEVeamW5QOoUA8nOmyezMAevSESwbQMUT0zPel4WH2NO+7L/1JNbVdJWVSj5e5M3jwVd56klRw++5qnT8ciE=;i0KkePn+tozCbBNy1tAA9g=="
+secured: "53UoJ9K1XvA6Y5BoG6lStGAAk59SeTdhd/fYcIx45Lp0aoUqLXHCLnPLNlaaJQu8NRBAVGVKiILfJygK80eto4WfAiq36xchzM1+YmmH2tvEJUOmIRrAJA1ys+EhO2qA66Lj2d1wvX5odl1hGqzj5eoyEXt9137i/7EAPqUUv1/Xn9IuFknW6jbDqMxeXHYik/v09OQXqhHyeQfXVEkPp90ub9nOUkmBka9rTp6VB//qONBhvn6pModNSkl+FkIVRamS3/abT24zDp10FwPfhm/rSdo7p7WSC/eqic88o7A1a+tNfERpdRSXvSP1G5GtZH+oNxw2antQzsEdxyXVBNli8VHX/21iPeZHUqwDRyrni85no5snfr94Qx0EZar4PNR4K7SN0eUddqH1RTuCMJh6+D1vPV3dc5EjdBzZ4tMB75NbCbRqLtbwSCvi/ncxlwiOYmmWSmQIuFCpODO+hhRI58cK6qQeQ/zcN/A81FeSugUGYH3YhoPO4A+JaBwbPjczmLA2vX3E9fwtqHID6w==;3X4x1sW97xymjpfzoEsmvA=="
 ---
 

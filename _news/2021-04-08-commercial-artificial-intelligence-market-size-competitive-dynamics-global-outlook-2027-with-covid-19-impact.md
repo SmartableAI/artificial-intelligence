@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fusing business and Artificial Intelligence: The ideal way to salvage your now-useless Covid data"
+    excerpt: "That’s going to come as quite a shock to any CIO who’s been carefully building up a great conventional BI (Business Intelligence ... like predictive maintenance across manufacturing, healthcare and many other sectors. This is one of the most exciting ..."
+    publishedDateTime: 2021-04-09T09:01:00Z
+    webUrl: "https://www.itproportal.com/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 46
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KV2t7TXAWBTBWFvg3GP7oB-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Global Deep Learning Chipset Market 2021 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
     excerpt: "MarketandResearch.biz has published a report titled Global Deep Learning Chipset Market Growth 2021-2026 that supplies an in-depth overview of the market with the help of market-related details. The report provides complete information on the current market situation and offering robust insights about the potential size,"
     publishedDateTime: 2021-04-04T19:23:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-publishedDateTime: 2021-04-08T16:15:00Z
-originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+publishedDateTime: 2021-04-08T12:15:00Z
+originalUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "I don't know how many times and ways I can tell you people to get off Facebook"
+    excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
+    publishedDateTime: 2021-04-06T16:48:00Z
+    webUrl: "https://www.businessinsider.com/facebook-data-breach-proves-you-get-off-social-media-platform-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/606c87e02556c5001894791f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
     excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
     publishedDateTime: 2021-04-09T02:45:00Z
@@ -93,7 +107,21 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
+    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
+    publishedDateTime: 2021-04-08T22:21:00Z
+    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
+        width: 948
+        height: 631
+        isCached: true
 
-secured: "i1/zZJNlE6ugSB+WCMVwRbD9UVFlrRwR4FKmZAls9/9c1iZA0u3kOjdiZFK2ZrD1DZ96SyFYu8qe0EFBLi/Tu50GqMf7xkgxlhovKFQqfGcp1zS2DR4zeik6js7/JbvfACgQTSFMkc0Yr/yFy+q0zwNYZ93JDqITF3Zfrpz6gBKjVbvMcflbRIKA/ukZy++miZ+bFcScdgfHuv7Qe0jIfE5CN1q1W3Ay0rAZZm/JNju0xZs9gny/o+zo2Y0GhCcU34RUbX87CJIrFkqIlSUfczr0YZ85fKGYZPsx/TKKN4WtI0TA6ZunzNN2k9G3TqRgPuwzZEjIrDfaHvWW4cmOZYFRGUiTHx2uED3+eIjAfHk1STZUYFSAiG+kFA0z5UKb6T4aJo0JXqtb/tUqeejEkOUcZ+GbDBHkHIwVpgDELREc0zjhvTYrX/aicQ374Mrw1skX5CWX2lGaB1Ybi105NbaVlR9rA0r1A5Si5ajAF0rIF61mxCY5sAZ5hJ/cmRwpheHNabg1WELN0It9gRinvg==;oa6W9O+17VzFC8N7DHBXsQ=="
+secured: "mcB1hlI2fU0vW2kwX5udFYRt7UiweU+86aThIAImxKKcVHO8hYhqhzeeTQamai8+bj7eTT52yKtzkzLUi3HQlavwEJtR7SDWZ/W63DiyVwzBiRsF7TKcAFQphL0FvRvcIVJWCw0ad95N8HVF7CjvF/960ozlG3Og/ddILnAkqYrGo4VpvJJzKVwvS6TgY1usmTHVGfMo0fjvIWgWcU9f58OhFbX/nF8gKsdMPEPXiQwYOb+H1Dgpuj5VMNMabbr54odaVj9Vemd4lE/iD8ggOFiGnSfyoWG8ZqjVYVEQxYysYMzS5ANaUpAhPBi2E5lSEseFLg8zyHQKEoUWy1IEFh55AnHMLTSs0iGufjAV2X4=;S4bQaC6KXmxfh6k7oYVfJQ=="
 ---
 

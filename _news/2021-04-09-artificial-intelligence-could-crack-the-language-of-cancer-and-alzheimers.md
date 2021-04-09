@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-08T22:24:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/04/210408131441.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/04/210408131441.htm"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'"

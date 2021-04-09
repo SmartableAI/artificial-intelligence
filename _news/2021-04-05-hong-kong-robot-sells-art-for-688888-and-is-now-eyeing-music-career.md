@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-f
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2021/04/sophia-creepola.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Robot artist sells art for $688,888, now eyeing music career"
+    excerpt: "Sophia is a robot of many talents -- she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an auction for $688,"
+    publishedDateTime: 2021-04-09T09:13:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198046440_AP21092018861389_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 389
         isCached: true
 
 secured: "QPyyP923YSrY9gLuwztWI/TlQLI84vabIcwQLXFfFkADQlHON0usBUvKgES8syyXzh4R5zyx2+UGz4RnU0uT8kstZgD6c5PZjcZZ3wycneFliVKAkBdU5pKeTBelCriinmkBknM5y7qESdGKDT6q6XOOV8Gg6XTPTj5txBBaw0m33iJOqUbNJ5bJ/jh2fHayrTBE4rkILyH8wJQjsAULIcBd5NUwKD9ngAbWnzheoOugkF/GAYILycvwFJfODAgz8/9VKJ+NLPCI/tZPBODsyhLSjhiKIsL8fIDI2XFhAcM3sg9xOiLtcL78/RZUW4QHKTKcnUoepByoZ0t2ZCuk+T+6/Auj+uL3j3lpmzcumFbuwlmo9WnSkVyW2rAuB4k34c+eYl/GJBWzYdB08ub3VSA1x6+dI0RyZ2DGY7O08GFX0hC/Ut0aCgYxy1luFm8frTIQH/jsVrRj/9SI4uKUgB9Jah2B8aNB+ByycMhoUjw8BZtBR1MY829JcgFsbRvhU6CI8fFdgtJM+SgR7QH9ew==;pzgF8al9eNu8HsIZtUk67A=="

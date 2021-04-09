@@ -36,7 +36,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 44
+    quality: 46
   - title: "Powerful algorithms can 'predict' the biological language of cancer and Alzheimer's"
     excerpt: "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found."
     publishedDateTime: 2021-04-09T00:15:00Z

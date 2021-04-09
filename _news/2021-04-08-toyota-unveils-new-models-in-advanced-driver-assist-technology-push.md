@@ -2,32 +2,28 @@
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
 excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
-publishedDateTime: 2021-04-08T09:14:00Z
-originalUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUKKBN2BV0F1"
-webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUKKBN2BV0F1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BV0F1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BV0F1"
+publishedDateTime: 2021-04-08T06:39:00Z
+originalUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
-    width: 817
-    height: 545
+  - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
+    width: 620
+    height: 348
     isCached: true
 
 related:
@@ -92,6 +88,6 @@ related:
         height: 467
         isCached: true
 
-secured: "cvySbkzWVTE5tqkt8CFPmLxsSXVp7wlPk5Lfcm2/w9bIMT2EChaaE5KA0qaI3LtjTjtnyKwKzxX3BHCoNDRMmJ4xy/kNqIdTvNLLf+uMntvezEN78jm1/jpO0LgUmK0Wj9c5ClAW78uTD9NdL579KGb8wzWSeBtN64ynf8TfP5ZeydW8eAzDfQnzTl6rDh2MnRspF46+ZfrQCqKubgZvcMaX9TQhJXHdgVcpF4j8bo4dTStzEwpubZ9d9WgkCzKde+qZNMg6IYXpbBrXixGYrxoi2ilocps0JtOg67kMaexUCeA+AWuXoCUj+1f2zgPkXU59O1et3SABgZIixjebQATLhnQYWwb1OaOHUZWVYQ0=;C2IY8ltkUYF7JEck4QU1QA=="
+secured: "vDBr5vY/jdqTeKzff2/pvOkKuCo9M4liC/DPAwuF9VO/+mwKAIRslm1r+qal1Opf4GcbGT3X5tXlLccZZVzu9dRhr++uRE3BGt0f9QipDnrlNKJluEuYExgxwjCeM79mH3OEH78SjdHEtxnYbIXwCRvCXRGn/5Mf2h5IFgDBieU3FW3JBvlu0ZLwfnUBx0V8PlzoOTXgM3EgPSoZZGC+jpuA6xm8WbZshP5jZswkGTwChYt20o3SnHZ1VWau0lpA2qPdK+M1OPWXRje5tlLON3koOdSBdxaWL3/OGt+7mBAEeb+7rJZWycwWFrtOssuw0OodkcZDYVidw9tXtOO4VLwtMP9xF1JjY2LYPXIicnI=;Pzmy2BfG4kpEevsO1TgS0w=="
 ---
 

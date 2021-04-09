@@ -30,7 +30,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg"
         width: 1200

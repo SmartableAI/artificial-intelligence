@@ -236,6 +236,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer.md",
+      "title": "Researchers use artificial intelligence in battle against asbestos-linked cancer",
+      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data.md",
       "title": "Levi's Katia Walsh on AI: You can do a lot with 168 years of data",
       "excerpt": "Dr. Katia Walsh, Chief Strategy and AI Officer at Levi's, is looking to combine fashion, data science and the creative process to improve everything from the customer experience and demand to supply chain and design.",
@@ -1109,49 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-google-translate-and-the-end-of-language.md",
-      "title": "Google Translate and the end of language",
-      "excerpt": "When I worked as a food runner in a Washington, D.C., restaurant, I began learning Spanish so I could speak with some of my coworkers in their native tongue. One night, as we were cleaning up, I said to one of my colleagues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
-      "originalUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2021/03/0-1.jpg?fit=1500%2C1200&ssl=1",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/?amp",
-      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/statement/google-translate-and-end-language/?amp",
-      "publishedDateTime": "2021-03-25T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Michigan Daily",
-        "domain": "michigandaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

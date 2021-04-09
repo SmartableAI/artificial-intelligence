@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-03-13-ibm-watson-and-ai-curated-debates-offer-a-new-take-on-the-grammy-experience.md",
+      "title": "IBM Watson and 'AI-curated' debates offer a new take on the Grammy experience",
+      "excerpt": "IBM Watson and artificial intelligence (AI) capabilities could enhance the fan experience with data-driven online debates. \"The launch of GRAMMY Debates with Watson gives GRAMMY viewers an entirely new way to engage with fellow music lovers and be a part ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-watson-and-ai-curated-debates-offer-a-new-take-on-the-grammy-experience/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-watson-and-ai-curated-debates-offer-a-new-take-on-the-grammy-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/12/cc39c4a7-76ec-48f4-9896-660d01b4fdd5/resize/1200x/a3d37be2ac32359f2e069f07f2f800ba/jelena-danilovic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-watson-and-ai-curated-debates-offer-a-new-take-on-the-grammy-experience/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-and-ai-curated-debates-offer-a-new-take-on-the-grammy-experience/",
+      "publishedDateTime": "2021-03-12T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
       "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
       "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at ...",
@@ -1164,59 +1216,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete.md",
-      "title": "Exclusive: IMAX CEO And AI Founder Launch Company To Make Your TV Obsolete",
-      "excerpt": "IMAX AI is a new joint venture between IMAX and Maximus studio. The company, which launched in March 2020, will combine IMAX's technology and data library with Maximus's machine learning to build TVs that can display live programs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604a63b13def725e73b701e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/amp/",
-      "publishedDateTime": "2021-03-11T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

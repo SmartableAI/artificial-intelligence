@@ -51,7 +51,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 44
+    quality: 46
   - title: "Algorithms similar to what Netflix and Facebook use to recommend shows and friends can ‘predict’ the biological language of cancer and Alzheimer’s, study finds"
     excerpt: "Experts used a recommendation AI to teach train a large-scale language model to look at what happens when something goes wrong with proteins that leads to disease."
     publishedDateTime: 2021-04-08T21:29:00Z

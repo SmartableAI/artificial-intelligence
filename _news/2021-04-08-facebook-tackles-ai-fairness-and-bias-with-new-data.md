@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-    publishedDateTime: 2021-04-08T16:15:00Z
-    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:15:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     type: article
@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "I don't know how many times and ways I can tell you people to get off Facebook"
+    excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
+    publishedDateTime: 2021-04-06T16:48:00Z
+    webUrl: "https://www.businessinsider.com/facebook-data-breach-proves-you-get-off-social-media-platform-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/606c87e02556c5001894791f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
     excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
     publishedDateTime: 2021-04-09T02:45:00Z
@@ -92,6 +106,20 @@ related:
       - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
         width: 750
         height: 450
+        isCached: true
+  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
+    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
+    publishedDateTime: 2021-04-08T22:21:00Z
+    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
+        width: 948
+        height: 631
         isCached: true
 
 secured: "u4CnyUPVldR0LSbG5YVevofAprLVuGsmrHbgchk8XTKcESVujTonD71lWDPT9pFlFgylJE5fpdGVxVdp6STEVATlX6AZbh7grJD6LeRZesPbRtpco8xqrC8Ye+ByMEZ4aGWKVDbDX5ZRQuY20Or+pe8JSXPcJionQVRQyxvI2smGE73PjdwdGDh/lcyCl/5ptOFJcLZpmpMt8Oj7J94A4iNb8zWBbHOr74Q7wPF1OejqWYpcnw7q4PGHKbHsefnJ/eD5s/pC+OxL+pERtnFNQZEDip3ty9Bpq5HAJPDdmykib4NLJsZjzyvtfp16xh6h64Bok6F33BpqSTBMSQP5KCaav9qk5PvwZrGcla3SNvsKZhUwj8GFp6HsU0Aucpm2jqSWGYZCK16hNN+B7UHwtFt1V9V63nFvf6ADCYZvLjkPSuDmeMqeDJU4hmHO/hgJ/mhqTh/ECWbcSsVOSMzd4dPjHO1njVOGbUaPz0M8EsMIttGe5zdo7UUmf+o62uLXV8hkX6/RpYiH6X8MiUNVwA==;LahvSLW4UkCslE4GpWYzXA=="
