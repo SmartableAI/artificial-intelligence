@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "VhXP35+LuFqr0gIeihOu8kWZz4iNq7ew34mEBfj4RYt8UBicDyKARJfVLkR4x/XCZP5uEcUlM5EHLJ9/ChPJcNqCTcoG4BNl0GRZBEsoXcx1lXKflGh6rxutjo7rlxgBiW+9va3wl62OjVH5pabPU1M+6yzufXQ+suwn5FSbib4plTvqGHZ7oyb+5qvoUvb8yFQCqJR+/aCf5xawnNgm0+p5hmbtv0JpuC/FW/i9zqjl/PWmJti9Gniwus3U92Dw+Sk8ts/VI6ojBaDqq6Boqy3RGdnSbI8mDrhJslEEJjWSHJOe/GkqQ1xzJzCvOmWvljxMUhyblzKm6Oohp/Cv4jrYV9TQjiUJwiQphAy0uPc=;BwQDYykEzLHj1ommHzHwKQ=="
+secured: "J6hgIA/RgtX2f0NnOU/CcIDf58wTSKsu8/93YI/mJh5ishQCzgklyBPwpwaWUDXJ9OZJe26abAPbhxNeMe2WO9AFYI0OTQW7KCudvTDq4mieJtfEa89O7pWSTajAyEh8xAvARMRsEK8UeXxYDZT9UzpVAB+E3wdQcIjEYZewrNs2JO7ANHT5qugreqtd4pQXgaO010ndNr1l3I66et6NDcsj3QkLvgIXpWMd3luzQXGUjIODM1NgmdFGlBDZTIoZMS2k+u2LEu8g2h3nY3xw+GMrr4DtjZrIiAM1iEdlyBeiOmhU+HiZXlYU5kC+RaHCvDYC3QoQL6ltAj3HbLHaQKdaCnAwe8FEK8XMjZVhiGq3SN6oI3b6xDqmJUcQrNsg5rhujRP1OjRbxuK2BQqQ1+EfYscJ6jy9PQzBAl3HQTuIPmphiCNDfL9KPG6hG4+P+1LbPgLK++R4nywypKpm8PHxFt3cd9i0FpfIBaj3KKfzm2J/tLmKOsUWEBzF/tkz60noLkSfYNwbrnSE61zamQ==;dqriXl55k2M9Dpfz/a2+PA=="
 ---
 

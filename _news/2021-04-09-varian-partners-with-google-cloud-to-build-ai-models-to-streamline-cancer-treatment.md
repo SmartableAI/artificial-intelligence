@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Varian Teams Up With Google Cloud To Build AI To Fight Against Cancer"
-    excerpt: "(RTTNews) - Varian (VAR) Thursday said it has teamed up with Alphabet Inc.'s (GOOG, GOOGL) Google Cloud to build an advanced artificial intelligence based diagnostic ... protected during a course of radiation therapy. These segmented images are then ..."
-    publishedDateTime: 2021-04-08T18:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-2021-04-08"
+    excerpt: "Google Cloud to build an advanced artificial intelligence based diagnostic platform to aid in the fight against cancer. Varian and Google Cloud AI will use Neural Architecture Search technology to ..."
+    publishedDateTime: 2021-04-08T18:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
   - title: "Varian and Google Cloud Collaborate to Aid in the Fight Against Cancer"
     excerpt: "\"We are excited to see how Varian accelerates AI innovation and segmentation quality to improve cancer care with radiation therapy using our state ... we are harnessing advanced technologies like artificial intelligence, machine learning and data analytics ..."
@@ -49,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3HZCGmfjjWJ6bffpOzIHdEaAWVmY1VmB8CKHnzj5FQhJdIdelz1FZRPZwzqP5O030AU/y0x1qCsOqRhtMig3a448VDeMUdgikgpin84p1dXgAXHl+S0mRjoeDsbBo58qj4ye1F3MCkWmCILLBxW23MgqN6PJVmeQs8JcvGMeINxKUR2uFL1/ZqHpXsGFLiX2DpmAtmoPfE3zrUMGfZPacVH/bBuGswqdliOk/Nu/QQschZ4ArRJLHU1zYxLCGpCNNAhnlzSuVtlI2xAZhePGLP0y5fri8q5PR6T0bDlAlndZZadn4dIZe7WBit/bSAhf4o0vB958es+kv4PWalVpLRdqPbQV95dxr0TbRB4+oT4=;cvCeEiYvQH0V+SCx4uHT6A=="
+secured: "QgFETMhNg4UFTXdlw74JgebWiSN+zfS0Ncu7Yj/YRXLVGak/fhwMwT+ED5aRvzbpt8DCpj74qkRJ3jxPELHHuLWOMG68pUdOSjKW5Ku83B3NOIHp7hVXCsXvse398MgH9onh0idcQ4gkLkb5NmqJbFcCNHBLgcrK4KhJ39hxgGQlAnn7/aFVJQsHJ6k2zL4fW1JOgsAqM2x0yiPKnMmz8uQbMyDVy7fl2QCxuiTx5L2BqKhKt6wueoayav2EqJ4sp+cAM49V4r++wkCEOqfV3Jb71AxusH7VgP7sOVUvZ78J8XSgQhFCrN6b1nruh2UE+T7v7x78U1yTGT2An8WsEaQkJCd9Im5SFvy2i1g0dHnC6XwR+qMgJvjTcKQROT6vK/ioXdrq5GpalnsTKDLVbs9HF5OtGQG0odeFDIVTfpQ7Rb6hAwZt2yYm/t6hoYud3x0Ns22yP/RO60t+FWTfIdwCGYwYEzLFCiGqwyz1j5+ySrVfGdvccJ0B3xv3wFlA1aaCoDIkJBi7JC96KtU13g==;CzGZoFQKfsaZUfe+vqtnpw=="
 ---
 

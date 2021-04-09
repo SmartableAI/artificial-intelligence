@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Can AI Apps Help Your Golf Swing?"
+    excerpt: "If you’re on a budget, the new AI golf apps do their best to replicate this process. Take 18Birdies AI Coach, the first such app I sampled last spring, shortly after its debut. After downloading the app to your smartphone free of charge, you record a ..."
+    publishedDateTime: 2021-04-09T16:01:00Z
+    webUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386"
+    ampWebUrl: "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-322439/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Building a Bridge Between AI and Law"
     excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
     publishedDateTime: 2021-04-08T23:26:00Z

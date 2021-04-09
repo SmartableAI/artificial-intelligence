@@ -18,29 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Savills, MRI Software Announce Expanded Partnership to Accelerate AI and Machine Learning Capabilities for Knowledge Cubed"
-    excerpt: "As part of an extended agreement, Savills will expand its integration of MRI's artificial intelligence-powered data abstraction tool, MRI Contract Intelligence powered by Leverton AI, to include MRI ProLease,"
-    publishedDateTime: 2021-04-08T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914"
+  - title: "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US"
+    excerpt: "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ..."
+    publishedDateTime: 2021-04-08T09:49:00Z
+    webUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/"
+    ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1483336/Savills_Patrick_McGrath.jpg"
-        width: 400
-        height: 331
+      - url: "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Teledyne DALSA AI integration expands machine vision capabilities"
-    excerpt: "AI inspection application potential use: Chip leads While AI plus vision inspection methodologies are still in their infancy, one example of where this tandem approach could be expedient is for chip lead inspection. Here, AI could be implemented to detect ..."
-    publishedDateTime: 2021-04-05T13:10:00Z
-    webUrl: "https://insights.globalspec.com/article/16295/teledyne-dalsa-ai-integration-expands-machine-vision-capabilities"
+  - title: "How to Power Your Hospital with Artificial Intelligence in Medical Imaging"
+    excerpt: "April 6, 2021 /PRNewswire/ -- The medical imaging industry is in the midst of large-scale transformation, largely driven by the advancements in technologies such as artificial intelligence (AI) and analytics, digitalization of radiology, as well as the ..."
+    publishedDateTime: 2021-04-06T06:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-medical-technology-medical-diagnostic-technology-diagnosis-and-treatment-e35ec3c20450c2cf9e678084e1db3e7f"
     type: article
     provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VfUxTssoWExARijB69PU5Jx3+INQb/r4J6Cn/+B4eluj3MnAMni79hgEcDVWOj/qVFzHdveywSXsW0YPT+i+Qu0330VZ9iwuiR+aGov2zIstr8T8SYYRZX5933LLN6mw0MahSfUJ7PchB44r2DEZJE4/LM3eig8Zrz5JnhIy02ISmx+8PIdAjn/nqZfhxXU7EEoHpZpOmR2kpsZfyrLbElu5ItovUGwUEgoYC0/4rWug2pKvxQPHxILvYWuyLapbk0xd67cDzCzIW0e4WV5Ax5DW1IgN+rMOfTajCleXEfAOQIUBY3oSs1NqsYbEINPu/t627Nw0huPW284U4FeFwpionoeTQVzNIx+jlwVCNxQ=;O79WOHCvSk6c8wwsH0jy/A=="
 ---

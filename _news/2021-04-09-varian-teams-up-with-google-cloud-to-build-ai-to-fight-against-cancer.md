@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Varian Teams Up With Google Cloud To Build AI To Fight Against Cancer"
-excerpt: "(RTTNews) - Varian (VAR) Thursday said it has teamed up with Alphabet Inc.'s (GOOG, GOOGL) Google Cloud to build an advanced artificial intelligence based diagnostic ... protected during a course of radiation therapy. These segmented images are then ..."
-publishedDateTime: 2021-04-08T18:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-2021-04-08"
-webUrl: "https://www.nasdaq.com/articles/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-2021-04-08"
+excerpt: "Google Cloud to build an advanced artificial intelligence based diagnostic platform to aid in the fight against cancer. Varian and Google Cloud AI will use Neural Architecture Search technology to ..."
+publishedDateTime: 2021-04-08T18:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
+webUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -48,6 +52,6 @@ related:
         height: 1281
         isCached: true
 
-secured: "RZ1ksUkzZdMXS4TkBmAqzB7EfcFQxfTLbw4MxGuF8uInSPfnEVzdQSb7+6hLNOwvwg8vHjDMCV6e+OTPOMw0VfxS1/FjL2SVgYNezTFj/KcWmH+64K0iA4qiqslP3rL9WhuiGPNnneQHVQN3VZRc6S27qmMmOgq7Shi050rxJMenWTnmICzBy1MlLFf16D15dA5Uznd8K/a31/eC3VvSz21gDbHzVcJK5U/0VsdRHbGhW53awhJEVQwKNlcTsEkXZsvzQPULSyYE5jB6akEBjoOUimF2fgY85o9LEWiyLjiJi8PSY8GwUrrpxCjAH80W4gKpwOKEJPBrpPrMgcKhiXRPNyV1Vki6oOC7kFe8fw0=;CmaqPuIOZsTF/JGJQknVzw=="
+secured: "l8uz5r1/kGIG4xobZuBgOtD6L6hTy6QZv/WtsIRLLKtfLwPvlCdg13MuSxjzdmPqZ1p6v2qK6NsbTsGuRwJAyyfYLx03d+d8UWyDmfII0TMawpUzjrIJxNXCduEAYx3ONG46g6wECZ/E/uRGsN2pzF0zOgg0Pb6lzy0fqYhpLu2ewgOCJIPOxDcWJSXlh7xPpv88QOTjdLMf00JGBHSkvuJu4YxE3opsjSo6LSdVKy1Xgsl91fjT3b3UxKrpgYPgYZUpIM+Tlp6xg/2JsFuDfzWUEVJE6GlbGVWvHaaYPrU9RgUDFpSY8x4yx9bNcc8orkwDWKQmGMKaq0qBtU0sby4M12V2yi5M8d1QCb3DrtQ=;WZ0Lwz3g4QPdmMCUt8VzWw=="
 ---
 

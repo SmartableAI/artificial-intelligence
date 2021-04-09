@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencie
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

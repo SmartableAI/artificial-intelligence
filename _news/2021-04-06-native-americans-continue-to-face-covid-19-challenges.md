@@ -26,6 +26,22 @@ images:
     height: 641
     isCached: true
 
+related:
+  - title: "Asian Americans deserve recognition in educational curriculums."
+    excerpt: "However, one of the challenges we face is our age and our inability to vote. That is not the case for most of you readers who are attending UC Berkeley. If we join forces, and all come together, we will hold the necessary power to make real change in our ..."
+    publishedDateTime: 2021-04-09T17:31:00Z
+    webUrl: "https://www.dailycal.org/2021/04/09/asian-americans-deserve-recognition-in-educational-curriculums/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/04/04.08.21.Abigail_-Lamoreaux.quotecard-1800x1160.png"
+        width: 1800
+        height: 1160
+        isCached: true
+
 secured: "KjXw5b6v9AbpZHmh9tLEOLC11k9EwBJ50jsyqQ3SvbEzwPDuuqP19kgtd5l9yyiEJ2VY7AhjFIWGJvsZK9roWSd/7Tyl/ZKM1VhWyP/pgIuDEZY0IZ62UXMQNjO49+8yjgQw8baaFK+MDsWdrBSYzDkuHAXdE1hycMEWwsYYtMernxoXHF3YuxDUw4MxvgfVWYfAV1i9tSddLC2QwbdahYXFfuCnloP6PRFtEkMot9Tny0/bfuZrIIWvE8LIqgTokDQVUwmRqOFYU8KkH+U0qjH3R8iwE3iBb5CKBV4WsI31lGQ0O0ZoG62w/mghi/uy7mGGvwQnZKaSZlyKf3ohzM8TcEuBDJW0dBS4au3DNVY=;339inv7u7PHjbmvnkP2h7w=="
 ---
 

@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Varian Teams Up With Google Cloud To Build AI To Fight Against Cancer"
-    excerpt: "(RTTNews) - Varian (VAR) Thursday said it has teamed up with Alphabet Inc.'s (GOOG, GOOGL) Google Cloud to build an advanced artificial intelligence based diagnostic ... protected during a course of radiation therapy. These segmented images are then ..."
-    publishedDateTime: 2021-04-08T18:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-2021-04-08"
+    excerpt: "Google Cloud to build an advanced artificial intelligence based diagnostic platform to aid in the fight against cancer. Varian and Google Cloud AI will use Neural Architecture Search technology to ..."
+    publishedDateTime: 2021-04-08T18:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
   - title: "Varian partners with Google Cloud to build AI models to streamline cancer treatment"
     excerpt: "Using the Google Cloud AI Platform’s Neural Architecture Search technology, Varian will input its own repository of imaging data to create and “train” models that can automatically perform organ segmentation on diagnostic images."

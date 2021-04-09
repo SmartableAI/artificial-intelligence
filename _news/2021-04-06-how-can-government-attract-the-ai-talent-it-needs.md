@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-can-government-attract-the-ai-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

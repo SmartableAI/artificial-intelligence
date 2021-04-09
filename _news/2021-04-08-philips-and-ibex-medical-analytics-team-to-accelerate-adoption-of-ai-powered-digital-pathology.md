@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parties use data analytics, AI to understand voters’ preferences in Kerala"
-    excerpt: "Though bulk SMSes and recorded voice calls remained in use, political parties, aided by IT firms, used data analytics and Artificial Intelligence (AI) for analysing voters’ minds and the character of a constituency. AI is a machine’s ability to think ..."
-    publishedDateTime: 2021-04-04T23:50:00Z
-    webUrl: "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 55
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/4/5/w600X390/Partiesaaa-.JPG"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Chevron, Handy Mart Operators Deploy AI-Powered Predictive Analytics to Streamline Operations"
     excerpt: "Regional convenience and fuel retailers H&S Energy of California, E.J. Pope & Son of North Carolina and Welcome Break in the UK have implemented AI optimization tools from Hypersonix to support functionalities including real-time fuel pricing and ..."
     publishedDateTime: 2021-04-05T19:25:00Z
@@ -84,34 +68,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
         width: 792
         height: 447
-        isCached: true
-  - title: "Fujitsu Australia acquires Melbourne data analytics consultancy Versor"
-    excerpt: "Fujitsu Australia has acquired Melbourne-based data analytics specialist management consultancy Versor for an undisclosed sum. Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence and machine learning to underpin its digital transformation consulting services."
-    publishedDateTime: 2021-04-06T01:13:00Z
-    webUrl: "https://www.crn.com.au/news/fujitsu-australia-acquires-melbourne-data-analytics-consultancy-versor-562999"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210406121428_crn-14_mergers_and_acquisitions_iStock-1175614304.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Fujitsu Australia snaps up Melbourne data analytics specialist Versor"
-    excerpt: "Headquartered in Melbourne, Versor provides data engineering, advanced analytics and data sciences services powered by artificial intelligence (AI) and machine learning ... utilities, financial services, and entertainment industries, achieving more ..."
-    publishedDateTime: 2021-04-06T03:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/687414/fujitsu-australia-snaps-up-melbourne-data-analytics-specialist-versor/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/graeme_beardsell.jpg"
-        width: 800
-        height: 556
         isCached: true
 
 secured: "m98/9QYnzHKnJ2LIP4X5duwaxh8EjZBOIQG/A2kve3SH+5PxJtQdu2V6TqZVls/+yJUg8NUbs6rQgomKhpxviTdi+RqFQSF0C+z5nodj07DL55cdZ8fFvZBze3hb6fzvS30IuB499y/dOfqPLzujiCNa/sB++cIorBdxzt8oTGYg2up/L6BprfjI6SG/Pn2JEH1resU2rJBkuO7EFOsCUabjJ6tgWBQHEwFQEHqukfBM1NXC43k6A+zbVpLmh/uk58Hslz28X99LwVdlkzz8DEW2+QeYvESSHumFrMvNWQ8KohjQi5J2Gg5/rT3NvS0SxMi+ntxxjob/S3tyCjz0BUqtnBIPt+MegQXVrhl+uTQ=;Y2d9Hf17Nb+NciWIMHdtZQ=="

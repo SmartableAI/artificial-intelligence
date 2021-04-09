@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Securiti Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "--(BUSINESS WIRE)--#AI--Securiti, the leader in AI-powered Data Privacy and Security, today announced it was selected for the fifth annual AI 100 ranking of the 100 most promising private artificial ... [General]Kindred Healthcare and OSF HealthCar.."
+    publishedDateTime: 2021-04-07T13:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=448630"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 40
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "2Ya9s31UkQwoUI7pXLSNovbhyXHmmKqPgIZIPzaBZNrnv+tAAmgR8TC/amQnRv8zveolZZYANPEBVmua5tDHfNlNuiP6LVXNFkkWNL+iUxkwhSGars/Hb2OSBnvqxgZj4RNzO0i9WVVHHyLpcmIwjcw200QdqgyA+HvK4waqaAUgQQ4vouf5HdOHZMpDwaeAX3mpBAf0tWRfUrdLS1pY6kUeZ71Bv29fbmW6XL+N7Okwy9/bHDsfbPiKx1F22KjVZfO1NtA1m4pOsLggY+oe0TqrhnYoXnywQCWHfJVsZIjnuM1FmC/ERV9H6MPeWsLIzD+kmX0apmAMJuV/2gBp8fEnSPEjlIXhha4edGFnQyE=;rUpc4OQRu1kWc8p9U9GLJQ=="
 ---
