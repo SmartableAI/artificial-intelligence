@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AccentCare Deploys the Jvion CORE™ to Prevent Avoidable Readmissions"
-excerpt: "Jvion, a leader in clinical artificial intelligence (AI), today announced that AccentCare, a nationwide leader in post-acute healthcare services with over 240 locations in"
+excerpt: "The Dallas-based post-acute healthcare provider will use Jvion's prescriptive clinical AI to take action on social determinants of health (SDOH) driving patients' risk"
 publishedDateTime: 2021-04-07T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/accentcare-deploys-the-jvion-core-to-prevent-avoidable-readmissions/article_b4956298-50bf-5e0e-8c85-46cbc5517c19.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/accentcare-deploys-the-jvion-core-to-prevent-avoidable-readmissions/article_b4956298-50bf-5e0e-8c85-46cbc5517c19.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/p20518729/accentcare-deploys-the-jvion-core-to-prevent-avoidable-readmissions"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/p20518729/accentcare-deploys-the-jvion-core-to-prevent-avoidable-readmissions"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20518729"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20518729"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "4IKOZYZeenFSzcOvhTvp7HSMxmm62T/ZxNQ1rJ9PcAIURo7zkjvl0KOIHQygw8Pf+R7uGp9ph26QkEEgyfe39OLFbcLe7U3+t9WPg5tzw6SePj2pyX4QgkbvPRCtOQeR7u1ljBllmEcgvSGTCVaen7rWrNbJ9Fn0B4RAJdC5wz9maL8fmZcUIw83xHZx9j0I0MP732vP13LKgzE0V2TnSR4BscvxAs+9QXwN3RIJn3F4NJHrIMU4lmUmD9NLx/220XhxHz1abLP9++M8tvmRkXjwTj5koOtK140SjIqDF2qLZX/aj2RTb3qOj03+39HqGg4ybKZDvfmelkZgzDqxA4Tv9A41frZjqFwxGmexj3c=;3/mjAcSU96Sl/qQoMTSPMA=="
+secured: "N7wvChUpeCLeIQgKNEPY+JDVSpJzs76GXiIgs2MjVJUdOjnJ3XE+e5ByMA9xSZ+AyKc565MOEMp2GB2ILlhbGhKqFja7BALK3vyw2D0pmYTnm4X0L1hXaK3PrpIQIYaliwcGvz2J1BavJ5VcuqjVw/F3gLywsaiTzj9nAku+21pCZ3qiBhBolZRDW7zwO3WxPwhitDG/VXfMxVEVicdzqu58l9GVYGcLFuZXhGPfeMmzGlrFuPAHf6+3/r7Du0+zIuz4u9x8gv0oUQVSwPCfwgwghNUdyzl9dlGxCnWdpIaqkBPM0/Zb2c+4aNFMElMgvWeHQrF8R5GKcM5Q7tlEw9APhHanPL+eF1JQdnIU4Xs=;rDn6KbmxfwCkffBOkc79WA=="
 ---
 

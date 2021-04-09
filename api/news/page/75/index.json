@@ -2,6 +2,100 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-02-11-tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout.md",
+      "title": "Tech Companies Want AI to Fix the Disastrous Vaccine Rollout",
+      "excerpt": "As people struggle to book appointments and doses go unused, some companies are proposing automated tools to help deliver vaccines into arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp4nz/tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout",
+      "originalUrl": "https://www.vice.com/en/article/5dp4nz/tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6022db93535dc1009b652b23/lede/1612905945380-gettyimages-1301216370.jpeg?crop=1xw:0.8417xh;0xw,0xh",
+          "width": 5463,
+          "height": 3068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp4nz/tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp4nz/tech-companies-want-ai-to-fix-the-disastrous-vaccine-rollout",
+      "publishedDateTime": "2021-02-11T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth.md",
+      "title": "Brain Corp Extends Leadership Position in Autonomous Mobile Robots with Record 2020 Growth",
+      "excerpt": "an artificial intelligence (AI) software company creating transformative core technology in robotics, today announced record growth in 2020 as global retailers ramped up their adoption of robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/brain-corp-extends-leadership-position-in-autonomous-mobile-robots-with-record-2020-growth-1030073030",
+      "publishedDateTime": "2021-02-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-israeli-firm-tiktalk-brings-ai-to-speech-therapy.md",
       "title": "Israeli firm TikTalk brings AI to speech therapy",
       "excerpt": "The global market for speech therapists is believed to be valued at more than $60 billion, with about 40% of that in the US.",
@@ -1022,102 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
-      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
-      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
-      "publishedDateTime": "2021-02-10T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hustle",
-        "domain": "thehustle.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
-      "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
-      "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg",
-          "width": 2089,
-          "height": 1183,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
-      "publishedDateTime": "2021-02-10T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

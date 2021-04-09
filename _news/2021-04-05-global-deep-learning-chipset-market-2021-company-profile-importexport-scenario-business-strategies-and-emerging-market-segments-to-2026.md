@@ -29,34 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Neural Networks Market Outlook, Demand and Supply, Key Prospects, Pricing Strategies, Forecast and Top Manufacturers Analysis Report"
-    excerpt: "Take a Break and Get a sample of the report: https://www.emergenresearch.com/request-sample/76 By eliminating the logical burden from an application developer and disregarding the rule-based preset algorithms, deep neural networks sets an artificial ..."
-    publishedDateTime: 2021-04-08T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-outlook-demand-and-supply-key-prospects-pricing-strategies-forecast-and-top-manufacturers-analysis-report-2021-04-08"
+  - title: "Natural Language Processing Market By 2025 Top Winning Strategies, COVID-19 Impacting Factors, Business Strategies"
+    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years, deep learning architectures and ..."
+    publishedDateTime: 2021-04-09T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-2025-top-winning-strategies-covid-19-impacting-factors-business-strategies-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
+  - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-06T08:07:00Z
+    webUrl: "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 5
+  - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
+    excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
+    publishedDateTime: 2021-04-08T11:07:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/commercial-artificial-intelligence-market-size-competitive-dynamics-global-outlook-2027-with-covid-19-impact/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "ZyqlmoY9Y41zOVULOANrxxwkIzfeEL5Hgo6LOUFr/JxUNll/U/++Qg2DxT3e3ISDTD+xFkRrch400va/j23RtAlcd6IxhI+V7V3W2yUyMZoc+zcHPuiEV07lNRzYlk/qFjm/8/Z+XnnA5g6dq7TrouLaHTFjtCUoegbxKOssnfqOShjOkfMRN2n2TZrICXdLo8eLi6e6v53vBL0UVJ5fettdQWreaIhRFU5r+Gbre4e8Ukb3pG4nGOzvZxusdT888n63bIYpbLPaDCdgRqCjoMwnaD8lH1s6KP32uRPFFm1wi0st6w8ba7ucWvWkJJNjhA6ZOlcXnZmLEiIbqA0MIfeXT+1PVtbbKuBRS1TkFWw=;Z84Ef1+YZnjcfZjCmWklyQ=="
 ---

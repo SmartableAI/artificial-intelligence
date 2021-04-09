@@ -91,15 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is a robot of many talents — she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world"
-    publishedDateTime: 2021-04-04T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/robot-artist-sells-art-for-$688-888--now-eyeing-music-career-9981973"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "ZgPo1NN0EUX/dEEFzlt2h4d0UU61J3RhedkBqkOh6/jtipiqHqAvaNWHDx+zQDtPS7QsRBsWvb/WNCZITlKhZGtWBBqsDr54BuRf6bMGhrr1fkH3GFl4FSCk7t0E5r5AhANsCnacK2CzFuEHezbf8lWsHBKwbRMN7cCPikqGEHTfjc48endyZ18VV8eF+wVPSPKkJEIslaNQiGC3FMi5YEw/HmlQGlZndioMj7HD4b4kFQ3dnKFalCOR87FWeJYzSxxJ9IFxYH0cP1GFoFSZE/to/72h0IrELkFILGkk5dVE9CYGN8PB9hmLoM0vMKy1Xlqla8VUM1rNQ4pgswL3MxyRxZ1rdxsRyMkhsUzVdPaw5D2z0cSDecKcnX1/WjZnPFlZ2C08cm/qAxvur6SUKabyfB8Bg+UBW0G+KWqk3eeBLdh3X3ZKlupX5Td4NGICqv3X7CvIVbpKxzn/r7frFsS4zwYBFGyJ1XoN+nl4Sy6Qx/9TyFTH4jSPJEW0LSzExhLZsCT7dRQO9ZCFvgQ0gw==;bT8rwgBhwtosUmxR65fHFg=="
 ---

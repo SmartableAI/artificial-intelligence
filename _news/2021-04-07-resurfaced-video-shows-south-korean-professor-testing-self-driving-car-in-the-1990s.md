@@ -159,6 +159,20 @@ related:
         width: 540
         height: 286
         isCached: true
+  - title: "Inside the self-driving car of the future"
+    excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
+    publishedDateTime: 2021-04-09T05:06:00Z
+    webUrl: "https://www.cbsnews.com/video/inside-the-self-driving-car-of-the-future-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 24
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
     excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
     publishedDateTime: 2021-04-09T00:13:00Z

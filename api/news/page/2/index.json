@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-israeli-startups-precision-robots-poised-to-transform-brain-surgery.md",
+      "title": "Israeli startup’s precision robots poised to transform brain surgery",
+      "excerpt": "Shoham include Mazor Robotics, a surgical robotic startup acquired by Medtronic for $1.64 billion in 2018; Diagnostic Robotics, an artificial intelligence-based triage and clinical predictions platform; and Microbot Medical, a Nasdaq-traded company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/04/Tamar-Robotics-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/amp/",
+      "publishedDateTime": "2021-04-08T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m.md",
+      "title": "Alyce, an AI-based personalised corporate gifting startup, raises $30M",
+      "excerpt": "Alyce, a Boston startup that has built an AI platform that plugs into various other apps that you might use to interact and track your relationships with others in your working life — sales ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/",
+      "originalUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2013/12/gift.jpg?w=849",
+          "width": 849,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/amp/",
+      "publishedDateTime": "2021-04-08T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
       "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
       "excerpt": "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ...",
@@ -54,48 +148,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us.md",
-      "title": "Israel’s Aidoc, Radiology Partners join to boost AI use in medical imaging in US",
-      "excerpt": "and we are fast approaching a world in which AI tools serve as critical skill multipliers for physicians, allowing step-function improvements in patient care and clinical outcomes, and reductions in overall healthcare costs.” Get The Start-Up Israel's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
-      "originalUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/05/Worklist-and-Finding-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/",
-      "publishedDateTime": "2021-04-08T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
       "title": "What’s it going to take to perfect self-driving cars?",
       "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
@@ -104,7 +156,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1174,49 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-uae-government-to-employ-biometric-face-recognition.md",
-      "title": "UAE Government to employ biometric face recognition",
-      "excerpt": "DUBAI - The UAE Government announced that it will employ biometric face recognition (Facial ID) to register customers in the \"UAE Pass\" application, as part of its plan to launch the first safe digital national ID for citizens and residents. The UAE Pass ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/UAE_Government_to_employ_biometric_face_recognition-ZAWYA20210407132426/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/UAE_Government_to_employ_biometric_face_recognition-ZAWYA20210407132426/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/171031091852QSQA.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/",
-      "publishedDateTime": "2021-04-07T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

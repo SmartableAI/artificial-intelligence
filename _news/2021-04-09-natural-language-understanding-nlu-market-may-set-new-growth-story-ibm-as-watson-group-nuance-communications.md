@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2268063/natural-language-understanding-nlu-
 ampWebUrl: "https://www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 related:
   - title: "AI-Powered ETF Works with IBM Watson to Analyze Market Data"

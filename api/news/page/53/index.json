@@ -2,6 +2,101 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-02-26-hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey.md",
+      "title": "Hundreds of Amazon Drivers Agree That They Deserve a Union in an Informal Driver-Led Survey",
+      "excerpt": "In just a few short years, Amazon’s warehouse workers have gone from suffering in silence to jobsite walkouts in Minnesota and more recently a full-blown union vote in Alabama. Now it seems another segment of Amazon’s workforce is taking its first steps towards advocating for better conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
+      "originalUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/02/27/hdce8azbuzg6vylz5imx-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
+      "publishedDateTime": "2021-02-25T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions.md",
       "title": "Spy agency: Artificial intelligence is already a vital part of our missions",
       "excerpt": "The UK's top intelligence and security body, GCHQ, is betting big on artificial intelligence: the organization has revealed how it wants to use AI to boost national security. In a new paper titled ...",
@@ -1086,83 +1181,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-measuring-hemoglobin-levels-with-ai-microscope-microfluidic-chips.md",
-      "title": "Measuring hemoglobin levels with AI microscope, microfluidic chips",
-      "excerpt": "Researchers describe a AI-powered imaging-based tool to estimate hemoglobin levels. The setup was developed in conjunction with a microfluidic chip and an AI-powered automated microscope that was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-huawei-uganda-offers-free-ai-training.md",
-      "title": "Huawei Uganda offers free AI training",
-      "excerpt": "The HCNA-AI course uses a mainstream TensorFlow framework and supports Keras, a neural network API and deep learning framework written in Python. Learning material from the course involves basic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
-      "originalUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

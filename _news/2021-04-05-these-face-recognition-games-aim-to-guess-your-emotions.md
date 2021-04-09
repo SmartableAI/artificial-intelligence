@@ -52,22 +52,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Scientists create online games to show risks of AI emotion recognition"
-    excerpt: "Public can try pulling faces to trick the technology, while critics highlight human rights concerns Last modified on Sun 4 Apr 2021 09.56 EDT It is a technology that has been frowned upon by ethicists: now researchers are hoping to unmask the reality of ..."
-    publishedDateTime: 2021-04-04T12:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/04/online-games-ai-emotion-recognition-emojify"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a7653ff89e6bc484d98262cec7a2937264bd8c31/0_14_2167_1301/master/2167.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0bb412e8a7e629951832cefc12f7959"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
     excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
     publishedDateTime: 2021-04-05T10:48:00Z

@@ -1,27 +1,24 @@
 ---
 category: news
 title: "Accelerate Retail and Product Power with Advanced Artificial Intelligence"
-excerpt: "NVIDIA'S GPU Technology Conference will showcase advances in hardware and software, including two sessions by Kinetic Vision on accelerating the power of Artificial Intelligence"
+excerpt: "NVIDIA'S GPU Technology Conference will showcase advances in hardware and software, including two sessions by Kinetic Vision on accelerating the power of Artificial Intelligence ... dive into physics-informed neural networks (PINNs)."
 publishedDateTime: 2021-04-08T22:10:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/accelerate-retail-and-product-power-with-advanced-artificial-intelligence/article_462a39a9-a9ca-5700-b8c6-a34ecdffbdc5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/accelerate-retail-and-product-power-with-advanced-artificial-intelligence/article_462a39a9-a9ca-5700-b8c6-a34ecdffbdc5.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/p20549796/accelerate-retail-and-product-power-with-advanced-artificial-intelligence"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/p20549796/accelerate-retail-and-product-power-with-advanced-artificial-intelligence"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20549796"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20549796"
 type: article
-quality: 51
-heat: 61
-published: false
+quality: 53
+heat: 73
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Applied Materials AI(x) Platform Harnesses the Power of Big Data and AI to Accelerate ..."
@@ -33,7 +30,16 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 10
+  - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
+    excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005204/en/Radiology-Partners-and-Aidoc-to-Accelerate-the-Use-of-AI-as-the-Standard-of-Care-in-Radiology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
-secured: "bGF9FfV2hnTwna+HfwREcR2mJ59j7LFBeiqihz1T+Yx8X3iWtMY1Oo905goG8c7iTAgxGWhRRjYpzoIEBije6wQlEP+JdjRv0lymvfXUodkg8VSp21+5PKK+64A1AyVdwAak2uqsgFPY8IOijqoQ3zdicFvLgaLGd6Cs0oDxwEQSf/gK9AWxc/D2l8QjBvQHOkcgR4/TE5iogXRvio5evXJh2HqBT5/xSyPpGZ/MTocubNrXHyKhWzQUIa93w0Ug+W+oI/tCZZknCtxuUipWzhcR5eLnPTBjPNmZ2LdBI78qD71v6+y8+BhzNYHdkrv5nVgW6Kq1X9IG8GrNxyqIpRk6T3fI5ClZH4D0xw3J1hM=;/SZEpq7zUFJw129vUte4iw=="
+secured: "KpsK3QQvuob86Ys0KNykg6SA8RvBgTFdNb3vy+i+lfRcl1fkjOpUGzSwq+GfMLJ0lcxVCh9rsqFsT5f9xwWu4f9rY5IuG2EzXRGQ5XDwlRkzkBy2DHCCRCCFHQ8WVTX87EvKc2kd0a6XkoP8Kv+EHLihHQ4MQLBlXs1deQ+pyLShYBtcZjc/g4aSxho4rFHib1sodr+lzm8tUyT8O3moZ0d98UOaWQqKrgRoOZlwNK2nqzEMW9zaZT/l1qLhCwE3RoVcByQ1Z0ASMm4M1g8lxdymaGIGiFGNaATHhy7IjZ0sPk88hk9NW7rnUeIq9Zwd8OviqZIhz8UX2xbDd/4E/ZZCuKV+3Yd0rvujV3CdCIU=;cNDgyh0vWAttpL5Jgtb9Pw=="
 ---
 

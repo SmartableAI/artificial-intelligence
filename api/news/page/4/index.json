@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-07-sidewalk-robots-are-on-the-way-but-probably-later.md",
+      "title": "Sidewalk Robots Are On The Way (But Probably Later)",
+      "excerpt": "Albertsons, for example, is working on a sidewalk-ready robot that will bring deliveries to Safeway customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "originalUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606cb3011b65095ebafc88f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "publishedDateTime": "2021-04-06T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-gnarlywood-chooses-invia-robotics-for-fulfilment-operations.md",
+      "title": "Gnarlywood chooses inVia Robotics for fulfilment operations",
+      "excerpt": "will deploy inVia’s Logic artificial intelligence-powered warehouse execution system (WES) at its Carlsbad, California, warehouse. Gnarlywood will eventually add inVia’s Picker autonomous mobile robots as part of efforts to modernize and automate its f ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "originalUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/Gnarlywood_Group_1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "publishedDateTime": "2021-04-06T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
       "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
       "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
@@ -63,7 +158,7 @@
       "originalUrl": "https://www.engadget.com/ai-emotion-recognition-game-182056088.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1130,111 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-has-invested-28-billion-in-norwegian-robotics-firm-autostore.md",
-      "title": "SoftBank has invested $2.8 billion in Norwegian robotics firm AutoStore",
-      "excerpt": "For example, SoftBank backed U.S. warehouse robotics group Berkshire Grey in 2019 ... Nathan Benaich, a venture capital investor with a focus on artificial intelligence, told CNBC that the pandemic has clearly been a \"boon\" for warehouse logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105170051-GettyImages-915309154.jpg?v=1588214950",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "publishedDateTime": "2021-04-06T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Market Outlook, Industry Analysis and Prospect 2021-2027",
-      "excerpt": "In this report a comprehensive analysis of current global Natural Language Processing (NLP) in Healthcare and Life Sciences market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
