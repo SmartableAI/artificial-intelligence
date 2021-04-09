@@ -2,6 +2,101 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-03-01-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
+      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
+      "excerpt": "BELLEVUE, Wash., March 1, 2021 /PRNewswire/ -- Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
+          "width": 648,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-avoiding-bias-and-discrimination-in-machine-translation.md",
+      "title": "Avoiding Bias And Discrimination In Machine Translation",
+      "excerpt": "Bias and discrimination have appeared time and again in various technological forms. A pressing issue is the discrimination found in many of the translation applications in use today, as Google Translate alone now serves roughly 200 million people daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037caffab9aedca931f7676%2F0x0.jpg",
+          "width": 1200,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/",
+      "publishedDateTime": "2021-03-01T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-this-story-was-not-written-by-a-robot.md",
       "title": "This story was not written by a robot",
       "excerpt": "BERLIN — Robot reporters have arrived in the newsroom ... was launched in September 2017 as a joint venture of the U.K.'s Press Association and startup Urbs Media, with more than €700,000 of funding from Google’s News Initiative.",
@@ -1108,111 +1203,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-the-company-using-robots-and-fan-input-to-pitch-stories-to-hollywood.md",
-      "title": "The company using robots and fan input to pitch stories to Hollywood",
-      "excerpt": "Wattpad, a social storytelling platform with 90 million users, is becoming a rich source of intellectual property for film and TV producers.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
-      "originalUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/01/netflix-the-kissing-booth-e1611957617563.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
-      "publishedDateTime": "2021-02-27T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020-2025.md",
-      "title": "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,102 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
+      "title": "Watch: The role of artificial intelligence in auto finance",
+      "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "publishedDateTime": "2021-03-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-ml-community-showcase-march-2021-edition.md",
+      "title": "AWS ML Community showcase: March 2021 edition",
+      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; Each month AWS ML Heroes and AWS ML Community Builders bring to life projects and use cases for the full range of machine learning skills from beginner to expert through deep",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/Header.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T11:48:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-can-ai-make-data-security-simpler-and-smarter.md",
       "title": "Can AI Make Data Security Simpler (and Smarter)?",
       "excerpt": "Cybersecurity teams often face tough choices, and there’s typically much at stake. For example, do you rely on already",
@@ -1055,92 +1151,6 @@
       "provider": {
         "name": "Hellenic Shipping News Worldwide",
         "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
-      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
-      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

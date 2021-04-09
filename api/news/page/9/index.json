@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
+      "title": "Supply Chain Strains Sharpen Focus on AI",
+      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "publishedDateTime": "2021-03-31T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-auditoria-raises-155m-to-expand-ai-platform-automating-repetitive-accounting-tasks.md",
       "title": "Auditoria raises $15.5M to expand AI platform automating repetitive accounting tasks",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Auditoria, a startup offering AI-driven automation products for corporate finance teams, today announced that ...",
@@ -1148,57 +1199,6 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dataikus-new-ai-tools-reduce-dependency-on-data-science-teams.md",
-      "title": "Dataiku’s new AI tools reduce dependency on data science teams",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Dataiku today expanded its effort to make AI accessible to the average business user with an update that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Dataiku.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
       "publishedDateTime": "2021-03-31T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

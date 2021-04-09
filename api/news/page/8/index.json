@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
+      "title": "Study finds that even the best speech recognition systems exhibit bias",
+      "excerpt": "Learn more. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the world. That’s the top-line finding of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
+      "publishedDateTime": "2021-04-01T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-computer-vision-development-platform-crowdai-raises-625m.md",
       "title": "Computer vision development platform CrowdAI raises $6.25M",
       "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. CrowdAI, a computer vision development platform, today announced that it closed a $6.25 million series A ...",
@@ -1113,57 +1165,6 @@
       "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
       "publishedDateTime": "2021-03-31T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
-      "title": "Supply Chain Strains Sharpen Focus on AI",
-      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
-      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-318920/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
-      "publishedDateTime": "2021-03-31T12:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

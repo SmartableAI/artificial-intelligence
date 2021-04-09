@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture AI expert on how first principles prevent problems"
+    excerpt: "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ..."
+    publishedDateTime: 2021-04-09T14:09:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Accenture acquires cloud analytics services-Core Compete"
     excerpt: "and machine learning-infused business outcomes, to serve a diverse client base across the US and UK, with particular focus on supply chain, retail and financial services. Terms of the transaction were not disclosed. Founded in 2012, Core Compete’s team ..."
     publishedDateTime: 2021-04-08T03:09:00Z

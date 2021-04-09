@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
+      "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
+      "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
+      "originalUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
+      "publishedDateTime": "2021-04-06T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-altopack-and-halodi-robotics-to-develop-packaging-robot.md",
       "title": "Altopack and Halodi Robotics to Develop Packaging Robot",
       "excerpt": "Norwegian robot developer Halodi Robotics has entered into a partnership with the Italian packaging company Altopack to co-develop Altopack Packaging Robot. The humanoid robot will be",
@@ -590,7 +642,7 @@
       "originalUrl": "https://mashable.com/video/scout-ai-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -881,7 +933,7 @@
       "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1165,57 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
-      "title": "Guard Digital Identity With Artificial Intelligence",
-      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

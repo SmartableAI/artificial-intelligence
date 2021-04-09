@@ -2,6 +2,92 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-23-hes-fintech-and-ondato-are-now-partners-to-promote-digital-onboarding-in-banking-and-finance.md",
+      "title": "HES FinTech and Ondato are Now Partners to Promote Digital Onboarding in Banking and Finance",
+      "excerpt": "and Co-Founder of HES FinTech. “We are looking forward to discovering new opportunities together with HES. They are experts in lending software and AI/ML-based decision-making solutions. Our major goal is to help lenders scale up their activities and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
+      "originalUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
+      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
+      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "publishedDateTime": "2021-03-23T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-truenorth-and-boostai-enter-partnership-to-supercharge-digital-customer-experience-with-conversational-ai.md",
       "title": "TrueNorth and Boost.ai Enter Partnership to Supercharge Digital Customer Experience With Conversational AI",
       "excerpt": "TrueNorth, a global fintech software development company, and Boost.ai, a global leader in conversational artificial intelligence for Fortune 1000 companies, today announced a new partnership. This partnership streamlines the process of developing and implementing Boost.",
@@ -1100,92 +1186,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp.md",
-      "title": "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)",
-      "excerpt": "The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-03/52372157-infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-03/52372157-infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution.md",
-      "title": "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution",
-      "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

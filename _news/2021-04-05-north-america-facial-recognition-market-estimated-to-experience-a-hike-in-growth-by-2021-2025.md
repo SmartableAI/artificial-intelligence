@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Voice Recognition Market : Emerging Economies Expected to Influence Growth until 2026"
+    excerpt: "The global Voice Recognition Market is anticipated to recoup from the effects of COVID-19 starting from the year 2021 and will grow at a modest CAGR during the forecast period of 2021-2026. Voice Recognition Market is likely to witness an impressive CAGR of 17."
+    publishedDateTime: 2021-04-09T11:35:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/voice-recognition-market-emerging-economies-expected-to-influence-growth-until-2026-2/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "omn1UfTtDRVFlczmhOf9CV6nPLQlsb8XDxlI58kvkyClxOW129qM9e5hn8l+ZofepCi82s+uQwuoM4TkkdJfrbes9B+128eeu3dALx1xIfGO7N9UoCx0uzrOnZAuFRF0CsDAvUWqrq/BXU6KnC9oNTJx86PKKLTdXikIdQuNSw1IQyee/xBq+Kq10d3Bk+NGseo6fHHSH7ouKp1PtX1X+mp2FkbX2iXj5sLcqzxH4bb3IVqiS2PCV3Wa4ZotTej/vCF3yoLGUswRDW+Emxrn6CrzdN6x4CXbMxrAYL0uWVTmz6yleOIFva5nBWfca+cmCCxPJHss2eqfSdvw5rJHTGGCsmfw57jY2XlzxzqQAqM=;aripTnRJCj3LT1FH5vwDgA=="
 ---

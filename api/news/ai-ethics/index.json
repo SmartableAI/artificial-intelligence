@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
       "title": "In an AI world we need to teach students how to work with robot writers",
       "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1400,58 +1452,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem.md",
-      "title": "AI can be unintentionally biased: Data cleaning and awareness can help prevent the problem",
-      "excerpt": "But how can organizations safeguard against systems so the AI doesn't inadvertently inject bias that affects the accuracy of results? Bias can be injected into AI by faulty algorithms, by lack of complete data on which the algorithms operate or even by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "publishedDateTime": "2021-03-18T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

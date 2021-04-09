@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
+      "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
+      "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T08:04:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-announcing-aws-media-intelligence-solutions.md",
       "title": "Announcing AWS Media Intelligence Solutions",
       "excerpt": "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and",
@@ -1353,61 +1406,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-global-artificial-intelligence-ai-chipsets-market-2020-to-2027-size-forecasts-with-impact-analysis-of-covid-19.md",
-      "title": "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

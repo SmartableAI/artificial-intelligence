@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
+    excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
     publishedDateTime: 2021-04-07T12:21:00Z

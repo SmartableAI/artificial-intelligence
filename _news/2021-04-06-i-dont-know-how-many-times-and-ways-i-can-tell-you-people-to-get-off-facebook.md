@@ -96,7 +96,7 @@ related:
   - title: "Facebook launches free AI bias programme"
     excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
     publishedDateTime: 2021-04-09T10:21:00Z
-    webUrl: "https://www.research-live.com/article/news/facebook_launches_free_ai_bias_programme/id/5082312"
+    webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
     type: article

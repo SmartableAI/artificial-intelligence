@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/redefining-the-business-of-healthcare-with-d
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking the full potential of healthcare with software research at Lero"
+    excerpt: "Researchers at Lero are discovering how software engineering can help healthcare catch up to the digital age. Our world is one where healthcare revolutions come in many forms. Penicillin, insulin, vaccination,"
+    publishedDateTime: 2021-04-09T14:40:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/lero-software-research-healthcare"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 40
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/LERO-Marti-ULH-004.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The Future of Healthcare in the Post-Pandemic Era"
     excerpt: "One such startup is Sensely, a company using trusted content from the Mayo Clinic and the U.K.'s National Health Service as well as artificial intelligence to reduce the strain on the humans in the healthcare system. Sensely's competitors include startups ..."
     publishedDateTime: 2021-04-06T06:52:00Z

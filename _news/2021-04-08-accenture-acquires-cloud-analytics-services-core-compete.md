@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crn.in/amp/news/accenture-acquires-cloud-analytics-servi
 cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture AI expert on how first principles prevent problems"
+    excerpt: "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ..."
+    publishedDateTime: 2021-04-09T14:09:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "Accenture Buys Core Compete For An Undisclosed Sum, Boosts Client Services"
     excerpt: "Focused on supply chain, retail, and financial services, Core Compete helps in enabling digital transformations with cloud-native solutions, which deliver AI and machine learning-infused business results. Notably, the firm caters to a huge client base ..."
     publishedDateTime: 2021-04-08T11:54:00Z

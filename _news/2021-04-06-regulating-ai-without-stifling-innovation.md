@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/regulating-ai-without-stifling-in
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
         width: 810
         height: 456
+        isCached: true
+  - title: "Building a Better Berry with Artificial Intelligence"
+    excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
+    publishedDateTime: 2021-04-09T13:35:00Z
+    webUrl: "https://news.wjct.org/post/building-better-berry-artificial-intelligence"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 37
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "ez1o/fTSalqujHiX7MPlEuketmrisQRA9adQokIiyIxDJLRtrN7JSmnfF0QeDGMtlNyAavHQ7MTkFOR8NaVACPOnHwyTIShju10NzWfBQ36MYSNh8fVYBTMqX8YKEm/FcdkxlOq7fJGfKQJh4LTNt74Kk+EBswWJSfDnSlw5HNG4+26ooQyhTqUaBEqzZ+AxP/RFmtc5X4E4saK9Pf2Gs63kuDFE+hN9yvdlSaeraO2DujuPlhK1BLQV0S8pyvgDM6yr0dRDol8qS4+f1rynNuuQG5rGugkEJGcLqm2VZ7AAoD4efpSHPpMh/vdclk8mBGovTDIWo4A0Vqs2jenxC/Zk05sxKw17F45eU7YpF8KeSMu1UHfgliEMQtqvcf5N9uv+gW23d6Fbr6pE14gNsYSI/PkZMyVSquBoLNZmKROY1q/jXpRAk3xaE6M2gIEWR4++y5hcQCwMH42ry+zgqQ5FaqGMD/c3ZxKeg3lLRj2/6iJSzT5br9co9KpISGbVCspbmqCjkQR8646bUn6mdg==;p7IERa8Rg2L88OqrWkqSsA=="

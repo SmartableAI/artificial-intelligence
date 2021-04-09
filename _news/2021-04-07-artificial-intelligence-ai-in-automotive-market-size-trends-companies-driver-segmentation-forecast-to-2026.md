@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
+    excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
     excerpt: "Apr 08, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market Size according to market dependency of specific report. That Provides A Comprehensive Review Of This ..."
     publishedDateTime: 2021-04-08T14:29:00Z

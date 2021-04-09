@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
 type: article
 quality: 83
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
+    excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
+      "title": "Ford-backed self-driving startup Argo AI mulling IPO this year",
+      "excerpt": "Argo AI, the self-driving startup backed by Ford ... partners and it’s not clear if will do a traditional IPO or merge with a SPAC, the people said. And plans could slip into next year, the people said. “We have a solid financial runway due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/argo-ai-mulling-spac-ipo-142737780.html",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/04/02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-year/7071414002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8iMZWyJSib_U6UOBMp8VFQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f2b7c7c1b8a40627f8e7745a7e5fc85",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
       "title": "This premium AWS training could enhance your job prospects",
       "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
@@ -1183,58 +1225,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
-      "title": "Study finds that even the best speech recognition systems exhibit bias",
-      "excerpt": "Learn more. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the world. That’s the top-line finding of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "publishedDateTime": "2021-04-01T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

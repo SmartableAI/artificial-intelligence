@@ -71,6 +71,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Voice Recognition Market : Emerging Economies Expected to Influence Growth until 2026"
+    excerpt: "The global Voice Recognition Market is anticipated to recoup from the effects of COVID-19 starting from the year 2021 and will grow at a modest CAGR during the forecast period of 2021-2026. Voice Recognition Market is likely to witness an impressive CAGR of 17."
+    publishedDateTime: 2021-04-09T11:35:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/voice-recognition-market-emerging-economies-expected-to-influence-growth-until-2026-2/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "wbRgq8QJG4zh2pe7LNNThF4Sr89xtVsR/mfIiqukOmaatkFxE5aQ3q7323sg1UaF+48cQ2kezT3ZTKek+J3VUU/i5n3yQu3xykjzKubmJLxhccQCohVYNQmbW4jD7EuBoRx8GIjf4ADKheocpEIbTYesMbbo6Ow+n99WzH8EQp06M0/Nhy5WCC/x/grjpuBzKR9Z0Ra4ANZbyBhgSbTca/FRypkh6IaWgd8Q0lCVlkFhEuHlsvUbz2p4KMJaJ4NeDD0X+/hp0glJp6KZi00HRL5onn9vkJvqyVuOl/kRMXEq3FUzY7pHSSDDmiQbmsKSz3V04OhGFTzb0IDnyNZX2i/npA3c8bIPkZUkIcNIW5U=;GjpTX6swQA79PnFgTwf8Fg=="
 ---

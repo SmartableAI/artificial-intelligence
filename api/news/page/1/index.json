@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models.md",
+      "title": "Tableau adds support to Einstein Discovery for user control over AI models",
+      "excerpt": "Register for a free or VIP pass today. Salesforce’s Tableau arm is making a case for employing AI to drive a new era of business science using analytics applications infused with machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Tableau-prediction-simulator-general.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "publishedDateTime": "2021-04-09T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
       "title": "In an AI world we need to teach students how to work with robot writers",
       "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
@@ -408,7 +511,7 @@
       "originalUrl": "https://techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -535,49 +638,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-local-police-in-virginia-will-be-banned-from-using-facial-recognition-technology.md",
-      "title": "Local police in Virginia will be banned from using facial recognition technology",
-      "excerpt": "Come July 1, it will be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. State lawmakers in both chambers of the General Assembly on Wednesday overwhelmingly approved a minor technical amendment made by Gov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
-      "originalUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-08T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Press",
-        "domain": "dailypress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1141,7 +1201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1241,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed.md",
-      "title": "Savills, MRI Software Announce Expanded Partnership to Accelerate AI and Machine Learning Capabilities for Knowledge Cubed",
-      "excerpt": "As part of an extended agreement, Savills will expand its integration of MRI's artificial intelligence-powered data abstraction tool, MRI Contract Intelligence powered by Leverton AI, to include MRI ProLease,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/savills-mri-software-announce-expanded-partnership-to-accelerate-ai-and-machine-learning-capabilities-for-knowledge-cubed-1030285914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1483336/Savills_Patrick_McGrath.jpg",
-          "width": 400,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -52,6 +52,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Building a Better Berry with Artificial Intelligence"
+    excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
+    publishedDateTime: 2021-04-09T13:35:00Z
+    webUrl: "https://news.wjct.org/post/building-better-berry-artificial-intelligence"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 37
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "4X3qR58wxicUsDv4K1WXiGZIT5cHNSYG8x71C1On3tmCuff+ktlC8EcnEfZRZDmwUb59yj1Hegs7NWS8LqjpDMzslgdVowjJUapMX+jJYKbZZ+1gEZoLzQ+xDiIy3z22wBDy5+MP10d+R5YNv7DNQiah6aVg4I0w3gp7p5/MczT/MMkRPQdyA5YMTiKcpReQeU1tn3I5xYDWjwjBp/GaVXCd2LR4vh+1rzuOO+Qn+Im0Ea8Z/xhJu2bfzYYszJFPGjQ4mjEOOrjbSDO767QJxqQDKHs3iEr+chsbrzvELvJRy7M5gQq4LXeNi+RUKrVKNRWhe8VkeUv483FRLPDaXumJuM+cL2MdDB5QCgRGrP8=;uMba8K26hdDfYGVyQYir5w=="
 ---

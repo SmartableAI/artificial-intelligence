@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Unlocking the full potential of healthcare with software research at Lero"
+    excerpt: "Researchers at Lero are discovering how software engineering can help healthcare catch up to the digital age. Our world is one where healthcare revolutions come in many forms. Penicillin, insulin, vaccination,"
+    publishedDateTime: 2021-04-09T14:40:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/lero-software-research-healthcare"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 40
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/LERO-Marti-ULH-004.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "2TISAfZ1Bi5bRzW/ub1QqpMHM5/KEGCuM8sJEMsKkNCx5GD8sHzks7BODJC8VCtdUx2m/ZoputiMWJF+PtEnVi5GzONC+L9pq5BsqwAtckBXelt3HEhksIzXeyCprynjhZU4wIMy+yZdurHhseRctCsO78neOZgE8EmTgLFz7KgEjRy6VQYrCd16B+3BP5YrNoibXooLvf1CuWTq/ExeeflWa2Q2AP7e7S81T7Go0GZQaEyLc1JONjAnGdfD1NA7XTxKUWw3wHD9h+3mm+3OhC9BHsxYY1pTX6cZGfIYC/ZvYE32PerFRNl/3JUZ10WyGNBXkOcl9MVdVPcfS/3D6F4wq5Rg4Qausf2hnAdepxbw8ACXzMWTEZ2Ku0OxmKNocbaydLOOVL8LUbzR9Vs2H23hiL4b/51eItoMVaAgByxndlEG7Wvu2Y4JroGwWoQASXK/kl9gJ9pgPXJspSsnU0DteSFCne/O4iu7+44aSizC27Att1AVdfKJ9mYh/G5uZF9Fi9Ti23nL5nHol5t3dg==;xTTiJDkdz9FnOaF+zdR85A=="
 ---

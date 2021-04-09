@@ -2,6 +2,93 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
+      "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
+      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-20T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-how-many-robot-helpers-are-too-many.md",
+      "title": "How many robot helpers are too many?",
+      "excerpt": "About a year ago, at a robotics conference TechCrunch held at UC Berkeley, AI startup founders explored solutions for common problems encountered when trying to automate construction projects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
+      "originalUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Piaggio-Fast-Forward-x-Trimble3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
+      "publishedDateTime": "2021-03-19T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
       "title": "AI Weekly: With RPA on the rise, security challenges remain",
       "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
@@ -1088,92 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.md",
-      "title": "13 startups selected to join Microsoft AI for Social Impact programme",
-      "excerpt": "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/",
-      "originalUrl": "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-niti-aayog-aws-partner-to-train-students-on-cloud-computing.md",
-      "title": "Niti Aayog, AWS partner to train students on cloud computing",
-      "excerpt": "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),",
-      "sourceUrl": null,
-      "webUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "originalUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sakshi Education",
-        "domain": "sakshieducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Facebook launches free AI bias programme"
 excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
 publishedDateTime: 2021-04-09T10:21:00Z
-originalUrl: "https://www.research-live.com/article/news/facebook_launches_free_ai_bias_programme/id/5082312"
-webUrl: "https://www.research-live.com/article/news/facebook_launches_free_ai_bias_programme/id/5082312"
+originalUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
+webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
 type: article
@@ -161,6 +161,6 @@ related:
         height: 631
         isCached: true
 
-secured: "o0M2XUBu0QKsMTc++1eyIx8d90B7CwI6Hpee0QW4e8yk0EKIKlTK1wT404QFPIv7kzU94YBp+vePNdjDittReDIX4gtIjZb2GFoaJgRXnCSlduhx/ThM6lJVcORhwU7Jsoo0UglFhM0CfYxvB2vRik8gcGKwuCCqHe/PGnfe/y4cDvuDcmUkkV/vbGoRnmaX/5oFQs2SI+WhQqR7NqwZq9BgZMlxFOfc56J+kbUq2dlr6SRkSi1YgorKJcCLIoVqIYKJc5pEMJU5pNyZTZsJcrq+Y/iA3D/Bf5za7Nk9TcuZtyrgvLIKwYBm2s3+T/ecsCAtYQ2Zxdveh4X4sgQrtUpC2FTpBhTKlMwRJCA9B1Y=;Alxw13X0sWUu9fzkKVeBhA=="
+secured: "TBUmMfYKWhSnyYFHpb5pJJTFx0yWmXY/ICVboYcUOOIyJOUmRsVrA6ISwmab2ec1mqH7iSeRujHHaGv4MUJBrWt72JpLxayCH9I3VwZtXBCosDDFmnD/f7tBNMaQFj3uJwm91AkuSzcnmYu/j1MAzAXNzUicXbsaSxM6FHm+bNMXWDGMfjQ6oQCEd7MRH5Ra8JBw+igOeQk6asoA0MIz7WMHO/O40kn9wXVsf/BwYxIoqkbOvQ7TLrYGI8XJNT0Um/GARH1I5Zxz3dr8VyEhinHUwC2/QuDYAdgzc7AqqtZDi4/2PrvwhRVFohrC1iIl4iqrqBCEYbTZTq7ak4cEKAbP1HzOCqIlznfeWrgFkRs=;2WjZ0BfA6lCyvQ7+qwVETQ=="
 ---
 

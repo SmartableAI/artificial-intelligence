@@ -51,6 +51,20 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "Building a Better Berry with Artificial Intelligence"
+    excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
+    publishedDateTime: 2021-04-09T13:35:00Z
+    webUrl: "https://news.wjct.org/post/building-better-berry-artificial-intelligence"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 37
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "yAH/BrLqrTYo11MyhGQExYDdv56Todt5/7lQq11bVCTUi/45XbldXHrhbux8OpNf/TSLVGVONXU+v2ChJHHtZ/IXRKcnEyWF1xdbzt4uefXS80Y4Pe6nW8Of7UP1RKmGpU8k0YkB/IWsUOXM1YyqWHMvp+SbpdswjQdOWC8b/svRWo9lHT5B+XdubHfaydce2fmRqXYnX4O2EPqrweMjoZb0sxUDY7uF/drbUr55FTzizhT1bixaVIwbNA0lXELKLZBzkK11Eorqa3Y/uWuyDGjinPNgFAorPVzpQw+YGYPfp1vF3LNZjlibfRFLyVsI+xBOeqWakh543Nv27H2ymfGvViaPTnjul6WbldPX7e8=;mA0ybp6Z9K2u+Gd/pn17aQ=="
 ---
