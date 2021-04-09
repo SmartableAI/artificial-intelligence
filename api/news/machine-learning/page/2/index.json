@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-31-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
-      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
-      "excerpt": "Lorica mentioned that the relative democratization of AI, in the sense of having open source tools, may mean people who may not be experts in machine learning can start playing around with some of the techniques. In addition, the existence of benchmarks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "originalUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
-          "width": 750,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "publishedDateTime": "2021-03-30T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
       "title": "Rust detection using machine learning on AWS",
       "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
@@ -1183,6 +1130,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025.md",
+      "title": "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025",
+      "excerpt": "(MENAFN - America News Hour)Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as well as growth indicators, and further ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025",
+      "originalUrl": "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?771856",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

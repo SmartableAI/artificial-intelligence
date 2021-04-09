@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
+    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
+    publishedDateTime: 2021-04-09T06:52:00Z
+    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
+        width: 800
+        height: 531
         isCached: true
 
 secured: "21y3dNZ1W/wHKLB1IE1+LlabqOHMTk0QWN+O1hNG5n4111zfbZzkyAeqHZpc70HjwmpBJ7n3f5ZjMiq6oqqttJajqp8jOJKLnDABc48lJytC09n0zKipCYWLUFL4qGgzd1C5xsUeQqRO+XseBnhfWL20tPu6Vo3p7Ib7qPLw4vY31mRlNYzpzVmTmQjdeqN7IvSvOt9/9DEwdj8/C+DTG0lRSiHwL0yfcvxxNAm6rgnz8u3IyRLL2JRh6mpquw7jAOO6g3xuO6maWvM6Q4GbBp6fIfYipYPC/semdHkSKQEhFadVO6pob5hJrErgSxXH6Y5oMTsuDLRLyDg2cqWctYCuE773yPGxt1JSFpZGlB4ziX1betYWstY0U6pS/po0TBeGBRbsrSJTbK1bgXy4D8T4SK89W41ZFX4R3SAjz5ikZsqW5OlefJbOurFIN7L5OY/F65Ig8vt7HhsxGCJPk+1l5LO1GPaCHguqQX4VLI6wEjl3X3+pvuAcBg2Nea0T4v0/O079JL9C7cIYF1g4Ig==;2j1XsJhMmMnz+z/WJ+O95g=="

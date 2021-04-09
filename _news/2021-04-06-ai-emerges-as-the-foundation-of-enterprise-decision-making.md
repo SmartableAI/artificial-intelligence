@@ -37,6 +37,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "All about Artificial Intelligence"
+    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
+    publishedDateTime: 2021-04-09T07:13:00Z
+    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: Malawi Nyasa Times
+      domain: nyasatimes.com
+    quality: 39
+    images:
+      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
+        width: 810
+        height: 456
+        isCached: true
 
 secured: "yAH/BrLqrTYo11MyhGQExYDdv56Todt5/7lQq11bVCTUi/45XbldXHrhbux8OpNf/TSLVGVONXU+v2ChJHHtZ/IXRKcnEyWF1xdbzt4uefXS80Y4Pe6nW8Of7UP1RKmGpU8k0YkB/IWsUOXM1YyqWHMvp+SbpdswjQdOWC8b/svRWo9lHT5B+XdubHfaydce2fmRqXYnX4O2EPqrweMjoZb0sxUDY7uF/drbUr55FTzizhT1bixaVIwbNA0lXELKLZBzkK11Eorqa3Y/uWuyDGjinPNgFAorPVzpQw+YGYPfp1vF3LNZjlibfRFLyVsI+xBOeqWakh543Nv27H2ymfGvViaPTnjul6WbldPX7e8=;mA0ybp6Z9K2u+Gd/pn17aQ=="
 ---

@@ -29,19 +29,19 @@ images:
 related:
   - title: "Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
-    publishedDateTime: 2021-04-08T06:39:00Z
-    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+    publishedDateTime: 2021-04-08T09:14:00Z
+    webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUKKBN2BV0F1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BV0F1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BV0F1"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 44
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
-        width: 620
-        height: 348
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
+        width: 817
+        height: 545
         isCached: true
   - title: "Toyota unveils new models with advanced drive-assist technologies"
     excerpt: "Toyota’s latest launch comes as automakers, electric car startups and tech giants invest heavily in so-called active safety features"
@@ -72,6 +72,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F2%252F7%252F0%252F33500724-4-eng-GB%252FCropped-16178662572021-04-08%2520TOYOTA-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Toyota adds autonomous driving tech to sedans"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Honda Motor Co, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new ..."
+    publishedDateTime: 2021-04-09T06:06:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2097271/toyota-adds-autonomous-driving-tech-to-sedans"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2021/04/09/3942875_700.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "1WFbVBbSMLr083TBw05GTzwEkzpO7C4x3IZ9P6iOXlfbRMrcHRpkrsXVPfC2w4OUyCwnvG2yBUxbHPubsDWesNIXxo7CYUzPb760QTakNCDt1qtfHX0m0I9QqUylgSGVhb7Hk9tQ1RZq+9bliMm0q7g4FmPkAwKpBbBq2ZaDCh9m2WLI2j59B+FQkOs4DKuP952hnvgoIKCG06Jo2rnLewlsrqTCi3Rs7Ph6Ac3CxPLZzyJ2ttsbHkTYMx3qyLDEWddIcAw4nll+raBiW/jY8yV2cNM5EWhr84S9vWPcAZzMq2MkaSoDJlAWyXcPQuxjvYGzH9FFN5we8/+t37pi8JvLgc78pyv/1eJ5f0E6c9QY3owjPWKjnz2CRXQ/A7N2FNSepW3TZ2FlEa3AvQl4MVl34IvMB1g7X8E7RggVehvUpQbsYa4V4PMBQhx+BPykJgkUr9s/ANkJG+nQIEkdpFru5euMHYARcYoPhCKo+w3Bz6L7Cp4/+mdrbhDjpEf12qo8i8jdt5rJshp8YbZDkw==;r4qhKnlHR23k0dlhKy1z6g=="

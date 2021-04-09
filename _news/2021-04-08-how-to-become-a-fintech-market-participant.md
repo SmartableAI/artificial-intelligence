@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
+    excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
+    publishedDateTime: 2021-04-09T06:31:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-in-asset-management-a-secretly-developing-field-of-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
     excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
     publishedDateTime: 2021-04-07T16:02:00Z

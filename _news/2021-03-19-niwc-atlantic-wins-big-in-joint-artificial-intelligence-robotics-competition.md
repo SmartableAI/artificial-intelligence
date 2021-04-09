@@ -3,8 +3,8 @@ category: news
 title: "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition"
 excerpt: "Naval Information Warfare Center (NIWC) Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition. The two-part event, which centered on ..."
 publishedDateTime: 2021-03-19T00:01:00Z
-originalUrl: "https://www.dvidshub.net/news/393043/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition"
-webUrl: "https://www.dvidshub.net/news/393043/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition"
+originalUrl: "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition"
+webUrl: "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 740
     isCached: true
 
-secured: "/LvnaQcyC9QDGlHAl0mApwHcMNrdxs/Npn0sBKgLj+POD7AYH37LGyOKu7f2xPFkTLmDvp2qZOUvmF0Y2HzneCA5X0Y4/EePUcmIQ6MIlIhpiDQhnZiT3iUJo1DfSyMRd+Mz2OQZ9yjqxhd/EeniqJH/dGdUa/Yd62R6RxD9WR224XaSiTuR20aAzv7XCnH8ZrLsWZvuzxlVqneX4GyYindH2LTqUeNJMKCjg5LFtQ3+x3GOKJfHJ98KkzrNb23DFuSa6R2SsKVCgWHhRkos3R3acQZpSOn8H5Xy1kyVwhkpu9bP9K5G+/IdXJJbWXR80b4WATzFGC2uTS/hiVfcHBQ5yvkqpCmXQAZ6fZyjzyM=;NfDfEZ43lMdeVXWWuUtsdw=="
+secured: "/EMRP7PWgj/joWLbEo2p1xOglG6P38Zck4TmFDpTZhNWXwlxAEIeHUzYekyBjf0PuEzHTNVHtZSRCcBINdzl4gplMQC3BN2tHKR1bCEeaNO3EiA8W/PEKf4JJweq7BdemyyXcGLJRKXzTvXzSXkEDnWRUQTtfbpAQRgN7B9wbZ2C6mbwZMFG/UOpgzj/AyV7jkE0JbZfvO6F5UiEseMUc4CChDxiPfOnEPFiSJ0rDUmBRUvOh4oosbyGRWhcwq8Bs+A66lVfmLXTmeAM8uUQxT+PL7gUCyQsNwf7f9RzIkAT8JwIdWJ6CtvlQWmPvn5nxFxcLpfaoUEHuMAhn6Zd1Ymi9ADwLXIp/vbcfUguGqg=;4N1kCh9lpbHFhcy/yDVoCg=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1786
         height: 1119
         isCached: true
+  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
+    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
+    publishedDateTime: 2021-04-09T06:52:00Z
+    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
+        width: 800
+        height: 531
+        isCached: true
 
 secured: "sP0LFhNieJNQdbbYtR4WyqQ+6qxChKkIsFxWcfvI2Z+W1JTH31CRVe8uGAv3GTzWWlr7pofSJ214BHe5DHr6qKFK/Zy5H1MLtFwbI49/mXfAhVmcnnOB9DVEULluqqeqOSO0ec/UuIgXmwgawyF6BMn3gsHwKgiQD+n/08uaPwCKgQc2ccxH4kwDMW0OTXvy5gU4a/d9WIVEni7rLHJBaD8mlQ6KV6Xyari6sYTo8YvfF9g1nmpSmn0Mrst1iIda98Y42K6x0fNyPEAX3Fi8sGdkSgoor/vNG+11abqqm4aUs0c397VOBOQnIY5ukwuZxlDtxxxy6+4caipRbJzyd2f0lkZtTmrnUX0SlJV+lFgC8fJFSc0iSlGufvlXCunuh2OSlvH9R49UDZCC76DABEK26FfQgUBcfsKziQv+wqTrOF6p0vNSqjqYmt++eQ0fnfUmHPO3Aa44wwuY6RKoHqMji4r35H1DbxPa+MmaIZdiJELFiTf87liTYFXUCzNYP+umLL7lOGVkoLqKN1tNWw==;pffgh/4TMkK20tpqJd7dQg=="
 ---
