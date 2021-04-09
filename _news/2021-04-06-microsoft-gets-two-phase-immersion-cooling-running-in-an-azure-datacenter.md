@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
         height: 1119
+        isCached: true
+  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
+    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
+    publishedDateTime: 2021-04-09T20:40:00Z
+    webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
   - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
     excerpt: "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ..."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-bu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: CNET
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "LG will shut down smartphone business in July to focus on smart home, robotics"
-    excerpt: "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices."
-    publishedDateTime: 2021-04-05T03:26:00Z
-    webUrl: "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 100
-    images:
-      - url: "https://www.cnet.com/a/img/EVyHjtXCueLKu0u1DCNzYopAafs=/1200x630/2020/09/24/ec6f03fc-1fda-4877-ab8e-12434a759b86/lg-wing-phone-7832.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WdA5xwSOZ8qzkJ6jRUMFQsHM/dSx4TActiuaPbDvyD3so4/KM2nTOHHjGmohs04jrhXwb6E5kOvEadtdi8cTsSo0yTy0Dk+SLKoJEt7ZXgAl9coAc3N6lxJkM2pLJmenGRq03jBALZOMqXL7OHfk3+fIfCyCQ6N5uiiOguPOS/T99cPi8qyJYbedfpyHq3WfV53BRT8hMc95+No9lUfzHTiiCtZN38RM0/pYQzxwLp2plJYQmJbnOZbuNQ6hDRFHNpto1Cz8cBo71cBVh4aP/51AGZSZHm7kyg8islmvsmsoAQTMPbB9SG5iewQVNcscjBXVae9vxEPeCPq4Ffp13+ciGR9ouVJ4+gso0rSi/MuOT1E0PpaOKzFTvKGOcMKAXDjrUmGaZVQJQEfbEYm9tVuw74gJqLwSEhGyAb+RjEvlDnK8yrgS0JJypdyQOBNHchb6fIaqVmTYEQq3pCqHB6G8tIi0w3ilI9NttqIxSM3lSn+81oVE+VP0wpOXp73MbIPNo8MrDFHHsXxxar8yIg==;xUeb0tIqPAeU+fASsI6ekg=="
 ---

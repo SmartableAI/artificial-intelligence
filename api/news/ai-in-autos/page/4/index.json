@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-10-why-artificial-intelligence-is-the-future-of-technology.md",
+      "title": "Why Artificial Intelligence is The Future of Technology",
+      "excerpt": "Different civilizations result from intelligence ... such as driving, facial recognition, playing games, and many more. As a result, AI has been the focus of technology not only at the present but also in the future. Some of the reasons why artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/11/artificial-intelligence.jpg",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
       "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
       "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
@@ -1319,58 +1362,6 @@
         "name": "The Star",
         "domain": "thestar.com.my",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-tesla-full-self-driving-subscriptions-launching-in-q2-musk-says.md",
-      "title": "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says",
-      "excerpt": "In a response to a tweet posted on Monday by a user named Whole Mars Catalog, reading \"elon people are dying for [Full Self-Driving] when is it launching,\" the company's ever-colorful CEO Elon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616352%2Ftesla-model-y.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
-      "publishedDateTime": "2021-03-03T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

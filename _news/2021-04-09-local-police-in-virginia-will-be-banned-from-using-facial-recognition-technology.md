@@ -1,90 +1,79 @@
 ---
 category: news
 title: "Local police in Virginia will be banned from using facial recognition technology"
-excerpt: "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors."
+excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
 publishedDateTime: 2021-04-08T19:00:00Z
-originalUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+originalUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
-  name: Virginian-Pilot
-  domain: pilotonline.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+  - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
     width: 1200
     height: 675
     isCached: true
 
 related:
-  - title: "Thousands of US government agencies using facial recognition without permission"
-    excerpt: "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data."
-    publishedDateTime: 2021-04-07T22:00:00Z
-    webUrl: "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
-    ampWebUrl: "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
+  - title: "Virginia Tech sued by group claiming university policies stifle right-wing speech"
+    excerpt: "Speech First, Inc., a Washington ... same-sex marriage, abortion, and the recognition of transgendered people. “Student A does not support gay marriage. He thinks it leads to a slippery slope."
+    publishedDateTime: 2021-04-08T21:20:00Z
+    webUrl: "https://roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.html"
+    ampWebUrl: "https://roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.amp.html"
+    cdnAmpWebUrl: "https://roanoke-com.cdn.ampproject.org/c/s/roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.amp.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 85
+      name: The Roanoke Times
+      domain: roanoke.com
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg"
-        width: 480
-        height: 320
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/12/412956b4-93fa-11eb-915f-53da3b2091ce/60108a89bdfef.image.jpg?crop=829%2C595%2C76%2C203"
+        width: 829
+        height: 595
         isCached: true
-  - title: "Dallas Police Used Face Recognition Software Without Authorization, Installed on Personal Phones"
-    excerpt: "Dallas police officers used unauthorized facial recognition software to conduct between 500 and 1,000 searches in attempts to identify people based on photographs. A Dallas Police spokesperson ..."
-    publishedDateTime: 2021-04-07T23:00:00Z
-    webUrl: "https://gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918"
-    ampWebUrl: "https://gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918/amp"
+  - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
+    excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
+    publishedDateTime: 2021-04-09T20:46:00Z
+    webUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/"
+    ampWebUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
+    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 76
+      name: VTDigger
+      domain: vtdigger.org
+    quality: 51
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dlvvrj29qyefhehoe4pj.jpg"
-        width: 800
-        height: 450
+      - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
+        width: 1024
+        height: 732
         isCached: true
-  - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
-    excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.idahostatesman.com/news/politics-government/article250461956.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/politics-government/article250461956.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/politics-government/article250461956.html"
+  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
+    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
+    publishedDateTime: 2021-04-07T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
     type: article
     provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 31
-  - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
-    excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
-    publishedDateTime: 2021-04-08T02:00:00Z
-    webUrl: "https://cbs58.com/news/47-wisconsin-law-enforcement-agencies-used-facial-recognition-software-reliant-on-social-media-photos"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 24
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
     images:
-      - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
-        width: 1751
-        height: 985
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
+        width: 500
+        height: 300
         isCached: true
 
-secured: "C7F268CEolLlVV3Z+gBDWsyc/VnR1Af3QV3fa6Zas7GgYd3v48g1vx87PKVRzJdDENd+3PxswZBkbTyJlygMs0Oy/70pv/SPMCPgW2r8xQuq3+gt1jFKoWXVNDlC0FMpGaSxzP3RBe5BreJYrRsHZo7mopPWitaqsV2l69r62E9xhNsg90WY9iAoibMncyePLznfhnUCnkSJDNXOmQfILEaB3NxwrUiTvEMddOYXHSukn+j5FOiYBdZNrUigQKC91nnS7/DgDHb+JvfPteXtUn45mm4iJGXGWgp0zlINJ3uWu0JMLr/0P3IuDpnERGJCzXXHAQvoyXRyV4OpniNiXlBjtJkrsU5t7+d36SlInxV/QEJpzr7B0dukMh1fhFWGQmhsPvhkXlP3vVvpjfppZcfpEVX+WJ1FY4XI2ihLdygFZosHgAirwAhsikLy6gN3NsneDpzkEnKSVK+AAoTxjOCkpjF0rXEPZOMujdVThb+U1n4m1q/W9yYGt4s3LVMbfsYI7lB9zG7h0Wae9GI21g==;OQLoSRF8neZfCqvGrBRJoQ=="
+secured: "6qxTTKHYxebtxzR2uv0DOOzzKXWaeF2a6FbI423ZJ6QN9DkydbpSqOdcexKCpcJVPiBfbPBOuw7XbVtmxctdVl7cHtzQGDRU04Wg4q6abSdrlSHycJ5a2gBrDSJdGkQNETaF5fuXE/9+C8MmFwI4UTzDP4V51eEA5nT6IkND96iG86s2IKld6yZolNcXX7u/lYI03870t9eqDikzMq8LglkcISqManT+1rJQTZwIhH7n6dlE8tSH1kUOZbTkobuavzhi+oaAtYF03YgPD1WRg0wdb7CDit/mdQPFcwopgXx8O4eItMrIh1NCPQXoz+SKgZy9rravrmXkEaEMRM+TBboIY8A+nJ8GF/EwzLzSV/c=;5BZTv9epLkBnUGgjyiI3XQ=="
 ---
 

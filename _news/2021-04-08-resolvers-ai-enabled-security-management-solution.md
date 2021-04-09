@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-Based Fever Detection Camera Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals ..."
-    publishedDateTime: 2021-04-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "raQNOwmv7t8PKCbHM9ix97cO16nvd8TvRyT0B5vLtcNI8+BADoksOUtMNJJs2JefKf6Us1LMGFnIvbvcqx7LTojwMUPShqNjjTk6sV4vP66qbJVdkUGanZtcfl+qG5eLSnRS1svk39WUAuT134N/SUxQ5CtRkbSvWfQmxEMXa+nx8MyAvTJyv1G0WCTFr6Q9h6MZEjVi3VGxONubYpqlD2blTn78Udbs/8MAe7hRF7/0U4+pwRiBVimNLplhMyoJ/jHmu0Akx+AZBMLZSetGs0mMqVkhhbce1xj/RRHb/6iyt73jWJP+v0mXqzuAxXr+3xLD/kogdUk0SRiZKehOYMkUiXfQexQCrzJfbm/6Lmo=;oXFjbeoRY7NY4GiyihtL8A=="
 ---

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Shubu.ai led by IITian raises USD 1 mn to build a voice-based assistant for doctors"
+    excerpt: "After that I worked on various ideas, none of which actually took off but in hindsight, the failures laid the foundation for building Shubu.ai.\" ''I have always worked in start-ups and I felt that start-ups were always a great avenue to explore the ..."
+    publishedDateTime: 2021-04-09T20:53:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ai-startup-shubu-ai-led-by-iitian-raises-usd-1-mn-to-build-a-voice-based-assistant-for-doctors-841140458.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI Startup Shubu.ai led by IITian raises USD 1 mn"
     excerpt: "After that, I worked on various ideas, none of which actually took off but in hindsight, the failures laid the foundation for building Shubu.ai.\"''I have always worked in start-ups and I felt that start-ups were always a great avenue to explore the ..."
     publishedDateTime: 2021-04-09T16:44:00Z

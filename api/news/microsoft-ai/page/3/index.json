@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-azure-percept-helps-microsoft-users-make-the-most-of-edge-ai.md",
+      "title": "Azure Percept helps Microsoft users make the most of edge AI",
+      "excerpt": "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/sarahkatzazu.jpg",
+          "width": 730,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp",
+      "publishedDateTime": "2021-03-03T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities.md",
       "title": "Apply AI to your most critical business needs with new Azure AI capabilities",
       "excerpt": "Tens of thousands of customers, such as Pepsi, Amway, Airbus, BBC, and Progressive Insurance are using Azure AI to deliver immersive customer experiences, identify new business opportunities, and drive impact.",
@@ -1411,50 +1454,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-azure-machine-learning-for-predictive-and-analytical-work.md",
-      "title": "Azure Machine Learning for Predictive and Analytical Work",
-      "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/ck_images/5br39kHV.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T18:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

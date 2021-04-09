@@ -89,6 +89,34 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "Toyota debuts advanced automated driving in Lexus LS and Toyota Mirai"
+    excerpt: "Toyota has begun selling its most advanced automated driving system to date in a refreshed Lexus LS sedan and will soon expand deployment to the Mirai fuel cell vehicle, rolling out a Level 2 system that uses a lidar sensor,"
+    publishedDateTime: 2021-04-08T06:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-debuts-advanced-automated-driving-lexus-ls-and-toyota-mirai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%2C%20Lexus%20self-driving%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Toyota debuts advanced automated driving"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in ..."
+    publishedDateTime: 2021-04-08T06:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-debuts-advanced-automated-driving"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%2C%20Lexus%20self-driving%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Toyota adds autonomous driving tech to sedans"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Honda Motor Co, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new ..."
     publishedDateTime: 2021-04-09T06:06:00Z

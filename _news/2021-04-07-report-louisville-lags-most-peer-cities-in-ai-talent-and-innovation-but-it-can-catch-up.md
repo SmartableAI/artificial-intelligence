@@ -18,24 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Louisville continues to lag on AI capabilities, report shows"
-    excerpt: "Brookings Institution has released a first-of-its-kind report that highlights the challenges Louisville faces in developing its artificial intelligence (AI) capabilities and overall data economy."
-    publishedDateTime: 2021-04-07T18:32:00Z
-    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/07/brookings-louisvilles-slow-growing-data-economy.html"
+  - title: "Report: U.S. military must speed up AI development to maintain edge"
+    excerpt: "Gen. Michael S. Groen, JAIC director, added, noting that beyond defense initiatives, AI will be a driver of the U.S. economy. \"We must act now. We need to start putting these pieces into place now,\" Groen said. Work and Groen spoke Friday after the ..."
+    publishedDateTime: 2021-04-09T21:15:00Z
+    webUrl: "https://www.upi.com/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "National thought leaders, local employers weigh in on AI acceleration in Louisville"
-    excerpt: "\"With every innovation that we're seeing now, we are one step closer to a world where every organization will be an AI-powered organization,\" said Gretchen O'Hara, vice president of U.S. artificial intelligence and sustainability strategy at Microsoft."
-    publishedDateTime: 2021-04-09T13:17:00Z
-    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/09/national-thought-leaders-local-employers-weigh-in.html"
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4741617998029/2021/1/16179988735703/v1.5/Report-US-military-must-speed-up-AI-development-to-maintain-edge.jpg"
+        width: 800
+        height: 531
+        isCached: true
+  - title: "Artificial Intelligence Key to Maintaining Military, Economic Advantages, Leaders Say"
+    excerpt: "Officials today discussed the National Security Commission on Artificial Intelligence's recent report and the progress for the adoption and implementation of AI across the Defense Department. Marine Corps Lt. Gen. Michael S. Groen, director of the Joint ..."
+    publishedDateTime: 2021-04-09T18:53:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2567486/artificial-intelligence-key-to-maintaining-military-economic-advantages-leaders/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 45
+    images:
+      - url: "https://media.defense.gov/2021/Apr/09/2002617893/1280/1280/0/210325-M-KE294-073.JPG"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "JRqXnXsMq6iW2z4j4KgrZu4P7AYSYasolzPsgXFR/9mX+Ug+JdUG5jBfbsu8j+oTMYdpAXI6gap76/Y+KjVsvJ0mJTW4/sme44Ag2L7Tdju0zdEcESlUnFXgkRQRA/rvLcqzkjQZSH1BuvZbbzgll61ydtOBZzS2HGgkJmQXwmTZaHuWe2f1QQpeIjmqOImrRAOMG483kIG49+rHzLkiaDK2r3RHJijEc4y6RZkGGIdqxHCX+EqxxLpjRQQddTVl44FGkyysIahFzozUhoZvBqn/YG8K+JhijMtR6J1+vvAUoKftHmaTsz5ToGwzX4rCaBb7qO4g7ta9WXXCTvd8pW08eL5nxj600C4AVa+FqrI=;Fi9lSlN+Clf4o9iBc/WtKQ=="
 ---

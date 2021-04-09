@@ -75,6 +75,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
+    excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-09T14:35:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "VPGLNxPtlvQmG2osKK5x7sh6nj4a6ZK18Nny6M60o89EqBU+c0hAjnOTfW+DQTtYgyplWRL6nqz978L5wua4J9WEGZQjd6qOiNuiaUSWPJWAOQkvWEUWdWbRvSnO4cS+J+wvD9LUn4GruFJ6SNJNi1ecS6mmS9vOj5wa/M5LPbgHe/EHuCYwcsrx4D3Ws+3ftKcpT8Tq1YI0a46aO9iUXsJmh0asqsYvigEsNVfGo7o1kDgZ4U26qZB8egOTmEiEk8IPaaxbOiC5eZxnTit1LdF0D/zkx1qOTNrzfmcGC3Idk6tslNPfz9kzlCVwQJVBq6OZw8/nxWlDMlZfBsKje9N3S8IvMLJFYef1e7w7luo=;8mSckWc05Oan2qq8DONtyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 36
+  - title: "Voice biometrics forecast to grow at 22.8 percent rate to $3.9B by 2026"
+    excerpt: "Voice biometrics market will spike from $1.1 billion in 2020 to $3.9 billion in 2026, driven by banking, financial services and insurance (BFSI) industry demand"
+    publishedDateTime: 2021-04-09T21:45:00Z
+    webUrl: "https://www.biometricupdate.com/202104/voice-biometrics-forecast-to-grow-at-22-8-percent-rate-to-3-9b-by-2026"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
   - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
     excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
     publishedDateTime: 2021-04-06T22:52:00Z

@@ -59,6 +59,22 @@ related:
         width: 1786
         height: 1119
         isCached: true
+  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
+    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
+    publishedDateTime: 2021-04-09T20:40:00Z
+    webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z

@@ -35,6 +35,22 @@ related:
         width: 796
         height: 418
         isCached: true
+  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
+    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
+    publishedDateTime: 2021-04-09T20:27:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 74
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
+        width: 1360
+        height: 765
+        isCached: true
   - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
     excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."
     publishedDateTime: 2021-04-07T15:30:00Z
@@ -184,6 +200,20 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Waymo.jpg"
         width: 700
         height: 285
+        isCached: true
+  - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
+    excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
+    publishedDateTime: 2021-04-09T20:18:00Z
+    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7915.html"
+    type: article
+    provider:
+      name: Slowtwitch
+      domain: slowtwitch.com
+    quality: 24
+    images:
+      - url: "https://www.slowtwitch.com/articles/images/6/198006-largest_distracted.jpg"
+        width: 620
+        height: 413
         isCached: true
   - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
     excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"

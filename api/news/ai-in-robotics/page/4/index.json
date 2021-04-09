@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
+      "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
+      "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
+      "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
+      "publishedDateTime": "2021-03-16T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event.md",
       "title": "ValleyML is launching AI Expo 2021. The Premier AI and ML Industry Event!",
       "excerpt": "Valley Machine Learning and Artificial Intelligence (ValleyML.ai) is organizing \"AI Expo 2021\" as a three-day virtual event with nine program tracks on",
@@ -1376,59 +1419,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
-      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
-      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

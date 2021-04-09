@@ -115,7 +115,7 @@
       "originalUrl": "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1072,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-xiaomi-invests-15-billion-in-fully-owned-ev-business.md",
+      "title": "Xiaomi invests $1.5 billion in fully owned EV business",
+      "excerpt": "The world's fourth-biggest phone maker Xiaomi now pledges to develop high-quality EVs with a 'best-in-class' connected device ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "originalUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2021/03/vbox12151_HSPH5091_212757.jpg?fit=1920%2C1080&ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "publishedDateTime": "2021-03-31T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-as-big-tech-enters-the-race-pe-vcs-look-for-next-big-thing-in-chinas-growing-ev-market.md",
       "title": "As big tech enters the race, PE-VCs look for next big thing in China’s growing EV market",
       "excerpt": "Lightspeed China also invested in self-driving truck startup PlusAI ... On January 11, internet search giant Baidu also announced its plan to build a new venture for intelligent passenger EVs. It entered into a strategic partnership with auto maker ...",
@@ -1398,58 +1441,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
-      "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
-      "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "publishedDateTime": "2021-03-29T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

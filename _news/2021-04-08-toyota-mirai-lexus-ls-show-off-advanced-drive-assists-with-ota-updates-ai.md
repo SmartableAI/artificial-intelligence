@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
 type: article
 quality: 57
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -75,6 +75,34 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "Toyota debuts advanced automated driving in Lexus LS and Toyota Mirai"
+    excerpt: "Toyota has begun selling its most advanced automated driving system to date in a refreshed Lexus LS sedan and will soon expand deployment to the Mirai fuel cell vehicle, rolling out a Level 2 system that uses a lidar sensor,"
+    publishedDateTime: 2021-04-08T06:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-debuts-advanced-automated-driving-lexus-ls-and-toyota-mirai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%2C%20Lexus%20self-driving%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Toyota debuts advanced automated driving"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in ..."
+    publishedDateTime: 2021-04-08T06:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-debuts-advanced-automated-driving"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%2C%20Lexus%20self-driving%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Toyota unveils new cars in push for advanced driver-assist tech"
     excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota's latest launch comes as automakers,"
     publishedDateTime: 2021-04-08T08:00:00Z
@@ -118,6 +146,6 @@ related:
         height: 533
         isCached: true
 
-secured: "IWmj2GwMFxMkUqEmkFZ9mv3nGVJNwjn7FuPzqOgA6NzmRm/VOK/kxCLGbYQ81qzOcIqt7WU2fXT6U1+IAQWITb9MZagQWkDaQsVuSKCNpKG4HuUArYIX3itTUG6SYb9TpnfZi+Cs7MzRLdmEE1sQZcc4QAk2TQ4GsiCZd3kpGWtoJ1W/gF63rbTEktdpaUexDlopstflIPFbg2+SciQzIypGaCHB3YrFReRUYjxjFGg16pXLDoc6sJAEeHTyVpS9y62YVY5D9iJEQq/M7xbetWAP8/luBS23kFZ65N8vLOl3RjYYINZlfEXPEHMnxl917MMl2vPp+NLTXCsUGX4Pkm0pEODmYVmIkkuEfnddaxk=;f+MrFetl3l6m4rZzd8toOQ=="
+secured: "hDms06Q3jITjPrjpMPgDPikkimNbrJkLi+J4aqQlV/WzroowewwS80ZXMmLaze8M8doj0eDQVpHz4Lj/r6OzUULBWHNCpC+WbLgJs/weuSX8PeU8MLBCmQX30f0rmmv0/ipbNUD4oZLbZ9qZwONY6tfCE8pzo5S5Z7emSGnP2IUNQsyQkV4yO4lwe4NEm+a+LMvlpOs1NRK+oSPdLgkwFllq7D02gTWwnwv/kHrYoOblNwTU7apjsgsnd94s7eJbCUhPR6h7A+FIhE15WGPHx65pTHoQEavuTDZN85ZA6SV9zrl7OreMrqitpwg1qu9DmJuoGW3mcdE0+JDeWKOkZBV8lnjSp8cyl3cfXLhWbkziKOQ+5L9zsmPsPMt1wtkhnBH9cYVwCuwU2KP7Nw+kQWUiwGoxJ7vJsRXeU8OiIeNTGwuLdVoxHfflY7Hk3d6PF3KhArcYS1Ja56sQIOsYhaHy/m5sIiguBD2ZFKnb5gPsp33/oCSCffxR45QTCAuBMzgMesV4t5wJzK3XiCRRyw==;4M6jqAAMfZsxCTdw/tysVA=="
 ---
 

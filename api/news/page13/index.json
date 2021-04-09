@@ -2,6 +2,299 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-30-will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory.md",
+      "title": "Will It Be Hard Or Easy For Self-Driving Cars To Expand Their Territory?",
+      "excerpt": "Will it be hard for companies like Waymo to expand out of suburban phoenix to all the different cities and countries they want to serve? Is the approach of Tesla or MobilEye superior?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062aaa1ca46bf5cf0c6ae58%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
+      "publishedDateTime": "2021-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-how-financial-organizations-can-use-ai-to-apply-esg-standards.md",
+      "title": "How Financial Organizations Can Use AI To Apply ESG Standards",
+      "excerpt": "ESG practices and how well corporations act as global citizens do matter. They impact financial performance and profits as well as a company’s long-term value, both of which investors increasingly want to understand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6061dfcc73ae82b839cbc023%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/",
+      "publishedDateTime": "2021-03-30T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
+      "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
+      "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "originalUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identification-and-analysis.md",
+      "title": "GBT - Filed a Nonprovisional patent for Systems and Methods of Facial and Body Recognition, identification and analysis",
+      "excerpt": "... of an image such as a human face and unlocking functions for any computer or smartphone screen based on facial and body recognition, including covered face or body. Many mobile devices such as smartphones include a facial identification (ID ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20396888",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20396888",
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
+      "title": "Redefining what a map can be with new information and AI",
+      "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/",
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
       "title": "Fridges, microwaves fall prey to global chip shortage",
       "excerpt": "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai told Reuters in Shanghai. “It’s a perfect storm,” he said on the sidelines of the Appliance and World ...",
@@ -899,253 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
-      "title": "Complementary security for Orange's Data and AI Ethics Council",
-      "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
-      "originalUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-alva-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "alva named winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
-      "title": "Robotics and coding to be introduced in Grade R classrooms",
-      "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "originalUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesouthafrican.com/wp-content/uploads/2021/03/Untitled-design-21-16.jpg.optimal.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "publishedDateTime": "2021-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
-      "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
-      "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "originalUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "publishedDateTime": "2021-03-29T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-chipotle-invests-in-nuro-in-autonomous-delivery-push.md",
-      "title": "Chipotle Invests In Nuro In Autonomous Delivery Push",
-      "excerpt": "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
-      "originalUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/03/shutterstock_1358720510.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
-      "publishedDateTime": "2021-03-29T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-openais-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day.md",
-      "title": "OpenAI’s text-generating system GPT-3 is now spewing out 4.5 billion words a day",
-      "excerpt": "The best-known AI text-generator is OpenAI’s GPT-3, which the company recently announced is now being used in more than 300 different apps, by “tens of thousands” of developers, and producing 4.5 billion words per day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/openai-e2-80-99s-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day/ar-BB1f4UnD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/79-h8GdwOQHOom88jjTA4yLusrs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69041641/acastro_200730_1777_ai_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/29/22356180/openai-gpt-3-text-generation-words-day",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/29/22356180/openai-gpt-3-text-generation-words-day",
-      "publishedDateTime": "2021-03-29T05:24:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
-        "domain": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

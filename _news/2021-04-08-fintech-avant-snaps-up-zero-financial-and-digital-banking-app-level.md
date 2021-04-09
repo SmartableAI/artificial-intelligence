@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Fintech key to China’s financial institutions for further digitalisation, Bairong CEO says"
-    excerpt: "A wide variety of state-owned funds and leading investment firms have invested in the AI fintech firm. According to its prospectus, Hillhouse Capital holds 12.39 per cent while state-owned China Reform Holdings Corp holds 12 per cent. Sequoia Capital China ..."
-    publishedDateTime: 2021-04-05T04:39:00Z
-    webUrl: "https://phnompenhpost.com/business/fintech-key-chinas-financial-institutions-further-digitalisation-bairong-ceo-says"
-    type: article
-    provider:
-      name: The Phnom Penh Post
-      domain: phnompenhpost.com
-    quality: 29
-    images:
-      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/visitors-check-out-a-digitalised-production-line-during-a-hi-tech-expo-in-wuzhen-of-chinas-zhejiang-province-in-november.jpg"
-        width: 990
-        height: 614
         isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 pc growth"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."

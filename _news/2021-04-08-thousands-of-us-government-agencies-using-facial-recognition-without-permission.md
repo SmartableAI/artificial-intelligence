@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/thousands-of-us-government-agenci
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dlvvrj29qyefhehoe4pj.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Local police in Virginia will be banned from using facial recognition technology"
-    excerpt: "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
     excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."

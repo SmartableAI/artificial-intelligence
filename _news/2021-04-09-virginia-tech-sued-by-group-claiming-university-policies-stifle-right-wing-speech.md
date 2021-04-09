@@ -9,7 +9,7 @@ ampWebUrl: "https://roanoke.com/news/local/virginia-tech-sued-by-group-claiming-
 cdnAmpWebUrl: "https://roanoke-com.cdn.ampproject.org/c/s/roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.amp.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Local police in Virginia will be banned from using facial recognition technology"
+    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
+    publishedDateTime: 2021-04-08T19:00:00Z
+    webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 54
+    images:
+      - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
+    excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
+    publishedDateTime: 2021-04-09T20:46:00Z
+    webUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/"
+    ampWebUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
+    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
+    type: article
+    provider:
+      name: VTDigger
+      domain: vtdigger.org
+    quality: 51
+    images:
+      - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
+        width: 1024
+        height: 732
+        isCached: true
   - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
     excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
     publishedDateTime: 2021-04-07T08:00:00Z
