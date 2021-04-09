@@ -40,20 +40,6 @@ related:
         width: 950
         height: 530
         isCached: true
-  - title: "Self-driving tours help Chinese tourism sector pick up pace Self-driving tours help Chinese tourism sector pick up pace"
-    excerpt: "Urban one-day tours and suburban tours are likely to recover, and the proportion of self-driving tours has increased. Local transport departments and companies are also gearing up to ensure the safety of passenger transport during the Qingming Festival."
-    publishedDateTime: 2021-04-04T10:50:00Z
-    webUrl: "https://news.cgtn.com/news/2021-04-04/Self-driving-tours-help-Chinese-tourism-sector-pick-up-pace-ZbGPULIha0/index.html"
-    type: article
-    provider:
-      name: news.cgtn
-      domain: cgtn.com
-    quality: 0
-    images:
-      - url: "https://video.cgtn.com/news/2021-04-04/Self-driving-tours-help-Chinese-tourism-sector-pick-up-pace-ZbGPULIha0/video/b1d47aa9971d4b6a80b58552ed0b4e6d/b1d47aa9971d4b6a80b58552ed0b4e6d-1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "VpoBtBxhgkxID6vCS5VQj29ESWS4fsXBjqbW99e4XFvMkN1uYNgOZm/4FX9j8NhGVKM6JqqeGWOBUbLUo8AgZe8IeVJl1LPlZSz145Z7LPnaiDcdtO3jLhTcmYzZcQQoemy0Zgq+ZiZ/3382G3fbi57PJmWbRI59j7762pYKOqY15m2seIf/S4BtoyHgM9HaniKBCXSX9KDvR/QW36BeRjBRzcdpz45ANpAZ1KMJitXxpg892/mWFPN1pKbZBLxxGuZt7Ev8CFkOcyE3VV/pirD2SuhoHx0D6Nr697any7BIPKaxehjux9cWxMOL77va5ajiWfTV8vmNodAbndn48Z0dX+fNOAwXfzkVdtrqKRc=;Yqbtwsp+Sh78i/aS6XdnGg=="
 ---

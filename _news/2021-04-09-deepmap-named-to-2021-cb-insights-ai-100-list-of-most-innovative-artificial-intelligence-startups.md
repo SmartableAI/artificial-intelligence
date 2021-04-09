@@ -3,8 +3,8 @@ category: news
 title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
 excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
 publishedDateTime: 2021-04-08T18:12:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6/gallery/dca3666d6081d370a72ef15167e63bd8"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
 type: article
 quality: 41
 heat: -1
@@ -59,6 +59,15 @@ related:
     excerpt: "CB Insights today named Deci to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI 100,"
     publishedDateTime: 2021-04-07T13:45:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030281693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
+    publishedDateTime: 2021-04-08T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
     type: article
     provider:
       name: Business Insider
@@ -129,20 +138,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
-    publishedDateTime: 2021-04-08T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
-        width: 800
-        height: 286
-        isCached: true
   - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
     publishedDateTime: 2021-04-07T13:00:00Z
@@ -200,6 +195,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zBcMp+QlpXzlazq9vTApN424MrgHsSx/jfzso/IXHFf9rdbNFYA9E6JkluX6GJdNsvfoVDUilGDPAFn5Q2ycTyJ77IjCDOlxv/rzsLygoxeIh87igVVdVjdxT6TLnXQaQC8Rxpit20CXGgMxR3s27f+TDpmb30FGStsWdQBVqdvdc6XhzQPg7dr1DlVnos9KdrNF2jkyz8eIhSiV4NRuNZb8cQb1D1sWgU2ok8Ec74FPBwNA8DtoGxGEBG5h7C8ZdcWBVCFKRZqchfKUCjJO5U0yvlKMr96WqYIR+ql1QH00nw6rDMAPuSBcGLf8G0bRcQlyZ/K4r+72vIXb+8w+ASE/se8IrJ9lkm/4PNFeh5g=;nfMetQq7ofZvNYxwWbz7YA=="
+secured: "Yv4fV7wdsr6JVewqnVLX5zNQfU8DBu3K6HFgcA2bOb8Jbfs/1UPPWxi75lJDVd+yTMJnn3eCirU9dN+Qb6bJV57lIDhevp2lX+C6EvzwffzC3b1kG5vLLUvsIjO+3IgKXFUqWH9HAjdeh+DbqKAsXkXOC9qElqG8xgIsLyR1Lq2+LqILTAtBdIvlrsbURUCafFG04Sw/4pMKsU4J/ssTBAmsyHbb/rn2OJuKlt5CnkTN0MktpzETUKuDV6kGACT/9oLkTLaobb2UZQo2OlZZbLuEKpgU/kIpEhhyXo1TQBi18SYvERkT71uJWXxi6q9j58pOF/TYEa/zJG96Ljz+JT2Pwy/PkO+jA/MxyZzRuXU=;WIGcuTzyH9rMT/ydn3aYsA=="
 ---
 

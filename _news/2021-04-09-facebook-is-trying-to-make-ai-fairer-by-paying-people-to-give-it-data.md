@@ -1,36 +1,46 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-publishedDateTime: 2021-04-08T16:15:00Z
-originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
+publishedDateTime: 2021-04-09T02:45:00Z
+originalUrl: "https://cnnphilippines.com/business/2021/4/9/Facebook-AI-fairness-data-set.html"
+webUrl: "https://cnnphilippines.com/business/2021/4/9/Facebook-AI-fairness-data-set.html"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CNN Philippines
+  domain: cnnphilippines.com
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
+    width: 750
+    height: 450
     isCached: true
 
 related:
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+    publishedDateTime: 2021-04-08T16:15:00Z
+    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Facebook tackles AI fairness and bias with new data"
     excerpt: "Facebook said Thursday it's releasing new data that could help researchers improve artificial intelligence systems so they're less biased and more fair. AI is already being used in various tech products from self-driving cars to facial recognition."
     publishedDateTime: 2021-04-08T13:00:00Z
@@ -79,21 +89,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
-    publishedDateTime: 2021-04-09T02:45:00Z
-    webUrl: "https://cnnphilippines.com/business/2021/4/9/Facebook-AI-fairness-data-set.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 39
-    images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
-        width: 750
-        height: 450
-        isCached: true
 
-secured: "i1/zZJNlE6ugSB+WCMVwRbD9UVFlrRwR4FKmZAls9/9c1iZA0u3kOjdiZFK2ZrD1DZ96SyFYu8qe0EFBLi/Tu50GqMf7xkgxlhovKFQqfGcp1zS2DR4zeik6js7/JbvfACgQTSFMkc0Yr/yFy+q0zwNYZ93JDqITF3Zfrpz6gBKjVbvMcflbRIKA/ukZy++miZ+bFcScdgfHuv7Qe0jIfE5CN1q1W3Ay0rAZZm/JNju0xZs9gny/o+zo2Y0GhCcU34RUbX87CJIrFkqIlSUfczr0YZ85fKGYZPsx/TKKN4WtI0TA6ZunzNN2k9G3TqRgPuwzZEjIrDfaHvWW4cmOZYFRGUiTHx2uED3+eIjAfHk1STZUYFSAiG+kFA0z5UKb6T4aJo0JXqtb/tUqeejEkOUcZ+GbDBHkHIwVpgDELREc0zjhvTYrX/aicQ374Mrw1skX5CWX2lGaB1Ybi105NbaVlR9rA0r1A5Si5ajAF0rIF61mxCY5sAZ5hJ/cmRwpheHNabg1WELN0It9gRinvg==;oa6W9O+17VzFC8N7DHBXsQ=="
+secured: "yY/8a95oZ2Du0jEAT2i5a5Jq2P/0AnsVPAp7d1keKEE2PfUf1DtTOyd5KO7XlSIuDLu3UY+zjnAvmLX5C0b4Yu+PWkuf+Aij+Fd8ydSQoSXmU2+wQOva8ygOn7/jKeUCM5Kf/8HQuo8tJWWXSFx86hUmsQh+vfUnMkCnjXaJ1f/3gHVBEJ2lDDFampkTclzLxpqr604hFwTGsDyLO0doFx7ZvioUgaWdy4LTDavL1fY7u6D4XZgZMjR+3HmnwlYbiXt0a9m1+s5YYzpIb7UDyBJiSh5prC/PWysZ0gN5xBOi6014XeEOc7VpnbcCgePeX8spqD+yay7cWDFDVINykL0QRhMKaGrJ12aZIjJ3yho=;wv8zug865LzoXyXeEULDpQ=="
 ---
 

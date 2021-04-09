@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
+    publishedDateTime: 2021-04-09T02:45:00Z
+    webUrl: "https://cnnphilippines.com/business/2021/4/9/Facebook-AI-fairness-data-set.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 39
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "E0jdKnmg/IcwylwNfVaO6ZwGfz+XpzBY1h/MzbQ+H8pvQVM75ksc2g21GPVBV0C14YkQgg9RJbkdgVTSavm5dYQ9ttrb2CBvaybYDGhmB7dOHxioDmhl9mQHKAYUEl0kBGVxljs+cpcVfHV0JIsdxRkhMqXGeEsD4ILzEZQixM1bY1vOkI9mk3IJxUZr7JTturEC0leeRPQX2O6mUp5Sfo8eOb3wYdbUgKahY94UyPBbtQe/vQTB6Vpk/C6r1zn9X88vsW0aAW3Ok2sXVy3OMbH0AY0HHsaaXX64wjhVwdxEmI5fidoXLnH0U+MqG650Nq+2tda6aRuUaDFW4H+Pv2KjIbalqnKo6Y9Cy7sdzjM0rps0NbmeikoPJoef2lIHqcd/OZ7VOyvME6xGPzNqOMaKar5AAUjRNAZfw845cHepHDUDSyG6PhHgYIg0JYpI0wC0qbVUrktBXqBPKyy84Z+ijWDgzy7xADE+I/xLlDznwClfNGrAlSDh2iqhdRslHvCJ5DxHg3GTckIHxNxg2g==;/gc4x4316bTAv75XpKYFyg=="
 ---

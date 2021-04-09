@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-31-safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download.md",
+      "title": "Safety Pool Announces 100,000 Self-Driving Test Scenarios Ready For Download",
+      "excerpt": "Self-driving teams, academics, and armchair roboticists should be able to build and contribute useful scenarios to the library. Every time there’s a car accident or an unusual situation it should go into the library. Then every car from every company can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064b66db9cbe60ffe61b40f%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
+      "publishedDateTime": "2021-03-31T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
+      "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
+      "excerpt": "Processing of human language via machine programs has been coming to corporate computing for a while now. Some believe it can be not only reliable but also very broadly applicable. Software startup Moveworks of Mountain View, California, which has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "originalUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/31/04c51f4c-e000-4fbb-962e-8c2560699c68/moveworks-group-19-10-20-1127-1.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
+      "publishedDateTime": "2021-03-31T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-how-to-spot-an-ai-ethics-watermelon.md",
       "title": "How To Spot An AI Ethics Watermelon",
       "excerpt": "The tech industry is full of watermelons. Companies that look 'green' on the outside, but have deep fleshy red inners: Here's how to spot",
@@ -439,6 +543,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
+      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
+      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
+      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -913,49 +1060,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
-      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "Funds raised will be used to develop Uniphore’s technology in AI, automation, and machine learning across the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
       "title": "Self-driving truck startup Plus raises extra $220 million",
       "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
@@ -1100,93 +1204,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit.md",
-      "title": "China's JD spins off cloud and AI businesses to fintech unit",
-      "excerpt": "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion).",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
-      "originalUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1KM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1KM",
-      "publishedDateTime": "2021-03-31T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai.md",
-      "title": "Arm announces Armv9, its first new chip architecture in a decade with big focus on security and AI",
-      "excerpt": "Arm’s designs power a large share of devices that are being sold today, including almost all of the smartphones. Sensex, Nifty start FY22 with over 1% gain; RBI MPC, corporate earnings on investors' radar next week EXPLAINED: Why US yields are rising and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/03/ARM-blog-image.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/",
-      "publishedDateTime": "2021-03-31T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

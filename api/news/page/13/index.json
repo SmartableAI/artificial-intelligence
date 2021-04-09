@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
+      "title": "Complementary security for Orange's Data and AI Ethics Council",
+      "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "originalUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-alva-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "alva named winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
       "title": "Robotics and coding to be introduced in Grade R classrooms",
       "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
@@ -1069,110 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
-      "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
-      "originalUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gpt-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
-      "publishedDateTime": "2021-03-27T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-what-is-dataops-and-why-its-a-top-trend.md",
-      "title": "What‌ ‌is‌ ‌DataOps,‌ ‌and‌ ‌why‌ ‌it’s‌ ‌a‌ ‌top‌ ‌trend‌",
-      "excerpt": "While there are dozens of commercial products for the other domains, Barot said there are only four commercial Platform Ops tools today: Amazon SageMaker, Cloudera SDC, ForePaas, and OneLogic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "originalUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-data-science-machine-learning-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "publishedDateTime": "2021-03-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

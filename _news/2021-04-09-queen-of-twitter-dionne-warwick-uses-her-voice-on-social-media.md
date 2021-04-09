@@ -1,31 +1,35 @@
 ---
 category: news
 title: "Queen of Twitter: Dionne Warwick uses her voice on social media"
-excerpt: "NEW YORK - American singer Dionne Warwick, who has reigned as a diva for over six decades, is now using her voice as the 'Queen of Twitter ... inducted into the Rock & Roll Hall of Fame, a late recognition after nearly 60 hit songs including \"Don't ..."
-publishedDateTime: 2021-04-08T21:33:00Z
-originalUrl: "https://www.gmanetwork.com/news/showbiz/showbizabroad/783051/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media/story/"
-webUrl: "https://www.gmanetwork.com/news/showbiz/showbizabroad/783051/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media/story/"
-ampWebUrl: "https://www.gmanetwork.com/news/showbiz/showbizabroad/783051/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media/story/?amp"
-cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/showbiz/showbizabroad/783051/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media/story/?amp"
+excerpt: "NEW YORK (Reuters) - American singer Dionne Warwick, who has reigned as a diva for over six decades, is now using her voice as the ‘Queen of Twitter ... into the Rock & Roll Hall of Fame, a late recognition after nearly 60 hit songs including ..."
+publishedDateTime: 2021-04-09T02:07:00Z
+originalUrl: "https://www.reuters.com/article/us-music-dionne-warwick-twitter-idUSKBN2BV33P"
+webUrl: "https://www.reuters.com/article/us-music-dionne-warwick-twitter-idUSKBN2BV33P"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV33P"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV33P"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: GMA Network
-  domain: gmanetwork.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.gmanews.tv/webpics/2021/04/2021-04-08T204411Z_596519739_RC2WRM96SUT0_RTRMADP_3_MUSIC-DIONNE-WARWICK-TWITTER_2021_04_09_05_29_45.JPG"
-    width: 2953
-    height: 2179
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557775550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH371JA"
+    width: 738
+    height: 545
     isCached: true
 
-secured: "UxlxBjc7NRCphcgE5rSVCeQjpxIgWuYhKkIDVD14zN3P4v+yhj/tCs2HPHl2NAmbH9g+ZrFY7ejRj8poFRpVmylME11YXesSjzBd794Kk8GzclH+2m0BvGc4PihUrfOJvbnTWYAOiUndi+QqxwZAIyab38SuAuWhTogU7qRBadXrlvBxzuMwHiGvJ6htPIYqNa1tl6RV5EMf8sHtZQrJ/ZzMRiTzIELVNokNAiCMwz/VW7FiMkHZ0i1yzU/FSHOsuHeF5XfXbpIAcf2NK/Meq2qgN57tjnl7oLRskABZc8jq4NWuvOVrZHu8F7O35xtzp6ipBuYRJsWFjoO2cSIk5zxoTh+1/iGDBYKucJA1XT4=;uFbWEBnhG6vbiI4lu2CZ1w=="
+secured: "PA3U3Hvg1fTKgnX8Pw/EovaeDLBkCuPqEUimfk+3mNtEickM2BuOZOy2EoKhZ8/5b68NlfIj1mWykQKdC3g9a5s2QllX1+DS4uHpUR+LcJBS10mMvaK9KuDbSlcV9ts13ylmKycqHcqh+pQEQPMjZ3PjZL//PveN43B8MbnsgSx132/Lfw7O0vYMFViisbs23P/dgPLQSxoiy2ltxevxlOtqE6nOt7esVPG+Lvq81+hvPruVREDwxLTK6ymDmIML+opnkfLMnshG0K36F2QbgVt4aI/FuJoLipiQRRELty82d+3GHP1UD+CUyIAP5reLShm0AVWTSLuKqwJT5jSsLNR5z3KBAbRzicxNFZ//R3s=;Id/hSSHgK3QxJS9GaBPwYg=="
 ---
 
