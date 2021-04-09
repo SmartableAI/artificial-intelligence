@@ -87,6 +87,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu (NASDAQ:BIDU) unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first ..."
+    publishedDateTime: 2021-04-09T11:25:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/toyota-unveils-new-cars-with-advanced-driving-assist-technology-2468834"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 24
+    images:
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXNPEC0E0NI_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "1WFbVBbSMLr083TBw05GTzwEkzpO7C4x3IZ9P6iOXlfbRMrcHRpkrsXVPfC2w4OUyCwnvG2yBUxbHPubsDWesNIXxo7CYUzPb760QTakNCDt1qtfHX0m0I9QqUylgSGVhb7Hk9tQ1RZq+9bliMm0q7g4FmPkAwKpBbBq2ZaDCh9m2WLI2j59B+FQkOs4DKuP952hnvgoIKCG06Jo2rnLewlsrqTCi3Rs7Ph6Ac3CxPLZzyJ2ttsbHkTYMx3qyLDEWddIcAw4nll+raBiW/jY8yV2cNM5EWhr84S9vWPcAZzMq2MkaSoDJlAWyXcPQuxjvYGzH9FFN5we8/+t37pi8JvLgc78pyv/1eJ5f0E6c9QY3owjPWKjnz2CRXQ/A7N2FNSepW3TZ2FlEa3AvQl4MVl34IvMB1g7X8E7RggVehvUpQbsYa4V4PMBQhx+BPykJgkUr9s/ANkJG+nQIEkdpFru5euMHYARcYoPhCKo+w3Bz6L7Cp4/+mdrbhDjpEf12qo8i8jdt5rJshp8YbZDkw==;r4qhKnlHR23k0dlhKy1z6g=="
 ---

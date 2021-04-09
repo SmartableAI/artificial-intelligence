@@ -61,15 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
-    publishedDateTime: 2021-04-08T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "Healthcare tops 100 most innovative AI companies: 8 digital health startups on the list"
     excerpt: "Healthcare secured the spot as the most-represented industry among a grouping of the 100 most promising artificial intelligence startups in the world, according to a new CB Insights report. Since 2010, the 100 companies on the publication's \"AI 100 2021 ..."
     publishedDateTime: 2021-04-07T21:50:00Z
@@ -112,6 +103,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "WINT Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named WINT to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
+    publishedDateTime: 2021-04-09T11:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-19740853.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Overjet to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private"
     publishedDateTime: 2021-04-07T13:43:00Z
@@ -139,6 +144,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
+    publishedDateTime: 2021-04-08T13:36:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"

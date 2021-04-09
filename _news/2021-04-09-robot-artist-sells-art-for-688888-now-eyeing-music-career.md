@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Robot artist sells art for $688,888, now eyeing music career"
-excerpt: "Sophia is a robot of many talents -- she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an auction for $688,"
-publishedDateTime: 2021-04-09T09:13:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
-webUrl: "https://www.nwaonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
+excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
+publishedDateTime: 2021-04-09T05:12:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
+webUrl: "https://www.arkansasonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Robotics
@@ -106,6 +106,6 @@ related:
         height: 675
         isCached: true
 
-secured: "O5M+w2CS3sWEAG4Xa6aVkG5teWFuVL+era7JhqHMidFDj5LV2ckAqU/yBLFe7+gxUSivzd9ifKLyFKCt3/RkKNG+IIytOlU2x67fVzf6L0Wyr/5V8TkECoiwqef9jenwGaqU1pq2uhR/SvpK39N6XdNMJzLvfGJgR6GkesxvDaRlpFo+bpvAsgEsnu6Irpq3BSvPak8TUvO7SghJse13pHz5KHujgknTiYWKY8Tt3Cdc7DPrDCO5NQ+DrflfqjDpgPil6PstqTjAP8VJukFjpSYIFNuqlYka0F7vC7XhRcx07ny40OH50AoKbSXRINN77jG+n/vX/t9hQNla5G7PopGfTmJ1xdB8kUvyHO7Her0=;viAgMbvoIhS62oFTIDswzg=="
+secured: "ly/dzToHHbP1TiJIEAvNDYGnnNuWSvctQuR4+z3F7D6wu5iW+zKGjrHTX7+BZAyb3Ni2IvkWAUQeirI15GkKLFeWtzqGdmx7aprsXOmJNFZYHTS5ls8ysuwz1zbDwuddUDm2BoiSxCCZpMgcbzXMZT+7M1StEysPEbOE2v604DUApAPISzLR9uBBVbx7k0HqaZog47gVYCwykQQ9F2UEHGlOnH6HRjnvV9RNZ0Ihv+oKgQzw59SL0YmUgAKotMwRxntIWP5CPJnyGiIHi3g/ysxd4VPgDcUbays71KqLeLHLy0wZHf+2lSCVE4E1cTxBK4jQFYv2uli+NLdo5FfqZkq4hXs9FnG/++FjvqhFo48=;oXZzZNL+nUZm2jCsmwYchQ=="
 ---
 

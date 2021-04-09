@@ -54,15 +54,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Palo Alto self-driving tech startup Gatik partners with Isuzu on delivery trucks"
-    excerpt: "Gatik Inc., which makes self-driving delivery trucks for Walmart Inc. and others, announced a partnership with Isuzu North America Corp on Tuesday. The Palo Alto company said it will develop and evaluate fully autonomous medium-duty internal combustion trucks with the Japanese vehicle maker."
-    publishedDateTime: 2021-04-06T13:13:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/06/gatik-partners-isuzu-on-delivery-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "YbcrzjXxGz5AL2pdMUysIzoWRKoUw2iP3eGb/3j8CpEil5w+JQGX4QsQtqQ40Byv3ia890SIAEudWJGQ+U6Xvfg/UJzRTgYNCgooo1zpBOt5iza/QRj7kGApPquCEt+ctiMqXgc01M+xt/2yzJB33MtG1umSJlAdeBpm3W8hL0bIBRW/QKwvLHqWRDT2xpwCBy3KFN0/0fyDgT/wKMur1MUSh+PM0MC+5fhvEeB2ivfA1zyR673DecdkW11U0Hzcz+O9HLY2+NU3iNsB00gpOJIjtDz5pLz+sjr3FUEzlz2pYEfYj0VGC+RjbrdRloFPvlxa2OsKWaW2ctijxRa150Aq2QzocenLPo5lwvGEU4fSFQa/68i9X/X5RRlQiPBTHCWccs/qkV8KoR3BkuRxNjQedMd5WWJk88tis5fOIyJeYDwzIwgyZQPcE1HqqZI/7NOTu9E+Gj4QE/5cMB/1aXWUCWY8K9Lhqn38n1a03ifqACz2GI28r+Wwb55l/x5xjArQNwJadCIFStM9X4NRlw==;lDFIXfm9HPWSVwNvgKi/DQ=="
 ---

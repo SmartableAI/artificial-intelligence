@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/education-tech-inves
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
 type: article
 quality: 106
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
-    publishedDateTime: 2021-04-04T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

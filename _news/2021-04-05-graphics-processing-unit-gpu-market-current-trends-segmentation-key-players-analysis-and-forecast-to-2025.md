@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
+    excerpt: "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ..."
+    publishedDateTime: 2021-04-09T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
     excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
     publishedDateTime: 2021-04-07T11:03:00Z

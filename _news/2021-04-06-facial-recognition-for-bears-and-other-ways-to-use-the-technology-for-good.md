@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
+    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
+    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "cU+wVZtsb1rIlfK6h6p+ijkV10NqlPAfEhzlPIcYs2cieg+O2+h67QYpxPVZlN5eQq9Z9ZtCwByLpHnsFDr+F8aUS8MiyyJaeC3ADHSD6NjyqUrKPHOHRPx7t/oIzUQflytYZ23onXMg+2jpr4LMiRo56aNxmqSqqWF3b0c7Woup4AAd61T0UBcfWciU/6UuEqwcR4TX8fReQ13KcYYNgdX8KI6nRTJC2qabES94Iq0gwF0e7uBHpCEtmzVdxxqVaWfu2AgezPK5dWBEoRoR1UDLNdbyB7wVOB+VQzzOPikePX82EpmjHHqRWph6L3Gku5dkSRcjib27ZAr9P/ZFmf6ZyMJZaAHh/T57Eq1fdzYZ23Bux5s/2jOKVndSpVXCc3EBMP+14ZtDyJqUO9V2cj+aAFxLfja1jqvwVpT8rPLgYXWhy04iBtvnqUNo04iUYWNnOStS3jzlWMn3FL1hiP9j4Yr+ZLoV4D0TMia9xRkH/7KQ7jS0+uIazHHFNx1U27DlK3JPect9uIlm2CJw8w==;JHuGDObycybMnTDHwIrdNA=="
 ---

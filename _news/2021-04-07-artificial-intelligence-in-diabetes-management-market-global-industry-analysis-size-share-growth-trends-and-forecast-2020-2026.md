@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market Research 2024 | Growth Overview, Development Size and Revenue Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 09, 2021 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
+    publishedDateTime: 2021-04-09T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-research-2024-growth-overview-development-size-and-revenue-forecast-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI-Assisted Diagnosis Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2026"
     excerpt: "Apr 04, 2021 (CDN Newswire via Comtex) -- MarketandResearch.biz proclaims the addition of a new report titled Global AI-Assisted Diagnosis Market Growth (Status and Outlook) 2021-2026 offers broad insights extracted by thoroughly analyzing historical and ..."
     publishedDateTime: 2021-04-05T00:41:00Z

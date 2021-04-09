@@ -42,6 +42,17 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
+    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
+    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "AMdxr7XSg5GUVHP5UwG88u4SdtsmfjxYAZ556LpZjzk85bpzR2NtFbR3SKD2dMzo/j4oIGmULQznOd7xmJNeM/APuu3YvSzkCSucaWQ7AphaL1CV6aH4s1iHkejrIsW32OVYZaJdSZsX0k+SIEOOmdg84joZls7q9wv3ixdIYSw01BfFcdsS9twv14uKEeHxC7zYWOtpetYXUwnwb8hbw2CgPetvX2dHflFFxekK9hvMtIqCq1uas3fsy7nGxa/hcYEdwvqvq/MeL3YgD9PFS+vGATOpfMGLj3+59q/U1CHaJNCWRjQ1J8Ab2DEekDWfb1np2r1j2glv5tmbCL06sh3Bqi3jY/FdIMT0qVnjAJ0=;q0adRXpgWRXBqzCgvXOZ9A=="
 ---

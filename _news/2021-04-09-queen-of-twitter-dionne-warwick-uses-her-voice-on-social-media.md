@@ -1,35 +1,31 @@
 ---
 category: news
 title: "Queen of Twitter: Dionne Warwick uses her voice on social media"
-excerpt: "NEW YORK (Reuters) - American singer Dionne Warwick, who has reigned as a diva for over six decades, is now using her voice as the ‘Queen of Twitter ... into the Rock & Roll Hall of Fame, a late recognition after nearly 60 hit songs including ..."
-publishedDateTime: 2021-04-09T02:07:00Z
-originalUrl: "https://www.reuters.com/article/us-music-dionne-warwick-twitter-idUSKBN2BV33P"
-webUrl: "https://www.reuters.com/article/us-music-dionne-warwick-twitter-idUSKBN2BV33P"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV33P"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV33P"
+excerpt: "American singer Dionne Warwick, who has reigned as a diva for over six decades, is now using her voice as the 'Queen of Twitter,' spreading joy and poking fun in viral tweets to a new audience."
+publishedDateTime: 2021-04-09T10:13:00Z
+originalUrl: "https://www.thejakartapost.com/life/2021/04/09/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media.html"
+webUrl: "https://www.thejakartapost.com/life/2021/04/09/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2021/04/09/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2021/04/09/queen-of-twitter-dionne-warwick-uses-her-voice-on-social-media.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557775550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH371JA"
-    width: 738
-    height: 545
+  - url: "https://img.jakpost.net/c/2021/04/09/2021_04_09_112204_1617950601._medium.jpg"
+    width: 747
+    height: 429
     isCached: true
 
-secured: "F5S0WsyPZ6QrcMZOoY2UqBB6RjJkxZWATR1hoA63WbQztQQrbkILr/Z+4BhYVrhKIH1QPeVXVCndsYR2KIOrJNrs5eQ8Qk6SlJwlCbJE9DPcgfNSngwMPen1m+amkdiNQR6z34goKPfDdgWgmRKCZtBmpEJq8tljwx4nwS/iG7qWt2z92AWA/GKgq5MsSA/4klSUb7a7nHIYltwZia03grd+MQV4lX0oQyg/2/5lXodZ0W/DWQ1q9RF5r9fiXf9hwRoLDyqeTbnityG9vTUsy065yGt+vL//h9fWLwkBjRgml2PgX5kl7rnJBLM7uoh8+a2/yf5dG9g937MgxZ0dfP+jrvLRPVULGGxHS0QOq7U=;LWOIm9QLvOhMNPEQBIhoEA=="
+secured: "O2P6YURde6SE0MsvTkgEuMbIxJhTduZvMkKWfPVleP8vRdCNn0xOEtBbwZhgaU8Bi5wW1JhHp0GnZDuUnlxdmum1DdTYTfrBa4mNWs9wddFph1lgqn66YQ1PeWP1OOgJB0kWZZDtEJkAXgQ7nI144jHkMZE9T1H1koMSilZDL3dKkoFKpflsjTBx9hQw4CdTlErKrOlUIf2x5EVMrIwJU8KpcPCuCZq7+qNm5L+2PGPqMWgLHRsxU5pC9pBsBERYbPAdxPm2GUsMi838dJrNuR1RPX68xgLNyvAL3S9rrBhfhAZgnTo0UkakltgMOKEyHZ5m8f22laDIOLeC8IIe43WPp4RkmDvn38fpfIs8+Zw=;x7uqrQAuX+kYJz3jgE2ifA=="
 ---
 

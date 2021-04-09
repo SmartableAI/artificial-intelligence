@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI In Telecommunication Market 2021 Product Introduction, Recent Developments, Competitive Landscape and Dynamics by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 04, 2021 (CDN Newswire via Comtex) -- The market research report entitled Global AI In Telecommunication Market Growth (Status and Outlook) 2021-2026 presents a huge ..."
-    publishedDateTime: 2021-04-04T17:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-telecommunication-market-2021-product-introduction-recent-developments-competitive-landscape-and-dynamics-by-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "raQNOwmv7t8PKCbHM9ix97cO16nvd8TvRyT0B5vLtcNI8+BADoksOUtMNJJs2JefKf6Us1LMGFnIvbvcqx7LTojwMUPShqNjjTk6sV4vP66qbJVdkUGanZtcfl+qG5eLSnRS1svk39WUAuT134N/SUxQ5CtRkbSvWfQmxEMXa+nx8MyAvTJyv1G0WCTFr6Q9h6MZEjVi3VGxONubYpqlD2blTn78Udbs/8MAe7hRF7/0U4+pwRiBVimNLplhMyoJ/jHmu0Akx+AZBMLZSetGs0mMqVkhhbce1xj/RRHb/6iyt73jWJP+v0mXqzuAxXr+3xLD/kogdUk0SRiZKehOYMkUiXfQexQCrzJfbm/6Lmo=;oXFjbeoRY7NY4GiyihtL8A=="
 ---

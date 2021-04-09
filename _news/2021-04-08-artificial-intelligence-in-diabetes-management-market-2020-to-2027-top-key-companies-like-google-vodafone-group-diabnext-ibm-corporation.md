@@ -23,6 +23,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Global Artificial Intelligence in Diabetes Management Market 2021-2027 | Apple, Diabnext, Glooko, Google"
+    excerpt: "To offer an in-depth outlook of the Artificial Intelligence in Diabetes Management market we have released a brand new statistical study on the Global Artificial Intelligence in Diabetes Management Market Research 2021-2027 to our robust database."
+    publishedDateTime: 2021-04-08T13:24:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-in-diabetes-management-market-2021-2027-apple-diabnext-glooko-google/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+
 secured: "krPp5eIpUrn6ORHl3sGqGe0sLvwGhtbEZZ46gLJ/yAqxvhNDeDusbKboG73tBVS9vuTDHx82B9sfmf3i6MP0RCBrehiiyu+k0+Px/zFqx8dekQ3C2F/C7fJtBUMglMK4RigIYyRKq0N2fkpRsSpJymTSAvs0Bjv2r9qHpmRglry3fn6URIzdUxvAk9lyFAyLqv4Uyr+P2JzG8zBDlimaFRpKCd5L8sgqk+b7GyheHDuDIAufepf2Z/A0lPoFNolZgDFPEmnbRF6ELfJHWQLIL+GXtsgUW61jD0Xi/nRW15sl1G2KzaTyimuXP/iVR5/Mj9rH6t84T4rQZU8xcIrpJuyyJxdBlUFWAfF6Khuq1xc=;R6sBk8iX8nwrxsTZaAVBWA=="
 ---
 

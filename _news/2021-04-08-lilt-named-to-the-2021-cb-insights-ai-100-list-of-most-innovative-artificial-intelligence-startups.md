@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
-publishedDateTime: 2021-04-08T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
+publishedDateTime: 2021-04-08T13:36:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
 type: article
-quality: 50
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
@@ -113,6 +114,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "WINT Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named WINT to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
+    publishedDateTime: 2021-04-09T11:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-19740853.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Overjet to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private"
     publishedDateTime: 2021-04-07T13:43:00Z
@@ -198,6 +213,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Dz9NNwQ/5KCpYG4yc97bkkIvXPPQpIuWmUxekDgDuYEtmnp82mJUQ0Xo4hyLHOMEDi3ZRhyte5V4v3y79oREQgu1kQgR72kIGc78fHFBJwAFPMRb8BEJm1eKyIz1BaBEqdH3jelc1TGEoY3Qm2i8U59FL3o1bCErW19YDoBUMbZ6rT260zSnVivxUYdKn3ypwwV+Ldr6AiqlEu0XnRrgXRaTUypKG0UxTIC8qt6Bl3CiH4vNFPx2So3kJQ4R6HVM6DfpxQ8bflusCWKp0ycdhkJqxQF5T4TJL/bQGvaCAvvHG2xtqqeQuYMh6euUfyYM7ZoTCczCZuShaNoYKA7eCy0joiMvbmqnd7XbnBdnDeY77s/dyyidw5pPVNtYn5NVnbszf/QLxFXpIVpPWQm3Gg+ztv8vP9K/AVN0xrud+aTuCqusHMT2X2azsl5iAu7lFXjPe7p3xUBW9lzgEVDmy9YzLj6l6fTSfIhDwbBZJVX0+pdRpswvqxv7Gm/tm3D8IfM/qOdxwqqz2w9OU4Z1dQ==;wAZ6Q3xzC/sHeip9jW0jJQ=="
+secured: "tfiq9yMfWcO35q3/Ez74F5Xtn6WDfiJ/09RNLDVdd+Cacs6ZGYy7pGhu+q8zUSmXaGvmL9amj82e7YGqjR/r9VBVO34dZNvkgH8+sdv21jTVzG8NU/CxcjdxoBPNyPak5Og722ZchmiBJ+VlX9sVDu0Rgz5ulAOiYzF3G3mHGFsFItFlok+kfZ1t6vZc5Gx113CmFBN1ucYZlYJMKNOxboVdOLE/X/8prAoV3IN6DWA2a9IRIJ6MzkgWctdQ17NK+gjpgoHKdTbGSVIJ2xAU0Wpejq/5n4G4YxbxHpjfGm6mI47Pe2hDM//Cw93gwDLKd8e3ZmYUOIyKM16r7S208VSkhMP5Ye3B18n0e2+cX/w=;yWgoIUjfoY7Cg1dKxegVNw=="
 ---
 

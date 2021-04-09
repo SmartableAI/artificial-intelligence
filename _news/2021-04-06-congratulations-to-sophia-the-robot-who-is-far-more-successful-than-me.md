@@ -43,22 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Sophia, Successful Visual Artist and Robot, Eyes Career in Music"
-    excerpt: "Sophia, a robot designed by Hong Kong-based company Hanson Robotics ... \"We’re so excited about Sophia’s career as an artist,\" Hanson said. An artificial intelligence performing music is, of course, nothing new, as anyone who ever watched Star Trek ..."
-    publishedDateTime: 2021-04-04T17:53:00Z
-    webUrl: "https://www.vanityfair.com/style/2021/04/sophia-successful-visual-artist-and-robot-eyes-career-in-music"
-    ampWebUrl: "https://www.vanityfair.com/style/2021/04/sophia-successful-visual-artist-and-robot-eyes-career-in-music/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2021/04/sophia-successful-visual-artist-and-robot-eyes-career-in-music/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 59
-    images:
-      - url: "https://media.vanityfair.com/photos/6069f03b5e531a46c84d7eee/master/pass/1052119646"
-        width: 3152
-        height: 2480
-        isCached: true
 
 secured: "oO0VPKn8bh4rj50+nV/GBqYy2BbcqoS6jpwxM9cgBO77Ox53YvNXbO2g8xIYjpv33cWnwx3rrYLNeRETwVdH8YJr+Fpb79hgFAMUkZIH44v0Pm2KAfDjiEEE2q8XT7HbtJL2dXSNPn+qaD6lBdb6JY4x7RLqJ0HkRPTiT6IvtVw07dtbSqklHDeG3YT+Ny5wyYnCF1dKCGS2yXWnugkmKR3OsgV/7ri9znWoLJPGbkGtZVEixHEBTwo7S+UpYBUmIE59LXPgEGLYHwCy62jHCTyF5rQ7cLJobgJ/Jk/uL4QlSI14m0paL/1vHmhUKHplLDGhLwYbSIGF6fWTy9n5cGXw+wF4hMoAsG7qLMw2C0JXAAKcXSKaQvpZs2uNKwmp52mwYldcfg1yO+A+rdbGdsznNpJHFI+xqjQdGQn1IaB9xtF7bRVHbEYOSR7loyVe2el6eiUDhG+gQvCzTk/Zb47nRK5V4v1wFET39cH5FtOb6uAQd8zbbALNRLQY+eWYuch6G1epoOBTyceVk+fPvw==;mT4zVZR0uli3U8HNNwJA4A=="
 ---

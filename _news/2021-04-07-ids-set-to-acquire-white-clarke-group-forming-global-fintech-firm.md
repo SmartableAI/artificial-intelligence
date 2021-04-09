@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
-    excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
-    publishedDateTime: 2021-04-09T06:31:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-asset-management-a-secretly-developing-field-of-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "5cUzcv5jXnyk2AVLJtpDK6GoY1cfygbcJ8wpJMVm2+8t42znDAqTDGTGNI9O0ZV7xEEk1wU8UDUEfQ16XA2msc+q1SLZqQjtfi7DxL+EhIZKI98h+q/nYDfhXBhJoL9Dux87lA+BTY8o+g5a8zzWDK4Xm0n5ZD+DkmgO6bxXLDUNcNHMSGK8a+3iBjrTjW0LV7BPhfUGhHmeqUmkn0sZEUcxvGdyAPRKL0kgSOb8BNF8/baqZtqLYks5ikB2G/gyugFNKaIeKPY/wkSElje0a+BIuuU/on82UaW1rDF3+Vu1Zb/mWQEtY6M+ZzeqBFlAWeeBHLSd8p1F+vVcU1wdFFohDHOTa3UG77nCWlveChs=;VE7UJJBaQ5r3AE/awV3jDg=="
 ---

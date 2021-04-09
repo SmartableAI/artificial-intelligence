@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/israels-aidoc-radiology-partners-join-
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-aidoc-radiology-partners-join-to-boost-ai-use-in-medical-imaging-in-us/amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Times of Israel
@@ -40,6 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
+    excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210406005204/en/Radiology-Partners-and-Aidoc-to-Accelerate-the-Use-of-AI-as-the-Standard-of-Care-in-Radiology"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "8qFAdPgX846om28HFVZ/FYOVRcYPosMtiIewfWeD4/YPOb6nNuc0WEikMrdNS512A9m2uqgrJHlQtQfRnjiwIXLYoRgTchyKcUxlmCJc8jFw19DS6BSoP4ZsZ4ihEF2IQT6phrhudx2Oy2k/JrOC05boEr5zwSo1XFN67S6CX62hZNhIuA9xfQjq6B5v3SzQ1c6v5izbjOUIDejUe15R5xSsc1ZakxVix9bpP7Ngwzv5YW64ormQwd1bCetuIGzF+0ZzBsdYEHVnaAjGvgQnp5girteaH0bjA/BT6YSXNr/1QDCdR+ysb0uxNRR9lphZSktXtDe6vk6LrJkM6xZA1f8F3XA5D7C/W2NuF7vHMBg=;ykB3ho3sqSmbeZqvMYgoNA=="
 ---

@@ -19,49 +19,75 @@ topics:
   - AI
 
 related:
-  - title: "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks"
-    excerpt: "(Reuters) - Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in ..."
-    publishedDateTime: 2021-04-06T03:07:00Z
-    webUrl: "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-idUSKBN2BT0AH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT0AH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT0AH"
+  - title: "Self-driving sensor startup Innoviz's shares rise on public debut"
+    excerpt: "(Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor, which helps self-driving vehicles gain a three-dimensional view of the ..."
+    publishedDateTime: 2021-04-07T00:32:00Z
+    webUrl: "https://www.reuters.com/article/us-innoviz-tech-idUSKBN2BT2RR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2RR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2RR"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 48
-  - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks"
-    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in Arkansas and ..."
-    publishedDateTime: 2021-04-06T04:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks-41617682855936.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks/amp-41617682855936.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-startup-gatik-works-with-isuzu-to-build-delivery-trucks/amp-41617682855936.html"
-    type: article
-    provider:
-      name: hindustantimes.com
-      domain: hindustantimes.com
-    quality: 44
+    quality: 74
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/04/06/600x338/Ex4w0ecVEAIRPE__1617442921787_1617682918309.jpg"
-        width: 600
-        height: 337
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557505106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DQ"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Silicon Valley Self-Driving Startup Gatik Works With Isuzu To Build Delivery Trucks"
-    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp said they will work together to build autonomous delivery trucks that Gatik will use to serve"
-    publishedDateTime: 2021-04-07T08:31:00Z
-    webUrl: "https://www.esmmagazine.com/uncategorized/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
-    ampWebUrl: "https://www.esmmagazine.com/amp/technology/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
-    cdnAmpWebUrl: "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/silicon-valley-self-driving-startup-gatik-works-isuzu-build-delivery-trucks-127850"
+  - title: "China's Plus raises more funds for self-driving trucks"
+    excerpt: "The company, which describes itself as a leading provider of self-driving technology for trucks, had already raised US$200m in a previous fundraising round earlier this year. The latest round attracted investors such as Quanta Computer, Phi Zoyi Capital ..."
+    publishedDateTime: 2021-04-06T09:38:00Z
+    webUrl: "https://www.just-auto.com/news/chinas-plus-raises-more-funds-for-self-driving-trucks_id201102.aspx"
     type: article
     provider:
-      name: esmmagazine.com
-      domain: esmmagazine.com
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Self driving startup may go public - report"
+    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
+    publishedDateTime: 2021-04-06T13:02:00Z
+    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Self-driving truck startup TuSimple hopes to raise $1.3 billion in US IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc is aiming to raise about $1.3 billion by selling around 34 million shares at $35 to $39 each in its initial public offering (IPO) in the US. The San Diego, California-based company is also targeting a ..."
+    publishedDateTime: 2021-04-08T07:08:00Z
+    webUrl: "https://www.econotimes.com/Tesla-assures-China-that-car-cameras-not-activated-outside-North-America-1606008"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
     quality: 38
     images:
-      - url: "https://img.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDIxXFxcLzAzXFxcLzI2MTAwODQxXFxcLzEzNzM1OTkyM19tLTEwMjR4Njg0LmpwZ1wiLFwid2lkdGhcIjo0MzcsXCJoZWlnaHRcIjoyNDUsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvd3d3LmVzbW1hZ2F6aW5lLmNvbVxcXC9pXFxcL25vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImExODMyM2EzNDUwYmZhZjAzYmM2NmRmYTY4ZTI5YjY1ODk2ODU3Y2UifQ==/silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks.jpg"
-        width: 437
-        height: 245
+      - url: "https://s1.econotimes.com/assets/uploads/202104083f5da995c8b63f0a0_th_1024x0.jpg"
+        width: 800
+        height: 482
         isCached: true
+  - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
+    excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
+    publishedDateTime: 2021-04-07T02:29:00Z
+    webUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch"
+    ampWebUrl: "https://hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/4/resurfaced-video-south-korean-professor-90s-self-driving-car-testing-watch?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 18
 
 secured: "vqY6TdKFE/MVLTocMN4CiaRoAXxxoQIb16nOUniBnlQvbx8TFfV32egm2dcqZEMLRvhSMyekKY1KXQqFx/ce+HdA9+1ndzy2O9RI6+umn89u3dy+sA6tNm8fm9yZQNv1ODeqll/9E7RbUf+Wpyv4OKC0l0g1KT1vfhdvvFs2EHEysH9qKedZuDoUzeDUUaADWsHJDmhe9jc4wM0n8kF2/h6KT3NljOEgT1wGYWYCbXlJLovWzPXVRAcUQ4tAfVmlAN/6goG9ayRQM4oAE/QIZKcxEhbS5zwwcp8lcnpEwYHWfAtIXN9tTZuh3jm/LpckSlucAEFSjjobsixoBGTDBuDIRfyXaHRMbLWuWnBoW+wzgf+ydfm337N6mRO51CWxYz6nzhIL4HHXXN5LzUNKlSZt08g1ZzpLTNGP85cxwtat2PoyGMfd1G214XXzaZuN88NIs+UReCE4kLcnAm8bJb2T5qKN0jSu/shzHLsBo26N4MwrV/p4wRPDnFbW6R3WCOj/gi2+2vHw3S6DDYpDwQ==;9/LCi4ltEN+N41fdawRfqw=="
 ---

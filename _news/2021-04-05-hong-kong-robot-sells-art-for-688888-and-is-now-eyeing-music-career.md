@@ -92,13 +92,13 @@ related:
         height: 675
         isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
-    excerpt: "Sophia is a robot of many talents -- she speaks, jokes, sings and even makes art. In March, she caused a stir in the art world when a digital work she created as part of a collaboration was sold at an auction for $688,"
-    publishedDateTime: 2021-04-09T09:13:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
+    excerpt: "The robot then processed that ... \"But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.\" Sophia's artwork selling as an NFT is part of a growing trend."
+    publishedDateTime: 2021-04-09T05:12:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/apr/09/robot-artist-sells-art-for-688888-now-eyeing/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 39
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/198046440_AP21092018861389_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"

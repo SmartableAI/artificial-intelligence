@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-se
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook launches free AI bias programme"
+    excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
+    publishedDateTime: 2021-04-09T10:21:00Z
+    webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "I don't know how many times and ways I can tell you people to get off Facebook"
     excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
     publishedDateTime: 2021-04-06T16:48:00Z
@@ -122,6 +138,6 @@ related:
         height: 631
         isCached: true
 
-secured: "mcB1hlI2fU0vW2kwX5udFYRt7UiweU+86aThIAImxKKcVHO8hYhqhzeeTQamai8+bj7eTT52yKtzkzLUi3HQlavwEJtR7SDWZ/W63DiyVwzBiRsF7TKcAFQphL0FvRvcIVJWCw0ad95N8HVF7CjvF/960ozlG3Og/ddILnAkqYrGo4VpvJJzKVwvS6TgY1usmTHVGfMo0fjvIWgWcU9f58OhFbX/nF8gKsdMPEPXiQwYOb+H1Dgpuj5VMNMabbr54odaVj9Vemd4lE/iD8ggOFiGnSfyoWG8ZqjVYVEQxYysYMzS5ANaUpAhPBi2E5lSEseFLg8zyHQKEoUWy1IEFh55AnHMLTSs0iGufjAV2X4=;S4bQaC6KXmxfh6k7oYVfJQ=="
+secured: "llSx7FvY37NRv8rht2V2bli/KIGeC1tjnbNXrPaY14YmVuusDdbZ8/YggvXiLOhIdU9JhLXVzoMQQBB8n2S/198buOd2zpF1YdKy55ZDtBQNIAjkWOvzjfMKGXljT3hjxMK/2QnRJQxzlI2PYIYp4OcGlMOT6Bs0XAYXAc4GVJsuGW+BBkVvwlMthK85AVrVhxCizlZ/+kCoLP/EyTVivEZFRHUa3oX6kfayya2PdPO8vvuimzn1LF8l4zOJ3bnyWf3cJoiwYnZSRQ4/IYQoCT1rhxdmFe9TUvrzxs3anQiIMyD/2OPVt9ILsMeC1jwfOZ0ej4VVlWOZG7ohMd017ry2YkAMg/tSNG6D7tjEpEs6qhVgkbY0K79ZVXxveplhDg8W0UmSkOv2LNJOPooVtUhmIS/z8YPfjhkE/eXlDx2PmwRriAygegX7NLGtmbhL/YC2QjbxaO7LWpsjuc63F0H0RVYFx5Ybuzegi097gnnQLvHltF8rpXYdmLV+2qUgopoIC185BhQa/y1/5qi+ig==;3iR5IOf+/iTkqydWj656bQ=="
 ---
 

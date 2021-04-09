@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-19-resume-writing-tips-to-help-you-get-past-the-ai-gatekeepers.md",
+      "title": "Résumé-Writing Tips to Help You Get Past the A.I. Gatekeepers",
+      "excerpt": "More companies than ever are using software to screen their mountains of job applications. Getting seen by a human recruiter takes some effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/03/business/03Resumes-illo/03Resumes-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "publishedDateTime": "2021-03-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
       "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
       "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
@@ -1359,49 +1411,6 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence.md",
-      "title": "OK Computer Trailer: Radhika Apte, Jackie Shroff, Vijay Varma starrer sci-fi comedy is about our future being controlled by Artificial Intelligence",
-      "excerpt": "where everything is ruled by robots and Artificial Intelligence (AI). We can see only the computers and gadgets ruling everything. In the trailer, in North Goa, a self-driving car runs over a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/",
-      "originalUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2021/03/ok-computer-1.jpg",
-          "width": 745,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-bollywoodbubble-com.cdn.ampproject.org/c/s/www.bollywoodbubble.com/tv/ok-computer-trailer-radhika-apte-jackie-shroff-vijay-varma-starrer-sci-fi-comedy-is-about-our-future-being-controlled-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-09T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bollywood Bubble",
-        "domain": "bollywoodbubble.com",
         "images": null,
         "publishers": null,
         "authors": null
