@@ -185,15 +185,6 @@ related:
         width: 700
         height: 285
         isCached: true
-  - title: "Opinion: Regulators need the wheel with self-driving cars"
-    excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
-    publishedDateTime: 2021-04-05T02:10:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2021/04/05/opinion-regulators-need-wheel-self-driving-cars/4836297001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
   - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
     excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
     publishedDateTime: 2021-04-06T03:05:00Z

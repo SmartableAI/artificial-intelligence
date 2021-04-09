@@ -37,6 +37,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "How Artificial Intelligence is Being Used to Streamline Training"
+    excerpt: "DeepHow AI's digital workforce training platform makes developing and distributing multimedia educational content more efficient."
+    publishedDateTime: 2021-04-09T19:21:00Z
+    webUrl: "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 52
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/GettyImages_1225807222__.6070a8c78e61e.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z

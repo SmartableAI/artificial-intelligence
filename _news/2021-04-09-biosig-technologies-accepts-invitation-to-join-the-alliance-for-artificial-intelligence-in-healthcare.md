@@ -51,20 +51,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "AI and Its Future in Healthcare"
-    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
-    publishedDateTime: 2021-04-05T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 54
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence and Healthcare Outcomes"
     excerpt: "The next session in the Lifelong Lerner Webinar Series: Artificial Intelligence (AI) and Healthcare Outcomes will be held from noon to 1 p.m. (EST) on Thursday, April 15. Faculty from the University of Delaware’s Alfred Lerner College of Business and ..."
     publishedDateTime: 2021-04-07T00:00:00Z

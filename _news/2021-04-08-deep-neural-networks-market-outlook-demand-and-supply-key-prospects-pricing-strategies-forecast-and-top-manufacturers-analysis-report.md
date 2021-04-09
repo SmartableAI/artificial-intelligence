@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Face Recognition Systems Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 04, 2021 (The Expresswire) -- According to 360 Research Reports, the “Face Recognition Systems Market\" 2021 by Types (2D Face Recognition, 3D Face Recognition, Thermal Face Recognition), Application (Emotion Recognition, Law Enforcement, Surveillance ..."
-    publishedDateTime: 2021-04-05T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "7wopzc/N697a+5UHW1IJ0fkhwS90IQd3Dz0wTGCD76f5NbFyVzVzOUYJs4cbUFMDCA4biT9XYFuZAwfYMOqIZA1LfSoJHHKlBbxuagYJ4tvthqZKmzWeNLA6vVWQq8xfNmYvB1SKFMBTEMcJcCn0w2iq72XyXycd9zo972ygZDGSxfpTvQvEy3VbfRLzp/ZRso1Vdh5pv1CAOwKvRsXrsqcAAgQNzlwGMndzT6wmpyNUd/T9dpXlhu9q9kXgV1qN6m3wEpm6mJj6/m5AgBgrodVjnIFpH8HoVBz6J5du0jwc/BinNXj6l3gwMtFTyDsNFofwwkVLjHq4yo5M+aqR5YMvc4DnQI9Y921327VTk8o=;Go6D8uInPqk5xE8sOykIVQ=="
 ---
 

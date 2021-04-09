@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/regulating-ai-without-stifling-in
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is Being Used to Streamline Training"
+    excerpt: "DeepHow AI's digital workforce training platform makes developing and distributing multimedia educational content more efficient."
+    publishedDateTime: 2021-04-09T19:21:00Z
+    webUrl: "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 52
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/GettyImages_1225807222__.6070a8c78e61e.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI emerges as the foundation of enterprise decision-making"
     excerpt: "3. Ethics, economics, and sustainability issues curb AI adoption. Despite high interest in AI, three key challenges need to be addressed to scale AI implementations: staggering energy consumption, biases in models, and high cost and computing space."
     publishedDateTime: 2021-04-05T20:20:00Z

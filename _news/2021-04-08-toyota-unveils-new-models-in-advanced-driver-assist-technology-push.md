@@ -9,7 +9,7 @@ ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
 cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota Mirai, Lexus LS show off Advanced Drive assists with OTA updates, AI"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle ..."
+    publishedDateTime: 2021-04-08T13:34:00Z
+    webUrl: "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 57
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/08083145/20210408_02_13.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Toyota unveils new models loaded with autonomous driving tech"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
     publishedDateTime: 2021-04-08T07:37:00Z

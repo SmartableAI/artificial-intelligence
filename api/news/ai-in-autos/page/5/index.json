@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-03-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript.md",
+      "title": "Ambarella, Inc. (AMBA) CEO Fermi Wang on Q4 2021 Results - Earnings Call Transcript",
+      "excerpt": "At the beginning of the year, we introduced our CV5 and artificial intelligence ... a global leader in driverless technology, has selected Ambarella’s CVflow family of AI processors.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-03-03T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line.md",
+      "title": "Chinese telecoms firm ZTE preparing electric vehicle product line",
+      "excerpt": "Asian technology companies, including Baidu, have announced plans to make their own cars, while Shenzhen-based dronemaker DJI is building an engineering team to work on self-driving technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40069764",
+      "originalUrl": "https://www.brecorder.com/news/40069764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.brecorder.com/large/2021/03/603f53244265f.jpg",
+          "width": 800,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40069764",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40069764",
+      "publishedDateTime": "2021-03-03T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-the-25-year-old-billionaire-building-the-future-of-self-driving-cars.md",
       "title": "The 25-year-old billionaire building the future of self-driving cars",
       "excerpt": "Austin Russell is the 25-year-old founder and CEO of Luminar, a startup in Silicon Valley that makes LIDAR sensors for self-driving cars. LIDAR technology had been used for short-distance mapping ...",
@@ -1363,101 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
-      "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-301724/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-driverless-cars-and-the-quest-for-true-artificial-intelligence.md",
-      "title": "Driverless Cars And The Quest For True Artificial Intelligence",
-      "excerpt": "Autonomous driverless cars are the most important and fundamental ... But what if cars possessed true artificial generalized intelligence? A car could have something akin to an immune system. It would know when it’s being attacked, and would initiate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/driverless-cars-and-quest-for-true-artificial-intelligence/",
-      "originalUrl": "https://www.smartdatacollective.com/driverless-cars-and-quest-for-true-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/11/AI-and-driverless-cars.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/driverless-cars-and-quest-for-true-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/driverless-cars-and-quest-for-true-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

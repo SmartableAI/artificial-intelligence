@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-a
 ampWebUrl: "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "AQfTfeZbaKeW/nuavI4TeD/9ze8IE+cyjOR23UUkdwuAmIhBWb5gJB5QePHpGFsX6ifDF26xYrfYTNmymd1VWdTuVOdTA5DvnEFKTopb+Kd50pTKP2IiPG7TjvmVAosRcYoajxmt93G+gqB+dHUAIVLqUud2HOD2HVbB4rJIIm/IkNpA7apIRbkwFoRvra/3AbZ6W1hZ8BZLwgC8rO/l2yxjSyr4LHKxi2xdqc0ikb4kf7x7w4DYatJTQPHCXikoVVRfPaGA4rumLgsTbzXGj90kDLpEl+obwDwqx6NyS3Z+3V4u4FeNQtYgWayfKkkua2N1/lhRTcyC+Ei3M7EbkaV43uPM47WULDArhiXqSxE=;21nkVtrELzsThUjp9HT3+w=="
+secured: "RLf3vOtT8OFNJ1ZItGn4wYlf2pludMycsZ4JVdWLNqJwTQ3cZsYWUKm/SFDAuyG+z5c/NIjZhr7fjUAwLiHFXX5p5w7BFnsHLkXdiqMyvdnngvhcYG3+nfajYxakmQbjEgWLG/Fh6NXA8aNwCCksmmepwNY1zFwtre0NaXeQI9BlBSOs13qEPHYKV8edUb/CjVXm1hbxQW4SAfYn0VxPEIUWF2r91rrlim7atTdQouachRsTTDskpFvKolVMROd4/5d8UVvz1rUlHMJreTtQnWkZp8xvHPQ+RVhyC6voTWs+ke021w7y+KaeAJzovgpDF3Gn8hJuuXd/pW2+3s+c89up7OSxS63TFGM6khrImn6Mb7e2TmNNTaxcHDeu/zdFlquvDfubz4M2IRqZWrWzqotF2So1WknswxJdVnwTJr1l33BUjyQp3xAHMIgDRtL90vYzFQvfK2SZrKqvzYbB+2O5JOoJuJVXjsofMtXUkr9IQIuJzmnRm+XcmsMhjRkfDY7Yzw/JR7afsMtz6xxYFA==;r2iyVLFK/LUOrk0LEgD29g=="
 ---
 

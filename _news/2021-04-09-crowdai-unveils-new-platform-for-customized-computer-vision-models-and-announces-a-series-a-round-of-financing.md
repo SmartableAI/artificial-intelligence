@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Equipment, a new service that uses AWS-developed machine learning models to help customers perform predictive maintenance on the equipment in their facilities."
-    publishedDateTime: 2021-04-08T16:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-industrial-equipment-repair-bfe196600824464ea18d57238ffeae75"
+  - title: "Computer vision startup CrowdAI launches with $10M Series A funding"
+    excerpt: "Startup CrowdAI Inc. announced the official launch of its artificial intelligence-based customized VisionAI platform today alongside a $10 million round of funding. Threshold Ventures led the Series A round,"
+    publishedDateTime: 2021-04-08T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/08/computer-vision-startup-crowdai-launches-10m-series-funding/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/crowdai.jpg"
+        width: 1262
+        height: 792
         isCached: true
 
 secured: "FoETtLjlKMoxe23ZYnFhvIxtJufRHcDI4nqL4VSKiLoTasw8JEyMnLm/mVjt7I2WlCxNe5tFra0yEKho4oGLmkXJaKHeDocUEtpre36RVg36E4AI2DkoIzICUozGXC7Ka39akLfi2hbi7n7hzPr3x43Eaaf3YcXQXyQmAYmZffQCtozfcPp/VZ5+YEP1QPX2qxdQ13QCM4jHkJzA/W85V4aCA40HN++UidPe7TYhcJqULAHduak2Sbhzd3pwpA7iJakFVmFc2id5ipCvclvOU2WLSbPE/Y4s3twMJkIYNEopcLMDP/2++AC/jkaJsdKckzm6mmxxHL0Is40e+SLW6iZn76c5oagKBDg46Y4SBuM=;fXA4+ewftwxu8ToQmgnMmg=="

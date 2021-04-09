@@ -1,0 +1,123 @@
+---
+category: news
+title: "Toyota Mirai, Lexus LS show off Advanced Drive assists with OTA updates, AI"
+excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle ..."
+publishedDateTime: 2021-04-08T13:34:00Z
+originalUrl: "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+webUrl: "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+ampWebUrl: "https://www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
+type: article
+quality: 57
+heat: 117
+published: true
+
+provider:
+  name: Autoblog
+  domain: autoblog.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/08083145/20210408_02_13.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+related:
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
+    publishedDateTime: 2021-04-08T07:35:00Z
+    webUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
+    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
+    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
+    type: article
+    provider:
+      name: bdnews24.com
+      domain: bdnews24.com
+    quality: 44
+    images:
+      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/04/08/toyota-new-model-080421-01.jpg/BINARY/toyota-new-model-080421-01.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "Toyota unveils new models loaded with autonomous driving tech"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
+    publishedDateTime: 2021-04-08T07:37:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/new-models/2021-04-08-toyota-unveils-new-models-loaded-with-autonomous-driving-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/new-models/2021-04-08-toyota-unveils-new-models-loaded-with-autonomous-driving-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/new-models/2021-04-08-toyota-unveils-new-models-loaded-with-autonomous-driving-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/72vBgBKTvYGFr4XeEBZqr5QGR_DmB_HbVo7RoOa9THglbjOnI4o8jthrO048LRsIZ9NhfurvXUwYhrTVpytR4Y0oK-i_fyWnjKU=s1000"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Toyota unveils new models with advanced drive-assist technologies"
+    excerpt: "Toyota’s latest launch comes as automakers, electric car startups and tech giants invest heavily in so-called active safety features"
+    publishedDateTime: 2021-04-08T13:18:00Z
+    webUrl: "https://www.theglobeandmail.com/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 44
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/yaeBa_Cp7SoHeXkxtvfXg6VlFfk=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5XRU74PZ2FN3BDW2ZDE6KS5SYM.JPG"
+        width: 760
+        height: 506
+        isCached: true
+  - title: "Toyota unveils new cars in push for advanced driver-assist tech"
+    excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota's latest launch comes as automakers,"
+    publishedDateTime: 2021-04-08T08:00:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-unveils-new-cars-in-push-for-advanced-driver-assist-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F2%252F7%252F0%252F33500724-4-eng-GB%252FCropped-16178662572021-04-08%2520TOYOTA-AUTONOMOUS.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Toyota adds autonomous driving tech to sedans"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Honda Motor Co, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new ..."
+    publishedDateTime: 2021-04-09T06:06:00Z
+    webUrl: "https://www.bangkokpost.com/auto/news/2097271/toyota-adds-autonomous-driving-tech-to-sedans"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2021/04/09/3942875_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu (NASDAQ:BIDU) unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first ..."
+    publishedDateTime: 2021-04-09T11:25:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/toyota-unveils-new-cars-with-advanced-driving-assist-technology-2468834"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 24
+    images:
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXNPEC0E0NI_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "IWmj2GwMFxMkUqEmkFZ9mv3nGVJNwjn7FuPzqOgA6NzmRm/VOK/kxCLGbYQ81qzOcIqt7WU2fXT6U1+IAQWITb9MZagQWkDaQsVuSKCNpKG4HuUArYIX3itTUG6SYb9TpnfZi+Cs7MzRLdmEE1sQZcc4QAk2TQ4GsiCZd3kpGWtoJ1W/gF63rbTEktdpaUexDlopstflIPFbg2+SciQzIypGaCHB3YrFReRUYjxjFGg16pXLDoc6sJAEeHTyVpS9y62YVY5D9iJEQq/M7xbetWAP8/luBS23kFZ65N8vLOl3RjYYINZlfEXPEHMnxl917MMl2vPp+NLTXCsUGX4Pkm0pEODmYVmIkkuEfnddaxk=;f+MrFetl3l6m4rZzd8toOQ=="
+---
+

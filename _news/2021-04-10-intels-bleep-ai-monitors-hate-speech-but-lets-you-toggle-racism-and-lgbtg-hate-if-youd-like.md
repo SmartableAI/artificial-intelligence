@@ -1,0 +1,61 @@
+---
+category: news
+title: "Intel’s Bleep AI monitors hate speech, but lets you toggle racism and LGBTG+ hate if you’d like"
+excerpt: "For some unknown reason, Intel, the company known as one of the biggest computer chip producers in the world, has unveiled a new AI called Bleep in its GDC 2021 Showcase, complete with sliders and toggles to try and monitor and block out certain levels of hate speech in online gaming chats."
+publishedDateTime: 2021-04-09T18:03:00Z
+originalUrl: "https://knowtechie.com/intels-bleep-ai-monitors-hate-speech-but-lets-you-toggle-racism-and-lgbtg-hate-if-youd-like/"
+webUrl: "https://knowtechie.com/intels-bleep-ai-monitors-hate-speech-but-lets-you-toggle-racism-and-lgbtg-hate-if-youd-like/"
+type: article
+quality: 27
+heat: -1
+published: false
+
+provider:
+  name: KnowTechie
+  domain: knowtechie.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/intel-bleep-ai-censor-1000x600.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+related:
+  - title: "Intel’s new AI helps you get just the right amount of hate speech in your game chat"
+    excerpt: "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ..."
+    publishedDateTime: 2021-04-08T20:08:00Z
+    webUrl: "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg"
+        width: 796
+        height: 448
+        isCached: true
+  - title: "Today I learned about Intel’s AI sliders that filter online gaming abuse"
+    excerpt: "Intel’s Bleep announcement starts at the 27:24 mark in its GDC 2021 presentation. Last month during its virtual GDC presentation Intel announced Bleep, a new AI-powered tool that it hopes will cut down on the amount of toxicity gamers have to experience ..."
+    publishedDateTime: 2021-04-08T09:37:00Z
+    webUrl: "https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/mjukuSzndWHmyGK2bezPhcsPuuI=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22429051/msedge_ophDP9qyMx.png"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "GQoVa9zaVJPHIbwAXH7ajgyXyqRxqk3RUelX/nckEjIT5I7Ggcv+0yrbZ/1/ACTCE0WSTeRXlbC2qvqvk+QQnnVomifpdM29/atc2kf96u35MBqqjA7CYkQQv4NKRv6eSbNfm4PsdXJXRK+yBKzxQ5wI+69WuAkOjkZFq0gYWk4Q3coNDAzEszTK1QHL7yE/qkF16PAXM78nkOB2E48NraRJTExnJOICW1inBNvQPY0pIskogZQfykeYrEDdTBZ3YEeNQG412kqbAlwMxR/bBgPTPotEizT9yw4rssWMXAcQgCQ8y53H73nrrTOKsQcUhhqXmmUzU2Ri5hQ3zUkoe2uvB3hdp4wNxLpdiLWtvQM=;GYaruR6v/6r8cQpvHoJn9w=="
+---
+

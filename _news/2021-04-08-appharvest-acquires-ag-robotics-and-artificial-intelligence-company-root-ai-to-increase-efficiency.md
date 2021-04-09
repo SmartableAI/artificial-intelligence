@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 765
         isCached: true
+  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
+    excerpt: "Focus on innovation sets the iRobot apart from its peers. The company has more than 200 patents in robot artificial intelligence and home understanding. Overall, iRobot is positioned for steady ..."
+    publishedDateTime: 2021-04-09T19:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-interesting-ai-and-robotics-stocks-today-1030290103"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
     excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
     publishedDateTime: 2021-04-08T10:00:00Z

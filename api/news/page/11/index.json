@@ -2,6 +2,237 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
+      "title": "DALL-E: OpenAI's new neural network wonder",
+      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
+          "width": 1134,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "publishedDateTime": "2021-03-30T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-v9-sets-its-sights-on-ai-and-specialized-computing.md",
+      "title": "Arm v9 sets its sights on AI and specialized computing",
+      "excerpt": "AI, and what it calls specialized computing. The UK-based Arm, now under the ownership of Japan’s SoftBank Group, doesn’t make its own processors. It instead licenses designs and IP to the likes of Qualcomm and Apple who then make actual chips for use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "originalUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/arm-chip.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
+      "publishedDateTime": "2021-03-30T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-please-dont-make-me-eat-the-google-ai-cake.md",
+      "title": "Please Don't Make Me Eat the Google AI Cake",
+      "excerpt": "Friends, I’m not typically a picky eater. But there’s something about Google’s new AI-generated cake recipe that... makes my skin crawl just a bit.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
+      "originalUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/x6mrcedvgrv2yg76fdlv.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
+      "publishedDateTime": "2021-03-30T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-as-big-tech-enters-the-race-pe-vcs-look-for-next-big-thing-in-chinas-growing-ev-market.md",
+      "title": "As big tech enters the race, PE-VCs look for next big thing in China’s growing EV market",
+      "excerpt": "Lightspeed China also invested in self-driving truck startup PlusAI ... On January 11, internet search giant Baidu also announced its plan to build a new venture for intelligent passenger EVs. It entered into a strategic partnership with auto maker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
+      "originalUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/electric-vehicle.jpeg",
+          "width": 1618,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dealstreetasia",
+        "domain": "dealstreetasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-buy-the-dip-in-c3ai-stock-as-artificial-intelligence-takes-over.md",
+      "title": "Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over",
+      "excerpt": "Stock Advice & Trading Tips The post Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over appeared first on InvestorPlace. SEE ALSO: Deliveroo cuts its IPO listing price to the bottom ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
+      "publishedDateTime": "2021-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-how-google-is-bringing-ai-to-healthcare.md",
       "title": "How Google Is Bringing AI to Healthcare",
       "excerpt": "or AI, is finding useful applications in healthcare--via such programs as IBM's Watson Health--for processing patient data, suggesting potential diagnoses, making individualized treatment recommendations, and assisting physicians with planning and ...",
@@ -981,231 +1212,6 @@
       "provider": {
         "name": "The Daily Dot",
         "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-ready-for-duty-healthcare-robots-get-good-prognosis-for-next-pandemic.md",
-      "title": "Ready for duty: Healthcare robots get good prognosis for next pandemic",
-      "excerpt": "Spanish flu pandemic, Czech writer Karel Čapek first introduced the term \"robot\" to describe artificial people in his 1921 sci-fi play R.U.R. While we have not yet created the highly intelligent humanoid robots imagined by Čapek,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
-          "width": 1920,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
-      "publishedDateTime": "2021-03-30T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems.md",
-      "title": "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems",
-      "excerpt": "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-teslas-full-self-driving-scam-are-evs-really-better.md",
-      "title": "Tesla’s Full Self-Driving Scam; Are EVs Really Better?",
-      "excerpt": "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "originalUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "cdnAmpWebUrl": "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "publishedDateTime": "2021-03-30T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ValueWalk",
-        "domain": "valuewalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform.md",
-      "title": "Capitolis lands a16z-led $90M Series C for fintech SaaS platform",
-      "excerpt": "To date, the startup says it has optimized $9 trillion in terms of gross notional balances. AI fintech products are operating at scale and investor interest is maturing Alex Rampell, partner at ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/money-explosion-gradient.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/capitolis-lands-a16z-led-90m-series-c-for-fintech-saas-platform/amp/",
-      "publishedDateTime": "2021-03-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virginia-state-police-admit-after-repeated-denials-that-they-used-controversial-facial-recognition-app.md",
-      "title": "Virginia State Police admit — after repeated denials — that they used controversial facial recognition app",
-      "excerpt": "The agency said investigators signed up for free trials of Clearview without their bosses knowing, a similar explanation to one given by Virginia Beach police recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html",
-      "originalUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pilotonline.com/resizer/hKFhBXXA0QvHHGWfG9aQUqVqxLM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7GUXQQBQWZF25LMGBFB2GN4TUQ.jpg",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp",
-      "publishedDateTime": "2021-03-30T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginian-Pilot",
-        "domain": "pilotonline.com",
         "images": null,
         "publishers": null,
         "authors": null

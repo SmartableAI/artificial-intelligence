@@ -49,20 +49,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "AI and Its Future in Healthcare"
-    excerpt: "LA JOLLA, CALIFORNIA, UNITED STATES, April 5, 2021 /EINPresswire.com/ -- In terms of technological advances, we've come a long way, but there's always a lot more to explore, as AI"
-    publishedDateTime: 2021-04-05T01:09:00Z
-    webUrl: "https://www.wboc.com/story/43599213/ai-and-its-future-in-healthcare"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 54
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
     excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
     publishedDateTime: 2021-04-09T14:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -181,15 +181,6 @@ related:
         width: 700
         height: 285
         isCached: true
-  - title: "Opinion: Regulators need the wheel with self-driving cars"
-    excerpt: "These vigilant public servants should be praised, not disdained. Michigan’s automakers are already aggressively pushing to accelerate the nation’s electric vehicle and self-driving vehicle marketplaces. The last thing Michigan’s economy needs is ..."
-    publishedDateTime: 2021-04-05T02:10:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2021/04/05/opinion-regulators-need-wheel-self-driving-cars/4836297001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
   - title: "Fruit flies could help improve self-driving cars"
     excerpt: "With over 70% of respondents to a AAA annual survey on autonomous driving reporting they would fear being in a fully self-driving car, makers like Tesla may be back to the drawing board before rolling out fully autonomous self-driving systems. But new ..."
     publishedDateTime: 2021-04-07T23:59:00Z
