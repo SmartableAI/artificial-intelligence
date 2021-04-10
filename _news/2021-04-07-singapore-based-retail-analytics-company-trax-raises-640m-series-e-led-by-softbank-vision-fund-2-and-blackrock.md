@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 354
         height: 336
         isCached: true
-  - title: "Uniphore Raises $140 Million in Series D Funding as Demand Skyrockets for Enterprise AI and Automation Solutions"
-    excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced it has raised $140 million in Series D funding, bringing the total funds invested in the company to $210 million. This latest round of financing was led by Sorenson ..."
-    publishedDateTime: 2021-04-06T04:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-037a2fb234454ee697af355402651d62"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     publishedDateTime: 2021-04-08T06:05:00Z

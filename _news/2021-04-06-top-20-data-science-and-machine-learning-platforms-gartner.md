@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
+excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: crn.com
 
 topics:
-  - IBM AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -25,6 +24,6 @@ images:
     height: 457
     isCached: true
 
-secured: "pILYIxMBou0ntv2rrRxYtE1uVQKoqKbmZpGr+KSKTuSE0hKaQjx3KTEyn+klQEVtnSu1NmFdyZ5Y/P21/rSvLcG5vJ5gUTI7bYP6w2V5S6FS4OcpEW5TD3wFmSF2E2P6xHk0XmUKCk6wwik/NhnIOIE04njKfmCCUWOkmX7UwdVo14J3Ad3hbiSn9tb7GBAhp7JJm/Mc4OdCaPqQpHMX0CnWkRmFRS0o1ViSnmWH/4ATmeFA8ArFYr7IJIaqa2zIaVhiZxFHg2ZPd6pQfzd4kTVQCwZZS5emVPefVcKnGWjOZlILDmJC3DTVeiyATT9Fidolv1Nj1+hWolvdo3b7/vuCIbgheOQbgzmmWcB/z9Y=;wIfNl/LRK6HuBY7vl2nz2w=="
+secured: "mm9VCbs0lvKvtsRLeN5A0cPfiHccf60LL+HrQuSeKbGYxhyNOJXvBFH+PKQR9lhaPicrC8Us7hG1d0wspw+XST++JWIu1mis9F07sKJymXlSIw6M2OmkCNmr8ACFNlohp+zO35Z9qGLSiJV7XWZdZe0TP8Ed67YK2D7vVvPCGOGTB/a97VLpA8FOgjTvZOXh/jqthGHe4DyPQRAjr2IAfEzUo5MtJ0kAM0iFWeTvI5Iy8yEcvyKjvx8xxTt1QWPvF72klUUB2vQHgcNKCfdhUJTc0So4NQUHWqH0sHaTJRiCxtnnDYKv/5y1K1sSs699KEvEGGf1/ssselVQk5lUCUWvSBfIdm8OOdoEHOIlMhA=;li2b6yUh3IF7HurgnFblvw=="
 ---
 

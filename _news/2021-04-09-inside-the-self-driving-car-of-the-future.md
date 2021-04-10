@@ -202,15 +202,6 @@ related:
       name: Plant Services
       domain: plantservices.com
     quality: 4
-  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
-    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
-    publishedDateTime: 2021-04-06T03:05:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
 
 secured: "385khQ/HA3LFO0G4/2US+2KDXQsChf7eGhv8nOncK/UDFom1JRwiypieLd+MkYcPmbKw8MeeLXJ9kmLADwc9Cqv3FXqiCCnk1Fj8cFqUlGvlYr5RH3iRXmejDQeyOvfyReMdumQi/JyAOgHGpqOQMs0VK8nOB7BBfngnQvkOPUrabwK8AEoyuwB1QQx/8XB5jMzUz6kNDU53jJOZoCyeau7iX5DzQliPcBWs+9C1NiFOAbx7jXWstnMQ0OpP7LdCCOGgfP4Ui4EDvFVxgIzjxfHhMijm1Ue86/I9z50bRdJkxrGQnJEvo6Hgrybke0R7dBhoehQA99MuS6OHAul+u5abqGZAKHPg3eaJ6oWHT9QXldCeqCm/CYGxRMYGdJJv2EWbamqLktP8VxvZor5XZ++a30tLjNVPcnoHNEs+W2jYwnHUkK47uqTflobL28IIDWxymC8tTfGv6rYNBspw8Bgb+1GtJYcXxcMSCVgnSi7DJv+//Tk4twWzGYgX9yqRR4mfeggiRSrJAKtJY1tsFQ==;xrvz+E2VF2n0aNdz3VgeXg=="
 ---

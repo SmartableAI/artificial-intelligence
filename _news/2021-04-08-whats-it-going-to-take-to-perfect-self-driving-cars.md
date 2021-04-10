@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -206,15 +206,6 @@ related:
       name: Plant Services
       domain: plantservices.com
     quality: 4
-  - title: "Remote control for self-driving cars isn't required anywhere. Why? It's complicated"
-    excerpt: "There are no federal rules requiring companies testing self-driving vehicles on public roads to have the ability to control them remotely"
-    publishedDateTime: 2021-04-06T03:05:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/04/06/remote-control-driverless-cars-not-required-why-its-complicated/6840041002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
 
 secured: "3X1UHwKKvZLBchzmwNhzy/x99AWb8YXASNTu6TvdYYtLLU7JK/PtgNZljc1Q+nlYX61MLdu+Oaxqw4rWvQ01fSrt1NEKj4gejsJlnLGftj+BU01sUkITeqImLwCh8RMZPcI/Bg9941F3EHn1pTl9zJuHPI9PujboAE46kLhdWdVBQIazTQ/n68FddK/OBuroqCCSN6UX6YwBN1AfFXFzHrEZBiSBRhqZgGjJHh1VJXKBuVWvneDKVABPkyCrrIFIglhH+wPr0ka+fWB7Aj4BOq27N/IY2xIuq/bS5w+5CsepPBfelVehadhtngEoLGrSgccdGYeP54dbm2fMN/tJDYOVrIjiq73hrzVHU2wm7F+vfF0UIAH2jGExbC441EeR8ehjc/jbeDp6/aMhcX5fZDHYBvkYAUWifCps4691lo+SpApNM3mdlZEWNrLPN82JxpiFuuth5k2Sd+MSNQf4wtWVCaVrHXs4kJX6qgcMt/g/7rmY97xOkh5cyKfxTmkgR2vFqkLrEkH/NKE6QDazBA==;inCruEZQJVs3g0ztdevj+g=="
 ---
