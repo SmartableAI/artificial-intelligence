@@ -2,26 +2,26 @@
 category: news
 title: "Vysioneer Receives FDA Clearance on First-Ever Tumor Auto-Contouring Solution for Radiation Therapy"
 excerpt: "BOSTON and TAIPEI, Taiwan, April 5, 2021 /PRNewswire/ -- Vysioneer, the leader in Artificial Intelligence (AI ... enabling a quicker response time for performing radiation therapy with more precision in targeting the tumor. Manual contouring time that ..."
-publishedDateTime: 2021-04-05T17:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-first-time-events-artificial-intelligence-ed13e31e61b2438d06d55a78220b4b60"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-first-time-events-artificial-intelligence-ed13e31e61b2438d06d55a78220b4b60"
+publishedDateTime: 2021-04-05T17:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vysioneer-receives-fda-clearance-on-first-ever-tumor-auto-contouring-solution-for-radiation-therapy-301262201.html"
+webUrl: "https://www.prnewswire.com/news-releases/vysioneer-receives-fda-clearance-on-first-ever-tumor-auto-contouring-solution-for-radiation-therapy-301262201.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1480711/press_release_photo_Vysioneer.jpg?p=facebook"
+    width: 1905
+    height: 997
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 635
         isCached: true
 
-secured: "nNV3iAHxIMGwnmuohAyjnkZWrKTCVaLtopudc+Ss7lvgcoGOnmT/Hjy0vuIRnrsW1jYHMiz4voDGJDxASzy8sGJ2YjLxXo8r8wUcyirdPCXXFly2LSvc8sExdBqIksTs9OCx36JDiqBXwMevEXM5VURc/Fo1P1BShjYDKBdtFrexUZ/wL9vgtZk/Ef+ZIQ6T0PkmcNA4g5Uem1PZbvBw69Vx1K6AjNyH3dQQEprMTVUCYlRVbVwCkUUPxaURMZUL8EZ5CwdlMc4Sf2G1lq1YOEGtY7snG+GH14vFOYnUpTrWuc2aKnQXe0ScU1oq80lPF9R1mOC1rr5qFsPs+z8JcAaO3fOYeH8vSpd/3M/OHTQ=;R1d3K4hBIERzixzQrp/m6w=="
+secured: "9nD8GFtyxAFvynZo/OUTcOFEd1VHv0/SEUI129o1iarwQjw3sVyj2uqK6yqjy8uwpwVorQJxcLH5W64qh+4RvtYsMsGzmKQv56MUG/IW530SS3AMEgYgzF1sm3WrZKOvwrPBEaG88f5Al6ky58RsmJVbvi/f3IG5foZ/9wKXulmesNHI55IgBElDKPxPAOzmaOoeHHVphsALE7TNiVCgeQmaOIPTScBYg6fSSa+AHI+YgVjJZHlFhh5F+Vwl8W1CQeNDIlniPVtOJHHigmlJ19W8e4VQZqt5zJrSB8qoafxrXuYiRJxF6IXE5owebc9qqSDeAod/9mnj9a/O68hDqSK6zgfDtn0Aw7kC8nFXqUM=;LiCp79hQakflAeFnRtoUkQ=="
 ---
 

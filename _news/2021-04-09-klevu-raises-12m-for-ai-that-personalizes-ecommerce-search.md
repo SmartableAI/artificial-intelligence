@@ -62,22 +62,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "Black Owned AI Messaging Company Raises $36M In Series B Round"
-    excerpt: "The latest funding round for Travis Montaque’s AI messaging company, Holler ... “Under Travis Montaque’s visionary leadership, Holler boldly stands for a new era of ethics in social media, and also deeply reflects the values of diversity, inclusion ..."
-    publishedDateTime: 2021-04-05T15:48:00Z
-    webUrl: "https://www.essence.com/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    ampWebUrl: "https://www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    cdnAmpWebUrl: "https://www-essence-com.cdn.ampproject.org/c/s/www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    type: article
-    provider:
-      name: Essence
-      domain: essence.com
-    quality: 59
-    images:
-      - url: "https://www.essence.com/wp-content/uploads/2021/04/Travis-Montaque-900x600.jpeg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "VmnLHR7gIFw4xpcyCCYUQ0OT5EBvPk4C5fiAvPmcjWBY17w+vl8TCMl5V8wdDfb/YHBbx5UaNWm3zsIFySIDDafV+YXtW+F/fv+fUfB9VKxVs2T5dIjREy20Q5pk1QLoiP/Mc83Rt6NrSGgkgpih6FkSOTH7On8ygfN1XGHmeEADIp/1jeC0CiFfT7r/PEARbJqsLG7biSDtTukzNJRCS4ttZ4XrI8Ss5ZCRLWbI9pnBoX+tT63S/f0/mcoxrl9GLCv8lWfVra0F4SIoB614eFiX3oBi7SpW5GJVGT1jsehmnXJS0+ybYSC4lc2A2qwG7EggQ47aU2Qi/GwJgo4RdUm13+lVeALcuD17JdobPlB5LYKG+wlHz/m9Lx4pDVydzmxLeSoDGkD/iBlxh/LszEzDpB1EeGOIOaDQvBFCl3wBPWz9kJ/my7NCWtdPcgaWowaqRuveWY4rqDdCNeqSQddRf1dYBJMy6Ye8r8l13kW/tnKzhBMVOoelbb5xzzERBTLgDXnAjp0KGkZ5aZ+Sow==;6YU+D81I/cnhNa2BDNPgyQ=="
 ---

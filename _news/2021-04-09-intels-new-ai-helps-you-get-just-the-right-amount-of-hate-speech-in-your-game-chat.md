@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 105
 published: true
 
 provider:

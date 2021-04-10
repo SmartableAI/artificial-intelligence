@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-03-30-autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech.md",
-      "title": "Autonomous Advertising: Mapping The Future Of Machine Learning In Ad Tech",
-      "excerpt": "Reaching this goal requires complex machine learning models that consider the countless variables a vehicle may encounter on the road, even as it performs tasks a human would find trivial. So, what do autonomous vehicles have in common with digital advertising?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281139bff3f884b86e9905%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
-      "publishedDateTime": "2021-03-30T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-fashion-tech-india-real-time-ai-data-drives-competitive-retail-advantage.md",
       "title": "Fashion Tech India: Real-Time AI Data Drives Competitive Retail Advantage",
       "excerpt": "Consumer fashion may be among the most unpredictable markets on the planet, but one startup in India has created an AI-based demand sensing platform that combines the brilliance of data scientists with seasoned industry experts to ferret out trends with uncanny accuracy.",
@@ -1193,6 +1141,48 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-update-1-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
+      "title": "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence",
+      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4",
+      "publishedDateTime": "2021-03-29T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

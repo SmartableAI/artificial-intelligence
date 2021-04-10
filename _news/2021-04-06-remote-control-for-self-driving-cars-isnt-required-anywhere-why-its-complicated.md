@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 1031
         isCached: true
-  - title: "Here’s Why Some Are Vehemently And Diametrically Opposed To Self-Driving Cars"
-    excerpt: "There is a solid case to be made in opposition to self-driving cars, though this is usually given short shrift, so it is timely to revisit the matter."
-    publishedDateTime: 2021-04-05T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602de8f944ba98dd7fb5b0c2%2F0x0.jpg%3FcropX1%3D173%26cropX2%3D4200%26cropY1%3D62%26cropY2%3D2327"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple chief Tim Cook talks of self-driving cars"
     excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
     publishedDateTime: 2021-04-06T01:35:00Z

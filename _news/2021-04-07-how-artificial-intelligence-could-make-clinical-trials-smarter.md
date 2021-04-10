@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/2021/04/07/cancer-clinical-trials-pathfin
 webUrl: "https://www.statnews.com/2021/04/07/cancer-clinical-trials-pathfinder/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can make weather forecasting less cloudy"
-    excerpt: "AI will work to strengthen existing weather forecasting methods by improving efficiency and making more timely weather predictions, as well as enhancing location accuracy."
-    publishedDateTime: 2021-04-05T15:09:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp"
+  - title: "AI uses patient data to optimize selection of eligibility criteria for clinical trials"
+    excerpt: "An artificial-intelligence tool called Trial Pathfinder can run clinical-trial emulations using health-care data from people with cancer, and can learn how to optimize trial-inclusion eligibility criteria,"
+    publishedDateTime: 2021-04-07T16:31:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00845-y"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: Nature
+      domain: nature.com
+    quality: 31
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/53974995-e9ff-4a62-b3c9-b499faebb96c/5e042306-dd4c-432a-82e0-57aafb77c839/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00845-y/d41586-021-00845-y_19027968.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "eTH3QMfTTH2/9sTcDmmvoh6hQDpzeqv5T/doRXDdB6kMlWf2iFf1Ix8aNwlRY7X+jrwBlzuS8hiAKZMX2j+K13ip1qdcc5KkLtIpQReUhjBoxNUH6FF5FK93yiap3TX06vd7fZUK6VebTdYFUW3+6QQat5UyWpyCKPQbmqEWsSKP+0lLPS51abEOHECG7ysN31NbZj7wXXxdeEjn5QWp/7TF9eEcvIgAa+DG29cBsXHoIXxIhbFaU7uxrgx9j3QmX6rYslSocNugnkHAaIzfHbkbH+dRj6xE/Yr2+iw5BxZ7N4fS2b/boS7d/LEQzddQP62YqXWsidTmv6uaVXgc8lxOno2meLVaSfrG8OXSv55xQvBV7vZKDpj3ZdogDAe19uHF52vV9nuiSXJWD/v7GNR7Vj3cEfs1cw4A8xtfQpD04C2JgSVBBTW59nmfvIcFaL/PxZSN2IN3FaArK7NbJ8M2rymrzwQ3Tq7L75fRLK+6/FwpjuMy9IZDbWR/G4PF/ShbYoh9mvta6IOLSXBHkw==;irXXEYCECkOYF6XWXYIuEQ=="

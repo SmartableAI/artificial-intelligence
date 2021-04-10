@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-improves-b
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-improves-breast-ultrasound-diagnosis-accuracy-200683-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -42,22 +42,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Going deep: Artificial intelligence improves accuracy of breast ultrasound diagnoses"
-    excerpt: "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide. This alarming statistic not only necessitates newer methods for the early diagnosis of breast cancer,"
-    publishedDateTime: 2021-04-05T16:31:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/goingdeepart.jpg"
-        width: 2880
-        height: 1619
         isCached: true
 
 secured: "PXqYgCI/KPExxwtiEYSrqy+IW7O9VHWZvv8CVO7XEQL987Mjig5leN1fGb9BfmMJELaSgCh1s5fqP4PyLFHQqRvc3sH/RSGsDmjVRSUDTRM3t93A8MpVrmeYbVbK67oShh7zl0VKSkgh42Vrs5n4r8wVyrAEpywyFI1AHj+waLnUSR4W48DiHpv8UXGAgNBpnH3v9kg2zMTVg7jPcYKiLId/Nc6dtY2sK0hMJI2JgX97KplwaPggBb0EMezc4aIZrYO75Frt04ZgJbE33dWy7x88Lmb2a3wB95dAo/ubacMkoxg4eFxTJNO/vhz3NVZKjMFC0mn8JEssb8e5zbS+JtySnEmQFJHzKOgukz97Po+aDe9pVMUJKpWJ+MjUxMkgniCRX6lvNX7fZMDq/eUSs5j8/FFuCJ+nPv7DQJwRxW0/hpKPPu1HH90UscfBd2nyC9KqzNkGO6a9VAaKAOiZAr3H96Maatd25rp4usVpCstHCwgEaVtYb1LbPDS/VtPvZ9OsGPpGPMKSiyYktqkEAQ==;L37jbrcX2Oe0XkIEW57Hxg=="

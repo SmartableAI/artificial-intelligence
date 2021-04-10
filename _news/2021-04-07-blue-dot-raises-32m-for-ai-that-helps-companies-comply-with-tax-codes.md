@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-h
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/02/money.jpg?w=1024"
         width: 1024
         height: 678
-        isCached: true
-  - title: "Black Owned AI Messaging Company Raises $36M In Series B Round"
-    excerpt: "The latest funding round for Travis Montaque’s AI messaging company, Holler ... “Under Travis Montaque’s visionary leadership, Holler boldly stands for a new era of ethics in social media, and also deeply reflects the values of diversity, inclusion ..."
-    publishedDateTime: 2021-04-05T15:48:00Z
-    webUrl: "https://www.essence.com/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    ampWebUrl: "https://www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    cdnAmpWebUrl: "https://www-essence-com.cdn.ampproject.org/c/s/www.essence.com/amp/news/money-career/black-owned-holler-raises-36-million-series-b-round/"
-    type: article
-    provider:
-      name: Essence
-      domain: essence.com
-    quality: 59
-    images:
-      - url: "https://www.essence.com/wp-content/uploads/2021/04/Travis-Montaque-900x600.jpeg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "nwOag4+Dw3pSJF1kZm0iJ2KZ38bPFVjRVd2N+GMcWLHF87YDfklxuLKkcxYd0Ed1RPRZPsyVUX52vGCVpgCDXNEyrZLV2GnbuN3nVbdaMg6LQDB0bOThwCafCsrnMjziUCHMZFrTm5Fd0uBSd6SVXaTNyx9AH1Sfi0vxniNNIzPweZwXDLuKiWfYz+bz5wnvtLEwJt7eWvmyk+BMq6df9+4IbaIkwK4biemkVO4zD+dfS/T5qQTlMIdR12qGj5cu4dBuxxsMy5PsTqvoFsmDo+uMZGsw/UUgn3R6H3KIdnnn8VHRohyYg/Y9+Fs2Uey5PKrW3nvTtVKmJrUlUh+0obyoudsBc+dG+/1uyuiZkaRGzBryXISxNNuo1xF2GUH+if2xKiV1SP/5YgnLV0L0BdOE4EoLbwbvBOWrFWg8OE9FpfO64Wi3qCjTQ49Ih11hB2yYqwybM5Um9mOOca0+g0It4JV43TTFEuSPRLw10HeLQIcTRlhTE+HT4BD6a+0eUG7/Ut3Hv2EkTTxR0zNK9w==;VPgG3TbEu2KQFkzQtSuc+g=="

@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Far-Field Speech and Voice Recognition Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players"
-    excerpt: "Far-field speech recognition is a crucial technology for speech communications and intends to allow smart devices to spot distant human speech. This revolution is related to numerous situations like smart home appliances,"
-    publishedDateTime: 2021-04-05T15:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-05"
+  - title: "Global Edge AI Market Report 2021, Featuring Alphabet Inc., Amazon, IBM, Apple, Intel, Nutanix, Octonion SA and Synaptics Inc"
+    excerpt: "The \"Edge AI Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
+    publishedDateTime: 2021-04-08T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-edge-ai-market-report-2021-featuring-alphabet-inc-amazon-ibm-apple-intel-nutanix-octonion-sa-and-synaptics-inc-1030285956"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
-    excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
-    publishedDateTime: 2021-04-06T11:18:00Z
-    webUrl: "https://menafn.com/1101865962/Speech-and-Voice-Recognition-Market-2021-is-estimated-to-clock-a-modest-CAGR-of-109during-the-forecast-period-2021-2026-With-Top-Countries-Data"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

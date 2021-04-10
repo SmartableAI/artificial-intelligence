@@ -74,6 +74,15 @@ related:
         width: 354
         height: 336
         isCached: true
+  - title: "Uniphore Raises $140 Million in Series D Funding as Demand Skyrockets for Enterprise AI and Automation Solutions"
+    excerpt: "Uniphore, an early leader in Conversational Service Automation (CSA), today announced it has raised $140 million in Series D funding, bringing the total funds invested in the company to $210 million. This latest round of financing was led by Sorenson ..."
+    publishedDateTime: 2021-04-06T04:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-037a2fb234454ee697af355402651d62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "214lose9/oiOwVw6BOuG4M7Fsb0z9TH//VCQREeHFcKHfHORQULZVJHEcztaSZEoBH0kflJs6/2l8oW1Qx32Uo+9JvyqSmQ7feuYcsp5yxf9YlEmk3kvOy3nMLNGq/5hUsSTaJpDqaV7/+sgYHFXbNPRq1GH8N4xg3hD6ZbOmV9hZ0lcLZnvXZI6FFknjuosORh/3z640UOxnMnaf+q30u8PVZDsaYyc/jVX/TudEvZ/iacSmFd6nqOYiHqwly0pptrZI8cSw/3A4eJHVtCd31AkfFQdxqS69TWWhkhFTNzUqPsNgnFUZoxbqqb4L7AjYiTht5r5SsOdUvFEWb6W+41DUp/fUdne5fQlWI45Lp6L39Q/r1HucNHYEhzJrUztHCJLhS5qR68PSkvBqFpia3gNndl/fT2L2y3ggcf/7XqpE2efu0it4jZ6FHbfN0kU3fRiGQPUDVOilYKpTDr3/ozdY4AKHDFn1W8lrY7ExH90WVSFhI+8IF5Ryz/B/XbV7nvv5cUl3ISRr8Lb3x3JNw==;L/39MRFv3j2LVANmG/P31A=="
 ---

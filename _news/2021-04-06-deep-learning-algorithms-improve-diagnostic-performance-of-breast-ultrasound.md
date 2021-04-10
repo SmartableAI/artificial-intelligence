@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Going deep: Artificial intelligence improves accuracy of breast ultrasound diagnoses"
-    excerpt: "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide. This alarming statistic not only necessitates newer methods for the early diagnosis of breast cancer,"
-    publishedDateTime: 2021-04-05T16:31:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-artificial-intelligence-accuracy-breast.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/goingdeepart.jpg"
-        width: 2880
-        height: 1619
-        isCached: true
 
 secured: "o4+jlVMYK3yfL6p5L8sMnC9OXUeWjyvBMNzCqHM/LQK6P8eij1H3n6vUbl6ndfvs31rS9oGtMRrVY3YwEBGZFqUiEHUCesSgCYl8zPdNkX8MujryAsiiWQgoetc1onGEh3AbErZfAm9AfOBYWQ/yHgLCsRmUy19fPJkUceLCOWIejVhx7oamZwWrJddGHqwGkr1Wqrq37YtqO006lfVGnYHCPhePUKnx7tZVTUlvGx7x6FirbxT5IiV2APPUtwLFPOFL4tUrTt6VBsC9AtE/UPbPmRhVhl8DYvUwqBG4qhTkf0AlfCubmXUza9ANt1Ig0iYbaTTbgB1UfgLUcJ4Z+q5PEf9K6ZQz6wvrsONgU4k=;D3Ia7CvQdCx3jX9174KsDg=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Covid-19 Vaccination to Go Contactless With Aadhaar-Based Face Recognition: What This Means"
-excerpt: "India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition, in a bid to make the process go contactless. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma ..."
-publishedDateTime: 2021-04-07T14:13:00Z
-originalUrl: "https://www.news18.com/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
-webUrl: "https://www.news18.com/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
-ampWebUrl: "https://www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
-cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
+title: "China's first lawsuit on facial recognition made verdict"
+excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
+publishedDateTime: 2021-04-10T09:34:00Z
+originalUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
+webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN-News18
-  domain: news18.com
+  name: CGTN
+  domain: cgtn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.news18.com/ibnlive/uploads/2021/04/1617795162_covid-19-vaccination-facial-recognition-india.jpeg"
-    width: 1200
-    height: 800
+  - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -59,6 +57,22 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "Covid-19 Vaccination to Go Contactless With Aadhaar-Based Face Recognition: What This Means"
+    excerpt: "India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition, in a bid to make the process go contactless. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma ..."
+    publishedDateTime: 2021-04-07T14:13:00Z
+    webUrl: "https://www.news18.com/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 49
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/04/1617795162_covid-19-vaccination-facial-recognition-india.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "India’s COVID Vaccine Drive to go Contactless With Aadhaar-Based Face Recognition: Here’s What it Means"
     excerpt: "The process of facial recognition will help alleviate concerns of accidental infections at vaccination centres. (Picture credit: PTI) New Delhi: At a time when the country is running its vaccine drive in the third phase, India’s efforts appear to add ..."
     publishedDateTime: 2021-04-08T00:23:00Z
@@ -75,21 +89,7 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "China's first lawsuit on facial recognition made verdict"
-    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
-    publishedDateTime: 2021-04-10T09:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
-        width: 750
-        height: 422
-        isCached: true
 
-secured: "PmKNph9k8Ln2Pj28LJaOcxRodvXVdGm1auah0DOEgrF8y9a6R0ilYE5aQZXY3al06ux8pCrlBCmR0ICOQgGTD+uh9eKtW43s+qIaPJFvYa+ZZ8lhJ/p/fpSSDff6Ecp48254wMi1crPoln7LNriJYyfYPWB21AJt0M8Ype2d9ESUTQnMX8O6uFEcqYBd98Uc7szhIWGszpkKSqzQvcuCOMnOHTJG2H5UqZMvWDQ0/jr3anEgaGcBN0cYZlqHtr/aoewyBXsn1aa8sDk+I2LCvbUejKfHFLcBOqNuczOrQA2nToT+68eBWanNiToMIcfeB1SWLOoR87Z/tkRGbCKe2Qa7MueQMJJzQlTLB8NKcQs=;c6ubsUBUgw7v+TBGGc5gOg=="
+secured: "sXvZjKeiCJuNsIs0dYbLt3WGAtghtJfWxrfYVNCY4UilkU9VWZ72SlyTGn6h2EnRAEFlNoE78c8AU+muoRP/Ea2d/UUTe5RFQjyY/YwCuD8LGQ5xMVf6nsA1zSo93+hw3feM6dezG1a6yRv0WJNDy6m+IPxDUbeTEQXy7RtfaPTr7Si3RRm8YBCDeQICgyntPASUByZFNvEkfxRyH2UG9QAeHP7k5UHIltUsdtiVcbrAUoCqztmlAir1CmZ+4GldFFdpVmf4d+bqkHGqQC3IrkNG0MfPw/4uCDGPkS/oE8TOs+ON8tXI2SxZufKI3Y09wfJRfftNa4Dl1BqnXF0Y3oWEO6vgJg1UgvOu6cDdquM=;WYEYFuGOqeXuXyDU8VDoXw=="
 ---
 

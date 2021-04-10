@@ -23,22 +23,6 @@ images:
     height: 799
     isCached: true
 
-related:
-  - title: "AI uses patient data to optimize selection of eligibility criteria for clinical trials"
-    excerpt: "An artificial-intelligence tool called Trial Pathfinder can run clinical-trial emulations using health-care data from people with cancer, and can learn how to optimize trial-inclusion eligibility criteria,"
-    publishedDateTime: 2021-04-07T16:31:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00845-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 31
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00845-y/d41586-021-00845-y_19027968.png"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "RdT1Nt62JQN3aKY7Jvkj8kOX1TsSj8IqqS5QLF5giD5YUuitYDCwhGUf+PDE/+JeRvYsUoaG156+2P026fnYyJvkR/YvtWkHYO+6evE6RCdtfmywCfUxEyPFqyIZpe1BM5faCcvjT2X8KRtWAwcd81OCqp9OWstcUezYuBYLQNLuQuWKZZk1D7WHtGKhWyzOQtMJyW3ciPLo1g9g+10z/xizeduaOcQ4EQrd4O5G2I4VchpbHWpXTlncXEiK7J12XCI9QnbsUiCN3/WA9+veDzhHeLJ8FWpWUH+kt4Sp0uL/b+99z+kif5Ubc9jOQFieqn376duHZteZ7M7t4JutaUXRBa6i3fAOkZGeLIKbJ68=;+mSvHZRcrfO5tFR7QIbeBw=="
 ---
 

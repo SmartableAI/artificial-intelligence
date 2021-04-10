@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecogniti
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2021/01/covid-vaccine-drive-PTI-delhi.jpg"
         width: 1200
         height: 708
+        isCached: true
+  - title: "China's first lawsuit on facial recognition made verdict"
+    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
+    publishedDateTime: 2021-04-10T09:34:00Z
+    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "020XEeJMITre/Ftrn2thzKIlb+emYXHA6FhZihwrG1dTrzc+bMqwhtTgHL+2MzHBf0P9Qz0jKZNwANDEumDZ4smM9VkAdQ7vwUM0Y5W983Lbo7ltyOqQzq6ZgTJz6ZRuDuL7Vifm4na8F2o0fLlzjgf+XrZRmuqPQcflmN2AjbgZLSn+7YbHu79TIRVUWOgOCcSE/BINZeF21rwSypEwVnf4AZ9krsljkE3d347H9kz0qwzw8DQuIOkAJhN0MM90fkSgNii4youtGrDtshkTLAy9yiXVDFkZIANz6iwkywyiKeMTPFm01GhY5Xj2WDjxLwt6kwmJcR005YZYZvlT41lkPLf5nIeXOGVTFXXlAkm3zddt1iY+j+ir56CY3A6pfdIL5rwcqMQ3XZg6ainWYPxfM8xrsh+dLpUP30/JO8n+U4Q2kNYx2kiWuutoaCvpRIO0B1MpotIVDkIDMN29pm4DetaujjR0u7cBgYKpft/djCTOiW+CyN3OSL0ipYH+I1H8R11O/+Gyy7goaDevRg==;hLZbbgIllGJksLCE+DzVYA=="

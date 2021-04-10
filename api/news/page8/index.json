@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-04-02-how-ai-powered-bi-tools-will-redefine-enterprise-decision-making.md",
-      "title": "How AI-powered BI tools will redefine enterprise decision-making",
-      "excerpt": "A new wave of AI-supported business intelligence tools will turn traditional BI on its head, surfacing important insights faster.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/",
-      "originalUrl": "https://venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/BI4-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/02/how-ai-powered-bi-tools-will-redefine-enterprise-decision-making/amp/",
-      "publishedDateTime": "2021-04-02T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-the-ceo-of-the-self-driving-car-company-waymo-will-step-down-after-more-than-5-years.md",
       "title": "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years.",
       "excerpt": "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ...",
@@ -1225,6 +1174,57 @@
         "Google AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-curri-nabs-6m-for-ai-powered-last-mile-construction-logistics.md",
+      "title": "Curri nabs $6M for AI-powered last-mile construction logistics",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Curri, a Y Combinator-backed logistics startup delivering construction supplies and materials, today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
+      "publishedDateTime": "2021-04-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],
