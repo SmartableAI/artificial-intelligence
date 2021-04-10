@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-
 ampWebUrl: "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?fit=800%2C600&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "U74f1wW/Q8ykoKVZtARvC50oat+htMAP8OmDRA7qn1bk0Ie6GtCKoBqb+KLktAUbWaX1qAP57T8oRduKM9gaN1Dt+32Vk3vTuEKND69ZRdHcJpl7Tc4WfXUcxw797rj0hnzJJEfXN7gIxo1V4obZGgY7T9C2C2+gfW5d3TPgKGAQ2psOES9GC1+YtwqXU2rQMieVBSYXDYul+oCWXw0lns9Nyn2yJztPID2gj4Z7dvuGE/oZNsCLkS+kJheeuY6NP3JSTAtFs88SRGzWwP1vkm66eyZUpohUyscFL9ePqGWSqROKTC2H3nKhH7pvCvw392LlBZuV7b0ScssmkGmNQmMK3lszf0wEcSXC9p8WVFw=;C9V0orwT6S59r9ZEvCgfhg=="
+secured: "aHkTX982dWAYQU6KU3Orzew/Epe6G0tJ5u4x9Ox2euNe1hQ76m8/c4xo6Xj/JIyUDekPs4XeYelThISZ1GTXE/ykXamdXd0dJsWsSGlMVKYtMsUWlvwLw/7z3tHS5eC0d6srx7v4xnvsJBmZjbv9jrbUn4OzrsvAHRI0qEH8tZHvsD0FO7Zs5btfkO9RZb6tbEFrEtTfwgBEdaFunzMiacUoHHa8Sqe7vNrnujQ6f1FE1/H2yfgBKiSv8wTjU3QQ6hVHEY8mq8KzCRM+zMs3AFRf4C/CYEx9B+BoLrtYZlXt5VyyLPy10DRadr+TifqZamcHti3Uo5MKMKXwjqzWH1x3oLJ1JUioFjkl3w6USXlN39CZviWJQSLSFK/5J6zADFbOvTdMLEydw8ZaQkAvsMlRwzQJT8dPzS1sktlKQaJnS9KHlOVP5qLHQ7jDfk80NNK3Os2d3JB4j70SMSOvvuKbmRVHNnvm8UkKOZD5ESDcG5ptpXAZN4W4yc/lRtxNxqJCAuMycAgZpKNk04kpfQ==;Xbz3Q5lQ1pybyU1zeS8xiw=="
 ---
 

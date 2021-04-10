@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
-      "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
-      "excerpt": "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
-      "originalUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-local-police-in-virginia-will-be-banned-from-using-facial-recognition-technology.md",
       "title": "Local police in Virginia will be banned from using facial recognition technology",
       "excerpt": "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov.",
@@ -149,7 +105,7 @@
       "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1399,6 +1355,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-darpa-seeks-to-improve-computer-vision-in-third-wave-of-ai-research.md",
+      "title": "DARPA Seeks to Improve Computer Vision in ‘Third Wave’ of AI Research",
+      "excerpt": "The advanced research office is preparing a solicitation for novel research into In Pixel Intelligent Processing as the next breakthrough in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/03/darpa-seeks-improve-computer-vision-third-wave-ai-research/172921/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/03/darpa-seeks-improve-computer-vision-third-wave-ai-research/172921/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2021/03/25/NGvision20210325/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

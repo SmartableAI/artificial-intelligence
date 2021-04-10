@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

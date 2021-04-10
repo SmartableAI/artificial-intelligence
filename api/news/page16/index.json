@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-26-whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-chip.md",
+      "title": "What's Up With Apple: Ad Tracking, AI Investments, Blazing Fast Chip",
+      "excerpt": "According to a Wall Street Journal report, Google plans to increase its use of a “tool that infers whether an ad interaction led to online spending or subscription without identifying individual users.",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/",
+      "originalUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2020/08/imageForEntry2-Qrj.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/",
+      "publishedDateTime": "2021-03-26T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-how-ai-can-help-companies-set-prices-more-ethically.md",
       "title": "How AI Can Help Companies Set Prices More Ethically",
       "excerpt": "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?",
@@ -1081,58 +1125,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "publishedDateTime": "2021-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

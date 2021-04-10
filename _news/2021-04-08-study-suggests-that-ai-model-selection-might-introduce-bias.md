@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-sele
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
-      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
-      "excerpt": "Robotics researchers are developing exoskeletons and prosthetic legs capable of thinking and moving on their own using sophisticated artificial intelligence (AI) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "publishedDateTime": "2021-03-15T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-03-13-what-facial-recognition-and-the-racist-pseudoscience-of-phrenology-have-in-common.md",
       "title": "What facial recognition and the racist pseudoscience of phrenology have in common",
       "excerpt": "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ...",
@@ -1406,6 +1362,49 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-7-ways-to-ease-computer-vision-syndrome.md",
+      "title": "7 Ways to Ease Computer Vision Syndrome",
+      "excerpt": "Experiencing computer vision syndrome doesn’t mean you need to completely give up your screen time, though. The way you view a digital screen can make a big difference. To learn more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
+      "originalUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2021/02/Male-Laptop-Indoor-Serious-1200x628-Facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
         "images": null,
         "publishers": null,
         "authors": null

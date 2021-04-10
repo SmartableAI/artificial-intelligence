@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Israeli university heads defend free speech in prize dispute"
-excerpt: "Presidents of Israeli universities released a joint letter Friday criticizing the government's decision to withhold the country's most prestigious prize from a scholar over his political views, saying it “severely harms free speech and free thought."
-publishedDateTime: 2021-04-09T15:40:00Z
-originalUrl: "https://www.chron.com/news/article/Israeli-university-heads-defend-free-speech-in-16088990.php"
-webUrl: "https://www.chron.com/news/article/Israeli-university-heads-defend-free-speech-in-16088990.php"
-ampWebUrl: "https://www.chron.com/news/amp/Israeli-university-heads-defend-free-speech-in-16088990.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Israeli-university-heads-defend-free-speech-in-16088990.php"
+excerpt: "Presidents of Israeli universities released a joint letter Friday criticizing the government's decision to withhold the country's most prestigious prize from a scholar over his political views, saying it \"severely harms free speech and free thought."
+publishedDateTime: 2021-04-09T15:39:00Z
+originalUrl: "https://www.startribune.com/israeli-university-heads-defend-free-speech-in-prize-dispute/600044079/"
+webUrl: "https://www.startribune.com/israeli-university-heads-defend-free-speech-in-prize-dispute/600044079/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1617977547"
+    width: 1680
+    height: 876
     isCached: true
 
-secured: "vR68R0Q6uDQSRkwkKi/gWVUaEko858Z+DmVybCoI3dMWKHWDnbtRIujJ0Itv15xYzYEZtT/ZRSdpNjycGcBoe1F8AGPLbXPIgEIHFcExSEUknu7ndYFaZIXIoev5Ddti2+6Chvjgyj69O5BXg9jBg75hkoh81O8bpjDAzuiLvwqjkb6yze05kLUz8CYQcxaOwsFyn0Cf37Ek0kJpYt5hCvXN8RnPzQ664sFGFEpo7bV+BLrVO1YyIGxp1EsJy3Dxg4xGpQSQZwbuuNzqgATtWsKMYIbU0caC6nFPe27B52mqytlZQpsdDT1V8/K9rL1jfbo9uF0k99TBVrriVD6QUqelJnaSCwbW4yBWss/ynTY=;eAQS9KyIzRBsFdnerDSoQQ=="
+secured: "aiLU2QJoq9ljJTpTxx2yXoepxXaP7gqTHhI8GDFpAJ6BFQsBwUw63nC/6p1QbfJ/OjSmExXhSGAUVajjpW27+QtQI3UJ1hS3e0tpeEM9fxRAf6EQ+GIyNWyv6eudPqLXvIz3qFoEGiXMEA8ElhlKQ1EFAHBVEVU5WVhOFanpstIRVfC5Un4RJW2Uxe6WrFP9borcb5a4ir75l3ufcO8NNW8FU7uo+ZJrNkC9nmSbLrO0hbxEfGL2gxNZkmtdYCLzVVIKB05SPEPtmJGLKqxHL8q9ahkPCK1FqeytovTBj/+UiiLZRjWnIUxMFw9mMY5QF2jfA9lQNZg9YN1UWCEc4OJSk5VZ3KXMZIMcZoJs5n0=;EpsoFM9gOAOd8u9WMsgt4A=="
 ---
 

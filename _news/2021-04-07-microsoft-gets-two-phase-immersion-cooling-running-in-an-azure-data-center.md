@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft open sources tool to use AI in simulated attacks"
+    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
+    publishedDateTime: 2021-04-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
     excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
     publishedDateTime: 2021-04-06T15:24:00Z
@@ -47,37 +63,51 @@ related:
         width: 1786
         height: 1119
         isCached: true
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-09T20:40:00Z
-    webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+  - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
+    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
+    publishedDateTime: 2021-04-05T08:23:00Z
+    webUrl: "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
+    ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
+        width: 800
+        height: 464
         isCached: true
-  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
-    excerpt: "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ..."
-    publishedDateTime: 2021-04-08T09:11:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
-    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
+    publishedDateTime: 2021-04-08T13:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-19739313.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 63
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
+    excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
+    publishedDateTime: 2021-04-05T11:12:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
+        width: 411
+        height: 292
         isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
@@ -95,6 +125,103 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
+    excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
+    publishedDateTime: 2021-04-08T10:26:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-software-system-market-2021-present-scenario-google-brighterion-microsoft-baidu/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 47
+    images:
+      - url: "https://www.techgenyz.com/wp-content/uploads/2017/11/artificial-intelligence-software-testing.jpg"
+        width: 610
+        height: 380
+        isCached: true
+  - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
+    excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
+    publishedDateTime: 2021-04-08T12:55:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-innovates-ai-driven-natural-language-processing-and-unparalleled-automation-for-microsoft-windows-endpoint-management-301265117.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1483731/aiden_Logo.jpg?p=facebook"
+        width: 599
+        height: 315
+        isCached: true
+  - title: "Microsoft and Thales work to automate satellite image processing"
+    excerpt: "Since Microsoft unveiled Azure Orbital last year to connect satellites ... high-volume artificial intelligence and machine learning to create an unprecedented impact on and beyond the planet!”"
+    publishedDateTime: 2021-04-07T01:15:00Z
+    webUrl: "https://spacenews.com/microsoft-adopts-thales-deepervision/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/04/rsz_screen_shot_2021-04-06_at_54503_pm.png"
+        width: 879
+        height: 502
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
+    excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
+    publishedDateTime: 2021-04-07T13:09:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/global-artificial-intelligence-market-2021-growth-analysis-ibm-intel-nuance-communications-iflytek-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
+    images:
+      - url: "https://teceze.com/sites/default/files/inline-images/Artificial%20Intelligance.jpeg"
+        width: 5000
+        height: 2661
+        isCached: true
+  - title: "Redstor’s AI and Kubernetes offering helps Microsoft partners manage customer data"
+    excerpt: "A new service from Redstor is designed to assist Microsoft partners in managing and protecting customer data in Microsoft Azure and Microsoft 365. The AI engine offers an additional layer of protection by detecting malware before it can compromise backup ..."
+    publishedDateTime: 2021-04-07T08:30:00Z
+    webUrl: "https://www.pcr-online.biz/2021/04/07/redstors-ai-and-kubernetes-offering-helps-microsoft-partners-manage-customer-data/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 28
+  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Trending Technologies – Microsoft, Qualcomm, Intel, Google, Alibaba"
+    excerpt: "This research study titled Global Artificial Intelligence for Edge Devices Market 2021 by Company, Regions, Type and Application, Forecast to 2026 reveals the current status of the market to predict the future, by analyzing development trends, competitive ..."
+    publishedDateTime: 2021-04-06T05:20:00Z
+    webUrl: "https://ksusentinel.com/2021/04/06/global-artificial-intelligence-for-edge-devices-market-2021-trending-technologies-microsoft-qualcomm-intel-google-alibaba/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://blog.westerndigital.com/wp-content/uploads/2018/08/Machine-Learning-highway.jpg"
+        width: 1200
+        height: 670
+        isCached: true
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+  - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
+    excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
+    publishedDateTime: 2021-04-07T01:44:00Z
+    webUrl: "https://island.lk/microsoft-introduces-cloud-skills-challenge-with-10-universities-in-sri-lanka/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 16
 
 secured: "wrwlQFrw4GwLIBDH0xhF/rxIY11HnRLpRqyNl/EdeElLYugc4xKKDK7v8lWznOt0BI4gH6xK0rQqGw7fWq8gbgdRZtziIItyY253XzuJd8+25iBHLarhoWoFl3S1m7ehi+p/tudgpAVo/G7E/WGLW3otZZ4FRsDLSpguloCHWWcVResGb/sMxeo+lUVu7bu8ZhDr6gRc9hmoDTL1wY1KONViahgCxQbjaWrns4N+GNXxWygOpYCnHncxXBSqWNYah8d727QerrDQXD1VKONhTgD7sgeaOpdv+yIT99n5/MPbHfe5GuzdRNV4PWbr43t5thT9QwuceU2/Izi2KFub9wlMEC809xVyTEPkWoNgg4JW8tABc4fcOWvOdmq5h+j7C9w+ybuVisj6VIdcSXmBKRPGU1YMPPokahdeUu+10gl1g+WQn7ICVsHM4O0j1Nw7uu16OnTWvA/FlUBhrb4LX3tNQp6C91B3ilC2m10g+0Qs4hnwjHG1f7U+6fUTqxieqj38BbNLDIp3QFm3cJF3TA==;KIJNNUcDV+iNRqR7emgSXA=="
 ---

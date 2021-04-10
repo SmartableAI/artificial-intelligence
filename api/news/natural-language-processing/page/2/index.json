@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-24T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
       "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
       "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
@@ -1339,6 +1295,59 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-facebook-details-ai-that-can-understand-videos.md",
+      "title": "Facebook details AI that can understand videos",
+      "excerpt": "Through its Learning from Videos project, Facebook says it's investing in AI that can understand social media videos on a granular level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
+      "originalUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
+      "publishedDateTime": "2021-03-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

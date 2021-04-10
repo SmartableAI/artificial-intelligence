@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025"
-    excerpt: "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ..."
-    publishedDateTime: 2021-04-05T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
     excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
     publishedDateTime: 2021-04-09T12:56:00Z
@@ -158,17 +144,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Blockchain AI Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
-    excerpt: "New year, new updates! Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact: https://www.thebusinessresearchcompany.com/global-market-reports The global blockchain AI market is expected to grow ..."
-    publishedDateTime: 2021-04-05T06:43:00Z
-    webUrl: "https://www.openpr.com/news/2265695/blockchain-ai-market-size-analysis-growth-insights"
-    ampWebUrl: "https://www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265695/blockchain-ai-market-size-analysis-growth-insights"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
     excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
     publishedDateTime: 2021-04-05T07:51:00Z

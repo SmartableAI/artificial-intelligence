@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
-publishedDateTime: 2021-04-08T13:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
+publishedDateTime: 2021-04-08T13:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
 type: article
-quality: 38
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
@@ -213,6 +212,6 @@ related:
         height: 450
         isCached: true
 
-secured: "v+UTL2Zve3QzbDr+S2Rwom3TreURKTufD2hq3DGO9S901T9i3x34wePsGSwnMFFy8CTgXRtKhEdZkKFpWmwbnXw8d5hIimZom0gxKPFxTZycxjQvGgc0PTPih9DO534mr0L9/acQmF9h9Vr7PiVtjiw/CiHFCImlBBj6S3FVrQmM3XerlRBiT896wihZ0L+KAmZsVyt9TB2GOBnmDja9NsJVdG2wYkho1D4FaV8750dR+/VcyeV2+EDEWQzjuHpXDFt5XIibaA1wLx8TSyZqFbHQLqS39enxqe0tAcX6sQI2qteUWtkbB66myqtp9eLLDuAdfjA9ZJZc69cAFOOvltOS2MV++phioHqXBzL2Bss=;wXzEaKsh4GVP5YV+EIgrmg=="
+secured: "FcU3898mU+X3NOyAsQq0+nPPTdUMMEHIxWCtDensDdQiPsZbgvYTUn4jDysH2h9f25GIdBM58CfNIF7lbgGz3r4BDUQw3aTIvgbIvwan/C3oSNGn7nvY1PXrjRAnVZZUrSjRu0qIjo9v2jrFq2zHWaaYycJr8IkRGTw3fo+8cCGOh92DKUYgubQ81yc0+esHJXKvWEXON0OyP5Gam+Z02h9HzBumMFBMgOOw6a6lLZ+vnyuIVeVSykYQs0joe6WLfvmt4yMeUCr6GARmUb8PWbvwq5BrTQ6cGjkZQdpTk+SKPK2sMTqfwwe29nzvPbz+EhVefc+fcn+2qWyd/J1bOFISurCu8y68iJDx8bYF2HVm3vgYWGbAhN3YuhBPeQk+eVvBn6mb72+uVQRNcBq/QNEN8nwTjnAq0x5sNylcFHAS86XtPe9/5wDC67gAZeO6nF83q86C5qaleknEB8fJ53KX0lZ1p0UvSudZg1/OPg/RlRYt7lfEQ4v9JYHZ5RFsypLvm6qfmUk7AxG6qluBvQ==;WQqFZq8ap1eGd3lHiNNHrw=="
 ---
 

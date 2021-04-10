@@ -26,6 +26,54 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft open sources tool to use AI in simulated attacks"
+    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
+    publishedDateTime: 2021-04-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
+        isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
+    publishedDateTime: 2021-04-06T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
+        isCached: true
   - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
     excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
     publishedDateTime: 2021-04-05T08:23:00Z
@@ -72,19 +120,21 @@ related:
         width: 411
         height: 292
         isCached: true
-  - title: "Emotion Detection and Recognition Market Growing at a CAGR 11.3% | Key Player Microsoft, Apple, Google, Tobii, Intel"
-    excerpt: "In the post COVID-19 scenario, the global Emotion Detection and Recognition Market size is projected to grow from"
-    publishedDateTime: 2021-04-08T18:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-growing-at-a-cagr-113-key-player-microsoft-apple-google-tobii-intel-2021-04-08"
+  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
+    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
+    publishedDateTime: 2021-04-09T06:52:00Z
+    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
@@ -100,19 +150,19 @@ related:
         width: 610
         height: 380
         isCached: true
-  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
-    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
-    publishedDateTime: 2021-04-05T12:08:00Z
-    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
+  - title: "Microsoft and Thales work to automate satellite image processing"
+    excerpt: "Since Microsoft unveiled Azure Orbital last year to connect satellites ... high-volume artificial intelligence and machine learning to create an unprecedented impact on and beyond the planet!”"
+    publishedDateTime: 2021-04-07T01:15:00Z
+    webUrl: "https://spacenews.com/microsoft-adopts-thales-deepervision/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 41
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 39
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
-        width: 675
-        height: 381
+      - url: "https://spacenews.com/wp-content/uploads/2021/04/rsz_screen_shot_2021-04-06_at_54503_pm.png"
+        width: 879
+        height: 502
         isCached: true
   - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
     excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
@@ -128,14 +178,14 @@ related:
         width: 5000
         height: 2661
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ..."
-    publishedDateTime: 2021-04-05T06:41:00Z
-    webUrl: "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/"
+  - title: "Redstor’s AI and Kubernetes offering helps Microsoft partners manage customer data"
+    excerpt: "A new service from Redstor is designed to assist Microsoft partners in managing and protecting customer data in Microsoft Azure and Microsoft 365. The AI engine offers an additional layer of protection by detecting malware before it can compromise backup ..."
+    publishedDateTime: 2021-04-07T08:30:00Z
+    webUrl: "https://www.pcr-online.biz/2021/04/07/redstors-ai-and-kubernetes-offering-helps-microsoft-partners-manage-customer-data/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: PCR
+      domain: pcr-online.biz
     quality: 28
   - title: "Global Artificial Intelligence for Edge Devices Market 2021 Trending Technologies – Microsoft, Qualcomm, Intel, Google, Alibaba"
     excerpt: "This research study titled Global Artificial Intelligence for Edge Devices Market 2021 by Company, Regions, Type and Application, Forecast to 2026 reveals the current status of the market to predict the future, by analyzing development trends, competitive ..."
@@ -160,6 +210,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 25
+  - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
+    excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
+    publishedDateTime: 2021-04-07T01:44:00Z
+    webUrl: "https://island.lk/microsoft-introduces-cloud-skills-challenge-with-10-universities-in-sri-lanka/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 16
 
 secured: "YWl7zHOYTaMer0TfkeV6BlD9hxIEIIeKD1wrPrArHNMK0iK3EVwYCJX8knBDkRJQbYv/0a5q3SNF6h5Y7Yqud0qCrKnzrCcyRTUqCVJie0uoitcyjM8d33BnVUeRuxyUhr7g78eQ4rv+6pN3pKTOGq/QlK8ImOcN47ddLDAoDK8CrlQIlC1MBEDqwEJ2P/MOPBiaUxOl75AxuvM00BEDOFl5ygyUIc9lEawk8CPx6w/Y6F06pjlhpM8XzZRBGrRWpLuyN8LLeyVqyq/hA5/rG4DYHCkEzOTlyqAEQL4mrwsOHmFdzG39bpnJbS/LhsxSaW2iNQa5ySOQQ5W3UEO3CvYyymA5YoXCdUS3npUKlTWcD7YMImay2hDRd86f/LYvF0H0urkHCh8yDVX+RmBML9o+uXL2ivWQWjJMoLb8sje0Ex7E4ALHEJB016NQ2yGun6LYYqVv3vyuu0YsEFz8V0dHMz7QwUMwd3HmumYk01Zzd/DB+gxL73VLydprKWTFSKmvX5tAoDtUaMW3WGKJsw==;seQc16c5en2D/rIYO5dBMQ=="
 ---

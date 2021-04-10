@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/facial-authenticati
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:

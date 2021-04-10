@@ -73,6 +73,15 @@ related:
         width: 750
         height: 406
         isCached: true
+  - title: "Accenture Buys Analytics Services Firm Core Compete"
+    excerpt: "and machine learning to help clients become data-driven enterprises. Terms of the deal were not disclosed. Durham, North Carolina-based Core Compete, which also has offices in the UK and India, works with clients across the retail, financial services ..."
+    publishedDateTime: 2021-04-09T22:38:00Z
+    webUrl: "https://www.mrweb.com/drno/news31280.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 4
 
 secured: "yhLt+vFMjzVF1gxaVXkvtPgJB4gtspY4SS1LYEVlXVK9/SArbg9KOE/9I/1VeEzIaImkVmUUOjstlSvNGzRB0dw3R3YdTFnBWs+0U+S+NlGa+R7Dax3izPIeCs5W1EUWrh0n/WhIWYOUeP8sQyWgHxygNuUMFhBLXmxNxbfGAk+fmQycAYJ2zGRifr/AoTZorNnaQZpnwwdk14NWS2GGPXvd3mVp5S8UZupc7yW02J9gXlA9zcEGpa5S3sSjw+/9Iq9Y12umf0gU0PlveoBFWyYjrcj/zFBd6ImRs3OEvvvZsRVR01WJwS4D53ZeRFhcfmvWtJHYex4bNj7J29YDDkQSrICUbLosSoZJ9eBH5AR2tmz8WIxpyvloUpSZC0tTa+Kat5CDgF2WzPP/Y19AOXJ/UA0C8+JpoIcFCpAUQ5cfLCu29AOUf+hAKWxg5RXeZ2rrhSstWv343cz16gpmTnCEZ6tQJ5HkYszsGBE8Kf7hwEw35fknAP7NEdPO/zoCTfpRFAU7OjLlFcAprdQ3tA==;1XnruvssBh8IzuavYMcOGw=="
 ---

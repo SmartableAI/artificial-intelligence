@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
-    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
-    publishedDateTime: 2021-04-06T15:24:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-        width: 1786
-        height: 1119
-        isCached: true
-  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
-    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
-    publishedDateTime: 2021-04-06T20:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-        width: 1786
-        height: 1119
-        isCached: true
   - title: "Physicists working with Microsoft think the universe is a self-learning computer"
     excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
     publishedDateTime: 2021-04-09T20:40:00Z
@@ -75,21 +43,19 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
-    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
-    publishedDateTime: 2021-04-09T06:52:00Z
-    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
+    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
+    publishedDateTime: 2021-04-05T12:08:00Z
+    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
-        width: 800
-        height: 531
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
+        width: 675
+        height: 381
         isCached: true
 
 secured: "sP0LFhNieJNQdbbYtR4WyqQ+6qxChKkIsFxWcfvI2Z+W1JTH31CRVe8uGAv3GTzWWlr7pofSJ214BHe5DHr6qKFK/Zy5H1MLtFwbI49/mXfAhVmcnnOB9DVEULluqqeqOSO0ec/UuIgXmwgawyF6BMn3gsHwKgiQD+n/08uaPwCKgQc2ccxH4kwDMW0OTXvy5gU4a/d9WIVEni7rLHJBaD8mlQ6KV6Xyari6sYTo8YvfF9g1nmpSmn0Mrst1iIda98Y42K6x0fNyPEAX3Fi8sGdkSgoor/vNG+11abqqm4aUs0c397VOBOQnIY5ukwuZxlDtxxxy6+4caipRbJzyd2f0lkZtTmrnUX0SlJV+lFgC8fJFSc0iSlGufvlXCunuh2OSlvH9R49UDZCC76DABEK26FfQgUBcfsKziQv+wqTrOF6p0vNSqjqYmt++eQ0fnfUmHPO3Aa44wwuY6RKoHqMji4r35H1DbxPa+MmaIZdiJELFiTf87liTYFXUCzNYP+umLL7lOGVkoLqKN1tNWw==;pffgh/4TMkK20tpqJd7dQg=="

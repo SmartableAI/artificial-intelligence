@@ -2,6 +2,60 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-03-04-deno-18-preps-for-gpu-accelerated-machine-learning.md",
+      "title": "Deno 1.8 preps for GPU-accelerated machine learning",
+      "excerpt": "WebGPU API for GPU rendering and computation is supported in the latest upgrade to the JavaScript/TypeScript runtime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/neural_network_by_ktsimage_gettyimages-891769302_2400x1600-100788348-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
+      "publishedDateTime": "2021-03-03T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-utilizing-xgboost-training-reports-to-improve-your-models.md",
       "title": "Utilizing XGBoost training reports to improve your models",
       "excerpt": "In 2019, AWS unveiled Amazon SageMaker Debugger, a SageMaker capability that enables you to automatically detect a variety of issues that may arise while a model is being trained. SageMaker Debugger captures model state data at specified intervals during a training job. With this data, SageMaker Debugger",
@@ -1127,57 +1181,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ai-can-do-that-what-marketers-need-to-know-about-predictive-features.md",
-      "title": "AI Can Do That? What Marketers Need To Know About Predictive Features",
-      "excerpt": "Data scientists can use AI techniques to analyze past behavior and find patterns that are predictive of the outcomes they want to drive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e786d0bca97dcd24fb25a%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D1404%26cropY1%3D0%26cropY2%3D672",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/amp/",
-      "publishedDateTime": "2021-03-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

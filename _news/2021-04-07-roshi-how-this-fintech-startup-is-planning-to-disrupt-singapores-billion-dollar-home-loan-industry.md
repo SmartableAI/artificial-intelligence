@@ -39,20 +39,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Singapore researchers use AI to identify the pH of cancer cells"
-    excerpt: "Using an AI-based algorithm, thousands of cells originating from the ... cell by cell imaging and analysis as they flow through a channel in a microfluidic chip,” said Prof Lim. This can be extended to monitor cancer progression, effectiveness of a ..."
-    publishedDateTime: 2021-04-05T05:55:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/05/singapore-researchers-use-ai-to-identify-the-ph-of-cancer-cells"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/05/1101988.jpg"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "nuewAFV8eVAFiaxwmkMkdC/QWLdgPtzPNo7bDseAdVHtMt4CcPT2PgseQyOu5j2WSJhOkgBuOjdUdUrRvsHC4qedhg6lnSaYr6SphSbRHI0ffZTtBa3r3bJOij6VYZBthh12WMhoqGKUItxAe4rV9bzgSW4q9DDp3yT0cTW8lVhuaZLhxPxQAvi7hKsaaPAz0dgDsNfXJyku42z9AyHLeKHQ+rBFqLYbCm0zCVNluGsf4JdgMySy/rg7DZd/j5rtllrxGGKd/ZjOXef0dx0cVVXOF7Un1990PSyiU211X/VEydiJHu9LCic0zEwEXdI76461meZbhbz2jIbouQ7CGwEEXO/yOdW4aGLqQRJ8M4w=;4+hVg/3LXa+2j81NGASBkg=="
 ---
