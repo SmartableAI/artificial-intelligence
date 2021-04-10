@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "netguardians"
   url: "https://twitter.com/netguardians"
-  followers: 1513
+  followers: 1514
 
 size: 51-200 employees
 yearFounded: 2007
