@@ -6,7 +6,7 @@ otherNames:
   - "Shangtang Keji"
 overview: "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity."
 type: "profile"
-heat: 64
+heat: 78
 
 website: https://www.sensetime.com/
 
@@ -53,6 +53,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wMUmPumXtpw"
 
-secured: "RoeCk5RIXpAxv+KFXYMOnTm91KrD0TsKGPrZXqWVBdB4xHBKdMWEKY8wdHH2ACZygWPLBy0Ei66pwJyoN7G9y4PwpKeuwo1W1itdTskrugpXyH8IeYboGeRDIhf2/53F6U1dW3s2nVJfjlQmAo8NzcPL82mHd9OLJzIRwDM38YRU/89h53D1/erX/vdaVMweczlyc30VI1cyPqX1pZpMyl9ZeeKsTxyncEGFh96CtX9m5zs3COJMNXBTUtOsZ1JlFLiWIbwXcSkYNlVY9SKwdp2Dn66PzUeZ8isCdGzmpVYh21Ec1SrnGayFdyK1DODE0tWioSCO9UQAGV0LTuAebn9FIL8DHvFzqx0xKvO0r8nIWjqXUiobulCjL9UgFGme28P+Fo/f5hdTOpvt/chvrW8OaD2GZnmMjm3/z/ZElyw=;twep+DpdOZz4uTPDp9qJNg=="
+secured: "EUBV9h3qTZWrs8ujLA/ub53XYgoTS0lCzzdoYYSE2Rz8U+j1juMnBjhJoiXXXFP9F56/DxTMZ7pjYguvXh1Xk58okVAanAdkHMXN9xYLEUIXOL8LftKQKHX0grQ0r6MnmeWabVl6eMc7GV96Vyosx5wmDE/cwZ5xykOb16Ne2yxLPsbF/1hzZPWsKWJnm61eEoWpYkvcw4lZ8uYK/qaT06Z/ORxUy+0gXa32DBulNFmHCOCx1pGqmoJtEHbLrv0sBiS8VsSZ+E0hQHIX7H/LJU+r5CA5BN76MI9Z9Fj8PuI3HBR05tHXIVAKtt+1LloP4nasgqMFfYLxoS94wA8G7l8c1fhfAf4JGqJLrDH1K5cOv3uMg/gZEekJERQnllZCFpWqHn7fTKdN7jSw7ttNqDR0HQry+XIfH8AbF80f5io=;iqCz+Yf3ZJ/HiTZu17A8Dw=="
 ---
 
