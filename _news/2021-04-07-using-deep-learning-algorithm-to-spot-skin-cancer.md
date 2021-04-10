@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/using-deep-learning-alg
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Active Learning: Adding a Human Element to Artificial Intelligence, Machine Learning & Cybersecurity"
-    excerpt: "establishing guidelines for military application of AI, using biosensors to monitor and communicate human emotions, establishing IEEE standards for applying ethics in AI, and curating data playgrounds for cybersecurity researchers and professionals to ..."
-    publishedDateTime: 2021-04-05T13:21:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/active-learning-adding-a-human-element-to-artificial-intelligence-machine-learning-and-cybersecurity/d/d-id/1340543"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 41
-    images:
-      - url: "https://img.deusm.com/darkreading/DR_toon_march.jpg"
-        width: 800
-        height: 506
-        isCached: true
   - title: "Predicting cell-penetrating peptides using machine learning algorithms and navigating in their chemical space"
     excerpt: "Machine learning (ML) methods have proved as an efficient approach to select, filter, and predict compounds properties giving accurate predictions, improving decisions regarding drug development, and shedding light on the pharmacokinetics and ..."
     publishedDateTime: 2021-04-07T13:09:00Z

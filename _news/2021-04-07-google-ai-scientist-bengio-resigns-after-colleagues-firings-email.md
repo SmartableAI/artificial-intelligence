@@ -63,6 +63,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google AI Research Manager Quits After Two Ousted From Group"
+    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
+    publishedDateTime: 2021-04-06T19:56:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
     publishedDateTime: 2021-04-07T10:30:00Z
@@ -78,20 +92,6 @@ related:
       - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google AI Research Manager Quits After Two Ousted From Group"
-    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
-    publishedDateTime: 2021-04-06T19:56:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
-        width: 1200
-        height: 642
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
     excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
@@ -344,6 +344,6 @@ related:
       domain: guardian.ng
     quality: 19
 
-secured: "PvIbTYAZtX3qAdr3hYMoqOyyNvRgyO7DJ7CWGgCaawQcZPJFZg6hUwuawZwadOS/GQcwecGMt4PHv55hR0OUmq4FRUkzJqCaZuuhfbkNFTafBv/siHB3qRuMWwoR9kvKxXbh7qN2f3Zq+p2Duh+lVLFtQTVXTOkOdkqjoI8VtbpBJefT9+cTbWb237oQ04Bk6a8LtiFwFgCS81g8w5tQ4h9D9RvNDEOsmpbWBivRRQDeodPsg9GN58a3NchUfrfys+X6QKqNryToRkBvb3aaEnIw+vElUZ7zwDZwDBMEf6rsMu5cpAMdnPxM4JTkClpZGNTi4al8Lns+TeuO4Zsp2T07lEueJfAykC0ea8zop/8=;jIghBeZJOwJlY1TBuddEGQ=="
+secured: "Jm7nSWJTN9fgxk2AHURaA0jX0BV+rQhiuj7fI2cwqE1R2G0thcmDLS5A4iuTBrAPyisQN2mzXZ7dC+PvMbpnYKQkc2odmNd1LrfGXHBTdz7gjNELvzqRQEKn5XufrGw3fy9rPq/pq3IgLbILmihU4zE/6+Vh1v8gr6KiwdCzkot5e5eugzL1Gp5SSFMRIJo/J5ImTMkrdtD8ekSSqs2dLwc8mHrhHBwVS9w0hEnj7bkRqff6/q7j5FSF7Bw6DWrUaiRxgBcG40CDTSWmH/95YXnHmRh1Fd5v28uu/FVhMKVfPSiy0RfLlx3m/AgDllQ9sjAp9qAZ0E7khHNMvLXmHsRV5WqgYo9wRbna9OGoflvB93rjV9gS8kpd1YlTfo+zEcNLTrFaP+s/BEDbSTOrfAzUnO47BztkA6EG538Ds45Poua4/bvlCc+D1t8pz2P2oY1PM0Rpx4Q9eZTpZvEmDWeyle//Z0XoVFkJQ7myj58cz0Ga+JFBcAHRkjeIaVcHB2HT8pozjFB76PFodx8sfA==;AEuMvJ9uQyh7AcYUL0Lm4g=="
 ---
 

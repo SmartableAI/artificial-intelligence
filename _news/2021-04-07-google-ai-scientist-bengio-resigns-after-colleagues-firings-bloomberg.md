@@ -73,6 +73,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google AI Research Manager Quits After Two Ousted From Group"
+    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
+    publishedDateTime: 2021-04-06T19:56:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
     publishedDateTime: 2021-04-07T10:30:00Z
@@ -88,20 +102,6 @@ related:
       - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google AI Research Manager Quits After Two Ousted From Group"
-    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
-    publishedDateTime: 2021-04-06T19:56:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
-        width: 1200
-        height: 642
         isCached: true
   - title: "Google AI Research Manager Resigns After Two Ousted From Group"
     excerpt: "who managed some researchers in the Google Brain team, announced his departure Tuesday in an email to staff that was obtained by Bloomberg. Bengio also oversaw the Ethical AI team led by Timnit Gebru and Meg Mitchell, who were both ousted from the company."

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of the AR Industry"
-excerpt: "Hong Kong – Tailor Insight, the fintech market research organization, recently released a research report “WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of the AR Industry”. The mature ..."
-publishedDateTime: 2021-04-10T00:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/ab20566393/wimi-builds-a-hologram-cloud-ecosystem-in-high-simulation-ai-light-field-vision-as-5g-is-lighting"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20566393/wimi-builds-a-hologram-cloud-ecosystem-in-high-simulation-ai-light-field-vision-as-5g-is-lighting"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20566393"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20566393"
+excerpt: "the fintech market research organization, recently released a research report \"WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of ..."
+publishedDateTime: 2021-04-10T06:55:00Z
+originalUrl: "https://menafn.com/1101892415/WIMI-Builds-a-Hologram-Cloud-Ecosystem-in-High-Simulation-AI-Light-Field-Vision-as-5G-Is-Lighting-up-the-Future-of-the-AR-Industry"
+webUrl: "https://menafn.com/1101892415/WIMI-Builds-a-Hologram-Cloud-Ecosystem-in-High-Simulation-AI-Light-Field-Vision-as-5G-Is-Lighting-up-the-Future-of-the-AR-Industry"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?713570"
+    width: 374
+    height: 250
+    isCached: true
 
 related:
   - title: "WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has 'New Force'"
@@ -44,6 +48,6 @@ related:
       domain: benzinga.com
     quality: 29
 
-secured: "2ryT9Z7PvPnq0yqKQrWa2kqUNnh22ppGXIRchtZGbH9USgj6PtnmgfJBtBjKprQb5+KLcHyp8YLksoDL5DsOhs0NggzCT71kEd0pmcqa0a2BQcN4sBao+l17hCOdKglcellTgcXi5n8NeuvVlx1Cwor5pLXKBx2QDOAYiXOQl0TpThbFrwNyxk6XAEhW9WbqNi1+sp1/GtUbJ1WVGlCK0j1lCQ6hgUaHulvfm7X8jPLjhCTSs+mSO6AYmetCkHQ1heBYBTgOMHzqX3XfI9FBI43r+ZtO2mrUPO0PoXjPyPb8krXz79yPmimE/vNNizGMTlC4zLrwi0YndbJF/za8zzpxnWVkBk+hJvRQAhgvErE=;zU3vE2kW1CYUjSqvNoMdwA=="
+secured: "X+GcOkWR8AEvRH/pejdx6bLiaRK2PwYKvYPvFOQAjUX3d5UecwK+sToqFj5bttzyZzlsDaWJdcLXsPIKdmL6CfXAUP6umvczELJM6L1hKmHidQ0iRCCmbR4F7HMuvO2adoUHNjI2UmM77RkZqLu/lWFrtDdREcyLxQK/nMQHUbd4mTVYTB8ZBbfc6LhzEcvMgHBvRuEj++1t733C3vAwFy6pCJQqZkKtFxvbWFQB2jNPyVC06NYsW4UALR5cpKI3G1R8jSGoWXuBF8Evql24rOiz1LDFjEU6yLBkYH3SkEwZrIdGRLqGGRrFL58V2/V04Lcm2+cLE139xB+aFQlyUL47BuFo1PUifelkWai2NRc=;KTgkkILnj83F37i5vOAgqQ=="
 ---
 

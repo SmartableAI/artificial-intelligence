@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US spy agencies warn of 'unstable world' due to bitcoin, artificial intelligence"
+    excerpt: "The U.S. spy agencies predicts an increasingly leaderless and unstable world in the coming decades as trends such as artificial intelligence, digital currencies and climate change reshape the global arena, according to the National Intelligence Council."
+    publishedDateTime: 2021-04-10T07:16:00Z
+    webUrl: "https://www.livemint.com/market/cryptocurrency/us-spy-agencies-warn-of-unstable-world-due-to-bitcoin-artificial-intelligence-11618038261924.html"
+    ampWebUrl: "https://www.livemint.com/market/cryptocurrency/us-spy-agencies-warn-of-unstable-world-due-to-bitcoin-artificial-intelligence/amp-11618038261924.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/cryptocurrency/us-spy-agencies-warn-of-unstable-world-due-to-bitcoin-artificial-intelligence/amp-11618038261924.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://images.livemint.com/img/2021/04/10/600x338/2021-04-02T021101Z_1_LYNXMPEH3102D_RTROPTP_3_COINBASE-IPO_1617630365737_1618038606057.JPG"
+        width: 599
+        height: 338
+        isCached: true
 
 secured: "+w3Tk9KqARRrCcJg4zLcM5R4oRjRnpvYRNbHqeROpaxoHk/YDwAy94ZZyX8fCgV3fTbKTbxLhMVV8v+DB6gBrThQUlRKFSxUO5I5P3/OlmRfPevEBFHPRkl7YaDxwBzDoqzUDgYCXg0OMxOaEpL3O0UXh2rtKSL1OwJLQR8OxoWFQ4AFN+d/T+lsw8QnYbRyV4/Nc0G6dESFKcFF2repqJDgsEfsA32w6PwfwVUngkMGRHVc0v3AWG8fHkL1p0s1hhsq9F8++OI8OBF3LxdMVFUcpk8iyrzXojM2OnVKDi6m7HNkbXx476TXb/9cKeI7XUB/hG/Rj4ulfGpi0WpR8dlRpmUFECYmvyE+DT6riWtYO5Zk4Ykbnt35wDRyjZnlnOKo9DoUpuIFUKUqA3Xy/QdAIaZsH5+oLTddwYCpClYnClfWwO+yIasbzdhzvWULpL1fAsc5Zqfu48JxMHSFPSUmRo5Vnr2XdiW4N3HXOsr/fuZHX1FyAM0kEX1Od3v7jBk4ghoTpiYNQ5Dgv+3BDg==;CoO71CW6aU0NleyJjK5zCw=="
 ---

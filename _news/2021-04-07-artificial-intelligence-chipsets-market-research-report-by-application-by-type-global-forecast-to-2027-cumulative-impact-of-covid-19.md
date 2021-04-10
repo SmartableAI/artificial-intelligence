@@ -137,6 +137,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
+    publishedDateTime: 2021-04-10T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
     excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
     publishedDateTime: 2021-04-06T07:24:00Z

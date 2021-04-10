@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/368843"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "The World's Most Powerful Modular Robot"
-    excerpt: "Umbratek, a cutting-edge new robotic tech startup, has just released its first robotic arm series called the UTRA series on Kickstarter. With"
-    publishedDateTime: 2021-04-05T14:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worlds-most-powerful-modular-robot-301262077.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1480670/1.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
 
 secured: "jZ/chKW13Yqced2lEBdmf9MChvR4QaAql51RovZzTFE2wdaq7HvRTt1oY7zS7sj/FX+Uy1njN0t1gCYES6uMxysPy2JF09Xu+EhBRRW+MG1zpegwENdDF3TllNjh6Vl4ymbU0bD0n7fXAQmKj6EGxKC0aaYOpWwfQEFYDyEUascZ2qTVauGUasHUpIjhkrLKgsZKTD1pi5iFiSzg/iTY9CelXbDL17Dbgh2ZTqY4LOLsKUi2u8RkqZegQzzilgjV301wZ9dH1tLfAqYT3/Z8QSmXlOYlURMCN00vZaYNhimRXnixnNokeUmi/0M0zDrIzbS9ouvH4DKroa516vG54OUdNh93IsTnueEQ1VNQV8YX9yntVxy7xD8nMHtv3c93TjOmSI3wHlZVUZ6BxXcr9MiJGfeiFxGcFY+RnVKb59ZD+KMYUwN2m1sHQ5Oiseb4iL3BxvHCwJDr1EnvhUJ+H9QN0ACuIVbJ2MRUoey0sd51BAUuDIxhGqR+YsuKi1PCxBTJwP+xpoMxI9Tz0MdPRA==;JZV64f2KX2CjaPgH3Uvrhw=="
 ---

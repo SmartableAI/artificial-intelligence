@@ -33,16 +33,19 @@ related:
       domain: benzinga.com
     quality: 29
   - title: "WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of the AR Industry"
-    excerpt: "Hong Kong – Tailor Insight, the fintech market research organization, recently released a research report “WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of the AR Industry”. The mature ..."
-    publishedDateTime: 2021-04-10T00:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20566393/wimi-builds-a-hologram-cloud-ecosystem-in-high-simulation-ai-light-field-vision-as-5g-is-lighting"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20566393"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20566393"
+    excerpt: "the fintech market research organization, recently released a research report \"WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of ..."
+    publishedDateTime: 2021-04-10T06:55:00Z
+    webUrl: "https://menafn.com/1101892415/WIMI-Builds-a-Hologram-Cloud-Ecosystem-in-High-Simulation-AI-Light-Field-Vision-as-5G-Is-Lighting-up-the-Future-of-the-AR-Industry"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?713570"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "Ltk2EeFyvo8mmhgKNSxw1MO+w7TwxczGSzlqNxIsgyo3euyKVBPylW3EX02ck83KsnW+78FNxyT2hrstWKdeDdZfnEfuuWVmDg2QG8KctTp6X5JhgymwqUno0v0o2NO9DtuVOa0916bl2QUyzGX965PI5GE7G+QJXy23Xkgyx5gsD2DvLMMoiQtF+kehu4yUzO/MS9KwZafeII49FGz5Xqn7zeR5VdFmeGDJ4wKHpa4tqqbiazrPKOH1uA0QwidxowvsN20izCct4vrA2cH92kQEHqJXmY+7QV2cmLhwD+/leBJ6mFepxs7KBZ3hcmSWhvqCHkOx/0hQ+hmBaoEPh6gDQgfV3PPTGpr3Rh5uC2U=;AmgM0dTAz+Tj/BybhWZ8cQ=="
 ---

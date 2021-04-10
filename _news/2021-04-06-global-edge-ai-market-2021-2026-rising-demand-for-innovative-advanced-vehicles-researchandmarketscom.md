@@ -142,6 +142,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
+    publishedDateTime: 2021-04-10T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
     excerpt: "The business report released by Zion Market Research on Global Artificial Intelligence in Diabetes Management Market – How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026 is focused to facilitate a deep understanding of the ..."
     publishedDateTime: 2021-04-08T10:16:00Z
