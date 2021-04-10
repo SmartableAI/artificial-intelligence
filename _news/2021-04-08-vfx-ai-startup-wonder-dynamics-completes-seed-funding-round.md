@@ -3,8 +3,8 @@ category: news
 title: "VFX & AI Startup Wonder Dynamics Completes Seed Funding Round"
 excerpt: "EXCLUSIVE: A round of seed funding has been completed by Wonder Dynamics, the AI-driven visual effects venture hatched by VFX artist Nikola Todorovic and Ready Player One star Tye Sheridan to ..."
 publishedDateTime: 2021-04-08T16:07:00Z
-originalUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/"
-webUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/"
+originalUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/#!"
+webUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/#!"
 ampWebUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
 type: article
@@ -59,6 +59,6 @@ related:
         height: 563
         isCached: true
 
-secured: "5qkZf33DWsj/a9ebGqzEm8ObzDzpBeBI9YlCRfBBlfSyLWJAwJwWQjJDbzZEsR3GSf4G1CuxJlXoChOI0O01rCkVgSMhWwTfT6iyNR9a1dvslUqVRDMZAf1XBI96/WgFeTkxnXvAWQApHVfxbVp+8gHTXORc80ZD/YBlEnIzOsErmaMLjYotubOEy9K1IpyIcInaol+O/BIzw7YDT3pITsKlH8MlU+mR3IQseYW+Xpd/fvi+cHsmf+xxbRrbprxHB0yt2WfhuekuGP/xK+cMpptm9rZU6THA2PyxgYwUIMPSS8Cg7fhQYrrUZQZDNbUN8BXcnDSt9VQT/B71pXXqdNjIfV7WJJXyzsTfrhKofuA=;Z2zfZiyYTwhubo6MDJV5/g=="
+secured: "u3UfXuqq2JaOmcUg+SuzzmTaXTdK8LnYiFvLzWN3rwM7rmCoFtav3c6ivWOEXaL+uTb7j4EH6sybgxv0oWD8GCwE7HYlMsCCAAIvp7QzAmakJV2nmOvIt+U93KyoBeKgaAe52hjKfDiAyONiXEW7paGzk1IpbBonXPbu+/95li9jRQr+k4jgGUUzVTiksi+oJ416AAUxAgdcxVRfI68Px1pO7udUZUH2HbsHx6n+YHMI9vp0ZpL8NLNpZ618RXt5bhK/8Praw0ORMeToXx2jy00wUaozGytQz0qhfmAkqjLv11xTtx/KXrcTVATDBbaoQLpmSewMN5wAGuwCoVvqKnjCvNLtgIL0X0QyYLvc7ms=;SYhy0SpY2nQOfolbBMFdwg=="
 ---
 

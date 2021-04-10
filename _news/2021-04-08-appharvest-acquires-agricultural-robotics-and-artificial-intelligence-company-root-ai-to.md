@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
-publishedDateTime: 2021-04-08T10:00:00Z
-originalUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
-webUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
+excerpt: "Lessing, along with co-founder Ryan Knopf who will join AppHarvest as vice president of technology, helped establish Root AI as an early leader in employing artificial intelligence in CEA. Virgo is the world’s first universal harvester, which can be ..."
+publishedDateTime: 2021-04-08T10:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
       domain: foodbev.com
     quality: 34
 
-secured: "NyPDfTNImmhMyv1sgGy81QX0lec0fkxFDQze4mlxep04+HWkAbj4yhz1XyUxeYnwUfHZKsgAmIlpmmh2pvcWxX23BHYl7l70INd+ZOR0wXFrVmcApRoRItA0vuKo8MvcSPm9iE4xQTqkPoOqlmm6seMIQ+7mb9S94S5T1gNvYjJUH+mWFqeqMcISc+TzE13Sex5CyFORWDPQR30S7xNsATs+PgGGHeMts3/wwGZk4QTUDflMs/frhm5Kw4Oz1pQBciS94Pd5M3yWFIn8Vkk1JJDpg1XwSRNM8gX3hoeSMczRwm8OP+r/I03rtbirB/wIB7sYVWoDGcz8h2ysyVr1fAjZOOO5KoFAyL21Zj2SD94=;DKI4a+RBoeZXauOeHPFumA=="
+secured: "01C9pCJJZ8sfesfvWOPYtVy75Z6EX1POaL1lIOHniC7GlNFtpSZAboOGJ5SkqPwT5ajffGVY2Ia9XblUqPvQX+31hdqIT9mE16PR/lmPOvmO7Cjq35W3+HXGrXY6xkix0RWRquhuJe3zSUb8TnP6YWsgc8E4i78A8mGbXSUOG/TUz2uE50RbwVlgFSi2a5DdxlwtK+LBUaGwHD4BGGAIRopAxL9HtHZQLcO8rHwrJNH2R1WHdQr3Jn9xFqfjv6dYzvZluRaYy9pPqlAuqLoPyZUqa4gD7jPipzMigP0wSlN4p9SPN0ET90UIkYLfkYbgLzqdZUXOgyvMe3w3xMJIyMeG9Qy7pHZMP6TKuUE7y/w=;FJkcJc3S/LML+nlHqtlaWg=="
 ---
 

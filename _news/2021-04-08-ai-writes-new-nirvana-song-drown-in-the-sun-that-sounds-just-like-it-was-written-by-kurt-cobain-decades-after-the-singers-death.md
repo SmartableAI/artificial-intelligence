@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "'New' Nirvana Song Created 27 Years After Kurt Cobain's Death Via AI Software"
-    excerpt: "Twenty-seven years after the death of Nirvana frontman Kurt Cobain, his sound is continuing on thanks to artificial intelligence software."
-    publishedDateTime: 2021-04-05T20:20:00Z
-    webUrl: "https://www.billboard.com/articles/columns/rock/9551482/ai-software-generates-new-nirvana-song-27-years-after-kurt-cobain-death/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
-    images:
-      - url: "https://static.billboard.com/files/2021/04/Kurt-Cobain-1993-billboard-1548-1617649217-compressed.jpg"
-        width: 1548
-        height: 1024
-        isCached: true
 
 secured: "Ujor05eLgkG3y/1yyBYwyGjia+mtQJyYb1iMRSxLZWnbAYi7eN/qdA7T7y6DGksDaRE2fT+VqshTocp3ULJ+HHhbLlq9oCQ4BcWyOjq2vja1hGi2wjoJ2nGUM0lV5iD17cvTxLUBDXTJ/WuZOPrTATAHpeD8jiSpZvrh4l5l8Ic5zVj6Sx0igEGKM/uij8oOqHMZBfVosABpBgMjSXZsUa6r4T0ZnMq5S/X6dPB8iPIhE95qga0MmSufsbhqK/kIK9+EUE1TxtYIhO5X0HixIDsXV8AMelCiWO4JoBCn4VOqfyum1n86F/lpqoqcaeWxQ7JztLYTCS/bmUcexs2VYEfGX8VyGebNhKJ/JHLwionbMka7LasxyZSOAddWmHQf5+gZrR6ydcDUcVS5tbfmW0RxjFUrkMDhDt8fQtV0jDeWC3wgrLi7zVLI8cQebVy5c+MmRwlXI8NE69rF73zM24KcvhtZx9xPHzBfBoRBt2pyX8Z53LUwOdoR8SfkckqSlhSXDYo1q4EowaqeY7YPQg==;a71x5Ubo1s43IFX2tJaqbQ=="
 ---

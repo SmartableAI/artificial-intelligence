@@ -7,7 +7,7 @@ originalUrl: "https://tribune.com.pk/story/2293645/this-deep-nostalgia-tool-can-
 webUrl: "https://www.youtube.com/watch?v=tjBYSnoAWqg"
 type: article
 quality: 122
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Deep Nostalgia’ Can Now Make Old Photos of Your Relatives Dance and Blow Kisses"
-    excerpt: "MyHeritage is doubling the number of unique movements that can be applied to still photos in Deep Nostalgia, including one that finally shows your ancestors getting down to a funky beat."
-    publishedDateTime: 2021-04-05T20:40:00Z
-    webUrl: "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089"
-    ampWebUrl: "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/o4aeqzm6sml85uviazzy.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "‘Deep Nostalgia’ Uses AI to Make Old Photos of Your Relatives Wink, Nod, Dance, and More"
     excerpt: "Deep Nostalgia uses a deep learning algorithm created by a company called D-ID, short for de-identification. The software analyzes a photo to determine which way the subject is looking and which direction their head is facing. Then it finds a compatible ..."
     publishedDateTime: 2021-04-08T14:00:00Z

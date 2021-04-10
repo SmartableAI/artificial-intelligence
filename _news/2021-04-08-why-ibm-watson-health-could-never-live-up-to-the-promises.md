@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/04/why-ibm-watson-health-could-never-
 webUrl: "https://medcitynews.com/2021/04/why-ibm-watson-health-could-never-live-up-to-the-promises/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered ETF Works with IBM Watson to Analyze Market Data"
-    excerpt: "Chris Natividad is CIO and Co-Founder of EquBot. Mr. Natividad brings more than 15 years of experience in the institutional investment management industry. Previously, he was an Investment Portfolio Manager for Gilead Sciences and Apple Inc.’s Braeburn ..."
-    publishedDateTime: 2021-04-05T19:21:00Z
-    webUrl: "https://www.twst.com/interview/ai-powered-etf-works-with-ibm-watson-to-analyze-investment-data"
-    type: article
-    provider:
-      name: The Wall Street Transcript
-      domain: twst.com
-    quality: 54
-    images:
-      - url: "https://www.twst.com/wp-content/uploads/2015/09/microsoft-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
     excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
     publishedDateTime: 2021-04-09T03:23:00Z

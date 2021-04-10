@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Deep Nostalgia’ Can Now Make Old Photos of Your Relatives Dance and Blow Kisses"
-    excerpt: "MyHeritage is doubling the number of unique movements that can be applied to still photos in Deep Nostalgia, including one that finally shows your ancestors getting down to a funky beat."
-    publishedDateTime: 2021-04-05T20:40:00Z
-    webUrl: "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089"
-    ampWebUrl: "https://gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/deep-nostalgia-can-now-make-old-photos-of-your-relati-1846620089/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/o4aeqzm6sml85uviazzy.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "l2+iUsyVZy0z3GeZhOj1itsK49sN8EDW3IkG+dA0MHgq3C8W/+1E4KeP3eAZbWBumYssST3NvFATCQTtHrD9vA4PDKmtXwx5W4Zanonv/TjsP2BP8nefXaKgLc2JelwOgDxGDVUBP+fcLFscLewkybKZ4l98ROo0cyw7yPOSSz23MPuc0TyptSavj3kRJKCghLkSH/kZSax5ANxUjObt4XGj6fxlS/d7yQPtXyJScvb0zt27s3zOE7LAzr3m9usZ7MAwJ4vJVnqbSS0MvFw5bwO96Ay9/rwwpmSchxWxQnp+Y2fzjXusJyGvwC+mR83P4CS3GR2uTjT7ve4tgretkoPJ5K1E7YdGb3b/GCBt/LU=;rC609c/185Iog4p3Wnz1fg=="
 ---

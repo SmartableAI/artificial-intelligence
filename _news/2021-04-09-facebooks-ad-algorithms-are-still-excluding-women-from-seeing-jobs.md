@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
-    publishedDateTime: 2021-04-08T12:15:00Z
-    webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facebook tackles AI fairness and bias with new data"
     excerpt: "Facebook said Thursday it's releasing new data that could help researchers improve artificial intelligence systems so they're less biased and more fair. AI is already being used in various tech products from self-driving cars to facial recognition."
     publishedDateTime: 2021-04-08T13:00:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://www.cnet.com/a/img/v3qwoFnIgWH85LA6CLZ-t2X-Oi0=/1200x630/2021/03/25/af937715-04e9-4dfb-934c-326f51fc242e/004-facebook-app-logo-on-phone-2021.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+    publishedDateTime: 2021-04-08T16:15:00Z
+    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Facebook dataset combats AI bias by having people self-identify age and gender"
     excerpt: "Facebook today open-sourced a dataset designed ... days of understanding fairness and bias when it comes to AI … The AI research community can use Casual Conversations as one important stepping ..."
@@ -118,6 +118,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
+    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
+    publishedDateTime: 2021-04-08T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "I don't know how many times and ways I can tell you people to get off Facebook"
     excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
     publishedDateTime: 2021-04-06T16:48:00Z
@@ -145,20 +156,6 @@ related:
       - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
         width: 750
         height: 450
-        isCached: true
-  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
-    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
-    publishedDateTime: 2021-04-08T22:21:00Z
-    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 33
-    images:
-      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
-        width: 948
-        height: 631
         isCached: true
 
 secured: "mvFSGFlOhATzk73zVBCaJ7o9rnJD3giYZBPDthGFM/foKMEI5kU1Yurg4181f0x2s5MOXJRC6+DMw0BO92jGRI0xGzSv2h2lQ8FYJVnbJO1xjwG/Cg1HYDGzGDy6KKh9hlnMcxIcOSBmthBiDqi8uC6qeXtzhOBW1C+gFX1dnxzDtJYH9NpgARgbRx9TEkU9zjq/oaWfDAASb6QEhCfkdvlyGZO9Zfdrc8hs/Qew3BJhGqDopjcaB4WealXay08E5Dcv48hsKmkBHJomBk0Ty0fqvxY/51L9JHpXh8GdNW6EpjbvTg1qt+NSXRZX0Tg3KuxB3tV15OdscNXbks9czNfrB0+cCxQcDUVDa/gRKZq3Bwb/7/QPF77tZdQ1sQuQJZoAh/uEYxw4rul/svw/Mztl1s1ty+LQD5EDgrOczRI1Jm+cBZK+/TUaZr1a5ceZMkbsOWUX2QrzmQquCi/hddymSjx5VYSiHo6Le3sHeB/5frBa/3orhNDDgX0Uj4HPOWIE5wXCxZaotYqSHc/d0w==;Qp6746ybKQHb0nqbXxmX/g=="

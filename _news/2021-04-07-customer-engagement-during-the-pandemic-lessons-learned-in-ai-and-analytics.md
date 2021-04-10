@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/0
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chevron, Handy Mart Operators Deploy AI-Powered Predictive Analytics to Streamline Operations"
-    excerpt: "Regional convenience and fuel retailers H&S Energy of California, E.J. Pope & Son of North Carolina and Welcome Break in the UK have implemented AI optimization tools from Hypersonix to support functionalities including real-time fuel pricing and ..."
-    publishedDateTime: 2021-04-05T19:25:00Z
-    webUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations"
-    ampWebUrl: "https://retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/news-briefs/chevron-handy-mart-operators-deploy-ai-powered-predictive-analytics-to-streamline-operations/amp"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 46
-    images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/04/Welcome-Break.jpg"
-        width: 2440
-        height: 1627
-        isCached: true
   - title: "Engineers tap machine learning to improve graph analytics"
     excerpt: "Graph databases hold numerous attractions for financial services users, among them the ability to detect hidden patterns in data that could be harder to spot otherwise. Some financial institutions are now looking to go a step further by augmenting graph analytics—the process of analyzing data in graph format to show relationships between data points—with machine learning to identify more complex data patterns."
     publishedDateTime: 2021-04-07T10:34:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/GettyImages-962721460.jpg?h=61c0a37d&itok=KMbgPSCK"
         width: 378
         height: 234
-        isCached: true
-  - title: "Reputation acquires Nuvi for its AI-based customer sentiment analytics platform"
-    excerpt: "Decibel Insight Ltd., a startup applying AI to the same task, earlier closed a $40 million funding round. Show your support for our mission with our one-click subscription to our YouTube channel ..."
-    publishedDateTime: 2021-04-05T20:32:00Z
-    webUrl: "https://siliconangle.com/2021/04/05/reputation-acquires-nuvi-ai-based-customer-sentiment-analytics-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/nuvi.png"
-        width: 792
-        height: 447
         isCached: true
   - title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
     excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."

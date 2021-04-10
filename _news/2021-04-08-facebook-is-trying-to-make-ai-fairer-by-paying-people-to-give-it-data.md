@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
-publishedDateTime: 2021-04-08T12:15:00Z
-originalUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
+publishedDateTime: 2021-04-08T16:15:00Z
+originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 89
-heat: 179
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -106,6 +105,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
+    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
+    publishedDateTime: 2021-04-08T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "I don't know how many times and ways I can tell you people to get off Facebook"
     excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
     publishedDateTime: 2021-04-06T16:48:00Z
@@ -150,21 +160,7 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
-    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
-    publishedDateTime: 2021-04-08T22:21:00Z
-    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 33
-    images:
-      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
-        width: 948
-        height: 631
-        isCached: true
 
-secured: "llSx7FvY37NRv8rht2V2bli/KIGeC1tjnbNXrPaY14YmVuusDdbZ8/YggvXiLOhIdU9JhLXVzoMQQBB8n2S/198buOd2zpF1YdKy55ZDtBQNIAjkWOvzjfMKGXljT3hjxMK/2QnRJQxzlI2PYIYp4OcGlMOT6Bs0XAYXAc4GVJsuGW+BBkVvwlMthK85AVrVhxCizlZ/+kCoLP/EyTVivEZFRHUa3oX6kfayya2PdPO8vvuimzn1LF8l4zOJ3bnyWf3cJoiwYnZSRQ4/IYQoCT1rhxdmFe9TUvrzxs3anQiIMyD/2OPVt9ILsMeC1jwfOZ0ej4VVlWOZG7ohMd017ry2YkAMg/tSNG6D7tjEpEs6qhVgkbY0K79ZVXxveplhDg8W0UmSkOv2LNJOPooVtUhmIS/z8YPfjhkE/eXlDx2PmwRriAygegX7NLGtmbhL/YC2QjbxaO7LWpsjuc63F0H0RVYFx5Ybuzegi097gnnQLvHltF8rpXYdmLV+2qUgopoIC185BhQa/y1/5qi+ig==;3iR5IOf+/iTkqydWj656bQ=="
+secured: "0JysRpE46o8fTSZRA3JTROGi7o23NbppsS1ASPvWsPS/7wrKsDxDgCLLmhHDGcxHluOFMXHUaMMr7QaZKWQqjxNuykdqJSa2NNB1D+lduQRt0eQDYeETWI6es+2oZ5n21K/Y7cCaCzfLnF2HZK8k1xDHhSQX+FDZX6eXhLUovY6tJC4C9Jnit4R9JTeN4mt9xw+td5QSY8ZSR8TDqw5shRv2TnrOA1bblVpjDRxlJQmpyIpvp3XSxbwFplRaDfhv7O8Ga/lM9yuhdaOgg/dhBoxb5oGd+bq1H/RUtKXjO2rVT5td1MqaCzpZJrQ1j9iF/oNmEYJndVct9trTg7gEZoCi+3+FQmLfctZBwvKR5Tg=;noPx4kQT2NcG3Dfall4IFg=="
 ---
 

@@ -45,7 +45,7 @@ related:
   - title: "VFX & AI Startup Wonder Dynamics Completes Seed Funding Round"
     excerpt: "EXCLUSIVE: A round of seed funding has been completed by Wonder Dynamics, the AI-driven visual effects venture hatched by VFX artist Nikola Todorovic and Ready Player One star Tye Sheridan to ..."
     publishedDateTime: 2021-04-08T16:07:00Z
-    webUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/"
+    webUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/#!"
     ampWebUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
     cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
     type: article
