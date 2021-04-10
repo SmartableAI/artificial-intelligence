@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Report: Argo AI considering going public later this year"
-    excerpt: "Autonomous vehicle company Argo AI is reportedly considering going public as soon as this year or early next year."
-    publishedDateTime: 2021-04-05T12:50:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/05/argo-ai-reportedly-plans-to-go-public-2021.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
     excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
     publishedDateTime: 2021-04-10T01:59:00Z

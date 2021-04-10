@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo co-CEOs bring double vision for self-driving future"
+    excerpt: "Dmitri Dolgov believed from the beginning. A member of the Stanford University team that finished second in the DARPA Urban Challenge in 2007, he was captivated by the early promise of self-driving technology. Soon after the race, he became an original ..."
+    publishedDateTime: 2021-04-10T04:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-co-ceos-bring-double-vision-self-driving-future"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "B+jhanSLTgfjM/muHliVNR/AkrgYxx2NJcS6Xx6aLdOhHPAiTA5XZ8wdVWPZ3fPSbYB+IAg/VzpvTjR/rVpr+qQgkePrybzQH3fpoh85M22HJnM8BVjxtSMdQozVJu+qNMDxC/Vt4eQIvCukAGgV0NrDRx7Ep7mCmwzNJ0RAmDFgGCC0Yl/kHz2/dCsPhJrf+pU7VP7qneyXDjzaANmHXFzxtbqppUl8QTkUyKZa/LQJ7YO6aQ8AkYSvoTQmeELd4v9nmQ7TY2iuZ1a8fqkakIiTJ762m++JqxTKIgtAd9uZOF+0E/3vpd5PZ4tSo9l+1SQDhQzMxeWAIG0rVM01Dof2hJQT+ED7Sm6aItD5CVXrTM/ZiiXgLxoQ+AkwOrnN3uot49hBazBjCXHaYuDWKO0kLyTP+iGWnlFghVq9AKLvgQNYrX6dgoR03SjVcYT4Lz+aKG93ET+eqiuBAJy3sM1ciycGHCB49eacN8ENkJAuS6MIct/NG30Yu8Y7snFRVNkNGP7h7K7sfVvZwGdTug==;C/+PbBQtD1N0k7FIgOph7g=="
 ---

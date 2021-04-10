@@ -54,22 +54,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "These face recognition games aim to guess your emotions"
-    excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
-    publishedDateTime: 2021-04-05T12:12:00Z
-    webUrl: "https://www.pcgamer.com/these-face-recognition-games-aim-to-guess-your-emotions/"
-    ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VVnVaukMprqZmqDGQ5MTjH-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Researchers create online game to spread emotion recognition awareness"
     excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
     publishedDateTime: 2021-04-07T22:39:00Z

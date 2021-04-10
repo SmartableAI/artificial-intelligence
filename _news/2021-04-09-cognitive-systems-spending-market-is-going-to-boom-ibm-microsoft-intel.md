@@ -89,22 +89,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
-    excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
-    publishedDateTime: 2021-04-05T11:12:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
-        width: 411
-        height: 292
-        isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
     publishedDateTime: 2021-04-08T10:26:00Z

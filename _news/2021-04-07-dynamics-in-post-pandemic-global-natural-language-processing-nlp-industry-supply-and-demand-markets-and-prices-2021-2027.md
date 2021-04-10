@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Video Games Market Insights, Overview, Analysis and Forecast 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 05, 2021 (Heraldkeepers) -- Global Artificial Intelligence in Video Games Market Overview: Global Artificial Intelligence in Video Games Market Report 2020 comes with the ..."
-    publishedDateTime: 2021-04-05T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-video-games-market-insights-overview-analysis-and-forecast-2021-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "i1zGzqv14DZLgMEA3eBhusaHyVjqfJwkAdgJwIH4t9wIiJf4IbpJoJbBgDrWrfzND0UUemfwvd0eZoBi8XlQ34s2V7keDwru+1fTTyKj8RTeOUaxT7P0pNSK88yd2U6jm1ogFrGcUitWU+Fz8u9Yp/tzcf0EoLuOGM8KSHAXmVs4TJxH0pySNbH2YLsuE9ACtU2+HWyKBsrJPcf9JBjh6+3WlN8umYFFi2wRo+zrkInwV9i0KHawEV/J3RA0cpAjHyHVQDC4YsxZywYeJiI8ceP//3UBvTztRyqiLYfMOQ7xAPR9Y0VtnTXkfBxBno3qKmx5VnIJL7Lbk8+0946AX1FmkHqAs5EDPV+f9AIcimQ=;bSBH7o8ZNHNYImn7nhsj/w=="
 ---

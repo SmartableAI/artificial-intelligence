@@ -82,22 +82,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
-    excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
-    publishedDateTime: 2021-04-05T11:12:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-vaccine-passports-stir-tech-ethics-debate-microsoft-gets-big-hololens?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2013-06/hitsansmissses-original.jpg"
-        width: 411
-        height: 292
-        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z

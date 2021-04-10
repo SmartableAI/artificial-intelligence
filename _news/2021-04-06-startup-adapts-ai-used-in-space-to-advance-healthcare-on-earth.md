@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to overcome AI’s healthcare headwinds"
-    excerpt: "IBM’s recent decision to spin off Watson Health demonstrates just how difficult it can be to apply AI to some of healthcare’s trickiest challenges–and how easy it is to create cynicism among ..."
-    publishedDateTime: 2021-04-05T13:01:00Z
-    webUrl: "https://medcitynews.com/2021/04/how-to-overcome-ais-healthcare-headwinds/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 56
-    images:
-      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
     excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
     publishedDateTime: 2021-04-09T14:00:00Z

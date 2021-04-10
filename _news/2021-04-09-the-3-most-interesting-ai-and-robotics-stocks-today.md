@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robo
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

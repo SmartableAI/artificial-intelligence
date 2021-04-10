@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to overcome AI’s healthcare headwinds"
-    excerpt: "IBM’s recent decision to spin off Watson Health demonstrates just how difficult it can be to apply AI to some of healthcare’s trickiest challenges–and how easy it is to create cynicism among ..."
-    publishedDateTime: 2021-04-05T13:01:00Z
-    webUrl: "https://medcitynews.com/2021/04/how-to-overcome-ais-healthcare-headwinds/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 56
-    images:
-      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Artificial Intelligence and Healthcare Outcomes"
     excerpt: "The next session in the Lifelong Lerner Webinar Series: Artificial Intelligence (AI) and Healthcare Outcomes will be held from noon to 1 p.m. (EST) on Thursday, April 15. Faculty from the University of Delaware’s Alfred Lerner College of Business and ..."
     publishedDateTime: 2021-04-07T00:00:00Z

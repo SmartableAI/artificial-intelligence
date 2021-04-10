@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "VFX & AI Startup Wonder Dynamics Completes Seed Funding Round"
+    excerpt: "EXCLUSIVE: A round of seed funding has been completed by Wonder Dynamics, the AI-driven visual effects venture hatched by VFX artist Nikola Todorovic and Ready Player One star Tye Sheridan to ..."
+    publishedDateTime: 2021-04-08T16:07:00Z
+    webUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/"
+    ampWebUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 57
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2021/04/Nikola.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "VFX Startup Wonder Dynamics Completes Seed Funding Round"
     excerpt: "EXCLUSIVE: A round of seed funding has been completed by Wonder Dynamics, the AI-driven visual effects venture hatched by VFX artist Nikola Todorovic and Ready Player One star Tye Sheridan to ..."
     publishedDateTime: 2021-04-08T23:09:00Z

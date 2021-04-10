@@ -41,6 +41,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Active Learning: Adding a Human Element to Artificial Intelligence, Machine Learning & Cybersecurity"
+    excerpt: "establishing guidelines for military application of AI, using biosensors to monitor and communicate human emotions, establishing IEEE standards for applying ethics in AI, and curating data playgrounds for cybersecurity researchers and professionals to ..."
+    publishedDateTime: 2021-04-05T13:21:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/active-learning-adding-a-human-element-to-artificial-intelligence-machine-learning-and-cybersecurity/d/d-id/1340543"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://img.deusm.com/darkreading/DR_toon_march.jpg"
+        width: 800
+        height: 506
+        isCached: true
 
 secured: "DS1ELnslVZpoyrKdiOw0mZvxKeQit39HlvgFi8Qni9qTghuTIqxgQ5A8WxtxV4HJIR8kLKAav4djvo6/sJuzUH9nQXrhwXZWByZtdfJvHyLIk6RvHn+2cTK+htHC8/Gu7jQP1Tz3jvRIb5NuRb2g2y9E20wb53H3uOQ/fl4qyHoOnpPek1JaYwiu+hhXUWgNhEkPH/0HI8Bm+B9U2qzBsgm/y3942V62gWXbhVQ13u5a+/vs3Qcs8wyhkfhbfbuFdtdP7BD0p1qy4xxnEQNJyzMESHzSGW0Gu4rMApv9KCPUYFrZKPwf5GRcfNMD5O9U8qJMFuf0Px+LxOlpW6eEHQDeujNuK8bJjpgnuVrFZwj0Y1EJH8wasf25Y1O4yuF9evOQyryUV7YI+rNlkQ+0fCphkkBJfHvXs/+XA0HcBHue+KC2QDHpIWOdybJjuYqd+5+t+Rd4Ic73fRlD1bfdtrg0RAGn68cPo+G6QKdHee9/JrGBJLU7sszFFCRr/sXtY9JqBbQWjfBBaUAw+vZ+rQ==;tUkQgrwJpDU0HE5Wkfp1PA=="
 ---

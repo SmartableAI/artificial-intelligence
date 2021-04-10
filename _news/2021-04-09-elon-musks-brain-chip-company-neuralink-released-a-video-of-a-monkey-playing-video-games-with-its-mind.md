@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-gam
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4?amp"
 type: article
 quality: 88
-heat: 99
+heat: 100
 published: true
 
 provider:

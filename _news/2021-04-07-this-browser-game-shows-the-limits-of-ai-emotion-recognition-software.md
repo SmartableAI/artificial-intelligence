@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ai-emotion-recognition-game-182056088.htm
 webUrl: "https://emojify.info/menu"
 type: article
 quality: 147
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ZWlS11gG_bir88B5zuENPLZj6q0=/0x0:2078x1389/1400x933/filters:focal(873x529:1205x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png"
         width: 1400
         height: 933
-        isCached: true
-  - title: "These face recognition games aim to guess your emotions"
-    excerpt: "It's a fun toy, but Dovetail Labs has designed it as a conversation-starter to examine the ethics of emotion recognition technology and the wider implications of its mass adoption. Such systems often have a racial bias, and these browser games come with a ..."
-    publishedDateTime: 2021-04-05T12:12:00Z
-    webUrl: "https://www.pcgamer.com/these-face-recognition-games-aim-to-guess-your-emotions/"
-    ampWebUrl: "https://www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/these-face-recognition-games-aim-to-guess-your-emotions/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VVnVaukMprqZmqDGQ5MTjH-480-80.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Global Mobile Speech Recognition Software Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
     excerpt: "Under COVID-19 Outbreak, how the Mobile Speech Recognition Software Industry will develop is also analyzed in detail"

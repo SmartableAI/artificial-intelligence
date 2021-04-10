@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-mus
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sophia the robot sells art for $688,888, eyes music career"
-    excerpt: "Sophia is the most famous robot creation from Hanson Robotics ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia is working on ..."
-    publishedDateTime: 2021-04-05T11:57:00Z
-    webUrl: "https://nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2021/04/05/sophia-the-robot-sells-art-for-688888-eyes-music-career/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/04/sophia-creepola.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Robot artist sells art for $688,888, now eyeing music career"
     excerpt: "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend."
     publishedDateTime: 2021-04-06T14:17:00Z

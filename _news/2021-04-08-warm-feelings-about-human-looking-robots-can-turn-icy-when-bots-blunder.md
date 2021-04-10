@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2021-04-human-looking-robots-icy-bots-
 webUrl: "https://techxplore.com/news/2021-04-human-looking-robots-icy-bots-blunder.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Robots can be more aware of human co-workers, with system that provides context"
-    excerpt: "These abilities provide the robot with a context to be aware of while interacting. Liu says that the system operates with artificial intelligence that requires less computational power and smaller datasets than traditional machine learning methods."
-    publishedDateTime: 2021-04-08T07:31:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=57730.php"
+  - title: "The Robots Are Coming"
+    excerpt: "For many of us visions of the future have often included images of robots who can think on their own and perform tasks."
+    publishedDateTime: 2021-04-10T04:01:00Z
+    webUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680"
+    ampWebUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 35
+      name: Townhall
+      domain: townhall.com
+    quality: 59
     images:
-      - url: "https://www.nanowerk.com/news2/robotics/id57730_1.png"
-        width: 400
-        height: 282
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/220/10b44a80-aba3-42e6-9ec5-3c5af5d9988e.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "More farm robots on the horizon"
+    excerpt: "For instance, FarmWise is a startup that builds autonomous weeding robots that ... “We’re developing in-house new types of machines that are powered by artificial intelligence to be able to both capture the relevant pieces of information about each ..."
+    publishedDateTime: 2021-04-08T20:37:00Z
+    webUrl: "https://www.producer.com/crops/more-farm-robots-on-the-horizon/"
+    type: article
+    provider:
+      name: The Western Producer
+      domain: producer.com
+    quality: 39
+    images:
+      - url: "https://www.producer.com/wp-content/plugins/gfm-subscriptions-popup/includes/uploads/western_producer_logo.png"
+        width: 792
+        height: 318
+        isCached: true
+  - title: "The Robots Have Eyes"
+    excerpt: "Finally, advanced artificial intelligence and machine learning algorithms are making ... There are also dynamic cameras, which are positioned on the end of the robot arm and much closer to the process, thereby delivering higher accuracy."
+    publishedDateTime: 2021-04-08T19:40:00Z
+    webUrl: "https://www.machinedesign.com/markets/robotics/article/21160722/the-robots-have-eyes"
+    type: article
+    provider:
+      name: Machine Design
+      domain: machinedesign.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/04/RobotPROMO_Alexander_Oganezov_129954878.606f5a09d27eb.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "UE9gA4Qaj1e208rLMTV5OkzrLZnS1E5juR+O4JOt3w/UBJXhXUpqTYnSXpCpVor+K7EeROFnfh+VlB6xPhdpPKNn8gfrMElo5auGvfYRVh1NXL3ssQoGOhUKCJquYtoZpDQS5gq4FU9K1ppURLhuu7XFPl4lmAxnhnFL4MBMHhSPes84bBios0N/z20RacF2lYAwo9XVJdfhfmxtuvZ64UAXuAszQHa00lFTduBNY70kjxTVuHgRomgajyD+gI52bxSKuHxvGREgxE0iqtKWeR2nFKrHJ69xmrwPnB4yhh2dduvznAECXGC4IrDt8WEKY0v5lYrLCNMJr2UW5iplnlJ104+a2HRG2tWcMuz9ctnHZSD80av5XZF7LKdAF475rlLNqA5u+guye1EY8P9kikheJMCrpBzcW/xRJ5A8TZAyeROdagUBTE9G1GyFFRFD5Sq8X/Cl4gfgTOARxxknrZAlaTo/B+1i9UQd0/Io8QNun8XZcLXD2+VHiYNysGHlTu/rlpU7JlwlEYHy6o8MqQ==;ytrO8SD7i0akgok7eTgBEQ=="

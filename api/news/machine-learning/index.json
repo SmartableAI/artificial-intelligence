@@ -63,7 +63,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -147,40 +147,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-accelerate-retail-and-product-power-with-advanced-artificial-intelligence.md",
-      "title": "Accelerate Retail and Product Power with Advanced Artificial Intelligence",
-      "excerpt": "NVIDIA'S GPU Technology Conference will showcase advances in hardware and software, including two sessions by Kinetic Vision on accelerating the power of Artificial Intelligence ... dive into physics-informed neural networks (PINNs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/p20549796/accelerate-retail-and-product-power-with-advanced-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/p20549796/accelerate-retail-and-product-power-with-advanced-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20549796",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20549796",
-      "publishedDateTime": "2021-04-08T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -534,21 +500,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
-      "title": "An artificial intelligence tool that can help detect melanoma",
-      "excerpt": "Now, researchers from MIT and elsewhere have devised a new artificial intelligence pipeline, using deep convolutional neural networks (DCNNs) and applying them to analyzing SPLs through the use of wide-field photography common in most smartphones and ...",
+      "path": "_news/2021-04-07-using-deep-learning-algorithm-to-spot-skin-cancer.md",
+      "title": "Using deep learning algorithm to spot skin cancer",
+      "excerpt": "The researchers tested the system against visually classified lesions by dermatologists and found that it achieved over 90% sensitivity in distinguishing SPLs from nonsuspicious lesions, skin, and complex backgrounds.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.html",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/anartificial.gif",
-          "width": 800,
-          "height": 532,
+          "url": "https://www.thehindu.com/sci-tech/technology/ylo0fb/article34261740.ece/ALTERNATES/LANDSCAPE_615/Dermatologist-checking-for-skin-cancer",
+          "width": 615,
+          "height": 384,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,13 +522,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-tool-melanoma.amp",
-      "publishedDateTime": "2021-04-07T02:52:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/using-deep-learning-algorithm-to-spot-skin-cancer/article34261717.ece/amp/",
+      "publishedDateTime": "2021-04-07T01:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -573,8 +539,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -1455,6 +1420,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
+      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
+      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "publishedDateTime": "2021-03-30T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

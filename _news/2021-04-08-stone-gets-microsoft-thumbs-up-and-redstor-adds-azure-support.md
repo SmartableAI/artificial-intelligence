@@ -43,20 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
-    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
-    publishedDateTime: 2021-04-05T12:08:00Z
-    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 41
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
-        width: 675
-        height: 381
-        isCached: true
   - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
     excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
     publishedDateTime: 2021-04-08T14:09:00Z

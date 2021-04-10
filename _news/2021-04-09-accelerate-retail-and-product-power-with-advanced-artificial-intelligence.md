@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20549796"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20549796"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Benzinga.com
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Applied Materials AI(x) Platform Harnesses the Power of Big Data and AI to Accelerate ..."
-    excerpt: "“AIx uses the power of big data and AI to give customers better outcomes at every stage of the semiconductor technology lifecycle, from R&D to ramp and HVM,” said Raman Achutharaman, group vice president, Semiconductor Products Group at Applied Materials."
-    publishedDateTime: 2021-04-05T11:31:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-new-product-development-products-and-services-a528740b1c8c33e1b3a7552e2ba19ceb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
   - title: "Radiology Partners and Aidoc to Accelerate the Use of AI as the Standard of Care in Radiology"
     excerpt: "Radiology Partners (RP), the leading radiology practice in the U.S., announced today that it has formed a strategic alliance with Aidoc, the leading p"
     publishedDateTime: 2021-04-06T13:00:00Z

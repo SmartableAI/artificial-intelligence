@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Business to Robot to Consumer (B2R2C) Market 2021-28 marketing to robots, looming business growth with Amazon, Apple, Google, Microsoft"
-    excerpt: "Business to Robot to Consumer (B2R2C) marketing is a revolution that sounds like fiction, but with global spending on robots expected to reach $241.4 billion by 2028. Marketing is changing as voice assistants,"
-    publishedDateTime: 2021-04-05T12:08:00Z
-    webUrl: "https://ksusentinel.com/2021/04/05/business-to-robot-to-consumer-b2r2c-market-2020-28-marketing-to-robots-looming-business-growth-with-amazon-apple-google-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 41
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Business-to-Robot-to-Consumer-B2R2C.jpg"
-        width: 675
-        height: 381
-        isCached: true
 
 secured: "DpzkIfWnZJ2LxyObmEOTObLTaVLh1/PXzzkihnk4fbK23f8iaaD5X16xCT9L63oWI+v2DAX5LOCF83YyAQqSQdYWzs10Ly28w7bjl3YJCTMFiQGyKCMOMMF2gg1CE3JTzJALcyq9+mjCTTRig1qIQWagANckAyNo5g6f9Pf6jqN53QUweUg3D19JqkXmbwiO+2DKNt1+p6uov6V0VKXuwcA4BngdxvCVxbqlUL7kItFzC/K39RB6cFAYz8Pmx8Qxuca7s1BBo1ugAeO1ObrfRl+Hp2rk2V2m2KV/pW6Wp4SjXqCG1s621OKfwx2esvyfJ5VssbdIXPlEl6/MxGVJi9iVUs9F8Ctn4Zl7+sWj8kA=;Ce/VJa2TD2LeX2ZMlDVLgQ=="
 ---

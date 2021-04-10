@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025"
-    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
-    publishedDateTime: 2021-04-05T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05"
+  - title: "Artificial Intelligence and Machine Learning Survey: Motivations and Challenges in AI Projects - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence and Machine Learning 2020, Volume 1” report has been added to ResearchAndMarkets.com’s offering. This survey gives a comprehensive view of the attitudes, adoption patterns and intentions of artificial intelligence and machine learning developers worldwide."
+    publishedDateTime: 2021-04-07T10:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Neural Networks Market Outlook, Demand and Supply, Key Prospects, Pricing Strategies, Forecast and Top Manufacturers Analysis Report"
-    excerpt: "Take a Break and Get a sample of the report: https://www.emergenresearch.com/request-sample/76 By eliminating the logical burden from an application developer and disregarding the rule-based preset algorithms, deep neural networks sets an artificial ..."
-    publishedDateTime: 2021-04-08T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-outlook-demand-and-supply-key-prospects-pricing-strategies-forecast-and-top-manufacturers-analysis-report-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "eaOxP9fxTTGlqZbF/KTJKtfRmsidIsw8M1dU9hw8vpwwSFFJOc1EDdloSwVU23mDUY/MSZYU+twz/6lWUJikNxD1+t661eDdmF0pj9r8xKQHYkXO4QqGxtN/vZhnb5Qgghy/5MmDnhqYh997KoyOWM2kpKtmEOlEuDmNrkeDvyItxX+Oet8RzCNzTvntMNRIPjJR3sUdnAbjm6IdOe+NCRhThQEYBXIYpJP7cyd7UEIMMNpFdV7MGPt6oHkfRYl1JLERDcxzGO4U9BN/JPNpsQIS1fyexSQ+qX5xmKg6x36cHJ4bN0PpQRfonV80QZGf0H7GGozl4R9DlD0gM5I03xZJevyq0nSjm4RMFMSBDxI=;+Vgd+/joWUH1mDJdkrlOZg=="
