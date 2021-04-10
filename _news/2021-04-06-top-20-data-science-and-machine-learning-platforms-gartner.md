@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 type: article
 quality: 41
 heat: 41
@@ -15,7 +15,7 @@ provider:
   domain: crn.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
   - Machine Learning
 
@@ -25,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "IyOzTf1cF7u3ObiwOcEDN/rRRwcNvcM+/Yfcrvh4yubmKvpvK6fnBbMrSJv7M3bJISQBAxdTo2SKCXXIJ4WACWIA9m2nEbEZNRB15QmRbphg4oYWlcCCVBAC/aRazSy9yxXWg4KOr4f99xWrEi0mz55z/rNlP7fazuHVwmWORDPn/VUZirDyFSUTJ7waOoFrtJ4zVQQlqdKeRAlV/Trc7asdg3rqSV0+4JytITpEMxSzA5FiHIMwBacLiwnhu+3wROzGYiQkITy+PDsLtS8+LOmVD1A2zKPtO2nNG605dr9gi8zPDrQ1L1vAO6q9B0E8nDiXL2Qliqar+x+6rKXnW1ozqC8O9RyWd8Z4mlYYW2w=;v0IGz6G1u+tIJ0EDHFel8A=="
+secured: "cFpuektYU6JljTRwRX2LwtEhpgMfkawkBDKJuu/NN7Jzn8zSlPwk8Z3DOdvoyJvmu4SPeWP+0YUU1NKOWR9B17XJm7xEAO4jLNRPUBwtUk3Jsb92cIkrspUMLEAoPU668e6KV4uKbIYmYHm+jrLDCBWn59koEtctdRnkuOJ88Zwm3lSltk60Yd3p9iSszKv7hSjDvVJrfcIfODk7sREdYqAvPFrrP24Sp4KAB4g1+mi9nBfic6by42a0dc9Eh8wYvbiCUmkmyX257ou98BPNiDq/2L9Eyba0sPTE0g8+i9H3lPodr9m2ClIrGHbMnmIh5zHTSKpwa4g+bulwy2Bv2zZo1iC+nR2wSjKF6PYEzSA=;aK+RZNiS1qvao0Sid1X65A=="
 ---
 

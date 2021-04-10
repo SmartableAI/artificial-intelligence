@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-re
 cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Daily Press
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia Tech sued by group claiming university policies stifle right-wing speech"
-    excerpt: "Speech First, Inc., a Washington ... same-sex marriage, abortion, and the recognition of transgendered people. “Student A does not support gay marriage. He thinks it leads to a slippery slope."
-    publishedDateTime: 2021-04-08T21:20:00Z
-    webUrl: "https://roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.html"
-    ampWebUrl: "https://roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.amp.html"
-    cdnAmpWebUrl: "https://roanoke-com.cdn.ampproject.org/c/s/roanoke.com/news/local/virginia-tech-sued-by-group-claiming-university-policies-stifle-right-wing-speech/article_0d9659fc-98a8-11eb-9c23-a796444f82a1.amp.html"
+  - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
+    excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
+    publishedDateTime: 2021-04-08T15:29:00Z
+    webUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
     type: article
     provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 54
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/12/412956b4-93fa-11eb-915f-53da3b2091ce/60108a89bdfef.image.jpg?crop=829%2C595%2C76%2C203"
-        width: 829
-        height: 595
-        isCached: true
-  - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
-    excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
-    publishedDateTime: 2021-04-09T20:46:00Z
-    webUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/"
-    ampWebUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
-    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
-    type: article
-    provider:
-      name: VTDigger
-      domain: vtdigger.org
-    quality: 51
-    images:
-      - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
-        width: 1024
-        height: 732
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
         isCached: true
   - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
     excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
@@ -72,6 +56,20 @@ related:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
         width: 500
         height: 300
+        isCached: true
+  - title: "China's first lawsuit on facial recognition made verdict"
+    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
+    publishedDateTime: 2021-04-10T09:34:00Z
+    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "oDqWmZhIRzoxSRhy5f0wQBL3jYOgUBONLmaVQdN+to2PRmTGdNqFgWCAM/jae9HUePhrJ7UiRa32nYd3HQkR3VL7XRZqFjYz6DYzZP0SKUz6TCvBgsqu9NFArJ2prdpz9JQg4SGfSrdj8o1ikekMqUKu2xOBxX0lTKhY8n0JvAFVmC9woXHaXA1JBO66ID57LPW1L5U+UgrW4V+ip0O6OapneykVjVx64nlFUd5cHyH/IiWYEFFOAl8Y4EeP1RcEC0OnTXFoMHPJKoziEeFyhb4JybLsuHj+Je2e3R2nLXvlX57Djjxx37+y6s2nXyYqizgNwcie5cH2+DL3DVTbTYdv/igZUOqOfYmBODN3cukL3ULLCBwQOdN5aGBE5JUP38RS8hwlayLkQup7Fd39ZaQpowsS08j1qinU+dnSQPaCTZexaqyhYC2nC9vaIM1WxoetaOPwNr/dO8mXoPNVM9ZM8A1wYH38JGtBzXApySCT1dtdS3MNjYf8DcjJHorkNaHQ7uJOwIl/dtC8z1WgOg==;/IKKmwKmgpnGaQIpmEAOqw=="

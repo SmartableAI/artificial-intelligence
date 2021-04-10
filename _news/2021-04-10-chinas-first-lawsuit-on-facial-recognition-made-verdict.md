@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Army looks to facial recognition access at bases"
-    excerpt: "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system."
-    publishedDateTime: 2021-04-05T18:08:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
     excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
     publishedDateTime: 2021-04-08T15:29:00Z
@@ -57,39 +41,37 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "Covid-19 Vaccination to Go Contactless With Aadhaar-Based Face Recognition: What This Means"
-    excerpt: "India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition, in a bid to make the process go contactless. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma ..."
-    publishedDateTime: 2021-04-07T14:13:00Z
-    webUrl: "https://www.news18.com/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-what-this-means-3616403.html"
+  - title: "Local police in Virginia will be banned from using facial recognition technology"
+    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
+    publishedDateTime: 2021-04-08T19:00:00Z
+    webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 49
+      name: Daily Press
+      domain: dailypress.com
+    quality: 54
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/04/1617795162_covid-19-vaccination-facial-recognition-india.jpeg"
+      - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "India’s COVID Vaccine Drive to go Contactless With Aadhaar-Based Face Recognition: Here’s What it Means"
-    excerpt: "The process of facial recognition will help alleviate concerns of accidental infections at vaccination centres. (Picture credit: PTI) New Delhi: At a time when the country is running its vaccine drive in the third phase, India’s efforts appear to add ..."
-    publishedDateTime: 2021-04-08T00:23:00Z
-    webUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/"
-    ampWebUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
+  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
+    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
+    publishedDateTime: 2021-04-07T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 43
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
     images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/01/covid-vaccine-drive-PTI-delhi.jpg"
-        width: 1200
-        height: 708
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
+        width: 500
+        height: 300
         isCached: true
 
-secured: "sXvZjKeiCJuNsIs0dYbLt3WGAtghtJfWxrfYVNCY4UilkU9VWZ72SlyTGn6h2EnRAEFlNoE78c8AU+muoRP/Ea2d/UUTe5RFQjyY/YwCuD8LGQ5xMVf6nsA1zSo93+hw3feM6dezG1a6yRv0WJNDy6m+IPxDUbeTEQXy7RtfaPTr7Si3RRm8YBCDeQICgyntPASUByZFNvEkfxRyH2UG9QAeHP7k5UHIltUsdtiVcbrAUoCqztmlAir1CmZ+4GldFFdpVmf4d+bqkHGqQC3IrkNG0MfPw/4uCDGPkS/oE8TOs+ON8tXI2SxZufKI3Y09wfJRfftNa4Dl1BqnXF0Y3oWEO6vgJg1UgvOu6cDdquM=;WYEYFuGOqeXuXyDU8VDoXw=="
+secured: "y7NdbSE9dlbOPmeajQGPelkmJRXBiayWFvcj1ePhqi3ga2lIHUsr6yi6x6tvebDZ4kUsFdw8lk1XfZE+71J1d3NvWL8eYPqhTR/lR8xf4Xl8X3XtIplcNkishHadkuhR2cdXFINpg9kAUC3LSg/QyVedprJwx4wz38+3w0jK/90j+KJAXWZC8UN8xncBH9WLfjzShBj+VvUL3c66tR9vSEw2DWrSlPwMs61S9KXiCRIEnLsmRA5339OOubI3bahG7cXw2J/9SYDhk/QxFxCsk+feDEq1/4G6cHgXQQMp5MkBqi2Pl9+PxnbrHoWAkA+cW8/6bO6MWEu69VcbNzfijYVHqZ+U0WgPE7FD/Ty2Ge49KA4zi2IrN92ksUN7yP1Ny6DLwB/cdUA7Vqe9Osa3A/SMruGbDSHskKeScXHYbFcstTiNiZnRSd08JxWPX8S4+5p7sbz+jSfNsh0mJ2dx9AC0A37zt89PjHxcpqcQQTI+s+291CBemBI+WahHR6Gi4vAi0TVudbnuiN/m4FSm+w==;bQ+t0EiNZLqsH19+FFvnyQ=="
 ---
 

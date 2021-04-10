@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
 type: article
 quality: 83
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
+    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
+    publishedDateTime: 2021-04-10T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Size, Trends, Companies, Driver, Segmentation, Forecast to 2026"
     excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
     publishedDateTime: 2021-04-07T05:42:00Z
@@ -152,6 +166,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market : expected to Highest Reach Revenue USD 208.49 Billion by 2025"
+    excerpt: "“The Artificial Intelligence market report provides a detailed analysis of the emerging trends, opportunities, and as well as the challenges in the market. This extensive report sheds light on the latest developments, market drivers, and competitive ..."
+    publishedDateTime: 2021-04-08T09:42:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-market-expected-to-highest-reach-revenue-usd-208-49-billion-by-2025/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 6
   - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
     excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
     publishedDateTime: 2021-04-06T07:24:00Z

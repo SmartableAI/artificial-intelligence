@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge AI Market Report 2021, Featuring Alphabet Inc., Amazon, IBM, Apple, Intel, Nutanix, Octonion SA and Synaptics Inc"
-    excerpt: "The \"Edge AI Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
-    publishedDateTime: 2021-04-08T13:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-edge-ai-market-report-2021-featuring-alphabet-inc-amazon-ibm-apple-intel-nutanix-octonion-sa-and-synaptics-inc-1030285956"
+  - title: "Natural Language Processing Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
+    excerpt: "This market research report on the Global Natural Language Processing Market is an all-inclusive study of the business sectors up-to-date outlines, industry enhancement drivers, and manacles. It provides market projections for the coming years."
+    publishedDateTime: 2021-04-09T07:19:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/natural-language-processing-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research4-13.jpg"
+        width: 780
+        height: 400
+        isCached: true
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

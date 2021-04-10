@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/09/29/153003_1345878.jpg.2000x1333_q95_crop-smart_upscale.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Use of artificial intelligence assists in fitness attainment"
+    excerpt: "The artificial intelligence of the machines will adjust the “load” to the person working out. “Levels of effort and force will be different,” Roberts said. “The machine knows when it is working with someone who has been working out as opposed to ..."
+    publishedDateTime: 2021-04-10T10:00:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/use-of-artificial-intelligence-assists-in-fitness-attainment/VRF7VICQUFBLBHIHONO33GXCHI/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "kwdQs9DA8T1xHat0wKVOwaqhGBK762B2aLKEqAlnEa0gjyySakx0F2uUMY7+nphVfnF/kpjyTUvy7ryaJknxXs66LmkvRcacJ/eWhKeayZLNWESz9TSvB45snkZ3yU5rjO272BtEEfaXEIv6YlDnAk9XNE0mPHtddd3u0ah1MldTX1ACmtcs227PzcDifT/vwrzRKdV+jSE/lZlKHDOXroB5Qx9XaBU02B7lDoVFIK+RponKRi+pDJzBx46QGHzaj0Va2v5z457xmwDpXKLyXAEB4Ov/N6GK1XnkhFKuVDxVPXsK+EcyOzTpuxKDPMkFh2T0UkxNb8X1oPz7uU/d3W09ODrp6fgw8hrcR5Bt6AJW2tf/pvpq7E5r47YWZuJY9X2fNDqIPcByEGFSYq3WuYhYamYaC/tIUJhdCaISUnC9fo4Gk3Da6xmr1WJxXvenYg9N1+jg8F3bHf6hSoBLDeAvbBLG0JxIyMjtVjodC6XKjbbB54DlRCpMRB6K6JwPjnxUwU2JMU76X1EK/LgtTA==;iyws7l5WaxQhOJT1iiMLiA=="

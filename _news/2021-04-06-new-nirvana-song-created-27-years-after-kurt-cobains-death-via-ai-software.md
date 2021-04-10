@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "Google’s Magenta AI was used to write a “new” Nirvana song 30 years later"
-    excerpt: "This was created as part of a bigger project highlighting mental health and musicians who died at the age of 27."
-    publishedDateTime: 2021-04-05T18:03:00Z
-    webUrl: "https://knowtechie.com/googles-magenta-ai-was-used-to-write-a-new-nirvana-song-30-years-later/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 36
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/lost-tapes-of-the-27-club-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
     excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
     publishedDateTime: 2021-04-07T23:06:00Z

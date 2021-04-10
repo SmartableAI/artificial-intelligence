@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
+    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-08T10:37:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
+
 secured: "VeYLme2MYQ76HK4wfea8ZzVfHoXeJBdApJQ1AwdEPfQTbVHzop8f5hZhpefawmTZXUCZf57HKLQVi0yDcYCa2mohmvdGGf7AoTaQoE1l9aECtblFQTH+r5/SI/ITmx8gV0yAT1Wz+/vGQQwVmsMtdt9uhIwNPBwWXFi4cu9i1YZoIewdU7KouUYhl1vy4Ml+Pk+1jpw5trNLS/9VTXKIs6dnkkTUCmHU6MufAR+7i6qn9bIj+Rozc+165RVYcCyfxbwYVjsNX4bSUfq81nY7CsfG5vzELKVl7v0H1rBTfT2nmr8+MI7pCMui80llGkYewrzIEycDgWMDjg413puw3RanV408W+Og+x3f+0OIyr4=;7sj80hB/4xbYRDx0G+pp2A=="
 ---
 

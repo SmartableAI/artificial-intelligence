@@ -24,22 +24,6 @@ images:
     height: 635
     isCached: true
 
-related:
-  - title: "Vysioneer Receives FDA Clearance on First-Ever Tumor Auto-Contouring Solution for Radiation Therapy"
-    excerpt: "BOSTON and TAIPEI, Taiwan, April 5, 2021 /PRNewswire/ -- Vysioneer, the leader in Artificial Intelligence (AI ... enabling a quicker response time for performing radiation therapy with more precision in targeting the tumor. Manual contouring time that ..."
-    publishedDateTime: 2021-04-05T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vysioneer-receives-fda-clearance-on-first-ever-tumor-auto-contouring-solution-for-radiation-therapy-301262201.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1480711/press_release_photo_Vysioneer.jpg?p=facebook"
-        width: 1905
-        height: 997
-        isCached: true
-
 secured: "CrIiivBFTuHc3mSLLXqnMcj0v7Ujcw4UHLsQZjJ27cC8GbEubpG5MQE4hYYQiXg6Im9b87CXBP6YzF4xwSVFDgviZ/Pb+pA/QGcAkFt29kEGPuMQRpgZcyw5aF2NEitwZ6wW8+pkG6ziq4jcFFwfKRXPlnCESAN8cTVw3vaB+SWE6yXMwwivlP+RqmsHXjvk9gjPY/qYgIy3SI8/yjt9TlX58UL07kpW5gFGxLGSq/3xdtEs1mW/PbOasWSIL4ahfjSuzdCKxxrN0Campw6xfs3gdW7QHPneK+rD1Y8qMCjRzxsAieEgWaCVUmO8CdcffrTxzvV4CWYZQM+/TvUyVO+LbfwZKMCZgLzaTOJ9fojlKRnCVFwBEU+mrKxLhVC3O6QEppxjou2fV2vYgsdOLq3aRBTqMaKWik/up8ip2NyrfHsBnqomykmoVcyeIRoxHTVu2zv9D2qR/9JCrRTdio5rolQslM4c5VjdIqjs/lFS1aGs6MySf9RjflKQeP+HaJWIuEBIrBwtHV170qyJCQ==;h3FgKfESbXrw83wDRkU6Mw=="
 ---
 

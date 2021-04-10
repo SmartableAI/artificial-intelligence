@@ -19,34 +19,15 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
-    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
-    publishedDateTime: 2021-04-07T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
+  - title: "Can AI Beat the Market? 10 Stocks to Watch"
+    excerpt: "Artificial intelligence isn't new to the world of stock picking ... The Food and Drug Administration in February put trials of the gene therapy on clinical hold. Although the consensus recommendation stands at Buy, analysts are pretty closely split ..."
+    publishedDateTime: 2021-04-07T20:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-04-07"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
-    excerpt: "This market research report on the Global Natural Language Processing Market is an all-inclusive study of the business sectors up-to-date outlines, industry enhancement drivers, and manacles. It provides market projections for the coming years."
-    publishedDateTime: 2021-04-09T07:19:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/natural-language-processing-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research4-13.jpg"
-        width: 780
-        height: 400
-        isCached: true
 
 secured: "PaK38Yqfpxo1ecr5eLXCSr3nwh/wEZDXNs+Xuvl9J02zp75NKONeUGjQNZRPAIOHFGHWi1br3vOCwCfK9VJRMaw+FVIQ/+RlFBYuhV+r8esV55WMsTf+YX5f7B9sXHHnd7zQJog81GdnOLbiQRdR3EO7JylNYgY6wiHldJpFj3ClFyJb/sdutibZ/rTvIFpq5Gz2YfjsmRq4QgC4cj+F4U0fEEkClguH3F/mi0ebtiCNCs2III2KWFIopmchXB1019/uoiXW/lGYMwBRCdGLmSgCYpnsAdkL/MyBL/3Y1Eo8ltxVetvTxk3HtaDE+MyTeI9070QIsTJcLW1+wJ9bapbFZcsSUOZPFkQlnbsghIs=;bzHSPyQXiNSoZD5pP7+eJw=="
 ---

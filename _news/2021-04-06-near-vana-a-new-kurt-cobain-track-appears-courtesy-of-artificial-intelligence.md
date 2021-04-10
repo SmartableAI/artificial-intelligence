@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/04/getty-images-kurt-cobain.jpg?offset-x=0&offset-y=0"
         width: 1200
         height: 680
-        isCached: true
-  - title: "Google’s Magenta AI was used to write a “new” Nirvana song 30 years later"
-    excerpt: "This was created as part of a bigger project highlighting mental health and musicians who died at the age of 27."
-    publishedDateTime: 2021-04-05T18:03:00Z
-    webUrl: "https://knowtechie.com/googles-magenta-ai-was-used-to-write-a-new-nirvana-song-30-years-later/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 36
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/lost-tapes-of-the-27-club-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "'New' Nirvana Song Created 27 Years After Kurt Cobain's Death Via AI Software"
     excerpt: "Twenty-seven years after the death of Nirvana frontman Kurt Cobain, his sound is continuing on thanks to artificial intelligence software."

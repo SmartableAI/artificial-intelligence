@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-preven
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Impact of Artificial Intelligence in Casino Gaming"
-    excerpt: "No, Artificial Intelligence is used in manufacturing robots, creating smart chat boxes for websites, and operating as a virtual travel assistant, and a thousand other tasks. One thing is for sure and that is the gambling games will remain the same."
-    publishedDateTime: 2021-04-05T17:11:00Z
-    webUrl: "https://www.analyticsinsight.net/impact-of-artificial-intelligence-in-casino-gaming/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
 
 secured: "SUgg2V9W0+7SCGUlbwXmZLAiPIE6nyE6Y62/VBOG/2nCK2CRhCE8s3RlS9S2EVyYoi9vByjCIQwYkeAFeZF60Qk0756+R8tUXNK4zjBxXagNpYZTsV8UgMfMg+OfpY+mDkkAdXaKtM65enqd5g8aO36bwVaXBE3570XJYE+zVB8aZmxmBBDBkC4kTWCMTAg5gzPXtvqRR+eMVc9sAAPBppaWdyh/V7DLu9U43SQdHHEghGn76pZ/qL0Bmd2yYK5C0tMiFeWTMGL1XMd1t5R11Qb1ols2V8oQWIgbTYQoTYPYiWhXXPlghKIAA5TTc+UI6yLJJUzmDOXjojlFCMUmfVwgJiJ6f6xie0TbeQ8wEb/lBSJHraGTOU4e9eMQojTzuFar8o/04r7gphn3KIm1UKPUL+uiX/0o+4Du96SggpKlYcJnpYKE3XrhtZ1qPKqpQVtBOx7cupH1fuln4yGNWxBp86vZbB01L+VKirBbWIyDNc0m344SysBwFak2sbjhM7jSV73I1frkAXw4Ft8bJg==;dVP5DGG8ybAUqB4cbyGeCw=="
 ---
