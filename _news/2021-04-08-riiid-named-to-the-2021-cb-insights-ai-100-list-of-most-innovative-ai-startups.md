@@ -211,6 +211,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Autonomous Vehicle Mapping Company DeepMap Named One of the Most Innovative AI Startups by CB Insights"
+    excerpt: "Silicon Valley-based mapping startup DeepMap Inc. has been named as one of the most innovative companies utilizing artificial intelligence (AI) by CB Insights, a National Science Foundation-backed big data company. As a big data company, CB Insights ..."
+    publishedDateTime: 2021-04-09T22:20:00Z
+    webUrl: "https://www.futurecar.com/4539/Autonomous-Vehicle-Mapping-Company-DeepMap-Named-One-of-the-Most-Innovative-AI-Startups-by-CB-Insights"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202104/09/l_6070ca3d7c530.png"
+        width: 765
+        height: 384
+        isCached: true
 
 secured: "L2Rjd2w0a3S3Q3QHRjhBUFJ3o8CImuWgsxBYToUfVugGKJLq6XjEXyIuUSEICWT5vjSirfme4PmyUOTtwMtY3uzw6zkbcrUX+Au3275bKgDbxH1VFp96nCCdnKMRL/kcNP7hMvo+D6CGYh6o7RDEpeUlN+sT55wUCQL19jj0qsePJmBOPC3TWOAs2AOqSTd7VQQ2WALHAyIm7kGWW7MMof87BpkkQx4cwjTNJjCNn4aFDEoRtZ7ZpivrprLyIlHXqE1RQ8/GKRjGk4fuPmunb/ciF7lspLfYRoTKlTHblPp6hlFBSwNv0KpvREfS9BarzxEXKFwTchhByeWVO+SNSMYkchoZjoH0H5X4Km0qpeF2Gv9N6WIAljCjx3iqy0bYDDZU2EHkFC7ApXEfvVr+7J6YbxuhkXyI+n/O5Il1Tu8DfKMhoWVN/JaUQk3QhqfBLIavGUFglC6Aqmu8WWyw2FOkOk+Ddee4hBWaCywxuEnEauIpu6MNfShnTqP4hReg2487bHdj57zE1N8dYhzRSw==;l5ZEHGnERdUfAKRkdcdpUA=="
 ---

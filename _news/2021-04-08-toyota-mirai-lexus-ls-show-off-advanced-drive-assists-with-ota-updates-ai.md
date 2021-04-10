@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
 type: article
 quality: 57
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://i-invdn-com.akamaized.net/news/LYNXNPEC0E0NI_L.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
+    publishedDateTime: 2021-04-10T01:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/08/toyota-unveils-new-cars-with-advanced-driving-assist-technology"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/08/1105782.JPG"
+        width: 800
+        height: 560
         isCached: true
 
 secured: "hDms06Q3jITjPrjpMPgDPikkimNbrJkLi+J4aqQlV/WzroowewwS80ZXMmLaze8M8doj0eDQVpHz4Lj/r6OzUULBWHNCpC+WbLgJs/weuSX8PeU8MLBCmQX30f0rmmv0/ipbNUD4oZLbZ9qZwONY6tfCE8pzo5S5Z7emSGnP2IUNQsyQkV4yO4lwe4NEm+a+LMvlpOs1NRK+oSPdLgkwFllq7D02gTWwnwv/kHrYoOblNwTU7apjsgsnd94s7eJbCUhPR6h7A+FIhE15WGPHx65pTHoQEavuTDZN85ZA6SV9zrl7OreMrqitpwg1qu9DmJuoGW3mcdE0+JDeWKOkZBV8lnjSp8cyl3cfXLhWbkziKOQ+5L9zsmPsPMt1wtkhnBH9cYVwCuwU2KP7Nw+kQWUiwGoxJ7vJsRXeU8OiIeNTGwuLdVoxHfflY7Hk3d6PF3KhArcYS1Ja56sQIOsYhaHy/m5sIiguBD2ZFKnb5gPsp33/oCSCffxR45QTCAuBMzgMesV4t5wJzK3XiCRRyw==;4M6jqAAMfZsxCTdw/tysVA=="

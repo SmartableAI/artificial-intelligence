@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
+      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
+      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "publishedDateTime": "2021-04-07T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
+      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
+      "excerpt": "Moderna ( NASDAQ:MRNA), and Baidu ( NASDAQ:BIDU) were the index's biggest losers from Feb. 12 to April 6 -- with those stocks falling 29.5%, 29.3%, and 29%, respectively, across that stretch, according to data from S&P Capital IQ.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
+      "publishedDateTime": "2021-04-07T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development.md",
       "title": "The Negative Impact Of \"Blacklisting\" On The Future Of Domestic AI Development",
       "excerpt": "Chinese companies that utilize and are developing important AI technologies such Huawei, Xiaomi, and TikTok, were targeted to varying degrees. The logic was that, by working through “trusted” suppliers, the U.S. would benefit from a “clean network ...",
@@ -998,7 +1093,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1132,91 +1227,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-this-deep-nostalgia-tool-can-bring-photos-of-your-loved-ones-to-life.md",
-      "title": "This 'Deep Nostalgia' tool can bring photos of your loved ones to life",
-      "excerpt": "You can now make photos come ... old family photos blink, move their heads, and smile.The Deep Nostalgia tool is licensed by MyHeritage from D-ID, a company specializing in video reenactment using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=tjBYSnoAWqg",
-      "originalUrl": "https://tribune.com.pk/story/2293645/this-deep-nostalgia-tool-can-bring-photos-of-your-loved-ones-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tjBYSnoAWqg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
-      "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
-      "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "originalUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/polopoly_fs/1.4531004.1617795508!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "publishedDateTime": "2021-04-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

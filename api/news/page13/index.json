@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-30-japan-facial-recognition-system-allowing-smooth-boarding-to-start-july-at-narita-haneda-airports.md",
+      "title": "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports",
+      "excerpt": "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
+      "originalUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
+      "publishedDateTime": "2021-03-30T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-this-robot-could-help-fulfill-your-online-shopping-sprees.md",
+      "title": "This Robot Could Help Fulfill Your Online Shopping Sprees",
+      "excerpt": "Ambi Robotics is using years of research in robot manipulation to teach machines how to get a grip. The secret? Giving them suction cups for fingers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
+      "originalUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/606265a2af7fcf595846d1fa/master/pass/Science_ambi_P1810835.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
+      "publishedDateTime": "2021-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory.md",
       "title": "Will It Be Hard Or Easy For Self-Driving Cars To Expand Their Territory?",
       "excerpt": "Will it be hard for companies like Waymo to expand out of suburban phoenix to all the different cities and countries they want to serve? Is the approach of Tesla or MobilEye superior?",
@@ -1107,101 +1202,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
-      "title": "U.S. banking regulators seek input on how firms rely on artificial intelligence",
-      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ",
-      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LR1RZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1RZ",
-      "publishedDateTime": "2021-03-29T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
-      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
-      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
-          "width": 750,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "publishedDateTime": "2021-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1006
         isCached: true
+  - title: "The Conversational AI Revolution: The Threat and the Opportunity"
+    excerpt: "One of the things I’m looking forward to seeing at next week’s NVIDIA GTC event is an update on their Conversational AI efforts. I’m fascinated with this Conversational AI may represent the most significant interface change since the beginning of the computer age."
+    publishedDateTime: 2021-04-09T23:48:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/the-conversational-ai-revolution-the-threat-and-the-opportunity/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/trace-3157426_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "yvYGHamk8054e7/OfpwbS/LMzwUfwc97WyBcfgLo9+/2m6v8dThEaUo4uOkSg1bvMV/NqekKmwsrUbJbAEOyO8rTBzKKuU/t4K/TUDOJhMVlhW09yJD+HfxKw/Gb3epV6oKVBTapftFhWGLuVL99ARyU1R7ZGx2pB28W2mNuttvwc8HUvNFQAGJpeoOVXtQSB67uPmzdiJ+ilVfrhgnHHV/nVTi0z7nID81ct3rEMRpXY+0bVwnKjYUVs57h+a1ltRc04bFJSM06Taj3yQ/O5mrzFHbhE2iRcxTNkdzGQPAlY+49c3reEXS033NexFRY2G+oQFDZ6tIK32TV5oOpkddt8qYRLNzTusVPXXqKdP0=;CaNA2wO+iAaVXs+UGKptEw=="
 ---

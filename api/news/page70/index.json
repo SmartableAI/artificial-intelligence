@@ -2,6 +2,83 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-02-17-incorporating-artificial-intelligence-in-indian-healthcare.md",
+      "title": "Incorporating artificial intelligence in Indian healthcare",
+      "excerpt": "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "originalUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "publishedDateTime": "2021-02-16T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarketscom.md",
+      "title": "Global Application Release Automation Market (2021 to 2026) – Growth, Trends, COVID-19 Impact, and Forecasts – ResearchAndMarkets.com",
+      "excerpt": "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The application release automation market is expected to reach USD 4.47 billion by 2026 from the present estimate of USD 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-data-processing-options-for-aiml.md",
       "title": "Data processing options for AI/ML",
       "excerpt": "Training an accurate machine learning (ML) model requires many different steps, but none are potentially more important than data processing. Examples of processing steps include converting data to the input format expected by the ML algorithm, rescaling and normalizing, cleaning and tokenizing text,",
@@ -1048,102 +1125,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
-      "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-global-deep-learning-market-industry-analysis-and-forecast-2021-2027-by-type-application-and-region.md",
-      "title": "Global Deep Learning Market : Industry Analysis and Forecast (2021-2027) – by Type, Application, and Region",
-      "excerpt": "“A SWOT Analysis of Deep Learning, Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down.” The global \"Deep Learning market\" research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
-      "originalUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U216465843_g.jpg",
-          "width": 638,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
-      "publishedDateTime": "2021-02-15T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

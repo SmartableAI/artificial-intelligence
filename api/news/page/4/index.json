@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-07-this-deep-nostalgia-tool-can-bring-photos-of-your-loved-ones-to-life.md",
+      "title": "This 'Deep Nostalgia' tool can bring photos of your loved ones to life",
+      "excerpt": "You can now make photos come ... old family photos blink, move their heads, and smile.The Deep Nostalgia tool is licensed by MyHeritage from D-ID, a company specializing in video reenactment using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=tjBYSnoAWqg",
+      "originalUrl": "https://tribune.com.pk/story/2293645/this-deep-nostalgia-tool-can-bring-photos-of-your-loved-ones-to-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tjBYSnoAWqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
+      "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
+      "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
+      "originalUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/polopoly_fs/1.4531004.1617795508!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
+      "publishedDateTime": "2021-04-07T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-waymo-ceo-john-krafcik-steps-down-from-alphabets-self-driving-division.md",
       "title": "Waymo CEO John Krafcik Steps Down From Alphabet’s Self-Driving Division",
       "excerpt": "John Krafcik has stepped down as chief executive officer of Waymo, Alphabet’s self-driving vehicle division. Krafcik has led Waymo for five and a half years and was instrumental in securing agreements with the likes of Jaguar Land Rover,",
@@ -1112,102 +1197,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
-      "title": "Deep learning networks prefer the human voice—just like us",
-      "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2021/2-deeplearning.jpg",
-          "width": 800,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-deep-networks-human-voicejust.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deep-networks-human-voicejust.amp",
-      "publishedDateTime": "2021-04-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-best-cheap-computer-reading-glasses-for-april-2021.md",
-      "title": "Best cheap computer reading glasses for April 2021",
-      "excerpt": "Below, you’ll find a nice selection of the best computer reading glasses you can score online ... blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
-      "originalUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dtcn.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "publishedDateTime": "2021-04-06T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

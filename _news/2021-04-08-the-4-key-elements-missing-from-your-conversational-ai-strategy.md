@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversati
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.jbklutse.com/wp-content/uploads/2021/04/businessman-holding-chatbot-with-binary-code-message-data_110893-1070.jpg"
         width: 626
         height: 294
+        isCached: true
+  - title: "The Conversational AI Revolution: The Threat and the Opportunity"
+    excerpt: "One of the things I’m looking forward to seeing at next week’s NVIDIA GTC event is an update on their Conversational AI efforts. I’m fascinated with this Conversational AI may represent the most significant interface change since the beginning of the computer age."
+    publishedDateTime: 2021-04-09T23:48:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/the-conversational-ai-revolution-the-threat-and-the-opportunity/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/trace-3157426_1920.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "yl4gws58FRvJ4Er6yWpcVqdvC/X44F7JEw/zV0S27Tm+Qh1y6jpD7UDnhU9WUGdbt1U91UNHKVre0uzCbTR5Ri8tQ50Rftu9b8/QzwRqye69h7NUdpDgXw6q6AxrEdHq6VRPXzf06VZRcAY3xsvGmun6nzyITWhfCASs2seq9Ddfi0NfXTGotGH+vJy+aZW5IiE2i2xOKR5hrYMTJueKoyevX5JFXOjYnMnwmJo6JiNzFj3N1gE8redrrxcRVT95TlRmiX5cD03vZCiWErWcBVRflohrrDZfSmZVOJt3bwESyPDMtAIK7oDKLteqlSqYFAVfjd3wMDc7X79PfVCF7lB2d49rnzQUaMLu/dPvuTw=;KpMoy/sPEeExCmpWDiTKLg=="

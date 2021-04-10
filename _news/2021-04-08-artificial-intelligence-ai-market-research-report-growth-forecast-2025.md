@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
 type: article
 quality: 83
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -138,28 +138,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "AI infrastructure market Ongoing Trend, Competitive Landscape And Regional Forecast to 2026"
-    excerpt: "The latest report “AI infrastructure market” research added by Whipsmartmi.com delivers a concise outline regarding the potential factors likely to drive the revenue growth. Cloud Service Providers in APAC is estimated to grow at the highest CAGR ..."
-    publishedDateTime: 2021-04-05T07:51:00Z
-    webUrl: "https://www.openpr.com/news/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
-    ampWebUrl: "https://www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265730/ai-infrastructure-market-ongoing-trend-competitive-landscape"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-  - title: "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026"
-    excerpt: "Whipsmartmi.com has announced statistical data to its extensive repository titled “artificial intelligence market” in the Semiconductor and Electronics industry. The artificial intelligence market is expected to grow at a CAGR 40.12% rate during the ..."
-    publishedDateTime: 2021-04-05T07:54:00Z
-    webUrl: "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
   - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
     excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
     publishedDateTime: 2021-04-06T07:24:00Z

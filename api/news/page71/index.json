@@ -2,6 +2,102 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
+      "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-global-deep-learning-market-industry-analysis-and-forecast-2021-2027-by-type-application-and-region.md",
+      "title": "Global Deep Learning Market : Industry Analysis and Forecast (2021-2027) – by Type, Application, and Region",
+      "excerpt": "“A SWOT Analysis of Deep Learning, Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down.” The global \"Deep Learning market\" research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "originalUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U216465843_g.jpg",
+          "width": 638,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "publishedDateTime": "2021-02-15T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-uae-face-recognition-market-size-to-witness-huge-growth-by-2025.md",
       "title": "UAE Face Recognition Market Size to Witness Huge Growth by 2025",
       "excerpt": "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025.",
@@ -1114,92 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-call-for-papers-deep-learning-algorithms-and-techniques-to-identify-deepfakes.md",
-      "title": "Call for Papers: Deep Learning Algorithms and Techniques to Identify Deepfakes",
-      "excerpt": "Recent years have witnessed the rise and widespread use of deep learning techniques in a variety of areas, ranging from simple data analysis to complex image classification tasks. Lately, deep learning techniques have also been employed to produce ...",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
-      "originalUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d6vn5uj5sr4f6.cloudfront.net/wp-content/uploads/2021/01/PeerJ-CS-300x280.jpg",
-          "width": 300,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
-      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
-      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-02-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

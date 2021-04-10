@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Autonomous Vehicle Mapping Company DeepMap Named One of the Most Innovative AI Startups by CB Insights"
+    excerpt: "Silicon Valley-based mapping startup DeepMap Inc. has been named as one of the most innovative companies utilizing artificial intelligence (AI) by CB Insights, a National Science Foundation-backed big data company. As a big data company, CB Insights ..."
+    publishedDateTime: 2021-04-09T22:20:00Z
+    webUrl: "https://www.futurecar.com/4539/Autonomous-Vehicle-Mapping-Company-DeepMap-Named-One-of-the-Most-Innovative-AI-Startups-by-CB-Insights"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202104/09/l_6070ca3d7c530.png"
+        width: 765
+        height: 384
         isCached: true
 
 secured: "qjAABrCliCm0RoO+lRFep5wUTgGLnazhFXGCGpzgblRsXozZpj5j8bWVEDl/m68pgZlSDc0d5X4mXprkyB0OzHdpZy3m5E0cllpGJY6ggozcLo7RfCTHagDDQShtNOy3fKFmo7hsgl0acZHOYKV5xRceGO7CGgVDmbV6qS/15pYXVSx7FCneSLeQK27hA02wTQZuz4jjMmj5538+prgsL/AW0trKXgmnRjCWGs/AXQARw7DfP9NXJ3mhHzdFy5tiDHuzDWbnGMrFhw8unRu3qWih9ehpcpn52ZiI+uhUjmeVo94gz97mMHDWx6q+eDll0IxRmeEBLldTV078jNPOpA173/bHQalYbMq+kMRCD8HplD/DY0juK/MadPvd2lf+qtYFP1JWLFfH7913A97zY7LNgj784VW4x2HULi2EiveNhdcFjm/fEkZhDqvorCLlTx9aZCHy36ThY6UwPJhAcCO9ggobgcF6rHb6IIqYwpt6d1o+1j/lV2U0jxIEDypoxQIJtM/nhYF+oQsPu6WIrg==;7GING/oMIbYAXJEWmVZJUg=="

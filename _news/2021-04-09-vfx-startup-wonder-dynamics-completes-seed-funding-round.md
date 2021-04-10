@@ -9,7 +9,7 @@ ampWebUrl: "https://deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/04/vfx-startup-wonder-dynamics-2-5-million-seed-funding-nikola-todorovic-tye-sheridan-steven-spielberg-joe-russo-1234730142/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1000
     height: 563
     isCached: true
+
+related:
+  - title: "Wonder Dynamics raises $2.5M seed to equip indie filmmakers with AI-powered VFX"
+    excerpt: "Practically every film production these days needs some kind of visual effects work, but independent creators often lack the cash or expertise to get that top-shelf CG. Wonder Dynamics, founded by VFX engineer Nikola Todorovic and actor Tye Sheridan,"
+    publishedDateTime: 2021-04-10T00:30:00Z
+    webUrl: "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/"
+    ampWebUrl: "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/wonder-dynamics-tye-sheridan-nikola-todorovic.jpg?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "hAVmfBPHU4LLScze7VGgZ9qgywRKhYFVROJoshZi0tr8SIkU+xrB5uZhNUnm3ALDJz0KSxLm/4drIx57JphNxo0baZHkXbGOmtH66ZZHI5uhBT6KVU2S+olAtYaoQHsESoSRQJX9BuZ9uw0NjCZnkxWLriKwk4szMDaEXLrueg+AYWX1ItpB6/CiSJj0qbOq4WaAWkR5FQWiKwX0P7MPjk0Z5rScuPtbiHC8ko/a7kzX+6Q0/sRf7Om0b5QqLOZXysyoQGtiS2UdStnH2bqfRZ1nGI//EaJZIQQzMB8CdJGKwlwOKAtbPgL4Rj8xqyhhZ4pSzKnnFoYbcZbVl/om/iThOAiWvClmZq1N8jVKpial372qcRexF0ufXekU5/MQrDu8QHQdyrL3juu0p6uq8kzAx2vvUgIHkDvhI7I104Q6pwSXI9DXHZg/ecV9tZTLC+Ig3x/stwb6R2FHHZPC5xaL/1/Xbz+0xyIPxRt6x9Uf4EJqzfbPTUhY8wRrQ4z6293NvA7tkgu+7sUrMfr2xw==;a5xxLJSvSVX+X00bVQcp0w=="
 ---

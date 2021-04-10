@@ -145,6 +145,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
+    publishedDateTime: 2021-04-10T01:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/08/toyota-unveils-new-cars-with-advanced-driving-assist-technology"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/08/1105782.JPG"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "oJzk8hdHccG0/OC0nIhG+ObNGsw8R7m7BWrxw8i5gLMOHusKAcm7gxjcqN2I1nQPm/etPElfTgyK67G3V69KJWHbm/Z87ryrZRFzY8GkkIAYvDapLjbUDlw8Nm1uIFUsqpx35/bSiyoVy3xvOlRpJP+g1f3URC+8i0sgfITXhrLgO/uOQ7+Dd/oolKAVFo9siz/m5RTgakNnpKMqruV+YasuDWKTDLw0ycE0UIs/4bv5P8Wf4X0idjq8Xz05c4dkl/xqB+1PLyUWE6b3h2gojqRffQ6vx28/0Ns2XI6ZB+UWKEZiWopVkCcGFa0vrqglvGXZur+Taq574Ng4zLUxJOQ6YKzco3srZW9etKFlXwc=;tX4XYi+WL5cHIhyBpZrgCA=="
 ---

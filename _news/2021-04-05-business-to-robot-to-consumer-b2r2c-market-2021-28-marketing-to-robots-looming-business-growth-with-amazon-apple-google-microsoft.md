@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
+    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
+    publishedDateTime: 2021-04-08T14:09:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "5ngXjlsbX9vXePw4jwdl+QHWLCJbBK3bVl+Dt3fZ8Bf5vdxVcFpydjQtjVAkPgLMSg7S6C/jageCgymoG2VIGgFnjS7e+iT7fZeaaPyRPSrllfj7Acn42gsjCwAuBlLFUh2Pkx509XUfi6fYTB9OjEZMO5g9M6lkoP4+JzPMp+gSWDnqeYZqvltsKVxgUgyIunP5X2Av0GAp18HVGAK7QYR63S192ils1lFYfZe/Iwav18iand0TpskK95WcA8bcx66zG1OIZzvvpz+jIsPF67H2KqGhrQoV11EyigJRUN8NKyaVniHvkr6T7RgrehdGQ6CQwzC5i6FuFRTML8CxI5a98xu7dmwIk42Era3P8FI=;5VABC3iSSe+bdGykiT6wsQ=="
 ---

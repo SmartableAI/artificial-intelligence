@@ -73,22 +73,6 @@ related:
         width: 1786
         height: 1119
         isCached: true
-  - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
-    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
-    publishedDateTime: 2021-04-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Enterprise hits and misses - Vaccine Passports stir the tech ethics debate, Microsoft gets a big HoloLens win, and AI is overconfident"
     excerpt: "How will tech companies navigate? Microsoft scores a big HoloLens win, and ERP gets futuristic. Companies are overconfident in AI, while the ethics debate roils on. Your whiffs include epic work from home fails, and April Fools like me. Lead story - No jab ..."
     publishedDateTime: 2021-04-05T11:12:00Z

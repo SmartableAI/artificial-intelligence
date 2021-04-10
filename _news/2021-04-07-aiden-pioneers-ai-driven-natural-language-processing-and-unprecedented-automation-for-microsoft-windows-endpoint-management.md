@@ -68,22 +68,6 @@ related:
         width: 1786
         height: 1119
         isCached: true
-  - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
-    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
-    publishedDateTime: 2021-04-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
         height: 1119
-        isCached: true
-  - title: "Conversational AI Platform Market May See a Big Move | Major Giants IBM, Google, Microsoft"
-    excerpt: "The study covers emerging player’s data, including: competitive landscape, sales, revenue and global market share of top manufacturers are IBM (United States),Google (United States),Microsoft (United States),AWS ... a form of Artificial Intelligence ..."
-    publishedDateTime: 2021-04-05T08:23:00Z
-    webUrl: "https://www.openpr.com/news/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    ampWebUrl: "https://www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265739/conversational-ai-platform-market-may-see-a-big-move-major"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/4/U405203353_g.jpg"
-        width: 800
-        height: 464
         isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
@@ -223,6 +207,6 @@ related:
       domain: island.lk
     quality: 16
 
-secured: "hRwQI+1+1zM4CoOynU2TfkT1nHRkyqKWW3Gxyj/NQZUocs+MRnXwK4VOsA1A3fraZpxGqCQzcL8/h69jl3jtYt10NShAMsbhc0ldilIE4Lpp19KDKhTjqcYkoT5cUazFpLI/ng7yYKxnw+L+FtI2TYxlV3cNtvQy/sETQEnjl9hNMuzVuEUGTQEgcjhiqGshNoG8viz1atytWR1e+DdXIwpMqHgncXDrx/WDZe0rIyXVnYcfoWOZcb/hPa8fk1o4gAvcPJ54VcFu5Hxy6Y8c5fgZSOIVtRbe9wsUbbX1eVedjTGVddMMzwFShXIhOiyqZzcNYu7FMfC63OMFtm7Hg/Hm/muNeRQ7nh2y2oNGwDE=;kDKQaxqikea1UfgBATyg0g=="
+secured: "LXpiGfPZbHkdxWqpRcBuXpnhHHYnODNicx08sxaHACdrr/l5AZIwJZWc44mczTlop3JGTZbVONC8Nrk8HqIXj64rUSZb2/v/WpZ1y73gqlfIUo+YQPfIDRSuBkq8oB3cZ92hYXA6hrgjt9230e8NBL1VysAuPsWbM5j1DM1zVmNH6r5bd72PhiJvfkFYrOnzHLujHCoGGw8PLdMWrxtVAVjKtPL6cwPfUSZPQL21Zpzj+GmhGqD55ZwOdi4YzeQHTG9v2PSLcmL0CCRVruDVtf8Yph5RvS9ZOx/eTF6Av1u0FIUmHUTZ6BwXOio6bRHZx/rsMpejnspmxYwureR36XQbrjCWi4UjiyoZ4lu3sRz9KtsoYGJJRnaqWMQVZNGEA5r3Cnjai4mjbTHH3/efWUmBuRuNh+XTDjcl4gDNPRBCzRtyGoWBC/kmq6tgwL3mMmqmM91Z+zChJsdPDO7tZdxdfTr3ha7dzJJ0PsqzdfkzwHPrrgO/3jc5PN9MEJmLI4xvAuUwIVIiawu3EoYXOQ==;a+cwkSoK0VL7CYNCcUDIdw=="
 ---
 

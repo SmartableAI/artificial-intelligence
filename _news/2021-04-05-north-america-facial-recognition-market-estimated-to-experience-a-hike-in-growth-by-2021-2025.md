@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
-    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
-    publishedDateTime: 2021-04-05T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

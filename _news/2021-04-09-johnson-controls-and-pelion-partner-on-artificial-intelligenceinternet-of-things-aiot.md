@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-08T21:16:00Z
 originalUrl: "https://www.commercialintegrator.com/networks/iot/johnson-controls-pelion-aiot/"
 webUrl: "https://www.commercialintegrator.com/networks/iot/johnson-controls-pelion-aiot/"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/04/Pelion-Johnson-Controls.jpg"

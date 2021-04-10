@@ -39,15 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
-    excerpt: "Apr 05, 2021 (Heraldkeepers) -- With increasing use of latest technology such as artificial intelligence ... report revolves around understand the overall application of AI in healthcare industry. The potential of AI to create meaningful relationship ..."
-    publishedDateTime: 2021-04-05T08:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-04-05"
+  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
+    excerpt: "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ..."
+    publishedDateTime: 2021-04-07T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-10-singularitynet-agi-rallies-1000-as-industries-aim-to-merge-ai-with-blockchain.md",
+      "title": "SingularityNET (AGI) rallies 1,000% as industries aim to merge AI with blockchain",
+      "excerpt": "The internet has reshaped society over the past 40 years and experts are predicting that digital technologies and artificial intelligence ... SL2 \"off to a running start,” with the organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain",
+      "originalUrl": "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvZmRiZDcxMWQtNGM0Mi00NDAxLWJiYzktOGQzOWY0MTgzZTNmLmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain/amp",
+      "publishedDateTime": "2021-04-09T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
       "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
       "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
@@ -810,7 +853,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1355,40 +1398,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-global-sanitization-robots-market-is-expected-to-grow-at-a-cagr-of-34-from-2020-to-2028.md",
-      "title": "Global Sanitization Robots Market is expected to grow at a CAGR of 34% from 2020 to 2028",
-      "excerpt": "Introduction of advanced autonomous robots powered by cutting-edge technologies such 3D mapping, artificial intelligence and others are anticipated to boost the growth of global sanitization robots market in future years.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

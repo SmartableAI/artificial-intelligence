@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Size, Growth, Opportunity and Forecast to 2025 | Says Kenneth Research"
-    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market ..."
-    publishedDateTime: 2021-04-05T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-size-growth-opportunity-and-forecast-to-2025-says-kenneth-research-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2021 is estimated to clock a modest CAGR of 10.9% during the forecast period 2021-2026 With Top Countries Data"
     excerpt: "\"Global Speech and Voice Recognition Market size is projected to reach USD 14650 million by 2026, from USD 7884.5 million in 2020, at a CAGR of 10.9% During 2020-2026. \" Global ' Speech and Voice ..."
     publishedDateTime: 2021-04-06T11:18:00Z

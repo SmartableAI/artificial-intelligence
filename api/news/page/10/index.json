@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-31-artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google.md",
+      "title": "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google",
+      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-ai-champions-driving-new-industry-solutions-for-climate-change.md",
+      "title": "AI Champions Driving New Industry Solutions For Climate Change",
+      "excerpt": "Moreover, with Climate AI Champions in the picture, these innovators could provide the right solutions we need in the fight for survival and growth. The climate change crisis is real, finding quick and affordable solutions is an urgency, and AI can play a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606498925b677d282a0db79e%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
+      "publishedDateTime": "2021-03-31T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-virginia-lawmakers-ban-police-use-of-facial-recognition-technology.md",
       "title": "Virginia lawmakers ban police use of facial recognition technology",
       "excerpt": "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police.",
@@ -1072,101 +1177,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-corporate-forces-that-helped-shape-ai.md",
-      "title": "The corporate forces that helped shape AI",
-      "excerpt": "The Mavericks Who Brought AI to Google, Facebook, and the World,” New York Times tech correspondent Cade Metz writes about the history of AI and the corporate forces that have shaped it since the mid-2000s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2017/09/GettyImages-813130280.jpg?fit=740%2C411",
-          "width": 740,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "publishedDateTime": "2021-03-31T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions.md",
-      "title": "Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions",
-      "excerpt": "“Arguably, the provision does not apply if a bank employee denies a loan on the basis of a recommendation by an AI system,” he said. Write to Catherine Stupp at catherine.stupp@wsj.com Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserve",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
-      "originalUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-318272/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

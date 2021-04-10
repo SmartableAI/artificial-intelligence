@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-local-police-in-virginia-will-be-banned-from-using-facial-recognition-technology.md",
+      "title": "Local police in Virginia will be banned from using facial recognition technology",
+      "excerpt": "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
+      "originalUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-08T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-ai-helps-recreate-painting-hidden-under-a-picasso-masterpiece.md",
+      "title": "AI helps recreate painting hidden under a Picasso masterpiece",
+      "excerpt": "AI has helped recreate an artwork that had been hidden under a Pablo Picasso painting for nearly 120 years. The mysterious landscape lurks beneath the visible surface of Picasso’s La Miséreuse ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/",
+      "originalUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Untitled-design-2021-04-08T165459.602-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/amp/",
+      "publishedDateTime": "2021-04-08T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-appharvest-buys-ag-robotics-firm-root-ai.md",
       "title": "AppHarvest buys ag-robotics firm, Root AI",
       "excerpt": "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ...",
@@ -415,7 +509,7 @@
       "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -562,7 +656,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -614,7 +708,7 @@
       "originalUrl": "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -700,7 +794,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1146,101 +1240,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
-      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
-      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "publishedDateTime": "2021-04-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "Moderna ( NASDAQ:MRNA), and Baidu ( NASDAQ:BIDU) were the index's biggest losers from Feb. 12 to April 6 -- with those stocks falling 29.5%, 29.3%, and 29%, respectively, across that stretch, according to data from S&P Capital IQ.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-07T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
