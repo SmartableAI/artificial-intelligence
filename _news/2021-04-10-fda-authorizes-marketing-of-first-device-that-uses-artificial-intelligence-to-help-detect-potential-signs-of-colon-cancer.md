@@ -1,18 +1,18 @@
 ---
 category: news
 title: "FDA Authorizes Marketing of First Device that Uses Artificial Intelligence to Help Detect Potential Signs of Colon Cancer"
-excerpt: "Today, the U.S. Food and Drug Administration authorized marketing of the GI Genius, the first device that uses artificial intelligence (AI) based on machine learning to assist clinicians in detecting lesions (such as polyps or suspected tumors) in the colon in real time during a colonoscopy."
-publishedDateTime: 2021-04-09T22:05:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-medical-technology-colon-and-rectal-cancer-diagnostic-tests-84723ac8f8aee877aff178c5aed5972a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-medical-technology-colon-and-rectal-cancer-diagnostic-tests-84723ac8f8aee877aff178c5aed5972a"
+excerpt: "\"Artificial intelligence has the potential to transform health care to better assist health care providers and improve patient care. When AI is combined with traditional screenings or surveillance ..."
+publishedDateTime: 2021-04-10T14:00:00Z
+originalUrl: "https://menafn.com/1101892540/FDA-Authorizes-Marketing-of-First-Device-that-Uses-Artificial-Intelligence-to-Help-Detect-Potential-Signs-of-Colon-Cancer"
+webUrl: "https://menafn.com/1101892540/FDA-Authorizes-Marketing-of-First-Device-that-Uses-Artificial-Intelligence-to-Help-Detect-Potential-Signs-of-Colon-Cancer"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
@@ -20,11 +20,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?661930"
+    width: 443
+    height: 250
     isCached: true
 
-secured: "e1YaeW/s4bYBluXYvHtwmHT5xNbceLptrtO4VQ/cCsqDrl9UhsKLXUhL5noDPvLSMOsSg5BsTUZjfjSlXv8jPaciwBm/gX6MExkubUqvwPq2zR4RezyvFGwlKhvQ8//uvh7q7GXYDaRdwm7TdVZVZDiGia/EHjYdA+B2QqdA7sfFr7v7DiEPHBJ4sR01/ZS4G9wLCxA2IG1iPKs3mgQECQ+rEKdhJNTS/L4aavI/VwRsFMWg1oOJh9FPLKDE4rPXkkERa0T5yv+XewEvSOHytGPIrxRViDucTJKbHwPsnL55Cfw0nYLQroqft8H5RGT3IPj0uYRs54yAjyc+XoMhH72ZX9ix6odKwwyGYifG778=;ZLbwNldoEaW0XEExC+1NUg=="
+secured: "PvlMOLqLO39jdJhKmxuogajwNTlXo6SxekGU4TsZeVW4D9JwkH7sLX7tqxuz7YlAnSb26k7Ou0FLIOm6AcGhyHtwiDSJPZteeKp9QdQqJaLadM3KSqJ8WAW/hRekgQNK6Jg5SnEGG5/x2V3CPZf4vVr3lbXCmhPwNfVPHkhnrZeoEIEJqdylrBi8n51RJ6wBX36hr8mKQkVyDnoPZIzq4Q3zUxwu9/R9oZ/+5aiwZh5QUof6V0HkFc+AJ4bfc8EsDrcC92LTbAxnfu3yzg+Ovxg91EhiNtq1qrn06tpRjlRzRh9F583gYb1M5VwvtlFhQdVipSzBoe92CO+66kEFAtbnA49WrlHYT+2T06n7OwM=;7Cea8FLa26pCymz2NManBg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-gam
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4?amp"
 type: article
 quality: 88
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
+    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
+    publishedDateTime: 2021-04-09T11:48:00Z
+    webUrl: "https://www.cnbc.com/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104780745-monkey_diet_study09_5657.jpg?v=1612183919"
+        width: 3639
+        height: 2421
+        isCached: true
   - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
     excerpt: "Elon Musk’s neuroscience startup Neuralink has released a video that appears to show a primate playing Pong using only the power of its mind. The roughly three-and-a-half minute video shows Pager, a 9-year-old macaque monkey who had two wireless neural ..."
     publishedDateTime: 2021-04-09T21:23:00Z

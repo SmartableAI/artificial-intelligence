@@ -2,6 +2,164 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-07-tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript.md",
+      "title": "TensorFlow to expand AI capabilities into mobile, IoT, JavaScript",
+      "excerpt": "It has been three years since the open-source machine learning platform TensorFlow was launched, and now the team is announcing new and ambitious plans for the AI library. The TensorFlow Developer ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "originalUrl": "https://sdtimes.com/ai/tensorflow-to-expand-ai-capabilities-into-mobile-iot-javascript/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/03/hero_720.png",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
+      "title": "How AI trained to beat Atari games could impact robotics and drug design",
+      "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "publishedDateTime": "2021-03-05T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-googles-ai-lab-deepmind-held-secret-discussions-to-launch-a-futuristic-food-division-and-one-idea-involved-nutricube-vitamin-supplements.md",
+      "title": "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements",
+      "excerpt": "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "originalUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6040bf392dc90100183554fc?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-deno-18-preps-for-gpu-accelerated-machine-learning.md",
       "title": "Deno 1.8 preps for GPU-accelerated machine learning",
       "excerpt": "WebGPU API for GPU rendering and computation is supported in the latest upgrade to the JavaScript/TypeScript runtime.",
@@ -1295,136 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-google-releases-tensorflow-3d-what-exactly-is-it.md",
-      "title": "Google Releases Tensorflow 3D. What Exactly Is It?",
-      "excerpt": "TensorFlow provides a set of operations, loss function, data processing tools, metrics, and other models for developing, training, and deploying state-of-art 3D scene understanding models. Autonomous vehicles, robots, and other ML-learning systems have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-releases-tensorflow-3d-what-exactly-is-it/",
-      "originalUrl": "https://analyticsindiamag.com/google-releases-tensorflow-3d-what-exactly-is-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/02/tensor.png",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-boosting-webassembly-performance-with-simd-and-multi-threading.md",
-      "title": "Boosting WebAssembly Performance with SIMD and Multi-Threading",
-      "excerpt": "TensorFlow.js is an open-source machine-learning JavaScript library for training and deploying models in the browser and on Node.js. MobileNet V2 is a family of neural network architectures for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/",
-      "originalUrl": "https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/webassembly-simd-multithreading-performance-gains/en/headerimage/header-1613402888452-1613514652452.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-optax-is-a-gradient-processing-and-optimization-library-for-jax.md",
-      "title": "Optax is a gradient processing and optimization library for JAX.",
-      "excerpt": "If nothing happens, download GitHub Desktop and try again. mihaelacr-google and OptaxDev optax-dev@google.com Ensure the number of update functions and states is the same in chain.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/deepmind/optax",
-      "originalUrl": "https://github.com/deepmind/optax",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

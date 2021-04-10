@@ -63,7 +63,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 25
+    quality: 27
 
 secured: "E/yZonN3uulKYF3ngsKrw44c1HWcNJTRgswJjla4K+dbc5Jje3yS0+JP2lcBDR8OphfsyhB7/qXpprUlXrA6uQYIDLlFuWWBmxM6vD3TGUW0KEXptvPkCV14xxwF9qvTFVgnoZvBweOXVQkzXq28CilD/f3YCnjC4M0jnL+0qZe1/kHkYH8jJ/vcECMEvqydC/RsxFxtBCOu2Hzc1UoEp5vrytY2AwkJh2KDo7uiuU4U7+ZAFu1NE7bNtAOTmdex8FaYrGC0Y9henp9fWKTlV/Fuu36lpbPzzPvd3LklGk418zyBNyu639W0fxbJESVXPJXKgbExN6d0snIutTzz57pyCL+5r5yrLPRDfpkst5JOR56yFJ8rL2iJhMw0WhCIScfJvh6aKaPNJAKZqYsI18MEEMtqBD15blrH6kZ5CEAICdCIArdceI+2XeBH4KVrMANp/yrAJVnKXgUnTeiUg0xx2qGzkDlrjJWYvQbM5MnxxrfOt7qPNgPEyWcfN+HM+n9TIHZnKhKg7rcS0tmGiw==;iJfw7mXfsxfzOsN82P+bqg=="
 ---

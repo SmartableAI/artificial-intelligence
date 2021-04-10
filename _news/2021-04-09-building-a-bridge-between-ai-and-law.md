@@ -25,65 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "New app helps prevent skin cancer using AI and ML"
-    excerpt: "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily."
-    publishedDateTime: 2021-04-05T21:48:00Z
-    webUrl: "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+  - title: "Luminar AI, hands on: Quick and easy AI-powered photo editing"
+    excerpt: "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ..."
+    publishedDateTime: 2021-04-08T11:03:00Z
+    webUrl: "https://www.zdnet.com/product/luminar-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI Apps Help Your Golf Swing?"
-    excerpt: "If you’re on a budget, the new AI golf apps do their best to replicate this process. Take 18Birdies AI Coach, the first such app I sampled last spring, shortly after its debut. After downloading the app to your smartphone free of charge, you record a ..."
-    publishedDateTime: 2021-04-09T16:01:00Z
-    webUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386"
-    ampWebUrl: "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-322439/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "New app uses AI and ML to monitor changes in skin to prevent cancer"
-    excerpt: "Salesforce's approach for positive AI and product development 23:03 Contract work policy Hiring Kit: Network Architect Data encryption policy How to monitor system resources on Linux"
-    publishedDateTime: 2021-04-05T21:55:00Z
-    webUrl: "https://www.techrepublic.com/videos/new-app-uses-ai-and-ml-to-monitor-changes-in-skin-to-prevent-cancer/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
-        width: 770
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg"
+        width: 278
         height: 578
         isCached: true
-  - title: "Creating better strawberries using Artificial Intelligence"
-    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
-    publishedDateTime: 2021-04-09T12:56:00Z
-    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
+  - title: "How to report on artificial intelligence"
+    excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
+    publishedDateTime: 2021-04-07T16:17:00Z
+    webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 37
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
     images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
-        width: 1200
-        height: 630
+      - url: "https://www.journalism.co.uk/assets/1/franki-chamaki-z4H9MYmWIMA-unsplash.jpg_resized_460_.jpeg"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "Artificial Intelligence Powers Mineral Rights Investing"
+    excerpt: "How You Can Invest as Little as $300 in Proprietary AI Software For Mineral Rights Investing Traditionally, only large investors had the resources to invest in the land and professional services criti"
+    publishedDateTime: 2021-04-07T12:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "6Hv7Nt/2Gwl6mmOPD7HMyKwa6dg/vq8JR73hIOKE/kPMe5GX7NcJrUfT1WoRrG9XXxO8OCyOiA74FRFulji8pOX6yvS/DIMmtFTnBsJ9te6mefRRCb0qAIEVEGcUGPlKH0TxuyIuMb/NJRm77vkkrLTFIJLI/zGXVokZCa4k95tmnlG+EBgJUzV8smXDFvU1ykIrASj41F7N+IZyJeCnL5JME8KuprxL0CjGTHTH9dS1SgMRR6zcNQU1qa0mmPiC1Bik/sOO4KeoGXHZe9TqbCvsKuiBjJIhaXm5tTTD96AagTvPh3FSVTKnigCgOvMRMMkYL7PxVWd84y9IKnIgL/yqUDlyiPC8hcb+EBAvV7k=;pNqluY7Db5Bd6XE99aR5dg=="

@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-06T11:03:00Z
 originalUrl: "https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/"
 webUrl: "https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI in Healthcare
   - AI Ethics
+  - Google AI
 
 related:
   - title: "Securing Your Data In The New World Of AI-Enabled Data Management"
@@ -67,6 +68,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5+QqOlT3FBZ3sztC3x9jRF53X+zmq84NFVfCvD0xMAn4f69ZhjptQYMiHACC/2Q3ZJpw8/6g4TSaEfc7qKu0Wi2ZHO9zuOaOQe7EnCeI2t9LYJviawe7d3H74tUwehaV22Ob1a1BzNOODylCbN4u0wNIcLFm8zcQV+LYg85wdhAnGohZGX9E0TejibR6YA0pO4q0BR9EyfKuvuNPxTu7MsbDvIraPc/jw5BvRtB9PTDt0WI1blxfmlZXTWG11vfdUbcUs78t92TddpjmYkxu5hJ1PG2FmB8IOdWC8ndv9NvSAy0Lu60lVJogdHuXUW4r2CsaAUwW0d2fqT2VSJ7JecU/mj5F5vM9c80I/Jrd9i8=;ETQN2M3WnkRhBstZhPQTMw=="
+secured: "qIa9RW5OqiTdwNNRBhqvZUo92+Za3LoR+tBRKsEh2V9t49iIQG/dNbw4O0MmRDTGEmwjn9zxF+t34gTV4rMnfynBSak6/kCwclBQz3FnDlApYWEBBMzlmdEekAhqUCcXD7mon+atTACPinkIIZSdPmOiPGTJAV9p0gjrMKjRs82MOSEPCQ2j6NPM5ylyAHjXn3UGbakCd++zKXhrsh2uswUNAPrTbf/nsX/x7nxe7IzBmKCm1sBXSUgPC/gTyJyrdXn5WrGPjrFv8nC7NbMZKezImOoRhBOv39PkmVmTIG0ylLDqWtambXNQ8RWrLgE8tclq/p8iZpMI/rSi/uWjnN3bskmLpBiQn8UTfmq0ZL45G/hMgc4ZoLQP4nTfulp2XE5V9e2w4P4nN1+mefrQbdQuNZdfhMsfVz9b68V2lXe70XuiMbMpmX8NSE0AilvPjLhHjgElr+YWl9b7R/qRBtSX/WiRk3qZHVRh7386Lq/a+/mrTP3+SGYORVH3tPvwLsKS05PwEYexolfBptto6A==;fpHVaK8x4loJW36Ts+NtiA=="
 ---
 

@@ -24,65 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "New app helps prevent skin cancer using AI and ML"
-    excerpt: "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily."
-    publishedDateTime: 2021-04-05T21:48:00Z
-    webUrl: "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/"
+  - title: "Regulating AI without stifling innovation"
+    excerpt: "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology."
+    publishedDateTime: 2021-04-06T10:54:00Z
+    webUrl: "https://www.techradar.com/news/regulating-ai-without-stifling-innovation"
+    ampWebUrl: "https://www.techradar.com/amp/news/regulating-ai-without-stifling-innovation"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg"
+        width: 480
+        height: 320
         isCached: true
-  - title: "Can AI Apps Help Your Golf Swing?"
-    excerpt: "If you’re on a budget, the new AI golf apps do their best to replicate this process. Take 18Birdies AI Coach, the first such app I sampled last spring, shortly after its debut. After downloading the app to your smartphone free of charge, you record a ..."
-    publishedDateTime: 2021-04-09T16:01:00Z
-    webUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386"
-    ampWebUrl: "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
+  - title: "How Artificial Intelligence is Being Used to Streamline Training"
+    excerpt: "DeepHow AI's digital workforce training platform makes developing and distributing multimedia educational content more efficient."
+    publishedDateTime: 2021-04-09T19:21:00Z
+    webUrl: "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: Automation World
+      domain: automationworld.com
+    quality: 52
     images:
-      - url: "https://images.wsj.net/im-322439/social"
-        width: 1280
-        height: 640
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/GettyImages_1225807222__.6070a8c78e61e.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "New app uses AI and ML to monitor changes in skin to prevent cancer"
-    excerpt: "Salesforce's approach for positive AI and product development 23:03 Contract work policy Hiring Kit: Network Architect Data encryption policy How to monitor system resources on Linux"
-    publishedDateTime: 2021-04-05T21:55:00Z
-    webUrl: "https://www.techrepublic.com/videos/new-app-uses-ai-and-ml-to-monitor-changes-in-skin-to-prevent-cancer/"
+  - title: "All about Artificial Intelligence"
+    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
+    publishedDateTime: 2021-04-09T07:13:00Z
+    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/770x578/a6310681758a5694cf58c34a85f74f2c/20210405-miiskin-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Building a Bridge Between AI and Law"
-    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
-    publishedDateTime: 2021-04-08T23:26:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
+      name: Malawi Nyasa Times
+      domain: nyasatimes.com
     quality: 39
     images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
+        width: 810
+        height: 456
+        isCached: true
+  - title: "Building a Better Berry with Artificial Intelligence"
+    excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
+    publishedDateTime: 2021-04-09T13:35:00Z
+    webUrl: "https://news.wjct.org/post/building-better-berry-artificial-intelligence"
+    type: article
+    provider:
+      name: WJCT
+      domain: wjct.org
+    quality: 37
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "c+jJWO+l0C0V8W/7ZWnEN6iKNisuDcyiQgtI5xQiuSoThYtJDHD7O/ACYmJ74Z0raXUA0oG+X4m4qvSyHGmHr392iDHZoL1YpAxVt3SP4Lf5COP663uNkIhOecm3GuRdv30+G/Br3Nc/7mMm2QjvOl5OMn92oYJcwoB3d9wFA1uDexYe7Slcg+YQZa/5VJ/vhehf4URc0tT5ch5Zl3aQZMLJQidxont8Yfkm0Uoe1UAxIroP4odEpOPSHxfTfhPTIMQApnUjRursfDBaFkIuacmDmjtnhyps7d/hm118YRvJhLUvr2wFM68mREQixeEKaRxuRXWix4BMev/UybOld22FqDOcH7adrLGTY+asxy4=;/FJV3e2QWLpzzpPp7IAhBw=="

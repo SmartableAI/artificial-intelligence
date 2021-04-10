@@ -69,6 +69,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Creating better strawberries using Artificial Intelligence"
+    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "USS+7RR0IL4/vlxI/muJ1SpzB+kHuzVQTRw6rpHARnv/+Mmjua4gJuvrNPvUONQByFXd9F8wtGuX1emkSMnIICywGd0sp2r1x0uWjP5bIBCrbiKyYtJkJardW2OKVn7KlUokKYngjuEjyherJGe+enyyCGuA1THWDRFTmLMAUvdqI02wBXSP3iy6rE0jXqtqVDVOfmZ0sb9nG32MHoCtZWf0misw030UMsw2wMsLSTvlLZqi0XAggSuxZShk4qNPpRxi/R0tH4HOcKOtFLHJyDcFPZhB1gROsAn6rzU+teVHmhIi49JDkM4XoS98s59xIimmA+crXa5UySkz+UJEFGXHpmCMlKlAWW8rpi5hads1nO8bVHSYaABfqqF84aYwoSJaVX7LdjU+QLvmsN5Xst4I9STqS5K5lWCN7JN8A5KJzBczaFSb/FF97KJcoi2fr/8PvNy73ob7RSGxXtXt2AvddyO4x7OgidlVbuEiynges1f0ekgDt+X50/1I2LCUg8sv9RS78CwuO1xZIHYIVg==;Qik+fDUCrJPYXrdREYP4Vg=="
 ---

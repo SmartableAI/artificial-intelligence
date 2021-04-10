@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
-    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
-    publishedDateTime: 2021-04-05T22:31:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "/sYl3EWtN9LSU6Oc5qdqZ3R5X5TiMcywVr+PkRotQHmtssoOvyGWA6fxvFgvduCRD3zU/lcEcLhDtZsyvB7r+eStA25PlA/oqysh6o0Mwbi+BH32aLlO7MexP6bm0O9jT90H6H3/XzPIhOW4HPu9LPvNU+78RpmYoEJk6h1DVirVl9nzFUqR0r3froa9+8cRj2Zl29zvR48dkiluxaM9m0ZjcX1KZmFnXUylbTOnDRYov8qJX2BO0xF6wLvRTwevhheDeNBKlvE2s2geM51/tWbiy2+R5XQMEm4GIIECYwo0/9PMELZuX4i7WbpsTYX6Nl2OWP5dLCbv/1TQTe/5B3XY9jnJq31yQe5QCASoe5M=;wXYpq6S25riTLhUW6uX8dQ=="
 ---

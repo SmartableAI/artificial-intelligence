@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencie
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai"
 type: article
 quality: 67
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal Financial Agencies Seek Comments on Use of Artificial Intelligence"
-    excerpt: "Artificial intelligence continues to remain a focus in 2021, as we predicted at the start of the year. From the FTC, to the EU, to others, regulators of all kinds are paying attention to companies’ use of these tools. In the latest, five US federal ..."
-    publishedDateTime: 2021-04-05T22:31:00Z
-    webUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/federal-financial-agencies-seek-comments-use-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "US spy agencies warn of 'unstable world' due to bitcoin, artificial intelligence"
     excerpt: "The U.S. spy agencies predicts an increasingly leaderless and unstable world in the coming decades as trends such as artificial intelligence, digital currencies and climate change reshape the global arena, according to the National Intelligence Council."
     publishedDateTime: 2021-04-10T07:16:00Z

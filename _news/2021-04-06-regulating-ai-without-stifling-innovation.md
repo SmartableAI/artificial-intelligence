@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/regulating-ai-without-stifling-in
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Creating better strawberries using Artificial Intelligence"
+    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
+    publishedDateTime: 2021-04-09T12:56:00Z
+    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ez1o/fTSalqujHiX7MPlEuketmrisQRA9adQokIiyIxDJLRtrN7JSmnfF0QeDGMtlNyAavHQ7MTkFOR8NaVACPOnHwyTIShju10NzWfBQ36MYSNh8fVYBTMqX8YKEm/FcdkxlOq7fJGfKQJh4LTNt74Kk+EBswWJSfDnSlw5HNG4+26ooQyhTqUaBEqzZ+AxP/RFmtc5X4E4saK9Pf2Gs63kuDFE+hN9yvdlSaeraO2DujuPlhK1BLQV0S8pyvgDM6yr0dRDol8qS4+f1rynNuuQG5rGugkEJGcLqm2VZ7AAoD4efpSHPpMh/vdclk8mBGovTDIWo4A0Vqs2jenxC/Zk05sxKw17F45eU7YpF8KeSMu1UHfgliEMQtqvcf5N9uv+gW23d6Fbr6pE14gNsYSI/PkZMyVSquBoLNZmKROY1q/jXpRAk3xaE6M2gIEWR4++y5hcQCwMH42ry+zgqQ5FaqGMD/c3ZxKeg3lLRj2/6iJSzT5br9co9KpISGbVCspbmqCjkQR8646bUn6mdg==;p7IERa8Rg2L88OqrWkqSsA=="

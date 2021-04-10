@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
-publishedDateTime: 2021-04-08T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+publishedDateTime: 2021-04-08T13:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
 type: article
-quality: 38
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
-    width: 800
-    height: 286
-    isCached: true
 
 related:
   - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
@@ -85,6 +84,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-04-08T13:12:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210408sf36846/deepmap-named-to-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1483995/James_Wu_DeepMap.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
@@ -227,6 +240,6 @@ related:
         height: 384
         isCached: true
 
-secured: "x7S5K4M6yS6UCCarsdasQ3BjNT5N7tDxns38T/etyQus5Li3xvj+L3eLDb1WVfn34j5RlNPmkJ23Hwj3G+9aKM0+ZK9z769mHLmu4ihaJjWhYnARnxJ1/Ga49rIzrNncu6cswN0sIwrZKUoqdjZf0QiTu14DE5gBqoFeWnvOErUckDzmQpR0hnIPYaY4fbHFEuL/p/ZLVBXILjF8f67tANTDzgD2KuDQZ/a02wAxmxo+3h5VY1SqtL3NmPH1XF6pPQg1YYVfG3/OUdDLwDg0RkqA6g+MXlYrGEj28GT4jWVmH+hEzZG+rH+Igc0tUPYRy3ZHIJvki/wl7oCQa6F5ZsB2k02gLk0wkgsWvdy1nSk=;DSknZQ+0HjQSWK5JJ8epAw=="
+secured: "YvATa4mXfAxrJ+Ct/wrPCeVs4Q/6YMl2ihoy37GJ3ecoGXWHziwuqTV/7A8+5r/mUx7MVo2rPQXpDmzWFpV9w7om7ekqXMBz7HxdZJGus+B6cvksOIVsO1JqlS98kPVMFnnWyj77ALN7JaBynaF8dX4YgP0oc5zDi4i6Phha0Tx1hieJ07GlppjIBv1E4DG9fIcUnmct64yW6xdrD2zWw9GsdslA2tjd2GWbzePcugXcSvquRmbn3pIBJRbnESWfbfUd/n3yNrHPjl3jY8NppPbPPyGzMwRnGRoq+okJSU2/p9ejcnG1xVE2r5D4p7mlMkSqk/GkhmcR2A6cu0j9vMKzvKdGMwj/9vOlA9DXYwFiaqtDauTdUO83oRIKaDHl3FM7mr4FpeNVn9LDkbHhZ/dkKKbftaYRR4p5cWVEyC22/h1EQLDZBvcxjum0mgUxQRrGmaXjE3lXGRGbBCtNTn5/PhXEABjeUetqoiRsWFob05bjXZ3Q7QY0YnKEWSHhLhRCCp9JNDS/2YObwXbf4Q==;rH0LtX+L2UnRWkNyfNvkrA=="
 ---
 

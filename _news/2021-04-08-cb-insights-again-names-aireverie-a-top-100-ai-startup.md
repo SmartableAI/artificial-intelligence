@@ -61,6 +61,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2021-04-08T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Healthcare tops 100 most innovative AI companies: 8 digital health startups on the list"
     excerpt: "Healthcare secured the spot as the most-represented industry among a grouping of the 100 most promising artificial intelligence startups in the world, according to a new CB Insights report. Since 2010, the 100 companies on the publication's \"AI 100 2021 ..."
     publishedDateTime: 2021-04-07T21:50:00Z
@@ -74,6 +83,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-04-08T13:12:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210408sf36846/deepmap-named-to-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1483995/James_Wu_DeepMap.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
@@ -144,20 +167,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
-    publishedDateTime: 2021-04-08T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
-        width: 800
-        height: 286
         isCached: true
   - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"

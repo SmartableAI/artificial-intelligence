@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"

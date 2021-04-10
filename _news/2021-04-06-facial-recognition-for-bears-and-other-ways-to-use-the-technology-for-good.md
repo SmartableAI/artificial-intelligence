@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Army Seeks Facial Recognition Technology for Bases"
-    excerpt: "There have been violent incidents on U.S. military bases, including the Fort Hood shooting in 2009 and the Pensacola Navy base shooting in 2019. Face recognition technology could help government officials react quickly to major crimes."
-    publishedDateTime: 2021-04-05T21:03:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/us-army-seeks-facial-recognition-technology-bases-182041"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/U.S.%20Army%20Bang.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
     publishedDateTime: 2021-04-09T11:00:00Z

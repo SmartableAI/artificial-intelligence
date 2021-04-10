@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-
 ampWebUrl: "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/"
 type: article
-quality: 91
-heat: 93
+quality: 93
+heat: 95
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?fit=800%2C600&strip=all"

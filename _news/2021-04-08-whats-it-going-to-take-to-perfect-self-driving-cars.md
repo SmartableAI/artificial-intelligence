@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
         width: 1360
         height: 765
+        isCached: true
+  - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
+    excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
+    publishedDateTime: 2021-04-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963"
+        width: 1200
+        height: 833
         isCached: true
   - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
     excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."

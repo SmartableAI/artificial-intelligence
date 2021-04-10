@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - IBM AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -24,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "d6WmPuQlE91gzvvP3f2bEe8Q1pdoyb7Gwl7sl3E1gff5V13MEZL51ZAVwrzAoNRdVoyY/0Pzj5Y1E86Jj7eH4PKL8sbGt2sEyRa2g4zPScOjjoXSmx2OJg0n+NvJqBIJNOQlyNBSp84c5862v4wKoATfL/lXKEHbTo/wPRe5jaRZLQPVS8pfAiIhtaN0Ja8aCA/bVdgrq3jOCn3fQtAvAPhJ/1RuT9Y69vlZFC6CV4AgW2FBit42IjHnaVt1RcijAgZBi53dBc+Gg5JVJiflDjGw+KUyvpuF7RMvlJllM1YSJxpPJDKwaa0lEiFL11H1n5AOPU1q0ORMOCVi4IVKNyfzP593PwkJtcqhn5ys1Qk=;aDhmSrUDjy1KhEtqWgDeqg=="
+secured: "saN9mzcARJbf8Y2sDumT0ZVf9lhSRnU4hsYlIhox8TZjxL60E5rjPmTQ1/QBZp9SM2zXBXqdH6YeVFjI0qzI+E26jQ1txsWbr8O+AZDbXdPp+D/oT+/UM6+br/jgWzbOw15Gf0X/dxpN3M6BO4o+KW16vpxSr2Oc15RyzRfmu4s9qqP8ygj6chDwY+rXJk/WvFE1K+EYlxuFrLe1O/24o8GWZu2NcHbpv0NF8026wnDcDRAktIGzKciXe7640LhS95LcjiTesAUj5GmlEVBYBaVOB4LK1DU/uRk8Kb69VUehNLmQ6qHj3QuU7p88xxl4oMWQw/wtyXTsq/ame6kClIyG/T/509MjsscL239Sf/w=;zOleoCBjvxusHv7dhCVdUw=="
 ---
 

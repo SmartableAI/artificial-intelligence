@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.mktw.net/im-320890/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 billion"
-    excerpt: "Founded in 1996, AutoStore has 20,000 robots deployed across 35 countries and counts ... took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its customers - Walmart ..."
-    publishedDateTime: 2021-04-05T21:30:00Z
-    webUrl: "https://www.reuters.com/article/us-softbank-group-autostore-idUSKBN2BS1YC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BS1YC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BS1YC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210405&t=2&i=1557385397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH340ZW"
-        width: 785
-        height: 545
         isCached: true
   - title: "Softbank to buy $2.8 billion stake in Norway robotics firm"
     excerpt: "which has spent heavily on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. Japanese investment giant SoftBank Group will buy a 40% stake in Norwegian robotics company AutoStore in a ..."

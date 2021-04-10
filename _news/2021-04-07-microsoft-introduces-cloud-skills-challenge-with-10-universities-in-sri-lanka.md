@@ -97,6 +97,17 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
+    excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
+    publishedDateTime: 2021-04-10T10:58:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm"
+    ampWebUrl: "https://futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
     publishedDateTime: 2021-04-08T10:26:00Z

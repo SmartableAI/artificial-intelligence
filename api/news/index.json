@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-10-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
+      "title": "Black women, AI, and overcoming historical patterns of abuse",
+      "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
+      "originalUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
+      "publishedDateTime": "2021-04-10T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-global-deep-learning-market-size-share-value-and-competitive-landscape-2024.md",
       "title": "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024",
       "excerpt": "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis",
@@ -51,6 +102,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare.md",
+      "title": "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare",
+      "excerpt": "This technology could reduce that to weeks if not days. It won't be the first time the two institutions have partnered on AI. They previously worked together using IBM's Watson to assist physicians and help guide care across a patient's entire journey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
+      "publishedDateTime": "2021-04-10T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -156,7 +260,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -259,7 +363,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -300,7 +404,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Google AI"
       ]
     },
     {
@@ -639,6 +744,57 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-can-ai-apps-help-your-golf-swing.md",
+      "title": "Can AI Apps Help Your Golf Swing?",
+      "excerpt": "If you’re on a budget, the new AI golf apps do their best to replicate this process. Take 18Birdies AI Coach, the first such app I sampled last spring, shortly after its debut. After downloading the app to your smartphone free of charge, you record a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "originalUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-322439/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "publishedDateTime": "2021-04-09T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -995,7 +1151,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1086,145 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
-      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/08/5-Video.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T16:53:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-workshop-on-robotics-for-kids-teens-from-monday.md",
-      "title": "Workshop on robotics for kids & teens from Monday",
-      "excerpt": "“Technology is constantly changing the way we do things today. Artificial intelligence, machine learning and robotics are crucial. Most schools worldwide have already included robotics in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "publishedDateTime": "2021-04-08T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains.md",
-      "title": "Redefining the business of healthcare with digital health startup ideas- Eric Dalius explains",
-      "excerpt": "The top picks There is a massive rise in the demand for digital healthcare and companies that integrate Artificial Intelligence. Brick-and-mortar concerns are bolstering the products, helping the companies manage their patients during the Covid-19 scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/",
-      "originalUrl": "https://techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/04/medical.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/redefining-the-business-of-healthcare-with-digital-health-startup-ideas-eric-dalius-explains/amp/",
-      "publishedDateTime": "2021-04-08T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
