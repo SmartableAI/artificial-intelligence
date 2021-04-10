@@ -40,6 +40,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "AI helps recreate painting hidden under a Picasso masterpiece"
+    excerpt: "Oxia Palus used computer vision and 3D printing to reinterpret an artwork that X-ray imaging found under a Picasso painting."
+    publishedDateTime: 2021-04-10T14:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FUntitled-design-2021-04-08T165459.602-1.png&signature=86422d78072c7683c22b49b28ca53b8d"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "7rjNm8/LiLZjisdu88O6AO/kCzeJ5YaTk/3zLH8QkzW95qfLkepCLG9tLh6S7N3GbDD8da3w/Nb++FQcmqjOcwILFqdfQsflu8Z9+nB3vkf4VdZcpHalqPwMgPgJ9qf676bMfrM0/OEdHv4WypOIg+Pmst+CyAmwErVx2v/NYzcnS5YcJQDOTg1VTcxDD1xMrRS3+Yu34gDIZzblTyfu8HiO/JifZzz8C6ZBireTzvpU27oCi5m2naMz1Crv3CW74lnQ8R233eE6LZhs3AK2pZNxDR+Gyy8746cKb6OiK56y5hqYWdZ30+CNv6ughjddENteeM7zqB5L/EhrSK4iaoxqoSyZWr7+YHvOLiyYyXE=;mAKp4kEb70RksPRZcNlWng=="
 ---

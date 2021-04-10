@@ -169,6 +169,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Chipsets Market 2020 Remarking Enormous Growth with Recent Trends & Demand"
+    excerpt: "Amazon Web Services (AWS), and XMOS Limited among others. Request Free Sample Report of Artificial Intelligence (AI) Chipsets Market Report @ https://www.zionmarketresearch.com/sample/artificial-intelligence-chipsets-market According To The Report ..."
+    publishedDateTime: 2021-04-08T09:20:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-ai-chipsets-market-2020-remarking-enormous-growth-with-recent-trends-demand/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 14
   - title: "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com"
     excerpt: "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,"
     publishedDateTime: 2021-04-06T07:24:00Z

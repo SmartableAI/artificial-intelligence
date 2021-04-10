@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fi
 webUrl: "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/04/08/1600x900/Ziploan_HT_1617871219657_1617871224708.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
-    excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
-    publishedDateTime: 2021-04-06T01:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat-600x442.jpeg"
-        width: 600
-        height: 442
         isCached: true
 
 secured: "AOTocSILuuw3E5gA7vF1/x5mHgxMmV6/ioCpQ/2Pi1KALDhSH6wHi0kANH07BuFGVRGV2l1ZFonKwlDkpSc+jMmwMXbA2t5fKAozSBvC+TlKMBC6e7CYg28QHmeRYS+NwTmoan3C645vrXcA4/1cKYM2agnk3sWe86NDvnu1z89xxRz5jlwyxtvdG8Brq3GcGAJWRm/mLjiB0NVUKZy4Q1zQqj0UFQpRLlSo2T2CK8XEG+g4j+rRImXMHT7zvDfM+UYRTF6WYiBHhbhjVgVAsu9qD9JU1+IoRyup6nxq9EurrLNckPBTkM/ESu2E//l7WdK87EULl+cg+13Iyy2PVV4Q0LoDqT2i2nGk1JizjyEC29WbeeWvyfHGPf9QKsDtzlqN/27zJqfNuNGlQKjS5Wi6DcxggpkQAVFADStHJYWxc9tXdlJM1gKZFxFKYMhF97MB9LgZKhuv1p7gBqdhAw3jFJqvAAtrAWctXE2elrKHiOj7ue/hANvs/0iZ1b24uRN9CQaaw6BItJgdMuebIw==;cuq8ll6K2DHi6P36K/BoxQ=="

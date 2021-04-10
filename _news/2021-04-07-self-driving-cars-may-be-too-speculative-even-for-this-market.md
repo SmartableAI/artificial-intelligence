@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-specul
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
+    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
+    publishedDateTime: 2021-04-10T18:01:00Z
+    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 36
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "nPWD0T2CfCX06PI7i0yAijmlrsVsFyldl/N/6KHH2kKibdIE8X9TMpchm0lLoGHCXYmbewCqnSzzuAvqzso1yiN8iJKQeY84HfFXBMB2nb55fspYHMK1mjNcHAoQFobuMUetneiAvJObn9tE0BFir1weT/qRUGKuAOvRTdBn0iLoTYurEaj96sxqn6JjjJ882I31EQWx1cUs8NOnmFmDy8QYI5ohUOpottpsMFmMpOctwSXn+MKIoMfSlACzEFGcdgT6cASPmHNloKzMfkUFtyj02NMHS/kc8QiK2cQgUA+Et049mNmZRJragjBnnergkeIb58NM8DadX+QcJmDZbFrpjblqgf+TbJIFibfGf8gxLEJMlA4PJYezy4YpePIg63Eb1maGqLmcNOIoaUOKSTFqw/4Z8uMEq8llzTUEiv3Fm/crUMoeDjqO3jhCzaF+IYL6Yyz2cMzDlH6q9v7nqJoYcH/RDiXUpsWlEvjUBwO6NinOxoCGuRjFBl9nFsJXHwACu8crffTmwGUY9A4JsA==;7MuMpvywJeLLjMUGnY+hOg=="

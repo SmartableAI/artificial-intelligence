@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685"
         width: 1200
         height: 1031
-        isCached: true
-  - title: "Apple chief Tim Cook talks of self-driving cars"
-    excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the ..."
-    publishedDateTime: 2021-04-06T01:35:00Z
-    webUrl: "https://english.alarabiya.net/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
-    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/04/06/Apple-chief-Tim-Cook-talks-of-self-driving-cars"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 44
-    images:
-      - url: "https://vid.alarabiya.net/images/2017/01/07/1b532b13-8f32-4e80-a3ff-fd05155922f4/1b532b13-8f32-4e80-a3ff-fd05155922f4_16x9_600x338.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "Self-driving cars ideal match for Apple: Tim Cook"
     excerpt: "Apple chief Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released Monday by the New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been among rumors swirling around the ..."

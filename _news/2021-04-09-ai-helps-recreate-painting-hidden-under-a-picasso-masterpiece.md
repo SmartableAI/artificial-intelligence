@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI helps recreate painting hidden under a Picasso masterpiece"
+    excerpt: "Oxia Palus used computer vision and 3D printing to reinterpret an artwork that X-ray imaging found under a Picasso painting."
+    publishedDateTime: 2021-04-10T14:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FUntitled-design-2021-04-08T165459.602-1.png&signature=86422d78072c7683c22b49b28ca53b8d"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI Enables First Hidden Masterpiece on Canvas -- Long Lost Behind a Pablo Picasso"
     excerpt: "\"As we use more AI to accelerate the identification and reconstruction of ... Oxia Palus is an artificial intelligence startup resurrecting the world's lost art. Oxia Palus has one of the most unusual approaches to artistic creation, using technologically ..."
     publishedDateTime: 2021-04-08T13:18:00Z

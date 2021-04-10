@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Fintech focused Graduate Level Programs will be Offered by National University of Singapore"
-    excerpt: "The Ph.D. program at the University is notably the country’s first and only doctoral program focused mainly on Fintech-related subject matter ... more operational processes are being automated by AI, and decision making is assisted by sophisticated ..."
-    publishedDateTime: 2021-04-06T01:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/173896-fintech-focused-graduate-level-programs-will-be-offered-by-national-university-of-singapore/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat-600x442.jpeg"
-        width: 600
-        height: 442
-        isCached: true
 
 secured: "KDFYwvIL2dlp5MqjxRgubTXCZHx2fPa64aR4J3S6lFC+oV7JIhOpZ5ybYOjt48XakI3ih/jvQ8xJzrEIKgNB87TOFUSKqK6FaVQdTDtiv7Z7s3EZ9LELrQ5+MIjAzk2ZKI2iWeLnyKA9ivrdrpY01K5IDi0tPNQzbAZNRzu/x40GFYCKKq0ySSR7hlEe7CDfdetHlRO+Lvs9XAAX0IeEeeOz9mJqXg5wX43XoVDwnPEOswBXOXSi2dFqBJgmhlw8SyWQtkyihAI3YVT9oX9ThtbFCyly7AmAaaq2pSE2EpysCuqIVlcn6R14APFzMOwV6jHjocQJjOZUM9J42n+YxvBs9rVS4Ag+OsM1XrGvJepEYOoFsN8LLxyEYV4gNBNpe2wyneI6/rQiNweN4E4LBEoADl7rD2ttVV5qweQckHazneeUwGAG3FNXYCpmIjshqWs8Q/Maq3mMV3reBXYZSlGIamINe2922IA3ISZjJY5G5GrFEFPaYMUKvPU9PSjZvWxAkONoH7/827C0HsOG4A==;jZtq32qQGf4UysUmAbGLQA=="
 ---

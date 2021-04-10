@@ -8,8 +8,8 @@ webUrl: "https://www.digitaltrends.com/features/gpt-3-ai-revolution/"
 ampWebUrl: "https://www.digitaltrends.com/features/gpt-3-ai-revolution/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/gpt-3-ai-revolution/?amp"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 secured: "3NynRdhgM5rOyk2A++PXx/eUYX8HGXizc6HTxzSlWfq43tEtoRnDzzvbP2e4FSBgjz8RFmCoQaxjsV1e5CgR4DRD8SMICkPnzg87gr6tKwgzz/3I3mmLXT1mPMwooeH/odYA5duZLfjyzY6L3En8o9O+SjxTbBt5zsVfJZvrRnhgGzSLtPUKA/NP0oOKFUc8lmxgmo/WtlMjNuWCwpJqCXH0U64hIfPD4mVmsx1LEkFi6o4o9ampZIIclCZWRwHpfw0Uv+38MtERqVegVZzGJtQ4DFjwfvSMa7m6Qy/HqhdSEV/XlzNhg8ly7APQfct6jBqchy2DtC05mZDSn4M+N4Y1HDNFfT1l+FL6EPg6s2Dga6mIQ7YGweM+gHp9QFw6P2qSFsf5XTgcAjXY3Hi6cg9dVM9Q1ezh2tnFAdeal5xOrtGrkKqy56Da5dbftxweYhBuk8rFRvONYGOostrYtURlSW5tsUVQLJkkVuaXudhCElWhWS0K4houn+RGUkMb4BXDQkQz+QgCnwCK65R6lg==;cT+aY/rtxyh40m30Up6Nfg=="
 ---

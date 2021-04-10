@@ -158,7 +158,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -348,7 +348,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -537,17 +537,17 @@
     {
       "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
       "title": "SKorea’s LG to exit loss-making mobile phone business",
-      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ... his departure as CEO of Waymo, a company spun out ...",
+      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "originalUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
+      "webUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
+      "originalUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
+          "url": "https://pix11.com/wp-content/uploads/sites/25/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
           "width": 1280,
           "height": 764,
           "title": null,
@@ -557,13 +557,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "publishedDateTime": "2021-04-05T00:14:00-07:00",
+      "ampWebUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
+      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
+      "publishedDateTime": "2021-04-05T02:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
+        "name": "WPIX",
+        "domain": "pix11.com",
         "images": null,
         "publishers": null,
         "authors": null
