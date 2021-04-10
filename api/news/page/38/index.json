@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-03-10-eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.md",
+      "title": "Eset: utenti non sanno come vengono utilizzati i dati dalle App FinTech",
+      "excerpt": "Agli intervistati è stata posta una serie di domande sui temi della FinTech e della cybersecurity ... della sicurezza rivelano che molte persone potrebbero essere vulnerabili ai rischi informatici ed è nostro compito garantire che le informazioni ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitcity.it/news/38493/eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.html",
+      "originalUrl": "https://www.bitcity.it/news/38493/eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitcity.it/immagini/2021/03/online-banking-3559760-960-720-1.jpg",
+          "width": 700,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bitcity.it/amp.php?elemento=38493",
+      "cdnAmpWebUrl": "https://www-bitcity-it.cdn.ampproject.org/c/s/www.bitcity.it/amp.php?elemento=38493",
+      "publishedDateTime": "2021-03-10T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitCity",
+        "domain": "bitcity.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade.md",
       "title": "Gartner: AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade",
       "excerpt": "A new Gartner report predicts that AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade. \"Successful investors are purported to have a good 'gut feel'—the ability to make sound financial decisions from mostly qualitative ...",
@@ -1108,40 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-eset-rivela-che-il-42-dei-consumatori-usa-app-fintech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
-      "title": "ESET rivela che il 42% dei consumatori usa App FinTech gratuite, ma il 50% non sa che uso viene fatto dei dati personali",
-      "excerpt": "ESET ha analizzato il tema della sicurezza dei dati nel segmento consumer nell’ambito della propria ricerca globale sul settore FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "originalUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "publishedDateTime": "2021-03-09T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "informazione.it",
-        "domain": "informazione.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

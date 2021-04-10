@@ -140,7 +140,7 @@
       "originalUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -888,49 +888,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-how-ai-can-make-weather-forecasting-less-cloudy.md",
-      "title": "How AI can make weather forecasting less cloudy",
-      "excerpt": "AI will work to strengthen existing weather forecasting methods by improving efficiency and making more timely weather predictions, as well as enhancing location accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy",
-      "originalUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/53974995-e9ff-4a62-b3c9-b499faebb96c/5e042306-dd4c-432a-82e0-57aafb77c839/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/artificial-intelligence-weather-forecasting-speed-accuracy.amp",
-      "publishedDateTime": "2021-04-05T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
       "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
@@ -1398,6 +1355,40 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-global-sanitization-robots-market-is-expected-to-grow-at-a-cagr-of-34-from-2020-to-2028.md",
+      "title": "Global Sanitization Robots Market is expected to grow at a CAGR of 34% from 2020 to 2028",
+      "excerpt": "Introduction of advanced autonomous robots powered by cutting-edge technologies such 3D mapping, artificial intelligence and others are anticipated to boost the growth of global sanitization robots market in future years.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/04/05/muscle-relaxants-market-to-register-stunning-growth-players-vertical-pharmaceuticals-johnson-johnson-par-sterile-products-endo-pharmaceuticals/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -49,7 +49,7 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://s3.cointelegraph.com/uploads/2021-04/5d276ecc-6e0e-41f5-a169-d53c7cee4e6f.png"
         width: 1588

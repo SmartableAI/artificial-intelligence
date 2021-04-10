@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp"
 type: article
 quality: 97
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
+    excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
+    publishedDateTime: 2021-04-10T01:59:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/politics/2021/04/09/ny-agencies-utilize-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 17
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/buzzfeed"
+        width: 482
+        height: 269
+        isCached: true
 
 secured: "8drd/G0vGjdh/+G02DsTXcF0Yj1Ijh2U/Q5g23vaXVZ3h6pOJYS7nsV1BTragZHgpcY57ejtI/iq7isINpOSYRAh8Nbtt22v1injf0p/+r97xlP5CkEIlz6NMw89+Kub0zGBeQ9BCTWIPVFKL9e0DFXa4yWucWu2+0Xstc+/+TUTJw9kZZ8BrDVYVKB6lJ2bW9U1NKl6YE7BAU+YFVvHKH8ES4OTFimk/nP6uHElqnTdYV+JZ/A7rgxkZdKA3g0bqSr+kapRgmJxQSdQ8zzS6qoQZgorn5Lrf9i2N4kFdS1WpteMe/yH0+Enx9AbEtxueP+3QFrkwO4uMOiOG7zjIXcQko4JFyFbpTfUYCT1h3GZnjdYxKGg9wm1K5CVrkVRZpgvBewqykD18/vnV1zAHA8xzGznxjSkE5Edl5TBQoua67y3EyB4EBsOg/noef53ozftAjjBS33ohB6y2mHGNeqmOcgQvTkxrTGBgGaHMLTFOv2WVcoswIilCSS0MqDkj5GMJTIfbIMWpHd4g7tY+g==;PWOCAB9qqDQcwvG4a7aPBw=="
 ---

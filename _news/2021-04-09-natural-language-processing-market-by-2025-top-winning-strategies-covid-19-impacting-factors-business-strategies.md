@@ -45,15 +45,17 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-06T08:07:00Z
-    webUrl: "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/"
+  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
+    publishedDateTime: 2021-04-07T09:55:00Z
+    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 5
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
     excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
     publishedDateTime: 2021-04-08T11:07:00Z

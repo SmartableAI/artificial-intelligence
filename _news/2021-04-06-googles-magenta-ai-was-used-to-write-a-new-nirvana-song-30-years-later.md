@@ -70,6 +70,22 @@ related:
         width: 1548
         height: 1024
         isCached: true
+  - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
+    excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
+    publishedDateTime: 2021-04-07T23:06:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/07/23/41470126-0-image-a-37_1617834438114.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "Z63P1FTlNwLXr6vYMf6ZgP7NG12dyP5tUGsjPsji+mshO3Idhy5w/1vY3WoZiqjT/z/+2SbG1SfPAQ8t2kiCybmX+VeDcUxPfWZ0vL+0Zg8OFUWZlHbhuLOhvru4OsVVEYpYHhodCNAIklQX8o/Zm0qe6yiJKa25B6E/mD1IEw687k8HXkR90B/iE3wdQAuB6gUykAIDd7/fQo0lMTuR4ulUcZ3Bmj+kAYFerqvvXz/3/xMe1kD4eHphGPgjEHdXDZreMqa8V14IjSN5jh+qCwQlx4dazZy6lbriOq08dyUFxPcdFnQQ/aI34ujXKzBp0G59FlJKSBihEhc0nTgwfDaAbqiapql9sNEbTSwtE/AHrNvYUtGMH2LzYqKhhEYvXhyrj+QLc/ok1benDXpN2AQ4XbZayNQ7NMR4oK0/RjYOqCYOeklZ1DLIzoblQkp7SPzEI5cdNXW8DCnmS5dsMiflxSkSQpL9+t7myJVLcF91JAtxfXd4x7B/BMnFCrRi4JUwXzs1pqQD2635agl6Yg==;FO3HSCiRu4pZz7Nb/DzDHA=="
 ---

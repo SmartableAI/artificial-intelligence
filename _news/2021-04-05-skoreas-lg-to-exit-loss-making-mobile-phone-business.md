@@ -8,9 +8,6 @@ webUrl: "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-p
 ampWebUrl: "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/"
 cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: WPIX
@@ -26,6 +23,6 @@ images:
     height: 764
     isCached: true
 
-secured: "eO8fCoVGg1hO+noQJFKJS/iY7Jts0q+9j/VOw063dIDFA0r6O4vwH1LhPyb12pBKaWU1rIFYKO0MNbNJES1rljED36a/12AsitL7Cf/iGnb52qwol237vP7IoQxl49MpV7r+t25YRj/5qNErDie4pcJuZTlTx+Rsvg2pFihqrJ5iZCYmNeQo2KGY5eXLXXYpxpsP0K70PPphjGcyaDSvzgrRISm2wO/myjq7bTbP49vUMS2KUAPE2v/Y9yijDXg9epgBnB4rMF5rWSsO+Q7tn8aYlhHE2Xo208RQGxu7Q1y97neQ08atqbex9JCIu/9TbAJIyEYCOTUtDOwmjgY/0SNHcOimt8+3ShVC16LFhl0=;dxAwfakUkHclrqyV6j7K2w=="
+secured: "DcgXOu+jih59JlPZnwQjVb35sIIquRdXPKy5oySyl2WI9xAPObbrY5Fr9qgkYTELXAErIOxJ7+zaQf5FeMsN7xiXNA8NFBdWmETp8SIzB7WRHDnCWOM8S0PZa+6OTuEXrMub4on7kmpz50+YRH42GEplM456GzC4tXpdvWzsj9Cud5nCkoswD49Ds2TNL+y0s6ljwC7msFvTkCweNZeSRKKkKmZCvBSAhKgZusLJkASLkTh2wpzRX/EAnc5OYGUY2YwEUmrjdFFCjYLbmLeuju6eNOGizgNFRhCQIOJoOXfH/cDfvll2p1iMhgznLb6ePhCYH4zVeHGDiLIqKUBySHk7CpJqrKBefeuHCGmWRj0=;UdyefUpUe0dhiS8JcMZUhw=="
 ---
 

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028"
-    excerpt: "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ..."
-    publishedDateTime: 2021-04-05T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
     excerpt: "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ..."
     publishedDateTime: 2021-04-07T04:13:00Z
@@ -51,63 +37,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
-    excerpt: "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ..."
-    publishedDateTime: 2021-04-09T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09"
+  - title: "Global Agriculture Artificial Intelligence (AI) Industry Market Outlook, Industry Analysis and Prospect 2021-2027"
+    excerpt: "In this report a comprehensive analysis of current global Agriculture Artificial Intelligence (AI) market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years. http://www.marketwatch.com/story ..."
+    publishedDateTime: 2021-04-06T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-agriculture-artificial-intelligence-ai-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025"
-    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
-    publishedDateTime: 2021-04-05T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
-    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
-    publishedDateTime: 2021-04-07T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -127,17 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
-    publishedDateTime: 2021-04-07T09:55:00Z
-    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
   - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
     publishedDateTime: 2021-04-08T09:28:00Z
@@ -147,29 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
-    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-08T10:37:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -200,34 +110,24 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+  - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-06T08:07:00Z
+    webUrl: "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
-        isCached: true
-  - title: "Self-driving Vehicles Market Size 2021 Demand, Global Trend, News, Business Growth, Top Key Players Bosch, Continental AG, Delphi, Denso, Google, etc"
-    excerpt: "Global Self-driving Vehicles Market is growing at a High CAGR during the forecast period 2021-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several ..."
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/self-driving-vehicles-market-size-2021-demand-global-trend-news-business-growth-top-key-players-bosch-continental-ag-delphi-denso-google-etc/"
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 5
+  - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
+    publishedDateTime: 2021-04-07T10:03:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/computer-vision-market-future-prospects-growth-opportunities-and-outlook-2021-2027-shared-in-trending-report/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
-    images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/12.jpg"
-        width: 548
-        height: 308
-        isCached: true
 
 secured: "4tSWp8jCVuFBAiq1Sinc1p0v2wIeK/msraa2PjrPqsL2E/1YcZ+gCs9grcyvhELZ0bT7yBWTnsQ29LUZuhwfpex1F905S/nSEb0ezrdZx0TDrQyRSFpmYaeyr6QFG7aIUkKSeCdihUX+JgEaGbqGNFUAPasF/6CYhUZV7zs96RWXb59IsG8lmifgSXU3hSfGdLSiKghEgJPqlXAMEhYCeO8FzUrHCV0QFM6DH+m6DQ7ygLGeod7DOu18rE+HlrJemP92ynaCJGDz8ntQHpUe1/YlcpJ7C25kK+/QdybXblxAUpcukJnIjZCYUAIEYbPksT8UMGoKigb1UTVr2r6N1pZbqJAk4vh24a/MkpUDYAo=;9G+WEQWJh+p7Nmjrj8vukw=="
 ---

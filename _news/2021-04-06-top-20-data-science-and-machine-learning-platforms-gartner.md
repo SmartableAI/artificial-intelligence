@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
+excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
 type: article
 quality: 41
 heat: 41
@@ -15,7 +15,7 @@ provider:
   domain: crn.com
 
 topics:
-  - IBM AI
+  - Google AI
   - AI
   - Machine Learning
 
@@ -25,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "MDgBzOOZ1ubXH11RGhfI22a/VsGI6kkTWj+HMxT1ykjbT9tnjP6QNZov/o3YZS/ABqxTSPK6YSjNjhx76CJ7xWrC/Sq27ujnv3kcGk4l+Zr9l7ULnktq8uRdO5RKeHRfQAm8Dwd4ypHZrBiU1eNoF9MrumRDvmAmDqO1oQW3boBd0fhTBuMfwRG3whl687m3jF+kl9m/oFUUFYhlCOXnkt3TopNqP2JgzKmHyx7ePHKeIZZ47xGINlN8tVYxXJ56kVNWgkh4CTTrZNU1ylQcaGJeW2mUu6bHY/w5QjOD5ztfHv2yJ0MO0TkumfFAm4+KM/fONe8fhBkYP2XRhLXLMOXcmFkt76EuCwN45QN6Rzk=;EIihnyylzYO6GEKPID12rA=="
+secured: "RaS7LywsPIZipUs6L8+hJk4oeUngexxtwQERFR/Se9t2w53TES/3vaN8ZXz7JrKbpMnS/qqxftiY8i/Tm1QT/espiwgLwNnxGeDE58Etp+DA+ZPjRWulxbBNui0WciW7dSA0fp6v79O3oZcin3aFSdjtfnT/YPVMrSMo7uiNKiBO0F1l4onFn62tViIVPiD8fry/+pXM/EvksmB8tlq6lcP7k5s8ztfV30CCs/PWoLYSOeSAjE+ieWVGoRiw7cib1ICabe/ywpeus4DFnj3VO6zcjMgJqfKZa72/18iiFSCqb/3OM335FnutViqNo2Ao9HlpX7AgP8AFdsv2jbKdQdMAalYr1kLe7nNuLcwF9RI=;kVtrY799rbwtYFh9pqdS1Q=="
 ---
 

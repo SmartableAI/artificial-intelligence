@@ -52,15 +52,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
-    excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
-    publishedDateTime: 2021-04-05T10:48:00Z
-    webUrl: "https://emojify.info/menu"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 47
   - title: "Global Mobile Speech Recognition Software Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
     excerpt: "Under COVID-19 Outbreak, how the Mobile Speech Recognition Software Industry will develop is also analyzed in detail"
     publishedDateTime: 2021-04-08T11:53:00Z

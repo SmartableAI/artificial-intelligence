@@ -96,6 +96,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
+    excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
+    publishedDateTime: 2021-04-10T01:59:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/politics/2021/04/09/ny-agencies-utilize-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 17
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/buzzfeed"
+        width: 482
+        height: 269
+        isCached: true
 
 secured: "cXU3y7vvyfGBx6hDr1crjXhQyZfcqaV/4ItHLikg8JIFekitysiI+wo/N/Ale7I2W+4MX2SrK+FPQA/huEEdrvIROBRq4zAEFqTc7VQLim2C+FSWOS8vbJVWa11qjG45DL5LO+Uka+FwqkShjBmz0mkk+uur3Q0bSJle96VS451TutH/0WeVmDZG/vTN1acm5ww4l+bgcImLJNXLmQ4qxPi4T0ToXnelJ0/GfPuUr+XxL3pWssHvkpD/F+gXcHy2Nog+gYp0BUt+lFxZwPti7eXqhj0lMKzKuSSgvsrVo/xnSRikLZwUcXLcHBwBWi0Kbx6f4rv9UEmhW2Np9eZX057qUVR2xMHB9yQSQNq2P2U7c/FOX+jqV0IyaZTHwKUV74QRpa6pC7tvoElNrGmZWCBI+t3S0dgpAFVQXtcO5aUAOmiHvI3SNsoSIo+XqHWYzo6044BW9VbSf6cuqROg6XMJJ//Hx32UL2RXM/2if6XXEHOGK4/1dtwS668biscnM6wZ2mUd4Lvrd5T7IERJZQ==;+eSnaiKIHLpLFfvAga+iMg=="
 ---

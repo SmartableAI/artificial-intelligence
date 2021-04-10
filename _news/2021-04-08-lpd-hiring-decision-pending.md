@@ -3,8 +3,8 @@ category: news
 title: "LPD hiring decision pending"
 excerpt: "Four candidates — two men and two women — are finalists to be Lockport Police Department's newest police officer."
 publishedDateTime: 2021-04-07T21:20:00Z
-originalUrl: "https://www.lockportjournal.com/news/local_news/hiring-decision-pending/article_44725ab4-4eaa-5f06-9633-021a09b84548.html"
-webUrl: "https://www.lockportjournal.com/news/local_news/hiring-decision-pending/article_44725ab4-4eaa-5f06-9633-021a09b84548.html"
+originalUrl: "https://www.lockportjournal.com/news/local_news/lpd-hiring-decision-pending/article_44725ab4-4eaa-5f06-9633-021a09b84548.html"
+webUrl: "https://www.lockportjournal.com/news/local_news/lpd-hiring-decision-pending/article_44725ab4-4eaa-5f06-9633-021a09b84548.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 532
     isCached: true
 
-secured: "dNPbdGAqfRFqGtIzfmoMSf38E8dfQUQxc2foUqrmpobEfqy3/alMNDHFhcbXF/937lrxIGpI9UO/Q+cgy/Tn10Bxnx8S9/eTTc5LufuyQpNa12paK71h/CL3bI62FWq9+kSYVEjRX6HRbSJjDolfry6c3lztWbhhTc+q+DYjHyz8kdxNargOn/MVPV3D8iNNSyvBBavQFqWKrrdnEno/9Fji2gi7BoxfiePatf11yOwZc2m1A46bOuYcQtY8nxo8h7QboCcXvREbSu0+scB31u5fzBJdKs4bvZ2KW4Q68uuYA+sEhL1b/qiY974DdHgxPycTcnK+y9znwBZ0HOsxGpG5zXWcp0aYD4lWKR1W5RvdvB0gR/IiC1AdNEMZlCui+qJ5e2IxmOqY9eDqL1cbPA2ooGLUsNL+RHOmTTUWg1Wnvl9QcpCpp+tOUQRJifXAGIZTXZE2OamLos5KhYzuoiRbHpdk0a0kKrngCHcU2KwHlrGQwEH/B+JCOw891HH1IajgChlYxuMRO62MzXQy1g==;gMh/H8QxlxNOEEAm9c4xkA=="
+secured: "FvF4gQ0TlEumEQGgfEHxpp9YZ5gaFEa60fdJ1E5MBn9hQnplEShpcQVLhl79uJjezP2YMshD8cD7HQD2K7CzN1Y0RMg+fj2RSr12HISRD6K+B9Nrdg2QkBerKv/5mufO7s1Qi8/NjkZ40U7Tw6Ph9QVq2F+DYU1Bo2TP6rUMKn+FMl1ufTVGV/7kUKIU+Blauf5dmnJVm5twvppptaVOlLPueVr15U17f7psg8UeHpPIhgW6TNSuLBrojyR3W9QvHfFJ0reKHVdOPT5DmSrOr4ABGB7QFtF1YApqiIdncpwyrCQAewLIF7jPFTXEcunnOnsnn25zPr8f74q32NqJ9uj53p7k7jENtSxBsjCQbas=;FU410ZkNbvXAMJIx2Ic45A=="
 ---
 

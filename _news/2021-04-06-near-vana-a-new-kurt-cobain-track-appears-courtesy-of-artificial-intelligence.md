@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://static.billboard.com/files/2021/04/Kurt-Cobain-1993-billboard-1548-1617649217-compressed.jpg"
         width: 1548
         height: 1024
+        isCached: true
+  - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
+    excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
+    publishedDateTime: 2021-04-07T23:06:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/07/23/41470126-0-image-a-37_1617834438114.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "MgWa34jYRCWxLSiX7v1K0f1R6xqPBMMbKQ9Wcj5A33cuo9gcYdtpNpPpuEcf6ChKGTdhbe2WrqW+nimgrLq3t94uH9q51cVW7aaHbQ+3vU1yKloVelidALxYtrkFMQhbZ/0DioRv3UADBxWeAZsm9otGAV57gvNFuA5C4gxfljUUbMsLSXn/luu7CQP4O+4pm2kfEH92pAMm7Ou57gnQGm181pEr7iftSflK0ziBbnrSUCEzdUp782T85YvtTw7gdGC1vxE+/JSwvJd2pPjHKR4FR2Q9PqZJpqnwEUSSOiE0qOBeCaxTR+SEx2HwfZG8ydhK4Qs8EKhNmWHjTvdUXPB1Um4rlamV1oocLK7QIP1iQkq/vEfu33YE7adWw5e/2sH0PCkZOglSE/puotma6tvWFL4tzgJNg0ZFJLkpT528RfJVbZoQXo4dSRbHusHHiOG2XwRN+KnrkQ3W58TgGQWTW7bfWCWZPZ1PIZdfwkRwgWqAbqR8UhoTkc77pYPKbJaSEKQRVVyafzEU3TMMOA==;8taYPpqLhwLaeyHN91M4rA=="

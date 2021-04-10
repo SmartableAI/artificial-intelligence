@@ -70,15 +70,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Are you part of the 'Emojification resistance'? Scientists urge people to pull faces at their phone as part of a new game that exposes the risks of 'emotion recognition technology'"
-    excerpt: "The site, called Emojify, was built to draw attention to 'emotion recognition' systems and the downfalls of this powerful technology."
-    publishedDateTime: 2021-04-05T10:48:00Z
-    webUrl: "https://emojify.info/menu"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 47
   - title: "Researchers create online game to spread emotion recognition awareness"
     excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
     publishedDateTime: 2021-04-07T22:39:00Z
