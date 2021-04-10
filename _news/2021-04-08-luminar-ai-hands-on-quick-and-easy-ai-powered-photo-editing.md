@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
 type: article
 quality: 89
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Building a Bridge Between AI and Law"
-    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
-    publishedDateTime: 2021-04-08T23:26:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 39
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "eBLvJBP+0uNr95mUO6LEa882aO4J655el/QqxY7eIbbio0UsC1DvMHA8em0p+NtHVx79tOm2bQwf3LetyIcTpjr5oa2tU3U2/J1fsbQuYcRrPUxPAwwqjb9EsENcMceDcMOpcHpY4RmYjqCAJJHuBUWL+E0W1jMyIQI34/NH47KCaZnXmPE3br3DnZH6v1bd2XcEvlZD+7we82Rk24j44H0QItCQyhr8Evg0aZUWy5wHf4CGanoKVKq6Z46fxhCBTfLOJnzmDm2QrhlyI06RG14tfGTzKT5FTX7/CxS3ae8oggMlHPHBdfAHwkeaFE/OV38Ut3Mu4evVScwCKMaazrDPZkyfDExScGVSag2FB//Z8Ln9/yj2KxDKR8+N+MMCb+RT0awWXMVqhRp1mphl82ALLWqd+8iFVWhoQ96PW1jMMdSJZL+vg9BGl3M1+AWsMlvSEq+zTqtWzwrgkaRHLaDNsttuqkCDMf4I8yG28N8E1suksCeUraexjiDZS3gNp/+bhhe+v1576cwTpnF7gQ==;0ntH0mW3qy31Le+rjXaqpw=="

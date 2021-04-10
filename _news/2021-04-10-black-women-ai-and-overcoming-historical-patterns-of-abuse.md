@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patter
 ampWebUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -22,6 +22,9 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - AWS AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all"
@@ -30,6 +33,34 @@ images:
     isCached: true
 
 related:
+  - title: "Use of artificial intelligence assists in fitness attainment"
+    excerpt: "The artificial intelligence of the machines will adjust the “load” to the person working out. “Levels of effort and force will be different,” Roberts said. “The machine knows when it is working with someone who has been working out as opposed to ..."
+    publishedDateTime: 2021-04-10T10:00:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/use-of-artificial-intelligence-assists-in-fitness-attainment/VRF7VICQUFBLBHIHONO33GXCHI/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Building a Bridge Between AI and Law"
+    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
+    publishedDateTime: 2021-04-08T23:26:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 39
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Perils of Overhyping Artificial Intelligence"
     excerpt: "In 1983, the U.S. military’s research and development arm began a ten-year, $1 billion machine intelligence program aimed at keeping the United States ahead of its technological rivals. From the start,"
     publishedDateTime: 2021-04-06T13:24:00Z
@@ -45,6 +76,6 @@ related:
         height: 800
         isCached: true
 
-secured: "b5y24FxEwZqhhgjvg7RQtZTPrDt0iN3h4hQopiSlroSa2AvElo8WaEJjOBLo8swl4+umrekuXfCjimwP7fv3Eif4s2+5DcYVtUs1yV76ZzqKKr4s0QHU58alS12xM5CPoydwZ2J/BKS+pdT+OfmkR/uX8fZs+w2AHPIVxS1wLOLawhAK/C+7hwV73irM9rWcRPi7eYHC6iCjgD8nprRXjpk9OIw2XAkc34b+PzvEKRqvTTmOx2fLNisCFd/3cJIT6Z60L5XtT631WcXXq7j0pkiKiewYjIC1NtLgClp5QIx2fPXjmLJpdef0tg8Z7/FW1TlWhQfYV/ySfcGrdZ7/eD5iBPEnAW25AOUUST8OSi0=;4bGO/CUCFTRDfQCm8T9z6Q=="
+secured: "Zhdd7BNx6vFiNcecTxyNN5nRA+6EkFooz2qiE0eBZqCi1q5S/dLm7PREXWTBgvs0K37O7RM9g67wnUmHVKmbLp3gCBU0rSEoHlxW9lUjAZb3iDZsf/F/3LlWky9ouLCbTr3ZR09OzB2ZxthPPMIg8QLeRGZJMH1hiiHbMEEvoiqVLP3n9CX9N+1bbSgO+Ebe807EX1clBfjzqdXODUjSzrCEycT+aLbshU6D/9oosL8wv0o8qPRvFk76nUqtXaVOWa7hGyCDT6OZXgkd+XR7IK0w3JZ2Hu6nQKlANeaHq+p5anm2KQLR/cK+dPJDSTJn/hlQ3MFaklD9GkXymNFjznSh+c316EgX9zSigY+7vyejJ1YrVMywDaszrgRvjW/o/kC1tS3/PqSocdfi3wmw54uqbIq7efJGjRZbM0wqM0jPh/8QAenY/NKbLia6ga/POWnyqCSz+e1205CaFmZZVnSlPpXErPC+L/HRVnHATogStw1/hCu+nU4n+KLIUJ98lc5JcqobQ6/gLeOr6Jq7ag==;bZKE88jpBCBDSnrmD6cv5A=="
 ---
 

@@ -200,16 +200,16 @@ related:
         height: 285
         isCached: true
   - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-    excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
+    excerpt: "A discussion about the current state-of-the-art for self-driving technology and the implications for the safety of runners and cyclists."
     publishedDateTime: 2021-04-09T20:18:00Z
-    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7915.html"
+    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
     type: article
     provider:
       name: Slowtwitch
       domain: slowtwitch.com
     quality: 24
     images:
-      - url: "https://www.slowtwitch.com/articles/images/6/198006-largest_distracted.jpg"
+      - url: "https://www.slowtwitch.com/articles/images/1/197981-largest_distracted.jpg"
         width: 620
         height: 413
         isCached: true
@@ -232,6 +232,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "r1OHcFjld/4KSmfmhVlGihsUskEKim2AuBBfxZOG1g/5jnuqfo9vaL3JYW8z6DneTNhzBYUAjzYiAwB/gb2GMwnkRcfqIt2ONLVQpUnfySQji4/HbyEFMYD2GmPub3Ef5rG4js/1tGANWoWqwqnPUsO5yxkX/x85tjxirgIgavj3bW17AGteijJSGKW+LCygFD3AxBJAZKRS/VTUcaOkpepItnLLqyY/Z0abx0EV5y/ZEFEoFCmLFZvaC1DPGmd3pfN04AyseBeSUpZAtTGMsCzubYb00f6vPB8F3u2BIsVFPD8xWMvCYA/t2aa/RwZ7/ywHYJ3wzTlYnIiEJX+Bdpeo8Ces/RPSvI7Ui9olz4M=;XtsNf0kR2KWRaTKPmgCBRQ=="
+secured: "QRPhPsTQoSd+iB11FywJTtBsYncMoGaPc1oDSlQseppR+Lc28LtlpwFqsldqmz45rvGtlgb56QrJNDgAja28Q0XXIu5TidOkff/xXBmNq+UoBoZRbtH96l2D0kqsb6Z6rXyAcezeht3dJG/gNOdKGPvXq0/JN+7T7Nf14Cu4oXwCM5sH4jvoMy1NERZj5WPoKslmSlggN4VOowzQqrhWA+UArC7yvRNj9Kxut6roFAisKSb7KBO3rkMjvaqln4N57HnvANWihQDr4HsKpgZiPCxoupJXDUGp9211Nj063DYgQPiR0uYJ8jRoXtpDrjtjSdpZB4P+/m8y1Nd+sQTc/yP+w2bS/z0qjhoHziRlZOK7IJ2XRkrHoAh1yEUgB+K2lZ05P/rpEv39Ghz9zoinFWZhgbOZ0Wq5UD14Etmf6X+rSjCi9UdpNdS0hz1b87b4bsBg2cFHCliJ9tBYY6/F472Xu+MyleuUeIrNlLty5HUHqSPYMHbDoMagM0eb2KoVPtBaLo5lL5SSYgw36EsnkA==;fSGEqMlvOLKY0mPybPrNBA=="
 ---
 

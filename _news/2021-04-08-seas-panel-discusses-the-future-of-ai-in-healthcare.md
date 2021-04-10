@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Use of artificial intelligence assists in fitness attainment"
-    excerpt: "The artificial intelligence of the machines will adjust the “load” to the person working out. “Levels of effort and force will be different,” Roberts said. “The machine knows when it is working with someone who has been working out as opposed to ..."
-    publishedDateTime: 2021-04-10T10:00:00Z
-    webUrl: "https://www.ajc.com/neighborhoods/use-of-artificial-intelligence-assists-in-fitness-attainment/VRF7VICQUFBLBHIHONO33GXCHI/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 52
-    images:
-      - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MuZK18cIMgVkr00USIUOuioG+v/Jxf/Fwr0l5gMyyJ40X56z7E7F9rn7kfKOyJ72mM7CIBsb3Lto2Ihi5ZrIDngHJgMVL+znh91cihaatr2F26P5M+aCuyWr8TvbPRGtcfms/wGbBojRVm3p0fVRhpgbqxBGJlstMPxGX4eghf9gBwqRm2HSSbsJ3Qf8IUpjZsYAKPywufI+FvmLGy+cqGcAljCnGOLUL3+8dk/zTMi0o55vwoOc0Qz0SA5aTc5JUmnO3O0LmL32X1J+rwfSNSEL+sS94Vi28Kt1BNC/moYspu20gOd1nyt4TmVID8MOADEV88rkXMWxgqVlY/D7fUKcpjDN/GOAssgEZa9wZKxMCPGKfQWZJiYBJXhLJLKweHHbu9pqcK/qBtKlNinzZRmytnDsDPxb2YzXz9tFMg5Wsbig7LwMFP22sPGDWAZ8EVLC95qGQmZ1bmR/NM7lRaFOoYo6D/obGbQvdBeZnVzQtIDDL0FyRbdBKkCU8PfBavzmPzkdN9KZyVnZLC7Cqg==;fYM9OdvmBzl3A65S4O+6OQ=="
 ---

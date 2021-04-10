@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How L.A. County Used the Cloud to Meet Pandemic-Related Challenges"
-excerpt: "In this Government Technology Q&A, Amazon Web Services (AWS) account manager Loc Ta ... This will be in the form of virtual meetings, contact centers, SMS chat, artificial intelligence, and analytics. Innovation in all these areas will empower employees ..."
+excerpt: "Account Manager Loc Ta discusses how Los Angeles County handled the disruptions of the pandemic and how the lessons learned from the crisis will affect service delivery in the years to come."
 publishedDateTime: 2021-04-07T06:21:00Z
-originalUrl: "https://www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html?promo_code=gt_paper_web_article"
-webUrl: "https://www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html?promo_code=gt_paper_web_article"
+originalUrl: "https://www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html"
+webUrl: "https://www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html"
 ampWebUrl: "https://www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html?AMP"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/How-LA-County-Used-the-Cloud-to-Meet-Pandemic-Related-Challenges.html?AMP"
 type: article
@@ -20,6 +20,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "msTF1W5eGKXXr0sj44J7GVugenyu1vOa/Z1wh+mWJL/Joh4H3jptaHQgYdnZ9xhDy1CS65uccWN09VLqzK6qgm5BsO3IGWthUFYLkagOElaEPBA6RHN+Ph/ZM+7pDwfr0TBN2I+1zu/Bdwny7czXhKKCnJMAW5rGQVj+ithShxtaydnYO7a0HY1Att2ndpT2QWUA4T2cG6Z8MriQvLKBziKRB2uBRPmktHP0Mw8bkFuRovBoH5xd1WHSgOcpL2pD1BaBOgv/rf/q1NwS3XM7f+zlJcB4rfz/5mDeSf4MCaAO7Selt5OCyH7y9ZIvLvmvNxEdFMDCpOXRxXJgYDv7M4hYHrcMP63A3NAc9D30RJJdcKfKHY8TANlynL0KvVm4KoT7iRMZt5ODrucwl3b+12c3CIY2M/zAswVZTBFHKelfMZIHSNL1D/PyJ3wVGtSXEmg8azQ3cj+/OlTJKtEfy4/49eksfYArQWYkH8j/A+8qaIZLYRi+WPv5Zq49bkKip8b9PMuQIP7KaUajRTvPnw==;DXH8anPy6PLDJKi2tIzxcw=="
+secured: "pPZZKbrJERMPNJIEPuhotI5yhne9ZEusqoWf7mVcz7z5TrdlEWFJTElPjJryexPGtcEhVPzpc6IZgECm7jJKN5TCV5kcrkky2YTO9H5E1hvDZrHscLoveZ0+aNbzzJPTMAI1d9mqCsZCP5Sk7omd24WVgqPFGWhVlrTJrQ7doXFJnqk16s4tnMiic7dtzFQAKLlr2zSX5jyaBQazWc2DfhqA2B4PLeiVBP4v2U6E8LZ9TfDUMAHZPS49EZFNH29OLN+3n0VmWSLpCKiqJAtCdaJ+2K4jj+4ysQ8vp5TtakGN7iddqKKE3LKnM+7Sz4W0bKOgj9M1XIRQ40oyto+AmvONoH7AEmRMHjSVTkkDw9TaGSnfEtfCpEOhh+tPhhN1Vpgwu5L/uYYmbtX7yZMtlSxFlbOoIVG8aFWQc1TRxTapB6mxOomoEbRpSho0pclJ3o/XRDWoEgwRIGGBYz94SCXv6wF2kRCY8KaAFxAQNSesASc5DwtvS1y26GDg1+Ycvjkv23ZzNv8jnc+9NnNRZw==;pcdRGxAmVi9Gfy9K52YWwQ=="
 ---
 

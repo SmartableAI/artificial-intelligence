@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Why PayPal Is Winning The Fintech War"
+    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
+    publishedDateTime: 2021-04-10T16:09:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
+        width: 936
+        height: 446
         isCached: true
   - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
     excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."

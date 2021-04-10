@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
+excerpt: "A discussion about the current state-of-the-art for self-driving technology and the implications for the safety of runners and cyclists."
 publishedDateTime: 2021-04-09T20:18:00Z
-originalUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7915.html"
-webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7915.html"
+originalUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
+webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.slowtwitch.com/articles/images/6/198006-largest_distracted.jpg"
+  - url: "https://www.slowtwitch.com/articles/images/1/197981-largest_distracted.jpg"
     width: 620
     height: 413
     isCached: true
@@ -228,6 +228,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "mjX9xVHHAnJYIMlpzifH2GTLfC/BRne1h+OUak54kSghWFJrJ+ekKLOO3x/LkiFlG+gUVy0ssyTX5wWC9Lc74LNK3Q8/k41ovgkTS7a8G0uOnAl7mrQZKPRtHnAu7EljE9rTX+9viLzKKQo9ajY9j/+sZwmKIFU87bZ4i07IPztsDNyeV6gdmA1Fk0thncRNGKRjEOYYdGTO+W4Hs8Tbe15IWiTtW4clnG3dw8fZjWL3GULwJeTzZW1aMdogdE7gNgGMvvDndILdYnkETSqWeG6pJGzN1HwzAdtw6QuU6AWfMuHj/an1/b/K0BTXaaY4X9+/Tq3U+AVWWdczb7nP2o4tMgUHOwgLX+ItRO6AOsLrqMeVTTtsKnQ2Iw+ZAN0i+UoV//apHizyXVMD48JN1AMkzzdxPwtKrjk7FXIVr9rcb8GxuArd9lEGFtEzImOxHI7/Npm4yTRdo4gqN8IRxRJIXW03ERC5nTFTPWSpel0+UrRiXRl4sweb/lG9JCf8YHe/+QFmllh0tzCBYJNIXQ==;pXCkqI+hcSnHFT5HlM71qw=="
+secured: "6g98aDc1pgJe0T26xqQLwypfrep99m53D+KMN/8ddt8dgM3Kb/6kJlSWplz/OY2DniVVMiN67M58ADuYoYkf9r2cELMiE2v4ljHOwrHNubsAqviuS3NVXH8nPxwKtDw76cfrorYzzKqgMQCs8u1oDhJobYQNqnBwCr1J8StdUAAYXK9szVAUcfQIUVM+lfmTZ54KuudKP0rTQkHjBmhaYS9lmr9RVL4+NIzeREKK1yxaAX2iyZ/D5MrscJN9dT99pXSxS7Tx7bwh5PJaq371G8zlS91OhCxdThsIbDmft5tsuPTYYXzQKrLmT6MXgicAUC/pJqirKvQhKGbJFVmWPdQ6bkCIPyYXzE3WIuT2HbY=;wLm3ebzZpCYClZvhLmEp5g=="
 ---
 

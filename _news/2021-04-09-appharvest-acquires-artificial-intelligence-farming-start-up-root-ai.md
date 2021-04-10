@@ -81,6 +81,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
+  - title: "Greenhouse Growing Game Changer? AppHarvest Plugs into Artificial Intelligence"
+    excerpt: "AppHarvest has acquired agricultural robotics and artificial intelligence company Root AI to increase efficiency."
+    publishedDateTime: 2021-04-10T17:06:00Z
+    webUrl: "https://www.greenhousegrower.com/production/greenhouse-growing-game-changer-appharvest-plugs-into-artificial-intelligence/"
+    type: article
+    provider:
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 35
+    images:
+      - url: "https://www.greenhousegrower.com/wp-content/uploads/2021/04/AppHarvest-Root-AI.jpg"
+        width: 896
+        height: 504
+        isCached: true
 
 secured: "KV0iz7L8YMiZdCLf7vv61gSGeXjy/b0MlsI2EGj9q80B83oMbW7+EN+LXx1KzxS+aj6E3ZiTcPWYHk/LDOA+g+NR1zhK2CDDqW7GFcCXDy78QFt+I28C03qhPg9feWBQ5n2cygMWrEXn5l4XbXWSn4r9egudr13eSAtEQnAqQq+JzlAxjclYanOrMjTfjATikZO901qt/n0T+kagKsNqV5RlmwUqk52TUPPEwGHSTM3m74kDn2FRtbtI/SFiyR/VN6exN5fFcGQGzE2TlE0Q3pslUnovHthX0WzaJ3v2tLqpSw8hZKIcubN9hAmmqgZGeX8CUCCedOnfSHytDXpM+enzFAW/CAcVVGpBujlowgw=;IJzE01AbmnfG9cV2DkQYsg=="
 ---

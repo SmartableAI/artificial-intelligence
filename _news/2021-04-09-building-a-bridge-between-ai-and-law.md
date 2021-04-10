@@ -25,53 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Luminar AI, hands on: Quick and easy AI-powered photo editing"
-    excerpt: "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ..."
-    publishedDateTime: 2021-04-08T11:03:00Z
-    webUrl: "https://www.zdnet.com/product/luminar-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
+  - title: "Black women, AI, and overcoming historical patterns of abuse"
+    excerpt: "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today."
+    publishedDateTime: 2021-04-10T15:40:00Z
+    webUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/"
+    ampWebUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg"
-        width: 278
-        height: 578
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "How to report on artificial intelligence"
-    excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
-    publishedDateTime: 2021-04-07T16:17:00Z
-    webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+  - title: "Use of artificial intelligence assists in fitness attainment"
+    excerpt: "The artificial intelligence of the machines will adjust the “load” to the person working out. “Levels of effort and force will be different,” Roberts said. “The machine knows when it is working with someone who has been working out as opposed to ..."
+    publishedDateTime: 2021-04-10T10:00:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/use-of-artificial-intelligence-assists-in-fitness-attainment/VRF7VICQUFBLBHIHONO33GXCHI/"
     type: article
     provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 59
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
     images:
-      - url: "https://www.journalism.co.uk/assets/1/franki-chamaki-z4H9MYmWIMA-unsplash.jpg_resized_460_.jpeg"
-        width: 459
-        height: 306
+      - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence Powers Mineral Rights Investing"
-    excerpt: "How You Can Invest as Little as $300 in Proprietary AI Software For Mineral Rights Investing Traditionally, only large investors had the resources to invest in the land and professional services criti"
-    publishedDateTime: 2021-04-07T12:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/"
-    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
+  - title: "The Perils of Overhyping Artificial Intelligence"
+    excerpt: "In 1983, the U.S. military’s research and development arm began a ten-year, $1 billion machine intelligence program aimed at keeping the United States ahead of its technological rivals. From the start,"
+    publishedDateTime: 2021-04-06T13:24:00Z
+    webUrl: "https://www.foreignaffairs.com/articles/united-states/2021-04-06/perils-overhyping-artificial-intelligence"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2021/04/06/AI.jpg?itok=j52dSNM4"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "6Hv7Nt/2Gwl6mmOPD7HMyKwa6dg/vq8JR73hIOKE/kPMe5GX7NcJrUfT1WoRrG9XXxO8OCyOiA74FRFulji8pOX6yvS/DIMmtFTnBsJ9te6mefRRCb0qAIEVEGcUGPlKH0TxuyIuMb/NJRm77vkkrLTFIJLI/zGXVokZCa4k95tmnlG+EBgJUzV8smXDFvU1ykIrASj41F7N+IZyJeCnL5JME8KuprxL0CjGTHTH9dS1SgMRR6zcNQU1qa0mmPiC1Bik/sOO4KeoGXHZe9TqbCvsKuiBjJIhaXm5tTTD96AagTvPh3FSVTKnigCgOvMRMMkYL7PxVWd84y9IKnIgL/yqUDlyiPC8hcb+EBAvV7k=;pNqluY7Db5Bd6XE99aR5dg=="

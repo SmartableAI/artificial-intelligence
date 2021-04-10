@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Facebook's new open-source dataset could help make AI less biased"
+    excerpt: "The social media platform says that the new dataset could help researchers address discriminatory flaws in their AI systems."
+    publishedDateTime: 2021-04-09T22:42:00Z
+    webUrl: "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/09/dec2c367-e2d0-4c3a-a3de-b3a16a40aec0/facebook-casual-conversations.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook Dataset Addresses Algorithmic Bias"
     excerpt: "A Facebook dataset, designed to help researchers improve fairness in their AI models, hosts some 45,000 videos of participants sharing their age and gender. Facebook Inc. on Thursday made publicly available a dataset designed to help artificial ..."
     publishedDateTime: 2021-04-08T12:59:00Z

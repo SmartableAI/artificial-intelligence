@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Where is the Skynet logo?': Chinese robotics firm shares 'terrifying' video of its four-legged robots moving in unison that Twitter users say could be the start of a robot ..."
-    excerpt: "A user shared a clip from Chinese-based Unitree robotics firm that shows a squadron of four-legged machines moving in unison. The AI-powered, canine-like robot, named, Aliengo, is designed with depth perception, high explosive sport performance and an ..."
-    publishedDateTime: 2021-04-05T23:40:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/06/00/41377842-0-image-a-35_1617665700920.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Hundreds of robots moving in unison"
     excerpt: "Robots and artificial intelligence have been portrayed as the doom of humanity in Hollywood. Watch as an entire group of legged robots moves in unison. Is this really the future?"
     publishedDateTime: 2021-04-07T18:54:00Z

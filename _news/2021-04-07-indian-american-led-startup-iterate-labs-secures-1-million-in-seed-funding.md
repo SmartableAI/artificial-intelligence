@@ -7,7 +7,7 @@ originalUrl: "https://www.indiawest.com/news/global_indian/indian-american-led-s
 webUrl: "https://www.indiawest.com/news/global_indian/indian-american-led-startup-iterate-labs-secures-1-million-in-seed-funding/article_b752bb1c-9663-11eb-a830-979d0a4302a8.html"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Leading American researcher and DKK 350 million will take Danish artificial intelligence research to"
-    excerpt: "ARTIFICIAL INTELLIGENCE A new pioneer centre for artificial intelligence research is expected to open in Copenhagen at the end of 2021. Headed by world-leading American AI researcher, Serge Belongie, and with a good DKK 350 million to back it, the centre ..."
-    publishedDateTime: 2021-04-07T03:59:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uoc--lar040721.php"
+  - title: "Asian Americans deserve recognition in educational curriculums."
+    excerpt: "However, one of the challenges we face is our age and our inability to vote. That is not the case for most of you readers who are attending UC Berkeley. If we join forces, and all come together, we will hold the necessary power to make real change in our ..."
+    publishedDateTime: 2021-04-09T17:31:00Z
+    webUrl: "https://www.dailycal.org/2021/04/09/asian-americans-deserve-recognition-in-educational-curriculums/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 2
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/04/04.08.21.Abigail_-Lamoreaux.quotecard-1800x1160.png"
+        width: 1800
+        height: 1160
+        isCached: true
 
 secured: "T1nSP/pOtO0KjlAip7mBuUoA5bvGhKWG8Tqv3zXNm6WZ7oaZ2Cq7J5GazjJFMY1uNjOaHR2xFEI/Z9lAcOR9mjsdp2WMQvLET/NH8dMJ8AtOFAyRoeoat6+IIAwVwUA/pIJXlSkRPtOD9BbqpWOROWW2mdu2F88JVavl4WckDQ+cLLMM++tFL9fNmD8NJr+ATRLkT0FRgPDMk5T3BjxnQIe42tYuoFE8jkRaJrDC1U0Hun4B4RKTaDhhohmI/7EOfpg6mnTbTOQC5INVRYme+gnUMHT5KagX3vCqkuD+febLoWnLdDGYaR2qaf8OqcOF3PkNiZ6igI4YRZhUP3Ll52jbWgjb2pGy2dWEZRwQqm1PtIZLhj7KOPABTpll9H4UwV6fQNux+LXORTNtvpfYr8gJFcx4oT97FIxtHh+iW00yHxRjqJwJYFuu7qjpcwDp5y24SM/EuYInwVPMRj52r+IU/RJDVuQGFv8Ag95UbfRO7dqk1x+ppFjVWJ5Vr8A50UeIQH06R7CnM431kIKDRQ==;d9i1gu2nyo+07Lsmk/5Jkg=="
 ---

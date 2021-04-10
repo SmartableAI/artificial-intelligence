@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why PayPal Is Winning The Fintech War"
+    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
+    publishedDateTime: 2021-04-10T16:09:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
+        width: 936
+        height: 446
+        isCached: true
 
 secured: "5cUzcv5jXnyk2AVLJtpDK6GoY1cfygbcJ8wpJMVm2+8t42znDAqTDGTGNI9O0ZV7xEEk1wU8UDUEfQ16XA2msc+q1SLZqQjtfi7DxL+EhIZKI98h+q/nYDfhXBhJoL9Dux87lA+BTY8o+g5a8zzWDK4Xm0n5ZD+DkmgO6bxXLDUNcNHMSGK8a+3iBjrTjW0LV7BPhfUGhHmeqUmkn0sZEUcxvGdyAPRKL0kgSOb8BNF8/baqZtqLYks5ikB2G/gyugFNKaIeKPY/wkSElje0a+BIuuU/on82UaW1rDF3+Vu1Zb/mWQEtY6M+ZzeqBFlAWeeBHLSd8p1F+vVcU1wdFFohDHOTa3UG77nCWlveChs=;VE7UJJBaQ5r3AE/awV3jDg=="
 ---

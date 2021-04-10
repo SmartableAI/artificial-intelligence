@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Why PayPal Is Winning The Fintech War"
+    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
+    publishedDateTime: 2021-04-10T16:09:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
+        width: 936
+        height: 446
+        isCached: true
   - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
     excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
     publishedDateTime: 2021-04-07T16:02:00Z

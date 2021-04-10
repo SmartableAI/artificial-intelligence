@@ -24,51 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered virtual assistants and the future of work"
-    excerpt: "I was recently connected with Jim Kaskade, CEO of Conversica, a company that has spent the last 14 years perfecting its AI-based virtual assistants for enterprise marketing, sales, and customer success teams. \"Liza, can you tell me how sales are ..."
-    publishedDateTime: 2021-04-07T20:16:00Z
-    webUrl: "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
+  - title: "Black women, AI, and overcoming historical patterns of abuse"
+    excerpt: "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today."
+    publishedDateTime: 2021-04-10T15:40:00Z
+    webUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/"
+    ampWebUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg"
-        width: 1280
-        height: 856
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "The Future Of Work: How AI Is Changing The Time Management Game For Executives"
-    excerpt: "AI are developing at record speeds, especially in the remote work and work productivity sectors. Executives are leaning on AI to enhance or support new remote work routines."
-    publishedDateTime: 2021-04-08T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/"
-    ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
+  - title: "Building a Bridge Between AI and Law"
+    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
+    publishedDateTime: 2021-04-08T23:26:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e183174aaf063be2df695%2F0x0.jpg"
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Perils of Overhyping Artificial Intelligence"
+    excerpt: "In 1983, the U.S. military’s research and development arm began a ten-year, $1 billion machine intelligence program aimed at keeping the United States ahead of its technological rivals. From the start,"
+    publishedDateTime: 2021-04-06T13:24:00Z
+    webUrl: "https://www.foreignaffairs.com/articles/united-states/2021-04-06/perils-overhyping-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2021/04/06/AI.jpg?itok=j52dSNM4"
         width: 1200
         height: 800
-        isCached: true
-  - title: "SEAS Panel Discusses the Future of AI in Healthcare"
-    excerpt: "Health and technology experts discussed the advantages and pitfalls of deploying artificial intelligence to improve health care equity at a School of Engineering and Applied Sciences panel Wednesday. The event, hosted by the Center for Research on ..."
-    publishedDateTime: 2021-04-08T06:10:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-ai-in-healthcare/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 54
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/09/29/153003_1345878.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "fCW+j+F7e4Ylsph2U2WmUzJCKczEZFlMWx+11sg8UK4zCZUvKBAmiqGpYEPT17+1HW22J19Ph0642cxnsnNItXYUgKVeE2eSBwcqRxei5MZB3U8rapg2bHG58tptuBVu4hUJe4FAfB21WOBHL5vexTT1eovBGRBbLM1iodewT2D312uPdl2+54ch004ct1KgwdcwHNgCSdKVeFxBhfHOBPchdlDqkiRp2IVt+B9C9BBp9ox84dP7VLYQ85W0fJVbA/INjvR5OTFZMsguw4KrgxuB0yxbsOKkyzC2XV2fenVUQ3jOZJjWJHnbQJihyZcmR35pum+3b7JrrVB6gIlOztCt1KJGpMZkhusUyHQiKYI=;JXzHirualgv1Oa5Px2kebQ=="

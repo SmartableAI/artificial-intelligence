@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-an
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-and-bias-with-new-data/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Facebook's new open-source dataset could help make AI less biased"
+    excerpt: "The social media platform says that the new dataset could help researchers address discriminatory flaws in their AI systems."
+    publishedDateTime: 2021-04-09T22:42:00Z
+    webUrl: "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/09/dec2c367-e2d0-4c3a-a3de-b3a16a40aec0/facebook-casual-conversations.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook dataset combats AI bias by having people self-identify age and gender"
     excerpt: "Facebook today open-sourced a dataset designed ... days of understanding fairness and bias when it comes to AI … The AI research community can use Casual Conversations as one important stepping ..."

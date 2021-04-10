@@ -34,11 +34,39 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 93
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Use of artificial intelligence assists in fitness attainment"
+    excerpt: "The artificial intelligence of the machines will adjust the “load” to the person working out. “Levels of effort and force will be different,” Roberts said. “The machine knows when it is working with someone who has been working out as opposed to ..."
+    publishedDateTime: 2021-04-10T10:00:00Z
+    webUrl: "https://www.ajc.com/neighborhoods/use-of-artificial-intelligence-assists-in-fitness-attainment/VRF7VICQUFBLBHIHONO33GXCHI/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 52
+    images:
+      - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Building a Bridge Between AI and Law"
+    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
+    publishedDateTime: 2021-04-08T23:26:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 39
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9u74WxgnraZOPJ0tcBvEgfAGnOVKzMPYDKyNFHEghpjAT0hLBOoKI+yQADlLdySWPGFQ+LD4dF/kVVsLqiFBsjGVg7xe/ZsA9vHUPiN++U3ekrP2sWUAxOaTqUVATBUwMfZEf4PwN+5MvqXJqqpw1kyZY9DeDXjhLyIQeelcYlKrzcpZsMWBGPjBMX6fh56KLnEOxxDfB+iUHpus4PDC9+ZS35yPh9FwPVnK/ghDSC9fuo5UJLqjkjmXdq3Lm15eE0ovCSNqzhLN5YVEkGyOAcAk+wmQLvu6OG7uNaDQhVmpgP4V5pZyrpJqk3C95nNketsit8EO5SJhrEgQ1QV8ssU+uX3eYPJyn3t81w0WiAgvJnLKQ4ubfohFfgox6vBvR8lB507+asEVLOBv6/h5cd/rXSx3MaFwSvFXsYot11xkUNdx2bIuGoEpeuDQT40JPW3zKFt6W6gR+qWEmjSnoz9hcQPgouhwDLQaKeAua2jNzCrK5QbaaALR3zAs6T4vuTNUzgkZ3O4QDqBpdGDj2w==;KNq+eVXlbEZsZBw28IR8tQ=="

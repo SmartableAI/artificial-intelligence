@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-07T12:51:00Z
 originalUrl: "https://www.nasdaq.com/articles/4-must-buy-ai-stocks-on-coronavirus-crisis-triggered-automation-2021-04-07"
 webUrl: "https://www.nasdaq.com/articles/4-must-buy-ai-stocks-on-coronavirus-crisis-triggered-automation-2021-04-07"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 secured: "B7Ji1w3qjXGMtUnXBxiFw04EN6x12uHEwQIlyqLleK7Y2p9Cnn8TGwXQH6KkYhnHT0gOB5b4IHediy1pVOjGMH3uFHYsFkb/P3cGmxzfrH8JJ9cqX/pWP48Y0lHxnAe8LCQGGNlMunQpnar6pIItVe6adRm9p30IDYslluSWVnuu/nKYkR5xh3/tz/uFrDIs/gfmQNapXdnKtgXuoeqRJvi511J8yDtVbp2dQtinJoBxYZW3RRTnISjTuFuwaU9DbGoaFNStZqZOIwVkRjB9jlJlFgaCfj5yXpyePCqD4K2WpBmvatrNkUezYPoQgyBCKkggAmMoeDHZaxR9BTyVrtP5FrmnJRQkoKTio/o7Lts=;t8zQXpAf3lLXITLUPUgNJw=="
 ---

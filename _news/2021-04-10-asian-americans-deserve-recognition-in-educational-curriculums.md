@@ -7,7 +7,7 @@ originalUrl: "https://www.dailycal.org/2021/04/09/asian-americans-deserve-recogn
 webUrl: "https://www.dailycal.org/2021/04/09/asian-americans-deserve-recognition-in-educational-curriculums/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Native Americans continue to face COVID-19 challenges"
-    excerpt: "Senator Kaine was successful in helping to get federal recognition for seven Virginia tribes, including the Nansemond, back in 2018. As a result, Kaine says, the Nansemond Nation is eligible to receive around $6 million under the latest stimulus plan."
-    publishedDateTime: 2021-04-05T23:44:00Z
-    webUrl: "https://www.13newsnow.com/article/news/health/coronavirus/nansemond-indian-nation-covid-challenges/291-8191514f-89c1-478e-b761-fac0c5354a0c"
-    ampWebUrl: "https://www.13newsnow.com/amp/article/news/health/coronavirus/nansemond-indian-nation-covid-challenges/291-8191514f-89c1-478e-b761-fac0c5354a0c"
-    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/health/coronavirus/nansemond-indian-nation-covid-challenges/291-8191514f-89c1-478e-b761-fac0c5354a0c"
+  - title: "Indian American-led Startup Iterate Labs Secures $1 Million in Seed Funding"
+    excerpt: "Cornell University March 18 said that Apoorva Kiran-led Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, ha"
+    publishedDateTime: 2021-04-06T19:00:00Z
+    webUrl: "https://www.indiawest.com/news/global_indian/indian-american-led-startup-iterate-labs-secures-1-million-in-seed-funding/article_b752bb1c-9663-11eb-a830-979d0a4302a8.html"
     type: article
     provider:
-      name: WVEC
-      domain: 13newsnow.com
-    quality: 44
+      name: India West
+      domain: indiawest.com
+    quality: 20
     images:
-      - url: "https://media.13newsnow.com/assets/WVEC/images/2ac658d3-6d8a-453a-ac95-96e3210dcdab/2ac658d3-6d8a-453a-ac95-96e3210dcdab_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/e/7b/e7b349d4-9663-11eb-b2e1-e33192babd84/606b98ba2309c.image.jpg?resize=631%2C630"
+        width: 631
+        height: 630
         isCached: true
 
 secured: "fiQwf+MYRUNLQ4CuAXJLss87ISjRBVh35agnpSMix34dgsx/zvSVAGTRlAlesdYNNHT4pe4dY4goa3NpgU0U3Q6mP3FiEXu4dLUZIsyF2+rgLsy2gHIYHop+qOfTF/xYof2zo3VHV/0XsNc13A8KF/MQB9+tzWThELFdGWx9/AVt0c/zyshMcYYFoLrBOumJLf6DDQqqmgPgFPgsOReWpvQgU6bvXVvA8NIxu31BAkb9fPqiZRF4j/m7m/p6tmcY9xrLnOrx87jJ1VbZmw3jF0TBWg+3dTUNLv/r74BxhoCjXQdJHophwajTy4QEc1qVMO3iAo9xJnW6x2MpoHSe2S2hTaXrgqZBmq1som3toq4=;qpxLg6eXCFbJC8JnBe+OxQ=="
