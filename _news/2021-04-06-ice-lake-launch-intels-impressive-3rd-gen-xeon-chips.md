@@ -57,20 +57,6 @@ related:
         width: 822
         height: 400
         isCached: true
-  - title: "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach"
-    excerpt: "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads."
-    publishedDateTime: 2021-04-06T15:00:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0268-11f9f2e4c617-fed227271afa-1000/intel-ice-lake.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "‘Ice Lake’ Launch: Intel Impresses with 3rd Gen Xeon Chips"
     excerpt: "In its cage-match struggle with AMD, Intel responded this morning to its rival’s vaunted EPYC 7003 Series CPUs, announced two weeks ago, with its 3rd Gen Intel Xeon Scalable data center chips, code named “Ice Lake,"
     publishedDateTime: 2021-04-06T15:34:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/04/Intel-Ice-Lake-man-holding-chip-0421.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Intel launches Xeon Ice Lake processor with built-in AI"
-    excerpt: "Intel tabulated 74% faster AI performance with the new chips over the prior generation. The company boasted up to 1.5 times higher performance across 20 well-known AI workloads when compared to AMD EPYC7763 and up to 1.3 times higher performance versus the ..."
-    publishedDateTime: 2021-04-06T14:59:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/intel-launches-xeon-ice-lake-processor-built-ai"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1617715046/intel%20xeon%20processor.jpg?i.BA4m_JJuj0iXFruPx9SajgGIAqH1Y7"
-        width: 1025
-        height: 691
         isCached: true
   - title: "Intel’s server chips finally go to 10nm"
     excerpt: "Partners show off new ranges Intel just officially launched its first server products built on its 10nm process node and its partners have issued their server-based products. The third Gen Xeon Scalable family of processors are based on the 10nm Ice Lake-SP microarchitecture,"

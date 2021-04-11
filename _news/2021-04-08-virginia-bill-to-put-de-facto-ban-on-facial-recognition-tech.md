@@ -67,7 +67,7 @@ related:
     provider:
       name: Campus Safety Magazine
       domain: campussafetymagazine.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
         width: 500

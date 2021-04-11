@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
-publishedDateTime: 2021-04-08T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
+publishedDateTime: 2021-04-08T13:36:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
-    width: 800
-    height: 286
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -241,6 +241,6 @@ related:
         height: 384
         isCached: true
 
-secured: "MwC5O7DqGlTeEt/ZUndx0n7q3mWRP5oCr6q7NIdCDmn+4VU1hSB1banboqhKP2S1yRYPnKpeaA6Qtoj+ysHwueBTWLjKWdJFJkxU7Caemt99GPocWD+XPqXwU7YPpAczqKP9qebU6UxD15/LwftycIVaALem6+qsdO4x1Lma754O0EsbjqID1I6h0lGnBFG5Rg+sv7dcgO9p6e856+Wm3su1xmIVV70VvXSemG+4fkIixkqBeiu3OaUmxl/lKrbn0LvxugCMEKPcWx4yvJApmD82YIfHT3yHIUweHCwZJQuBTs+JLyNxIawxmY4W2fZ5+PSAdBx+V7kN4+uFJZgVlkNO1fxwOz8uM41kq5sYnlU=;2pWmsFCE2M59q5zNqfToUg=="
+secured: "47F9cOA+/gN9PFARsEUW6G4ygpU4Ch2ld2hIDRGzlQz4a9+2LyGBWsonVn6Kuy//qpb3SvIoxeFvx9gAsqMT6eCOsWzYB+s6jaMpyp8KPklnT2EbkaxQaFbcXoRp8qTNUv9Hpy4Hq+3beE+tL1VLhRRFCqu3Z+edsKqK/Ci1O/8pGUEx35Bwnm/3mNhol+BhxKGy4DR1sEV6vMDyUr/deRKKqGzPWZJYaB8oJeH6XbFoc7g26YOE4/rE0gOy+qXY/qX81SCYpuApALQChVjeHzlBzI7vspL5uL/6DOlKZqoU19pL9BUDZwANALcid7E9LSxObj/wcf5+rtylKfxcDeNydiYISMncFFmi6uCHH3o=;Un7WCVBVWf6gtRkoUHBDhw=="
 ---
 

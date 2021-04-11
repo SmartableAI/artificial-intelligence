@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
-excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-publishedDateTime: 2021-04-08T07:35:00Z
-originalUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
-webUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
-ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
-cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
+excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota’s latest launch comes as automakers,"
+publishedDateTime: 2021-04-08T06:39:00Z
+originalUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: bdnews24.com
-  domain: bdnews24.com
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/04/08/toyota-new-model-080421-01.jpg/BINARY/toyota-new-model-080421-01.jpg"
-    width: 1024
-    height: 640
+  - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
+    width: 620
+    height: 348
     isCached: true
 
 related:
@@ -160,6 +160,6 @@ related:
         height: 560
         isCached: true
 
-secured: "0nMtOeXU9q/Fsxt8oo75vX4TVAbK5o5wEhbJvVQpzlqvbX0Ul+iHDM04wjnF574uwuQR7YHYChpksZp6vZJOxZqhdU9NI5RgIfH2Pdc94AFaL4leGKQfB/PGrydFXdIv84f8Pk3j9gCMMt+7e/2Q38rNryKURYVXGXo8+R0DfGHDh9E3i2Nu6qlEOtRGZjnOs+S9esZ2YBwENzlncSosjy3tjjjOIaoJqm58CDyuXdyCuY4zeoZWr9UPxCzY84epicy8amg36CDQIiK3iKApnocRrxsX9+oPKFYPZ5AxD0qm62pTYF0xtme3XXc5KSi2H+5D9m/WSDR0UiahSoFrboljGG9QsN9jcNUY2KM/h4U=;mYN5WCpzQs0KQNnFuunzcQ=="
+secured: "6d7DehTY/qhSukDX9PngV0KWPgWzR5PnamWNETrhfPFsQYTeDFPYAHt40gAwDAfs2uDNXqKf77u2He7a4MKahlVtTzaYPrwgphRTeWwX+6l0Wxm07qbxNRy+azJTn9Wc9HQEjPGQTXVJDMW+XEqpI9+Vz9orTBSwamKAY02cn8eUk+oQ+BhX/o8K7cTQdCzogZ9s1WwzFqmoRsYtVE/9ZPWLrwewWnJ0oTsa3WmRRaMw0Enl4oA6iO4q+RX+KQgBC2MTVgoDOUT6eketETZgF61DUirFFXJ6BK9WlGG3a21NA70ti2ogHtPaMVTYGEFlvBBN7DZ4NBZNdu7yruvGpKvmFusnm4u/NxILFsVsCC4=;VQW85KI/tv6uN/Q3h/HKdw=="
 ---
 

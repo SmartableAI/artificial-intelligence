@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-07T08:00:00Z
 originalUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
 webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"

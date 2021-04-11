@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Omnilert Gun Detect Awarded Two Gold Medals for Artificial Intelligence and Video Surveillance Software"
-    excerpt: "Omnilert, the innovation leader and most trusted partner in emergency communications, today announced it received two Secure Campus Awards"
-    publishedDateTime: 2021-04-06T13:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/omnilert-gun-detect-awarded-two-gold-medals-for-artificial-intelligence-and-video-surveillance-software-301263095.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "fZbXEfKCnues/6/24kYCnaUyzuTLDnAzSvZINMB4dQs79LRyjcJmSPal9Upi+9dSNyuWg0ag3b82HI3SvYyCBWred3QO1bVgIs33DzLIdtgy+cNYjifvDCgBSer5t+W4KknmDeXc59tyU4j+deOmVNucLshd9I2CeP9ri0QTnxjGGY1EBlvlCCJwYmC7qXK6RS5a968Hx0pP+Ct6qAw9eBl9EIpaEw+UQgAQBjToVevR6blOyW02r6vSKgnwvOFKAMod6uKkkiwOwZ6TCtJ2iASWo+xFmodXcUEV2+W7asIUcVjE6bL7fbnjNTH2B2Dd4bTkDQQRrsuuTrdAO5eKl2QfSPhKQQLAhb39HfyziaU=;mOlUxboXzBsUKFFpZrrnQg=="
 ---
 

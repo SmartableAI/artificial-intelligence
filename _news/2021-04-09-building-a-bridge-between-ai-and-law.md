@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Perils of Overhyping Artificial Intelligence"
-    excerpt: "In 1983, the U.S. military’s research and development arm began a ten-year, $1 billion machine intelligence program aimed at keeping the United States ahead of its technological rivals. From the start,"
-    publishedDateTime: 2021-04-06T13:24:00Z
-    webUrl: "https://www.foreignaffairs.com/articles/united-states/2021-04-06/perils-overhyping-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2021/04/06/AI.jpg?itok=j52dSNM4"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6Hv7Nt/2Gwl6mmOPD7HMyKwa6dg/vq8JR73hIOKE/kPMe5GX7NcJrUfT1WoRrG9XXxO8OCyOiA74FRFulji8pOX6yvS/DIMmtFTnBsJ9te6mefRRCb0qAIEVEGcUGPlKH0TxuyIuMb/NJRm77vkkrLTFIJLI/zGXVokZCa4k95tmnlG+EBgJUzV8smXDFvU1ykIrASj41F7N+IZyJeCnL5JME8KuprxL0CjGTHTH9dS1SgMRR6zcNQU1qa0mmPiC1Bik/sOO4KeoGXHZe9TqbCvsKuiBjJIhaXm5tTTD96AagTvPh3FSVTKnigCgOvMRMMkYL7PxVWd84y9IKnIgL/yqUDlyiPC8hcb+EBAvV7k=;pNqluY7Db5Bd6XE99aR5dg=="
 ---

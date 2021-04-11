@@ -47,22 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "BuzzFeed research finds dozens of NC law enforcement agencies have used facial recognition technology"
-    excerpt: "Raleigh, N.C. — A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies. Buzzfeed got access to a list of clients of Clearview AI ..."
-    publishedDateTime: 2021-04-06T14:35:00Z
-    webUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/"
-    ampWebUrl: "https://www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/buzzfeed-research-finds-dozens-of-nc-law-enforcement-agencies-have-used-facial-recognition-technology/19612735/?version=amp"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 44
-    images:
-      - url: "https://wwwcache.wral.com/asset/business/2020/05/28/19118314/5ecfeb5a5672b-c2a8c5de-2c2b-496a-9516-bc92a5ba107c-DMID1-5mzi4s7v8-2000x1125.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
     excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
     publishedDateTime: 2021-04-07T15:22:00Z

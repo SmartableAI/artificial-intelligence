@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"

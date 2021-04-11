@@ -21,45 +21,47 @@ topics:
   - AI
 
 related:
-  - title: "Startup Adapts AI Used In Space To Advance Healthcare On Earth"
-    excerpt: "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup."
-    publishedDateTime: 2021-04-06T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/"
-    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/"
+  - title: "Education tech investments boom in 2020 focused on AI solutions"
+    excerpt: "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic."
+    publishedDateTime: 2021-04-07T21:22:00Z
+    webUrl: "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 106
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606349084789535232b6741c%2F0x0.jpg"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-04-09T13:34:00Z
-    webUrl: "https://www.benzinga.com/news/21/04/20556236/biosig-technologies-says-invited-to-join-alliance-for-artificial-intelligence-in-healthcare"
+  - title: "Artificial Intelligence Bridges Education Gap"
+    excerpt: "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the"
+    publishedDateTime: 2021-04-07T00:55:00Z
+    webUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/"
+    ampWebUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: WFLA
+      domain: wfla.com
+    quality: 74
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence and Healthcare Outcomes"
-    excerpt: "The next session in the Lifelong Lerner Webinar Series: Artificial Intelligence (AI) and Healthcare Outcomes will be held from noon to 1 p.m. (EST) on Thursday, April 15. Faculty from the University of Delaware’s Alfred Lerner College of Business and ..."
-    publishedDateTime: 2021-04-07T00:00:00Z
-    webUrl: "https://www.udel.edu/udaily/2021/april/artificial-intelligence-and-healthcare-outcomes/"
+  - title: "Resolver's AI-Enabled Security Management Solution"
+    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
+    publishedDateTime: 2021-04-07T17:47:00Z
+    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/integrated-security-management-systems-psim/product/21217650/resolver-inc-resolvers-aienabled-security-management-solution"
     type: article
     provider:
-      name: University of Delaware
-      domain: udel.edu
-    quality: 34
+      name: Security
+      domain: securityinfowatch.com
+    quality: 36
 
 secured: "p4VfNLKeix1ugkuBwB/Q45yCtDbzv14lBn2rUMlAlxrGolwnSJ7WzQvJMGRf5YX097gjuILSn8SPMpagpGPQ5MKbtFOcuUJxat0ZLbr3MUe8+XcvPVCGszBy/c+R3XN+Tv6YRIK9NMnU05c282NljEUXBsd4Qj1tB8iDksPqHiZKibTJJoa+8D1ZbxoQA9ishd5fVNB7QK6jBlfarYe/z+szlVY6hj0v7QzBKjyVHng8ID9tPttOIJ03ZQDDXIgIyQ5vg5Mxsn1weyDVxj3NPqsCzBgMbxzktrFbUVlZ1JGpS6D6fwlQAAIFNYB4qKMso8b2HCngJWuZPU+3g/HdSYN1EpBSho837qyjQfl8ZDg=;TL9z40bMO19l4CjcCtzWzA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song?amp"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: Syfy
@@ -26,22 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Near-Vana: A “New” Kurt Cobain Track Appears Courtesy Of Artificial Intelligence"
-    excerpt: "A \"new\" Nirvana track has been created using artificial intelligence software that analyzed a number of Nirvana tracks in order to mimic their writing, recording and lyrical styles."
-    publishedDateTime: 2021-04-06T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/"
+  - title: "There’s a ‘New’ Nirvana Song Out, and It Was Written By Google’s AI"
+    excerpt: "The neural network found patterns in components of each song, like vocal melody or rhythm guitar, then used those patterns to predict what would come next."
+    publishedDateTime: 2021-04-07T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/"
+    ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c74adda1ceeab6231e4a1%2F0x0.jpg"
-        width: 1200
-        height: 798
+      - url: "https://singularityhub.com/wp-content/uploads/2021/04/Nirvana-song-by-Google-AI-deep-learning-concert.jpg"
+        width: 1068
+        height: 601
         isCached: true
+  - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
+    excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
+    publishedDateTime: 2021-04-08T12:48:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
   - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
     excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
     publishedDateTime: 2021-04-07T23:06:00Z
