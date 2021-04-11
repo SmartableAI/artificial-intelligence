@@ -47,6 +47,17 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
+    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
+    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
   - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
     excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
     publishedDateTime: 2021-04-07T11:01:00Z

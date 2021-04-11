@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI in IoT Market may See Big Move with IBM, Microsoft , Google"
+    excerpt: "Latest released the research study on AI in IoT Market offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation analysis with upcoming trends and"
+    publishedDateTime: 2021-04-11T02:45:00Z
+    webUrl: "https://www.openpr.com/news/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    ampWebUrl: "https://www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/4/U411279994_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z

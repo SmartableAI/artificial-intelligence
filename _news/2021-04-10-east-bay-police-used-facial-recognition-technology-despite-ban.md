@@ -27,33 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition for bears (and other ways to use the technology for good)"
-    excerpt: "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears"
-    publishedDateTime: 2021-04-06T10:50:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
+  - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
+    excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
+    publishedDateTime: 2021-04-08T15:29:00Z
+    webUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg"
-        width: 1260
-        height: 710
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
         isCached: true
-  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
-    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
-    publishedDateTime: 2021-04-09T11:00:00Z
-    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
-    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+  - title: "Local police in Virginia will be banned from using facial recognition technology"
+    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
+    publishedDateTime: 2021-04-08T19:00:00Z
+    webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
+      name: Daily Press
+      domain: dailypress.com
+    quality: 54
+    images:
+      - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
+    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
+    publishedDateTime: 2021-04-07T08:00:00Z
+    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "China's first lawsuit on facial recognition made verdict"
+    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
+    publishedDateTime: 2021-04-10T09:34:00Z
+    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "WK/gtLDUufy56FIbeEL/ZC5V8/UBZWrJogxxjnEzDHjYpnyqpN2dV2DhcSJBmv7YITi26DOTV6wGAANanS/yJ+YTNlMvn7QF+Ergsikpn2gIg0MNx9iPKWryZ4X8uVbtC1Lqx0QI+zwK/naYICMBhNS8Y5nTSElhYNGmbhgqDTRdcc41tw9/GDZ8cXs7s8fxrs9Su89Z6YvPnukk5n3NxWZ60QChbT1pmXNnShDCwx6LqwwjJNZOYmgJHt/qLWUUQwktKCH1wKWmevoQ+Xft0RrGJtPhLpAS/b2gd6JHeOTe5m1hd11KQw1oM57KKyF7Q6bTpVNUo3QuNkmyn1gc+fcxcprW+w0bzcLLQuf2CvUN6vviorGrCnB6HQtCedTxp68qq9FsJqsEmETzGfGBtoH/jKf6kYmuzT/+6BnE8UTs3CEvA7BHRkXFGMw32tkmLgQyC0VSXUcCcKHEM/+IY3aq9pohdC9iuDlnviLKmXa96B19t4dbAksckV3xG4XPXtZs8r3R4D8bxbmFQ9Sx+w==;lrnqH5xawSkpzk/eM5Hhpg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "All about Artificial Intelligence"
+    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
+    publishedDateTime: 2021-04-09T07:13:00Z
+    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
+    type: article
+    provider:
+      name: Malawi Nyasa Times
+      domain: nyasatimes.com
+    quality: 39
+    images:
+      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
+        width: 810
+        height: 456
         isCached: true
 
 secured: "eBLvJBP+0uNr95mUO6LEa882aO4J655el/QqxY7eIbbio0UsC1DvMHA8em0p+NtHVx79tOm2bQwf3LetyIcTpjr5oa2tU3U2/J1fsbQuYcRrPUxPAwwqjb9EsENcMceDcMOpcHpY4RmYjqCAJJHuBUWL+E0W1jMyIQI34/NH47KCaZnXmPE3br3DnZH6v1bd2XcEvlZD+7we82Rk24j44H0QItCQyhr8Evg0aZUWy5wHf4CGanoKVKq6Z46fxhCBTfLOJnzmDm2QrhlyI06RG14tfGTzKT5FTX7/CxS3ae8oggMlHPHBdfAHwkeaFE/OV38Ut3Mu4evVScwCKMaazrDPZkyfDExScGVSag2FB//Z8Ln9/yj2KxDKR8+N+MMCb+RT0awWXMVqhRp1mphl82ALLWqd+8iFVWhoQ96PW1jMMdSJZL+vg9BGl3M1+AWsMlvSEq+zTqtWzwrgkaRHLaDNsttuqkCDMf4I8yG28N8E1suksCeUraexjiDZS3gNp/+bhhe+v1576cwTpnF7gQ==;0ntH0mW3qy31Le+rjXaqpw=="

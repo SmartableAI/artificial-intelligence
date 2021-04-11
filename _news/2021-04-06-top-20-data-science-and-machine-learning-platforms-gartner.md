@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -24,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "R19w/SBAoDxb0jWq+FlT9YQuD0VZ+H3b0pImiQDmZ75cRnynP5RdZDKFrPyZEu4aFWWBeqI/0gS70bmzJiMqsObIls/J6LSmRvC6JIeZZyHxLRv9CxKQGYJAY67fTbfHinjBEq4FkW7H1gXYdLObsgYYdfBqGHvYSwa3Z3obCuhHYiYFxkkqhi70YBZZB25EQddB+Fy9dvoLyP9roM1sYpzjdb0A+CDLdaVjzvmWjzoQK5EzuB8UZzaOqiomwr9j9yGNrEKxY2dEbjAytEPd+a+kZnvUWDRFaGUpSKkmSCyqIGFpOAttGsu4jppmLtQrQzVFW5wgsZFRLX1D4bHHNHmc3Jet3t6QDtNIJQLxrT4=;uAif85TpLDKE6NzyU8nDUg=="
+secured: "dSo6jT4QGrG2YsREHmNm6Z1xO+nb8Ve6ZWPxfECksRUYjcqwrVig86alupJkNQXMxa1UNCKpO8liG2JRZSQzLJu8tR7RjoAgyf67WA+O8k5VH3y+p23wr9ohB7cUP2+CGwhIa5KrIRQ7o84vYo0LRJgK3p9A/NfeIm473hLV8utrmHxrEaIhKTS+L3Mw/+f68fjCpHdzH85769UJo/walXr7Tmv5CXSlv0lJZOYhbvOXufqEHCucFe1stPqgwS8ckj7+k1hsQgBi/h/X5ZLTdW+Ue1eKI6bnSO0d3L/0D4ihNwKY5qyWGn5jkcbzGX6xEQr3McvZSnV5bXF+2Bfb3tFjfWJfsQnYfMVrgmmTUQc=;TbL89SPgv9l2PXt4emzqlA=="
 ---
 

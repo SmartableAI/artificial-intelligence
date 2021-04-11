@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Machine Learning Market Size To Reach $96.7 Billion By 2025, Based on Rising Usage of Data Science & AI Technologies For Driving"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2021-04-06T09:10:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-04-06/machine-learning-market-size-to-reach-96-7-billion-by-2025-based-on-rising-usage-of-data-science-ai-technologies-for-driving"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 55
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O5jj8guBgk3nXbkSx+7xB9l0c3tFo5JAfaExVNxKmYbiluS9ZWaV0/zyWMx7qOkx+30aeslHpO+zSZ9ZDktaU5mnxkiUSDPr6Rmhh1ASj0GnfO65B9ptqFKF9zICeNC64nnNA7G631OUYlO0Zxa9ZaHAKbhGk0JwqQGEiBSmaJ/74zFZUJ5NImnAOlDPYLlG/Mpwrw/SzH2NtC3z/ktt4/OdIfP0mtzf25LLdeIVg3qxidmyhzaqPZM5QQLrloc0sviMxhrpTo4QBP31z4UPq8VshCz5vpFEtVFx0TVKhTfBeqewMgbD+TjPGQXO/8yJRbdGSIEknUQ6+RVT9Vk2ZZwcOgXEWac4b8G134vvvhA=;AjmjfADWvg3ys/8ek+S8JA=="
 ---

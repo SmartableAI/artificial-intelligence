@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Agriculture Artificial Intelligence (AI) Industry Market Outlook, Industry Analysis and Prospect 2021-2027"
-    excerpt: "In this report a comprehensive analysis of current global Agriculture Artificial Intelligence (AI) market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years. http://www.marketwatch.com/story ..."
-    publishedDateTime: 2021-04-06T09:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-agriculture-artificial-intelligence-ai-industry-market-outlook-industry-analysis-and-prospect-2021-2027-2021-04-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
     publishedDateTime: 2021-04-08T09:28:00Z

@@ -93,15 +93,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "The Shape of Fintech Funding for Start-Ups in CCR"
-    excerpt: "Last week we saw how an emerging culture of collaboration across CCR gives credence to the Fintech Wales vision of building a sector that will enjoy"
-    publishedDateTime: 2021-04-06T10:24:00Z
-    webUrl: "https://businessnewswales.com/the-shape-of-fintech-funding-for-start-ups-in-ccr/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 4
 
 secured: "67nLHPLHVyk7c/8UxZJpywa1D40ttZVAtu8bzzCYV96DsYRBFZktwynWyCgJVhlhhT8TcLP6OuoioBnUEbw/Le8egPM83leLEJ45NHn3gZKU8PQVPKZNCD0cqYafBijxS3TzUz5pKwBVb7nFRfCeQDlaS/ta7HLVCP9ssHtTYZ7NU/h+K8ZABGP0l6Q8PF069mJNHWpb2dHU5tZ6xbKK2QWY5GhgqjmosmF+ZrQ8d5JLuf6MlYsu6rPW9jta6yPtUoCz1PsFQynW3CXTJWLokdso+BcoOWU4QsJa5uy/yxmbYzbxBqTTy/DHsdINBahYxP9XDhF4WOSBQet68CvvOxGGtehCGRESN7o8gP3EcUw=;WDT1fMQ6ymM/L4lb4qt6BA=="
 ---

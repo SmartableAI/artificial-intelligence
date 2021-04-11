@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Time to regulate AI that interprets human emotions"
-    excerpt: "And there is growing scientific concern about the use and misuse of these technologies. Last year, Rosalind Picard, who co-founded an artificial intelligence (AI) start-up called Affectiva in Boston and heads the Affective Computing Research Group at the ..."
-    publishedDateTime: 2021-04-06T09:02:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00868-5?error=cookies_not_supported&code=6b7b9a96-727f-463b-9066-2acac14fe27b"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00868-5/d41586-021-00868-5_19022884.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Neurosymbolic AI: Know About The Next AI Revolution"
     excerpt: "Artificial intelligence is one of the most disruptive technologies of our time but it still lacks some finesse. David Cox, Director of MIT-IBM Watson AI Lab agrees, “It’s time to reinvent artificial intelligence” with neuro-symbolic AI. With neuro ..."
     publishedDateTime: 2021-04-09T12:48:00Z

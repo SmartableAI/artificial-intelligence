@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Asian Americans deserve recognition in educational curriculums."
-    excerpt: "However, one of the challenges we face is our age and our inability to vote. That is not the case for most of you readers who are attending UC Berkeley. If we join forces, and all come together, we will hold the necessary power to make real change in our ..."
-    publishedDateTime: 2021-04-09T17:31:00Z
-    webUrl: "https://www.dailycal.org/2021/04/09/asian-americans-deserve-recognition-in-educational-curriculums/"
+  - title: "Rapid Robotics earns additional $12 million in Series A funding"
+    excerpt: "When they see what the Rapid Machine Operator can do, they start to get excited ... Unlike other robots, Rapid Robotics says, the Rapid Machine Operator arrives complete with machine vision and pretrained AI, so it can get to work in less than a day."
+    publishedDateTime: 2021-04-09T17:33:00Z
+    webUrl: "https://www.compositesworld.com/news/rapid-robotics-earns-additional-12-million-in-series-a-funding-"
     type: article
     provider:
-      name: The Daily Californian
-      domain: dailycal.org
-    quality: 24
+      name: CompositesWorld
+      domain: compositesworld.com
+    quality: 54
     images:
-      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/04/04.08.21.Abigail_-Lamoreaux.quotecard-1800x1160.png"
-        width: 1800
-        height: 1160
+      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2021-cw/0421-cw-news-rapidrobotics-rmo1.png;maxWidth=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NEA leads $12M Series A in Rapid Robotics amid US manufacturing resurgence"
+    excerpt: "When they see what the Rapid Machine Operator can do, they start to get excited ... Unlike other robots, the Rapid Machine Operator arrives complete with machine vision and pretrained AI, so it can get to work in less than a day. And it gains capabilities ..."
+    publishedDateTime: 2021-04-06T11:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-medical-devices-north-america-pharmaceutical-manufacturing-0d0ba78aba99f47652d1b24f522279dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "T1nSP/pOtO0KjlAip7mBuUoA5bvGhKWG8Tqv3zXNm6WZ7oaZ2Cq7J5GazjJFMY1uNjOaHR2xFEI/Z9lAcOR9mjsdp2WMQvLET/NH8dMJ8AtOFAyRoeoat6+IIAwVwUA/pIJXlSkRPtOD9BbqpWOROWW2mdu2F88JVavl4WckDQ+cLLMM++tFL9fNmD8NJr+ATRLkT0FRgPDMk5T3BjxnQIe42tYuoFE8jkRaJrDC1U0Hun4B4RKTaDhhohmI/7EOfpg6mnTbTOQC5INVRYme+gnUMHT5KagX3vCqkuD+febLoWnLdDGYaR2qaf8OqcOF3PkNiZ6igI4YRZhUP3Ll52jbWgjb2pGy2dWEZRwQqm1PtIZLhj7KOPABTpll9H4UwV6fQNux+LXORTNtvpfYr8gJFcx4oT97FIxtHh+iW00yHxRjqJwJYFuu7qjpcwDp5y24SM/EuYInwVPMRj52r+IU/RJDVuQGFv8Ag95UbfRO7dqk1x+ppFjVWJ5Vr8A50UeIQH06R7CnM431kIKDRQ==;d9i1gu2nyo+07Lsmk/5Jkg=="

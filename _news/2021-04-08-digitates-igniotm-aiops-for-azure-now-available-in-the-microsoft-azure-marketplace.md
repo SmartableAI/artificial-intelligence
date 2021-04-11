@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI in IoT Market may See Big Move with IBM, Microsoft , Google"
+    excerpt: "Latest released the research study on AI in IoT Market offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation analysis with upcoming trends and"
+    publishedDateTime: 2021-04-11T02:45:00Z
+    webUrl: "https://www.openpr.com/news/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    ampWebUrl: "https://www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/4/U411279994_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z

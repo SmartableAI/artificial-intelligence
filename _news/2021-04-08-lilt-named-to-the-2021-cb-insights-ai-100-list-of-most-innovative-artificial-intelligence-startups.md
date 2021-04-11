@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-publishedDateTime: 2021-04-08T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
+publishedDateTime: 2021-04-08T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
 type: article
-quality: 50
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
+    width: 800
+    height: 286
+    isCached: true
 
 related:
   - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
@@ -240,6 +241,6 @@ related:
         height: 384
         isCached: true
 
-secured: "76ZkOVn+dlirLYaaHsGHpzNtS/372J+kJIVAh0HtWhKxaRDnhc/pNVExJZTmrP8lUtxn7m5TrGBhXSEBU2WK4O6HIm9H+0sLKOcmYFh10avPFw3EOwpaU6DMQmrJGYqvWHLcUVWvsmi9I/iSbM/HN4ZNmkRT/YhtaqIs8+j6/y/dLfVT6UdxIOXBxN41Uiqqi+rIvXKf+FqfkhTQkwV2uHaMUsF2AxCj8igACsCMAOkbRiJwiMLI5XfT5FGPCEVXWGZNYWM2j/DPp3WuoKG77+f4/TIdilHQyhxSvtoQrh+IrQclvyFEl2CuAE67qQZ92ARRiyxfdNgkCS1h+tINnxjQLrBSd98s5403y77RhThP4jRJUUIHQIrnpZMwLGBMupoa4XG/t41sInm8npJwGYLlA6tBlucZ64fX7Ffq6kKUBWyq3ak8YGsqGGfbuevE25RMku3UDCeOjIILUAQPAZJbM3sT21hdA9gY74c2obg7L7Yc5lZLCg4aCf1T7jT1Mo0gyMbX+7SBg6pXvl3RUQ==;GPQOoDMAqYwrjXn7TIfWZg=="
+secured: "z7TqNTfgSssIYkLkds6aeidNSe6SB0IHPCKVXWcxmSgaPugGL+hWKb4MDBnfB1T95trLMXXAonPtY66Cz+SeCYmitCkFS7LZihDhyuUdp/u4+D3d9UG9es7yG5qj/s3muSvYUDppJWNSixJT9qEvrnfV93t+MCTS5SDFVJND9W+XonYB7vqJnUtmKdLlWZqk8X5DVb/9EsLHcGYIjph9vtuq+j2FVXrq5f7AkG8ZCtI/xcV/Oggva7D5Laz9p0fhvl1vJsfQRYLVjhNtKqLc32V5gCtUjmTQC5nASDSuOejGht6yE96kHPtfkMVfcv/f/WgRC2EPhh592HduyOHQ8fNDFYmtVWWir9h6ryRoL2c=;wa/nNek+AHkasBh0br4Zrg=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Adapt’s mission to empower tech users with an ethical approach to AI"
-excerpt: "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users."
-publishedDateTime: 2021-04-02T14:58:00Z
-originalUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation"
-webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation"
+excerpt: "Adapt’s metrics to date are impressive. The number of researchers the centre supports is doubling, from 199 up to almost 400. For every €1 publicly invested in Adapt, more than €5 is leveraged back to the Irish economy."
+publishedDateTime: 2021-04-02T14:52:00Z
+originalUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
+webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ukPItixjADD3RC3FoiI04Xq5EH+Dh/6jBdgfq4hSuaPDrv6KeNBFxUp15DJnfM3nmpz4wW5tyKTTsnUObyJYgbjGeRehJeYpQRZt3BKMU1h3M5nEwIssPQTnnvg2M3yXON5dNyRz57xRhivSRMVOme33nXfd8ND4MaLqCOOTJbr6Jnx8agDj9fPxH0xxJInJ7lSz7M0b6/AuZCoJCg+wVo+Btv43bjXwj0HoXflGD2c8JSE95U9m9YI/cxSsppnsKZNFM+Gf+jNZhqz9G+hIfrCu+AMvbtxQsktPaYoFcZdwID65ZWgLA9d7xQsU0mD5EPM7qj8KO9ulOctpFXmnA6con5ZuYDKb8UKS02Ym0W4=;FbteycZqYxJ6MFzXPcOIzg=="
+secured: "7EvkzHbf0qz4+Y4kugTVb058WmpGmX752QzjrAC6Lae+H/xSBbExgW06sevjzBSJQCLgkSVK1JI4+kKHxsjkeRN5wLA9vtfbA7EmokTh/HB8t6+u/WlCIOQKkp6CqSC/Zt1+ohtx2ZtLE1ctNFU5yJiLuXlc0fQ8HWZmcYzIK50A9tASRLQ/kH2Smx7JJV15wvYDAAetVK5QMIUunBYbHQwQRm75btTxbprL6yZ+9T8WPhEXpneYqSsVrDTdv5m4tIwi0KE4awzp4A2g3V72w1zOlnphf1+ZW/8dFe7gjNsDviNCxDZVDe5zpv63iJMlSzRH3YZCfzpaEXkut6QhCfv4jPaTFOPGTisF5KAqtjk=;lnK4c1+XwVao75kRFxEZWg=="
 ---
 

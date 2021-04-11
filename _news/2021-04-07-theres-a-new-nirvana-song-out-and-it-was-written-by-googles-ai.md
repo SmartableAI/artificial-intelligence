@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI creates another Nirvana song"
-    excerpt: "On the 27th anniversary of Kurt Cobain's death an AI is attempting to fill the musical gap he made by putting a shotgun to his head. Nirvana tribute band frontman Eric Hogan sings in the chorus. It sounds not all that dissimilar from \"You Know You're Right ..."
-    publishedDateTime: 2021-04-06T09:32:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52638-ai-creates-another-nirvana-song"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/233996b7fcd7b25d40a9332adb503ffc_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
     excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
     publishedDateTime: 2021-04-08T12:48:00Z

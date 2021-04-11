@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 887
         isCached: true
-  - title: "Time to regulate AI that interprets human emotions"
-    excerpt: "And there is growing scientific concern about the use and misuse of these technologies. Last year, Rosalind Picard, who co-founded an artificial intelligence (AI) start-up called Affectiva in Boston and heads the Affective Computing Research Group at the ..."
-    publishedDateTime: 2021-04-06T09:02:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00868-5?error=cookies_not_supported&code=6b7b9a96-727f-463b-9066-2acac14fe27b"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00868-5/d41586-021-00868-5_19022884.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "rBDNxgqHzrqV7bzdw7CMyWfStCyOhgPJjIJYHqjthP2fe7GGVoT4GEuIKIj/GAvrkpFgO8mQ3KB+3F8koXc6ljdZv2LTm7p0/PF/zkzsrBSygtz3dWlWxoDKS5tetz7Xai34JCGCkusb9iveO5owbjdyfZEmA3+JeaRHo/SmfuGwxsL73JfVmIFo42lSVK70/gSHdC15dl4C3PQgRSTo9DQFXp7Y+SmS8Yd+5PKvrmfb3yBtFxImYFyNHtwznqj8ZK891lEQYMqQjwHK2t2XezCuvWeC9A0m30nolzlarlvYgCY+UmBDkd9wybn/O+3Rl7UBuzaNqqkySoaPBiOW/jT5vGIGFvPiBn1+lGB6xTU=;TNikkUG3IO2hjLNo54a40A=="
 ---
