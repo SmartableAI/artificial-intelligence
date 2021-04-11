@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-o
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/7b389cce19a0a20867f31251ebd3fdfb_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "Ice Lake has arrived: Intel launches 10-nanometer Xeon server chips with 40-core flagship"
-    excerpt: "Intel is promising 74% faster AI performance than previous-generation chips and up to 150% faster speeds than rival Advanced Micro Devices Inc.’s EPYC 7763 CPU. The chipmaker reached the latter ..."
-    publishedDateTime: 2021-04-06T17:12:00Z
-    webUrl: "https://siliconangle.com/2021/04/06/ice-lake-arrived-intel-launches-10-nanometer-xeon-server-chips-40-core-flagship/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/intel1.png"
-        width: 690
-        height: 457
         isCached: true
 
 secured: "HapRrnu9sACy8HBhwRCFB3GLop05Org2RawBrzvB1A1uq3nJ6fkGzk9EcW0mHIO6SJxVwPY3NNTAfgrEoHI2kiBpC5PPfU1j52gkVQrrRKfNXMOLO/RVSSlN7sjEnLCupACNFH2yZ94ICHdjPBo0MbU84YvFgfIPeVAZLroxSaUQOZu5ha3rrfvfqWoEjoyv8chYuohvlHV1ALIqS+NrEGNnNf62plkW+00g2mhOxiQwK02WNjZHdzChk3vovJYs1vUzPf3wHvXtpN8JeFTHtZ/WMIRlYMNqSBqkcCuRCfzFtgFdMXgxqGs9A8/QEYTn97JVWE3G5IRybflD1EFKAcqKD4dM2MdMtH2ATeaAqrVrZYpSj8IjfzRTBqBlVxcDJaEVcJ7GKLrNvjTM1jFbPcwjIGYWX4GQQpC1gNzbh8W+4eW7hLGx8TPdwOa7UnXahMuElDrzKp48wTvNqLS4yRrz6CI1pz53Guoc6xHAQBZY0/EWmL+NLicv/zyjUIJcO3q0fcNy4XCdMqygS5VPQQ==;ALUnnaTdn0F/INREXOoMnw=="

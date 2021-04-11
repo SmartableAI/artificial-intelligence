@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
         width: 700
         height: 471
-        isCached: true
-  - title: "CU-ICAR fast tracks self-driving cars with Deep Orange 12 project"
-    excerpt: "But in this race, only a computer is in the driver seat. And the ultimate winner? The autonomous vehicle industry. “Self-driving cars are the next grand challenge in automotive technology, but we’re still a ways away from an autonomous vehicle that can ..."
-    publishedDateTime: 2021-04-06T17:49:00Z
-    webUrl: "https://gsabusiness.com/news/automotive/80307/"
-    type: article
-    provider:
-      name: GSA Business Report
-      domain: gsabusiness.com
-    quality: 24
-    images:
-      - url: "https://gsabusiness.com/core/files/scbiznews/articles/d34cd8df7c76e53a997027616d1e1b6e.jpg"
-        width: 540
-        height: 286
         isCached: true
   - title: "Inside the self-driving car of the future"
     excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."

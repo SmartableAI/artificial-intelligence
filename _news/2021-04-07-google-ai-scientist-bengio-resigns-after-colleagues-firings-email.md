@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
 quality: 89
-heat: 299
+heat: 279
 published: true
 
 provider:
@@ -92,31 +92,6 @@ related:
       - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Google AI scientist Bengio resigns after colleagues' firings - Bloomberg"
-    excerpt: "A leading-edge research firm focused on digital transformation ... who co-led a team of about a dozen researching ethical issues related to AI software. In December, Bengio said on Facebook that he was stunned that Gebru, whom he was managing, was removed ..."
-    publishedDateTime: 2021-04-06T18:31:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-scientist-bengio-resigns-after-colleagues-firings-bloomberg-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "Google AI Research Manager Resigns After Two Ousted From Group"
-    excerpt: "who managed some researchers in the Google Brain team, announced his departure Tuesday in an email to staff that was obtained by Bloomberg. Bengio also oversaw the Ethical AI team led by Timnit Gebru and Meg Mitchell, who were both ousted from the company."
-    publishedDateTime: 2021-04-06T17:52:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
-        width: 1200
-        height: 642
         isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings"
     excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."

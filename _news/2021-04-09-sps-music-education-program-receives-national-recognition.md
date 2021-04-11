@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Half Hollow Hills' Music Program Receives National Recognition"
-    excerpt: "After two years of music education, researchers found that participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and ..."
-    publishedDateTime: 2021-04-07T19:09:00Z
-    webUrl: "https://patch.com/new-york/halfhollowhills/half-hollow-hills-music-program-receives-national-recognition-1"
-    ampWebUrl: "https://patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-hills-music-program-receives-national-recognition"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-hills-music-program-receives-national-recognition"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/users/22950191/20210407/030954/styles/patch_image/public/2021-hhh-namm-best-community-for-music-education___07150840777.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "Marblehead Public Schools Music Department receives national recognition"
     excerpt: "Research found that music participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and that students who are involved in music are not only more likely to graduate high school ..."
     publishedDateTime: 2021-04-10T18:05:00Z
@@ -58,15 +42,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "National Recognition of Alexandria-based Elder Network’s Respite Care Program"
-    excerpt: "Central Minnesota Elder Network’s Respite Care Program has received national recognition as an Innovative Provider ... and serves as a strong voice for respite in all forums. The purpose of ARCH’s Innovative and Exemplary Services initiative is to ..."
-    publishedDateTime: 2021-04-09T09:01:00Z
-    webUrl: "https://www.voiceofalexandria.com/news/local/national-recognition-of-alexandria-based-elder-network-s-respite-care-program/article_3c6777b0-9890-11eb-b5fa-1bc8fcbf7c7b.html"
-    type: article
-    provider:
-      name: Voice of Alexandria
-      domain: voiceofalexandria.com
-    quality: 1
 
 secured: "05vUQyiOT0FBPwN+AA6hwZwilN2VF6lLHEmrWw+BXJj7jrcfPUIBF74Io5xj9u4bae/w1VNP4HZ4lRyLBHJ8CNHrp6hQUIoRp2AUcqOkvRV5jEQ1q4HBUqe8jmRCzeutOmPxDk7Jrwin6andv/MRFJT/JC7QPZj759T0qAiBnlvqH5hFpIC+HpTn66//QMmYlmSfMUjRi3W8AfgFRnPERJcF0XECBN27TtPjXhw4l3eeB7Een4gGhp8Et5HGQlscw+HOU2K5R3m4qTd3884Zd9fxbmbXTupfgkM7hKRioCGrkZq4di0BLRwcT9WgL/ApFH7u63tpwF8TYe7Z9SxJ+wk5xTsP6s/GjbC+dzZ1UoY=;p1PiyzEEUvirFr9Wh2D8tQ=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UCL scientists use AI to identify three new multiple sclerosis subtypes"
-    excerpt: "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple ... treatment choice and identify patients who would best respond to a particular therapy. Explaining the research, lead author Dr Arman Eshaghi (UCL Queen Square ..."
-    publishedDateTime: 2021-04-06T18:21:00Z
-    webUrl: "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Identifies New Multiple Sclerosis Subtypes from Brain Scans"
     excerpt: "Here, we used artificial intelligence and asked the question ... better guide treatment choice and identify patients who would best respond to a particular therapy. “ … we aimed to redefine subtypes of MS based on a data-driven assessment of the ..."
     publishedDateTime: 2021-04-08T12:00:00Z

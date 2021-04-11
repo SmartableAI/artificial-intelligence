@@ -135,20 +135,6 @@ related:
         width: 700
         height: 471
         isCached: true
-  - title: "CU-ICAR fast tracks self-driving cars with Deep Orange 12 project"
-    excerpt: "But in this race, only a computer is in the driver seat. And the ultimate winner? The autonomous vehicle industry. “Self-driving cars are the next grand challenge in automotive technology, but we’re still a ways away from an autonomous vehicle that can ..."
-    publishedDateTime: 2021-04-06T17:49:00Z
-    webUrl: "https://gsabusiness.com/news/automotive/80307/"
-    type: article
-    provider:
-      name: GSA Business Report
-      domain: gsabusiness.com
-    quality: 24
-    images:
-      - url: "https://gsabusiness.com/core/files/scbiznews/articles/d34cd8df7c76e53a997027616d1e1b6e.jpg"
-        width: 540
-        height: 286
-        isCached: true
   - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
     excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
     publishedDateTime: 2021-04-09T00:13:00Z

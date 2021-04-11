@@ -41,21 +41,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI"
-    excerpt: "Ao continuar com a navegação em nosso site, você aceita o uso de cookies. The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise. By Caroline Haskins Posted on ..."
-    publishedDateTime: 2021-04-06T18:12:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+  - title: "Report: 20+ RI PDs tried facial recognition tech; civil liberties advocate alarmed"
+    excerpt: "PROVIDENCE — Nearly two dozen Rhode Island police departments were apparently among 1,800 public agencies nationwide that used or tested a particular facial recognition technology, according to an online news outlet, and civil libertarians ..."
+    publishedDateTime: 2021-04-09T21:59:00Z
+    webUrl: "https://www.providencejournal.com/story/news/local/2021/04/09/departments-were-testing-technology-supplied-clearview-ai/7162730002/"
+    ampWebUrl: "https://amp.providencejournal.com/amp/7162730002"
+    cdnAmpWebUrl: "https://amp-providencejournal-com.cdn.ampproject.org/c/s/amp.providencejournal.com/amp/7162730002"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 97
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 53
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NLED/e15211f7-caf9-4353-8de1-0ebaa72b7462-stock_FL_Syn_crime9.jpeg?auto=webp&crop=3226,1814,x403,y437&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Report finds NC police use facial recognition tool"
     excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
