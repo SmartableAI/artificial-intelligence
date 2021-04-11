@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-o
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -45,34 +45,6 @@ related:
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-1.jpg"
         width: 822
-        height: 400
-        isCached: true
-  - title: "‘Ice Lake’ Launch: Intel Impresses with 3rd Gen Xeon Chips"
-    excerpt: "In its cage-match struggle with AMD, Intel responded this morning to its rival’s vaunted EPYC 7003 Series CPUs, announced two weeks ago, with its 3rd Gen Intel Xeon Scalable data center chips, code named “Ice Lake,"
-    publishedDateTime: 2021-04-06T15:34:00Z
-    webUrl: "https://insidehpc.com/2021/04/ice-lake-launch-intel-impresses-with-3rd-gen-xeon-chips/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Intel-Ice-Lake-man-holding-chip-0421.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "‘Ice Lake’ Launch: Intel’s ‘Impressive’ 3rd Gen Xeon Chips"
-    excerpt: "(Ice Lake) is another advance in the direction of supporting data better with on-chip memory and data movement. That’s going to be very important for markets like AI, cloud enterprise, and edge computing.” This relates to an Ice Lake AI strength ..."
-    publishedDateTime: 2021-04-06T15:18:00Z
-    webUrl: "https://insidehpc.com/2021/04/ice-lake-launch-intels-impressive-3rd-gen-xeon-chips/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Intel-Ice-Lake-man-holding-chip-0421.jpg"
-        width: 600
         height: 400
         isCached: true
   - title: "Intel’s server chips finally go to 10nm"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
         width: 980
         height: 551
+        isCached: true
+  - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
+    excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
+    publishedDateTime: 2021-04-11T08:11:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leading_Irish_RegTech_Startup_expands_to_the_UAE_as_demand_grows_for_antimoney_laundering_compliance_software_for_banks_and_FinTech_challengers-ZAWYA20210411081141/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 22
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
+        width: 450
+        height: 501
         isCached: true
   - title: "Angel Broking Rides Fintech Wave to Record 127 Percent Growth in Client Base"
     excerpt: "One of India’s leading digital stock broking company, Angel Broking, is adding a new chapter to its decades-old journey as a financial services company. Having achieved several awards, accolades, and growth through digital transformation in the previous decade,"

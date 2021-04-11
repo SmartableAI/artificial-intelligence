@@ -38,22 +38,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 147
-  - title: "Discover the stupidity of AI emotion recognition with this little browser game"
-    excerpt: "Tech companies don’t just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers’ ability to understand emotion are fundamentally flawed ..."
-    publishedDateTime: 2021-04-06T15:17:00Z
-    webUrl: "https://www.theverge.com/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 85
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ZWlS11gG_bir88B5zuENPLZj6q0=/0x0:2078x1389/1400x933/filters:focal(873x529:1205x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Researchers create online game to spread emotion recognition awareness"
     excerpt: "Cambridge and UCL scientists have created an online video game to show the public the risks associated with biometrics-based emotion recognition programs."
     publishedDateTime: 2021-04-07T22:39:00Z

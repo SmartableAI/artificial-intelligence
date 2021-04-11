@@ -262,6 +262,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers.md",
+      "title": "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers",
+      "excerpt": "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
+      "originalUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
       "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
       "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
@@ -366,7 +409,7 @@
       "originalUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -526,7 +569,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1425,58 +1468,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
-      "title": "Fridges, microwaves fall prey to global chip shortage",
-      "excerpt": "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai told Reuters in Shanghai. “It’s a perfect storm,” he said on the sidelines of the Appliance and World ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
-      "originalUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4",
-          "width": 796,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
-      "publishedDateTime": "2021-03-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

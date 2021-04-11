@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-acuant-joins-forces-with-microsoft-to-build-a-more-trustworthy-identity-ecosystem-with.md",
+      "title": "Acuant Joins Forces with Microsoft to Build a More Trustworthy Identity Ecosystem with ...",
+      "excerpt": "Azure AD verifiable credentials are now available in public ... Our Trusted Identity Platform is powered by AI and human assisted machine learning to deliver unparalleled results and operational efficiency. Omnichannel deployment delivers seamless ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
+      "title": "Guard Digital Identity With Artificial Intelligence",
+      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
       "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
       "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
@@ -1145,100 +1239,6 @@
         "Google AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-05T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture.md",
-      "title": "AI Holds The Key To Helping Remote Organizations Maintain Great Culture",
-      "excerpt": "How do you know if remote employees are engaged and happy? Do your remote teams have the dynamics that fuel success? Artificial intelligence (AI) is taking the guesswork out of the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b2715c62555e80b1ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "publishedDateTime": "2021-04-05T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

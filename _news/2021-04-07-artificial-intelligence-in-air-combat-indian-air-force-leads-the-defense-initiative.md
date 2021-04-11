@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/defence/artificial-intelligence-in-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "AI and Economy in India are Climbing the Progression ladder"
-    excerpt: "With AI, this industry is reaching to greater heights and artificial intelligence offers diverse pathways for scientists to experiment with. It goes without saying that where there is chip making, there is AI. The government’s previous attempts were to ..."
-    publishedDateTime: 2021-04-06T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-and-economy-in-india-are-climbing-the-progression-ladder/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
 
 secured: "e60bNheFlt91l+9brDyc1zL4HXHfz0W8llwCZFdeLq65RioyruoxT4ZCgWNJUSBOqrq/xAjHuJmJw4+g35SDwdVc91tD7xqJQkwRhjZPsW91VtsNKLbmbKvLLRUEnTBnVpFdCjEiENNfno/LslZtfnTYgJFSyHbSAHqsfCArAciSzz5B16Zcheu8zIDeT+8BUuq61ecfwZgLjM1A8tcKGFtcWF4aGPyXemohdEHTvwlR8/hNTTNf//p2nrtetewxkN+amWQ9V0epXnbo/Jt1m4JMGtBVCPtLsZmHGe5pqR6Aava3DbmnqPv3mkWNilp4mtf9KOTJ5QYFWK4x87xCs4EuFcowSg3GE5/xy2OeDpk=;UybbVwK/UxpvcHIHU+19qg=="
 ---

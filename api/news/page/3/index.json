@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
-      "title": "The 4 key elements missing from your conversational AI strategy",
-      "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-46_-Enterprise-Plan-Launch-Thought-Leadership_Leadspace_Final.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:00:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-facebook-tackles-ai-fairness-and-bias-with-new-data.md",
       "title": "Facebook tackles AI fairness and bias with new data",
       "excerpt": "Facebook said Thursday it's releasing new data that could help researchers improve artificial intelligence systems so they're less biased and more fair. AI is already being used in various tech products from self-driving cars to facial recognition.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/news/facebook-tackles-ai-fairness-and-bias-with-new-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -467,7 +415,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -865,6 +813,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers.md",
+      "title": "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers",
+      "excerpt": "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
+      "originalUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

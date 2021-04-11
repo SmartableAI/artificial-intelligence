@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and Economy in India are Climbing the Progression ladder"
-    excerpt: "With AI, this industry is reaching to greater heights and artificial intelligence offers diverse pathways for scientists to experiment with. It goes without saying that where there is chip making, there is AI. The government’s previous attempts were to ..."
-    publishedDateTime: 2021-04-06T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-and-economy-in-india-are-climbing-the-progression-ladder/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
 
 secured: "r7X3gmJmWYSjNGrKTqJWGGtvew/mQs6o/SuEjGXYTE6oT3EbOQdPqzCoB9xzEWgrRqRUN8A5ZbMvxcpqSRtSPhY0rQNQCxon3bBcfHND3EdQJahqyl/2uoNkvPmX0RpSTbnyXFOqhSn8VEWQOWqVw3/Wi7WacgMVQXdGZ1sE/NbA2D4lpq9Ulx4KlnjUB5E/4b83VRAd5h7q7g1+mtrCaiH7G0XRWivsC510D2BodoOcbAi7I8gq49dMFW8knOJzWNSXczZa65FbbsgeRg53NikgFm5X0KQqbGCxBN3GGdm1tspqwUS5QLl/Osp3pxtEZNyLS3kl+7Gsd4KSAj44x6TBBWA7sUeXBWAyskoVf6e8nVAp1bhXmO2Af7lnZW5qBFyy2MTIxfUq6MsdgCFC4xZoAxemBcNn6IJwI+RBp5h49HUcmDRzdkLzhyEoW+vSVwLgCy7pgpjWJZ7F/pMPeTJA8wvhGPCE1Z3Ug0EFBKaVLRiBk8CXprZ8N9PYluE75XpLAyEEJjegC2MOp1XhWw==;sNNlqtKjXI8HTjc8LhZEMw=="
 ---

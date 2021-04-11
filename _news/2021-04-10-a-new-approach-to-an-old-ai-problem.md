@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-
 webUrl: "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-problem/"
 type: article
 quality: 67
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Wired
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "A new program can animate old photos. But there’s nothing human about artificial intelligence"
-    excerpt: "His animated image and others like it — at the same time unsettling, emotional, and a bit fantastical, are made possible by Deep Nostalgia, an artificial intelligence program from the genealogy ..."
-    publishedDateTime: 2021-04-06T16:00:00Z
-    webUrl: "https://ktvz.com/money/2021/04/06/a-new-program-can-animate-old-photos-but-theres-nothing-human-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 26
-    images:
-      - url: "https://ktvz.b-cdn.net/2021/03/9eWY41TC-210302153937-myheritage-deep-nostalgia-photo-2-live-video.jpg"
-        width: 576
-        height: 324
-        isCached: true
 
 secured: "SwrvbFzdQQKKQXYOvLyHzwBndCCxSQvbb1MA15+9nJkku7i4+9Lg0TE/xSdyMTo0scX7fV3OWzbdEV3TlhBdqaaY7aEeNFb6sr+GRjDigM8Y5fdldJhZt015KOQZmgT3Wyild8Tj6m8or3ubPw7Z+y5lQ5e0DLAoHGJewwTs10fy0Xm4eduJxq8w2CzfCvfqcSM9Dk6LyCPY+g2PMTLTWXDJgVwG4gi9E6BXVHkanpT+2WyKVFAEu4lNYTJ7xetIom89AHYSkZpLx5ctWKjnEBhbZpVBNRIHBfmrlb0L1jxGmtJrUGuizK/f8GfGKBIZSkb+HxVcpENRQ9iIMrHS4FOjvemGOxPad1YwuMD17aBbWJLez5XZglX4AzNzSTgJQBSuVLpBDPxH0MuLEm/suXUy5DXEzeYPmDWgoXipzILp7GuIOFWkuGL9TVxKQxGvfWs70KP0rXRXYckdAb1UlIKK6ZXou0m6pgJTe9MfxuD1AF+8zpZ7s+bwMa0ou3MpzfNtTHy2KV8ZzKAQsZn4ow==;B7YZE/9AS+HoDSI1PhXbeg=="
 ---

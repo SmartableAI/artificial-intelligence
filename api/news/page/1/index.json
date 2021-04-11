@@ -418,7 +418,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -459,57 +459,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-a-new-approach-to-an-old-ai-problem.md",
-      "title": "A New Approach to an Old AI Problem",
-      "excerpt": "But FACET’s full impact goes far beyond just BCG. Indeed, it’s arrival could help define the data science industry’s new frontier—using AI to explain, rather than just predict. “As a general trend, I think the emergence of explainable AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-problem/",
-      "originalUrl": "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6053689269c494bccac5a99a/191:100/w_1280,c_limit/GettyImages-1191009126.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1237,6 +1186,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-securing-your-data-in-the-new-world-of-ai-enabled-data-management.md",
+      "title": "Securing Your Data In The New World Of AI-Enabled Data Management",
+      "excerpt": "When your company is using AI-generated data and provides your vendors with access to sensitive information — including facial recognition scans, up-to-the-minute images from embedded security cameras and sensitive employee data — the topic seems to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeaa4ed584777ab549994f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/",
+      "publishedDateTime": "2021-04-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

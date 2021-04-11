@@ -2,6 +2,101 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-552-in-february.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 55.2% in February",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the target of a large drop in short interest in the month of February. As of February 26th, there was short interest totalling 330,200 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks3.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html/amp",
+      "publishedDateTime": "2021-03-14T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
+      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
+      "excerpt": "Citic Securities Co. is the sponsor of the listing. Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with security, which in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth-covid-19-impact-and-recovery.md",
       "title": "Global Artificial intelligence (AI) Chips Market 2020: Study Report with Prospects and Strategies to Boost Growth- COVID-19 Impact and Recovery",
       "excerpt": "This report aims to estimate the Global “Artificial intelligence (AI) Chips Market” for 2020 and to project the",
@@ -1114,100 +1209,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
-      "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
-      "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "originalUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
-          "width": 444,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-adventures-with-ai-heres-what-happened-when-i-ate-a-three-course-meal-designed-by-artificial-intelligence.md",
-      "title": "Adventures with AI: Here’s what happened when I ate a three course meal designed by artificial intelligence",
-      "excerpt": "Unfortunately, since the onset of the COVID-19 pandemic, I’ve been doing a lot of the latter and almost none of the former. The model’s been trained on a gobsmacking quantity of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-12T134101.728-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-12T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

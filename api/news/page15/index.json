@@ -2,6 +2,83 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
+      "title": "Robotics and coding to be introduced in Grade R classrooms",
+      "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
+      "originalUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesouthafrican.com/wp-content/uploads/2021/03/Untitled-design-21-16.jpg.optimal.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
+      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
+      "publishedDateTime": "2021-03-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
+      "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
+      "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "originalUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "publishedDateTime": "2021-03-29T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-chipotle-invests-in-nuro-in-autonomous-delivery-push.md",
       "title": "Chipotle Invests In Nuro In Autonomous Delivery Push",
       "excerpt": "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses",
@@ -1087,101 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-what-is-dataops-and-why-its-a-top-trend.md",
-      "title": "What‌ ‌is‌ ‌DataOps,‌ ‌and‌ ‌why‌ ‌it’s‌ ‌a‌ ‌top‌ ‌trend‌",
-      "excerpt": "While there are dozens of commercial products for the other domains, Barot said there are only four commercial Platform Ops tools today: Amazon SageMaker, Cloudera SDC, ForePaas, and OneLogic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "originalUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-data-science-machine-learning-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "publishedDateTime": "2021-03-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-exoskeletons-with-autopilot-a-peek-at-the-near-future-of-wearable-robotics.md",
-      "title": "Exoskeletons with autopilot: A peek at the near future of wearable robotics",
-      "excerpt": "We’re developing autonomous control systems for robotic exoskeletons using wearable cameras and artificial intelligence ... we are replacing manual controls — [like] stop, start, lift leg for step — with an automated solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/",
-      "originalUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/exoskeleton-autopilot-robotics/?amp",
-      "publishedDateTime": "2021-03-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

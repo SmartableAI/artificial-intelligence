@@ -7,7 +7,7 @@ originalUrl: "https://longisland.news12.com/legal-aid-society-calls-nypd-use-of-
 webUrl: "https://longisland.news12.com/legal-aid-society-calls-nypd-use-of-facial-recognition-technology-unreliable"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The NYPD used a controversial facial recognition tool. Here’s what you need to know."
+    excerpt: "Newly-released emails show New York police have been widely using the controversial Clearview AI facial recognition system—and making misleading statements about it. It’s been a busy week for Clearview AI, the controversial facial recognition company ..."
+    publishedDateTime: 2021-04-09T09:01:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 52
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-6.17.20-PM.png?w=932"
+        width: 932
+        height: 460
+        isCached: true
 
 secured: "YHOii1OLLzqt9RoVQCcvm94CZFwT+PvnjS9qLNAq9DcEVCP/cYb8JemfWo3axZOd84wdwMVKvkH3otmIpySstemHnRxNCsWx5Rg+bgQfOtLK666x4t8i/EjZkvGVEjMEpm6EYCdGtXo/CzGAntkCNJQasgqjYCdqckQej8kDUo4gLZfDPbl7m6/igOcx5Dx0OR0UyZl5WLkp7pyaSCSDt9LnP7aJmIp99SP6bZBiVtKSoj3wVaNshAojJTYTVwM1nS6taSJMaP129+AiVVudCOEjwa3pr5xTrIDhmLcEK/WlivOuhiH+gEH5qYxKINbZmSQxMOqZRMjmoGSYeMxGw6vq/iuuJ7OYSXiSqATKHRP18N0knd0pH24ji3tsMeYxW11kgo1pV/OUsU1KSVdxQLzGFW66ueckh1OHjfqqX0lpHLslJ7iSxVz30tyqDFHDyzngijd+L+RZwu1DHu692IgisE6tAwJvfU9wEmr5IAOO0VeeBQ8RMVJgV8lo1vQs39VVGDsJmbUAg4XFcjNHNQ==;PC0T6HDhnppHJzmgX1HvJQ=="
 ---

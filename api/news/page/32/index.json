@@ -2,6 +2,110 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
+      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
+      "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "publishedDateTime": "2021-03-16T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-ai-and-x-rays-identifying-the-many-faces-of-covid-19.md",
+      "title": "AI and X-rays: Identifying the many faces of COVID-19",
+      "excerpt": "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/",
+      "originalUrl": "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/02/Lunit_main-REsize-1600x1052.jpg",
+          "width": 1600,
+          "height": 1052,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
       "title": "ByteDance team to develop AI chips as China aims for self-reliance",
       "excerpt": "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation. The plan is still at an early stage and the company's focus is on Arm-based server-side chips,",
@@ -1105,109 +1209,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
-      "title": "Why Your AI Must Be Humble",
-      "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
-      "originalUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
-      "publishedDateTime": "2021-03-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
-      "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
-      "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/15/a8a8db3b-e451-4f65-888f-982bc77e57b6_c78271b9.jpg?itok=rc5XR52f&v=1615794453",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "publishedDateTime": "2021-03-15T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

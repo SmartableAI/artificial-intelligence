@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-26-how-ai-can-help-companies-set-prices-more-ethically.md",
+      "title": "How AI Can Help Companies Set Prices More Ethically",
+      "excerpt": "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "originalUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/03/Mar21_26_843275898.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "publishedDateTime": "2021-03-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
+      "title": "Artificial Intelligence: Blazing A Trail For The Future",
+      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
+      "publishedDateTime": "2021-03-26T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer.md",
       "title": "Researchers use artificial intelligence in battle against asbestos-linked cancer",
       "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer.",
@@ -1039,109 +1134,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "publishedDateTime": "2021-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live.md",
-      "title": "When AI flags the ruler, not the tumor — and other arguments for abolishing the black box (VB Live)",
-      "excerpt": "One of the big issues that exists within AI generally, but is particularly acute in health care settings, is the issue of transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
-      "originalUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-565782633.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
-      "publishedDateTime": "2021-03-25T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

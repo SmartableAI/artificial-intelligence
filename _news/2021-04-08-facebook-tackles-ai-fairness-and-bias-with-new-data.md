@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-an
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-and-bias-with-new-data/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "I don't know how many times and ways I can tell you people to get off Facebook"
-    excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
-    publishedDateTime: 2021-04-06T16:48:00Z
-    webUrl: "https://www.businessinsider.com/facebook-data-breach-proves-you-get-off-social-media-platform-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/606c87e02556c5001894791f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook’s ad algorithms are still excluding women from seeing jobs"
     excerpt: "Its ad-delivery system is showing different job postings to men, excluding women from opportunities without regard to their qualifications. That’s illegal."
     publishedDateTime: 2021-04-09T12:04:00Z

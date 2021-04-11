@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/368971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -211,6 +211,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
       "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
       "excerpt": "Machine learning’s (ML) importance in this coronavirus pandemic-induced automation era cannot be overstated. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
@@ -245,6 +289,49 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-acuant-joins-forces-with-microsoft-to-build-a-more-trustworthy-identity-ecosystem-with.md",
+      "title": "Acuant Joins Forces with Microsoft to Build a More Trustworthy Identity Ecosystem with ...",
+      "excerpt": "Azure AD verifiable credentials are now available in public ... Our Trusted Identity Platform is powered by AI and human assisted machine learning to deliver unparalleled results and operational efficiency. Omnichannel deployment delivers seamless ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1276,92 +1363,6 @@
       "provider": {
         "name": "Information Age",
         "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-webee-and-semtech-simplify-lorawan-connectivity-for-growing-low-power-iot-app-market.md",
-      "title": "Webee and Semtech simplify LoRaWAN connectivity for growing low-power IoT app market",
-      "excerpt": "Webee's No-Code End-to-End Solution Builder powered by Azure provides for very easy creation of IoT solutions using LoRaWAN connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2021/03/19/webee-semtech/",
-      "originalUrl": "https://www.helpnetsecurity.com/2021/03/19/webee-semtech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification.md",
-      "title": "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

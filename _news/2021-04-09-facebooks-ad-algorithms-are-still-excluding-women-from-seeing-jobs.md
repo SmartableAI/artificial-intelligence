@@ -173,20 +173,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "I don't know how many times and ways I can tell you people to get off Facebook"
-    excerpt: "A leading-edge research firm focused on digital transformation ... the former director of the artificial-intelligence group at Facebook who was supposed to try to train the algorithm to be more pro-social. He said he was stopped at every turn."
-    publishedDateTime: 2021-04-06T16:48:00Z
-    webUrl: "https://www.businessinsider.com/facebook-data-breach-proves-you-get-off-social-media-platform-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/606c87e02556c5001894791f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
     excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
     publishedDateTime: 2021-04-09T02:45:00Z

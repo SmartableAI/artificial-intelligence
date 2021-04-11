@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2014/02/Feb18_2014_22962790_YoungManHelpsManInWheelchair_Top10MSDrugs8417620131.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "New multiple sclerosis subtypes identified using artificial intelligence"
-    excerpt: "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple sclerosis (MS) subtypes. Researchers say the groundbreaking findings will help identify those people more likely to have disease progression and help target treatments more effectively."
-    publishedDateTime: 2021-04-06T17:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-multiplescle.jpg"
-        width: 1920
-        height: 1784
         isCached: true
   - title: "New MS Subtypes ID’d Using Artificial Intelligence"
     excerpt: "Using artificial intelligence, scientists at University College London (UCL) suggest they have identified three new multiple sclerosis (MS) subtypes."

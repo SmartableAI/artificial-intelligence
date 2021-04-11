@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "New multiple sclerosis subtypes identified using artificial intelligence"
-    excerpt: "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple sclerosis (MS) subtypes. Researchers say the groundbreaking findings will help identify those people more likely to have disease progression and help target treatments more effectively."
-    publishedDateTime: 2021-04-06T17:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-multiple-sclerosis-subtypes-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-multiplescle.jpg"
-        width: 1920
-        height: 1784
-        isCached: true
   - title: "Identifying multiple sclerosis subtypes using unsupervised machine learning and MRI data"
     excerpt: "Multiple sclerosis is a heterogeneous progressive disease. Here, the authors use an unsupervised machine learning algorithm to determine multiple sclerosis subtypes, progression, and response to potential therapeutic treatments based on neuroimaging data."
     publishedDateTime: 2021-04-06T21:47:00Z

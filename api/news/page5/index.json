@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -366,7 +366,7 @@
       "originalUrl": "https://www.engadget.com/ai-emotion-recognition-game-182056088.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -408,7 +408,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -673,6 +673,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1165,57 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
-      "title": "Guard Digital Identity With Artificial Intelligence",
-      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

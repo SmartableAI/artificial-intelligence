@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
-publishedDateTime: 2021-04-08T13:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+publishedDateTime: 2021-04-08T13:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
 type: article
-quality: 38
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "CB Insights reveals 2021 cohort of 100 most-promising AI companies"
@@ -241,6 +240,6 @@ related:
         height: 384
         isCached: true
 
-secured: "47F9cOA+/gN9PFARsEUW6G4ygpU4Ch2ld2hIDRGzlQz4a9+2LyGBWsonVn6Kuy//qpb3SvIoxeFvx9gAsqMT6eCOsWzYB+s6jaMpyp8KPklnT2EbkaxQaFbcXoRp8qTNUv9Hpy4Hq+3beE+tL1VLhRRFCqu3Z+edsKqK/Ci1O/8pGUEx35Bwnm/3mNhol+BhxKGy4DR1sEV6vMDyUr/deRKKqGzPWZJYaB8oJeH6XbFoc7g26YOE4/rE0gOy+qXY/qX81SCYpuApALQChVjeHzlBzI7vspL5uL/6DOlKZqoU19pL9BUDZwANALcid7E9LSxObj/wcf5+rtylKfxcDeNydiYISMncFFmi6uCHH3o=;Un7WCVBVWf6gtRkoUHBDhw=="
+secured: "NkMMLqSus357q4LPWOnaGaFDDDGxl7fu7MrHcOn3cmEEjZmQznHYvCBluAFN9anNhDZWS4j8Shn8EaPI0UoWpASSRBrqBLyDBtBQuGyk2I/dfSZcbijFLu/UCMJzuJU3qfOZkUtUud27Ker7xGP1rfqKzd5F0pII+Anm3YKuZ9OuXBJ0C0L1ms0pq8rFBIOy9xbmsepWs4LwClhehQyJPpzbr1V6dYOl8Tym030raI1QEuq7WagUuZiCGf2/NOHsC8hOWewpN+O7lIdvY726Ma7rsSOm5f8/H8z7VhClA8VLQe85NQ/U2B0un4HywWN96v2Zr2NobMduFUjk06eA4soPhfThWCBCX8ACA3/rK10yFHRziywp6Ts6DtnjGlObwm/kndLGWbqnHU5bjnzdDgCOOtdWNHVL5oX2wf7pdKgAAnqRWcAou+NbtJRSVX6n+mmRXhO+mQpC81n6RMTgIa8Xa4eZkbB6bDINlwE6o1f0GmCZSiUAEAVtBpCESUB5Ci+7rEyelQr9PQ9U0eQ/Rg==;wv6J7anEeL5ZeuE4CHxdsg=="
 ---
 

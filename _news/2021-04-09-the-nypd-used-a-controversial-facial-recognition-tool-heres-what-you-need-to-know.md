@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nyp
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hampton and Newport News police used facial recognition app, then denied it"
-    excerpt: "Police in both Hampton and Newport News tried a controversial facial recognition program that their departments later said they had never used, data released Tuesday show. The revelation led Hampton police to immediately ban officers from using any such ..."
-    publishedDateTime: 2021-04-06T15:15:00Z
-    webUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html"
-    ampWebUrl: "https://www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/news/crime/vp-nw-clearview-in-virginia-20210406-7n3zz4py4vctnplucb7mczoq3q-story.html?outputType=amp"
+  - title: "Legal Aid Society calls NYPD use of facial recognition technology 'unreliable'"
+    excerpt: "The Legal Aid Society disclosed documents made available in a public records request, showing email exchanges from the NYPD and Clearview AI from late 2018 to early 2020."
+    publishedDateTime: 2021-04-08T02:27:00Z
+    webUrl: "https://longisland.news12.com/legal-aid-society-calls-nypd-use-of-facial-recognition-technology-unreliable"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 57
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 50
     images:
-      - url: "https://www.pilotonline.com/resizer/hHDcNsVSuKl-UDnX2XDeo4buFGc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7PCYJNCM2FCTPO4TMAR77J4GX4.jpg"
+      - url: "https://img.chdrstatic.com/media/24c22de5-9c5b-434d-938e-49fc97b66018.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
-        height: 705
+        height: 675
         isCached: true
 
 secured: "AlX5Ce57Vhz9Ulz6mcu6Uux8rFdpTMqA59pVZWwcWbrke6ECNOER5ewmD26kMKUO3SlaKFHmY9o4tjqkFFGw/dwiN1NeinvOpMmn4GF26wCkhVpkbOqMxCKi48WJldAINiMnPbdIrSSqVAUaQXarSpgWxv3tNjaWWkCLMQlZkB62REpQv6Ij0kTkYz8o47KrX/rakbb/JguGQemVxNWzBO30UWr1K5SwH0Ik92v4BqF1MzN99xt9+SrTm7cnESpBtQWAGBAOVwwuVS6WHfdFoxjyp1x9+weKkwdJGETcshFG4abzHmA+j0iKA60KqGaXv1/Nv3aKMgrjMSIHHEOmRB8J5Qjy6AVAL93bBtQypBkQJparTPfWOX4+YXvpt6hjlEJxJ5avKrWp26i6yz6XEkPppNSrw7P3jtevnqmrvH53g3c5NqQ6c2Jrc7FSnAB5FISR85vLteojHoWXocPX1omRaAuim/xMJ6PzUzv1ihoGzLXGYF8HA73JQlb6hPAW35K86ewc6+pVbEAqEyRh0g==;nKuWYbY/fUMYWox60UNeAw=="

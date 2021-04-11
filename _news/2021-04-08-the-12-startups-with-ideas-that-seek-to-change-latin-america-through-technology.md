@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/368971"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368971"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.mktw.net/im-305837/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Self-driving startup Gatik works with Isuzu to build delivery trucks for North America"
-    excerpt: "Silicon Valley self-driving startup Gatik and Isuzu North America Corp. on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc. in Arkansas and ..."
-    publishedDateTime: 2021-04-06T16:10:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-gatik-works-isuzu-build-delivery-trucks-north-america"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 16
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Gatik%20Walmart-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "goP0iB1rXTtNc9OzdkGF6hBEW2iEEbqNK1cG7Z6QOKkoWsE62TUks4eOjBPonwFRiVHHYt0dyPVk08doSklQgiY6gOqKCvd70Ee2Dx/EzwxJTOhUVKxpR1XLp0+k/U+7/ZYLenclxPVT6tqzp4NQycIw1OoO7pKXqOke+hBh+QskJb49BBrhosZWbFKQK712+YgD9L/foY6Yh+Y4ZwpYKouTV1imn5+E084XyAyMpbbvhELVcoby/EUb1NMt0g9Jmm8c4LvZnQeViqy6ClEbs31BYG0jqIhLIjgHX6wquk9V4vryNs0R/x17f74mpCnrOkJ5Wm0+Ui05Hb5fr7DT3BZ0CR99TYE5VhNKm78AcLNzsYIcss3k4zfv7XbFAyiJQ/t8wDBtQ3JLQDntrV4CVs6ArsZmtIBCBhyaHkJxb6UMGl3gYXneuEnHeapiwMUzZP23xkcKevkxRo8EE9De140USqw+3rk007Kb91LbdO1jWuGi/eOdDTXPErgw2F0PAYl5c36bIVla1ZH6rhjbPw==;39m0DL7v+SyHAmWRttAJ9g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20511600"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20511600"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has 'New Force'"
-    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report Lidar has \"WIMI Hologram"
-    publishedDateTime: 2021-04-06T16:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20504473/wimi-hologram-clouds-ai-vision-aiming-at-the-100-billion-market-and-lidar-has-new-force"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20504473"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20504473"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of the AR Industry"
     excerpt: "the fintech market research organization, recently released a research report \"WIMI Builds a Hologram Cloud Ecosystem in High-Simulation AI Light Field Vision as 5G Is Lighting up the Future of ..."
     publishedDateTime: 2021-04-10T06:55:00Z

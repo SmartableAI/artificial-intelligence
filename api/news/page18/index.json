@@ -2,6 +2,109 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
+      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
+      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "publishedDateTime": "2021-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live.md",
+      "title": "When AI flags the ruler, not the tumor — and other arguments for abolishing the black box (VB Live)",
+      "excerpt": "One of the big issues that exists within AI generally, but is particularly acute in health care settings, is the issue of transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
+      "originalUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-565782633.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
+      "publishedDateTime": "2021-03-25T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-self-driving-car-from-lawyer-frederick-penneys-perspective.md",
       "title": "Self-driving Car From Lawyer Frederick Penney's Perspective",
       "excerpt": "SACRAMENTO, Calif., March 25, 2021 /PRNewswire/ -- On March 18, 2018, the first known automobile accident death by a self-driving car occurred in Tempe, Arizona where a Volvo XC90 SUV struck ...",
@@ -1102,100 +1205,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-disney-is-testing-facial-recognition-at-walt-disney-world.md",
-      "title": "Disney is testing facial recognition at Walt Disney World",
-      "excerpt": "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "originalUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/q45zCE4UrFXeuPy83ZOAi7TPFlo=/0x0:4116x2741/1400x1050/filters:focal(1729x1042:2387x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69023404/AP20332570049737.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "publishedDateTime": "2021-03-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret",
-        "domain": "deseret.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-blackskys-latest-satellite-delivers-first-pictures-and-ai-insights-just-hours-after-launch.md",
-      "title": "BlackSky’s latest satellite delivers first pictures (and AI insights) just hours after launch",
-      "excerpt": "BlackSky says the latest Earth observation satellite in its growing constellation delivered its first imagery less than a day after it was launched into orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "originalUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Perth-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "publishedDateTime": "2021-03-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
