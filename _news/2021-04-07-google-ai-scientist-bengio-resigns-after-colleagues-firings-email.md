@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI scientist resigns after controversial ousting of colleagues"
-    excerpt: "The move comes after months of turmoil following the high-profile oustings of two AI ethics researchers on his team. Bengio, a 14-year veteran of the search giant, worked in the Google Brain unit that focused on deep learning and artificial intelligence."
-    publishedDateTime: 2021-04-06T22:51:00Z
-    webUrl: "https://www.cnet.com/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/BaDPTiuNWDd7HJ4tNZs3Lk1n4AA=/1200x630/2019/09/10/2d492ffa-1bfc-47a6-a2db-358c76182121/google-logo-7.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
     publishedDateTime: 2021-04-07T10:30:00Z

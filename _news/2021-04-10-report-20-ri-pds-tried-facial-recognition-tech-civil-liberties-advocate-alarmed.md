@@ -57,20 +57,6 @@ related:
         width: 720
         height: 459
         isCached: true
-  - title: "Report finds NC police use facial recognition tool"
-    excerpt: "A new report from Buzzfeed gives a more clear picture of how widespread the use of a controversial facial recognition app has been among North Carolina law enforcement agencies."
-    publishedDateTime: 2021-04-06T22:19:00Z
-    webUrl: "https://www.wral.com/report-finds-nc-police-use-facial-recognition-tool/19613502/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 39
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/local/2021/04/06/19613503/117438-surveillance-DMID1-5qftv183m-640x480.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
     excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
     publishedDateTime: 2021-04-10T01:59:00Z

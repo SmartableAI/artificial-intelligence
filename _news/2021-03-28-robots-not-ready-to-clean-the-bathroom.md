@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Robots not ready to clean the bathroom"
-excerpt: "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks."
-publishedDateTime: 2021-03-28T08:14:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business"
-webUrl: "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business"
+excerpt: "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks. Last month, Boston Dynamics showed ..."
+publishedDateTime: 2021-03-28T07:18:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
+webUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI in Robotics
@@ -24,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WryrECBpnYgF9UPP3M0tEzASQU/OAPg8FcfgCSAyOSsA45VWhhJ3kNYhETtGa9ZleC8ydSLlJ/eBAKDC6UYSV3ky6v8pRvFtRbiZHCcOGnzKqa1LHhOK3Uk+vrY5At9y7retkCTQwLAVpSvYIWrxeOHnTekJYvtFNDoyS00bT/8p8DChEmx+96tgOfA6ytOvC8nVCNi3nucBPX7VTWXyGtYzIboc8NgFkdUEofFk+SF1JeV/KfMqiHanTTgWsO5YsNOxG/rb3r55U0mo4gKRZyONZym8KFbtLzwnjl9bQrRcfWXoyBD2p5QwUosxHKYbfSclZikAkbaYespzbmOyENapIeQJOWPORGGxQSQjbgHSdfCax/UTNrLYaqs4ZUlP5/Qi+tEtrEiohc8Jqg/nRMDErh7wpDtI+hK7fNqa+IVL/CiOnSjLXcZXpQd6rc3/zcrz9KdTGTxg8nFpGI+RAriYKasIiDeWIJnki81uJd5UE8hFfi9okuu9k6oPKh8XqGEtr0CAnXmjtEQyNwp1Ag==;iwkbIUMDkFLaFHZp5hs+qg=="
+secured: "KanmQmt4xK6WbYxXIAqmtKK6Si8Td8qeFHuVlLEgH6thvMSs17DVl9pxMY/YUza8JlDZ0eitwDjsl/OhaOvZPLf50QBjBxnvABsRz6y4Jbe79pLRheM9Y8VJj6KJSC3vVa6MBK4WphMG1cQb1qSPJGCGX7UkfjXg3pYzpUMQfWNh68htNi+StFVjD2yIR0GFXwp0uTtY10Y1Jj0yNSW77EFJboIml1Z0o2GOCv1xA9ZpoO8eJrH3POdnyZFeM/k2AMiJ2y0g4zgFd1fB58bN5O7xAFA/lJWzzQUw1Zzy316+DUEfq3sp7IDfGOt/PkDQT0ukH7ygC63XHzLoh8FkQq0ebC0b+x8EOu5WsG87NMs=;IczO7dXNS+MBvPZf6c582Q=="
 ---
 

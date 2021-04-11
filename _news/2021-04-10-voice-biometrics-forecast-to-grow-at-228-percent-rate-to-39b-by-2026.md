@@ -52,20 +52,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 36
-  - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
-    excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
-    publishedDateTime: 2021-04-06T22:52:00Z
-    webUrl: "https://www.biometricupdate.com/202104/oz-forensics-face-biometric-liveness-detection-chosen-by-sberbank-kazakhstan"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "lmIdZSpiqj+dtLePLzDbybpn2/BYX6uNkyDXKp3yqGzPsQixiMsXQPJRn+E4Auo6BzUNV86Aet869QSU7JplIL3ClNm5ViBRnOJNl+AdGOCspXVt1XIaJ8jg7rJd2lpsocGpqEeOhdUGN2vw6K5MzXtvkRxP/GKygfs9tyRXD4MWIb46VG4pDQFa6zwssy96IHORYSL5+JFJwiC5ZCZct0xHxpfF7styAG0ZP36kX12mjOZ4Uyhd+5nT4TtnNkUgUz8O7as+tI+9QcT1/72cl1f4Ld0lg/JZmfgVcSQxGk8SokDlTNMV4cWDCwgze4iDL9AVeD+O+3BcCsCzVmAS0aMlYn26a80DzFlFRPrOsTDKQSMxYhnuLfGtXTvgpzpAUiQhNfzr3uEgtOqPzLg1M3FjC8OdeAF6d7Vb6p3k/qmTJExi0r1/0Ttge1U7tLLZ9RZ7n4iqzeEcaeTo55JCv9JQOg3VgQ0ZRTaQGoSVAMTtHyiViUHuy/NZbu0DngtlEF0C0y/8Ie5yqfYqJGmpIw==;fnG152WBdwCbqhV/GD+6zQ=="
 ---

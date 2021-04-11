@@ -46,22 +46,6 @@ related:
         width: 811
         height: 545
         isCached: true
-  - title: "Google AI scientist resigns after controversial ousting of colleagues"
-    excerpt: "The move comes after months of turmoil following the high-profile oustings of two AI ethics researchers on his team. Bengio, a 14-year veteran of the search giant, worked in the Google Brain unit that focused on deep learning and artificial intelligence."
-    publishedDateTime: 2021-04-06T22:51:00Z
-    webUrl: "https://www.cnet.com/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-ai-scientist-resigns-after-controversial-ousting-of-colleagues/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/BaDPTiuNWDd7HJ4tNZs3Lk1n4AA=/1200x630/2019/09/10/2d492ffa-1bfc-47a6-a2db-358c76182121/google-logo-7.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google AI scientist Bengio resigns after colleagues' firings"
     excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
     publishedDateTime: 2021-04-07T08:52:00Z

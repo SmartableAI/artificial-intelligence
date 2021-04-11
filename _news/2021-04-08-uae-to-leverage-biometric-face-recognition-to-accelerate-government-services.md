@@ -51,20 +51,6 @@ related:
         width: 768
         height: 513
         isCached: true
-  - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
-    excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
-    publishedDateTime: 2021-04-06T22:52:00Z
-    webUrl: "https://www.biometricupdate.com/202104/oz-forensics-face-biometric-liveness-detection-chosen-by-sberbank-kazakhstan"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "VeGdNftf/ouZ93HDZCtFqKcQWOZUYAwk3JdAO8cQwv7cNvNi5kelXJsylHxNyS1JzSS6r2KnnQ1lTXONKy2s1EA0qXvlWcf7KtDzyBgf4jvhdlzViSLQEszn4OhefEzToO4W9Lxaaj9f7CRRIK8jMlXgZhaP/2fnmZL6lokIH1XwUpcGjvdrjvrwhjkf+7K2IJijf25sNJdIOfZEjqJMTL4aAI6i8tGWr9P/8U4RWEszKkArjNozwmXGlsG1mYmEIzMy+5njLanJb4V48b0NA56kjzVZNcHSD7QgujPdxFwuWTgIBq+67lFiHVCtZ5StQz0XS/OkJbnPnGbDaV4CuGhD1T65JhAUsKPNgwjSobI=;sw6Nh6eCUY0fVHczLsYYug=="
 ---

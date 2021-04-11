@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Israeli university heads defend free speech in prize dispute"
-excerpt: "Presidents of Israeli universities have released a joint letter criticizing the government’s decision to withhold the country’s most prestigious prize from a scholar over his political views"
+excerpt: "Presidents of Israeli universities released a joint letter Friday criticizing the government's decision to withhold the country's most prestigious prize from a scholar over his political views, saying it \"severely harms free speech and free thought."
 publishedDateTime: 2021-04-09T15:39:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/israeli-university-heads-defend-free-speech-prize-dispute-76974136"
-webUrl: "https://abcnews.go.com/International/wireStory/israeli-university-heads-defend-free-speech-prize-dispute-76974136"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/israeli-university-heads-defend-free-speech-prize-dispute-76974136"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israeli-university-heads-defend-free-speech-prize-dispute-76974136"
+originalUrl: "https://www.startribune.com/israeli-university-heads-defend-free-speech-in-prize-dispute/600044079/"
+webUrl: "https://www.startribune.com/israeli-university-heads-defend-free-speech-in-prize-dispute/600044079/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1617977547"
+    width: 1680
+    height: 876
     isCached: true
 
-secured: "kBklhRV2Cm6ZGj/bh6UC87Y++97kCQy6tx8PW3hV8Ke4BHpsXHKUXMS1GF/i4A+HxcUbou1p3bHKMUWitHWRrewlY80/y0hDQXJrlRX0w670+VLVdLpoobf6ldbUyu99EgsnvyLwG4QbkqFEMIOKIFWNMeYrEWnTzhmVtlE4cqnBG8t8aPbao6ictAg8FvzonAeGGnPeFVY5cGi1XdRAieGeOyFq5ggitGzJK5kuyT2A5jM5wqh1hjUiiXocVgbukUNGRcpHty4gqpI4c8GQDqJRCYRCU1Xfx80e9YHU0IH+zBX9iOT+n/ODbxxdyBM+TGHP1kGNXhYeRc8seX8PpyF/5o1nwkUnA530swMzsAU=;jO9RqDt9/NV4ceEBF66ukg=="
+secured: "XBo2V412FRtNK6sYfSmzZ0q6tJt0OuURaWH3Jn7tF4DRhOkc3cLcwVO/LMhtO2eUK3GTW87vSyw3rhmZIKvsXyubsavPBBUXDToiM9HlguSSoCJbch6PVgdrQGckGUIy7iiPpiOrthcFJaEtD2kz9qOfm4s5Aqloc/o5BZfBcauf1RSko6v9zpVf7uzbl2iFS2V2ys/2sWBcc7cmYvOzguqW4CUXGeVfm1ZYNEE8HA9y1rrTqYs1rXC3Nh5RVze4KuEJ3TYzz49vEtuwOGRgMfSkWpJ8NSw363GWj5Xis4RIccZM2GjmxBcoM2L9oGgNWTDhdJj0C7fY5ujSd63+b0lHKKWWpVAgrVStk7CGR3Q=;XnHRftJF2Mgauf69EqjB9Q=="
 ---
 

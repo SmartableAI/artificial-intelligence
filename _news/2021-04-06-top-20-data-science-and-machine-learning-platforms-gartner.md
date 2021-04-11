@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
+excerpt: "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
+  - IBM AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "iKNZYdbppW7d/QibObXkru9mBMCfnBK9MVbmVeMzZoGMCaJZUqcppNbNp5jCcmp3aNOkh+CJlom+bHqr9QAKX0sdVHlyed//b/c66CmlWM9y5xmsagp+SA0NCxHXb2mgBKJ4y9g20glMVXyh271+pK8b+v8BGGVKTKUMHWTpQQw5loQNTKi7+UE0N+YNju3NrGEbh0+w69MX2xFdWHBpcN4iUBQPqCgZ3sraudGwZvP3jSlKFvPMX07QrDKLXa2hVeVK6OW/4mARDeZ1UYCEQOMMxuD1pdADjdnbNgYodiyYi8GVfijZp/4Glz+TWnFq5LqvbX7gmrd5mD+HQRnlUspu8GChFugi6BeGAVjC0QI=;GFnlEX0uLF6XR5qozxSceg=="
+secured: "LQlA6Idt3CQp9+NCavvJT+lgNCRYhKYkN0HHU+LCc9LyALXsJpGq/cq+sSV5CaQrSTspGQKY/DK69cA5fQPcQSOorK/9DXgitlXfanSJYFl4Jip2g2956T40DQJGmdryHSdJuLlMr7NQ7G7/EXVHDnRauR3BY65FAuFbySm+FOU2/RFGHBp3Bn5uwVp5tPT+dA2Nl4qutM5i2WAGzHnM79k9goQvMcSOqJHTuOo3Aj5i8rlaklvUMi0ofuCeOtp+q2dKCfJsZrPnluP7XhF9jGTEyqG5+QJHAn8RZxM74G2t+aROJS/dXBS7FAuskYEMdzsHPdGhzN+LXRXZWL+tH3YQkd/zR/+y7mYye02QB4E=;idTWa156vOrmyjznMgV5JQ=="
 ---
 

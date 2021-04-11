@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
         width: 768
         height: 513
-        isCached: true
-  - title: "Oz Forensics face biometric liveness detection chosen by Sberbank Kazakhstan"
-    excerpt: "“We selected Oz Forensics solution as the best one suited to our requirements for security, high accuracy in face recognition and simplicity of usage for the end user. The implementation of the Web Liveness procedure does not require preinstallation of ..."
-    publishedDateTime: 2021-04-06T22:52:00Z
-    webUrl: "https://www.biometricupdate.com/202104/oz-forensics-face-biometric-liveness-detection-chosen-by-sberbank-kazakhstan"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "tH3hYvHCyE3vaTURnKhMtJ7m05Ww4tUn8V9z6CphavD2tEn3tism76hwhrCP1L8Pc5YlcDNd3cjyzQCy1T2hGNAR3tZ9VB+jDKkgMx6XkSFDH3Hgtdg3eMfCMttum6POvNASLTU2Bk0lcARG8lLApWGMyaCBHJ07IpgBVuWxDFOw+6ao3qGgaJqeQS5h6WuYlYu6xPMGU8LWRVTwQSktYnzgN1CtjDlcT0BQJrLQy3vg64mXRCddBBhtrzDp1QLX/ONhZW81nS8UZ3fL8xxmlJPmFAZk4hCWO/lokI5Rb/g4vQnNmy44Nni703XEyDuQtGDO3GA0LjZfm+BksaVLyQmG9cebE53rT4f239IU6p8Wx8VEdAACIFnta/dBQa3n8Hs6bSFteDR/jIAMhe942ttw1U5TJld3v0A77tFww0xrEp5faaKDbNBeVATRBVTAbVZk9sMaLfxcoQdZ++3Y4WMuzHUZ1Uh/wm+zedW6FumEexmrC6AQArKBIaXFs/3cb/fZUOUnSwA5kX20I9S/Tg==;Wt+tlezrWLaY3p12EtjgNA=="
