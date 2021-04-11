@@ -69,15 +69,6 @@ related:
         width: 640
         height: 322
         isCached: true
-  - title: "Top 20 Artificial Intelligence Research Labs In The World In 2021"
-    excerpt: "Started in 2013, Facebook created the FAIR group to study and advance artificial intelligence technology through open research. In an effort to understand the nature of intelligence to create better intelligent machines, FAIR has grown to become an ..."
-    publishedDateTime: 2021-04-06T11:03:00Z
-    webUrl: "https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 27
 
 secured: "E/yZonN3uulKYF3ngsKrw44c1HWcNJTRgswJjla4K+dbc5Jje3yS0+JP2lcBDR8OphfsyhB7/qXpprUlXrA6uQYIDLlFuWWBmxM6vD3TGUW0KEXptvPkCV14xxwF9qvTFVgnoZvBweOXVQkzXq28CilD/f3YCnjC4M0jnL+0qZe1/kHkYH8jJ/vcECMEvqydC/RsxFxtBCOu2Hzc1UoEp5vrytY2AwkJh2KDo7uiuU4U7+ZAFu1NE7bNtAOTmdex8FaYrGC0Y9henp9fWKTlV/Fuu36lpbPzzPvd3LklGk418zyBNyu639W0fxbJESVXPJXKgbExN6d0snIutTzz57pyCL+5r5yrLPRDfpkst5JOR56yFJ8rL2iJhMw0WhCIScfJvh6aKaPNJAKZqYsI18MEEMtqBD15blrH6kZ5CEAICdCIArdceI+2XeBH4KVrMANp/yrAJVnKXgUnTeiUg0xx2qGzkDlrjJWYvQbM5MnxxrfOt7qPNgPEyWcfN+HM+n9TIHZnKhKg7rcS0tmGiw==;iJfw7mXfsxfzOsN82P+bqg=="
 ---

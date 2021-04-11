@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-09T22:05:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-medical-technology-colon-and-rectal-cancer-diagnostic-tests-84723ac8f8aee877aff178c5aed5972a"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-medical-technology-colon-and-rectal-cancer-diagnostic-tests-84723ac8f8aee877aff178c5aed5972a"
 type: article
-quality: 31
-heat: 31
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
   - AI in Marketing
 
@@ -25,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "fzFCxjwLmuaESpEsYrhXbalws1u0b/hg2QoIrWWPuuIiKInZpt0x4Yl3NGcFfZ83gFtDqslAWY6RbvjDsmChlSEPkPglQ8YM7XKR0bYfg4tTJksEeaaVUBAVcVNWZWEAspQ2WsAHHUnZbPUoi7IoDkA0wDB40rR9zLFmJVD2o5mDSCkHn1x3dsxAECE+LKQWdHZT08fchMCEw+FHx8WNkUe2E2MRRYEki/SXwd1XqSXVsfFg0weI2zzXIxJk4GxSwvYzSEFRGFgZ/1S6hweBwNRwKyM01qqOcuQdrPmMOIebRSNR3r94HgwHvqlVq5J95/w5D5L9akKInQV1DE3e97wmmGJW8dVjAYXxFJGGIyY=;b5k9GpdPaJNib6JRX1hYwg=="
+secured: "YReiZ04bAA1r+I3qZ7HtUJDubWFwneRUqqDenpRLkF75Th0AqK3BwKbWFJfJZtqJM3KELKs8jKyTyJB31NiSQNczlgET00dNl4zkFrgxExTLIY/DVMsfhJt5sLeo2xBQtGVaLyj6S5d04ChyeU8spYjQiEa+LJvisDrERe2brg4NPzxG3Y+ABmwq3OuwV1kZb3VWCxSVtTfXAGNGJSEci/FWhRYBfuiSFxmyL9RsxnP1ZmnSzqPGhNrwICVJ6XSgfrRd+7W4HXF149yXZtLVNC2i515F6V9r35Pa76+cgk0dfYd6LDT38+tszW0NTo7K9N00WQMKzLnv2KBGkp3GE00JjB1GnYVA1KrsftljCHU=;XGhI8J+jVt2HAg6t1736nQ=="
 ---
 

@@ -89,17 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact"
-    publishedDateTime: 2021-04-06T12:08:00Z
-    webUrl: "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
 
 secured: "q4HfFbLJUdj4dPC6zhwmik7sGtNzVbKCSlIohu15N99tpGEl5getQWio6anhXYkTTWMenpvBM5B7jZ5BY6aPScocIKh72oiv2yNs/RH7Xhon1GBcSJ+rHMkYL6bsJKK+MBgff7jmhAWeiJ7ba1tsNqPqENCxvwKxzDDcj/HVdsCnbTCud22qneJIxXVyapa6bqQsbLa2TCvH/XU5AkGEzcM/u6BAZij2JITvg4YrqjDkPILz1vEMZvkSGO8bFZDdwxdKyGUHWoIsk0crH4xlFQ2johgtRGGSkUXGL8bW+0zjvCjrDa7ZKj7z7kWjO1CeEjIO2rPED1gsxMmrCKZZYW3TeKChvVcmuWWwDLDFKNY=;mFFgV7xstO/XvMIHji3eFg=="
 ---

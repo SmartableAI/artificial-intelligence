@@ -2,40 +2,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_news/2021-02-16-samsung-tops-ai-patent-list.md",
-      "title": "Samsung tops AI patent list",
-      "excerpt": "“The Korean company is expanding its research scope around AI technologies focused on improving ... Chris Griffith11.00am: Maryland votes to tax Google, Facebook online ad revenue A US state ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "publishedDateTime": "2021-02-15T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
       "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
       "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
@@ -1191,6 +1157,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver.md",
+      "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
+      "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "originalUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20377815_G.png?lastEditedDate=1613362057000",
+          "width": 900,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -41,15 +41,6 @@ related:
         width: 690
         height: 560
         isCached: true
-  - title: "AI/ML Innovations Inc.: AI/ML's Health Gauge Partners with My Viva to Address Metabolic Rehabilitation"
-    excerpt: "A realtime, actionable solution using Health Gauge's AI-powered wearables - TORONTO, ON / ACCESSWIRE / April 6, 2021 / AI/ML Innovations Inc. (CSE:AIML), a company committed to acquiring and advancing"
-    publishedDateTime: 2021-04-06T11:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494876-ai-ml-innovations-inc-ai-ml-s-health-gauge-partners-with-my-viva-to-address-metabolic-rehabilitation-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 20
 
 secured: "Hryh1MsOYTfGLHbvNM+J6RqGcqJQv4/bVdox4AcrxePJ/apY8t3NHgJQQHEXlWY38cBdUvbiPnM+SKS7+LPAPNFczL2ENq4KoFWMSofwKnjMF/+M9XVDj9wrIhkplNV4SkQH8FYJOtZOnNVEIC8TKlFR9g9vJu1/C/jhtaajxccisy1IReVcNukZP/ujOntpX/qEZllwcunP/4JGfl4rWR8HMs6zbxdVJ0LgNyldjs6EGb/VSfWoUmU72pe73IvtkVrOvpGrGKLU9fby7V4KnAyoqn1XMJjUahDz7VVCZtOTWhNDZnMVq+PCzHB3BDoVVBeBqaGFY9qbUcd7cdHufAcK8V3JvOBUwtzjupbhtuamj2RmBEaiFrmbbwnvimaN8XcnDmukmFwjZ7+wJYvXX8j/bGaDvZVWZN1jS2aj8/TKNPepAhaaNnKUDHf5qGX3AMw1ZVv4MCfrX1abN68LAimx24X2Kw1SuNU8bER1ffaEL+67jvdTmi2fr+nae4hyNkXdDxxdLDBPKao7ChlWyw==;nf/YPrcnqb8HbAGZ9o417A=="
 ---

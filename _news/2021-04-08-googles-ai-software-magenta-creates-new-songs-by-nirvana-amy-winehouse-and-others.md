@@ -37,20 +37,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Listen to ‘new’ Nirvana song, Drowned In The Sun, created by Artificial Intelligence"
-    excerpt: "If you heard Drowned In The Sun introduced on radio as a previously unreleased song from Nirvana, it’s highly likely that you’d take the DJ’s words at face value. In reality, the song is an AI composition,"
-    publishedDateTime: 2021-04-06T12:27:00Z
-    webUrl: "https://www.loudersound.com/news/listen-to-new-nirvana-song-drowned-in-the-sun-created-by-artificial-intelligence"
-    type: article
-    provider:
-      name: loudersound
-      domain: loudersound.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8SSv7VMiYKn77Y6SwMB4xe-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "fqB3JqsK03MUmZoczHMe/PPx2SIvl4zrs653Lp3n0pUixKTJgPrgOWmoEhfWOnJ6In/bIWz69BcHq/bxWj9LajlLvlDqZpm2QdM8Lx+wbYBVpA4W763v66HyDGVYszSHGpRzPMG9EM1xv/D0EVo8ukj1UomYiglv+BwhPqJGVhOZD+xyvnyo7D+NrtIcEVKwKZdLWgt54uBBM8iX0imMPKb69sb7GzTMYOeUg24rxH0ME3rVyoMw2QU1MrnNanj3E0HfuHcTLCbosdRkW5I96q7vMGjd09na8nWgS/WBNikUGgyNnezEQjQdXj7lBGo2I3AB27RvyLz99BA/fjBomMK6Pu87IIgpnESS/Nsgg5qh3IC7LVxt2bL4RIh08AZzZwm2xXOehMQocuAjXaj6u1rwndL6N2pG0o+C4xNVJEfW6GUsLAmnJCI1gcKIcCVFe/Upnkx1wV2Otatp4U7SVR1MIqn5ZfX4wJkoQTHYPm4j0rxQKreNQZqEyvrTWmpDM4OJaPsq70b9j6Z2bjb44Q==;aSxaaJM0fHN/irt4qthKyw=="
 ---

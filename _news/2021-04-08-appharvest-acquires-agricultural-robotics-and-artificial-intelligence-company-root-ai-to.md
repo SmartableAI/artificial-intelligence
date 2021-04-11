@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
-publishedDateTime: 2021-04-08T10:00:00Z
-originalUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
-webUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
+excerpt: "Lessing, along with co-founder Ryan Knopf who will join AppHarvest as vice president of technology, helped establish Root AI as an early leader in employing artificial intelligence in CEA. Virgo is the world’s first universal harvester, which can be ..."
+publishedDateTime: 2021-04-08T10:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
-    excerpt: "Focus on innovation sets the iRobot apart from its peers. The company has more than 200 patents in robot artificial intelligence and home understanding. Overall, iRobot is positioned for steady ..."
-    publishedDateTime: 2021-04-09T19:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-interesting-ai-and-robotics-stocks-today-1030290103"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
   - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
     excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
     publishedDateTime: 2021-04-08T14:01:00Z
@@ -97,6 +88,6 @@ related:
       domain: foodbev.com
     quality: 34
 
-secured: "pvxuTEqYFpXszPEXy4muh5sy0N4xAYrC1sHuITmBwgICigin3s/l1riKQxBI7uHVjaK88lYDJndEcMID+LmPSRh8r7ZPkMOhouX+cGDMndlWegGP6wwT9rNXnwf/w8FRy1qN4+hxLYxZc0HHnrgitHrxfnQ8YItQV8ZrllOnZn99bTH3OngIMaQ0k+kaBjo0NbwdFTHqR3MNcuFNg6E/eJbAnon3hK9rBf59WrFyN8YpdkV1D2lzJ6sYu5AKGzZIA6gllQu3Bj3wDsxMnGVqqtKTtYUbyipbU8hhHInBGKCr8+xWYlvK6CT6WfPRZ6XHZdmTwyZYoDC67LnGQfZRwdmvlJI9TsKzY+ZPnnozISw=;fOOvn3jZrb7K48p9x1iAkg=="
+secured: "nTQMCihansO9/X3a6cvbNg+dAosp33HhEFd0cPHmFLbMTWUIV965dr/9HkWUbp7llk2I6zFeq3khjbjvLTqCgDfuuy81SfY7FNIGLFagIOl8nwdgUg4RYhsuOoQFwuDANP4pDlj+hUOweTcqL+KY8naPuoWCMznXRZvAszEXoIiuTmzz1hBShxVFLZakJxzkjWuF6iQnvhAv6U07D+VD42U2Oziw7NsIjRmRsrMKxaSq0sJn6/LTwMTrBNb9b0GcY3g+gh1SrZw98pWAwqeh95ubSV7wv8h3wOXEg5qfBajLNfFg7v9/E0qaGsLAY/NNb63n/W5N5gvhlemzEm1XxH9wUmQ1EPTVWxqtoEPzE5s=;ghui/mGY3ZvnGhtARsTJwQ=="
 ---
 

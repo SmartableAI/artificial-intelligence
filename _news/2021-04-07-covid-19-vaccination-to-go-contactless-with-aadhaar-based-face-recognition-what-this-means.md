@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "COVID-19 vaccination | Aadhaar-based facial recognition to be used soon for authentication of beneficiaries"
-    excerpt: "At present, the vaccine beneficiaries are required to touch the scanner for iris-based authentication and also submit their fingerprints."
-    publishedDateTime: 2021-04-06T12:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/coronavirus/aadhaar-based-facial-recognition-to-be-used-soon-for-authentication-of-beneficiaries-at-covid-vaccination-centres-6736531.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 41
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/03/aadhaar-application-uidai-770x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "India piloting Aadhaar-based facial recognition for COVID-19 vaccinations"
     excerpt: "The Indian government is piloting a Aadhaar-based facial recognition system for COVID-19 vaccinations, RS Sharma, chief executive officer of the National Health Authority told The Print. The pilot is being carried out in Jharkhand, which is reporting over ..."
     publishedDateTime: 2021-04-08T07:16:00Z

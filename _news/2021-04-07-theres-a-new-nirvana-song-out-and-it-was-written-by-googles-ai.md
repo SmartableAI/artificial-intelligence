@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Singularity Hub
@@ -38,20 +38,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 31
-  - title: "Listen to ‘new’ Nirvana song, Drowned In The Sun, created by Artificial Intelligence"
-    excerpt: "If you heard Drowned In The Sun introduced on radio as a previously unreleased song from Nirvana, it’s highly likely that you’d take the DJ’s words at face value. In reality, the song is an AI composition,"
-    publishedDateTime: 2021-04-06T12:27:00Z
-    webUrl: "https://www.loudersound.com/news/listen-to-new-nirvana-song-drowned-in-the-sun-created-by-artificial-intelligence"
-    type: article
-    provider:
-      name: loudersound
-      domain: loudersound.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8SSv7VMiYKn77Y6SwMB4xe-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Haa47ftZ+axIu117hM/WegoGhgnB2XLpanxSBT1/lmM+nViOj5WvWG6WQfU4kHT4f0cWYtB7GQrY3oByp7m5EP+EnSwdrswfPmJbtNHqq2/EcgprbGjWY6a7QgVaVWe8hx+3FhQl1VMKCLPUPB8e1KIhFZnM6lhSC1Lj7dngSnj4yzc50IernuFFdkB+cuCF19zp/2p+H/OUY1ogkMe5E3TSMP5J0smH9HXa64R4Bf7Z/XjdKZt+D5LDaeJx4KeEe78KJfsw7HeBc0UfZ69VWII27+BOK5zGOKWb4zj4Sm1gRR2rY1Wa9p+qMPSUiAIivGv/AKRSRiaFCOLWAgROGhqoIeuCF1vmxD5+UOHDWc9kzjWt7JxBHJYC4iqlnC3B87sF35taTey62N8xmzATbTtwDhYZkvSOnsL4P77Zi0NwM/1KM9jAdiuIXqoD0uMA71mbygsPeVYchMi2EfpCNsmli96rzFDniKXMbDX3LH8KSFHMHIEGKBN3dyYX8kH1COtBy5e2rWIubs1Tk4FSFw==;j5vON0pOG19jDAqeO+zYsg=="
 ---

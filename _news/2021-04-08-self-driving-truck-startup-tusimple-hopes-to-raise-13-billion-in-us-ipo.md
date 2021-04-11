@@ -41,20 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Self driving startup may go public - report"
-    excerpt: "A self driving startup with Ford and VW backing, Argo, is considering a public offering as soon as this year, according to a media report."
-    publishedDateTime: 2021-04-06T13:02:00Z
-    webUrl: "https://www.just-auto.com/news/self-driving-startup-may-go-public-report_id201125.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Resurfaced Video Shows South Korean Professor Testing Self-Driving Car in the 1990s"
     excerpt: "Decades before the recent tech interest in autonomous vehicles, South Korean professor Han Min-hong nearly perfected his own self-driving car. Amazingly preceding the emerging multibillion-dollar ..."
     publishedDateTime: 2021-04-07T02:29:00Z

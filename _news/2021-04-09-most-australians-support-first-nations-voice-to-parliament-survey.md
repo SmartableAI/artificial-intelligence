@@ -26,6 +26,17 @@ images:
     height: 226
     isCached: true
 
+related:
+  - title: "62% of Aussies call for Indigenous voice to parliament"
+    excerpt: "Establishing an Indigenous voice to parliament is favoured by 62 per cent of Australians according to a regularly conducted survey led by CQUniversity."
+    publishedDateTime: 2021-04-11T04:00:00Z
+    webUrl: "https://www.couriermail.com.au/news/queensland/gladstone/62-of-aussies-call-for-indigenous-voice-to-parliament/news-story/58b6d18e0e3be117523ee3a15b35a831"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
+
 secured: "Du7XYxkoucWkN02njgF6wCfOnyaRwWUyYdghDTdpWP3YWHdOsI3Eu3u3fcz+poBQ3kt2MRXMQRHN7r8d1SCWXGgggCH0bRUxGPU1dRIVAJhLMEFzXJdoDQVTQNnMVwErld4GhBDyKPyyDB6hfRuZBMkycs3yq69bISC3vHklswZFk0GfrojhXb3kox/75i9B4O/d+P4toES/O3fuX5PTgq+lvDeV1kvOIb+OZkEYXz1XJ/zoCiBcGnadBjUijt1Vd+K0Abj94BHAEiT6kaprEoNBioaAnT9ZtItY02nqxoYgMyQoVoeriRlmc4x0jWzi0CHOuI4Ga4gsWHvHF0BJv7dpFNuVnVti7fd4vWN/+uxlQHt1els+3KWCtiDDtU8z6ki7C5NACIuMDVR3SMAjUV0Y4fwlT+OQ/sMPJ080lC/oRTuRvYNWdPe8VO8VzopuuXrLWGQeD5UTHNdNJAfbDaTDUS/P6/pbcYhOSsDWJFELOfyCZKIwDRRb/e0vAm7uULLSaB9U2a9uFTRUBLp0xA==;XSP7VMJbo1wwo5znjO9pIA=="
 ---
 

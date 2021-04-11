@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -31,28 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
-    excerpt: "Focus on innovation sets the iRobot apart from its peers. The company has more than 200 patents in robot artificial intelligence and home understanding. Overall, iRobot is positioned for steady ..."
-    publishedDateTime: 2021-04-09T19:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-interesting-ai-and-robotics-stocks-today-1030290103"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-    excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
-    publishedDateTime: 2021-04-08T10:00:00Z
-    webUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
+    excerpt: "Lessing, along with co-founder Ryan Knopf who will join AppHarvest as vice president of technology, helped establish Root AI as an early leader in employing artificial intelligence in CEA. Virgo is the world’s first universal harvester, which can be ..."
+    publishedDateTime: 2021-04-08T10:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 73
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
     excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."

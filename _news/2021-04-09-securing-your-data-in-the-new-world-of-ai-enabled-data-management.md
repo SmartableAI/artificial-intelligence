@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 640
         height: 322
         isCached: true
-  - title: "Top 20 Artificial Intelligence Research Labs In The World In 2021"
-    excerpt: "Started in 2013, Facebook created the FAIR group to study and advance artificial intelligence technology through open research. In an effort to understand the nature of intelligence to create better intelligent machines, FAIR has grown to become an ..."
-    publishedDateTime: 2021-04-06T11:03:00Z
-    webUrl: "https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 27
 
 secured: "Hb+mHenPVEP94jnTbJiUtvkTA4/2Js7nWUui85pj0l0HJRmXhyUZXPf1VBL3U8YpCEakGxyzVrOkmgdB55u3oUhihH5o6njytX3ACtJjaVQ7hy3mbi9jWt5gFS3UkIt+1uyKOlNECTSvAIgweOg2Bir1v+gf0y58MTiqdR2MgeWeqjRMib0lP/q4eKRnJ/psG6uwCq5d08AooZUwBkZ7dVa51bWsVwFNolflc4FhwRVWh5+yF/5QInDPht2IE5ze2zNYm3M8h8IxYbZ9xuRG5Js/cT5rlA9TveExDdiH6DOJIyjktt1Dm7a8AajOYAy0hsUzGdJbNIGzYwER4AFkvha6ASHONIzWR9PfkJi3mPYhawT6Pu/I5V+I9oasfzCWJV0SBh5PvNLG7jEeS8kRdYUu8z8raYE/QhKbBup0tiebds2pnwulM+t1tx5w2hbsAk+9AavPRo+MkOz/85AfJs6PREKBvOTd4nA1dMwJgLDuU7qZP0tDkIglLDbxsZ2kZTOtWhruuu+iVbMdlLL5og==;rGk7ZCgbLilaJ9xbDrbokQ=="
 ---

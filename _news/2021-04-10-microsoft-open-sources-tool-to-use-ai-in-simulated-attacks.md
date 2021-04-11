@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 245
 published: true
 
 provider:

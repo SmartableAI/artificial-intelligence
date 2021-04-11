@@ -42,6 +42,15 @@ related:
         width: 278
         height: 578
         isCached: true
+  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
+    excerpt: "It’s difficult to find a sector where artificial intelligence and robots will not see increased applications in the coming years. Agriculture, retail, shopping, manufacturing and gaming, are just some examples. One thing that touches each one of them is ..."
+    publishedDateTime: 2021-04-09T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-most-interesting-ai-and-robotics-stocks-today-2021-04-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 79
   - title: "How to report on artificial intelligence"
     excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
     publishedDateTime: 2021-04-07T16:17:00Z

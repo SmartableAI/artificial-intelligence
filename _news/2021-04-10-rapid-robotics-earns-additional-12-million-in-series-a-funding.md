@@ -7,8 +7,8 @@ originalUrl: "https://www.compositesworld.com/news/rapid-robotics-earns-addition
 webUrl: "https://www.compositesworld.com/news/rapid-robotics-earns-additional-12-million-in-series-a-funding-"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CompositesWorld
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEA leads $12M Series A in Rapid Robotics amid US manufacturing resurgence"
-    excerpt: "When they see what the Rapid Machine Operator can do, they start to get excited ... Unlike other robots, the Rapid Machine Operator arrives complete with machine vision and pretrained AI, so it can get to work in less than a day. And it gains capabilities ..."
-    publishedDateTime: 2021-04-06T11:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-medical-devices-north-america-pharmaceutical-manufacturing-0d0ba78aba99f47652d1b24f522279dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Indian American-led Startup Iterate Labs Secures $1 Million in Seed Funding"
     excerpt: "Cornell University March 18 said that Apoorva Kiran-led Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, ha"
     publishedDateTime: 2021-04-06T19:00:00Z

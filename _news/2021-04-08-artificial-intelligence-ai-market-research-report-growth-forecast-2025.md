@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
 type: article
 quality: 83
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -141,17 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid Robots Market Share, Size, Growth & Industry Forecast Report, 2020-2027"
-    excerpt: "Growth opportunities in the humanoid robots market look promising over the next six years This is mainly due to the growing need for humanoid robots across different industries increasing penetration in the education industry and continuous advancements in technology and"
-    publishedDateTime: 2021-04-06T11:38:00Z
-    webUrl: "https://www.openpr.com/news/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266508/humanoid-robots-market-share-size-growth-industry-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
     publishedDateTime: 2021-04-10T07:25:00Z

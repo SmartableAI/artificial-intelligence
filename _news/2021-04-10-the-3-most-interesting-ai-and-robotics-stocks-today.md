@@ -1,105 +1,87 @@
 ---
 category: news
 title: "The 3 Most Interesting AI and Robotics Stocks Today"
-excerpt: "Focus on innovation sets the iRobot apart from its peers. The company has more than 200 patents in robot artificial intelligence and home understanding. Overall, iRobot is positioned for steady ..."
-publishedDateTime: 2021-04-09T19:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-interesting-ai-and-robotics-stocks-today-1030290103"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-interesting-ai-and-robotics-stocks-today-1030290103"
+excerpt: "It’s difficult to find a sector where artificial intelligence and robots will not see increased applications in the coming years. Agriculture, retail, shopping, manufacturing and gaming, are just some examples. One thing that touches each one of them is ..."
+publishedDateTime: 2021-04-09T17:02:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-3-most-interesting-ai-and-robotics-stocks-today-2021-04-09"
+webUrl: "https://www.nasdaq.com/articles/the-3-most-interesting-ai-and-robotics-stocks-today-2021-04-09"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
 related:
-  - title: "AppHarvest buys ag-robotics firm, Root AI"
-    excerpt: "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ..."
-    publishedDateTime: 2021-04-08T18:30:00Z
-    webUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
+  - title: "Luminar AI, hands on: Quick and easy AI-powered photo editing"
+    excerpt: "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ..."
+    publishedDateTime: 2021-04-08T11:03:00Z
+    webUrl: "https://www.zdnet.com/product/luminar-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024"
-        width: 1024
-        height: 765
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg"
+        width: 278
+        height: 578
         isCached: true
-  - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-    excerpt: "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer"
-    publishedDateTime: 2021-04-08T10:00:00Z
-    webUrl: "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html"
+  - title: "How to report on artificial intelligence"
+    excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
+    publishedDateTime: 2021-04-07T16:17:00Z
+    webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 73
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.journalism.co.uk/assets/1/franki-chamaki-z4H9MYmWIMA-unsplash.jpg_resized_460_.jpeg"
+        width: 459
+        height: 306
         isCached: true
-  - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
-    excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
-    publishedDateTime: 2021-04-08T14:01:00Z
-    webUrl: "https://www.lanereport.com/140277/2021/04/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to-increase-efficiency/"
+  - title: "Artificial Intelligence Powers Mineral Rights Investing"
+    excerpt: "How You Can Invest as Little as $300 in Proprietary AI Software For Mineral Rights Investing Traditionally, only large investors had the resources to invest in the land and professional services criti"
+    publishedDateTime: 2021-04-07T12:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
     type: article
     provider:
-      name: Lane Report
-      domain: lanereport.com
-    quality: 70
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
     images:
-      - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2021/04/08095227/AppHarvest-Root-AI-1.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "AppHarvest Announces Acquisition Of Root AI And Its Signature Robot, Virgo - Quick Facts"
-    excerpt: "(APPH, APPHW) has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. Based in Somerville, Mass., Root AI has 19 full-time employees,"
-    publishedDateTime: 2021-04-08T10:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/appharvest-announces-acquisition-of-root-ai-and-its-signature-robot-virgo-quick-facts-2021"
+  - title: "All about Artificial Intelligence"
+    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
+    publishedDateTime: 2021-04-09T07:13:00Z
+    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
-  - title: "Greenhouse Growing Game Changer? AppHarvest Plugs into Artificial Intelligence"
-    excerpt: "AppHarvest has acquired agricultural robotics and artificial intelligence company Root AI to increase efficiency."
-    publishedDateTime: 2021-04-10T17:06:00Z
-    webUrl: "https://www.greenhousegrower.com/production/greenhouse-growing-game-changer-appharvest-plugs-into-artificial-intelligence/"
-    type: article
-    provider:
-      name: Greenhouse Grower
-      domain: greenhousegrower.com
-    quality: 35
+      name: Malawi Nyasa Times
+      domain: nyasatimes.com
+    quality: 39
     images:
-      - url: "https://www.greenhousegrower.com/wp-content/uploads/2021/04/AppHarvest-Root-AI.jpg"
-        width: 896
-        height: 504
+      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
+        width: 810
+        height: 456
         isCached: true
-  - title: "AppHarvest acquires artificial intelligence farming start-up Root AI"
-    excerpt: "Agtech company AppHarvest has acquired agricultural robotics and artificial intelligence (AI) company, Root AI, in a deal valued at $60m."
-    publishedDateTime: 2021-04-09T12:00:00Z
-    webUrl: "https://www.foodbev.com/news/appharvest-acquires-artificial-intelligence-farming-start-up-root-ai/"
-    type: article
-    provider:
-      name: FoodBev Media
-      domain: foodbev.com
-    quality: 34
 
-secured: "NDRWW3VjWT6nzPMrePnYmkRRw/wP1hrc3lVYBFUukMiUeKkbZ4g/2o1k+Jo+nd8/r2zLFrwTbn3reTfKe552uBDXubIN6zJJhVnvb6gAmH4mUpuqRLFBtkhWUJ9Y/odjXVBBnEf/G3mjw5Srwb9lqyOGHCLnhKvKfdUdy3sdsFNdRrak/SkPV5uxfdqKD2ZyfQF7LrBeatXnzsLIW78tCfKmE+xJF/U7I3ojg4Lev0wBTUYQhvsCdV2TB16J0dieTgJe+d6imq8b28PUP7QKiT0vQpHlnFgJsS1zgSpXPf1JpKaKM66Buh2nHJgMriADNWkghufTNKpyYI3bt8ayhuOxmyKNEhxk9a9sO6HfuOE=;HRYnyiGxj5JU4GIfPAjyfw=="
+secured: "+tOaB5CZrja30DL1rSHz3cVF1qOHoFDtMNUsF7dRKPV0TvJWyUMDg7d2CLwQgNZ/x8jtO6e59L3T3TlHKP+p1Dph/u+oxwnUM4PJ+NyegbG68XdEIH0POtNKgDKicj8n1ByRb3YkIUV48WNutLo/7Ent1o7rOP7oYN0iny/N297xc04/eAcfnEGhJemEWbmUJZFvg/WIBFfUCGinnnuiJz0JIcHVgOJQYyk5/EJwuO2hswKHDe8a/jQD2eGigaL4bBRCO83weGFfwlWYFixOWUXfyXIJIr9hmGQ94X1vZfVVK+ay2bZU3OrgeMNNg4ld7AgY0yPTYI8CRJ5S/XkHKsu6yWKswzNYXcvKUfH7ae0=;tzGuryU2HstisbguhCtx4A=="
 ---
 

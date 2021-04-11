@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/neurosymbolic-ai-know-about-the-n
 webUrl: "https://www.analyticsinsight.net/neurosymbolic-ai-know-about-the-next-ai-revolution/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "Here’s What You Need To Know About The European Regulations On AI"
-    excerpt: "On the 21st April, the European Commission is expected to publish the draft Regulations on AI. Here's what to look out for:"
-    publishedDateTime: 2021-04-06T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c51180bc8dbd427d2e4c2%2F0x0.jpg"
-        width: 1200
-        height: 887
-        isCached: true
 
 secured: "rBDNxgqHzrqV7bzdw7CMyWfStCyOhgPJjIJYHqjthP2fe7GGVoT4GEuIKIj/GAvrkpFgO8mQ3KB+3F8koXc6ljdZv2LTm7p0/PF/zkzsrBSygtz3dWlWxoDKS5tetz7Xai34JCGCkusb9iveO5owbjdyfZEmA3+JeaRHo/SmfuGwxsL73JfVmIFo42lSVK70/gSHdC15dl4C3PQgRSTo9DQFXp7Y+SmS8Yd+5PKvrmfb3yBtFxImYFyNHtwznqj8ZK891lEQYMqQjwHK2t2XezCuvWeC9A0m30nolzlarlvYgCY+UmBDkd9wybn/O+3Rl7UBuzaNqqkySoaPBiOW/jT5vGIGFvPiBn1+lGB6xTU=;TNikkUG3IO2hjLNo54a40A=="
 ---
