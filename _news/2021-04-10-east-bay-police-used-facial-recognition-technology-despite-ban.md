@@ -2,26 +2,26 @@
 category: news
 title: "East Bay police used facial recognition technology despite ban"
 excerpt: "ALAMEDA — Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive, leaving at least one council ..."
-publishedDateTime: 2021-04-09T18:01:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
-webUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
-ampWebUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
+publishedDateTime: 2021-04-09T17:02:00Z
+originalUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
+webUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
+ampWebUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412"
     width: 600
     height: 412
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 422
         isCached: true
 
-secured: "WK/gtLDUufy56FIbeEL/ZC5V8/UBZWrJogxxjnEzDHjYpnyqpN2dV2DhcSJBmv7YITi26DOTV6wGAANanS/yJ+YTNlMvn7QF+Ergsikpn2gIg0MNx9iPKWryZ4X8uVbtC1Lqx0QI+zwK/naYICMBhNS8Y5nTSElhYNGmbhgqDTRdcc41tw9/GDZ8cXs7s8fxrs9Su89Z6YvPnukk5n3NxWZ60QChbT1pmXNnShDCwx6LqwwjJNZOYmgJHt/qLWUUQwktKCH1wKWmevoQ+Xft0RrGJtPhLpAS/b2gd6JHeOTe5m1hd11KQw1oM57KKyF7Q6bTpVNUo3QuNkmyn1gc+fcxcprW+w0bzcLLQuf2CvUN6vviorGrCnB6HQtCedTxp68qq9FsJqsEmETzGfGBtoH/jKf6kYmuzT/+6BnE8UTs3CEvA7BHRkXFGMw32tkmLgQyC0VSXUcCcKHEM/+IY3aq9pohdC9iuDlnviLKmXa96B19t4dbAksckV3xG4XPXtZs8r3R4D8bxbmFQ9Sx+w==;lrnqH5xawSkpzk/eM5Hhpg=="
+secured: "+0xQ9hAca2yNWAUN400oOapPQlHnGdrihoQykqqfyA4uap7h+NRDdf8Pvw3tbA9V1IxoJtsXYcOqp4bXlnFcGMQejKaVkrvvnG8X8/+69MakRiH5sqer0R7KwxspLH0Hd/NDTpM/PdIDTMQo7We8kFMEkfg7H8NO7xsTIqZvcBVmZioSMd/o9iYrTeBEjFrx/M3PFIOpAZM4WFBgxR5UKoOk963u4Dr1bNHsWoL8I8kBt6uVv1ZwEMJaM7BoLb8bHiGjMbRsJlYSefGnwjRd7ihju0GZRe4FiX5/oc7sMKJc9S7LmtM3RY6QdFUhxwUziiOu5PNMrswI6bFllifu8R20MHZceC34/bB8zIfiZcY=;tfQ1ENoOMHHiKxxL+YhB8Q=="
 ---
 

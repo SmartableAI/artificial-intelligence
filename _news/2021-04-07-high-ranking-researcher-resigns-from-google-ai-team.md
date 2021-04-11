@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "High-ranking researcher resigns from Google AI team"
+    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
+    publishedDateTime: 2021-04-11T17:05:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
+        width: 560
+        height: 292
+        isCached: true
   - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
     publishedDateTime: 2021-04-07T01:17:00Z

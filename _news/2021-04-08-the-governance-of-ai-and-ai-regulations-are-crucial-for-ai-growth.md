@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1006
         isCached: true
-  - title: "The Rise of Ai Voice E-Commerce"
-    excerpt: "During the last 10 years, companies such as Google, Mercedes Benz, Amazon, Apple and Facebook ... research that fits in with its customers. This may be especially challenging when a brand speaks with multiple demographics. 4. Why Early Conversational Ai ..."
-    publishedDateTime: 2021-04-06T23:30:00Z
-    webUrl: "https://powerretail.com.au/sponsored-post/the-rise-of-ai-voice-e-commerce/"
-    type: article
-    provider:
-      name: powerretail.com.au
-      domain: powerretail.com.au
-    quality: 39
-    images:
-      - url: "https://mlo34ofws4g4.i.optimole.com/T4zpr1M-7IFPyGwv/w:auto/h:auto/q:auto/https://powerretail.com.au/wp-content/uploads/2021/04/Abnormal_1.jpg"
-        width: 760
-        height: 460
-        isCached: true
 
 secured: "qAOga3bsCTvz/ghvaSu+GOEloZq7CHL4TwWp92NESqBy7KIGon/WSZOCdwMwdQSqFeGWtErL4/OlGniD9AlBhTWazu/OxWqpCcvCxuxvwPs1q50heCExZP27iA7EMf+m5GhGV6dYWnvepGH3agKTp9mwl85Ojc7waD0P82GPC9S3a+GTyRFJy0a6wJimFDw1y6N79sCTwZtAJlQTMc+ue2b8DZ/EHcnSII3KJm752GEwhPxqVUFMnIMlKDtLqPCVwzjImylJNiMMYQ+uoM/gu6oAeVTvg9KNYuSeWfDKVIL0JOMfjwOpFHPdbe5Sb7jJ2/SrVa/xwlMljpjUuOC1mwh0qCsv95Jla+elNHEf9Y4=;ubMQcY1V3SHgf5UnQNdfhg=="
 ---

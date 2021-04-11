@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-an
 webUrl: "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/"
 type: article
 quality: 116
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 452
     isCached: true
-
-related:
-  - title: "CECOM SEC teams join DeepRacer competition"
-    excerpt: "A pair of teams representing the U.S. Army Communications-Electronics Command’s Software Engineering Center placed in"
-    publishedDateTime: 2021-04-07T00:00:00Z
-    webUrl: "https://www.army.mil/article/245063/cecom_sec_teams_join_deepracer_competition"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 36
 
 secured: "VUOObFPM26EcTtnk16wTS3ies4zxPUXqVzZO5j8pnzp2d3LquvI4LSQqImloknSAVziVDc5PLno/q1Zbx4NHnWuFdCgW96LEURtI5rEuLTke0dzAUs9uWs8kcadsff+JncRSBjTZ79XpH/KvmzbtNkv+r3vlBSmvClCbuW1bFqulOFnq/L2YVNIVY5ZvsEzexHuuDT15rxeQ4isAEpGwcvq7TKszHG1jBDEfUeCxcXXIxohdnBA/St+oX8xJidRS65ARsWut8Tyw8V19GVlPK7/Z5CuNlaZe6WaEgRITJx00Bi8ZUN3DqPwhxIfVGIL06eM3tFWMymnvSyXFp+W0qhoj/269wOGosZttC7GXGzc=;uHpdrlGUu3yXg/nNgd0+bg=="
 ---

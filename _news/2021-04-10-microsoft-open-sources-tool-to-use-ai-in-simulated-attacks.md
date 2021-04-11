@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
 type: article
 quality: 104
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -61,6 +61,47 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
+    excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
+    publishedDateTime: 2021-04-11T17:20:00Z
+    webUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b"
+    ampWebUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 73
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
+        width: 1312
+        height: 731
+        isCached: true
+  - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
+    excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
+    publishedDateTime: 2021-04-11T16:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/articleshow/82019423.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
+    excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
+    publishedDateTime: 2021-04-11T15:59:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z
@@ -130,6 +171,17 @@ related:
         width: 599
         height: 315
         isCached: true
+  - title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
+    excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
+    publishedDateTime: 2021-04-11T17:20:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 42
   - title: "Microsoft and Thales work to automate satellite image processing"
     excerpt: "Since Microsoft unveiled Azure Orbital last year to connect satellites ... high-volume artificial intelligence and machine learning to create an unprecedented impact on and beyond the planet!”"
     publishedDateTime: 2021-04-07T01:15:00Z

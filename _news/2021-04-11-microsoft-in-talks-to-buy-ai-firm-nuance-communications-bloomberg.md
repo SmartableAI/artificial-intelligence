@@ -1,21 +1,24 @@
 ---
 category: news
-title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-publishedDateTime: 2021-04-07T12:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
+excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
+publishedDateTime: 2021-04-11T15:59:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
+webUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
 type: article
-quality: 25
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
   - Microsoft AI
 
@@ -98,15 +101,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
-    excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
-    publishedDateTime: 2021-04-11T15:59:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z
@@ -224,6 +218,15 @@ related:
       name: PCR
       domain: pcr-online.biz
     quality: 28
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
   - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
     excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
     publishedDateTime: 2021-04-07T01:44:00Z
@@ -234,6 +237,6 @@ related:
       domain: island.lk
     quality: 16
 
-secured: "ssNtNa8PjG1GdzFjkbyEneX9roAtRF8K4U9aOlyuifk5ApV31y9a1ojpl70kGUUscWJH11BeEfK9P7HyG2/TQl0WIfOlomUJ/uMK5/G5e5L7ifAOfrrbFQRrsXWVythDrXuHglRVrCkUovcfKmwKFdCiwip1tcaz778AKieNOj5w/JfnKxTgjR6oVy4reOrMhhjaL6THKI9WOi79UtW3g/2zKIRy4SiPe5i1zdsaTCSjtJ9JuRWgK7MCya43H7lHSlmmIgItKwH+NV8Jl7V7pQkM0/GB7J014RPBESo5sPeWS/zfXOHqiT3ik7tYVL903M5VtBtjpmWi65jXhn5Oz+pdPCTLtaHXBbPnI18ylBRUMEo1BXenZmWOSS9GW3sgs2CANZw3ylnAx2lxu/xAWQ58XvUSnBAeXz/2Plj1ywuv+8DRm6NSeqe/dGmuNl0T7vSbWhGzWDJDcaue7iFPihtWaRP3bknt/Z+Szhm109lT9Vqz5KOiK/p6adFuOkvj5h+7vuXd0V1GdhA4J4loKw==;coeHvqvcg9OVSMe5Z+R/Kw=="
+secured: "KQyxNz1g5SfWO3d4iF5CAp/2plhK+u3GrIganJNvfsm+NAO6g4RqPwHLIHKQgV3wsy7ixcKkAfbLIUSXmVO/1tDyWz8jN4pU+WfDL55hpmf+v1Pq8KxqkQGww66H3O1W6H5coKaM12a/7VFcvl/CzTZkHfyD9yaWNDa8f7yvRnCcc7wVbHWqmYKW2yq0W87i34M0Za9B0DjgnAgSnjAE+s6CsQDnm/FDZMUR8WOSkgL9t10jXbfUAeJwLXmN6tvvxi1UZAqVFMWz9aD4x7T4URsZ+EMu+diFZFouPjoRyVNdcveBqpbOhcuq/Gt1Hy7MPIEUuHtIr0QrX9aluY646YDvmcI0zN/3GZg6x9R+SH6PzME6YTUJFfSEitniCO36/iEDCgF6o3Oj3Kd6bqC1hAnrx0ruh9MMxy8jSNj5sPD78WOlkP+vpPe18Cc57HGkLgS5/QAr99v91z2QAqkbDaOHHs7+Nt1f9uNNUegCsExICcAEEJeu1pT/SgzAsZHL2npOjfWcBxsuI74KU1OVvA==;ht2bvugChHFFfn0Lb79p/g=="
 ---
 

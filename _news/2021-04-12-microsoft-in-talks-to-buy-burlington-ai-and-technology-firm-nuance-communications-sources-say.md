@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-publishedDateTime: 2021-04-07T12:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
+excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
+publishedDateTime: 2021-04-11T17:20:00Z
+originalUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
+webUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
+ampWebUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
 type: article
-quality: 25
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
-  - Natural Language Processing
   - AI
   - Microsoft AI
 
@@ -176,17 +177,6 @@ related:
         width: 599
         height: 315
         isCached: true
-  - title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
-    excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
-    publishedDateTime: 2021-04-11T17:20:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 42
   - title: "Microsoft and Thales work to automate satellite image processing"
     excerpt: "Since Microsoft unveiled Azure Orbital last year to connect satellites ... high-volume artificial intelligence and machine learning to create an unprecedented impact on and beyond the planet!”"
     publishedDateTime: 2021-04-07T01:15:00Z
@@ -224,6 +214,15 @@ related:
       name: PCR
       domain: pcr-online.biz
     quality: 28
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
   - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
     excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
     publishedDateTime: 2021-04-07T01:44:00Z
@@ -234,6 +233,6 @@ related:
       domain: island.lk
     quality: 16
 
-secured: "ssNtNa8PjG1GdzFjkbyEneX9roAtRF8K4U9aOlyuifk5ApV31y9a1ojpl70kGUUscWJH11BeEfK9P7HyG2/TQl0WIfOlomUJ/uMK5/G5e5L7ifAOfrrbFQRrsXWVythDrXuHglRVrCkUovcfKmwKFdCiwip1tcaz778AKieNOj5w/JfnKxTgjR6oVy4reOrMhhjaL6THKI9WOi79UtW3g/2zKIRy4SiPe5i1zdsaTCSjtJ9JuRWgK7MCya43H7lHSlmmIgItKwH+NV8Jl7V7pQkM0/GB7J014RPBESo5sPeWS/zfXOHqiT3ik7tYVL903M5VtBtjpmWi65jXhn5Oz+pdPCTLtaHXBbPnI18ylBRUMEo1BXenZmWOSS9GW3sgs2CANZw3ylnAx2lxu/xAWQ58XvUSnBAeXz/2Plj1ywuv+8DRm6NSeqe/dGmuNl0T7vSbWhGzWDJDcaue7iFPihtWaRP3bknt/Z+Szhm109lT9Vqz5KOiK/p6adFuOkvj5h+7vuXd0V1GdhA4J4loKw==;coeHvqvcg9OVSMe5Z+R/Kw=="
+secured: "8ad/+7hRjcn/tKwhb1Z6CkKSNRc3IB3cLWpR89FaQYX6oWBR+XRD6iWPWAZe68Zk7m4N4mMapmK47H/XuS6ZjyFeDqv4wobBmfqVYaSkGplWR3p591ldji6uID5BovcsHhdOsCmrhA36/kA2WXzbmduJ0QOPbmdcUc3yepGtgX2ZpOC7J4wCw8I9vIS6fR22NVik6xfD+1ZAdZj9/H6xusiyx7rzFUBhWGBjAi6pR0XhotYTxRJ0fz+xzzwd9YL8dBLD/aFrHRW7NX6dqBk0PVLo5SQS5/ZSJ8krXCMFSZmm238r6RiS2XnZOmrorxdpf7IeIEVfeLXp3/qIWJSOX6FoppTmkFTx7ZsXA7Qtx/OriHTDvr31eBeEJmCmtBHyF48RAnezmfPbj+6cdJ8sQsDpMaNt7GBZsczfhAXz0g9e9mmjzR6mo127wZdp2M3sJrpIK33pqEamu594xtVvjo/DPLyd4aBHIoe0LpbGDtgJ8GNNtbURSQk6eiG9+quNqUB9fZugTsszo/lSr1oQJw==;bX9M9F4lTqgitQzWlFJy6w=="
 ---
 

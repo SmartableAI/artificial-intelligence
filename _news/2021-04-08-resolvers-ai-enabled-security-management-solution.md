@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence Bridges Education Gap"
-    excerpt: "The Chief of Staff and CMO at DMAI “Dark Matter Artificial Intelligence”, joins Gayle Guyardo on BLOOM to talk about how AI will be used to help children who have fallen through the"
-    publishedDateTime: 2021-04-07T00:55:00Z
-    webUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/"
-    ampWebUrl: "https://www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom/artificial-intelligence-bridges-education-gap/amp/"
-    type: article
-    provider:
-      name: WFLA
-      domain: wfla.com
-    quality: 74
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2021/04/AI-Education.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
     excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
     publishedDateTime: 2021-04-09T14:00:00Z

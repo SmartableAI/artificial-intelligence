@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compli
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of Ai Voice E-Commerce"
-    excerpt: "During the last 10 years, companies such as Google, Mercedes Benz, Amazon, Apple and Facebook ... research that fits in with its customers. This may be especially challenging when a brand speaks with multiple demographics. 4. Why Early Conversational Ai ..."
-    publishedDateTime: 2021-04-06T23:30:00Z
-    webUrl: "https://powerretail.com.au/sponsored-post/the-rise-of-ai-voice-e-commerce/"
-    type: article
-    provider:
-      name: powerretail.com.au
-      domain: powerretail.com.au
-    quality: 39
-    images:
-      - url: "https://mlo34ofws4g4.i.optimole.com/T4zpr1M-7IFPyGwv/w:auto/h:auto/q:auto/https://powerretail.com.au/wp-content/uploads/2021/04/Abnormal_1.jpg"
-        width: 760
-        height: 460
-        isCached: true
   - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
     excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
     publishedDateTime: 2021-04-08T06:30:00Z

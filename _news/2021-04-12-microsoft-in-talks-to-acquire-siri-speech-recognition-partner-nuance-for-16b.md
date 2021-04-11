@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-publishedDateTime: 2021-04-07T12:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
+excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
+publishedDateTime: 2021-04-11T17:20:00Z
+originalUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b"
+webUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b"
+ampWebUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
+cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
 type: article
-quality: 25
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: AppleInsider
+  domain: appleinsider.com
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
+    width: 1312
+    height: 731
+    isCached: true
 
 related:
   - title: "Microsoft open sources tool to use AI in simulated attacks"
@@ -65,22 +73,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U411279994_g.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
-    excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
-    publishedDateTime: 2021-04-11T17:20:00Z
-    webUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b"
-    ampWebUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 73
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
-        width: 1312
-        height: 731
         isCached: true
   - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
     excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
@@ -224,6 +216,15 @@ related:
       name: PCR
       domain: pcr-online.biz
     quality: 28
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
   - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
     excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
     publishedDateTime: 2021-04-07T01:44:00Z
@@ -234,6 +235,6 @@ related:
       domain: island.lk
     quality: 16
 
-secured: "ssNtNa8PjG1GdzFjkbyEneX9roAtRF8K4U9aOlyuifk5ApV31y9a1ojpl70kGUUscWJH11BeEfK9P7HyG2/TQl0WIfOlomUJ/uMK5/G5e5L7ifAOfrrbFQRrsXWVythDrXuHglRVrCkUovcfKmwKFdCiwip1tcaz778AKieNOj5w/JfnKxTgjR6oVy4reOrMhhjaL6THKI9WOi79UtW3g/2zKIRy4SiPe5i1zdsaTCSjtJ9JuRWgK7MCya43H7lHSlmmIgItKwH+NV8Jl7V7pQkM0/GB7J014RPBESo5sPeWS/zfXOHqiT3ik7tYVL903M5VtBtjpmWi65jXhn5Oz+pdPCTLtaHXBbPnI18ylBRUMEo1BXenZmWOSS9GW3sgs2CANZw3ylnAx2lxu/xAWQ58XvUSnBAeXz/2Plj1ywuv+8DRm6NSeqe/dGmuNl0T7vSbWhGzWDJDcaue7iFPihtWaRP3bknt/Z+Szhm109lT9Vqz5KOiK/p6adFuOkvj5h+7vuXd0V1GdhA4J4loKw==;coeHvqvcg9OVSMe5Z+R/Kw=="
+secured: "2qoi1RUtKRjdf05IrsnRs/RmgivdkoaWy13XrD96iNgqMWBCeoJNoKVgji3+qs0UnaKTYjpDIfRdBM3YWlgx/OGLpJTR4nIWSf3vDG+QzQ4VnFZoREQ1hHtWoNnBLpvvIQTD9FZbUqnp/wZvDqxlL4IV6xC87KSthDpoQxxv9Zz6GYg6sEwEIHnNVBgWScv127UDcTOXweBO/H3wdHpD8gNtmBO7lYu+vtwCo41mfhTEhmra2xrorraKu3aW/o+4Z885kkeOmxOJOxKu9S2+EKWMcusJ/eLaJ1yzjZUgXVeZQSouPOxrIxU/iRbKeyFRPVtG2+2FUO3VDqPgdNGU0dSfZg9zz7WwpupZZh3JhY0=;dJYcsj+VP8qUgt1cZImswQ=="
 ---
 

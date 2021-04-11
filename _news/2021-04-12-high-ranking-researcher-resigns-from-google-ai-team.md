@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Google AI scientist resigns after colleagues' firings"
-excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
-publishedDateTime: 2021-04-07T07:27:00Z
-originalUrl: "https://www.iol.co.za/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
-webUrl: "https://www.iol.co.za/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
-ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
-cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+title: "High-ranking researcher resigns from Google AI team"
+excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
+publishedDateTime: 2021-04-11T17:05:00Z
+originalUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037"
+webUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037"
+ampWebUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
+cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: IOL News
-  domain: iol.co.za
+  name: The Daily Star
+  domain: thedailystar.net
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://image-prod.iol.co.za/resize/5568x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cbea87ab-4c5c-5e49-888b-e90c68c8f9be&operation=CROP&offset=0x272&resize=5568x3132"
-    width: 651
-    height: 366
+  - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
+    width: 560
+    height: 292
     isCached: true
 
 related:
@@ -75,6 +75,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google AI scientist resigns after colleagues' firings"
+    excerpt: "said Bengio \"has been instrumental to moving forward AI technology and ethics.\" Another founding member, Jeff Dean, now oversees Google's thousands of researchers. Google Brain researcher Sara Hooker in a tweet described Bengio's departure as \"a huge loss ..."
+    publishedDateTime: 2021-04-07T07:27:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/google-ai-scientist-resigns-after-colleagues-firings-75378b16-aee9-4502-aaa3-f6c5325e26b3"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/5568x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cbea87ab-4c5c-5e49-888b-e90c68c8f9be&operation=CROP&offset=0x272&resize=5568x3132"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Google AI scientist Samy Bengio resigns after colleagues’ firings"
     excerpt: "At least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart"
     publishedDateTime: 2021-04-07T05:29:00Z
@@ -90,22 +106,6 @@ related:
       - url: "https://images.indianexpress.com/2021/04/Google_Logo_Reuters_1.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "High-ranking researcher resigns from Google AI team"
-    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
-    publishedDateTime: 2021-04-11T17:05:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
-        width: 560
-        height: 292
         isCached: true
   - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
@@ -269,6 +269,6 @@ related:
       domain: guardian.ng
     quality: 19
 
-secured: "MaDzKZC/J6iqpYoW+7Yxclc7BcXd3STqfFMp9zPxMJQf0+yR+XTJK2jknN8rT4NSwcvWsMhA/olp0uo6qoV1qtHMKnHZNNHKqC6lQLEuMy6kQaULY5DS5pruh5XPuHeDPVL0JLds2MBpNzx/x7MQcHDyBOhL7PFnA4bk+emAfdLN/AI/R2x4EIDhOyqyozjB+xW1FOaRRbiTCZus9eEH+3sUs2jQ7zPRscy3+iXc9yAnghPfObNgJU3Bq4zg4v2nrRhACq/LbZffXbNyhQuRXNZNxBdPkIHi7k5UrqC7v8bBFL+VNuGy9Q3N58okRfj8zICIrx7eyO07v7aYzH6YxCxfxpraIZsHoH7PqYtP9pk=;Y/yJ9Z/tprn0MFQwQT2pAw=="
+secured: "0wf72GaymB3M52oYoDp4r2DqfXtQ8YvGercifGFtJAlLRBI8m6FJtSQ/zBJpEdQGlbC15BqZ/Y0QEAr7PZxfmyZhOWqYFlXZB1fBiQ6kyKSZblLFT6e08rgeUlHjzmEIZ6e0FTOp4qDfcomZYeXGqJD0GsvIYq+Y132/+cVIqg+xjgtMtWkD9k+5wfmVn5eRtGu22bh9pz/0GPMhkw6wVGIJX2a/FOj4n+rbd9cPVEabNs3T8XmqfXXXTcWP7gzq5hP7WF8OYmtszm8+QYbWVXtTSEmJDLjoeERyKPHEs9shwfbLuVcOaM6g6fC74ZYd/YlpsaIDd7Y1dk0PJhvpn9AY8qsmcQuJkoFIjWDuvWM=;4N2WjEkkgs7RtBjpUWq3VQ=="
 ---
 

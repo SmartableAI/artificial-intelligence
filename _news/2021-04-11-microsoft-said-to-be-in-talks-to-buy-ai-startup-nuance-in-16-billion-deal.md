@@ -1,23 +1,30 @@
 ---
 category: news
-title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-publishedDateTime: 2021-04-07T12:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
+excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
+publishedDateTime: 2021-04-11T16:44:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/articleshow/82019423.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/articleshow/82019423.cms"
+ampWebUrl: "https://m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
 type: article
-quality: 25
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
-  - Natural Language Processing
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft open sources tool to use AI in simulated attacks"
@@ -81,22 +88,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
         width: 1312
         height: 731
-        isCached: true
-  - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
-    excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
-    publishedDateTime: 2021-04-11T16:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/articleshow/82019423.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
     excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
@@ -224,6 +215,15 @@ related:
       name: PCR
       domain: pcr-online.biz
     quality: 28
+  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
+    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
+    publishedDateTime: 2021-04-07T12:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
   - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
     excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
     publishedDateTime: 2021-04-07T01:44:00Z
@@ -234,6 +234,6 @@ related:
       domain: island.lk
     quality: 16
 
-secured: "ssNtNa8PjG1GdzFjkbyEneX9roAtRF8K4U9aOlyuifk5ApV31y9a1ojpl70kGUUscWJH11BeEfK9P7HyG2/TQl0WIfOlomUJ/uMK5/G5e5L7ifAOfrrbFQRrsXWVythDrXuHglRVrCkUovcfKmwKFdCiwip1tcaz778AKieNOj5w/JfnKxTgjR6oVy4reOrMhhjaL6THKI9WOi79UtW3g/2zKIRy4SiPe5i1zdsaTCSjtJ9JuRWgK7MCya43H7lHSlmmIgItKwH+NV8Jl7V7pQkM0/GB7J014RPBESo5sPeWS/zfXOHqiT3ik7tYVL903M5VtBtjpmWi65jXhn5Oz+pdPCTLtaHXBbPnI18ylBRUMEo1BXenZmWOSS9GW3sgs2CANZw3ylnAx2lxu/xAWQ58XvUSnBAeXz/2Plj1ywuv+8DRm6NSeqe/dGmuNl0T7vSbWhGzWDJDcaue7iFPihtWaRP3bknt/Z+Szhm109lT9Vqz5KOiK/p6adFuOkvj5h+7vuXd0V1GdhA4J4loKw==;coeHvqvcg9OVSMe5Z+R/Kw=="
+secured: "RTS3n7DjON4GT81sd58oSxxvvlQz/Qvbh6xZhOYo6a6PSos+quVwoVIitGHWi4eEIhCIvU8l1pXv+Izve0HoYJypNUOjV72Y44wt1WdtnYniqWhgYeAIVk6YoVDPI89zIwJMwXN1IA/Mur52iOUCz3L7pUMGo3UT2gmbB2H3jELapFMt2W6pxAy/5SQe/i4MzEhlZCdBAxl/Eod/aExrWwMCH9lvvm5sPcerpPzFfW8aLBoE2aTt9MwxkxDi1N0ZL9r0zylGLsadKm7KyW5VtaESpvuCXpvMd/8fJgLG8bAezkHmcQPDfnG7PD5KDqi/9cRWW/vcoE9JOZEEfgJuqqUvaTQkj9Lj5zBrsMlOaWY=;S6HzKw+BRK5hN+QrTNSBZA=="
 ---
 
