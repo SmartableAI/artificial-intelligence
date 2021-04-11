@@ -19,62 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ..."
-    publishedDateTime: 2021-04-07T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
+  - title: "Natural Language Processing Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
+    excerpt: "This market research report on the Global Natural Language Processing Market is an all-inclusive study of the business sectors up-to-date outlines, industry enhancement drivers, and manacles. It provides market projections for the coming years."
+    publishedDateTime: 2021-04-09T07:19:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/natural-language-processing-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research4-13.jpg"
+        width: 780
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-04-08T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+  - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
+    excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-09T14:35:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
-    publishedDateTime: 2021-04-09T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "q4HfFbLJUdj4dPC6zhwmik7sGtNzVbKCSlIohu15N99tpGEl5getQWio6anhXYkTTWMenpvBM5B7jZ5BY6aPScocIKh72oiv2yNs/RH7Xhon1GBcSJ+rHMkYL6bsJKK+MBgff7jmhAWeiJ7ba1tsNqPqENCxvwKxzDDcj/HVdsCnbTCud22qneJIxXVyapa6bqQsbLa2TCvH/XU5AkGEzcM/u6BAZij2JITvg4YrqjDkPILz1vEMZvkSGO8bFZDdwxdKyGUHWoIsk0crH4xlFQ2johgtRGGSkUXGL8bW+0zjvCjrDa7ZKj7z7kWjO1CeEjIO2rPED1gsxMmrCKZZYW3TeKChvVcmuWWwDLDFKNY=;mFFgV7xstO/XvMIHji3eFg=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI, gaming supercharge training to boost its long-term effects"
+    excerpt: "That is an opportunity to figure out what pushes the right buttons with the customer, and to use that information to start building a relationship, he says. Instead of reading from a menu or reciting a script, O'Brien wants service advisers to listen to ..."
+    publishedDateTime: 2021-04-11T21:00:00Z
+    webUrl: "https://www.autonews.com/fixed-ops-journal/ai-gaming-supercharge-training-boost-its-long-term-effects"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/18CLASS-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "c+jJWO+l0C0V8W/7ZWnEN6iKNisuDcyiQgtI5xQiuSoThYtJDHD7O/ACYmJ74Z0raXUA0oG+X4m4qvSyHGmHr392iDHZoL1YpAxVt3SP4Lf5COP663uNkIhOecm3GuRdv30+G/Br3Nc/7mMm2QjvOl5OMn92oYJcwoB3d9wFA1uDexYe7Slcg+YQZa/5VJ/vhehf4URc0tT5ch5Zl3aQZMLJQidxont8Yfkm0Uoe1UAxIroP4odEpOPSHxfTfhPTIMQApnUjRursfDBaFkIuacmDmjtnhyps7d/hm118YRvJhLUvr2wFM68mREQixeEKaRxuRXWix4BMev/UybOld22FqDOcH7adrLGTY+asxy4=;/FJV3e2QWLpzzpPp7IAhBw=="
 ---

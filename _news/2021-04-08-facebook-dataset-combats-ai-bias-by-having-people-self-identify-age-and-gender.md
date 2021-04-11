@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook is trying to make AI fairer by paying people to give it data"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:15:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Facebook tackles AI fairness and bias with new data"
     excerpt: "Facebook said Thursday it's releasing new data that could help researchers improve artificial intelligence systems so they're less biased and more fair. AI is already being used in various tech products from self-driving cars to facial recognition."
     publishedDateTime: 2021-04-08T13:00:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://www.cnet.com/a/img/v3qwoFnIgWH85LA6CLZ-t2X-Oi0=/1200x630/2021/03/25/af937715-04e9-4dfb-934c-326f51fc242e/004-facebook-app-logo-on-phone-2021.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-    publishedDateTime: 2021-04-08T16:15:00Z
-    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Facebook's new open-source dataset could help make AI less biased"
     excerpt: "The social media platform says that the new dataset could help researchers address discriminatory flaws in their AI systems."
@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
-    excerpt: "LeCun’s tirade began with a tweet announcing new research on fairness from the Facebook Artificial Intelligence Team (FAIR). According to Hao, Facebook coordinated the release of the paper to ..."
-    publishedDateTime: 2021-04-10T12:47:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 62
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook launches free AI bias programme"
     excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
     publishedDateTime: 2021-04-09T10:21:00Z
@@ -150,17 +136,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
-    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
-    publishedDateTime: 2021-04-08T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
   - title: "Facebook’s ad algorithms are still excluding women from seeing jobs"
     excerpt: "Its ad-delivery system is showing different job postings to men, excluding women from opportunities without regard to their qualifications. That’s illegal."
     publishedDateTime: 2021-04-09T12:04:00Z
@@ -190,6 +165,20 @@ related:
       - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
         width: 750
         height: 450
+        isCached: true
+  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
+    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
+    publishedDateTime: 2021-04-08T22:21:00Z
+    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
+        width: 948
+        height: 631
         isCached: true
 
 secured: "bGiQ2y9vLS4Usk2mwLrwk8fIDTCl8u56GeOrj6Rknl51kw4c4Hs9opClf2beOqXFJ8x+ZYoI+G4lUwfx0yOUrdyaVTH/OxWoLnP19EQLdXhy3dZVTBKlvKvv5x1O4QJNnvFcBOHX+0K+ajKfOoBlrc5WLJuyRoFQMgXGgWDEWKI1JLwwtgltHusHrstBBTyqRiyT2zi5V+XV3VSPRoCnNa1lghLMfcCyaWQefRzl7lIOnBfOGsCQXHA4cdSTbydR8xOnlwLSdRw6GvIl0QuZ311gv9gKLnY1oaH4OSahhGeYr1GHtI2kzdJcAAsjPRsjt0tJdSs4Hffr3mms/apkQ4cGjKsCi7MVIfz6kxh3APPbf2sfLJbTjns2tvY9XWkjM9AzI33smFNHuioRxzM2CqgUBWM/oeZ+2tbB3DxLlaikDCprcqcHRmOKEp4VYhtOVoNOLTFkbWgam0riPB+L5k75YYjOQNzsRbIMDrIOBMuq765bjLtfgOYu/681MQI3XYDhcH/CGeSBtc0e1H4u4w==;4oAy1r/uW3L3PKtWVmQDIQ=="

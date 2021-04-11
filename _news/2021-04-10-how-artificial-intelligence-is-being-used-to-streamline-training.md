@@ -7,8 +7,8 @@ originalUrl: "https://www.automationworld.com/factory/workforce/article/21366877
 webUrl: "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Automation World
@@ -37,6 +37,20 @@ related:
       - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI, gaming supercharge training to boost its long-term effects"
+    excerpt: "That is an opportunity to figure out what pushes the right buttons with the customer, and to use that information to start building a relationship, he says. Instead of reading from a menu or reciting a script, O'Brien wants service advisers to listen to ..."
+    publishedDateTime: 2021-04-11T21:00:00Z
+    webUrl: "https://www.autonews.com/fixed-ops-journal/ai-gaming-supercharge-training-boost-its-long-term-effects"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/18CLASS-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "c2UG4ukJBDZgFIT+ZjzdFK0qBd1gLFEvLCIScyX+ikoTjq8j+AcciDihD4xkm98HcLP3LJhzeFgCyt0jTDX2OiVKXiQ0JdE5chd3/cPonF+MosYIx7MUIhVyD0AjGDZS4gWiw52QMFWjPins6qu0mcM268wMEJ+La8lnv+2K4WfsmNsoCw1RJJhR8Xf19vmI1EWSmxsdRaJfE/yonC5DjSD3CFeZCOOiIWc4xrvJCCLbwCWY1Zo2GQLEOCFujvnjDTIJQw0zyF5xtiB1t3PZ4Q6MZcXAk6FNaruNJAeAcJdNNbbb4SF7Ye7fcTCZlBzOzj9zGzrpucQU2TtWy41dI+tkkyUYKu5DP4xlKKz6BePNnE0SNPYdnHIqmctJQd3nAx1eyvAGkdiPiU70nLJS0bXjg2t9cnjkFqeYSbDai/1gPHwou6CRfF2EKmWP4n8xwQiKxjfhZpQkSAoOl4yqCUkuqRjjy7ZU5bZNv1ierSQ2Cp9uywPswnwoV4+glwApkw8Tzz1Setyucwy8u+8Hxg==;xVn0emlQFiU8zxPWphhVYg=="

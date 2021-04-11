@@ -30,57 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ..."
-    publishedDateTime: 2021-04-07T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
+  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-04-08T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
-    publishedDateTime: 2021-04-09T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+        width: 383
+        height: 250
         isCached: true
-  - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
-    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
-    publishedDateTime: 2021-04-07T10:03:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/computer-vision-market-future-prospects-growth-opportunities-and-outlook-2021-2027-shared-in-trending-report/"
+  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
+    publishedDateTime: 2021-04-10T12:55:00Z
+    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 3
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
+        width: 750
+        height: 420
+        isCached: true
 
 secured: "kQ4sChpgEsc29pgsKj/IVHMA7nUZ8oGLHLtc/YHg/W01eGzo7HZxMKATei5yoyzJbrvOc0jlCJm59SEcJgyl/SKVAJ17ZgJ7c9QVeyUg7JLqGVfdKx6o36n15CN6OjeaxNN04gvasgsGuktdw5SKijl8n/ZM02sfcLblRoyY/IFdQF+7HpkDLlIYVfZTx3v8UVVx5Gh7wKhcCBXLkL3imBWXQyaSkC/Z0ACHhoLzipKSpaZ2WiLXgsH8nDUw1fulFwog9ztrXCqhyU5w683SnmbHcdpga31rTdrCNocQLPwyucunOrDVm6quUBrk/XjnEOZkGYH7noOy3OuqzWxuCMQQMa49Vzi7ahEGo85Vhrg=;YEAsyAku7GL1immzO61I2A=="
 ---

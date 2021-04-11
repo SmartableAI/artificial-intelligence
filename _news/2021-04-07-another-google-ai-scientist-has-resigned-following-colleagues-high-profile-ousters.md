@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s senior AI scientist resigns after colleagues' firing, reveals email"
-    excerpt: "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart."
-    publishedDateTime: 2021-04-07T03:39:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg"
-        width: 800
-        height: 506
-        isCached: true
   - title: "Google AI Scientist Resigns After Colleagues Fired For Pointing Out Lack Of Diversity"
     excerpt: "Bengio's fellow researcher Gebru was fired as he criticised a few products of Google while Mitchell was fired as she was vocal against the firing of Gebru"
     publishedDateTime: 2021-04-07T06:59:00Z

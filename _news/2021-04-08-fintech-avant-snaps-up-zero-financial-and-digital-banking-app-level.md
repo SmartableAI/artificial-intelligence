@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
         isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 pc growth"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."

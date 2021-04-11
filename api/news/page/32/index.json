@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-16-salesforce-intros-new-ai-powered-account-based-marketing-tools.md",
+      "title": "Salesforce intros new AI-powered account-based marketing tools",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Salesforce today unveiled new AI-powered account-based marketing (ABM) capabilities within Salesforce Digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/",
+      "publishedDateTime": "2021-03-16T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-how-can-you-go-global-as-a-startup.md",
       "title": "How Can You Go Global As A Startup?",
       "excerpt": "At an early stage of this business back in 2009, in the peak of the recession, I had the urge to go global and diversify, making my business less dependent on the U.S. economy. I did some research and learned that Mexico was investing heavily in tourism and bringing many international conferences to the country.",
@@ -1143,49 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-icad-announces-fda-clearance-for-profound-ai-version-30-for-3d-mammography.md",
-      "title": "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography",
-      "excerpt": "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

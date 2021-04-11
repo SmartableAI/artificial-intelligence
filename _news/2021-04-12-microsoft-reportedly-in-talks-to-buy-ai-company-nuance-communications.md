@@ -107,6 +107,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
+    publishedDateTime: 2021-04-11T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
     excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
     publishedDateTime: 2021-04-11T17:20:00Z
@@ -277,6 +291,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "vYrszUXZwB4VZCjKE/iyWt2Mwl1OjD9T4Jwy4R2yxtXFsKxOfmNVBxq/wGq5Ibg1rOq8NU+VVd4vRCcw487sBCDN14KNRnsx2UR4V/DkZd6TkiiBJZgFrmeDOyk2HsJAtyhEjrODvDf4Ecx1kmtQfse0+1FrY6swMYgqMwAVePpDMzj3zauFxrWzVChujSNiNyHisrEhJDZtgZxIuEOwd8gwHYRQqn+doauXoue0VLHD7aNP6Me3MditkyT0OJOvOBKwz67gCHwbl/eNnEN82WVvca1X+xoWpVz18NNfK7kuip1R/XfGb6XRehfuqBVGV/j23FwIOuMAyp2vJnyK1kR6Ze9wiDP0BFVW99QNWtU=;thCN7B8/fT0x0cNRGMJ7uQ=="
+secured: "0O0mEBs7KOlpRTICW+kAb8Z7uDtTdsNUnrqiyq+riH4uNpgs5cnBQYipC7i5/uERv0M5f5CvEYw/SfNLT76esg4SZ10LMqP0LvO8LQO6I40jReAhk18HJMlOxNCxlZZYETQea46AiQqHNv3aOyQ2WwZ0S/vbj49JzC6Xw9mQ7F3tFVTlOIqCyeDOoG9N6yhSRiRFXFxmvl8+G5z+l0O42W9ZF57P+tohDcX/XwIfvaJebBN5i0EYujAXpU9UL+ErZ+JXFh9VuUtd/AbgArLFrXllJ99+2FRDvW8LtpMWuv9feJyNRdGJlbeBScm3hPym+G9tErBPJNVNWLw8sYMv2eY0tnDfkKmLhbbO42x7waCcxUjNPth4DGGNKra4XwEJf6MPtgHUlEF0DYPhsp58CUxT4qDbMTbcNreCqI+kUf9q53jlFX4CdHaIWilqPehITLYaYDOxc0TNob/vKd6lKIPi11HuoegHRdRUqMqUZKNM5OBiNbt210NoT+cSdXEg1Gi8k1FyOGWGMKbSmdr4CQ==;n+nBRrRlzDCWSP4arb8ZDg=="
 ---
 

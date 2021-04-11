@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-publishedDateTime: 2021-04-08T16:15:00Z
-originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+publishedDateTime: 2021-04-08T12:15:00Z
+originalUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 189
+published: true
 
 provider:
   name: CNN
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -108,20 +109,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
-    excerpt: "LeCun’s tirade began with a tweet announcing new research on fairness from the Facebook Artificial Intelligence Team (FAIR). According to Hao, Facebook coordinated the release of the paper to ..."
-    publishedDateTime: 2021-04-10T12:47:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 62
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook launches free AI bias programme"
     excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
     publishedDateTime: 2021-04-09T10:21:00Z
@@ -149,17 +136,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Facebook tackles deepfake spread and troll farms in latest moderation push"
-    excerpt: "Facebook has removed a troll farm, spreaders of misinformation, and creators of deepfake images in its latest moderation efforts. The company's latest Coordinated Inauthentic Behavior (CIB) report, published this week (."
-    publishedDateTime: 2021-04-08T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-tackles-deepfake-spread-and-troll-farms-in-latest-moderator-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
   - title: "Facebook’s ad algorithms are still excluding women from seeing jobs"
     excerpt: "Its ad-delivery system is showing different job postings to men, excluding women from opportunities without regard to their qualifications. That’s illegal."
     publishedDateTime: 2021-04-09T12:04:00Z
@@ -190,7 +166,21 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
+    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
+    publishedDateTime: 2021-04-08T22:21:00Z
+    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
+        width: 948
+        height: 631
+        isCached: true
 
-secured: "gXa1KCyThxcTo2T3vCxs7o3rvVuVjw0Ts0rGLHoFOYQeJ8dAnqoHUJ/5HIUXeK770dw3ioW4LP9+2wktys6JGFE4gdS1wfLT6K6qMZodJGLXWPj4kZfc4TVhAiAnhD3ZUgd+TxYR4bSuShe//bDblKBMSjbgzghWLtBo7Cacx+jFTbuRdgfXE1Decs1d685E+KyFwTrTdA+a59df2TJVM2ihGjwl3T8Hgb5NzfUQ/RhUQEMXANsBw48xpEEgldUI45vF77xZqooVIHaFRyv1n2Hh74LPPdum3yxtFn6IpBmxSOmXOSINYGt6e1/4IazyW2sGL0/iGMu/ZCzR/fsk0PjCVjTLrxiuM40E5Pm+gZUCBhW+wqsRL4YY+x1ExcPs7m0dcba3vNugX4jIeiJLC9zka5/sFRCrMzRywldOP8db59U5uuow9xTmtNR7isiKCKgWBTM/Q5HmxGEIjAquz83D8C8x8fox8fQ71MeGARf+fFkD4xAiDs5m+aYtWTudc+4M9SYQZ/xa1a+5GCeOzw==;VEa/VWVTO8Huk8QDGRRLlg=="
+secured: "AcQx7tH4QveeI4dl+yVIpVjy3OM3gyB6Y23MPNIdF1ZE81ZBBBbcPj6YIqDYB8zORcxfvJ/XsDim27SA0Fjs7nngodqvb+4TDB9Kt1aUgK1qd+x/ZtyRnxdD32WzoCkkh7hC/mOd4Dx2K2c19ZcIJhkCajqtNWi3uwhGdms5K4kfYaHsnvowbcsHBhWa14u847f6lLb757KlWPquf3N4JDnGcd/3qU4ARpyEjsUvfCcr1YAKGPP1Nhe4RqziIaseRs/K1SIlro293JDZj5RyLXQ3+45GrDioO2RU/4k56JlkL7XDvqagqc56c4FQ+g2unjYGgGZeErp+EWzhkpaapz5UcxvRfW4Eko8ct+QRoBY=;8Azpsm0iBg+yvqrdqaJ0UA=="
 ---
 

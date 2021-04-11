@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nyp
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Internal Affairs used facial recognition software against NYPD cops: email"
+    excerpt: "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ..."
+    publishedDateTime: 2021-04-11T20:51:00Z
+    webUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/"
+    ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 72
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Legal Aid Society calls NYPD use of facial recognition technology 'unreliable'"
     excerpt: "The Legal Aid Society disclosed documents made available in a public records request, showing email exchanges from the NYPD and Clearview AI from late 2018 to early 2020."
     publishedDateTime: 2021-04-08T02:27:00Z

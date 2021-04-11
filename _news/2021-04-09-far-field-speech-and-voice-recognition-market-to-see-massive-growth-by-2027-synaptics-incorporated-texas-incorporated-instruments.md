@@ -33,6 +33,15 @@ related:
         width: 780
         height: 400
         isCached: true
+  - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
+    publishedDateTime: 2021-04-07T10:03:00Z
+    webUrl: "https://ksusentinel.com/2021/04/07/computer-vision-market-future-prospects-growth-opportunities-and-outlook-2021-2027-shared-in-trending-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

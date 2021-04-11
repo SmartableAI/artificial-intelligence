@@ -9,8 +9,8 @@ ampWebUrl: "https://ktla.com/news/nationworld/muslim-civil-rights-group-sues-fac
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/muslim-civil-rights-group-sues-facebook-over-claims-it-removes-hate-groups/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: KTLA
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Stop Lying': Muslim Rights Group Sues Facebook Over Claims It Removes Hate Groups"
-    excerpt: "The suit cites research from Elon University professor Megan ... recognizing anti-Muslim rhetoric can take different forms,\" the Facebook spokesman said. \"We have invested in AI technologies to take down hate speech, and we proactively detect 97 percent ..."
-    publishedDateTime: 2021-04-08T22:21:00Z
-    webUrl: "https://www.wbur.org/npr/985143101/stop-lying-muslim-rights-group-sues-facebook-over-claims-it-removes-hate-groups"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 33
-    images:
-      - url: "http://media.npr.org/assets/img/2021/04/07/ap21096755346495_custom-cee029803905f36dfbf3eb5573f2028ecc8c8557.jpg?s=6"
-        width: 948
-        height: 631
-        isCached: true
   - title: "Muslim civil rights group sues Facebook over hate speech | Charlotte Observer"
     excerpt: "The company based in Menlo Park, California, said it has invested in artificial intelligence technologies aimed ... who published research about anti-Muslim groups on Facebook and alerted the company. According to the lawsuit, Facebook did not remove ..."
     publishedDateTime: 2021-04-08T18:51:00Z

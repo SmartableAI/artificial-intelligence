@@ -29,15 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ..."
-    publishedDateTime: 2021-04-07T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
+  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
+    publishedDateTime: 2021-04-10T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
+    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
+    publishedDateTime: 2021-04-09T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
+    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
+    publishedDateTime: 2021-04-07T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
+    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
+    publishedDateTime: 2021-04-10T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-application-analysis-regional-outlook-competitive-strategies-and-forecasts-2020-2028-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,24 +99,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
-    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
-    publishedDateTime: 2021-04-07T10:03:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/computer-vision-market-future-prospects-growth-opportunities-and-outlook-2021-2027-shared-in-trending-report/"
+  - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
+    excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
+    publishedDateTime: 2021-04-08T11:07:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/commercial-artificial-intelligence-market-size-competitive-dynamics-global-outlook-2027-with-covid-19-impact/"
     type: article
     provider:
       name: The Sentinel

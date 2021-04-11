@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
+      "title": "Streamlit nabs $35M Series B to expand machine learning platform",
+      "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open source ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
       "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
       "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
@@ -1182,48 +1234,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
-      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
-      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
-      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
-      "publishedDateTime": "2021-04-06T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

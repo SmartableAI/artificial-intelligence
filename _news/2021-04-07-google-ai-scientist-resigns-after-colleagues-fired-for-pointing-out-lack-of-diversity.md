@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/go
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s senior AI scientist resigns after colleagues' firing, reveals email"
-    excerpt: "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart."
-    publishedDateTime: 2021-04-07T03:39:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg"
-        width: 800
-        height: 506
-        isCached: true
   - title: "Another Google AI scientist has resigned following colleagues’ high-profile ousters"
     excerpt: "Her former co-lead on the ethical AI team, Mitchell, was fired in February after she used ... “These red flags suggest the potential for culture, ethics, and/or human rights problems internally,” it added. Trillium is calling on Google to implement ..."
     publishedDateTime: 2021-04-07T15:38:00Z

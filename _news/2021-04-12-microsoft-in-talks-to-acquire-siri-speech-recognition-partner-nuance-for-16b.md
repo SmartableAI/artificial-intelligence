@@ -120,6 +120,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
+    publishedDateTime: 2021-04-11T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
     excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
     publishedDateTime: 2021-04-11T16:44:00Z

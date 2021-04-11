@@ -24,6 +24,22 @@ images:
     height: 876
     isCached: true
 
+related:
+  - title: "In acceptance speech, Israel Prize winner protests blocking professor’s award"
+    excerpt: "In a brief acceptance speech, theater director and actress Michal Bat-Adam ... in effect blocking the professor from receiving the recognition at Sunday’s ceremony. The court said he could be awarded the prize at a later date. The High Court has ..."
+    publishedDateTime: 2021-04-11T21:29:00Z
+    webUrl: "https://www.timesofisrael.com/in-acceptance-speech-israel-prize-winner-protests-blocking-professors-award/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 21
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2021/04/Untitled-4-3-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+
 secured: "XBo2V412FRtNK6sYfSmzZ0q6tJt0OuURaWH3Jn7tF4DRhOkc3cLcwVO/LMhtO2eUK3GTW87vSyw3rhmZIKvsXyubsavPBBUXDToiM9HlguSSoCJbch6PVgdrQGckGUIy7iiPpiOrthcFJaEtD2kz9qOfm4s5Aqloc/o5BZfBcauf1RSko6v9zpVf7uzbl2iFS2V2ys/2sWBcc7cmYvOzguqW4CUXGeVfm1ZYNEE8HA9y1rrTqYs1rXC3Nh5RVze4KuEJ3TYzz49vEtuwOGRgMfSkWpJ8NSw363GWj5Xis4RIccZM2GjmxBcoM2L9oGgNWTDhdJj0C7fY5ujSd63+b0lHKKWWpVAgrVStk7CGR3Q=;XnHRftJF2Mgauf69EqjB9Q=="
 ---
 

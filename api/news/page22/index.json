@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-23-new-algorithm-could-aid-the-rise-of-soft-robots-for-tricky-tasks.md",
+      "title": "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks",
+      "excerpt": "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "publishedDateTime": "2021-03-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-intelligent-automation-the-secret-to-combating-health-inequities.md",
       "title": "Intelligent automation: The secret to combating health inequities",
       "excerpt": "The AI system accepts these biases as truths ... s “informed consent” was truly ever “informed.” Automatic language translation to hundreds of foreign languages is one area where ...",
@@ -1134,49 +1177,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-baidu-debuts-on-hong-kong-stock-exchange.md",
-      "title": "Baidu debuts on Hong Kong Stock Exchange",
-      "excerpt": "Baidu says it plans to use the more than 3 billion dollars raised to develop artificial intelligence and self-driving technology. This is the latest in a string of US-listed Chinese companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210323_29_958549_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210323_29/amp.html",
-      "publishedDateTime": "2021-03-23T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
