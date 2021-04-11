@@ -71,6 +71,20 @@ related:
         width: 936
         height: 446
         isCached: true
+  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
+    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
+    publishedDateTime: 2021-04-10T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "5cUzcv5jXnyk2AVLJtpDK6GoY1cfygbcJ8wpJMVm2+8t42znDAqTDGTGNI9O0ZV7xEEk1wU8UDUEfQ16XA2msc+q1SLZqQjtfi7DxL+EhIZKI98h+q/nYDfhXBhJoL9Dux87lA+BTY8o+g5a8zzWDK4Xm0n5ZD+DkmgO6bxXLDUNcNHMSGK8a+3iBjrTjW0LV7BPhfUGhHmeqUmkn0sZEUcxvGdyAPRKL0kgSOb8BNF8/baqZtqLYks5ikB2G/gyugFNKaIeKPY/wkSElje0a+BIuuU/on82UaW1rDF3+Vu1Zb/mWQEtY6M+ZzeqBFlAWeeBHLSd8p1F+vVcU1wdFFohDHOTa3UG77nCWlveChs=;VE7UJJBaQ5r3AE/awV3jDg=="
 ---

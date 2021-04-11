@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentag
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -74,6 +74,20 @@ related:
         width: 1786
         height: 1119
         isCached: true
+  - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
+    excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
+    publishedDateTime: 2021-04-10T14:00:00Z
+    webUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 77
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z
@@ -166,20 +180,6 @@ related:
       name: PCR
       domain: pcr-online.biz
     quality: 28
-  - title: "Global Artificial Intelligence for Edge Devices Market 2021 Trending Technologies – Microsoft, Qualcomm, Intel, Google, Alibaba"
-    excerpt: "This research study titled Global Artificial Intelligence for Edge Devices Market 2021 by Company, Regions, Type and Application, Forecast to 2026 reveals the current status of the market to predict the future, by analyzing development trends, competitive ..."
-    publishedDateTime: 2021-04-06T05:20:00Z
-    webUrl: "https://ksusentinel.com/2021/04/06/global-artificial-intelligence-for-edge-devices-market-2021-trending-technologies-microsoft-qualcomm-intel-google-alibaba/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 26
-    images:
-      - url: "https://blog.westerndigital.com/wp-content/uploads/2018/08/Machine-Learning-highway.jpg"
-        width: 1200
-        height: 670
-        isCached: true
   - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
     excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
     publishedDateTime: 2021-04-07T12:35:00Z

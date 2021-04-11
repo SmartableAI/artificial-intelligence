@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-
 webUrl: "https://www.wired.com/sponsored/story/a-new-approach-to-an-old-ai-problem/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

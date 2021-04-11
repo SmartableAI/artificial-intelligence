@@ -67,6 +67,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Costa Rica Advances in the Implementation of Artificial Intelligence for Sustainable Forest Management"
+    excerpt: "Following its recovery plan, Avianca finalizes details to resume its operations between San José de Costa Rica and Miami on July 1st, 2021. The... Efraín David Fines Nevares, better known in the artistic world as “Tito El Bambino”, is on vacation in ..."
+    publishedDateTime: 2021-04-10T23:52:00Z
+    webUrl: "https://thecostaricanews.com/costa-rica-advances-in-the-implementation-of-artificial-intelligence-for-sustainable-forest-management/"
+    type: article
+    provider:
+      name: The Costa Rica News
+      domain: thecostaricanews.com
+    quality: 36
+    images:
+      - url: "https://thecostaricanews.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-1.52.59-PM-640x322.png"
+        width: 640
+        height: 322
+        isCached: true
 
 secured: "qIa9RW5OqiTdwNNRBhqvZUo92+Za3LoR+tBRKsEh2V9t49iIQG/dNbw4O0MmRDTGEmwjn9zxF+t34gTV4rMnfynBSak6/kCwclBQz3FnDlApYWEBBMzlmdEekAhqUCcXD7mon+atTACPinkIIZSdPmOiPGTJAV9p0gjrMKjRs82MOSEPCQ2j6NPM5ylyAHjXn3UGbakCd++zKXhrsh2uswUNAPrTbf/nsX/x7nxe7IzBmKCm1sBXSUgPC/gTyJyrdXn5WrGPjrFv8nC7NbMZKezImOoRhBOv39PkmVmTIG0ylLDqWtambXNQ8RWrLgE8tclq/p8iZpMI/rSi/uWjnN3bskmLpBiQn8UTfmq0ZL45G/hMgc4ZoLQP4nTfulp2XE5V9e2w4P4nN1+mefrQbdQuNZdfhMsfVz9b68V2lXe70XuiMbMpmX8NSE0AilvPjLhHjgElr+YWl9b7R/qRBtSX/WiRk3qZHVRh7386Lq/a+/mrTP3+SGYORVH3tPvwLsKS05PwEYexolfBptto6A==;fpHVaK8x4loJW36Ts+NtiA=="
 ---

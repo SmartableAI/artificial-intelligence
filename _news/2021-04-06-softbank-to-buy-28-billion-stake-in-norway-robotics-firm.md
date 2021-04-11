@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "SoftBank to take 40% stake in warehouse robotics firm AutoStore for $2.8 bln"
-    excerpt: "Also Read: Boston Dynamics introduces 'Stretch', new warehouse worker robot SoftBank in January last year took part in a $263 million funding round in Berkshire Grey, which develops artificial intelligence-based logistics automation systems used by its ..."
-    publishedDateTime: 2021-04-06T05:43:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/softbank-to-take-40-stake-in-warehouse-robotics-firm-autostore-for-28-bln/article34250601.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 71
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/f00y6r/article34250683.ece/ALTERNATES/LANDSCAPE_615/softbankjfif"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Softbank to buy $2.8 bn stake in Norway robotics firm"
     excerpt: "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore in a deal ... world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies. The deal values AutoStore ..."
     publishedDateTime: 2021-04-06T07:35:00Z

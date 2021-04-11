@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.autoremarketing.com/sites/default/files/AR2103_AFJcvr.jpg"
         width: 3131
         height: 3750
+        isCached: true
+  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
+    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
+    publishedDateTime: 2021-04-10T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "gyVARADkRlOVovUHXnFYwVXkW5Kyyu7+IV02EVLZWH58gM2OrdSoQ+3Wppt4gJusmTGf4Y6U8y+gf7J1fyn4Ehhbg73elAYDZ1hJp1GMirV7qUtCAV4LvViZmmRykS55X/uAMcKi+LRqAwy6f4kKHjQ4cSS2KAQOsoJmlXnNdbC7fKRjuLhxkBVwevOb8tu5Nv17r2+ISz16pDHN//z4Nn/SS6+/fzVKH8scb9OspdSuUdGzAvJ7Ady/ebFjtFwd6SCrYOY1GsxHQsU1cyyoxemVgjs96w5HvKVy/+STywm5APn3vzpnF/07/61P1S0HGNsabinRS9dR3dazXE/deWLOC6yCgMsTc2vbAHRqpo4eqXAqwf9o3irWnOaEorYW8l+kI7HDfY6YxnfjEMbfmYnJTo2XLpV8alecQLkOxU2wmROjoPH7hi0z5Bo7noV6Klmd9+o6Ua8ezTf4fCO/4ow0bOS68l69ffBoAVcp4inl2lpqr+ALiUXG5Mn89rxeDjq2C6PH7DMIOVQScxze2Q==;CuuC4WlYVUr9SIVBbBPhJA=="

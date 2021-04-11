@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "The Future of Healthcare in the Post-Pandemic Era"
-    excerpt: "One such startup is Sensely, a company using trusted content from the Mayo Clinic and the U.K.'s National Health Service as well as artificial intelligence to reduce the strain on the humans in the healthcare system. Sensely's competitors include startups ..."
-    publishedDateTime: 2021-04-06T06:52:00Z
-    webUrl: "https://www.inc.com/anis-uzzaman/the-future-of-healthcare-in-post-pandemic-era.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://www.incimages.com/uploaded_files/image/1024x576/healthcare-future_464974.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "4oveGF5q0K6M6BtyeswA5hFDirwjHSoexLMGsHQM/t37ulMjgUnmcMuL1nn1FHYF9dkpkxukrPBToOq96QLy+gCwBlRLvYPP+G13yo4PqZlqfRI66kT0oZT1K/z+ZQOqr3WhY/KFgk9JgX4HWM6hwUpN2ZOEFj3WJGSDezcNQAG14Y96Z9LkfrxDBkzjmujL1fIoOVaqyFpeMNvUGpz7MhrbT9nXNGzdPswWPjFvIkD5jQj8x0ZMo6zZ/9L82nFErSqYLkTCuw3WR2vi8QgQhB4iEr/LSSqqPe9uHMBeiEwgbYkYt8ENp3u5UxDqbu5uSJzl22ndRf8RI6kFb0hOjwFevmcmkHiuMFb48EIis8KKO9rAPLoHpPuBDOKupV4lRo/JA7GyTcz7Ui3egcc2wm2cmBTtzxYu/f/EaXOBmudd22H+PQI4onV4XHg8rWl/3LVuthvXjqLU/GU9tXBvLVQWpY8nGexH5TeEuqPUfPc0GWBYla7dAQAP+2nwJzKIorLl/Sdks83TKIOSg9LlRA==;ELgXOdlh26nj95VtRprHYA=="
 ---

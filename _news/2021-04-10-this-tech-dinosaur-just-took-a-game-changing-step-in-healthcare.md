@@ -1,23 +1,36 @@
 ---
 category: news
 title: "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare"
-excerpt: "As an example, it currently takes about 15 years for a new therapy to be developed and tested before ... In 2015, AI-based firm Atomwise took four months using artificial intelligence to search existing drugs and identify two as potential candidates ..."
+excerpt: "This technology could reduce that to weeks if not days. It won't be the first time the two institutions have partnered on AI. They previously worked together using IBM's Watson to assist physicians and help guide care across a patient's entire journey ..."
 publishedDateTime: 2021-04-10T10:57:00Z
-originalUrl: "https://www.nasdaq.com/articles/this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare-2021-04-10"
-webUrl: "https://www.nasdaq.com/articles/this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare-2021-04-10"
+originalUrl: "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
+webUrl: "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 91
+heat: 92
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
 
-secured: "IuYq33isiU7ls5N9F+/QjOdmZMibyYveYDs0eBKeH58QLYfjJxNXbNdqsJlk3cywyL5aoWxEUl4t68iXkh7g1kp6z8EXG9UX08h4L31x80fhcvx0F+89SUydqKnPjkW5RYKi8VZUw1zarKZ+FMNG0zInkxBaOkF/uwfkrHip5BbnOjsJIvLNotm+hvRmHtkQ4XZ5u5L/KMeayDHyjIdicmzJxmehreIL2Ml/EPeLF84zIRypllyJvcxnPutmLIXjJ+zIVCB+JEKrqxcjvRmLrRDvVQjo5xKNFxGkhocjfyLB/2/Onr/eMQUpZoF4zLdsYROKAOhw1/9XM9e0tySBPvn4h2N+5Y3NK9NU2OkHxfs=;lW636/iXkQ3cjT1aWeE7Sw=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "CWH+zHZEpZBaHnDg8blCgFBkI07Kfsm2r8+pqGtlDrc4wvCBCeNQtotc3EkuFc/uVj5WcUcSXvqdxkZxqwA8fsIN8FyNupRNW3IRR6UeYHmjKv71A17ew3jxc+Lr97S/3bfcVZAxWxJrbtxVjXmulOehC6kZuUqObYF/p7eGv19wsWlm8fcJm9Hz8pQYMF0F+uDpEVfRbgJNYksKZjilCO+DEpjgSOGn8435Z0okirHngS68X4XPTgsDG0J0c4x8udJ72KU7Foi27Kff1mkWM+NfQfPegOKueOryoY815ZUShIDqhjIfJ1f7maUV/sNNLMIXjrwpUvlFQTBMI2mmUEoLWp/qnusBudwhuWJHoy0=;ruEsumHVKCgVksxFqP9XKw=="
 ---
 

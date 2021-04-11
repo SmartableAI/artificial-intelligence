@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Costa Rica Advances in the Implementation of Artificial Intelligence for Sustainable Forest Management"
+    excerpt: "Following its recovery plan, Avianca finalizes details to resume its operations between San José de Costa Rica and Miami on July 1st, 2021. The... Efraín David Fines Nevares, better known in the artistic world as “Tito El Bambino”, is on vacation in ..."
+    publishedDateTime: 2021-04-10T23:52:00Z
+    webUrl: "https://thecostaricanews.com/costa-rica-advances-in-the-implementation-of-artificial-intelligence-for-sustainable-forest-management/"
+    type: article
+    provider:
+      name: The Costa Rica News
+      domain: thecostaricanews.com
+    quality: 36
+    images:
+      - url: "https://thecostaricanews.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-1.52.59-PM-640x322.png"
+        width: 640
+        height: 322
         isCached: true
   - title: "Top 20 Artificial Intelligence Research Labs In The World In 2021"
     excerpt: "Started in 2013, Facebook created the FAIR group to study and advance artificial intelligence technology through open research. In an effort to understand the nature of intelligence to create better intelligent machines, FAIR has grown to become an ..."

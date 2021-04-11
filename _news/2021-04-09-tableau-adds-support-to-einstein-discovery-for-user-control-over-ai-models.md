@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/"
 type: article
 quality: 85
-heat: 87
+heat: 85
 published: true
 
 provider:

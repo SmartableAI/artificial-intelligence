@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-10T19:47:00Z
 originalUrl: "https://siliconangle.com/2021/04/10/new-era-innovation-moores-law-not-dead-ai-ready-explode/"
 webUrl: "https://siliconangle.com/2021/04/10/new-era-innovation-moores-law-not-dead-ai-ready-explode/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/AdobeStock_206164844-1024x706.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 706
     isCached: true
 
-secured: "bK1tqxnT9B7Yow5rRUecQapZd/2xyIbpGk2izJSsLgdX85ptIP84X+zMmL02OD1K46dICng3GByXTXMS3W2AUMb8EumLDZX5hChLFbURf9Kbf0lO3UqSN84pPPJoZ4OmC3nPs1ewWAFe7VJxA82HRR4DVnr/OlzJEoHnEK8FCAF4CmN8kLwzvrw7fZrTzjpJ7uTAPtS++fq67kE0f3Q3rNGFW8/FtF+g+6eysKtzCMHmsrRBkV88rTMzBDjHhsUpZJSGHrNb0vR4G9UTd0sMJFkcDO/VCljutPIz5QfiN4LPkOcTT1Yr8+lBzmOqSqa5lxJJi+hKIppnITb/+9Ygm2J2czJOpyAlqJApUOghLMI=;I89QPjatzdIJvopP3DDbyg=="
+secured: "1DaxLC1Z9NNJ8ceKBs577AdIK9RT6dhh24FuLLAl0mfTtM/QRrQ4K+bgaf8s08OWI7TUA8MkAjpPdtT/0bkZWSHV7uwy74hQZcVB5PqBk+Rz89DMH2+bDmfPUEV8DfCYTadb5ZtqNI4tTXZBdAy2VlTfcUOEC96z+yzGfOjtS0X4WhNdTxHhd59ZG+ZHDR6RCEhYM+GbmHRlxMVBAe0UYUHfBOzCYl7erSXYkjcLAHw0pNifMISS/nHBPO6F163iPfF1CRPv4Y2reRIXHgO+mCxrvFF5sxFGtmnoho2zM6tqBJs8BnmeCQ8VspDVCofZSLEdJnacRZvHItnIgoi/63rM02J0C2PNwMk5oTlbT9feF0eIJ7OlQJwYN461t6eUvXH5vJtbzUlyTNFi4PKO7C+ekpblHN+ZPN7fUccYSSqXhtH25J4kSgifvvH+HrDLSt7qLdyTY22OWFMWBytb/V+Uuv8lCpET5JqmJNn5ANIPqgyIfMLJC32Z88LMdOM+zzxkRVd6HCHAmQdvKFWFWQ==;UjIPMZRap/+aJHaUN74ADQ=="
 ---
 

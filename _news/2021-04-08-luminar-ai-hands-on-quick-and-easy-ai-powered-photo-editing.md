@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:
