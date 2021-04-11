@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-york/halfhollowhills/amp/29408020/half-hollow-hills-music-program-receives-national-recognition"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "National recognition of Redlands native highlights how data helps kids"
-    excerpt: "Helen Welderufael is data operations manager for Think Together, a nonprofit that reaches 3,200 students in San Bernardino County from Redlands to Montclair."
-    publishedDateTime: 2021-04-06T07:49:00Z
-    webUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids"
-    ampWebUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
-    cdnAmpWebUrl: "https://www-redlandsdailyfacts-com.cdn.ampproject.org/c/s/www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
+  - title: "Marblehead Public Schools Music Department receives national recognition"
+    excerpt: "Research found that music participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and that students who are involved in music are not only more likely to graduate high school ..."
+    publishedDateTime: 2021-04-10T18:05:00Z
+    webUrl: "https://www.wickedlocal.com/story/marblehead-reporter/2021/04/10/marblehead-public-schools-music-dept-receives-national-recognition/7173641002/"
+    ampWebUrl: "https://amp.wickedlocal.com/amp/7173641002"
+    cdnAmpWebUrl: "https://amp-wickedlocal-com.cdn.ampproject.org/c/s/amp.wickedlocal.com/amp/7173641002"
     type: article
     provider:
-      name: Redlands Daily Facts
-      domain: redlandsdailyfacts.com
-    quality: 44
+      name: Wicked Local
+      domain: wickedlocal.com
+    quality: 43
     images:
-      - url: "https://www.redlandsdailyfacts.com/wp-content/uploads/2021/04/RDF-L-AFTERSCHOOL-03-16x9-1-1.jpg?w=975&h=548"
-        width: 975
-        height: 548
+      - url: "https://www.gannett-cdn.com/presto/2021/04/10/NWKL/3a29e99d-bc97-4acb-a739-783b236dfd54-Logo.jpg?auto=webp&crop=674,380,x0,y135&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
   - title: "SPS’ Music Education program receives national recognition"
     excerpt: "Significantly, listening skills are closely tied to the ability to: perceive speech in a noisy background, pay attention, and keep sounds in memory. Later in life, individuals who took music lessons as children show stronger neural processing of sound ..."
@@ -57,6 +57,15 @@ related:
         width: 1008
         height: 432
         isCached: true
+  - title: "National Recognition of Alexandria-based Elder Network’s Respite Care Program"
+    excerpt: "Central Minnesota Elder Network’s Respite Care Program has received national recognition as an Innovative Provider ... and serves as a strong voice for respite in all forums. The purpose of ARCH’s Innovative and Exemplary Services initiative is to ..."
+    publishedDateTime: 2021-04-09T09:01:00Z
+    webUrl: "https://www.voiceofalexandria.com/news/local/national-recognition-of-alexandria-based-elder-network-s-respite-care-program/article_3c6777b0-9890-11eb-b5fa-1bc8fcbf7c7b.html"
+    type: article
+    provider:
+      name: Voice of Alexandria
+      domain: voiceofalexandria.com
+    quality: 1
 
 secured: "nSOaq7jePMqPaEiw9EV6bFlP4NySDfMkYlen/JRXxHsVYMxbaaUgQZ+Cw/htYdGpCBycVpRtSUQRPx6txbuVR4oo5tQoOMovCVxBG51HwkseYNCPgIpMcE1HqFUGhn4KAUKUUifDNU4IsXmbQBwJe7pBUkJdQJZfGNpgkl6mqYLYd091IoV5cWqDXxK0oHtWkzwKdFP6LCFXRWVegMWUOEFdfidtMRcNnv0ZeyuGxeAGPZV4xGVQzD8Akh6j8pTptSEMz/PYe337jrX5J6qitLThXc2s0CY2nOZyug9P69VS3Mm2UHE4TBoanlb5WWZ9Zbs4XZEJwOL0OKs5efqfh20pJIng+Ggwx7hILJJWtk5dEXgD4PQas+osMKOrPgN58hSSostOv0FayOQT7VhdXnrp+0fk0xSYz12qBXZpLN1lgjiNw1Lo0XrOVz19kXePJ1eoM0RXoW66/2a2Ke3FwklLaDO0TUjfd3Gj+6EoDQYNdU5mwtudfMfQIFYfpd+iojjTtTk79o3v7pqAeKLkrg==;NVakxUVoh4VvgJxbrS7EEA=="
 ---

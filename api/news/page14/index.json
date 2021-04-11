@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-30-artificial-intelligence-can-help-create-safer-greener-transportation-systems.md",
+      "title": "Artificial intelligence can help create safer, greener transportation systems",
+      "excerpt": "In addition to autonomous trucks, electric vehicles, and driverless trains, smart rails that run on virtual painted tracks—monitored using the software on board the train—are being tested in many countries. The benefits of artificial intelligence in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861613_640-2.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/amp/",
+      "publishedDateTime": "2021-03-29T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
+      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
+      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "publishedDateTime": "2021-03-29T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
       "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
       "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
@@ -1022,100 +1117,6 @@
         "name": "The Times of Israel",
         "domain": "timesofisrael.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-youve-invested-in-ai-but-are-you-getting-roi-from-it.md",
-      "title": "You’ve Invested In AI, But Are You Getting ROI From It?",
-      "excerpt": "Quantifying the return on investment from Artificial Intelligence is not easy. With these four steps, you can measure your business value systematically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f7d0d6baf0ceb37f89102%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1765%26cropY1%3D86%26cropY2%3D1079",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
-      "publishedDateTime": "2021-03-29T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
-      "title": "Fridges, Microwaves Fall Prey to Global Chip Shortage",
-      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

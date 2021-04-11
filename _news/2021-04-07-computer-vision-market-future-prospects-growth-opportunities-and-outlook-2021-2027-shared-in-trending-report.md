@@ -114,15 +114,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-06T08:07:00Z
-    webUrl: "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 5
 
 secured: "q4HfFbLJUdj4dPC6zhwmik7sGtNzVbKCSlIohu15N99tpGEl5getQWio6anhXYkTTWMenpvBM5B7jZ5BY6aPScocIKh72oiv2yNs/RH7Xhon1GBcSJ+rHMkYL6bsJKK+MBgff7jmhAWeiJ7ba1tsNqPqENCxvwKxzDDcj/HVdsCnbTCud22qneJIxXVyapa6bqQsbLa2TCvH/XU5AkGEzcM/u6BAZij2JITvg4YrqjDkPILz1vEMZvkSGO8bFZDdwxdKyGUHWoIsk0crH4xlFQ2johgtRGGSkUXGL8bW+0zjvCjrDa7ZKj7z7kWjO1CeEjIO2rPED1gsxMmrCKZZYW3TeKChvVcmuWWwDLDFKNY=;mFFgV7xstO/XvMIHji3eFg=="
 ---

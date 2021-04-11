@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-an
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-tackles-ai-fairness-and-bias-with-new-data/"
 type: article
 quality: 89
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -92,6 +92,34 @@ related:
     quality: 74
     images:
       - url: "https://images.wsj.net/im-322079/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI"
+    excerpt: "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article."
+    publishedDateTime: 2021-04-10T12:46:00Z
+    webUrl: "https://thenextweb.com/news/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Ffarinessflow.jpg&signature=c76856d8d026d8610cb1d9574bc71736"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
+    excerpt: "LeCun’s tirade began with a tweet announcing new research on fairness from the Facebook Artificial Intelligence Team (FAIR). According to Hao, Facebook coordinated the release of the paper to ..."
+    publishedDateTime: 2021-04-10T12:47:00Z
+    webUrl: "https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 62
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
         width: 1280
         height: 640
         isCached: true

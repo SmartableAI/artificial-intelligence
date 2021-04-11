@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-01-if-your-company-uses-ai-it-needs-an-institutional-review-board.md",
+      "title": "If Your Company Uses AI, It Needs an Institutional Review Board",
+      "excerpt": "Companies that use AI know that they need to worry about ethics, but when they start, they tend to follow the same broken three-step process: They identify ethics with “fairness,” they focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "originalUrl": "https://hbr.org/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/04/Apr21_01_1212998787.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/if-your-company-uses-ai-it-needs-an-institutional-review-board",
+      "publishedDateTime": "2021-04-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-apple-removes-siris-female-voice-as-its-default-and-adds-two-new-voices.md",
       "title": "Apple removes Siri's female voice as its default and adds two new voices",
       "excerpt": "“No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P 500 NASDAQ 100 Apple's voice assisitant Siri will no longer default to a female voice, TechCrunch reported on Wednesday. The tech giant ...",
@@ -1100,109 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
-      "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
-      "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367510",
-      "originalUrl": "https://www.entrepreneur.com/article/367510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616690604-GettyImages-1187635329.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367510",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367510",
-      "publishedDateTime": "2021-03-31T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
-      "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
-      "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg",
-          "width": 630,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "publishedDateTime": "2021-03-31T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

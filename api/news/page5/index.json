@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
+      "title": "Self-driving sensor startup Innoviz's shares rise on public debut",
+      "excerpt": "(Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor, which helps self-driving vehicles gain a three-dimensional view of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-innoviz-tech-idUSKBN2BT2RR",
+      "originalUrl": "https://www.reuters.com/article/us-innoviz-tech-idUSKBN2BT2RR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557505106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2RR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2RR",
+      "publishedDateTime": "2021-04-06T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
       "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
       "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
@@ -910,6 +962,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-softbank-snaps-up-28-billion-stake-in-norway-robotics-firm.md",
+      "title": "SoftBank snaps up $2.8 billion stake in Norway robotics firm",
+      "excerpt": "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
+      "originalUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-320890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
+      "publishedDateTime": "2021-04-06T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-heres-what-you-need-to-know-about-the-european-regulations-on-ai.md",
       "title": "Here’s What You Need To Know About The European Regulations On AI",
       "excerpt": "On the 21st April, the European Commission is expected to publish the draft Regulations on AI. Here's what to look out for:",
@@ -1112,110 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-regulating-ai-without-stifling-innovation.md",
-      "title": "Regulating AI without stifling innovation",
-      "excerpt": "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
-      "originalUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
-      "publishedDateTime": "2021-04-06T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-facial-recognition-for-bears-and-other-ways-to-use-the-technology-for-good.md",
-      "title": "Facial recognition for bears (and other ways to use the technology for good)",
-      "excerpt": "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
-      "publishedDateTime": "2021-04-06T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

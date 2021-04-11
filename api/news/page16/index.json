@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-improve-siri.md",
+      "title": "Report: Apple’s been snapping up AI firms to improve Siri",
+      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
+      "publishedDateTime": "2021-03-26T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
+      "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/monsterhunterswitch.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
+      "publishedDateTime": "2021-03-26T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment.md",
       "title": "Is Art Made by an AI Robot Speech Protected by the First Amendment?",
       "excerpt": "the robot becomes a medium for a person's expression, assisting (inspiring?) the decision-making process of what to design. I'll admit. In 2014, I didn't think AI artists would soon start selling ...",
@@ -1067,110 +1171,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp.md",
-      "title": "Aunalytics unifies siloed bank customer data with AI-driven data mart and NLP",
-      "excerpt": "Register for a free or VIP pass today. Aunalytics announced an update to its Daybreak for Financial Services platform that employs machine learning algorithms to enable midrange banks and credit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/daybreak_slide.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
-      "publishedDateTime": "2021-03-26T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
-      "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
-      "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "originalUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/341d9ad/2147483647/strip/true/crop/2819x1879+184+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3c%2Fcf%2F7fe2562f4d5ea428995d61d18f67%2Fendww3evaaaosg4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "publishedDateTime": "2021-03-25T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

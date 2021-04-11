@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "National recognition of Redlands native highlights how data helps kids"
-    excerpt: "Helen Welderufael is data operations manager for Think Together, a nonprofit that reaches 3,200 students in San Bernardino County from Redlands to Montclair."
-    publishedDateTime: 2021-04-06T07:49:00Z
-    webUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids"
-    ampWebUrl: "https://www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
-    cdnAmpWebUrl: "https://www-redlandsdailyfacts-com.cdn.ampproject.org/c/s/www.redlandsdailyfacts.com/2021/04/05/national-recognition-of-redlands-native-highlights-how-data-helps-kids/amp/"
-    type: article
-    provider:
-      name: Redlands Daily Facts
-      domain: redlandsdailyfacts.com
-    quality: 44
-    images:
-      - url: "https://www.redlandsdailyfacts.com/wp-content/uploads/2021/04/RDF-L-AFTERSCHOOL-03-16x9-1-1.jpg?w=975&h=548"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Half Hollow Hills' Music Program Receives National Recognition"
     excerpt: "After two years of music education, researchers found that participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and ..."
     publishedDateTime: 2021-04-07T19:09:00Z
@@ -58,6 +42,31 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Marblehead Public Schools Music Department receives national recognition"
+    excerpt: "Research found that music participants showed more substantial improvements in how the brain processes speech and reading scores than their less-involved peers and that students who are involved in music are not only more likely to graduate high school ..."
+    publishedDateTime: 2021-04-10T18:05:00Z
+    webUrl: "https://www.wickedlocal.com/story/marblehead-reporter/2021/04/10/marblehead-public-schools-music-dept-receives-national-recognition/7173641002/"
+    ampWebUrl: "https://amp.wickedlocal.com/amp/7173641002"
+    cdnAmpWebUrl: "https://amp-wickedlocal-com.cdn.ampproject.org/c/s/amp.wickedlocal.com/amp/7173641002"
+    type: article
+    provider:
+      name: Wicked Local
+      domain: wickedlocal.com
+    quality: 43
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/10/NWKL/3a29e99d-bc97-4acb-a739-783b236dfd54-Logo.jpg?auto=webp&crop=674,380,x0,y135&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "National Recognition of Alexandria-based Elder Network’s Respite Care Program"
+    excerpt: "Central Minnesota Elder Network’s Respite Care Program has received national recognition as an Innovative Provider ... and serves as a strong voice for respite in all forums. The purpose of ARCH’s Innovative and Exemplary Services initiative is to ..."
+    publishedDateTime: 2021-04-09T09:01:00Z
+    webUrl: "https://www.voiceofalexandria.com/news/local/national-recognition-of-alexandria-based-elder-network-s-respite-care-program/article_3c6777b0-9890-11eb-b5fa-1bc8fcbf7c7b.html"
+    type: article
+    provider:
+      name: Voice of Alexandria
+      domain: voiceofalexandria.com
+    quality: 1
 
 secured: "05vUQyiOT0FBPwN+AA6hwZwilN2VF6lLHEmrWw+BXJj7jrcfPUIBF74Io5xj9u4bae/w1VNP4HZ4lRyLBHJ8CNHrp6hQUIoRp2AUcqOkvRV5jEQ1q4HBUqe8jmRCzeutOmPxDk7Jrwin6andv/MRFJT/JC7QPZj759T0qAiBnlvqH5hFpIC+HpTn66//QMmYlmSfMUjRi3W8AfgFRnPERJcF0XECBN27TtPjXhw4l3eeB7Een4gGhp8Et5HGQlscw+HOU2K5R3m4qTd3884Zd9fxbmbXTupfgkM7hKRioCGrkZq4di0BLRwcT9WgL/ApFH7u63tpwF8TYe7Z9SxJ+wk5xTsP6s/GjbC+dzZ1UoY=;p1PiyzEEUvirFr9Wh2D8tQ=="
 ---

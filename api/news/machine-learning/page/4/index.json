@@ -2,6 +2,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
+      "originalUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
+      "publishedDateTime": "2021-03-15T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-faster-drug-discovery-through-machine-learning.md",
       "title": "Faster drug discovery through machine learning",
       "excerpt": "Drugs can only work if they stick to their target proteins in the body. Assessing that stickiness is a key hurdle in the drug discovery and screening process. New research combining chemistry and machine learning could lower that hurdle.",
@@ -1334,59 +1370,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
-      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
-      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -27,22 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition tech is supporting mass surveillance. It's time for a ban, say privacy campaigners"
-    excerpt: "A group of 51 digital rights organizations has called on the European Commission to impose a complete ban on the use of facial recognition technologies for mass surveillance – with no exceptions allowed. Comprising activist groups from across the ..."
-    publishedDateTime: 2021-04-06T08:43:00Z
-    webUrl: "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/"
+  - title: "Facial recognition for bears (and other ways to use the technology for good)"
+    excerpt: "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears"
+    publishedDateTime: 2021-04-06T10:50:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 86
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2015/06/24/6e25c7c0-3573-4c02-b123-9438a67474f7/camerasurveillance.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg"
+        width: 1260
+        height: 710
         isCached: true
+  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
+    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
+    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "WK/gtLDUufy56FIbeEL/ZC5V8/UBZWrJogxxjnEzDHjYpnyqpN2dV2DhcSJBmv7YITi26DOTV6wGAANanS/yJ+YTNlMvn7QF+Ergsikpn2gIg0MNx9iPKWryZ4X8uVbtC1Lqx0QI+zwK/naYICMBhNS8Y5nTSElhYNGmbhgqDTRdcc41tw9/GDZ8cXs7s8fxrs9Su89Z6YvPnukk5n3NxWZ60QChbT1pmXNnShDCwx6LqwwjJNZOYmgJHt/qLWUUQwktKCH1wKWmevoQ+Xft0RrGJtPhLpAS/b2gd6JHeOTe5m1hd11KQw1oM57KKyF7Q6bTpVNUo3QuNkmyn1gc+fcxcprW+w0bzcLLQuf2CvUN6vviorGrCnB6HQtCedTxp68qq9FsJqsEmETzGfGBtoH/jKf6kYmuzT/+6BnE8UTs3CEvA7BHRkXFGMw32tkmLgQyC0VSXUcCcKHEM/+IY3aq9pohdC9iuDlnviLKmXa96B19t4dbAksckV3xG4XPXtZs8r3R4D8bxbmFQ9Sx+w==;lrnqH5xawSkpzk/eM5Hhpg=="
 ---

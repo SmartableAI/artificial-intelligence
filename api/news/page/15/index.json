@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-29-youve-invested-in-ai-but-are-you-getting-roi-from-it.md",
+      "title": "You’ve Invested In AI, But Are You Getting ROI From It?",
+      "excerpt": "Quantifying the return on investment from Artificial Intelligence is not easy. With these four steps, you can measure your business value systematically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f7d0d6baf0ceb37f89102%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1765%26cropY1%3D86%26cropY2%3D1079",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
+      "publishedDateTime": "2021-03-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, Microwaves Fall Prey to Global Chip Shortage",
+      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-29/fridges-microwaves-fall-prey-to-global-chip-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-defiance-etfs-a-revolution-in-thematic-etf-investing-podcast-transcript.md",
       "title": "Defiance ETFs: A Revolution In Thematic ETF Investing (Podcast Transcript)",
       "excerpt": "And what's great about what we do is that, we're from ... computing, to better our quality of lives, for example, in aerospace and defense, you have machine learning and AI that can optimize ...",
@@ -1092,110 +1186,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-improve-siri.md",
-      "title": "Report: Apple’s been snapping up AI firms to improve Siri",
-      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
-      "publishedDateTime": "2021-03-26T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
-      "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/monsterhunterswitch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "publishedDateTime": "2021-03-26T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

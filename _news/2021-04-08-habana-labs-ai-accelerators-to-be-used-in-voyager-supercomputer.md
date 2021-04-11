@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Habana AI Accelerators Chosen by the San Diego Supercomputer Center to Power Voyager Research Program"
+    excerpt: "Habana Labs, a leading developer of purpose-built deep learning accelerators for a wide range of data centers, today announced that its artificial intelligence (AI) training and inference accelerators have been selected by the San Diego Supercomputer Center (SDSC) at UC San Diego to provide high-performance,"
+    publishedDateTime: 2021-04-08T12:38:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-san-diego-united-states-7205ee636b0ec942cf6b2221f793fc6c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "wDZgpzakQ5njsmX95CYpK5QBEmB6+U//hf+o8GmXSlRxrliz6PW4b/KjY+fOplhC3RfmpnFZAHIIyDTIRKvSBW26LOIZ8CHVHda3MG9WWS46bz2rAcaigzVla2+p9PQCaU/+jFG++yL96otK5Gs0ko55EnIQ9qJ2z7PCM2H7FXfTmb/o7M/vOnGfYulWa8Z2h+/9yu/kJndXMH6j8Uku51u9tG8ggpk5plgqtBOnG678Plf54eg72RaejHdIpmbkTfylCUoL9Ltjkr0HBL7N9dEZuCarENrFgx8z9+z+Om4qG95tFCcy/eiJk5Ubo5rTl8+tjjUoavuCI2mJ37DFjruLh7J++zfrvTAC9OyLBkr0vtM24rCMleVehGbJLy/t0KIlItEO2DZfeLuoCZ20RWCqbvtFaHaw1RstbhX3NWffDjpNe6sERe0BUcEstbIWFBbK+Jxl6vLmAe7vu5ZRUL7JapyHPuQJ2H4kOZN2vEdBOsCt3W+XSwZhr51PGAJPurUmi4Mj0wSPKgAu9rvhug==;8YAKA8rmbUrI6+VMXa5xGQ=="
 ---

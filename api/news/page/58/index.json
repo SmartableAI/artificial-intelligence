@@ -2,6 +2,110 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-02-25-tech-firms-train-voice-assistants-to-understand-atypical-speech.md",
+      "title": "Tech Firms Train Voice Assistants to Understand Atypical Speech",
+      "excerpt": "Voice assistants like Alexa and Siri often can’t understand people with dysarthria or a stutter. Their creators say that may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "originalUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-303573/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "publishedDateTime": "2021-02-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-the-healthcare-revolution-at-home.md",
+      "title": "The Healthcare Revolution At Home",
+      "excerpt": "Using new health technology provided by startups, hospitals and doctors are offering an increasing number of services in the homes of patients. The Covid-19 pandemic has accelerated this approach, which evidence shows can result in better patient outcomes and lower costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60367d808a68c8a739aee0bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "publishedDateTime": "2021-02-24T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
       "title": "Aquarium scores $2.6M seed to refine machine learning model data",
       "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
@@ -1080,92 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-natural-language-processing-services-in-ai-annotation.md",
-      "title": "Natural Language Processing Services in AI Annotation",
-      "excerpt": "AI applications can be developed with the help of natural language processing (NLP) using machine learning or deep learning. NLP helps machines (mainly computer system) understand, analyze, manipulate, and potentially generate the human language or the ...",
-      "sourceUrl": null,
-      "webUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
-      "originalUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arcticstartup.com/wp-content/uploads/2021/02/Text-Classification.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArcticStartup",
-        "domain": "arcticstartup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed.md",
-      "title": "Way of using machine learning to aid mental health diagnoses developed",
-      "excerpt": "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/02/24/1600x900/photo-1553465528-5a213ccc0c7b_1614155850021_1614155860613.jfif",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
-      "publishedDateTime": "2021-02-24T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-regulating-ai-without-stifling-innovation.md",
+      "title": "Regulating AI without stifling innovation",
+      "excerpt": "It’s not just consumers and end-users that AI will benefit. Many see AI as enabling businesses to foster innovation and want to introduce regulation to minimize the disruption in the growth of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
+      "originalUrl": "https://www.techradar.com/news/regulating-ai-without-stifling-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/regulating-ai-without-stifling-innovation",
+      "publishedDateTime": "2021-04-06T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-facial-recognition-for-bears-and-other-ways-to-use-the-technology-for-good.md",
+      "title": "Facial recognition for bears (and other ways to use the technology for good)",
+      "excerpt": "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "publishedDateTime": "2021-04-06T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix.md",
       "title": "These AI-made songs channel the spirit of Cobain and Hendrix",
       "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ...",
@@ -1118,111 +1222,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
-      "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "originalUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "publishedDateTime": "2021-04-05T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-why-we-need-new-benchmarks-for-ai.md",
-      "title": "Why We Need New Benchmarks for AI",
-      "excerpt": "An AI system, for instance, can perform well enough that humans ... Ms. Snow is a writer in Washington, D.C. She can be reached at reports@wsj.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-an-ai-system-be-given-a-patent-11570801500",
-      "originalUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/public/resources/images/JR-AA286_AIPATE_SOC_20191010143234.jpg",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
-      "publishedDateTime": "2021-04-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

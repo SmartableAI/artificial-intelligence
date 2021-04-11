@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-06T08:07:00Z
-    webUrl: "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 5
   - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
     excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
     publishedDateTime: 2021-04-07T10:03:00Z
