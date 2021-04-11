@@ -53,6 +53,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
+        isCached: true
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
     publishedDateTime: 2021-04-09T11:00:00Z
@@ -77,6 +91,20 @@ related:
       - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
         width: 1751
         height: 985
+        isCached: true
+  - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
+    excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
+    publishedDateTime: 2021-04-10T01:59:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/politics/2021/04/09/ny-agencies-utilize-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 17
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/buzzfeed"
+        width: 482
+        height: 269
         isCached: true
 
 secured: "7RbNZod95AO3FDJOR73T7dpc330U85+P2AFr+36GNAFlWvDf79dIHZRXzaicS0X3wF4ODLbIpZpmSBluz0fzXdCORzSAc/9eSFTY9e9+GHMe9PLWaeVCZYANMiDlCIdVFKD90tT8fyuNiZOOm+w0BW5+h3BeMKdJImGkS6AtnlNyt/qTAcRjWqKtt1Bj1rLTcdQR+sy6Mfy0EInKvpKMrXDJZGZHRjOiSxPtIgZvGpNG2dx/C9ONZaJWf4xscj31NQLfWc6lP61/2oGMuWNoYXO+GXRFdkpLet1YpBn5Qsu7urFfUogSCauhgCne0oVQj40l6MVn0cQSC0gyH1+KbfS/meghOcuFJjFVZn5kfzo=;Axx3aMMPLpbXrnir1ww/Lg=="

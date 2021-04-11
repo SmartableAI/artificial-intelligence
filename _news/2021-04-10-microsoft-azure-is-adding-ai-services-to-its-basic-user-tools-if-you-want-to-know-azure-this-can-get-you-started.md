@@ -45,6 +45,52 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft reportedly in talks to buy AI company Nuance Communications"
+    excerpt: "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri."
+    publishedDateTime: 2021-04-11T19:24:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft reportedly in talks to purchase AI and speech technology firm Nuance Communications"
+    excerpt: "Nuance, the firm that built the technology that underlies Apple's Siri, would be valued at roughly $16 billion in the deal, a 23% premium to the market."
+    publishedDateTime: 2021-04-11T18:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/603f4b7fb46d720018b0482e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
+    excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
+    publishedDateTime: 2021-04-11T17:51:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-11/microsoft-is-said-to-be-in-talks-to-buy-nuance-communications"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW6h3oPyclNU/v0/1200x804.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "AI in IoT Market may See Big Move with IBM, Microsoft , Google"
     excerpt: "Latest released the research study on AI in IoT Market offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation analysis with upcoming trends and"
     publishedDateTime: 2021-04-11T02:45:00Z
@@ -116,6 +162,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $16bn"
+    excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about $16bn, according to people briefed about the matter. The deal would be the second-largest acquisition ever by ..."
+    publishedDateTime: 2021-04-11T18:27:00Z
+    webUrl: "https://www.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
+    ampWebUrl: "https://amp.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 61
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53c548b9-d9ae-45d5-bbe3-f46fcc33c5eb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z
@@ -182,20 +244,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
-  - title: "Microsoft and Thales work to automate satellite image processing"
-    excerpt: "Since Microsoft unveiled Azure Orbital last year to connect satellites ... high-volume artificial intelligence and machine learning to create an unprecedented impact on and beyond the planet!”"
-    publishedDateTime: 2021-04-07T01:15:00Z
-    webUrl: "https://spacenews.com/microsoft-adopts-thales-deepervision/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/04/rsz_screen_shot_2021-04-06_at_54503_pm.png"
-        width: 879
-        height: 502
-        isCached: true
   - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
     excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
     publishedDateTime: 2021-04-07T13:09:00Z
@@ -228,15 +276,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 25
-  - title: "Microsoft introduces Cloud Skills Challenge with 10 universities in Sri Lanka"
-    excerpt: "Sri Lankan undergraduates recently participated in the Cloud Skills Challenge (CSC) as part of their professional development. The CSC impacted their professional development while opening the door for them to explore new skills,"
-    publishedDateTime: 2021-04-07T01:44:00Z
-    webUrl: "https://island.lk/microsoft-introduces-cloud-skills-challenge-with-10-universities-in-sri-lanka/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 16
 
 secured: "9pnSua0C1w9fOFIQjF9sJTtxw2N28dgzB5d2DMYOn+gYiB3e5exDMAMC6lUDp7SnFO6Xa55miivoXzzGaBky2uioQoNLRR2DyjiLhO7xnXLXOZvWhkfHF83I5KnMlcs/XGubKVPk94VEBl7RTqwEJGohum1IeXvsXoc9sScXbQPPI65D6U1+Ums3jdicbNCP0/ObRfKd0tSxQ5roIvuZ48s7xMhK5uHFVwqZ7gQzJHkt23HuBkqShgQx3XBW6eTJ7YZhKbhyLbdey9PPIGljtS7JDnK4DrsZcUCgd3E8U9jW3wh+bNRrI7bGN5h2qj02M4Z8FE85CLDcvfAyOLY8Acm5drIqfQt2HNlIOEeYCYg0ua7JgnlM9WgnhkZQB2auAQoyIt/qhMIbMLohJc9oqH0/GLlgf1ODUILg5Ig9hpUpbp2v4NteVa+6CjJujcwxZgQY6UC9oXOv7pzwPp2mNcAQtui+78o8YEy8kE0gCFaPS64ZkqBW8kCyA/avMyolE5B1Iw98sO3O124sPoe8Kw==;m/GZdY6hE3BJwD/Tm6Dyfw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-excerpt: "Lessing, along with co-founder Ryan Knopf who will join AppHarvest as vice president of technology, helped establish Root AI as an early leader in employing artificial intelligence in CEA. Virgo is the world’s first universal harvester, which can be ..."
+excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
 publishedDateTime: 2021-04-08T10:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 quality: 73
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -88,6 +88,6 @@ related:
       domain: foodbev.com
     quality: 34
 
-secured: "nTQMCihansO9/X3a6cvbNg+dAosp33HhEFd0cPHmFLbMTWUIV965dr/9HkWUbp7llk2I6zFeq3khjbjvLTqCgDfuuy81SfY7FNIGLFagIOl8nwdgUg4RYhsuOoQFwuDANP4pDlj+hUOweTcqL+KY8naPuoWCMznXRZvAszEXoIiuTmzz1hBShxVFLZakJxzkjWuF6iQnvhAv6U07D+VD42U2Oziw7NsIjRmRsrMKxaSq0sJn6/LTwMTrBNb9b0GcY3g+gh1SrZw98pWAwqeh95ubSV7wv8h3wOXEg5qfBajLNfFg7v9/E0qaGsLAY/NNb63n/W5N5gvhlemzEm1XxH9wUmQ1EPTVWxqtoEPzE5s=;ghui/mGY3ZvnGhtARsTJwQ=="
+secured: "E4eZxyUIHLKGxAaCbFzsP/g561r0nQOg/GE+UmYr33n6kz/SvNg/jNdu5rxf86jjVNdmi7Guk7afMVBy8NA4u0k+hrFSk8bhPPKA6P9Frz0aunIuDx+KZzvhgXzr0FiHdBgXoCrwgYW7YexCm7voF4obAQXanu2B0YzrFSE5Fv1gHJnZy/M8IbMlaK6/79tT01tUZZB4C+kxl9S4Hi2jenQMayX16M8PNetEFkS5nsB7VqSWmZc+WGT5OuQItsncr9/pOL+GGpGA2y0xwZ9Fe85fsYLUwtyqhQqr198CFL/uWi5zJczkXqWQ+pQEyZliun0QF//r7SU9l29VopAcxo+NSYE7XbXz+AiWwzWT4ak=;f4LRXrhXIPXNjrpA4KMEtQ=="
 ---
 

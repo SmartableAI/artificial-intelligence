@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Neuralink teases brain-computer tech in new video"
+    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
+    publishedDateTime: 2021-04-09T14:03:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna633"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Elon Musk's brain chip company Neuralink released a video of a monkey playing video games with its mind"
     excerpt: "Neuralink, a company founded by Musk that is developing AI-powered microchips to go in people's brains ... Neuralink says the monkey, called Pager, had a chip implanted in his brain six weeks ago. In the video, he is given a joystick that hooks up to ..."
     publishedDateTime: 2021-04-09T09:56:00Z

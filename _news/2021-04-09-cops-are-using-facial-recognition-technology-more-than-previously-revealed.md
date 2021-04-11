@@ -53,6 +53,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
+        isCached: true
   - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
     excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
     publishedDateTime: 2021-04-07T11:01:00Z
@@ -77,6 +91,20 @@ related:
       - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
         width: 1751
         height: 985
+        isCached: true
+  - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
+    excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
+    publishedDateTime: 2021-04-10T01:59:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/politics/2021/04/09/ny-agencies-utilize-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 17
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/buzzfeed"
+        width: 482
+        height: 269
         isCached: true
 
 secured: "pafNhsYUjEPKSPRdqIBGleZQ/xf9QFKv9H6iqfFHGNj29oU6Q/tXM8MguWrHRbax9MC8niCyFDfx0FbACk5oSQg10xxGid33hJIPtY3WyVwR+kv8ca6Zya+UVR7OE0rakAcexqgOHsvXl37QIjky+oHGvT85i5d1Y40pkaSIJAd2LePeECb00cyG6t1eHVl8smHRm557NmqkkbBIgEZsz1twy3RXcMM6CaxoaI3DlSa1Wme2thPtz2xRJmvvfxTG3cOtdYbUSJ3qTvjT64xAmtQXy2SvRw8G7b2p7Z36SdxCKJXhax0woXjiKpQAJ3buQa2ueB/VVR3qm6bAToJgSdXD3oDvP29BXMfYkCCaHN+I51wgBshKwgslNPELEzD17eLE4ZMcm7VsH2sjSKi2Xa5qB21cNC8N+ZA/ACvThkP6VZAXwVPIb5j8vkqHmLoOtk/6mjsThMBtLY+yPPnMJpIWm6kcdSYAC/Rqwk6SSkuGv3iEro2WtsxBz65WmJd1ge45wpbAGVUr3LfB5RFUyg==;7oV166Z+w4PiiGNFkgsSxw=="

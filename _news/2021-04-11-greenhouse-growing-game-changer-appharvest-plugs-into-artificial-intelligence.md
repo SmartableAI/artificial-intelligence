@@ -42,9 +42,9 @@ related:
         height: 765
         isCached: true
   - title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
-    excerpt: "Lessing, along with co-founder Ryan Knopf who will join AppHarvest as vice president of technology, helped establish Root AI as an early leader in employing artificial intelligence in CEA. Virgo is the world’s first universal harvester, which can be ..."
+    excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
     publishedDateTime: 2021-04-08T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
     type: article
     provider:
       name: Associated Press

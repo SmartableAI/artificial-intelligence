@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Forgotten Tech — Self Driving Cars"
-    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
-    publishedDateTime: 2021-04-07T02:00:00Z
-    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "xHyeBG26XFgc8ASQObiRlC05KBKYGUDScVuUBaJrlihfUiIVN/aPj9QRD7a+FudUpwwK7uKdvbiwANbUvXEohUl+WFB7UfHs+89NMMO7qXV9d8c4aPS1/qWdc6kJU9Yp4G/qKI/0BoYYRM65V4fEFqMcPW3mhgXSfK8c3Nvqzfkbp0h+6A0YZlYceyzc8BLl0CTaw4Dl7oRTVny0NnInBSt0yBN1tm0dHasBASWv6NIMXEYqAGURgyaDdBAhs78HCf96l0wH2BlvMT+Y1FJpNeX3Vp8Oo4A2/W2xuPGFZC3ImGvXggjZvqQnNLpFz6BZX/f0QVOJpi1oKmBbPeL8xo1cxpEq8uL0jcz1aJEz0E4=;AWwLJ8uYPvz/3bP0pvLX3w=="
 ---

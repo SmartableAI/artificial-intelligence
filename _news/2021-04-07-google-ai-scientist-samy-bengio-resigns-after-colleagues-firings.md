@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI scientist Bengio resigns after colleagues' firings: email"
-    excerpt: "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices."
-    publishedDateTime: 2021-04-07T02:27:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"
-        width: 811
-        height: 545
-        isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
     publishedDateTime: 2021-04-07T10:30:00Z
@@ -107,22 +91,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "High-Ranking Researcher Resigns From Google Artificial Intelligence Team"
-    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
-    publishedDateTime: 2021-04-07T01:17:00Z
-    webUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849"
-    ampWebUrl: "https://www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/high-ranking-researcher-resigns-from-google-artificial-intelligence-team-2407849?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Artificial intelligence stalwart Bengio resigns amid Google diversity rumpus"
     excerpt: "Though at least two Google engineers had earlier resigned in protest to the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart. Google confirmed Bengio’s resignation and his e-mail."
     publishedDateTime: 2021-04-07T08:01:00Z
@@ -139,22 +107,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "Google’s senior AI scientist resigns after colleagues' firing, reveals email"
-    excerpt: "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart."
-    publishedDateTime: 2021-04-07T03:39:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg"
-        width: 800
-        height: 506
-        isCached: true
   - title: "Google AI loses another leader following firing of ethics researchers"
     excerpt: "In March, CNN Business reported that Luke Stark, an assistant professor in AI ethics at Canada’s Western University, turned down a $60,000 Google Research Scholar award “to show his support for Gebru and Mitchell, as well as those who yet remain on the ..."
     publishedDateTime: 2021-04-07T07:50:00Z
@@ -168,38 +120,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/AdobeStock_310941793_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Google AI Scientist Resigns After Colleagues Fired For Pointing Out Lack Of Diversity"
-    excerpt: "Bengio's fellow researcher Gebru was fired as he criticised a few products of Google while Mitchell was fired as she was vocal against the firing of Gebru"
-    publishedDateTime: 2021-04-07T06:59:00Z
-    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-ai-scientist-resigns-after-colleagues-fired-for-pointing-out-lack-of-diversity.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 54
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/k9fx4qjycan7tq0b_1617777250.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
-  - title: "Another Google AI scientist has resigned following colleagues’ high-profile ousters"
-    excerpt: "Her former co-lead on the ethical AI team, Mitchell, was fired in February after she used ... “These red flags suggest the potential for culture, ethics, and/or human rights problems internally,” it added. Trillium is calling on Google to implement ..."
-    publishedDateTime: 2021-04-07T15:38:00Z
-    webUrl: "https://www.dailydot.com/debug/google-scientist-resigns-controversial-firings/"
-    ampWebUrl: "https://www.dailydot.com/debug/google-scientist-resigns-controversial-firings/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/google-scientist-resigns-controversial-firings/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 53
-    images:
-      - url: "https://uploads.dailydot.com/2021/04/google-scaled.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2560
-        height: 1268
         isCached: true
   - title: "Google AI chief Samy Bengio resigns over colleagues' firing and racial discrimination"
     excerpt: "And in one swoop, just like that, gone. Bengio's resignation has come a few months after Margaret Mitchell, a lead artificial intelligence ethics researcher, took to Twitter to announce the termination of her employment with Google. I'm fired."

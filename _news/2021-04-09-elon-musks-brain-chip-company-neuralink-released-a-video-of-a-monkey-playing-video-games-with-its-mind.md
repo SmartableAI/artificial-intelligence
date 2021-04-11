@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-gam
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4?amp"
 type: article
 quality: 88
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Neuralink teases brain-computer tech in new video"
+    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
+    publishedDateTime: 2021-04-09T14:03:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna633"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
     excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
     publishedDateTime: 2021-04-09T11:48:00Z

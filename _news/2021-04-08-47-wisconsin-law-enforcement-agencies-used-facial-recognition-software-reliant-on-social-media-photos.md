@@ -57,6 +57,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial Recognition Now Used in Over 1,800 Police Agencies: Report"
+    excerpt: "According to a groundbreaking investigative report published by Buzzfeed News, nearly 2,000 law enforcement and government agencies have been caught using facial recognition software, sometimes ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://thecrimereport.org/2021/04/07/facial-recognition-now-used-in-over-1800-police-agencies-report/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/25691920373_de4fcc1d06_c-e1617809483733.jpg"
+        width: 720
+        height: 459
+        isCached: true
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
     publishedDateTime: 2021-04-09T11:00:00Z
@@ -79,6 +93,20 @@ related:
       name: Idaho Statesman
       domain: idahostatesman.com
     quality: 31
+  - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
+    excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
+    publishedDateTime: 2021-04-10T01:59:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/politics/2021/04/09/ny-agencies-utilize-controversial-facial-recognition-software"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 17
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/buzzfeed"
+        width: 482
+        height: 269
+        isCached: true
 
 secured: "iCQMlP/V8L1JtLFAD4X3/sP6C87CGxLRhsDXCY2l8cbOaSSFBM3wIMP9XegP5QyKjG5Z2V1PdgCjKl8QmZkRHuBbh5DJ81w3FoDyRzPt4biYMfjEjl1q3NYF//k+Y5ll1vs1sKuzkC3txfLLXvzzqImhA1JP2OSCCcsFTLvId7/CsZJ8+XbKJ1CAgEHTVt94yHjM7yQx/pypKgrlOsptv+hi/JfYCCKuYLMecZ2Kk2IvLN1EK9VAeOKQKIhC5Ss2swDzalCD/0q3J0PB/aLQI5naFeIqsEds2xD+GFVzGwiMqa0O7kOq/esToNJ2La3sB82JIjXo8OAS3saowrH6cyFDIQ9Yd2ljamCtyPwSBA+KkJExllVogipML4YlPe7bZeWd6YwnM5U20bR9MP6v72p0UK8i7eeSzOmZiK7tVV/o/zw7yFX13VPlfR124LWAQeyjc++V8L4MrCv6W+0Y0Xn8k3bfOXun4Ims4pT4VY6f8j/t/HM07TPIkM3pW8TppTY4am7h6CiDAR+M03MDSw==;m4iSFEiTJraVziooStaLzg=="
 ---

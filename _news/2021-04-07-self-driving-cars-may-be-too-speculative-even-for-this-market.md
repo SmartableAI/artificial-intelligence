@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-specul
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forgotten Tech — Self Driving Cars"
-    excerpt: "The notion of self driving cars isn’t new. You might be surprised at the number of such projects dating back to the 1920s. Many of these systems relied on external aids built into the"
-    publishedDateTime: 2021-04-07T02:00:00Z
-    webUrl: "https://hackaday.com/2021/04/06/forgotten-tech-self-driving-cars/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/04/expo93-feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
     excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
     publishedDateTime: 2021-04-10T18:01:00Z
