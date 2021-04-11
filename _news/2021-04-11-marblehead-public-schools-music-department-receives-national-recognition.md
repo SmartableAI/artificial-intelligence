@@ -41,6 +41,20 @@ related:
         width: 1008
         height: 432
         isCached: true
+  - title: "Area students receive national recognition for essays on democracy"
+    excerpt: "Two area students have received national recognition for essays on democracy they wrote for ... Post 756 level and then first place at the state level for her essay for the VFW Voice of Democracy contest. Her essay represented North Dakota among essays ..."
+    publishedDateTime: 2021-04-11T12:59:00Z
+    webUrl: "https://www.grandforksherald.com/news/government-and-politics/6969113-Area-students-receive-national-recognition-for-essays-on-democracy"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 24
+    images:
+      - url: "https://www.grandforksherald.com/incoming/6970112-dav74o-Voices-of-democracy/alternates/BASE_LANDSCAPE/Voices%20of%20democracy%20"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "VnA9lJw8zXd+2T8dAwe1pPVcL3OJbKAANNvaIl17IEExUU/WT+r5C8EU3f98OZGvVhx2kGsetTH5zLEiFdE3gaL0uk2Kd/dJkPGQRdlPl6QxMKbkVmqBtmQVi7IpP640lfnBma03LbRJqMnyS3p2yty1/HsfE22fdAr1s0h/Abnezs2BcVPv8JVsbHZgnrX9yFC48Hhk3xnjJARf3vrhUsvVYsEac9BicPeRKXakp6mpJS6TnU23qfSQZpcAv6G7GzdFodUCMSTY9nL1+p5umtLyW+4k4eyBsZUsqOjS2KXPGUxmOvCUowb291mr3nDoQ6nVsPScXBE39+6GdMEocjxgDMn7YHOsg2QpLMBmC7ACLbltkvYtJ9n5KLrfmhW69KMG7nCp5xONSU0YGyfgRW0a9RTypjFDlk+c5xZlkb4l9X8d9D5RDjuwniYQ9SiZ8PA9OEpwDIEcE0IvoCxqkufuh3Ika9Tr5ipEF/0GnDB3RrLsIwGIdszDD1aq01sII+srgIgooOkpFZPabWFC7w==;hQn8EUc8Tcc3/aIQOfZCtQ=="
 ---

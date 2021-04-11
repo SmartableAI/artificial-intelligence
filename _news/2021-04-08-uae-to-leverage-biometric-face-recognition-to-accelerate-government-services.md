@@ -65,20 +65,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
-    excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
-    publishedDateTime: 2021-04-06T20:57:00Z
-    webUrl: "https://www.biometricupdate.com/202104/india-to-launch-face-biometrics-for-vaccinations-digital-health-passes-as-trials-and-plans-expand"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/09113822/biometrics-phone-mask-airport.jpg"
-        width: 507
-        height: 380
-        isCached: true
 
 secured: "VeGdNftf/ouZ93HDZCtFqKcQWOZUYAwk3JdAO8cQwv7cNvNi5kelXJsylHxNyS1JzSS6r2KnnQ1lTXONKy2s1EA0qXvlWcf7KtDzyBgf4jvhdlzViSLQEszn4OhefEzToO4W9Lxaaj9f7CRRIK8jMlXgZhaP/2fnmZL6lokIH1XwUpcGjvdrjvrwhjkf+7K2IJijf25sNJdIOfZEjqJMTL4aAI6i8tGWr9P/8U4RWEszKkArjNozwmXGlsG1mYmEIzMy+5njLanJb4V48b0NA56kjzVZNcHSD7QgujPdxFwuWTgIBq+67lFiHVCtZ5StQz0XS/OkJbnPnGbDaV4CuGhD1T65JhAUsKPNgwjSobI=;sw6Nh6eCUY0fVHczLsYYug=="
 ---

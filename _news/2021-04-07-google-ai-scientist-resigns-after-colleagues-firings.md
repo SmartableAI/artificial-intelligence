@@ -59,36 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google AI manager resigns following controversial firings of two top researchers"
-    excerpt: "In a statement on Facebook in the wake of the firing, Bengio said he was “stunned” by what happened to Gebru. After Gebru’s departure, Google reorganized its research department, slotting the ethical AI team under Marian Croak, a leader in the ..."
-    publishedDateTime: 2021-04-06T19:41:00Z
-    webUrl: "https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/tZhVSfs38URjRdnbNHF3uhf7Yig=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Google AI Research Manager Quits After Two Ousted From Group"
-    excerpt: "Google research manager Samy Bengio, who oversaw the company’s AI ethics group until a controversy led to the ouster of two female leaders, resigned on Tuesday to pursue other opportunities. Bengio, who managed hundreds of researchers in the Google Brain ..."
-    publishedDateTime: 2021-04-06T19:56:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-06/google-ai-research-manager-samy-bengio-resigns-in-email-to-staff"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
-        width: 1200
-        height: 642
-        isCached: true
   - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
     excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
     publishedDateTime: 2021-04-07T10:30:00Z
@@ -120,22 +90,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/04/07/1600x900/2021-04-06T022543Z_1_LYNXMPEH3503P_RTROPTP_3_USA-COURT-GOOGLE-ORACLE_1617785330258_1617785456939.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Google AI scientist resigns after colleagues' dismissals: report"
-    excerpt: "A Google researcher who oversaw the company’s artificial intelligence (AI) ethics group resigned on Tuesday following the controversial dismissal of two of his former colleagues on the research ..."
-    publishedDateTime: 2021-04-06T20:16:00Z
-    webUrl: "https://thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report"
-    ampWebUrl: "https://thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/546759-google-ai-scientist-resigns-after-colleagues-dismissals-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/google_11042016_getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Google AI scientist Samy Bengio resigns after colleagues’ firings"
     excerpt: "At least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart"

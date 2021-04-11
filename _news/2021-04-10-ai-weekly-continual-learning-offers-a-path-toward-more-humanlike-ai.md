@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/"
 type: article
 quality: 93
-heat: 95
+heat: 96
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

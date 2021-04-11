@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-jus
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

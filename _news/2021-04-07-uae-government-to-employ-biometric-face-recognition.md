@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/01/26124049/passive-biometric-liveness.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "India to launch face biometrics for vaccinations, digital health passes as trials and plans expand"
-    excerpt: "As digital health pass plans are developed and announced around the world, India is updating its biometric identification at vaccine distribution sites."
-    publishedDateTime: 2021-04-06T20:57:00Z
-    webUrl: "https://www.biometricupdate.com/202104/india-to-launch-face-biometrics-for-vaccinations-digital-health-passes-as-trials-and-plans-expand"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/09113822/biometrics-phone-mask-airport.jpg"
-        width: 507
-        height: 380
         isCached: true
 
 secured: "tH3hYvHCyE3vaTURnKhMtJ7m05Ww4tUn8V9z6CphavD2tEn3tism76hwhrCP1L8Pc5YlcDNd3cjyzQCy1T2hGNAR3tZ9VB+jDKkgMx6XkSFDH3Hgtdg3eMfCMttum6POvNASLTU2Bk0lcARG8lLApWGMyaCBHJ07IpgBVuWxDFOw+6ao3qGgaJqeQS5h6WuYlYu6xPMGU8LWRVTwQSktYnzgN1CtjDlcT0BQJrLQy3vg64mXRCddBBhtrzDp1QLX/ONhZW81nS8UZ3fL8xxmlJPmFAZk4hCWO/lokI5Rb/g4vQnNmy44Nni703XEyDuQtGDO3GA0LjZfm+BksaVLyQmG9cebE53rT4f239IU6p8Wx8VEdAACIFnta/dBQa3n8Hs6bSFteDR/jIAMhe942ttw1U5TJld3v0A77tFww0xrEp5faaKDbNBeVATRBVTAbVZk9sMaLfxcoQdZ++3Y4WMuzHUZ1Uh/wm+zedW6FumEexmrC6AQArKBIaXFs/3cb/fZUOUnSwA5kX20I9S/Tg==;Wt+tlezrWLaY3p12EtjgNA=="
