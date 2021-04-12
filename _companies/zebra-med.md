@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ZebraMedVision"
   url: "https://twitter.com/ZebraMedVision"
-  followers: 1919
+  followers: 1920
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=zUD7wsVx7kA"
 
-secured: "JA2JYzg7RoV3Z6W7s2f4oZEUEvwH5Vt67OcVEHjWO2Yf2PJzMmPA6bAILu2iWCoYvaq1XjTkTwNdoACBXmzpvhQo7XRUT6H6r28Fxf7CB4rZ9qFiaks0QswNkqs++vyEDz7zoVjpAYCdqXXTErBOJUx/GEknU+fX8X8Gj3/n3uQ7t3gRMyHoPz/0XBnMr1WohL4vFX6gLtbpNRLvEqTky0euEzvaluH8piNlzqnIr8tiD7e0reI4Y160V6d13giMBTOyO1r4LLEolgU0R3151V3VgaHAbx43kMAdIcmkkgRonS/iMXjrjXMV0ZBrwfL6y+zmgsDQxHX1iHxE0KAK2NyXSYFjvC68DQ3fn5U2dICReYLzFOSpAmZdUR2t2e92duJ7UuX1Zu0bWKfv0huXY7A8xlAlnbZ4x8XBOjOGhNA=;A9H6a4+KYVdSMNdgyMx/DQ=="
+secured: "9OGdtqt+ezE2ayjvlJQf8H+Shg73V9gYgc+22G8JlwJ3RWQx5rSjV4mfOH3qBNmy1Sgvku5KwLULlQX7djluTwGFsGyNEe8qD1xzsKvG3gmwMD7MYVWIUt3QHIpUiqHuqUbt2ykc5ZdZ2LOb1C1iD7rjWHWh4CVlU7fRWqZl7i15Rt3Pw58GLn6dfmTpeyTr/TtJzcC1luvsQe/aNRb2AQ1Sh2McP4BshMnryKL7NkRoSZ/uJgKcdpudgWwJQazkUMqq3t4ASOthbGFu09wheeX3Pk56+89yMDDGWvGzXEhfqd1bg6M5iMByxbMaOHq581eqUtYNHcjgcvs3p96EEl615Lfeui2FohQOumr10KCiIYhAd6thzsqq7/T80pca72qq+UgtGpuqcK42DrJKS1qKtxuGhmk8n6qPqNbre0I=;NhVq2zLiOWd2Xu07xaJPgA=="
 ---
 
