@@ -2,6 +2,154 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-22-ford-spokeperson-calls-teslas-full-self-driving-vaporware.md",
+      "title": "Ford spokeperson calls Tesla’s Full Self-Driving ‘vaporware’",
+      "excerpt": "Driving’ package ‘vaporware’ in a spat with a Tesla investor over the Mustang Mach-E. Press relations and communication people at legacy automakers are generally pretty careful about what they say, especially when it is about the competition,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
+      "originalUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-vs-Ford-Mustang-Mach-E-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
+      "publishedDateTime": "2021-03-21T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring.md",
+      "title": "Cyberpunk 2077’s ‘Improved Police AI’ Video Is Not Terribly Reassuring",
+      "excerpt": "Cyberpunk 2077 is about to release its big 1.2 patch, and while it still doesn’t have a date, it should theoretically be out by the end of next week. This past week, CDPR shared some of the more prominent changes coming in the patch,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6057464874365ee1a9892f71%2F0x0.jpg",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
+      "publishedDateTime": "2021-03-21T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-healthcare-providers-globally-are-applying-aws-ml-services-to-store-data.md",
+      "title": "'Healthcare providers globally are applying AWS ML services to store data'",
+      "excerpt": "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "originalUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg",
+          "width": 575,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
+      "publishedDateTime": "2021-03-21T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-soon-ai-based-robots-to-replace-financial-advisers-oracle-study.md",
       "title": "Soon, AI-based robots to replace financial advisers: Oracle study",
       "excerpt": "But, over the extended global lockdown, humans seem to have discovered greater faith in technology and machines, according to Oracle's Money and Machines: 2020 Global Study that was conducted across 9,",
@@ -1064,147 +1212,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
-      "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
-      "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "originalUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/3c173e31-acbb-4aa8-b06a-1c8c98911b8d/screen-shot-2021-03-16-at-3-27-05-pm.png",
-          "width": 1672,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "publishedDateTime": "2021-03-19T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
-      "excerpt": "and Region – Global Forecast to 2026 The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20259676",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20259676",
-      "publishedDateTime": "2021-03-19T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
-      "title": "Uber under pressure over facial recognition checks for drivers",
-      "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
-      "originalUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-897118616.jpg?w=1024",
-          "width": 1024,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
-      "publishedDateTime": "2021-03-19T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

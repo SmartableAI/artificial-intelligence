@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
+      "title": "Packing safety intelligence into robots’ AI brains",
+      "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
+      "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
+      "publishedDateTime": "2021-04-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-the-robots-are-coming.md",
       "title": "The Robots Are Coming",
       "excerpt": "For many of us visions of the future have often included images of robots who can think on their own and perform tasks.",
@@ -172,49 +224,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-the-3-most-interesting-ai-and-robotics-stocks-today.md",
-      "title": "The 3 Most Interesting AI and Robotics Stocks Today",
-      "excerpt": "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "originalUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "publishedDateTime": "2021-04-09T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

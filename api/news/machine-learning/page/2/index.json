@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
-      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -1449,6 +1415,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "SuccessKPI Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "CHANTILLY, VIRGINIA , UNITED STATES, 2021 /EINPresswire.com/ -- SuccessKPI Inc., a leading global SaaS analytics platform for contact center intelligence (CCI), announced today",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "originalUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20520643_G.png?lastEditedDate=1616493814000",
+          "width": 480,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

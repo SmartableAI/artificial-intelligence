@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-us
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
 type: article
 quality: 104
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -168,6 +168,22 @@ related:
       - url: "https://cdn.openpr.com/U/4/U411279994_g.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft mulls $16B buy of AI speech specialist"
+    excerpt: "Microsoft was reportedly in discussions to acquire AI speech recognition specialist Nuance Communications for around $16 billion."
+    publishedDateTime: 2021-04-12T11:11:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 76
+    images:
+      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
+        width: 650
+        height: 400
         isCached: true
   - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
@@ -386,6 +402,20 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft needs extra intelligence"
+    excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
+    publishedDateTime: 2021-04-12T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52664-microsoft-needs-extra-intelligence"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1665dcb4da1734e1b77589547faf138b_L.jpg"
+        width: 620
+        height: 464
         isCached: true
 
 secured: "LXpiGfPZbHkdxWqpRcBuXpnhHHYnODNicx08sxaHACdrr/l5AZIwJZWc44mczTlop3JGTZbVONC8Nrk8HqIXj64rUSZb2/v/WpZ1y73gqlfIUo+YQPfIDRSuBkq8oB3cZ92hYXA6hrgjt9230e8NBL1VysAuPsWbM5j1DM1zVmNH6r5bd72PhiJvfkFYrOnzHLujHCoGGw8PLdMWrxtVAVjKtPL6cwPfUSZPQL21Zpzj+GmhGqD55ZwOdi4YzeQHTG9v2PSLcmL0CCRVruDVtf8Yph5RvS9ZOx/eTF6Av1u0FIUmHUTZ6BwXOio6bRHZx/rsMpejnspmxYwureR36XQbrjCWi4UjiyoZ4lu3sRz9KtsoYGJJRnaqWMQVZNGEA5r3Cnjai4mjbTHH3/efWUmBuRuNh+XTDjcl4gDNPRBCzRtyGoWBC/kmq6tgwL3mMmqmM91Z+zChJsdPDO7tZdxdfTr3ha7dzJJ0PsqzdfkzwHPrrgO/3jc5PN9MEJmLI4xvAuUwIVIiawu3EoYXOQ==;a+cwkSoK0VL7CYNCcUDIdw=="

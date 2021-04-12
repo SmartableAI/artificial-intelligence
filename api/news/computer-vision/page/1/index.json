@@ -47,19 +47,19 @@
     {
       "path": "_news/2021-04-10-adventures-with-ai-can-computer-vision-and-gpt-3-get-me-fit.md",
       "title": "Adventures with AI: Can computer vision and GPT-3 get me fit?",
-      "excerpt": "The pandemic has made me seriously unfit. Can a GPT-3 workout and an AI personal trainer transform my body from a cesspit to a temple?",
+      "excerpt": "Jeremy offers video workouts on the fitness app Kemtai. As you train in front of your laptop’s webcam, computer vision monitors over 40 points on your body. The virtual trainers use this ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/",
+      "webUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
+      "originalUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Untitled-design-2021-04-09T161109.248-796x417.png",
-          "width": 796,
-          "height": 417,
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FUntitled-design-2021-04-09T161109.248.png&signature=a95f03b772890831983c075843236ba5",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/amp/",
-      "publishedDateTime": "2021-04-09T11:33:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -148,7 +148,7 @@
       "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -790,58 +790,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-uber-driver-claims-facial-recognition-app-locked-him-out-of-system-after-he-tonsured-his-head.md",
       "title": "Uber driver claims facial recognition app locked him out of system after he tonsured his head",
       "excerpt": "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,",
@@ -935,6 +883,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

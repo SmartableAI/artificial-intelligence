@@ -29,29 +29,85 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
-    excerpt: "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ..."
-    publishedDateTime: 2021-04-09T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09"
+  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
+    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
+    publishedDateTime: 2021-04-12T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market : Emerging Economies Expected to Influence Growth until 2026"
-    excerpt: "The global Voice Recognition Market is anticipated to recoup from the effects of COVID-19 starting from the year 2021 and will grow at a modest CAGR during the forecast period of 2021-2026. Voice Recognition Market is likely to witness an impressive CAGR of 17."
-    publishedDateTime: 2021-04-09T11:35:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/voice-recognition-market-emerging-economies-expected-to-influence-growth-until-2026-2/"
+  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
+    publishedDateTime: 2021-04-10T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
+    publishedDateTime: 2021-04-08T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
+    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-08T10:37:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 32
+  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
+    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
+    publishedDateTime: 2021-04-09T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+        width: 383
+        height: 250
+        isCached: true
 
 secured: "1yODW1feq/2Jh4C59w3XnNpMkpeVOc/T6JwbDxvO/o8d+P7KStg3HHu7GuX4w3Xo8eDEY2yLleVknZ7ZFOAskWg/CFX2VUASS1LnsHCauAW+ylb7fjJceYAgoowyMRD0DXr8PmwYiQTlkmTZ6jwtOiKUKwkV3wuQ32R8IDZzmU4kw+NLAkojyEms/ALgYZlcO66VNKGa6Valf8CGCPd1nnmNRdixwAW66SEbQs4WWKUzIAQsXbLBFGyeMGhvTxXatdexa4FH9e/JPeWsExt2NnB4nEVFX+egcLkNtUBrn9ejJUIW5xh32H7sVAXvTJv2KjaJcvZbzXC5ue9Rq/QajBW+KkWn2Yp5WOiuv9ALNWY=;69Eew4YuY38gG0tXpo4nUA=="
 ---

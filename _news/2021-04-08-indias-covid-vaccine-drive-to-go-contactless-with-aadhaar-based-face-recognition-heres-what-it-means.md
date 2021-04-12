@@ -43,6 +43,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Covid-19 Vaccination To Go Contactless With Aadhaar-Based Face Recognition: Here’s What It Means"
+    excerpt: "In a bid to make the process go contactless, India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma, the ..."
+    publishedDateTime: 2021-04-12T11:06:00Z
+    webUrl: "https://www.outlookindia.com/website/story/india-news-covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means/380031"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/india-news-covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means/380031"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/india-news-covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means/380031"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 46
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/4/12/vaccination_india_550_550.JPG"
+        width: 550
+        height: 367
+        isCached: true
   - title: "India piloting Aadhaar-based facial recognition for COVID-19 vaccinations"
     excerpt: "The Indian government is piloting a Aadhaar-based facial recognition system for COVID-19 vaccinations, RS Sharma, chief executive officer of the National Health Authority told The Print. The pilot is being carried out in Jharkhand, which is reporting over ..."
     publishedDateTime: 2021-04-08T07:16:00Z

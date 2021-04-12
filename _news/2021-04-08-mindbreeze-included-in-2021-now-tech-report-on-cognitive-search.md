@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19738946.html"
 webUrl: "https://www.lelezard.com/en/news-19738946.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "TA Digital's SearchBoost.ai Named in Now Tech: Cognitive Search, Q1 2021 Report"
-    excerpt: "Global digital transformation agency TA Digital has announced its inclusion in Forrester's Now Tech: Cognitive Search, Q1 2021 report. The company has been named for its maiden intelligent search solution SearchBoost."
-    publishedDateTime: 2021-04-07T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ta-digital-s-searchboost-ai-named-in-now-tech-cognitive-search-q1-2021-report-1030282606"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "vXhDaJbaIXXvWhJZaau7rmVdIMPPeUIMl2NT8+KdWt3lnXGjcUdqprB3ga3Zh7H99Rj8B6iQblrGw81iykll/1kb4Kt5Agp3S6BzxdSWVS2Xe9zKRtfWVKe0dQE+S+tljVjPiBoEoXt8XRJLLcuI5Ij1qJtQQN5ynqqQm/S+HRogc5HJacz/656zUVoB7OFj0UTt7ZTghdyyXXIbtAQ+atOrDZmJhIwYqG7WhOFVah1giPPJu3tfg1yJfAaNKCsfWIdkSBS4DCOu6IvdAHuB70NRucBShQFyU2FwcFjIPqPm75N5WR4uspv7KBXQi5AhBfTBpx4BqBSLIhFrW+BJp44zWXTpZlJL2BaZ4fqMqEk=;p5KmMsXfcar5gLOc/rcalQ=="
 ---

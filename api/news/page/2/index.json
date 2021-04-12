@@ -2,6 +2,256 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
+      "title": "Researchers detail systemic issues and risk to society in language models",
+      "excerpt": "and was published last month at the Fairness, Accountability, and Transparency conference by authors that include former Google Ethical AI team ... machine translation for African languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
+      "publishedDateTime": "2021-04-09T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-can-ai-apps-help-your-golf-swing.md",
+      "title": "Can AI Apps Help Your Golf Swing?",
+      "excerpt": "I don’t think they are as good as a human instructor. But they can be helpful. And they are a lot cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-322439/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "publishedDateTime": "2021-04-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models.md",
+      "title": "Tableau adds support to Einstein Discovery for user control over AI models",
+      "excerpt": "Register for a free or VIP pass today. Salesforce’s Tableau arm is making a case for employing AI to drive a new era of business science using analytics applications infused with machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Tableau-prediction-simulator-general.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "publishedDateTime": "2021-04-09T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-elon-musks-neuralink-teases-brain-computer-tech-in-new-video.md",
+      "title": "Elon Musk's Neuralink teases brain-computer tech in new video",
+      "excerpt": "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633",
+      "publishedDateTime": "2021-04-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-biosig-invited-to-join-alliance-for-artificial-intelligence-in-healthcare-aaih.md",
       "title": "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)",
       "excerpt": "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ...",
@@ -86,49 +336,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-the-3-most-interesting-ai-and-robotics-stocks-today.md",
-      "title": "The 3 Most Interesting AI and Robotics Stocks Today",
-      "excerpt": "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "originalUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "publishedDateTime": "2021-04-09T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -267,58 +474,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026",
-      "excerpt": "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1085,144 +1240,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies.md",
-      "title": "CB Insights reveals 2021 cohort of 100 most-promising AI companies",
-      "excerpt": "One way to gauge the deployment of artificial intelligence in the marketplace is to track CB Insights' top 100 most-promising private AI companies to watch. The firm released its annual list this week, culled from over 6,000 companies. \"This year's cohort ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/08/72f782b6-01c1-4475-985a-b1364e55e4ae/resize/1200x/f82f649b8dd9dadf1861a9a2e5fbb37a/ai-100-export-3000x2250-v4.jpg",
-          "width": 1200,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "publishedDateTime": "2021-04-08T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
-      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
-      "excerpt": "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg",
-          "width": 1440,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
-      "publishedDateTime": "2021-04-08T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-virginia-bill-to-put-de-facto-ban-on-facial-recognition-tech.md",
-      "title": "Virginia Bill to Put De Facto Ban on Facial Recognition Tech",
-      "excerpt": "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
-      "originalUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
-      "publishedDateTime": "2021-04-08T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

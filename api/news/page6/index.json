@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities.md",
+      "title": "3rd Gen Intel Xeon Processors Launched With Built-In AI Capabilities",
+      "excerpt": "the 3rd Gen Intel Xeon Scalable processor can offer 1.5 times higher performance on a mix of 20 popular AI workloads when compared to the AMD EPYC 7763 and can offer around 1.3 times higher performance when compared to the Nvidia A100 GPU. These processors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "originalUrl": "https://www.gizbot.com/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/04/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities1-1617724313.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/3rd-gen-intel-xeon-processors-launched-with-built-in-ai-capabilities-073581.html",
+      "publishedDateTime": "2021-04-06T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence.md",
+      "title": "Near-Vana: A “New” Kurt Cobain Track Appears Courtesy Of Artificial Intelligence",
+      "excerpt": "A \"new\" Nirvana track has been created using artificial intelligence software that analyzed a number of Nirvana tracks in order to mimic their writing, recording and lyrical styles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c74adda1ceeab6231e4a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-06T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-how-can-government-attract-the-ai-talent-it-needs.md",
       "title": "How Can Government Attract the AI Talent It Needs?",
       "excerpt": "Yll Bajraktari is executive director of the National Security Commission on Artificial Intelligence, a group of industry executives and academics that has studied the government’s AI needs. Martial Hebert is dean of the Carnegie Mellon University School ...",
@@ -1079,153 +1216,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-chinese-robotics-firm-shares-terrifying-video-of-its-four-legged-robots-moving-in-unison.md",
-      "title": "Chinese robotics firm shares 'terrifying' video of its four-legged robots moving in unison",
-      "excerpt": "A user shared a clip from Chinese-based Unitree robotics firm that shows a squadron of four-legged machines moving in unison. The AI-powered, canine-like robot, named, Aliengo, is designed with depth perception, high explosive sport performance and an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/06/00/41377842-0-image-a-35_1617665700920.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
-      "publishedDateTime": "2021-04-05T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
-      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
-      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/JaMCCSTvVZzVovh0hCSRNWARiIM=/1200x630/2020/09/24/f6041c84-3000-42ca-810a-2d32e4ea5543/lg-wing-phone-7868.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "publishedDateTime": "2021-04-05T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience.md",
-      "title": "New Fantasy Feature Ups The Ante On The Masters Digital Experience",
-      "excerpt": "Aside from driving up fan engagement on the Masters digital platforms, IBM’s new fantasy game also serves to demonstrate the power of Big Blue’s hybrid cloud in action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b21a03f9b09bc331ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
-      "publishedDateTime": "2021-04-05T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

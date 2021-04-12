@@ -25,47 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
+    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
+    publishedDateTime: 2021-04-12T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
+    publishedDateTime: 2021-04-10T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
-    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
-    publishedDateTime: 2021-04-10T12:55:00Z
-    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
+  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
+    publishedDateTime: 2021-04-08T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
+    excerpt: "Global “Neural Network Market\" 2021-2026 Research Report provides key analysis on the market status of the Neural"
+    publishedDateTime: 2021-04-09T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
+    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-08T10:37:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 3
+    quality: 32
+  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
+    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
+    publishedDateTime: 2021-04-09T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
-        width: 750
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NC812hoCJZFy9ONqsXeA923sEGY6KyEJtIYB38oD+lEEtVHRcwZ3dVkcXsiCfNHUR9g0UJdMib02XVguKFUV6m4fB4sLEcZUUVmA3hfbko6OrAf9qdcuaA1ByBY29qS+lo+IHAMwWR3TH4qe0jKM800pcfzwJ4+z6zClEYerYBjtNLBhJf3g1nCAR9SjIyeQTpbZtPmPHuNQeJWM8KwLd8jG7U6zKHKkCVGmo1P2kjbNRZ+Qk8zrd/q9ZQqDBeMy9YgplcZSsQcpzqcTfwDSprcM7bPcg/I2RDqAxoNUDgzTjg2REzOdR5FWXcU7RiBkNGlDxI65+edZFp9ZE30Qj8FUsM63tE5zTdlLuCEY8wk=;QZwmN1OFtgRCd3G6dEh4wg=="

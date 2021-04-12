@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
+      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
+      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-04-12T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-robo-taxi-company-waymo-now-has-two-ceos.md",
       "title": "Robo-taxi company Waymo now has two CEOs",
       "excerpt": "Pronouns: He/him Tristan covers human-centric artificial intelligence advances, politics, queer stuff, cannabis, and gaming. Pronouns: He/him Take me to your leader(s). Waymo CEO John Krafcik ...",
@@ -34,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-global-adas-market-size-share-2020-impressive-industry-growth-report-2026.md",
+      "title": "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026",
+      "excerpt": "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1326,110 +1430,6 @@
         "name": "ValueWalk",
         "domain": "valuewalk.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-autonomous-driving-must-achieve-zero-accidents-vision.md",
-      "title": "Autonomous Driving Must Achieve Zero Accidents Vision",
-      "excerpt": "For autonomous vehicles to be accepted into the mainstream, they must be far safer than human-controlled vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
-      "publishedDateTime": "2021-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory.md",
-      "title": "Will It Be Hard Or Easy For Self-Driving Cars To Expand Their Territory?",
-      "excerpt": "Will it be hard for companies like Waymo to expand out of suburban phoenix to all the different cities and countries they want to serve? Is the approach of Tesla or MobilEye superior?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062aaa1ca46bf5cf0c6ae58%2F0x0.jpg",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
-      "publishedDateTime": "2021-03-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

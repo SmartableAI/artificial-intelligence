@@ -19,35 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Luminar AI, hands on: Quick and easy AI-powered photo editing"
-    excerpt: "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ..."
-    publishedDateTime: 2021-04-08T11:03:00Z
-    webUrl: "https://www.zdnet.com/product/luminar-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
+  - title: "Packing safety intelligence into robots’ AI brains"
+    excerpt: "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way."
+    publishedDateTime: 2021-04-12T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html"
+    ampWebUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg"
+        width: 1200
+        height: 777
+        isCached: true
+  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
+    excerpt: "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade."
+    publishedDateTime: 2021-04-09T13:02:00Z
+    webUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/"
+    ampWebUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg"
-        width: 278
-        height: 578
-        isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
-    images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "+tOaB5CZrja30DL1rSHz3cVF1qOHoFDtMNUsF7dRKPV0TvJWyUMDg7d2CLwQgNZ/x8jtO6e59L3T3TlHKP+p1Dph/u+oxwnUM4PJ+NyegbG68XdEIH0POtNKgDKicj8n1ByRb3YkIUV48WNutLo/7Ent1o7rOP7oYN0iny/N297xc04/eAcfnEGhJemEWbmUJZFvg/WIBFfUCGinnnuiJz0JIcHVgOJQYyk5/EJwuO2hswKHDe8a/jQD2eGigaL4bBRCO83weGFfwlWYFixOWUXfyXIJIr9hmGQ94X1vZfVVK+ay2bZU3OrgeMNNg4ld7AgY0yPTYI8CRJ5S/XkHKsu6yWKswzNYXcvKUfH7ae0=;tzGuryU2HstisbguhCtx4A=="

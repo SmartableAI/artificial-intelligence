@@ -62,15 +62,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 41
-  - title: "Resolver's AI-Enabled Security Management Solution"
-    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
-    publishedDateTime: 2021-04-07T17:47:00Z
-    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/integrated-security-management-systems-psim/product/21217650/resolver-inc-resolvers-aienabled-security-management-solution"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 36
 
 secured: "p4VfNLKeix1ugkuBwB/Q45yCtDbzv14lBn2rUMlAlxrGolwnSJ7WzQvJMGRf5YX097gjuILSn8SPMpagpGPQ5MKbtFOcuUJxat0ZLbr3MUe8+XcvPVCGszBy/c+R3XN+Tv6YRIK9NMnU05c282NljEUXBsd4Qj1tB8iDksPqHiZKibTJJoa+8D1ZbxoQA9ishd5fVNB7QK6jBlfarYe/z+szlVY6hj0v7QzBKjyVHng8ID9tPttOIJ03ZQDDXIgIyQ5vg5Mxsn1weyDVxj3NPqsCzBgMbxzktrFbUVlZ1JGpS6D6fwlQAAIFNYB4qKMso8b2HCngJWuZPU+3g/HdSYN1EpBSho837qyjQfl8ZDg=;TL9z40bMO19l4CjcCtzWzA=="
 ---

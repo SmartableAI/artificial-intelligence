@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
-    publishedDateTime: 2021-04-10T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
-    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
-    publishedDateTime: 2021-04-09T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
+  - title: "Artificial Intelligence in Drug Discovery Market Size to Reach USD 2,127.9 Million by 2027 | Reports And Data"
+    excerpt: "Artificial intelligence has known to have enormous applications in ... studies ensuring relevant and fact-based research across a multiple industries including Healthcare, Technology, Chemicals, Power and Energy. We consistently update our research ..."
+    publishedDateTime: 2021-04-09T18:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09"
     type: article
     provider:
       name: MarketWatch
@@ -57,52 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-04-08T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
-    publishedDateTime: 2021-04-09T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
-    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
-    publishedDateTime: 2021-04-12T08:36:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 27
-  - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
-    excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
-    publishedDateTime: 2021-04-08T11:07:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/commercial-artificial-intelligence-market-size-competitive-dynamics-global-outlook-2027-with-covid-19-impact/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "exWaSh5ODTD12lgg+B8gxShk4NDN/NPyoX65UKxhOEkVtAKYNxUGekNbYBCHY2AcEZdNnMHC4WeIG9IEkoWqU9IyE0BHM5Hu9gKsdYH8w1XOj/V+K/IkiVBtzl5z/4C1+qp0ps0i9d8DCpuBED1lR+HaBV1GJC8C2NGU4K7LvvCBXx3F0ulLGlbb0NWSebxWcsxprU+LMu0f6wcPGQRBy1KqC6iBBDLiWSuO2jjHao2m9MP2AGImgkmmvEFKGrXdv8ju3QXr5+YYUWm08GNSCM0V2X08i8t40mSp18zyHey4WE4bLhviGxtESwSTlybJMRgu/NZrCsipbzuAk+yhrfjyo5O7BIFFD0bX1g4I3jA=;bglEL1GIFUHyYWcgDHTA5Q=="
 ---

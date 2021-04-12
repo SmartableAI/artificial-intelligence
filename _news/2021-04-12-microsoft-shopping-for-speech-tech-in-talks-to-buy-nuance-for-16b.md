@@ -170,6 +170,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft mulls $16B buy of AI speech specialist"
+    excerpt: "Microsoft was reportedly in discussions to acquire AI speech recognition specialist Nuance Communications for around $16 billion."
+    publishedDateTime: 2021-04-12T11:11:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 76
+    images:
+      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
     publishedDateTime: 2021-04-11T20:14:00Z
@@ -388,7 +404,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft needs extra intelligence"
+    excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
+    publishedDateTime: 2021-04-12T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52664-microsoft-needs-extra-intelligence"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1665dcb4da1734e1b77589547faf138b_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
-secured: "dtqLg8iHG/Lk1ARnwoKGHBLcBne35rt5sWraxoWwxiTkJtdqfPHtfopJsWyAqVqfrbx1eLoW8ktznV83EeSEacAGv3ohOdiKXEX81V31aPr0Uf6SE+T8yfbLRLAZl+839kWH3hrLazeh3ur2UXYXLNHWzR8viR4vMnF8XGlsKUGfWH4VuposCUOgbs0G7nkeF56I/teFNKcS9ghqmfOMqQLXZ2HEL6d2lZZynhailfY+yg2sIRzHj13XUA2codJgZD3EOwuvfWSqsaTnwLWLSFzDbw8D7hMY6rOk7UoZOqmYkjAnIX/Lw7tXL4Fw7AZ2+AkXY8B4lC+t0kbuHZdOP5H7rWTGnoti9Ta/9t0vbfA=;AjPZxu/0QPs4QfwCMVPMOA=="
+secured: "EoF9UzNbF6JIVlE4IWGJ9R7KNBZ5o1fh9YTwqTduQTmaVvcKYwlrpmsFb9o5FpvgACT/cvYp97JsoO27ezClxliFeV5VgCUep/dFhTGllmab2aGC6Z+gACFGrBprZ3jFgOIMAoNLED4CiB83PQdSaXI7wCj/5Z60/tfBDq1cvki/2jzDtvdF4F6yJL1YEOqqrpB3zteqMp27c6dregQsNoeJuqsuXC/Kvwws4yk6u/tUC6e9QyL6ThpUlAQRMREM1gfhDYfZTOnG/35VuxJfp3bcLDUb1EmFVz5rfHhXmKrcwlwhTl2f230MNSGPwskeXvW05crGfBPqWjGHpNY5iiAx/nI7DBK/HaZBxUcIy/eZzXkxacZrMNtmXLEnkm/hoe2hhSghNmJpjE4pr3ychDsEwj8YuQ5esXFcUxjLMZCiFl9h/heSvECxqvP5v9BKowkqv5CFFlou4igPFEwu2J/AQMgP3bVOpLvguioZ7Ndcnybxu/+HlxC/9m5vP1RtTJmY2HS3Slcl18iqBc0UXA==;SO2F3a1Y/wIMp052PROmVQ=="
 ---
 

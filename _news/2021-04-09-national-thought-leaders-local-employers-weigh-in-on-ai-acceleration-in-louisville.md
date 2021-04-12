@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/louisville/news/2021/04/09/national-th
 webUrl: "https://www.bizjournals.com/louisville/news/2021/04/09/national-thought-leaders-local-employers-weigh-in.html"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Louisville continues to lag on AI capabilities, report shows"
-    excerpt: "Brookings Institution has released a first-of-its-kind report that highlights the challenges Louisville faces in developing its artificial intelligence (AI) capabilities and overall data economy."
-    publishedDateTime: 2021-04-07T18:32:00Z
-    webUrl: "https://www.bizjournals.com/louisville/news/2021/04/07/brookings-louisvilles-slow-growing-data-economy.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "uncz3VrCNhSHGiRaRnHE3yRuynrzCGow1V6mshvc0YlIfHeR5/q1F2TmtN0J/eCU9vNIoYnSpHM2Br6AZflkU/p0YlFAHmfi2Q4MTji27bsMTjGvHiLzGYS2tLocwIMM/L3Ma+hiCcW1fxBi5iFzH/gogpeGBYWAkT9cMy6eZWjqxMpPLrMA2+Jv0l03KdvIECwxFiNU6Cm+TBdMiHxdGyyfknfLXmE8VYGpebasHKcvGmlsx17LkquuC6H3ulNPLnNpiDncKuNmbrNQ08MjhFjUzDrxJjuI2xv2obM/B+3eM6m7ur0rDxttQ13yqcE5XDvRFHc5LsA3JFHaO+EuFFEfkkvxTmv8ZwwUc35j8WpPY+G6JhGQl30sCqvZHID6BbbH3A/vs8w74QylcEodkU+WA+OjhHo1VyHKhHYf0EFZWHpR2uzvHFZoizuvucDfPemjMCmbI/ZOtkoah68MvlPALCZcOXwJeRQXaMlzhGRmsru1A4UZ2iGpq3wL00AfUQ6nLnQYIxhTOs/c5K+6LQ==;PhKBnTro66kOuznVoD2PTg=="
 ---

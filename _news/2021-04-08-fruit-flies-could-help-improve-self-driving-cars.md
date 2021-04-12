@@ -35,22 +35,6 @@ related:
         width: 796
         height: 418
         isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
   - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
     excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
     publishedDateTime: 2021-04-10T15:30:00Z
@@ -140,6 +124,20 @@ related:
       - url: "https://www.slowtwitch.com/articles/images/1/197981-largest_distracted.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
+    excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
+    publishedDateTime: 2021-04-12T11:48:00Z
+    webUrl: "https://www.qsrmagazine.com/news/self-driving-cars-start-delivering-dominos-pizza-houston"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
+        width: 765
+        height: 446
         isCached: true
 
 secured: "s9oyhQgA8wHcyOvr4F6MDayyTfJkyya4rT7nEg/a1wkQ7mx3YmRaPJCEMNwdE1QaeDsTrx/QPCfoQ1XHYE9OtQPXo1cb5zG3BDwxBam4s36DYeC6ZLfDdHxp/5cXXU4y+eFUUF2U7ztbXuDD+mMx4ljra8T+0fluRPs+MsHeNOqc7ScCX0PFc7k9P0JZ7F5scy+Gt0QsOMI4nJtvHAS2OeYm1gQl1T+xrUVkT3Y/vX/7Lk0MAf7sedNjgu1uczdHIv+ZL+l5YZPUXCIESo1eEg+UVBIpawJAY0It7pxJs1E9kkldVMndNMg/8tMRMmJCN7/T/oG0heW3L2nv7vdNl9UqamQzMte64hrpVwChL74=;qYFrgfQrXrqR3sB0ya+0RQ=="

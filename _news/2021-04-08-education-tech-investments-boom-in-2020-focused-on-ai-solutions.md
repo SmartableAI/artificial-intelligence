@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/education-tech-inves
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 39
-  - title: "Resolver's AI-Enabled Security Management Solution"
-    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
-    publishedDateTime: 2021-04-07T17:47:00Z
-    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/integrated-security-management-systems-psim/product/21217650/resolver-inc-resolvers-aienabled-security-management-solution"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 36
 
 secured: "sOvwqK/xBnYMZLxZwDEMdrjt8/Y0m6a4hi34cfO0TMxM9Av8HaaUYfErVRWfcaUEZCuuGNBIfbEv9cyyqUNS5chJ+Mz1LX5BUghDHjNYA7W0pMwVOsLsRRAaRbdkhwBRWvYBx9DfeqanZbGRuTQ1DEejw7eWXwPCPjMqqWcw7RQUIujsvu9kgI5CjeKla6+R2CNOCzxyg3GuXR31IswSFIHkdSoqV1PXAmLRVGJvaH/St39lcou8OTMZYoeDY0S1ztxt0RrJDNfA0Vezf06bqR8MLqdYmMBm7BX2oBmi19VOgbIGgf9d2/W+ferl1Kud+pbk9zL++5ENzX+MXWb4KCIzxmoJqU0b5ZhkxVSbKWdnwcKjIihb2Kdp4FLg9jorXl1EprEsPQl4m+0/waEQabCOvZ+mrOGuM9hm1RNu+Vf2KhE10h6p9gNfs45SPvBHP1yDm1Fz1FJkwhGjqvCI9mTIUqII8WQ9/11ainGQ2b33+O/H3d/FW8fysWFJBMz6IEdRqcCoWRxRH6GtF5PWpA==;Gdzz10K6Bese9tyba6ICxQ=="
 ---

@@ -24,48 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Natural Language Processing Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
+    excerpt: "This market research report on the Global Natural Language Processing Market is an all-inclusive study of the business sectors up-to-date outlines, industry enhancement drivers, and manacles. It provides market projections for the coming years."
+    publishedDateTime: 2021-04-09T07:19:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/natural-language-processing-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research4-13.jpg"
+        width: 780
+        height: 400
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
+    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
+    publishedDateTime: 2021-04-12T09:21:00Z
+    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
 
 secured: "IMPALfgWrg2dXbJPFRE15pz4x5x0naNpVSj+cfT2z2yBNXNsAd6T3zsO7gBMmODYYcyptfigBavEfOKf70Jyl90Jk8lkBz6Lnt0/xVBlx9JUmjp0nUUKyoDfD+AzpfBWQdJ3rEXhdE3+rd/0YpMPVfQlkPlLe0y8WN0ulm3latgIGQ+h9Jv42A/+jgRB+iQb/ILxjIkyvi93jtmmZuQghgu0iB9bgx3NK6AYt31mnLqhFmVHi9DHfj/qHO1CFAq/N/XzFWSU32JHDYJ2e1mlVb29k96i+ExlpRgYGoAy56+pipnfgHoSpeXU2PlkUGddjugAS3sT5TtCuzhXCw/kHHkJ6nO4116igIFSNEAT3tkVN17y/4CnHouWl6qs308rWkjACtO2xEWoSVFGbEAXBpQb8xjIn33VDQyjoOFWDlWIEIDOzut8TQ3djNZPkEriKGPeXN3/F9z3qQ9C1Cx+g/LmNdQiPgnZTb6AKnp9DdUB8mu6Z2t4OeHfVQOFJ/QhE+XmHhGLWPlz5i7bUWTVxw==;z5okjnaBeRpbwRf0+n1giQ=="
 ---

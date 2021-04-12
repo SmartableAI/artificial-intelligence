@@ -7,7 +7,7 @@ originalUrl: "https://www.itbusinessedge.com/cloud/compare-top-cloud-providers/"
 webUrl: "https://www.itbusinessedge.com/cloud/compare-top-cloud-providers/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1400
     height: 915
     isCached: true
+
+related:
+  - title: "Retailers Adopting AI and Cloud Computing More Aggressively"
+    excerpt: "Retailers adopting AI are making gains across the value chain, by personalizing offerings, optimizing inventory and fine-tuning pricing."
+    publishedDateTime: 2021-04-08T19:09:00Z
+    webUrl: "https://www.aitrends.com/retail/retailers-adopting-ai-and-cloud-computing-more-aggressively/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-9AIinRetail-2.jpeg"
+        width: 550
+        height: 237
+        isCached: true
 
 secured: "gJD2h8UX4wVlGturFia6cvHeN/BMuLFiHQ7eRU/pB+LJZdNCCYBXIIdLKacROcM8y3Gq1MZUIhzVwDSVKZxiSGW/hmaVwefn5oHylab+C+vsDdH1iV03jlhn5n3YGx7wtCS/G8JbU5xram4zWYEama634e3rx3iYIc+doK1N49DXc9hCbsPSDnzJXjct3adKFjHdSxcAC1xXYc021VrpNI+Lr/bNBbTczfwy7QSvIjqPsv/nrTfKZZ9ttjUjkd6Nqz54xmTzNFJwyBzYRktUATfVWpv2zCzz9yRT3H73htDt3tAps5CSToctyGtMNNr8UT2XgYh0X716ylkCJISwHRTRJSKIzWmwUhDwvbc4laNPnCfh2UmIfdDc1xojXQjadRWVIyrxRiux9bagM3uGCEQlTZ0dW5+v0RKPSUnwgyPZcre0dvpvitrkcvvl3BhgsyJgKiv6T4SVSBEQWyhf045a/hOB+HYeFEgtHEvqwpeT/LPdT0bXiWI+ppkUdtLJ9vYwboodRBkAMSV7V1KACA==;UeIYn0HA9S27zoyWC2t5rA=="
 ---

@@ -184,6 +184,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft mulls $16B buy of AI speech specialist"
+    excerpt: "Microsoft was reportedly in discussions to acquire AI speech recognition specialist Nuance Communications for around $16 billion."
+    publishedDateTime: 2021-04-12T11:11:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 76
+    images:
+      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
     excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
     publishedDateTime: 2021-04-11T17:20:00Z
@@ -387,6 +403,20 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft needs extra intelligence"
+    excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
+    publishedDateTime: 2021-04-12T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52664-microsoft-needs-extra-intelligence"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1665dcb4da1734e1b77589547faf138b_L.jpg"
+        width: 620
+        height: 464
         isCached: true
 
 secured: "dWyf2gMIK7l6tU9Az5dkcUYEbphbq/5XOtO+ks9YMmepjDaWqGsFFc8lA+WEE2ToVsD1C5Gy335+3ocdTK+gtt1j77ENulsDnXa2F0lOvRWDDhytpiZ3B2uzsvAH0GUWcRMxg0lmM/8AcLGIC7FnDTgc40pzWDV8IpOOnyne6cAA5LMHEMnP8WN9q0OZEdg+6dmgO6pnWL0uz1BWuwunLrBFWCqkTRlbQ9w39Dlse6QZUWFlkbYGnTUCb7kE7RlBjXWoUMdSg2PCRcc+W+xk8BTaehdzG1ylH8hzyD2IfzZtk3+dn4FT3i63Yxbrv62WF//k44KHh5HH3PLuw6MYYbnAVQN7gmVcJoNQEKBlySM=;XS6IAnztsbYpEm3alMH9kg=="

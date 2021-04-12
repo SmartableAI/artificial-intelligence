@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
         width: 450
         height: 501
+        isCached: true
+  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
+    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
+    publishedDateTime: 2021-04-12T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 18
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "zHZDe1B3PZmg3MvILX0EQhW6DEzcGAcab20YWLs+pulNVud2aAm1P2T7y19wygJ7wjiH6eaJ7BfmjLetzll7MP5UNwvA1WEDYogSNIhTJY/j/iEGHay7kUpL+2TsIHLfz9Nc6JidyHPAOlHF98JWSpY+rNuMjfVp1SejXDTCUYV7v0/VcZUiiCUGRbYNTB0m/dGATzPUVC8L7DoRfh1S5+Cp4+zzX9QkhdAvCm7tEQUQleY0mc6vB7zKTDi4jYq+pN6TdFbQh3YwFOzUOX7qG88EUugtSPf4NilmicZVQb4PzJDqFx/7xwIaa0MqTezS84mvJbHCkopIbSHBTQMe9TV6kca1soBfb8gLuRQ8v2dQKEYEtQx13V81LdQa8mI4waxYFHoYxqbP007krUNbPhvRuLcepN1DZHx1+xmyEbdTvEtBLbI5uEyG560n6Cq2U8pEZOVRd+xBhscdMWFyr96/VzE00ldIC8/hqvhAXwgtalI/pVdoVHyeiegsjygxwAjtYhNHzq3r8U8jslFbcQ==;yk6QHrQODV/FWG0kQISC8Q=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-why-predictive-cash-flow-data-is-the-future-of-small-business-lending.md",
+      "title": "Why Predictive Cash Flow Data Is The Future Of Small Business Lending",
+      "excerpt": "With machine learning becoming common in every industry, it’s unsurprising that it can be used to predict more and more about a business’s potential cash flow. To extend the earlier metaphor, predictive cash flow data is like driving a car and knowing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607054a6a7383ea37b4d6d9f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
+      "publishedDateTime": "2021-04-12T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-the-promise-of-artificial-intelligence-and-machine-learning-for-higher-education.md",
       "title": "The promise of artificial intelligence and machine learning for higher education",
       "excerpt": "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -130,58 +182,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-global-deep-learning-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -323,58 +323,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026",
-      "excerpt": "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -835,10 +783,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ...",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -871,9 +819,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1464,6 +1411,40 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
+      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

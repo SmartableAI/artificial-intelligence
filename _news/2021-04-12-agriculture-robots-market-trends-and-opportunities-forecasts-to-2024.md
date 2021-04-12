@@ -33,15 +33,20 @@ related:
         width: 780
         height: 400
         isCached: true
-  - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
-    excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-09T14:35:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
+  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
+    publishedDateTime: 2021-04-10T12:55:00Z
+    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 3
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
+        width: 750
+        height: 420
+        isCached: true
 
 secured: "KZ//0mL4fnYHjRsdVsQf+a46SeHyjy6H3DdUj/YklKajO1v41IOGhoaHuJnbmZDI1BfS06QG/GG9wHEx0u0h5cZhr7NXc2KsoplyCjUZY3x1CLhnlZu4Kx9G5Y0nY0BcZ1M/uqYo4MMH1pFpMOul3kx8bQxpGU79mRgMIpXe0coKaDqFDVQIdJ/73uBiSjxgWYSrFzLih4jKtgYydI/oCwedrnAt5yVrLc9CIwM7d3hkUZ6LC+tnVccmuxOLF+OT0TUNM1zTU5dy3Ix4z84RdaqvDN2suJG/T4Ov6GMrUCK+NhLKSXJuYukmDpn4xPbl2baW6bgjagQTNxxS+1gkqajzpH0iqmD1DhQQ9AEDU+c=;aQ4/KDXm8RmhvAw7ZISrzw=="
 ---

@@ -54,15 +54,15 @@ related:
         width: 400
         height: 299
         isCached: true
-  - title: "CB Insights Again Names AI.Reverie a Top 100 AI Startup"
-    excerpt: "CB Insights today named AI.Reverie, the leading synthetic data platform, to its annual AI 100 ranking of the most promising private artificial intelligence companies in the world for the second time."
-    publishedDateTime: 2021-04-07T17:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cb-insights-again-names-ai-reverie-a-top-100-ai-startup-1030282615"
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2021-04-08T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 50
   - title: "Healthcare tops 100 most innovative AI companies: 8 digital health startups on the list"
     excerpt: "Healthcare secured the spot as the most-represented industry among a grouping of the 100 most promising artificial intelligence startups in the world, according to a new CB Insights report. Since 2010, the 100 companies on the publication's \"AI 100 2021 ..."
     publishedDateTime: 2021-04-07T21:50:00Z
@@ -105,20 +105,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Deci Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Deci to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies"
-    publishedDateTime: 2021-04-07T18:30:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301264041.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "WINT Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WINT to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
     publishedDateTime: 2021-04-09T11:13:00Z
@@ -132,20 +118,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "SAN FRANCISCO, April 8, 2021 /PRNewswire/ -- Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence ..."
-    publishedDateTime: 2021-04-08T13:36:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-d8431e17407c0a425a2729234bacd433"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Fiddler AI Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "April 7, 2021 /PRNewswire/ -- CB Insights today named Fiddler AI to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... Recognized by Gartner in 'U.S. Healthcare Payer CIOs: Achieve Provider ..."

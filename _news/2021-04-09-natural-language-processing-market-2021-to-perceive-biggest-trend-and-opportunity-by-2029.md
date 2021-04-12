@@ -34,15 +34,20 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 19
-  - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
-    excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-09T14:35:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
+  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
+    publishedDateTime: 2021-04-10T12:55:00Z
+    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 3
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
+        width: 750
+        height: 420
+        isCached: true
 
 secured: "o8YzE1+dxbiLrciBmbW991Tu9U3ylY2bEMBBras0w/A2WIhIuJd1L116NONOx5Qzcuhvk+Rb4fNb1zTNfklyt3A84A/CAqgjYkIXxohdIwy/iD04Ssc2s+WLgN53Pl66RZruwXNNotB46Sv5aNIiPa5KJx7MPjXiBKlI3pJb2/4QSizmmGJXcuLuYHI7uxL63JDXGRQ3Qb13t8E9AdWI4fhnjr98DcirFbufWFiyLZiryJx+UNXobbp1M7Tgv14gfdrLupn/X7vY+jt/6ubb5MLtIAL0Ivh1Jqrvyzy61+OIEyBo2sr3RKv6Kbut+0qyKEGVjp7wTbYSNYAOjiPnl4V7oCHVf0jvYbuOwhE3YvjNGBnpiAHuKoiSBGq0JzR//NKqx9+FY/su+hn8wmX1n5lMpsjhDPHk1NpFK3h8rqxvcjjy1tR2PWfQ6iothafGBZuWw+8gojz21ZEpBoj5cYnTD9b46TGJQGe1DtbOuUPXUNsWvpRgdnkvXbQaldo2E9jh7zudSpi9zz3v1Nbydg==;7sq59sEgMZb6USuCMBXhAg=="
 ---

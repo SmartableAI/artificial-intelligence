@@ -9,8 +9,8 @@ ampWebUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robo
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: InvestorPlace
@@ -27,29 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Planning in Australia for adopting artificial intelligence is inadequate, says robotics/AI expert Sue Keay"
-    excerpt: "Australia is behind in developing a strategy for adopting artificial intelligence, a situation thats impacting investment."
-    publishedDateTime: 2021-04-11T14:00:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/planning-in-australia-for-adopting-artificial-intelligence-is-inadequate-says-roboticsai-expert-sue-keay/news-story/c70512e346eaf343f792d5615207bd40"
+  - title: "Packing safety intelligence into robots’ AI brains"
+    excerpt: "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way."
+    publishedDateTime: 2021-04-12T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html"
+    ampWebUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 46
-  - title: "Retailers Adopting AI and Cloud Computing More Aggressively"
-    excerpt: "Retailers adopting AI are making gains across the value chain, by personalizing offerings, optimizing inventory and fine-tuning pricing."
-    publishedDateTime: 2021-04-08T19:09:00Z
-    webUrl: "https://www.aitrends.com/retail/retailers-adopting-ai-and-cloud-computing-more-aggressively/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 37
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-9AIinRetail-2.jpeg"
-        width: 550
-        height: 237
+      - url: "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg"
+        width: 1200
+        height: 777
         isCached: true
+  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
+    excerpt: "It’s difficult to find a sector where artificial intelligence and robots will not see increased applications in the coming years. Agriculture, retail, shopping, manufacturing and gaming, are just some examples. One thing that touches each one of them is ..."
+    publishedDateTime: 2021-04-09T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-3-most-interesting-ai-and-robotics-stocks-today-2021-04-09"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 79
 
 secured: "BA+fL7F0xx+kpkev+4xfX7l2It76slGay6cEHIFBGz5nZExxZ1InJjFH55cEDo9shByVSa/JFQ+6xcWPDJ9LKwvV1iqWEarr7ZNxj9u3Sd5bF+xZaqxDbcB8ZKq+3Sqgx41Ljv0ceoF/IlRtiYTdUY/vduryvGhYmBAR+Gft50vjA9/hn6vWSYQ7LAM0PUKi4whIRAZj6RVnIfeJYFFwR91py9oFg1cLcqbc8UelX0mwoE4uwp54di0Q+sLw9se59pDbvpICoIBtgpcyOcc9PBDXp5OUQ9AsEMFAni+W+qcBfbLugIWqKJKKjE/NG+fvbY7ZOk/tPy8sZBD/XdcCaiOqbjZLiWnRTEOL0jXpPgw=;pThoeOVaEsO2tU0xDYNA9Q=="
 ---

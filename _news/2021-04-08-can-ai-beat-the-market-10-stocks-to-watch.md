@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-t
 webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-04-07"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Artificial Intelligence Market"
-    excerpt: "Inc.), Tesla and Waymo LLC Market Segmentation : The global automotive artificial intelligence market is segmented on the basis of offering and application. On the basis of offering the market is ..."
-    publishedDateTime: 2021-04-09T14:22:00Z
-    webUrl: "https://www.openpr.com/news/2268387/automotive-artificial-intelligence-market-by-growing"
+  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),"
+    publishedDateTime: 2021-04-09T16:30:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
     images:
-      - url: "https://cdn.openpr.com/U/4/U409963963_g.jpg"
-        width: 700
-        height: 347
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620885%2Fartificial-intelligence.jpg&w=1200&op=resize"
+        width: 1200
+        height: 840
         isCached: true
-  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
-    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-08T10:37:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
 
 secured: "VeYLme2MYQ76HK4wfea8ZzVfHoXeJBdApJQ1AwdEPfQTbVHzop8f5hZhpefawmTZXUCZf57HKLQVi0yDcYCa2mohmvdGGf7AoTaQoE1l9aECtblFQTH+r5/SI/ITmx8gV0yAT1Wz+/vGQQwVmsMtdt9uhIwNPBwWXFi4cu9i1YZoIewdU7KouUYhl1vy4Ml+Pk+1jpw5trNLS/9VTXKIs6dnkkTUCmHU6MufAR+7i6qn9bIj+Rozc+165RVYcCyfxbwYVjsNX4bSUfq81nY7CsfG5vzELKVl7v0H1rBTfT2nmr8+MI7pCMui80llGkYewrzIEycDgWMDjg413puw3RanV408W+Og+x3f+0OIyr4=;7sj80hB/4xbYRDx0G+pp2A=="
 ---

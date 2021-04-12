@@ -182,6 +182,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft mulls $16B buy of AI speech specialist"
+    excerpt: "Microsoft was reportedly in discussions to acquire AI speech recognition specialist Nuance Communications for around $16 billion."
+    publishedDateTime: 2021-04-12T11:11:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-mulls-16b-buy-of-ai-speech-specialist/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 76
+    images:
+      - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
     publishedDateTime: 2021-04-11T20:14:00Z
@@ -383,6 +399,20 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft needs extra intelligence"
+    excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
+    publishedDateTime: 2021-04-12T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52664-microsoft-needs-extra-intelligence"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 41
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1665dcb4da1734e1b77589547faf138b_L.jpg"
+        width: 620
+        height: 464
         isCached: true
 
 secured: "0XNzFMWiX+wACDNd+4nVm0DqmTXxdb0OeMBX1O95iRGm/FC4Rw7zlWO2ZM4zsh1tczaGY7H/1rBMIwh4cKJEheqdF07RFsFdSFQkMCltOWCAFC22F/jdTV/dqcGJHstBIXcUSqVxa3/NRq3WbD7VmEYMrenH1xApdAp7yVmSGkZHx0qH4EiLYubOtQJvwd6mfxtZakbC2xAD6xG5xp6BvgD2Ig0eX14O4Pchtz4UMhB/ePAViLt5dnfKJDHUyFXQWB/d2LQAI/4o8gTS68zzv2d+zSFI/PSgWc7je3+1e3MDDZ2jEem6S7iE5H1vyxxFneX/XFIekS7r5if2TF2DuDy3PYIMeO2hQXumw6rtFDvPbBy3jCgmRRTIe9UFopZ5cuIq+7kz/fwiZJaeaHGDUVNR1ZPMtmlN3rJVoPjS3JBcsRFp084jTZH0zkPMTt+2dB6Nl0MXlEQiQgBbKil9gLptPl/JYngj9hdDWLTByJd+ZOttyVkbdIE2QHXgumqYujLrKdcbEgA0P8+E9WNOvA==;biLwwDgj7GXNLF0IL3fEog=="

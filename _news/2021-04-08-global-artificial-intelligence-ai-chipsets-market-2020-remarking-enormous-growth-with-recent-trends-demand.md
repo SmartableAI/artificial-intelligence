@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
+    publishedDateTime: 2021-04-12T09:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
     excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
     publishedDateTime: 2021-04-09T12:56:00Z

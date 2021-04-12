@@ -2,6 +2,145 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-31-low-code-app-development-how-microsofts-power-fx-language-is-evolving.md",
+      "title": "Low-code app development: How Microsoft's Power Fx language is evolving",
+      "excerpt": "Microsoft is separating its low-code programming tools from Power Apps. What does that mean for you and for your apps?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/low-code-app-development-how-microsofts-power-fx-language-is-evolving/",
+      "originalUrl": "https://www.techrepublic.com/article/low-code-app-development-how-microsofts-power-fx-language-is-evolving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/31/70127ef4-599c-4499-9015-397e20781dad/resize/1200x/c3b3539a487ced5e33568a894924b133/power-fx-yaml-in-vsc.jpg",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/low-code-app-development-how-microsofts-power-fx-language-is-evolving/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/low-code-app-development-how-microsofts-power-fx-language-is-evolving/",
+      "publishedDateTime": "2021-03-31T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit.md",
+      "title": "China's JD spins off cloud and AI businesses to fintech unit",
+      "excerpt": "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion).",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
+      "originalUrl": "https://www.reuters.com/article/us-jd-com-divestiture-idUSKBN2BN1KM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BN1KM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1KM",
+      "publishedDateTime": "2021-03-31T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai.md",
+      "title": "Arm announces Armv9, its first new chip architecture in a decade with big focus on security and AI",
+      "excerpt": "Arm’s designs power a large share of devices that are being sold today, including almost all of the smartphones. Sensex, Nifty start FY22 with over 1% gain; RBI MPC, corporate earnings on investors' radar next week EXPLAINED: Why US yields are rising and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/03/ARM-blog-image.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/",
+      "publishedDateTime": "2021-03-31T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations.md",
       "title": "These Stanford AI Lab Dropouts Raised $50 Million To Improve Conversations",
       "excerpt": "Startup Cresta’s Series B from Sequoia, Andreessen Horowitz, Greylock and others comes as the software maker for retail reps and call center agents quadrupled sales in 2020.",
@@ -1023,160 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-scientists-used-ai-to-link-cryptomarkets-with-substance-abusers-on-reddit-and-twitter.md",
-      "title": "Scientists used AI to link cryptomarkets with substance abusers on Reddit and Twitter",
-      "excerpt": "An international team of researchers recently developed an AI system that pieces together bits of information from dark web cryptomarkets, Twitter, and Reddit in order to better understand ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/aidopefeat-796x407.jpg",
-          "width": 796,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
-      "publishedDateTime": "2021-03-30T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-coding-for-robots-need-to-know-languages-and-skills.md",
-      "title": "Coding for robots: Need-to-know languages and skills",
-      "excerpt": "And that's when that's when you can start to mesh IoT devices ... And we want to innovate decentralized AI just as fast, if not faster than the robotics platform. So if that means we don't sell as many KODAs off the bat, so be it. If it means we get ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/coding-for-robots-need-to-know-languages-and-skills/",
-      "originalUrl": "https://www.techrepublic.com/article/coding-for-robots-need-to-know-languages-and-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/30/aa4e6bb3-a596-4399-ace8-a60394d3630d/resize/1200x/4962c634c3a3891edbc12849f9598944/picture1.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/coding-for-robots-need-to-know-languages-and-skills/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/coding-for-robots-need-to-know-languages-and-skills/",
-      "publishedDateTime": "2021-03-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-6sense-which-uses-ai-to-power-account-engagement-raises-125m.md",
-      "title": "6Sense, which uses AI to power account engagement, raises $125M",
-      "excerpt": "Sales engagement platform 6Sense, which leverages AI to bolster various marketing workflows, has raised $125 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
-      "originalUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
-      "publishedDateTime": "2021-03-30T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

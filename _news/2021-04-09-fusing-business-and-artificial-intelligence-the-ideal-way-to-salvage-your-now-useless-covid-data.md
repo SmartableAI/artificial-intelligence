@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market By 2025 Top Winning Strategies, COVID-19 Impacting Factors, Business Strategies"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years, deep learning architectures and ..."
-    publishedDateTime: 2021-04-09T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-2025-top-winning-strategies-covid-19-impacting-factors-business-strategies-2021-04-08"
+  - title: "Why Predictive Cash Flow Data Is The Future Of Small Business Lending"
+    excerpt: "With machine learning becoming common in every industry, it’s unsurprising that it can be used to predict more and more about a business’s potential cash flow. To extend the earlier metaphor, predictive cash flow data is like driving a car and knowing ..."
+    publishedDateTime: 2021-04-12T11:41:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607054a6a7383ea37b4d6d9f%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Predicting the clinical management of skin lesions using deep learning"
+    excerpt: "Although this study provides a proof of concept of the potential advantages of using deep learning to directly predict the clinical management decisions of skin lesions over inferring management decisions based on predicted diagnosis labels, it suffers ..."
+    publishedDateTime: 2021-04-08T10:51:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-87064-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87064-7/MediaObjects/41598_2021_87064_Fig1_HTML.png"
+        width: 685
+        height: 399
         isCached: true
 
 secured: "UI8lq0OsHiqlloUMHL+93gG65PPvp1vwH5YayOqbM66b+ihpdCnGza3iVkYfGxZJBhURcQ3D0rYuAK15EhM6ST5L97nLQULfyhVTUGSaM28aqFOY5zK4acZrTDLIpa8oeB+UY5suZKSQvfHxJvaKk5n0n7A5/ZG/33rwow/gJAXFNW+GCaPDTbClVz24aO0Vrk2PMt9GuK8SqLWGdO6R0Vw33SV6xOgSs9u/WkuQ6aTAiunRzWpzpAsdaz0yClsDE/HZwMdivceQFHR4oZLhVQAXdtMnOI4mhPN583NWyj7QTY0ktuIVWhBVKtoqcSODZfewD4nDeQZJsUqWkjrDAySxoAX1VmOVeK9oRwHA0o0=;lPxyu8FYjoYRhldpAPRkfA=="

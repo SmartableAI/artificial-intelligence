@@ -19,29 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market 2021 to Perceive Biggest Trend and Opportunity by 2029"
-    excerpt: "This market research report on the Global Natural Language Processing Market is an all-inclusive study of the business sectors up-to-date outlines, industry enhancement drivers, and manacles. It provides market projections for the coming years."
-    publishedDateTime: 2021-04-09T07:19:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/natural-language-processing-market-2021-to-perceive-biggest-trend-and-opportunity-by-2029/"
+  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
+    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
+    publishedDateTime: 2021-04-09T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Market-Research4-13.jpg"
-        width: 780
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
-    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
-    publishedDateTime: 2021-04-12T09:21:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
+  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

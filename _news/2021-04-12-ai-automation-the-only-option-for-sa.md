@@ -63,15 +63,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 39
-  - title: "Resolver's AI-Enabled Security Management Solution"
-    excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
-    publishedDateTime: 2021-04-07T17:47:00Z
-    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/integrated-security-management-systems-psim/product/21217650/resolver-inc-resolvers-aienabled-security-management-solution"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 36
 
 secured: "e71dEMNb7TeLkncN9tXUF3aiPWP1alGODYE4/OqhmMx2QVDCuI+wG8U73MtTuTa24ELvmEpWgbZyWseq536S57Ajts/uOtC5YFM+NfXb3Oyj27FXUfNqDWiKaEP53rOtuG5gBTBtJZbasuw4vi0qrMzWs46Xa/+jtOSDEZ6uzMMCsNXyv2EpIanxIvNyEQ+ywDw6qkqEU/al4WOpCki9kSlPjSv1bitJ2NMJn8bRTCGlzL31E8FYecXO5ewdm1RCAoUsxjnPLDj7PVvm+ZGvots/3dKWiGPdGNxzLrckMGyvRGzs84uWqALgbcFiTxIxPiCay+3JXU+Y34E19L9Q8iopsF/io4BXzcVNxD3paeI=;3MLNyeoyYYtJ9WQfAN6TrA=="
 ---

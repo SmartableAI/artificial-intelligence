@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
+    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
+    publishedDateTime: 2021-04-12T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
     excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
     publishedDateTime: 2021-04-10T11:10:00Z
@@ -43,34 +57,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
-    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
-    publishedDateTime: 2021-04-09T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
+  - title: "Neural Network Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
+    excerpt: "Global “Neural Network Market\" 2021-2026 Research Report provides key analysis on the market status of the Neural"
+    publishedDateTime: 2021-04-09T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-04-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
-    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
-    publishedDateTime: 2021-04-10T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-application-analysis-regional-outlook-competitive-strategies-and-forecasts-2020-2028-2021-04-10"
+  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
+    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
+    publishedDateTime: 2021-04-08T10:37:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 32
   - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
     excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
     publishedDateTime: 2021-04-09T04:45:00Z
@@ -85,24 +94,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
-    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
-    publishedDateTime: 2021-04-12T08:36:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 27
-  - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
-    excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
-    publishedDateTime: 2021-04-08T11:07:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/commercial-artificial-intelligence-market-size-competitive-dynamics-global-outlook-2027-with-covid-19-impact/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
+        width: 383
+        height: 250
+        isCached: true
 
 secured: "+bFOr6HKfdt0aWpiCxzV7tos9IxuMxp4nMrpnW2IxUdAYLhfHFX8TwpUt2RdcWic/ySQCDMSOb5qOgGjDlzNI/8ndAJJo567ZNkJFs5OBmI4QWA1tIbSI3Uv8bhJCW1Mbu9iGONz4LBbiHPOwGzIIvl8TE5J7wnUIr1ASuRvu0nH+rJy3lk4MAfDZLfRDFePsrw2pVJsiAcS7EJVv8iv4F0LawomGlxsWPzVIO7QVSuRHZRwnQBDI+5vm7HqycHNPH7HpG1pMat+sg4VXk8Umk+pVjwhMjl2/4gn4NJOJKBiH3lwSveE+JkvIjwp/ktNMk3Mvy7EOA+T8aK2miqX0UTIyQngkIF9kdT/RAExU7U=;W4V7BbpaOWY3TMyrP9wXyQ=="
 ---

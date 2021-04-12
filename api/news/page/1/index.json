@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-why-predictive-cash-flow-data-is-the-future-of-small-business-lending.md",
+      "title": "Why Predictive Cash Flow Data Is The Future Of Small Business Lending",
+      "excerpt": "With machine learning becoming common in every industry, it’s unsurprising that it can be used to predict more and more about a business’s potential cash flow. To extend the earlier metaphor, predictive cash flow data is like driving a car and knowing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607054a6a7383ea37b4d6d9f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
+      "publishedDateTime": "2021-04-12T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
+      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
+      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-04-12T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
+      "title": "Packing safety intelligence into robots’ AI brains",
+      "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
+      "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
+      "publishedDateTime": "2021-04-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-artificial-intelligence-market-global-trends-growth-and-key-companies.md",
+      "title": "Artificial Intelligence Market | Global Trends, Growth and Key Companies",
+      "excerpt": "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-in-advanced-talks-to-buy-speech-tech-firm-nuance-communications.md",
       "title": "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications",
       "excerpt": "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ...",
@@ -63,7 +270,7 @@
       "originalUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -386,6 +593,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-10-adventures-with-ai-can-computer-vision-and-gpt-3-get-me-fit.md",
+      "title": "Adventures with AI: Can computer vision and GPT-3 get me fit?",
+      "excerpt": "Jeremy offers video workouts on the fitness app Kemtai. As you train in front of your laptop’s webcam, computer vision monitors over 40 points on your body. The virtual trainers use this ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
+      "originalUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FUntitled-design-2021-04-09T161109.248.png&signature=a95f03b772890831983c075843236ba5",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-robo-taxi-company-waymo-now-has-two-ceos.md",
       "title": "Robo-taxi company Waymo now has two CEOs",
       "excerpt": "Pronouns: He/him Tristan covers human-centric artificial intelligence advances, politics, queer stuff, cannabis, and gaming. Pronouns: He/him Take me to your leader(s). Waymo CEO John Krafcik ...",
@@ -434,58 +693,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-global-deep-learning-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -644,7 +851,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -879,58 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-10-adventures-with-ai-can-computer-vision-and-gpt-3-get-me-fit.md",
-      "title": "Adventures with AI: Can computer vision and GPT-3 get me fit?",
-      "excerpt": "The pandemic has made me seriously unfit. Can a GPT-3 workout and an AI personal trainer transform my body from a cesspit to a temple?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Untitled-design-2021-04-09T161109.248-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer/amp/",
-      "publishedDateTime": "2021-04-09T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
       "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
       "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
@@ -974,21 +1129,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
-      "title": "Researchers detail systemic issues and risk to society in language models",
-      "excerpt": "and was published last month at the Fairness, Accountability, and Transparency conference by authors that include former Google Ethical AI team ... machine translation for African languages.",
+      "path": "_news/2021-04-09-global-adas-market-size-share-2020-impressive-industry-growth-report-2026.md",
+      "title": "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026",
+      "excerpt": "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
+      "webUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 600,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -996,16 +1151,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "publishedDateTime": "2021-04-09T09:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T09:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1021,78 +1176,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-can-ai-apps-help-your-golf-swing.md",
-      "title": "Can AI Apps Help Your Golf Swing?",
-      "excerpt": "I don’t think they are as good as a human instructor. But they can be helpful. And they are a lot cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-322439/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
-      "publishedDateTime": "2021-04-09T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-04-09-tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models.md",
-      "title": "Tableau adds support to Einstein Discovery for user control over AI models",
-      "excerpt": "Register for a free or VIP pass today. Salesforce’s Tableau arm is making a case for employing AI to drive a new era of business science using analytics applications infused with machine ...",
+      "path": "_news/2021-04-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "webUrl": "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Tableau-prediction-simulator-general.png?w=1200&strip=all",
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620885%2Fartificial-intelligence.jpg&w=1200&op=resize",
           "width": 1200,
-          "height": 600,
+          "height": 840,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1100,16 +1203,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
-      "publishedDateTime": "2021-04-09T08:20:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-04-09T09:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1125,101 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
-      "title": "Accenture AI expert on how first principles prevent problems",
-      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "publishedDateTime": "2021-04-09T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-elon-musks-neuralink-teases-brain-computer-tech-in-new-video.md",
-      "title": "Elon Musk's Neuralink teases brain-computer tech in new video",
-      "excerpt": "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna633",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633",
-      "publishedDateTime": "2021-04-09T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
