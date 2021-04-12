@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Cloudera partners with Nvidia to expand GPU usage across AI applications"
+    excerpt: "Integrating Cloudera Data Platform and Nvidia's Apache Spark 3.0 libraries will simplify adding machine learning workflows to processes."
+    publishedDateTime: 2021-04-12T20:02:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GPUWorkloads.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AWS and NVIDIA to bring Arm-based instances with GPUs to the cloud"
     excerpt: "AWS continues to innovate on behalf of our customers. We’re working with NVIDIA to bring an Arm processor-based, NVIDIA GPU accelerated Amazon Elastic Compute Cloud (Amazon EC2) instance to the cloud in the second half of 2021. This instance will feature the Arm-based AWS Graviton2 processor, which was"
     publishedDateTime: 2021-04-12T17:01:48Z
@@ -39,21 +55,49 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Nvidia announces plan to make CPU chips"
-    excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
-    ampWebUrl: "https://amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+  - title: "Nvidia unveils Grace ARM-based CPU for giant-scale AI and HPC apps"
+    excerpt: "Nvidia said the chip will address the computing requirements for the world’s most advanced applications — including natural language processing, recommender systems, and AI supercomputing ..."
+    publishedDateTime: 2021-04-12T16:20:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0ea4527-2022-4c71-ac76-af809166d41d.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/grace.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Bulk Data Centers Accelerating AI and HPC with NVIDIA DGX-Ready Data Centers"
+    excerpt: "Bulk’s collaboration with NVIDIA brings the world’s most powerful AI system to 100% clean energy, state-of-the-art data center facilities in the Nordics. Bulk is fast becoming the leading provider of HPC and AI colocation services in the Nordics and ..."
+    publishedDateTime: 2021-04-12T17:05:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-europe-energy-industry-environment-and-nature-eco-friendly-practices-f079c03334aa4776bb66976bb3ff0716"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cloudera Collaborates with NVIDIA to Accelerate Data Analytics and AI in the Cloud"
+    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP, allowing organizations to support HPC, AI, and data science needs – from research to production – with a secure, scalable, and open platform for machine learning. “At a time when speed is ..."
+    publishedDateTime: 2021-04-12T17:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scott-mcclellan-cloud-computing-artificial-intelligence-ed114562c94f5114121f68476cac32fc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Inspur Information Introduces 3 AI Servers to Support NVIDIA A30 and NVIDIA A10 GPUs"
     excerpt: "“With our high-speed data pipes and the Inspur GPU server (with 8x NVIDIA HGX A100 GPUs), we can quickly iterate and use the state-of-the-art in AI to help our patients,” said Dr. Mozziyar Etemadi, anesthesiologist and Chief Data Engineer of the ..."
@@ -64,43 +108,24 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 27
-  - title: "NVIDIA Makes Case for Tighter Integration Across GPUs, DPUs, and CPUs"
-    excerpt: "NVIDIA today at its online GPU Technology Conference (GTC) for 2021 launched a series of initiatives that promise to make it much less expensive to run artificial intelligence (AI ... include Amazon Web Services (AWS), MediaTek, and Fujitsu."
-    publishedDateTime: 2021-04-12T18:28:00Z
-    webUrl: "https://www.itbusinessedge.com/data-center/nvidia-makes-case-for-tighter-integration-across-gpus-dpus-and-cpus/"
+  - title: "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud"
+    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP ... they need to better understand their data and realize the true transformational potential of AI,” said Arun Murthy, Chief Product Officer, Cloudera. “CDP analytic experiences are purpose ..."
+    publishedDateTime: 2021-04-12T15:31:00Z
+    webUrl: "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 24
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/NVIDIABlueField-3DPU.jpeg"
-        width: 1500
-        height: 795
-        isCached: true
-  - title: "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs"
-    excerpt: "Inspur AI servers are among the first in the industry to fully support NVIDIA Ampere architecture-based GPUs and has obtained NVIDIA-Certified System status for these servers, which support the NVIDIA EGX platform for next-generation AI. “Inspur is ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+  - title: "Supermicro Expands Its Nvidia Ampere Architecture GPU Product Line, Includes 5PF in a 4U Tier 1 AI Platform"
+    excerpt: "Server maker Supermicro today announced expansion of its Nvidia Ampere Architecture-based GPU-product line, including achieving 5 petaFLOPS of AI performance in a 4U form factor with the latest NVIDIA A100,"
+    publishedDateTime: 2021-04-12T19:12:00Z
+    webUrl: "https://insidehpc.com/2021/04/supermicro-expands-its-nvidia-ampere-architecture-gpu-product-line-includes-5pf-in-a-4u-tier-1-ai-platform/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Today, Domino enables customers to create framework-specific custom work environments based on NGC containers, including RAPIDS, TensorFlow, PyTorch, CUDA, and more. “Domino’s expertise in managing and scaling data science with discipline and maturity ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210412005204/en/Domino-Data-Lab-Debuts-New-Solutions-with-NVIDIA-to-Enhance-the-Productivity-of-Data-Scientists"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "79WMresb7vJGp6WLR+HBXattDU2bzrbG9Kh9ti8p/uSBsAdmLrkB4iIwbb26OGdgA8mS8veKsTms/X2iDWxB+sqbnvQ1StnwWkCl0wpr/DPohMhXDj4iDaza/1EytF90Sr3PPM/FMRhJrr4wVHbgzALTWnyjMvcK6M/MaMPbNaXNo4r9WHxl1vpA3lXWwFvvB3zDTP7ELmHJuCwqBJj6swEVxo1NxpMA3gD1UNsF75Q9ahFh6II2Mr+gz3KyCyH6SAc4JjxR7FwQsIFcgurA6aqr9xKz/MfQxvdIilyNOS22+wxQEgbtgNxuz2v/f5qNjEOt0TBAFG/SzGwQgYTgepU9s0VNqXEjoYMNm8UABK8=;hiO2ETPptCnmEOyJqQE1CQ=="
 ---

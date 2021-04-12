@@ -38,6 +38,17 @@ related:
         width: 816
         height: 400
         isCached: true
+  - title: "Law Firm Tips For Evaluating AI And Machine Learning Tools"
+    excerpt: "So it isn't surprising that law firms are looking at ways to incorporate artificial intelligence and machine learning solutions, the hottest trend in business — legal and otherwise — into their practices. To meet this growing demand, a number of legal ..."
+    publishedDateTime: 2021-04-12T20:07:00Z
+    webUrl: "https://www.law360.com/pulse/articles/1371877/law-firm-tips-for-evaluating-ai-and-machine-learning-tools"
+    ampWebUrl: "https://www.law360.com/pulse/amp/articles/1371877"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/pulse/amp/articles/1371877"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
   - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
     excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
     publishedDateTime: 2021-04-08T06:30:00Z

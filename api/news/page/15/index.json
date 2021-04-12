@@ -2,6 +2,144 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-30-6sense-raises-125m-at-a-21b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform.md",
+      "title": "6sense raises $125M at a $2.1B valuation for its ‘ID graph’, an AI-based predictive sales and marketing platform",
+      "excerpt": "AI has become a fundamental cornerstone of how tech companies are building tools for salespeople: they are useful for supercharging (and complementing) the abilities of talented humans, or helping them keep themselves significantly more organised;",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1185849291.jpg?w=1024",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/6sense-raises-125m-at-a-2-1b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform/amp/",
+      "publishedDateTime": "2021-03-30T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits.md",
+      "title": "Cloudera Foundation merger strengthens data science and AI support for nonprofits",
+      "excerpt": "The Cloudera Foundation and Patrick J. McGovern Foundation will merge to launch an initiative to promote nonprofits' adoption of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/",
+      "originalUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/amp/",
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies.md",
+      "title": "NAFCU Services Announces Persistent Systems as Preferred Partner for Digital Transformation including Cloud-Based Technologies",
+      "excerpt": "“Adoption of cloud and other cutting edge technologies including machine learning, automation ... enterprise modernization and next-generation product engineering to financial services institutions for 20+ years, as well as other industry verticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "originalUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
       "title": "Three AI Apps making waves in the insurance industry",
       "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
@@ -1052,153 +1190,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-artificial-intelligence-can-help-create-safer-greener-transportation-systems.md",
-      "title": "Artificial intelligence can help create safer, greener transportation systems",
-      "excerpt": "In addition to autonomous trucks, electric vehicles, and driverless trains, smart rails that run on virtual painted tracks—monitored using the software on board the train—are being tested in many countries. The benefits of artificial intelligence in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861613_640-2.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-can-help-create-safer-greener-transportation-systems/amp/",
-      "publishedDateTime": "2021-03-29T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
-      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
-      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "publishedDateTime": "2021-03-29T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
-      "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
-      "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
-      "publishedDateTime": "2021-03-29T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412"
         width: 600
         height: 412
-        isCached: true
-  - title: "Local police in Virginia will be banned from using facial recognition technology"
-    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "China's first lawsuit on facial recognition made verdict"
     excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."

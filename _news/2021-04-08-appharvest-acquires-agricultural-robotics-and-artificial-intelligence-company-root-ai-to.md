@@ -102,6 +102,6 @@ related:
       domain: foodbev.com
     quality: 34
 
-secured: "nkWUi5XbcDdYMXBOL/nuXH8cZnsyMAFAxVmDSXIivWZ2sS5KcinK0vAEjcGRjnGhl4oWUw/Q09dBew/xTBwNtl7tBx8juY3laTwOuxG/pVPezMV16c5L+0QSnMJnSbD6pT+UoU5ISyMltAVkgSU+uxwOgSX2ao09Z+brpTlD81urL6FmBzgQ2tD1yWKtQERSjvB4q5I4sKwjGp63ICI9FxN1JaQA/r3yyKAAFz6eZuqafvT3rapwN469XXvo8xF9mscqJTX+JamQBlZJ1d1kxyyG4W+iZNwmWAXS25005tGhfURrXm/tLVVTco+sVY+5y72ymZtPBh7f0xSmvAvTIXuacuNSEu1Y4Wl92DeYc7o=;yaeyjkjpT31zbN0e0S5SJw=="
+secured: "C37/uW2Pi7y/pcfZNrCcCZnhxgsJAURtsncGK0fa9ybbBtYmnIBa/eD53I+mjn652tPewunba8f3mfqVchLzqGZowlpvdgPLjRrxqUmE166Eze7TWfhNpc7/alfWsskZNUTErNKkjELsX+/vUozdoTu+mhiQT3N9LKNJ55n3xKs0vTaYCuiQRpnOoAwWS8LTJwWIij04hAmFmgpZCTuUOnyDOdZjCwUFHFmfHWwEZ+ERMYWKvnY/utjCB/LcID+lwDSA5TguSoF2G9hd0LKS4PlUWFdG6p2qSKTD4G6aZS4vtqbAKhMwtkidcI848eLH9uQuU8XP+h2sroD4/mJb5vb+R1Bo+1pN5Fu7K1nQbc4=;JBTgmYQsar7scXXmHlYAEw=="
 ---
 

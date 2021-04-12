@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-cloudera-partners-with-nvidia-to-expand-gpu-usage-across-ai-applications.md",
+      "title": "Cloudera partners with Nvidia to expand GPU usage across AI applications",
+      "excerpt": "Integrating Cloudera Data Platform and Nvidia's Apache Spark 3.0 libraries will simplify adding machine learning workflows to processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GPUWorkloads.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
+      "publishedDateTime": "2021-04-12T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai.md",
       "title": "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI",
       "excerpt": "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ...",
@@ -34,6 +86,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ai-startup-uipath-looks-to-raise-11-billion-in-us-ipo.md",
+      "title": "AI startup UiPath looks to raise $1.1 billion in US IPO",
+      "excerpt": "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... a gifted Peloton » SHARE THIS POST C3.ai NewsMORE Related Stocks Find News",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60747fad2cc1ef0018da140e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp",
+      "publishedDateTime": "2021-04-12T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -104,58 +207,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud.md",
-      "title": "AWS and NVIDIA to bring Arm-based instances with GPUs to the cloud",
-      "excerpt": "AWS continues to innovate on behalf of our customers. We’re working with NVIDIA to bring an Arm processor-based, NVIDIA GPU accelerated Amazon Elastic Compute Cloud (Amazon EC2) instance to the cloud in the second half of 2021. This instance will feature the Arm-based AWS Graviton2 processor, which was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/10/Site-Merch_Graviton_SocialMedia_2.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T10:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
       "title": "Mozilla winds down DeepSpeech development, announces grant program",
       "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
@@ -216,7 +267,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -321,7 +372,7 @@
       "originalUrl": "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -374,7 +425,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -470,6 +521,102 @@
       ]
     },
     {
+      "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
+      "title": "New Advancements in AI are Changing Healthcare as We Know It",
+      "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
+      "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
+      "publishedDateTime": "2021-04-12T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-to-buy-ai-firm-nuance-for-16-billion-to-boost-healthcare-business.md",
+      "title": "Microsoft to buy AI firm Nuance for $16 billion to boost healthcare business",
+      "excerpt": "(Reuters) - Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it builds out its cloud strategy for healthcare and enterprise customers. The deal comes after the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS",
+      "originalUrl": "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 778,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558135945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0RB",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2BZ1FS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2BZ1FS",
+      "publishedDateTime": "2021-04-12T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation.md",
       "title": "HelloWoofy is an AI-driven social media manager that can save brands hours in content creation",
       "excerpt": "Sponsored Deals HelloWoofy Social Media Management is poised with all the tools to take the reins of your most important social media platforms, helping you generate content that resonates with your audience,",
@@ -529,7 +676,7 @@
       "originalUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -569,6 +716,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-artificial-intelligence-can-accelerate-clinical-diagnosis-of-fragile-x-syndrome.md",
+      "title": "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome",
+      "excerpt": "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile X syndrome, the most common inherited cause of intellectual disability and autism,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/chromosome.jpg",
+          "width": 1920,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
+      "publishedDateTime": "2021-04-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -813,59 +1003,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
-      "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
-      "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 757,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/607440023e3fe7001882a117?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
-      "publishedDateTime": "2021-04-12T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot.md",
       "title": "Chinese robotics firm unveils AlphaDog, a cheaper alter ego to Boston Dynamics’ Spot",
       "excerpt": "There is a growing preference for robopets which are robots using artificial intelligence (AI) to perform sometimes extraordinary tasks. US-based firm Boston Dynamics is a leading light in robotics, with its famous robotic dog called Spot. A Chinese tech ...",
@@ -978,7 +1115,7 @@
       "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1121,154 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-the-promise-of-artificial-intelligence-and-machine-learning-for-higher-education.md",
-      "title": "The promise of artificial intelligence and machine learning for higher education",
-      "excerpt": "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
-      "originalUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg",
-          "width": 816,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/",
-      "publishedDateTime": "2021-04-12T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country.md",
-      "title": "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country",
-      "excerpt": "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-11T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry.md",
-      "title": "The Amazing Ways VR And AR Are Transforming The Travel Industry",
-      "excerpt": "Augmented reality and virtual reality make it possible to enjoy the adventures of travel from our couch while we're still under pandemic restrictions. VR and AR technology is also reshaping the travel industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073ca8507bbca6e73608580%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
-      "publishedDateTime": "2021-04-11T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

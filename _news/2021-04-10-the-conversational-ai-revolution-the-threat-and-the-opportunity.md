@@ -39,6 +39,17 @@ related:
         width: 2000
         height: 1006
         isCached: true
+  - title: "Brazil publishes national artificial intelligence strategy"
+    excerpt: "... the country's artificial intelligence (AI) strategy to guide actions around research, innovation and the development of related technologies to tackle the country's greatest challenges, as well as ethics. The publication of the strategy follows a ..."
+    publishedDateTime: 2021-04-12T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "How will conversational AI impact the media and entertainment industry"
     excerpt: "Conversational AI is used in the form of voice and chatbots ... that is powered by artificial intelligence can take any piece of content, and translate it into the language the recipient needs. It can also translate information about that content into ..."
     publishedDateTime: 2021-04-08T17:19:00Z

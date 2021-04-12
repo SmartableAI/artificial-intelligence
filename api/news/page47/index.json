@@ -2,6 +2,126 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-03-05-amazon-union-bids-alabama-effect.md",
+      "title": "Amazon union bid's Alabama effect",
+      "excerpt": "The unionization effort at Amazon's Bessemer facility is drawing national attention. Some experts say it could have high stakes for local economic development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/birmingham/news/2021/03/05/amazon-union-vote-alabama.html",
+      "originalUrl": "https://www.bizjournals.com/birmingham/news/2021/03/05/amazon-union-vote-alabama.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-natural-language-processing-market-analysis-2021-to-2025-decisive-approach-remarkable-growth-and-countless-market-share-with-future-prospects.md",
+      "title": "Natural Language Processing Market Analysis 2021 to 2025: Decisive Approach, Remarkable Growth and Countless Market Share with Future Prospects",
+      "excerpt": "Mar 05, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Natural Language Processing Market” Report 2021 surveys the current market trends related to the demand, supply, and sales, in addition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-2021-to-2025-decisive-approach-remarkable-growth-and-countless-market-share-with-future-prospects-2021-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-analysis-2021-to-2025-decisive-approach-remarkable-growth-and-countless-market-share-with-future-prospects-2021-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T19:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-ai-projects-yield-little-business-value-so-far.md",
+      "title": "AI projects yield little business value so far",
+      "excerpt": "Although growing numbers of organisations are working with artificial intelligence (AI ... would lead to fleets of thousands of small, driverless vehicles “coordinated in an orchestra of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "originalUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "publishedDateTime": "2021-03-04T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-blockchain-fintech-get-name-checks-in-14th-five-year-plan.md",
       "title": "Blockchain, fintech get name checks in 14th Five-Year Plan",
       "excerpt": "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight.",
@@ -1084,162 +1204,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12.md",
-      "title": "Ma il Fintech in Italia è vero boom? Rappresenta lo 0,25% dei volumi del credito complessivo alle imprese, ma sulle Pmi sale all’1,2%",
-      "excerpt": "Ma è vero boom del Fintech in Italia o dobbiamo recuperare un gap rispetto a realtà più avanzate e rimboccarci le maniche per migliorare la performance e aumentare la quota di mercato? La più grande b",
-      "sourceUrl": null,
-      "webUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "originalUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repstatic.it/cless-mobile/main/amp/2016-v1/img/adv/businessinsider/ad_placeholder_300x250.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "cdnAmpWebUrl": "https://it-businessinsider-com.cdn.ampproject.org/c/s/it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "publishedDateTime": "2021-03-04T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Italia",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-fintech-tools-to-help-you-master-money-mindfulness-in-2021.md",
-      "title": "Fintech Tools To Help You Master Money Mindfulness In 2021",
-      "excerpt": "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg",
-          "width": 660,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "publishedDateTime": "2021-03-04T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
-      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
-      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

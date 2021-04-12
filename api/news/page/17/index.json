@@ -2,6 +2,144 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-29-didi-is-raising-money-for-self-driving-unit-at-6-billion-value.md",
+      "title": "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value",
+      "excerpt": "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess.md",
+      "title": "US chip giant Nvidia to recruit 600 engineers in Israel to boost AI prowess",
+      "excerpt": "The US firm, which completed acquisition of Israel's Mellanox Technologies in 2020, already employs over 2,400 workers in seven R&D centers including in Yokneam, Tel Aviv, Raanana",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/03/-ומייסד-אנבידיה-גנסן-הואנג-קרדיט-צילום-באדיבות-אנבידיה-e1617007247895-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
+      "publishedDateTime": "2021-03-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-youve-invested-in-ai-but-are-you-getting-roi-from-it.md",
       "title": "You’ve Invested In AI, But Are You Getting ROI From It?",
       "excerpt": "Quantifying the return on investment from Artificial Intelligence is not easy. With these four steps, you can measure your business value systematically.",
@@ -1030,153 +1168,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-what-is-dataops-and-why-its-a-top-trend.md",
-      "title": "What‌ ‌is‌ ‌DataOps,‌ ‌and‌ ‌why‌ ‌it’s‌ ‌a‌ ‌top‌ ‌trend‌",
-      "excerpt": "While there are dozens of commercial products for the other domains, Barot said there are only four commercial Platform Ops tools today: Amazon SageMaker, Cloudera SDC, ForePaas, and OneLogic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "originalUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-data-science-machine-learning-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
-      "publishedDateTime": "2021-03-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-exoskeletons-with-autopilot-a-peek-at-the-near-future-of-wearable-robotics.md",
-      "title": "Exoskeletons with autopilot: A peek at the near future of wearable robotics",
-      "excerpt": "We’re developing autonomous control systems for robotic exoskeletons using wearable cameras and artificial intelligence ... we are replacing manual controls — [like] stop, start, lift leg for step — with an automated solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/",
-      "originalUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/exoskeleton-autopilot-robotics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/exoskeleton-autopilot-robotics/?amp",
-      "publishedDateTime": "2021-03-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can Artificial Intelligence Replace Human Therapists?",
-      "excerpt": "Three experts discuss the promise—and problems—of relying on algorithms for our mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-317459/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "publishedDateTime": "2021-03-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

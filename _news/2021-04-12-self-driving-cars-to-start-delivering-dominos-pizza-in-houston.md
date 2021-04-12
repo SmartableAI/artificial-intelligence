@@ -73,22 +73,6 @@ related:
         width: 624
         height: 415
         isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
-    publishedDateTime: 2021-04-12T18:41:00Z
-    webUrl: "https://www.kmbc.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: KMBC
-      domain: kmbc.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "LaWO7Nbv6r0XzKW50ISo73Ur5mHaqbl6U+AZ+0TD40raXmjbWk8M5jcbeLNG0MVmNxxIa2VhZSNj0k8j940gWJJoQGvB2swrJSzRM6Ggct1HYU2sKt9UJHmcZXXGBQ7DuM1T3yzlml+CrKNcG45DnDUqAJNrPz7qns2355VYKQ2ljGugYkUj9EhcjDn+qJKfAMz8NbzC0T9DaEHgZZm9wpNDbNfln3ha/dliSZ0ENcvnw9WK2lg9dljGH7j2ZaCXy6AAPRqQ2yHtiri5qqc2ygJfWlLPNHF5rRWOShXfhvnk99v5DhnMN1TPZ9IwaxVpOrG1XcNsFKJvOijZqzd7crF8CVERW5Qy7psRSfR6Y285fLW7hq8p+wGaykxseX8Z7REzkLoHWICSU5+H0wY8WEQnTQ2wRUAFhuu0P0UMQWaxj+QFiCM2aRpHK0I8a/yXY2q5lKrexgxUj6C+jeLd7sp7fyXqwI4LShCQxML9bPt389ooi5RZrdeT6cMcMcM3yJ8BKQIbkGgexRvHk3ZkTw==;7e8U9yGLP8cVnEJQGyIbYQ=="
 ---

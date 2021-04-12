@@ -65,7 +65,7 @@ related:
     provider:
       name: Chronicle
       domain: duke.edu
-    quality: 37
+    quality: 41
     images:
       - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
         width: 750

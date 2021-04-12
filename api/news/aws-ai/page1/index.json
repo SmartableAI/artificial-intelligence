@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-12-aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud.md",
-      "title": "AWS and NVIDIA to bring Arm-based instances with GPUs to the cloud",
-      "excerpt": "AWS continues to innovate on behalf of our customers. We’re working with NVIDIA to bring an Arm processor-based, NVIDIA GPU accelerated Amazon Elastic Compute Cloud (Amazon EC2) instance to the cloud in the second half of 2021. This instance will feature the Arm-based AWS Graviton2 processor, which was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/10/Site-Merch_Graviton_SocialMedia_2.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T10:01:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-10-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
       "title": "Black women, AI, and overcoming historical patterns of abuse",
       "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today.",
@@ -1459,6 +1407,41 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
+      "title": "Domo Expands AWS Relationship",
+      "excerpt": "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers, a 400-location fast casual restaurant chain, is using data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

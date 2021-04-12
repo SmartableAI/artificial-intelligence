@@ -35,6 +35,34 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Artificial intelligence victorious in Chinese fruit growing competition"
+    excerpt: "Experts in artificial intelligence have beaten some of the world's best strawberry growers in a Chinese competition to see who could grow the most fruit. Three teams of top traditional growers were set against four teams of AI experts in the contest ..."
+    publishedDateTime: 2021-04-08T12:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9310041/artificial-intelligence-victorious-in-chinese-fruit-growing-competition/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 37
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/08/Aii.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Society dictated your face, according to biometrics research and a patent"
+    excerpt: "It seems that algorithms can identify someone's name solely by examining a photo and if accurate, the premise could be used in facial recognition algorithms."
+    publishedDateTime: 2021-04-12T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202104/society-dictated-your-face-according-to-biometrics-research-and-a-patent"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/29144433/face-photos.jpg"
+        width: 1140
+        height: 760
+        isCached: true
 
 secured: "VeGdNftf/ouZ93HDZCtFqKcQWOZUYAwk3JdAO8cQwv7cNvNi5kelXJsylHxNyS1JzSS6r2KnnQ1lTXONKy2s1EA0qXvlWcf7KtDzyBgf4jvhdlzViSLQEszn4OhefEzToO4W9Lxaaj9f7CRRIK8jMlXgZhaP/2fnmZL6lokIH1XwUpcGjvdrjvrwhjkf+7K2IJijf25sNJdIOfZEjqJMTL4aAI6i8tGWr9P/8U4RWEszKkArjNozwmXGlsG1mYmEIzMy+5njLanJb4V48b0NA56kjzVZNcHSD7QgujPdxFwuWTgIBq+67lFiHVCtZ5StQz0XS/OkJbnPnGbDaV4CuGhD1T65JhAUsKPNgwjSobI=;sw6Nh6eCUY0fVHczLsYYug=="
 ---

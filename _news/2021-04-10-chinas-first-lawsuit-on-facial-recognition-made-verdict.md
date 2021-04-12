@@ -57,22 +57,6 @@ related:
         width: 600
         height: 412
         isCached: true
-  - title: "Local police in Virginia will be banned from using facial recognition technology"
-    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "y7NdbSE9dlbOPmeajQGPelkmJRXBiayWFvcj1ePhqi3ga2lIHUsr6yi6x6tvebDZ4kUsFdw8lk1XfZE+71J1d3NvWL8eYPqhTR/lR8xf4Xl8X3XtIplcNkishHadkuhR2cdXFINpg9kAUC3LSg/QyVedprJwx4wz38+3w0jK/90j+KJAXWZC8UN8xncBH9WLfjzShBj+VvUL3c66tR9vSEw2DWrSlPwMs61S9KXiCRIEnLsmRA5339OOubI3bahG7cXw2J/9SYDhk/QxFxCsk+feDEq1/4G6cHgXQQMp5MkBqi2Pl9+PxnbrHoWAkA+cW8/6bO6MWEu69VcbNzfijYVHqZ+U0WgPE7FD/Ty2Ge49KA4zi2IrN92ksUN7yP1Ny6DLwB/cdUA7Vqe9Osa3A/SMruGbDSHskKeScXHYbFcstTiNiZnRSd08JxWPX8S4+5p7sbz+jSfNsh0mJ2dx9AC0A37zt89PjHxcpqcQQTI+s+291CBemBI+WahHR6Gi4vAi0TVudbnuiN/m4FSm+w==;bQ+t0EiNZLqsH19+FFvnyQ=="
 ---

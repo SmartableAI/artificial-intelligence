@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-12T19:29:00Z
 originalUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
 webUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
@@ -71,6 +73,6 @@ related:
         height: 1364
         isCached: true
 
-secured: "2xwZXTX96+4vVFjjIXihZpkNUyaf/qoa6Ck75361ZG5jc3D3LMgmqTv9bo5BQM4MchG0GWRjs4coou6uI6+9bbdrC8jv96tEE9rfE5V/A7zfWGndbaPwCzY10PG823vSgHyP+YfkpGmhz9KZgSDus/bc7WKb0Ix+UK15wu1oljLLxXPUXJeFB9i+USAE9wN7e9r9x1ZehzEad6S2GRg0n1il+QSSY7vYPjPEbdhoxzDjTZhYsaNTd7cZ+2RPDg4hV11os8WIW2GgbG7VdthPupFZyLlMcJEh8C1d6iPbrz2zxn3BySLWZNMsYNbjUYXrCz0Ynh+WVKpR9cnsEL4jssmQKnYsl3AbdQFp7KoNdcI=;DJah2MztmNWfzg2tpFmgqA=="
+secured: "fl7EFU200S+bc+OU+Ab4m6GNJhjFadfAySwPr/xWvidxTzdQNU+1oNQ9pHFsSaQbpWn2Od620OvQPl/ywUJmKxsXvawhEzCzlIUNrwPVtRwVyAikz90Ba7bvPdvk4bhdq0N1i+L494CZCS5s0nSDcblU8AKDASsHp3oT+30hkbFoga3CLcAetKwtHTYfev+xPdAK7YLsZMLuEiHNglPIELwOarXpUikqAzn6cvCAWWz5LX2zG/RsdPMpm5v0WmImJY+r5BC0dc681KnU7yVQJbplvpqhJFsPeo2i3ymM+CxDHA6umoJZBE9RTgzv+DjiilRcypkro8Mpj3kTY5bz9Hy5yDXr3U37Az676YM/t9MHfUaMoi2zrUguE72xRaNk3sAL84UCUAC76QMcYM85isVda55QIF+vzXqcbgmPpQTqrBDohhnNcfbJwZuHokCsbNm7cDjZ+DxISD/UzTgQ1y/aXs0XPdsZYGnkfFS6zaqobN+9az56YoOnnxgPKr/u+CAmSYNHqZOmJCv9DOumIg==;+aEB0oby9EKUlQXsosDORw=="
 ---
 

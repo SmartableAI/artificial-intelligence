@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/"
 type: article
 quality: 91
-heat: 231
+heat: 201
 published: true
 
 provider:
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils Grace ARM-based CPU for giant-scale AI and HPC apps"
-    excerpt: "Nvidia said the chip will address the computing requirements for the world’s most advanced applications — including natural language processing, recommender systems, and AI supercomputing ..."
-    publishedDateTime: 2021-04-12T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
+  - title: "Nvidia lays out its three-chip data center roadmap"
+    excerpt: "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ..."
+    publishedDateTime: 2021-04-12T19:59:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/grace.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg"
+        width: 2000
+        height: 1250
         isCached: true
   - title: "Nvidia Unveils a CPU Chip for Data Centers, Supercomputers"
     excerpt: "the chip will deliver 10 times the performance over the leading x86 server chips when it comes to AI and large-scale data science workloads. The product may pose a competitive threat to Intel ..."
@@ -173,34 +173,6 @@ related:
         width: 678
         height: 424
         isCached: true
-  - title: "Bulk Data Centers Accelerating AI and HPC with NVIDIA DGX-Ready Data Centers"
-    excerpt: "Bulk’s collaboration with NVIDIA brings the world’s most powerful AI system to 100% clean energy, state-of-the-art data center facilities in the Nordics. Bulk is fast becoming the leading provider of HPC and AI colocation services in the Nordics and ..."
-    publishedDateTime: 2021-04-12T17:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-europe-energy-industry-environment-and-nature-eco-friendly-practices-f079c03334aa4776bb66976bb3ff0716"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cloudera Collaborates with NVIDIA to Accelerate Data Analytics and AI in the Cloud"
-    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP, allowing organizations to support HPC, AI, and data science needs – from research to production – with a secure, scalable, and open platform for machine learning. “At a time when speed is ..."
-    publishedDateTime: 2021-04-12T17:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scott-mcclellan-cloud-computing-artificial-intelligence-ed114562c94f5114121f68476cac32fc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs and DGX Superpod for HPC and AI"
     excerpt: "Base Command is designed to coordinate AI training and operations on DGX SuperPOD infrastructures ... Subscriptions for DGX Station A100 start at a list price of $9,000 per month."
     publishedDateTime: 2021-04-12T17:14:00Z
@@ -215,15 +187,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud"
-    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP ... they need to better understand their data and realize the true transformational potential of AI,” said Arun Murthy, Chief Product Officer, Cloudera. “CDP analytic experiences are purpose ..."
-    publishedDateTime: 2021-04-12T15:31:00Z
-    webUrl: "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "uZ6ACRNs7lnOyfV/rRVQsDEB7ZDdexgQ2n5yUM8kjC5/sh4aSm6SrypGiEmfM3UamiVeRSezHwiWZMoer7Ip/ey3j5KNqS/85LYFkxpdKTeqkPlrH/zXEIR18cQZOfrt1eYANPSGHsGhy/Bm4ANM72FpeZVHz9djGqhzaVGBWGWL1jEoGig2dJVGIqDl7CuuSxLLMCKFYH/uAwoIEYRibjpQAOlgyE5QqPUHCFg8VOiBIUS5a6v/9OTcMF7WaGsF1vyqJL+AxzhdnkdkBUoZKVG2y4YPNT2OrisqXOYNuf59hkSQyNiUQ/VT1FoViMEHKK7v8kVVGCU4/9kWR0LoHE1YpswTMrn4VLfasc4md54DtjBhgiEb5QtVrEU0qaNYmWqhjZ8xY/tHaOayXt4ogykqM7pk1kIMw2/yVOpKFajMk2px/ncWFvBCH+gwxOyBLtdgqbJdAq9i5l3wO281aChvylvGQJXA95QuHVDW5guB2C3gPJMwz5exQsLcclsdqFibr1kpiTidWwx0qbrorg==;v/ZhJxcv52I0zyHzH5SGdg=="
 ---

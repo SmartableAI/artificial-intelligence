@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
+      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
+      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308486/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "publishedDateTime": "2021-03-07T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-ai-powered-chrome-extension-automatically-turns-on-youtube-subtitles-while-you-eat-noisy-snacks.md",
       "title": "AI-Powered Chrome Extension Automatically Turns on YouTube Subtitles While You Eat Noisy Snacks",
       "excerpt": "A year into the pandemic most of us have honed our daily routines into a regular pattern of YouTube bingeing and snacking. But munching on crunchy snacks often makes it impossible to hear a video. The solution isn’t to turn off our computers and attempt to re-enter society,",
@@ -1409,49 +1461,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-measuring-hemoglobin-levels-with-ai-microscope-microfluidic-chips.md",
-      "title": "Measuring hemoglobin levels with AI microscope, microfluidic chips",
-      "excerpt": "The hemoglobin testing solution is possible thanks to the design behind the microfluidic chip, a customized biochemical reagent, optimized imaging, and an image analysis procedure specifically ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.html",
-      "originalUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/measuringhem.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.amp",
-      "publishedDateTime": "2021-02-23T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -63,22 +63,6 @@ related:
         width: 624
         height: 415
         isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
-    publishedDateTime: 2021-04-12T18:41:00Z
-    webUrl: "https://www.kmbc.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: KMBC
-      domain: kmbc.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
     excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
     publishedDateTime: 2021-04-12T11:48:00Z
@@ -94,6 +78,6 @@ related:
         height: 446
         isCached: true
 
-secured: "KiDy2w3Q65nNnfrQU8+64LcJ3XKwFyz90IpVrgPP0nKJpVHiSWyZRYnxxrOQjpe6/g0xjqUD2Rhw3AoT0zt5cPE9TyV2jUTdMu+ssr4AdpCdsfZnWovdqioF7NHa7UvEqPjAdAgYm8WlwfK97bbGxD5Z32b1sHIr9OYa91GgefUqUapwFo3we1hrGH5DltdpUSbyR+zKJXoPiNYReC9UTm+6v9olOo0c2k3diZT3lp/FQczTfBcnzR03uWQ+mameWFa26BydaH1jOwpAvsaCSOKlKaPw+9XCn7xXoFfhu9U30l7iRHn9Nb0v6WEiEkFTXf62VpK8UEu7ikW0y88LIatHTVQBg4wURC53fBf941Y=;bKvf+T83yV24FTmWOns77A=="
+secured: "bPdH4X3zHfqb6poI+JNMgUlGEyEfanhYLf1P0uh1DWZTSzbbYnomcdUDGFUACGe/b6qt1UPRpZ0mdhLAF2KbidHfatvR73e5Am3vRSKaAIrwAj3NbnvJrPVmb3EVPjeK5QJxFxEjbnknjZ16pi/XIHWGISwaibgqpOHh15SUeDrrkvMKFk0xe/OyaXYgJCQZXajBwM7CDgiTH4nhgJJ21YtoHwTx39KcjQ3Y49CZCL31m0K1L+WYvgtmwtTdA3DemLQpvoecMDoDlN+deiTQSrlG4iB7bcGxAquv7cVffPvTwmesjGZZa9NAb4z0maMJYTr8z6CNjDdL5SugipZPeL+F77fs87p6RUttRfwEPChKGsO+CPScF24OCx27udY5e7ozolL+ItgXpXKgf5ynYlDQ3VTIwIt8Nzu1E//hH75nd4ye5ELdsxELq3Q3GvyXwxOiIqBMUSLrO5/gO9WDRUsMs9FHj8nMFEW7wSwDX+wc/0buSlY91oc9lMq7CyydZ1ZgAzc5FZagH4e/PPXf6A==;BhAwsvZhyaaHm6943cE0Dw=="
 ---
 

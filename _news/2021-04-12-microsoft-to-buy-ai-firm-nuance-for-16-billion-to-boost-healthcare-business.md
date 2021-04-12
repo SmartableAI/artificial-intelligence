@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Microsoft to buy AI firm Nuance for $16 billion to boost healthcare business"
-excerpt: "(Reuters) -Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it builds out its cloud strategy for healthcare and enterprise customers. The deal comes after the ..."
-publishedDateTime: 2021-04-12T16:59:00Z
-originalUrl: "https://www.metro.us/microsoft-to-buy-ai/"
-webUrl: "https://www.metro.us/microsoft-to-buy-ai/"
-ampWebUrl: "https://www.metro.us/microsoft-to-buy-ai/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/microsoft-to-buy-ai/amp/"
+excerpt: "(Reuters) - Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it builds out its cloud strategy for healthcare and enterprise customers. The deal comes after the ..."
+publishedDateTime: 2021-04-12T16:34:00Z
+originalUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS"
+webUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2BZ1FS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2BZ1FS"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 118
+heat: 778
+published: true
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -22,9 +26,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3B0RB-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558135945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0RB"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -767,6 +771,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Will Pay $19.7 Billion for Speech-Recognition Company Nuance"
+    excerpt: "Microsoft said it clinched a deal to buy Nuance Communications, a pioneering voice-recognition tech company, in an all-cash transaction valued at $19.7 billion, inclusive of Nuance’s net debt. It"
+    publishedDateTime: 2021-04-12T20:09:00Z
+    webUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/"
+    ampWebUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 61
+    images:
+      - url: "https://variety.com/wp-content/uploads/2021/04/Microsoft-Acquires-Nuance.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
     excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
     publishedDateTime: 2021-04-12T06:02:00Z
@@ -826,18 +846,18 @@ related:
         height: 1486
         isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
-    excerpt: "In a bold acquisition that could solidify Microsoft's growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
-    publishedDateTime: 2021-04-12T13:02:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/microsoft-buys-nuance-for-16-billion-in-a-major-push-into-health-care-ai/article_d29ef52e-0a40-5ae7-a2c6-bcf7e3170ab6.html"
+    excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
+    publishedDateTime: 2021-04-12T15:20:00Z
+    webUrl: "https://ktvz.com/money/2021/04/12/microsoft-buys-nuance-for-16-billion-in-a-major-push-into-health-care-ai/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e6/fe62223e-25a8-5540-9f7d-4f64e68aad3b/607464805a0d8.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
+      - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_90f7b186909ecd1e52d9a2cf97383dec-h_fc30d33f8b8371f77efbccd46a87eb32_preview.jpg"
+        width: 500
+        height: 375
         isCached: true
   - title: "Microsoft pays premium price – $16B – for speech recognition firm Nuance"
     excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Here are the details."
@@ -880,6 +900,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png"
         width: 768
         height: 430
+        isCached: true
+  - title: "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition"
+    excerpt: "“AI is technology’s most important priority ... The collaboration combines Microsoft Genomics’ Azure Cloud with the Tel Aviv, Israel-based company’s comprehensive cloud-based advanced framework for Next-Generation DNA Sequencing (NGS)."
+    publishedDateTime: 2021-04-12T19:56:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/microsoft-finds-winning-combination-ai-and-medtech-new-acquisition"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 52
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Apr122021at34915PM.jpg"
+        width: 770
+        height: 400
         isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
@@ -991,6 +1025,6 @@ related:
         height: 369
         isCached: true
 
-secured: "3PU37gV3AfKZn7sVffk9NaHf8T9p/wqZGZ8ix4Oomy3ZuhbyGckezh1WD1It5QBAXHKNR5vy+gV0pwM+so6wR1XQG9T+OgnGKo46gdZ40b0SZPcg6UlInFHusCuATB+k3I4GbcBTFiwKh3uhyDRl/tYlOCmWETFRXN+Doh9jn1relMvf3dFQPzxiysB7XREn2DS/3dVBjCRGsogCnLQI4etLRjgpGEhQVvnvlV8cgXkQBdLfc1eOlIJIMLzOUqXDN+/81e3Exk5Fe1VwENJdqOhXyrpZ5Fymap4n/vKX88Qf6gGN9Rme4Jm7p9WagfT/p3qHwzty6ymyYPMYx7iEAO0y9n+ew0UTGjVz4JBY+rYlE1f1R5Gf5fCdZ1Ghtt6D/oneraS0SjL/llLmzWIM3/0MAMYf97QHOf1Fw+S7VuET5o/X4ZfWzxyhOXISpAqpkDy5soeFPB93tMz1zwlCXJpdJuHHmxu4uOGsu7FiRYDPG+JngAZVbaQPu3F3QeXjM/JMeNcjG0UsyoiijrKTlA==;Mo09TtbWn3iG7YVvkLnUJA=="
+secured: "j5pI1+eNf5rFiKzDTIx/W7E5pClnsliEwuNPZVKOSu7DbHDqtPC3unaS5GUgRkJOBypQu9CDyULQic1N9+fKImKPkt7N2CJlKgSvUdEe+4Qd7X5o4ahuKlkQKNNIV6eXJIxnxmP8q2dqR+gLoJHHzeYrEBxwHYpFS3cQGbEeYFw9R9z5vtykFuwrF0eoGZEYHCm7gL/kLlKZAVK0/1n52j+/pj5LoO5JM7/V6eWNp0qXgd9pXKL9bD+9w5qfIcKVMrKCNgmLN2Dy5qCNKtvwEPSW7EHVL0ghSGwIear1nuq2xX33A1kUy+o85JM2eY/cHk0wprxKTxMqNQchgxzKPvuiSWQ2ZgDIfWIlYjnQ1YI=;B2oTNZCLvBoxVTTD+Mjjtg=="
 ---
 

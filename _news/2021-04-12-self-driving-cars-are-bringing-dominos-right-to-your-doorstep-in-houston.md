@@ -121,6 +121,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain says some of its customers will be able to choose to have their pizza ..."
+    publishedDateTime: 2021-04-12T19:42:00Z
+    webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z
@@ -164,6 +180,6 @@ related:
         height: 764
         isCached: true
 
-secured: "18vkOcjNeZ8fy9qpYDGqEFRBdZRIa2D3q3Usj/dth+1tbhRyFFE3o4idN0uNUm9WA3AVl3ipjLFJ9b1nqKhCGgpfGSET3o4jC0CZaXtYyz70Z0FAzQV2IthwdGNE1ruSGOrEzZH3HEsSSMpHFP+RQ3riR0zojd4PIAmD0ipIBZUSvO+gih6UW7IZkhDzSDXmvIgWVNTxB06IdCFzdXkbZIf02zuKgQh3bXKyt28GMS6BAJqi0wpIBPpcsiD2h7OMKg6L6yeTAmn9eUZv+3Il81gEfNL/PFK4QB4CBx09rd68hIXlYhCL7BeizzTlLvTMhVgQG1kQ+NyDh2NM276CpQpMvGs2Of4Oz8aWNd5b/24=;Xm1TLye+kgP4/tU80tJ1WA=="
+secured: "whQrs7gtMRJwgmp/qE+Bm3NygCslxtNVjNSQrsu/wZHanJl5NbfXG4eKoO3rJdKC/10NT0KjIkHXnTYKF2TOdCD3Em8Qg8Pu/Othpt8ZtrvTnU6f6qoqhfZKAgwmiUFf+Vkis4Paj1jCO/an3iUmW1+gOfQBu4IStb6jGGiilVXE0617mBfK2QklTleV5SszJpcZ5S9leRk8ihoxaV/IKlNFAhw11XiwlFq6MyxgVurlJWX3AcQafZc7dtCqi7vEzuEMpeN5Lan7vxEGvAzPccmZ1ri5RqKLHq0HkpkGDz07dDfViZn49qA2q4FPZ1OTCcaOOrIpfEKs+jw+S8GyeXwb9qTcKH7uEQx6l/5GUivzFcjtDvIDaCNDFelOMuOP6rspG+7aKPFsT4PqKdvKLaqKhQyMr5JqxkzPBUiqxGBJmBMO8v1G38R3z/eutrQ6uV2u3YzHmcG4PkDewBF+lhSg7O32FnIT9tNUsA49227JIaC65xUagmEkJ5sCZKLq2kLr/dMes9GiNhUldtej5g==;afs/rpxxSL1HHwRZeVquPw=="
 ---
 

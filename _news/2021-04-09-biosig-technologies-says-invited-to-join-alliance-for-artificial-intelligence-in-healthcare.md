@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)"
-    excerpt: "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ..."
-    publishedDateTime: 2021-04-09T13:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3"
+  - title: "New Advancements in AI are Changing Healthcare as We Know It"
+    excerpt: "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ..."
+    publishedDateTime: 2021-04-12T16:41:00Z
+    webUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/"
+    ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 64
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "SEAS Panel Discusses the Future of AI in Healthcare"
+    excerpt: "Health and technology experts discussed the advantages and pitfalls of deploying artificial intelligence to improve health care equity at a School of Engineering and Applied Sciences panel Wednesday. The event, hosted by the Center for Research on ..."
+    publishedDateTime: 2021-04-08T06:10:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-ai-in-healthcare/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/09/29/153003_1345878.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Not using AI in healthcare will soon be malpractice"
     excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
@@ -53,17 +69,20 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
-    excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
-    publishedDateTime: 2021-04-09T14:00:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/946183/biosig-technologies-accepts-invitation-to-join-the-alliance-for-artificial-intelligence-in-healthcare-946183.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/946183"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/946183"
+  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
+    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
+    publishedDateTime: 2021-04-12T12:57:00Z
+    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
+      name: Kaiser Health News
+      domain: khn.org
     quality: 39
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
 
 secured: "GPjTGnk9sqKgIaZUBVhinXyKTUIbZvDCcE12EX16vMacVSxxjOEGf+AyhXcHGEOEhcQOygo4w5gPCMZWLEOU0h/lSAsfdA6E5LoIHr1PYPqaIJFuEJkL80yD4/AHEuzQBmJQEKBFhZsuUkoouSU2VpvHury9iHr+x3P1d0hn9C4H8eYTjhR0y1AgBVS5vj4EGQDNnsM2qc2dJdbYBpNFZxu3EiYjChrKEDbnJ7dGDqBD+LEQ7TtVqyAkLjE7JylXJ5KzS8R7hSiCoBj6MUuNvzg7gMbhDQ2BZsgievr7xUBUaJ4sd6JkDs81mOSmvB1aOE6vxrycS+UhkX7v3ZujDLW5Ed+qLmToxMPWeZbEufw=;lG/c9vhW0FB17G85MYhbzQ=="
 ---

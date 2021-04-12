@@ -41,6 +41,17 @@ related:
         width: 2000
         height: 1006
         isCached: true
+  - title: "Brazil publishes national artificial intelligence strategy"
+    excerpt: "... the country's artificial intelligence (AI) strategy to guide actions around research, innovation and the development of related technologies to tackle the country's greatest challenges, as well as ethics. The publication of the strategy follows a ..."
+    publishedDateTime: 2021-04-12T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "The Conversational AI Revolution: The Threat and the Opportunity"
     excerpt: "One of the things I’m looking forward to seeing at next week’s NVIDIA GTC event is an update on their Conversational AI efforts. I’m fascinated with this Conversational AI may represent the most significant interface change since the beginning of the computer age."
     publishedDateTime: 2021-04-09T23:48:00Z

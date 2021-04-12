@@ -59,6 +59,38 @@ related:
         width: 1000
         height: 554
         isCached: true
+  - title: "Nvidia announces plan to make CPU chips"
+    excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
+    publishedDateTime: 2021-04-12T17:00:00Z
+    webUrl: "https://www.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    ampWebUrl: "https://amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0ea4527-2022-4c71-ac76-af809166d41d.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
+    excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
+    publishedDateTime: 2021-04-12T20:57:00Z
+    webUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78705_02_nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu.png"
+        width: 620
+        height: 347
+        isCached: true
   - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
     excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
     publishedDateTime: 2021-04-12T17:05:00Z
@@ -90,6 +122,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Q8bzZOM3nKPkL5/uXv5etbC/AAHc63ausiGndXhWNRD16jj6bbR9ZAiNKflqONPu5PhxyPr2o92Dtar7BP6111cNmoByA34TNTrbXUc/VCHuiicBxn7cdeWQSfr8QZo2XCzOyu3M7J6J1iK6EAyaXhzaWNhc2eP0dfiz93hBkc0JB1YrFRFioKM9OIMuvWqWKE2nu0GTmBCNAC2M2YMcejryD201EPcpN7uao1gOhRKR0UgeriMF0xBPqTZPj65HB39rZRke+o9D04kXGuw9D4lYSxZyDd4Z7ppLXLZKnXG0PXuZKuRbkuZDSjpddVCUc6aQo84zYF0wvbm1xDVr9QxaqTXD74d6FjYP9mT/0Ng=;R4wsg0GPxX59Zf/jcNKegQ=="
+secured: "1jxJUo7ddxwOn4gjYqmjozy9guh90MpkBtUAza4OTGgE2tZ1W4IUXyKGvHrLM3QYJoYMTu5fpPdPtMSbULzH9alfvAgvQ9O1QabKGS/RJmwkWvLFh8fCtRs07cHXHvbVvgrvssKZalYecjWwzSei9ILaPeKYInWjqb8h4/s8XWzYzhZS7QiL0lyiQjLfZscQCmjidMfPiGLkj3Yauy1FfKrqJ7t9r1vuUDFzw5HO6JJzQsKVxBFujHG/K/RDKFiokT/a7cFr6OKNXo3Juiz3IdVWfvqtoNe8J85DQL7vpMdQc8zPIn6C2/YHIiehhmxQH6CVKUgqa80v7aGTz0gmEQ5Y0TOZCuAFn60HQLO0Rjg+2+wSON5w0AFTh/DGhDPsihme1IZc8+MBUM+l6NeLBvoqG8covBTdF0DQ4KCcNoMVq2vZmE+RRRfGb6ATLVgKTodu5h7Vp2NvqZOPOuH8fCBlNlbvOP8Jq6/QYfKbcP2GtQoq9JtFapU77l1pO+lvcfzdryJahxOJfMcLpYr1Yg==;sxW10LHNzKcB2lAZClkolg=="
 ---
 

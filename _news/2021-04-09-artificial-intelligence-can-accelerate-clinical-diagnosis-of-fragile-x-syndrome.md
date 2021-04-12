@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome"
+    excerpt: "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile X syndrome, the most common inherited cause of intellectual disability and autism,"
+    publishedDateTime: 2021-04-12T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/chromosome.jpg"
+        width: 1920
+        height: 1056
+        isCached: true
   - title: "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome, Researchers Say"
     excerpt: "Machine learning is a form of artificial intelligence that uses computers to analyze ... like to expand their study to include data from medical records within other health care systems. “Now we have to see whether those new conditions also appear ..."
     publishedDateTime: 2021-04-09T19:26:00Z

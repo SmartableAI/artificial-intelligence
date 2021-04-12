@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -64,22 +64,6 @@ related:
         width: 624
         height: 415
         isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
-    publishedDateTime: 2021-04-12T18:41:00Z
-    webUrl: "https://www.kmbc.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: KMBC
-      domain: kmbc.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
     excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
     publishedDateTime: 2021-04-12T11:48:00Z
@@ -95,6 +79,6 @@ related:
         height: 446
         isCached: true
 
-secured: "Ty0oCbLkj5JNfhIsAjJc9/FJK4lOvQiom5bb8Lr0bOvB0UNbAFDSUKl9rGb3Q3c60Msf7oQT2I1uPMxgVefBGU60xvcAwDJ4z/C3cqjG/rf8MxRVWWJzeLQyCYcTk2HkfKNVfpzKiTrpOPiUrMrteSfqDCyNM2ZGrbAP8QSj83IwM0EtXK+xnazfN+0lFCpaHte+kKDQOsG/9hbs8pePMnIOQrY76K0BjUPE2EmJItBLtnv7163sUyrhozHJUvvgqscgUJH8EUqqYZ2DLlB0RMArhMC+A/BlTzNARkBpIo6IiuRAMHISTp7wXBdFpriDBrMkuNzhsfLHNGawtOVALm6zIEY0Uhi0plvhsJJpTSo=;IyyDSsPY9Ls6Sce9nQIfDg=="
+secured: "ve0WZR5PT26WF2pr7O7xODbdDR90FzKz4w4WeULpp+TI3qJ163OL507lWrt9Pbl0CgkvzGiBPDYywIhU/pJI4n3qG/2pSJ8esf7NTIiVFPJtEuMNqrzXp8nLnLop5UMekFVl18gS1YsF2Vb2KSnIOZfXiVcFvbl/W4DqLG3bAh1qgai1qfZJcLEmnNG397ztveJsUpeHQ9NhNkMaG9Dg9sU/w5d1aSxynSq1HjtCaF7ylhF1uyz1bCOGFA6r6cP1il5esHi0AC9Up5hNiwQdcV1mqzhF+DvAQPp8HQNmvK9A3PkNMCfFNi76x/dOnorMJYjxytQvKy8y7fPEWT/Lz7e8plaHg8UMsIYRfhXsPsGTYjDbWJopMsudfkFazrXLod/1VueoJ5pYKVdXKRQnY4aYCGCht5EL8iQOslcXQ7OW43wgz+51MarcWnmbHTVs/y8VHTpxN8w9fGqrveGm3PI8MtsJ/dyLMHqsAWA3vTuhIH3af2oFMGgyS8B6B+razZcfyW8A1FLnCEZvtyWCUA==;r+ipLiETsFLWp3/F4flUAg=="
 ---
 

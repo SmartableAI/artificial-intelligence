@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Accenture acquires cloud analytics services-Core Compete"
-    excerpt: "and machine learning-infused business outcomes, to serve a diverse client base across the US and UK, with particular focus on supply chain, retail and financial services. Terms of the transaction were not disclosed. Founded in 2012, Core Compete’s team ..."
-    publishedDateTime: 2021-04-08T03:09:00Z
-    webUrl: "https://www.crn.in/news/accenture-acquires-cloud-analytics-services-core-compete/"
-    ampWebUrl: "https://www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/accenture-acquires-cloud-analytics-services-core-compete/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 44
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2018/06/22091210/Digital-Partnership.jpg"
-        width: 696
-        height: 465
-        isCached: true
   - title: "Accenture Buys Analytics Services Firm Core Compete"
     excerpt: "and machine learning to help clients become data-driven enterprises. Terms of the deal were not disclosed. Durham, North Carolina-based Core Compete, which also has offices in the UK and India, works with clients across the retail, financial services ..."
     publishedDateTime: 2021-04-09T22:38:00Z

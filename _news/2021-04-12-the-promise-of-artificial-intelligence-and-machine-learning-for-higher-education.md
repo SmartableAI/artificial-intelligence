@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-lear
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Law Firm Tips For Evaluating AI And Machine Learning Tools"
+    excerpt: "So it isn't surprising that law firms are looking at ways to incorporate artificial intelligence and machine learning solutions, the hottest trend in business — legal and otherwise — into their practices. To meet this growing demand, a number of legal ..."
+    publishedDateTime: 2021-04-12T20:07:00Z
+    webUrl: "https://www.law360.com/pulse/articles/1371877/law-firm-tips-for-evaluating-ai-and-machine-learning-tools"
+    ampWebUrl: "https://www.law360.com/pulse/amp/articles/1371877"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/pulse/amp/articles/1371877"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
   - title: "AI, automation the only option for SA"
     excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
     publishedDateTime: 2021-04-12T09:02:00Z

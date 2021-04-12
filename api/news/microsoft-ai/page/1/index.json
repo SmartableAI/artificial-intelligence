@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
-      "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
+      "path": "_news/2021-04-12-microsoft-to-buy-ai-firm-nuance-for-16-billion-to-boost-healthcare-business.md",
+      "title": "Microsoft to buy AI firm Nuance for $16 billion to boost healthcare business",
+      "excerpt": "(Reuters) - Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it builds out its cloud strategy for healthcare and enterprise customers. The deal comes after the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
-      "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "webUrl": "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS",
+      "originalUrl": "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idCAKBN2BZ1FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 757,
+      "heat": 778,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/607440023e3fe7001882a117?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558135945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0RB",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,16 +77,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
-      "publishedDateTime": "2021-04-12T05:57:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2BZ1FS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2BZ1FS",
+      "publishedDateTime": "2021-04-12T09:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,8 +102,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI in Healthcare",
+        "AI",
         "Microsoft AI"
       ]
     },

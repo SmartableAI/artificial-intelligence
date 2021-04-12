@@ -27,77 +27,100 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and NVIDIA to bring Arm-based instances with GPUs to the cloud"
-    excerpt: "AWS continues to innovate on behalf of our customers. We’re working with NVIDIA to bring an Arm processor-based, NVIDIA GPU accelerated Amazon Elastic Compute Cloud (Amazon EC2) instance to the cloud in the second half of 2021. This instance will feature the Arm-based AWS Graviton2 processor, which was"
-    publishedDateTime: 2021-04-12T17:01:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/"
+  - title: "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles"
+    excerpt: "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/10/Site-Merch_Graviton_SocialMedia_2.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Cloudera Data Platform to integrate with Nvidia's accelerated Apache Spark 3.0 libraries"
-    excerpt: "According to Cloudera, the integration will accelerate data pipelines and make it easier to add machine learning workflows to processes. Cloudera Data Platform added Applied Learning Prototypes (AMPs) earlier this year. AMPs often run on Nvidia GPU hardware."
-    publishedDateTime: 2021-04-12T15:30:00Z
-    webUrl: "https://www.zdnet.com/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "Inspur Information Introduces 3 AI Servers to Support NVIDIA A30 and NVIDIA A10 GPUs"
-    excerpt: "“With our high-speed data pipes and the Inspur GPU server (with 8x NVIDIA HGX A100 GPUs), we can quickly iterate and use the state-of-the-art in AI to help our patients,” said Dr. Mozziyar Etemadi, anesthesiologist and Chief Data Engineer of the ..."
-    publishedDateTime: 2021-04-12T15:31:00Z
-    webUrl: "https://insidehpc.com/2021/04/inspur-information-introduces-3-ai-servers-to-support-nvidia-a30-and-nvidia-a10-gpus/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 27
-  - title: "NVIDIA Makes Case for Tighter Integration Across GPUs, DPUs, and CPUs"
-    excerpt: "NVIDIA today at its online GPU Technology Conference (GTC) for 2021 launched a series of initiatives that promise to make it much less expensive to run artificial intelligence (AI ... include Amazon Web Services (AWS), MediaTek, and Fujitsu."
-    publishedDateTime: 2021-04-12T18:28:00Z
-    webUrl: "https://www.itbusinessedge.com/data-center/nvidia-makes-case-for-tighter-integration-across-gpus-dpus-and-cpus/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 24
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/NVIDIABlueField-3DPU.jpeg"
-        width: 1500
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/nvidia-cars.jpg?w=1200&strip=all"
+        width: 1200
         height: 795
         isCached: true
-  - title: "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs"
-    excerpt: "Inspur AI servers are among the first in the industry to fully support NVIDIA Ampere architecture-based GPUs and has obtained NVIDIA-Certified System status for these servers, which support the NVIDIA EGX platform for next-generation AI. “Inspur is ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
+  - title: "NVIDIA Unveils Powerful Grace AI Supercomputing CPU And Atlan Secure Autonomous Vehicle Platform"
+    excerpt: "NVIDIA’s new Grace CPU is targeted at massive AI training and HPC workloads, and its name is in honor of Grace Hopper, a computer scientist, programmer and US Navy Admiral who is credited for developing a programming language concept based on natural English language."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607472952d8c54c1a5fe3ed6%2F0x0.jpg"
+        width: 1000
+        height: 554
+        isCached: true
+  - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
+    excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
+    publishedDateTime: 2021-04-12T20:57:00Z
+    webUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78705_02_nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu.png"
+        width: 620
+        height: 347
+        isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
+    excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
+    publishedDateTime: 2021-04-12T17:05:00Z
+    webUrl: "https://hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 48
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54797/content/nvidia_mercedes.jpg"
+        width: 708
+        height: 418
+        isCached: true
+  - title: "Nvidia shows off DRIVE Atlan, its next-generation system-on-chip for autonomous cars"
+    excerpt: "Nvidia claims the chips will run an unprecedented 1,000 trillion ... “Atlan is a technical marvel for safe and secure AI computing, fusing all of Nvidia’s technologies in AI, automotive ..."
+    publishedDateTime: 2021-04-12T16:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/nvidia-shows-off-drive-atlan-next-generation-system-chip-autonomous-cars/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/800-3-2.jpg"
+        width: 800
         height: 450
         isCached: true
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Today, Domino enables customers to create framework-specific custom work environments based on NGC containers, including RAPIDS, TensorFlow, PyTorch, CUDA, and more. “Domino’s expertise in managing and scaling data science with discipline and maturity ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210412005204/en/Domino-Data-Lab-Debuts-New-Solutions-with-NVIDIA-to-Enhance-the-Productivity-of-Data-Scientists"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "xdlo7UXHBhUROzmdcGv+AbGPEHlQEyC39qEkjo0F4lZQCCDDFpks8cW1OHuZeCIy0Pfq6M3FDp8mHUntmmg1Hp5c1mMZCIkpXDP/KlWtblLl7neHmshi6CfQFYFo6eRO/NCpSkRr4A3JJwUBuCUveUKDOcpV7S1MG4qT/z2oLaO4N/ig/DLImrlGSTWBWBqZT5q4lPL/rN0l3KE0vS/RMfFhsJ6eFJKzAK8YYYNGAGYLyYbBI9TDLGngocsM5VRWHv9Aooxpo7g+k3a9X5SwaHE1kAX2F7olAXySWbLLIFCAI9vMOhQmUUvTz/BruGMxlndWQ7qmKCuyMTqJxXhbJC0Gh55nlK8gECKp//dLoMg=;K/O/NsAqeQcbRNQ308TshQ=="
 ---

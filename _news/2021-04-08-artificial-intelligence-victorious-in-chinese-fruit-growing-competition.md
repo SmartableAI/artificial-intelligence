@@ -24,35 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese EV Manufacturer XPeng Heads in R&D for Owned Self-Driving Chips"
-    excerpt: "On April 7, media reports show that China's top-tier electric vehicle manufacturer, XPeng or Xiaopeng Motors, has commenced R&D for owned self-driving chips. The project has been rolling for several months and involves an initial team of ten people working in both China and the United States."
-    publishedDateTime: 2021-04-08T03:10:00Z
-    webUrl: "https://syncedreview.com/2021/04/07/chinese-ev-manufacturer-xpeng-heads-in-rd-for-owned-self-driving-chips/"
-    ampWebUrl: "https://syncedreview.com/2021/04/07/chinese-ev-manufacturer-xpeng-heads-in-rd-for-owned-self-driving-chips/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/07/chinese-ev-manufacturer-xpeng-heads-in-rd-for-owned-self-driving-chips/amp/"
+  - title: "Chinese court upholds face biometric data collection complaint verdict"
+    excerpt: "China’s first legal case concerning facial recognition use reached a second-instance verdict in court this past week in favor of Guo Bing, a law professor at Zhejiang Sci-Tech University who filed a lawsuit last year. The appellate court ordered the ..."
+    publishedDateTime: 2021-04-12T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202104/chinese-court-upholds-face-biometric-data-collection-complaint-verdict"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-10.35.38-AM.png?fit=950%2C530&ssl=1"
-        width: 950
-        height: 530
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
-  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
-    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
-    publishedDateTime: 2021-04-12T11:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
+  - title: "UAE to leverage biometric face recognition to accelerate government services"
+    excerpt: "As part of its endeavour to launch the first safe digital national ID for citizens and residents, the UAE has announced plans to employ biometric face recognition (Facial ID) to register customers in the ‘UAE Pass’ application. The UAE Pass app is the ..."
+    publishedDateTime: 2021-04-08T11:02:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 30
+      name: GDPR fines
+      domain: itp.net
+    quality: 36
+  - title: "Society dictated your face, according to biometrics research and a patent"
+    excerpt: "It seems that algorithms can identify someone's name solely by examining a photo and if accurate, the premise could be used in facial recognition algorithms."
+    publishedDateTime: 2021-04-12T20:37:00Z
+    webUrl: "https://www.biometricupdate.com/202104/society-dictated-your-face-according-to-biometrics-research-and-a-patent"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
-        width: 720
-        height: 480
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/29144433/face-photos.jpg"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "VpoBtBxhgkxID6vCS5VQj29ESWS4fsXBjqbW99e4XFvMkN1uYNgOZm/4FX9j8NhGVKM6JqqeGWOBUbLUo8AgZe8IeVJl1LPlZSz145Z7LPnaiDcdtO3jLhTcmYzZcQQoemy0Zgq+ZiZ/3382G3fbi57PJmWbRI59j7762pYKOqY15m2seIf/S4BtoyHgM9HaniKBCXSX9KDvR/QW36BeRjBRzcdpz45ANpAZ1KMJitXxpg892/mWFPN1pKbZBLxxGuZt7Ev8CFkOcyE3VV/pirD2SuhoHx0D6Nr697any7BIPKaxehjux9cWxMOL77va5ajiWfTV8vmNodAbndn48Z0dX+fNOAwXfzkVdtrqKRc=;Yqbtwsp+Sh78i/aS6XdnGg=="
