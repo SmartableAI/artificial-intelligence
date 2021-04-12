@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-02-11-chinese-search-giant-baidu-looks-to-launch-ai-chip-company.md",
+      "title": "Chinese Search Giant Baidu Looks to Launch AI Chip Company",
+      "excerpt": "Image source: Getty Images. Baidu is already heavily involved in AI and AI chips. Its AI-based platform-as-a-service serves numerous customers in China, including banks and economic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "publishedDateTime": "2021-02-10T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
       "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
       "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
@@ -1145,58 +1197,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
-      "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
-      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

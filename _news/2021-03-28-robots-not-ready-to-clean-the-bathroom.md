@@ -2,14 +2,14 @@
 category: news
 title: "Robots not ready to clean the bathroom"
 excerpt: "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks. Last month, Boston Dynamics showed ..."
-publishedDateTime: 2021-03-28T07:21:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business"
-webUrl: "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business"
+publishedDateTime: 2021-03-28T07:18:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
+webUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
 type: article
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "LI72L3BBWS7gk863CKGxt7LDQaLzh8aBE06mREgIFG38O7u8WYSE/bDlx/AoIMTOVDGUufXRWTQG1ZzoC9uZkUJtiAdFnkmQ+T4yh5WYKlNL+GVbJ2w6YDRasCO17PdYQMYUGOsmOUHiI6I1BbGhfs3ejRfGTv9P5tOQfzHsznoS/ft+By0xzt8i8HYg+3cx5YEVaTbxWvmOKq2w6ncpu+oN0UQx/g5YMWCHDCEmDO3uoyBCiYgE4W5HQf4WOjK+Rw80anuyr8IJs5Q+yn4D1k3nSaK+Xjbk/B3p8bZOY+4qBCF1XdRJsGKslwrLK+dGRzlNqya6jg30/cRvBmAXiOXeVKw6TOsgWjZ96BUvvII=;Oyiaq4PDBtpBQIKLgb2QTw=="
+secured: "hyPN4uu4Ll4F4J0nG0OIr1PWLKW9pV3yPdyJ3AUOtyDrKGAKrHaZQrkSoaKi0RopSEa4U0QoJ/xQyQf3V+Ypw408WF+oODJ83tH+sodv8PCFOMhhf0x7CwZejOh5nEiCThQzhxB+jVJPbKBWGz50JNKE+XwFpZJuDAI6Nw6JGvboVpSZ0ARNQa4t+ljH0IlvFs//0gLCS513AgjrtPnAVrpNHCLQp0na8ncq610DiKMEnko/4KmOwp+oJw5Vx9pY4Y8QIRcIe9VdCAXE0r3RhAH7PLd7Wpp01LDoF7FzmWsUQA1+ei/LoecxNyBcBnXc9rdnZan4UHS2QOLpUlwonUMyjtH3T7VWyNWDQ94tXZc=;tnPfmHm8ZUfS6Di6lWWdVA=="
 ---
 

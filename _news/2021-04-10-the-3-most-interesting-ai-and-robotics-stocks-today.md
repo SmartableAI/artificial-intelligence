@@ -51,22 +51,6 @@ related:
         width: 459
         height: 306
         isCached: true
-  - title: "Artificial Intelligence Powers Mineral Rights Investing"
-    excerpt: "How You Can Invest as Little as $300 in Proprietary AI Software For Mineral Rights Investing Traditionally, only large investors had the resources to invest in the land and professional services criti"
-    publishedDateTime: 2021-04-07T12:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/"
-    ampWebUrl: "https://www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/sponsored/artificial-intelligence-powers-mineral-rights-investing/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z

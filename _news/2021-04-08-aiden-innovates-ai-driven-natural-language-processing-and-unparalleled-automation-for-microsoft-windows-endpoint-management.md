@@ -322,6 +322,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
+    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
+    publishedDateTime: 2021-04-12T05:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 41
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report-2021-04-12.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
     excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
     publishedDateTime: 2021-04-07T13:09:00Z
@@ -336,15 +350,6 @@ related:
         width: 5000
         height: 2661
         isCached: true
-  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-    publishedDateTime: 2021-04-07T12:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
 
 secured: "YWl7zHOYTaMer0TfkeV6BlD9hxIEIIeKD1wrPrArHNMK0iK3EVwYCJX8knBDkRJQbYv/0a5q3SNF6h5Y7Yqud0qCrKnzrCcyRTUqCVJie0uoitcyjM8d33BnVUeRuxyUhr7g78eQ4rv+6pN3pKTOGq/QlK8ImOcN47ddLDAoDK8CrlQIlC1MBEDqwEJ2P/MOPBiaUxOl75AxuvM00BEDOFl5ygyUIc9lEawk8CPx6w/Y6F06pjlhpM8XzZRBGrRWpLuyN8LLeyVqyq/hA5/rG4DYHCkEzOTlyqAEQL4mrwsOHmFdzG39bpnJbS/LhsxSaW2iNQa5ySOQQ5W3UEO3CvYyymA5YoXCdUS3npUKlTWcD7YMImay2hDRd86f/LYvF0H0urkHCh8yDVX+RmBML9o+uXL2ivWQWjJMoLb8sje0Ex7E4ALHEJB016NQ2yGun6LYYqVv3vyuu0YsEFz8V0dHMz7QwUMwd3HmumYk01Zzd/DB+gxL73VLydprKWTFSKmvX5tAoDtUaMW3WGKJsw==;seQc16c5en2D/rIYO5dBMQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/computer-visi
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-trax-collects-640m-new-funding"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock"
-    excerpt: "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ..."
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/"
-    ampWebUrl: "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Joel-Bar-El-Justin-Behar-Dror-Feldheim-1.jpg"
-        width: 4724
-        height: 2969
-        isCached: true
-  - title: "Surgical robot developer EDDA raises $150m led by SoftBank Vision Fund 2"
-    excerpt: "This new funding round will help EDDA capture untapped opportunities in hospitals in second- and third-tier cities."
-    publishedDateTime: 2021-04-08T00:46:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/softbank-edda-235271/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 35
   - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     publishedDateTime: 2021-04-08T06:05:00Z

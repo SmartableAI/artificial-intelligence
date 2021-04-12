@@ -7,7 +7,7 @@ originalUrl: "https://www.sporttechie.com/veo-ai-camera-system-soccer-a-moment-i
 webUrl: "https://www.sporttechie.com/veo-ai-camera-system-soccer-a-moment-is-never-missed"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Veo Technology’s AI Camera System: ‘A Moment Is Never Missed’"
-    excerpt: "Cincinnati now uses Veo Technologies’ AI camera system, which can be operated with the push of a button in a smartphone app and capture a 180-degree panoramic view thanks to a pair of 4K fisheye lenses that record at 30 frames per second and are stitched together during processing."
-    publishedDateTime: 2021-04-07T11:46:00Z
-    webUrl: "https://www.sporttechie.com/veo-ai-camera-system-soccer-a-moment-is-never-missed"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 37
-    images:
-      - url: "https://sporttechie-prod.s3.amazonaws.com/veo-social-image.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "kL6nRoRPz7d+LV6QujpsQ3oICDX/1IcJ0whHtjcVkftamYI+lB31dxqT0cPGQG8KR2FXPWLj+ISmGFol9utAzreSUE00p4m1iOOK7C7mZCxDmgnKrdSduts7AO5FE14Rj8AYyPED0dBF6NJ1p6oUUlnYYblKCP9CHPjHuYQ3wn8uSEWOkY8k4pa8FRQeOeoWGoeKg+0fCMLP0WERAZazts5HFQo0NHDngOk+lcQ7RchjZBTtqDbpHa4CJ1JxOjoHDes3p78HrMUZIBOZdUpKjUminkbR0ANwNCr44w7Ac/5QsAJ9IcGcmzUr4wp4eDfJrs+9o5UvUVV27M1prx2DQG9kpcPB7MX20B+NTsHnH8iAoG9orha1fFgFYZe6UZo2ll/HBFemsbtxEh3v67Yh1dUBDa7JqAAKNynAKV3+aIygOvnLDLj40VD9CLlXEsCxMnhKlzfLqd4P2ZAdcT2xJk/DObo6UM8OeQFzSxnKzvcykibY+6AGQk3Z2zUidzwhs+EgPTMFa9W0AZFdZiyOwg==;3haHBO4WnT+kgqLg7MTPUg=="
 ---

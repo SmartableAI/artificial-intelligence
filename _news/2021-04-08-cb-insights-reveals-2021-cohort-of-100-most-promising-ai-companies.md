@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
     excerpt: "CB Insights today named Deci to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI 100,"
     publishedDateTime: 2021-04-07T13:45:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/deci-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030281693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
+    publishedDateTime: 2021-04-08T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
     type: article
     provider:
       name: Business Insider
@@ -159,34 +168,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
-    publishedDateTime: 2021-04-08T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286"
-        width: 800
-        height: 286
-        isCached: true
-  - title: "Algolux Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Algolux to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_45c49b24-dc28-5f55-b88e-40a5978b73d6.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Fiddler AI Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "April 7, 2021 /PRNewswire/ -- CB Insights today named Fiddler AI to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... Recognized by Gartner in 'U.S. Healthcare Payer CIOs: Achieve Provider ..."

@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-10-this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare.md",
-      "title": "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare",
-      "excerpt": "This technology could reduce that to weeks if not days. It won't be the first time the two institutions have partnered on AI. They previously worked together using IBM's Watson to assist physicians and help guide care across a patient's entire journey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "publishedDateTime": "2021-04-10T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-biosig-invited-to-join-alliance-for-artificial-intelligence-in-healthcare-aaih.md",
       "title": "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)",
       "excerpt": "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ...",
@@ -1450,6 +1397,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ai-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.md",
+      "title": "AI study on aggressive form of cancer could improve patient outcomes",
+      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "publishedDateTime": "2021-03-26T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

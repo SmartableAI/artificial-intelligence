@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
+      "title": "Items filtered by date: March 2021",
+      "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
+      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/img/images/Enea/npb.jpg",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle.md",
       "title": "Companies Are Adopting AI For Supplier Negotiations, But Which Ones Should The Machines Handle?",
       "excerpt": "Enterprise AI is moving to new domains such as negotiating. There are some distinct advantages in machines being able to negotiate.",
@@ -1182,58 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-why-chip-companies-are-important-to-the-future-of-tech.md",
-      "title": "Why Chip Companies Are Important to the Future of Tech",
-      "excerpt": "Stay-at-home trends boosted sales of new PCs, data centers installed more chips to keep pace with the surging usage of cloud and AI services, and new technologies -- including driverless cars, automated factories, and 5G networks and devices -- gobbled up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F617413%2Fgettyimages-599789122.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
-      "publishedDateTime": "2021-03-12T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

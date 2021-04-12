@@ -9,7 +9,7 @@ ampWebUrl: "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-ra
 cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 2048
         height: 1364
         isCached: true
-  - title: "High-ranking researcher resigns from Google AI team"
-    excerpt: "Google on Tuesday confirmed a leader of its artificial intelligence team has resigned in a departure that comes after the controversial firing of two colleagues."
-    publishedDateTime: 2021-04-07T11:38:00Z
-    webUrl: "https://guardian.ng/news/world/high-ranking-researcher-resigns-from-google-ai-team/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 19
 
 secured: "BWPsg4+bcvDBi+45aR5kvnuAYQOO5zZrlGsVt1iq5VEwdv6LCSoZ5f9nEdGeaJHMFwYrv5frP2IS1cv2f6CtmQn9/8IcUmlElOLbOsh2HPSJjXtv5/EG/kDZcJ47ciBvey6paNZSHbUowMMlZQLO7DfuA5y0omXw+u+ufyR1X9gFBCm1gv09BvllUNBNHXn0AEt/b88tm5On+eAnzg8KP4INEpeHFv5AfYE8pX4JMQz71EaH1Ibpn5/VuvGjI7U/zyL7x9KX9I9xlMwJArwmvoAYzfkETWHHaTUgO9brFZmOKQ5ByMtQ6c3c4S487eDoTP+XGST+Wlwb+fQ4KyYhl6mNbvlK4OvMnEsuyRENjSRRAdDpcnWmmnnLbvgPrj4kzCUr3ljNd61c+N+vaMkZFRoeJJS3gPGznwuhEsGewki33BnnRAAsIZzUzbg/5n19smekNg5L1rqcxYCuY6EqUyuYhrLTmrlXyej0Kx9jB8FOhUTl4sepyuhd9uWlDywsoh8ufgC7U/1uQD9Kf8bMCg==;PmGTa0FAIyrmOH4qwHWPBw=="
 ---

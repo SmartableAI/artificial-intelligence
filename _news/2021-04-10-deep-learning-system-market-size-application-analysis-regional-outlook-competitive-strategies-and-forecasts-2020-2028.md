@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
-    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
-    publishedDateTime: 2021-04-07T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
     publishedDateTime: 2021-04-08T09:28:00Z

@@ -25,21 +25,21 @@ topics:
   - AI
 
 related:
-  - title: "Acorns’ new fintech target is debt management with acquisition of Pillar"
-    excerpt: "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help ... have a lot of interest from many of the top fintech companies that are out there,” Bloch ..."
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/"
-    ampWebUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
+  - title: "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level"
+    excerpt: "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release."
+    publishedDateTime: 2021-04-08T02:21:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024"
-        width: 1024
-        height: 512
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "How To Become A Fintech Market Participant"
     excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
@@ -71,6 +71,52 @@ related:
         width: 936
         height: 446
         isCached: true
+  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
+    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
+    publishedDateTime: 2021-04-07T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Avant makes digital banking play through Zero Financial acquisition"
+    excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
+    publishedDateTime: 2021-04-07T23:50:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37815/avant-makes-digital-banking-play-through-zero-financial-acquisition"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
+        isCached: true
   - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
     excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
     publishedDateTime: 2021-04-07T16:02:00Z
@@ -85,20 +131,31 @@ related:
         width: 3131
         height: 3750
         isCached: true
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
+  - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
+    excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
+    publishedDateTime: 2021-04-11T08:11:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leading_Irish_RegTech_Startup_expands_to_the_UAE_as_demand_grows_for_antimoney_laundering_compliance_software_for_banks_and_FinTech_challengers-ZAWYA20210411081141/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
+      name: Zawya
+      domain: zawya.com
+    quality: 22
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
+      - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
+        width: 450
+        height: 501
         isCached: true
+  - title: "Angel Broking Rides Fintech Wave to Record 127 Percent Growth in Client Base"
+    excerpt: "One of India’s leading digital stock broking company, Angel Broking, is adding a new chapter to its decades-old journey as a financial services company. Having achieved several awards, accolades, and growth through digital transformation in the previous decade,"
+    publishedDateTime: 2021-04-07T13:10:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetails.asp?id=55964&cat=Press Releases"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
 secured: "BdP5hbDwxvh+qshU10OgYM6CS7S1nU936bLbbwXjrBK/zWpBFl1tuGZ3DFPVAxqU5orYtv2H8kl4fcq/lmxOYowx0hxMh2LIy92dD8zesLBxiq8ULOAku4zGjhHPflFp26mxPz2xACbT5oTwVpYj0+WDpFF1XFU5vyvrArYNtyykPdD29TPI6P05XvBRhB6rxGqZFIU44uB33woyI5K2PbHCArdz/qS8TqJqVCAzD48D3TpgKCQYh5bKBvxEpOu91RJXztwxU7VHq23CFIhGpXAv8OuZ8GZ0w8lf0AsBR32bfXOB4HWQMG+vae/eXPYLv3KXMD51C5duSb24toyYEQrPZ0JmOgCHko+BYl3dyYkVn78BitN6gJcb2Bh3I2wxkzGoQ3rup7HG45PQmzgRJ+Ukoylq1PQfTlHDCWIefbKoQHiivg4W3sUpTQXbh64/ipF2CBFM9QXBCCwjGhbnC9bojfewyI3jULORtpEW2lvnAV78isnJW3hRsz2OC1U8ac8CvK1X2Mh08ToHmLITGw==;o4VZv5Y9uo9odTwwQR0naw=="
 ---

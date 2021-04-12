@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
+      "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
+      "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "originalUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car.md",
       "title": "This Is The New Lexus LF-Z Electrified AI Operated Driverless Car",
       "excerpt": "Japanese premium maker Lexus hints to the marque's next-generation AI-operated autonomous and electrified cars with the futuristic LF-Z Electrified car",
@@ -402,6 +454,49 @@
       "provider": {
         "name": "koreatimes.co.kr",
         "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
+      "title": "How artificial intelligence is transforming manufacturing",
+      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/07/14113823/Depositphotos_75453425_l-2015-375x214.jpg",
+          "width": 375,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1293,101 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
-      "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
-      "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "publishedDateTime": "2021-03-23T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-baidu-debuts-on-hong-kong-stock-exchange.md",
-      "title": "Baidu debuts on Hong Kong Stock Exchange",
-      "excerpt": "Baidu says it plans to use the more than 3 billion dollars raised to develop artificial intelligence and self-driving technology. This is the latest in a string of US-listed Chinese companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20210323_29_958549_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20210323_29/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20210323_29/amp.html",
-      "publishedDateTime": "2021-03-23T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
         "publishers": null,
         "authors": null
       },

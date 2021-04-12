@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-company-tusi
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-company-tusimple-files-to-go-public/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,28 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple eyes over $8 billion valuation in U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO)."
-    publishedDateTime: 2021-04-07T12:37:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "UPDATE 1-Self-driving truck startup TuSimple eyes over $8 bln valuation in U.S. IPO"
-    excerpt: "April 7 (Reuters) - Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). The company said it aims to raise about $1.3 billion in its offering by ..."
-    publishedDateTime: 2021-04-07T11:04:00Z
-    webUrl: "https://www.reuters.com/article/tusimple-ipo-idUSL4N2M02WT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1N1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1N1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 48
   - title: "Self-driving truck startup TuSimple hopes to raise $1.3 billion in US IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc is aiming to raise about $1.3 billion by selling around 34 million shares at $35 to $39 each in its initial public offering (IPO) in the US. The San Diego, California-based company is also targeting a ..."
     publishedDateTime: 2021-04-08T07:08:00Z
@@ -63,24 +41,6 @@ related:
         width: 800
         height: 482
         isCached: true
-  - title: "Self-driving truck startup TuSimple eyes over $8 bln valuation in U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO). April 7 (Reuters) - Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was ..."
-    publishedDateTime: 2021-04-07T12:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-eyes-over-%248-bln-valuation-in-u.s.-ipo-2021-04-07"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 32
-  - title: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO"
-    excerpt: "Self-Driving Truck Startup TuSimple Targets Over $8 Billion Valuation in U.S. IPO TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday, as companies continue to tap into the red-hot U.S. IPO ..."
-    publishedDateTime: 2021-04-07T12:37:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-07/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 29
   - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
     publishedDateTime: 2021-04-07T13:20:00Z

@@ -1065,21 +1065,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-29-how-stellantis-will-tackle-its-electric-future.md",
-      "title": "How Stellantis will tackle its electric future",
-      "excerpt": "Waymo agreed to work exclusively with FCA on level-four ... \"It's about making sure that we scale up in the way we use the data and the way we use artificial intelligence,\" Tavares said. For now, Jeep is leading the way for the company in rolling out ...",
+      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
+      "title": "How artificial intelligence is transforming manufacturing",
+      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
       "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/chrysler/2021/03/29/how-stellantis-tackle-its-electric-future/4801743001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/chrysler/2021/03/29/how-stellantis-tackle-its-electric-future/4801743001/",
+      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/19/PDTN/245834ad-43de-48d3-8897-69d93b3dc942-Jeep_Wrangler_4xe.jpg?auto=webp&crop=2177,1225,x813,y717&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/07/14113823/Depositphotos_75453425_l-2015-375x214.jpg",
+          "width": 375,
+          "height": 214,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1087,13 +1087,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/4801743001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4801743001",
-      "publishedDateTime": "2021-03-28T21:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T21:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
         "images": null,
         "publishers": null,
         "authors": null

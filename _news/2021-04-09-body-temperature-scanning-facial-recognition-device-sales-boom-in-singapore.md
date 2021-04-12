@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "ROSHI: How This Fintech Startup is Planning to Disrupt Singapore's Billion Dollar Home Loan Industry"
-    excerpt: "The decision of Bundesnetzagentur to allow AI (artificial intelligence) based identification methods for new use cases in Germany is a confirmation of IDnow's platform strategy and at the same time a turning point in international competition for..."
-    publishedDateTime: 2021-04-07T11:23:00Z
-    webUrl: "https://www.lelezard.com/en/news-19736128.html"
+  - title: "Singapore’s Otsaw Digital develops robots for home deliveries"
+    excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
+    publishedDateTime: 2021-04-12T04:03:00Z
+    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "reaU0yKtctpMABvOWclw9aKgqnBMIwnDHeaDl52vGbny8VbnfAgxtu19wDiz7T46MXC+zofGRuj8H3WLeLwAnOm4tiLxGtaO88WUE1QLZ+VhfYFqLbBnqUWiUXTlmMQaLlDp5B7R7C0e48wN3VxihodOiBvt1QJPv5W4T3Ad9FFRzPNH65KzxIetMPkr2LJ3Xdlw18JIxvJHdlErNwKMXfuvB2AH7j5EGLzArSUrA71GgWMwCkKWtcVOJLyajvi9jOZq5Bmgh9acmJmkjw27ERJEsnFdcnPzxItidOMKjLcUb0Q3VkTGdYnoHCmhJuFPxRPX2dYVZJ7AP8io+75XvbsgR5a8SDPwpfO7mYr0HeI=;kmopE8YO2xdF20wJLvXuLA=="
 ---

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Predicting regional coastal sea level changes with machine learning"
-excerpt: "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ..."
+excerpt: "Short-term variations in regional coastal sea levels depend on a combination of nearshore and offshore processes, including fast-paced changes like those associated to high tides or storms and interannual to multi-year changes driven by relatively large temperature oscillations (thermosteric variations) in large open ocean areas—just to name a few 1."
 publishedDateTime: 2021-04-07T10:24:00Z
-originalUrl: "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported"
-webUrl: "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported"
+originalUrl: "https://www.nature.com/articles/s41598-021-87460-z"
+webUrl: "https://www.nature.com/articles/s41598-021-87460-z"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Nature
@@ -24,6 +21,6 @@ images:
     height: 386
     isCached: true
 
-secured: "FhVz/Lspy/EtSjLb9VqJmG6RScNwwdv7hmlAu7aGyZQg0wTcaJRqIi64o/hX1eSaK5byb5EYS5pGj/CQwFJp94EllbutuOOobcc+qa6W9bvtPmNv/8NGHwybeHAnb7iaKiCG2p1a1kp07IFAsW6ot2tsvGG3ZFc0yK3cBZNu3Abo78jBCtu+BMtDm5LbCv2XH6UNKsibH4aLTEqFH9JRhTmbDIJu+BM/drDSwleLpaEuio4bn5Og6vw4xa6dh51W2fq9g7KM2u3UKil0deKeloBNmX03lIrO9obxDe2TNu2L8z2bvvcRJUGAykzuXDcsAdOHkOKXDjy9pZizrLXxFssYJhaQa1Pf79sKsCq/mOKG6iJ456IdL7s11sLUJheRNkqgm+/CZZWXLIqwibYWUX3tP8ZEzVUyW4At7ti5UGgGPCMmHrC3VOYPb+0Iwt7wjkQ/dEbcmbLBR4ycrvCAXtVGurLOMvcNmemyD0FlF9jexysBOgiIOtbNvDnjbys1DtzAnVhzVyDO7y3Sj0UtEQ==;w6fALMbSYDVYAXlfgQV7KQ=="
+secured: "bYuPKlYfwTNkCVFvn6D7Xxzezet1JvAcjPnwuS/n4f+pYyuMyrp2igTqZ10YLS/T7suZLpNsDUM1+QRdMG5a4U1SZhPRszoyP8oy5/xRYVciQH+E0U+OHStPBkMnWYAsVfw3TzO0NheU1HxMFYBBIVr/ZOr8AYB4Vi9HWmY4LU5WX0rhX0CiywClJDnWvEjGXv4Ot9Tk4sMH9BmFiJ8QlZaF/J8696Ri8MkEWQ9/JAh/cZ8wF1BLeM2DnjlZ1Ggf55Cc7oW062SUJO/7Qt+jwyVvX4DP9M/V0zbqSKSbF7Ij64+MhAB9Vtrktldh68YCHROAsGq2Jm04DxhY2FjH+I9tOSS61Upr2hUqgBCwmQ4=;n9cTilXleG4YZNBouWT1yQ=="
 ---
 

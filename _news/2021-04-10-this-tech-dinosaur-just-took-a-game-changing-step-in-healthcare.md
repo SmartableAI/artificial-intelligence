@@ -1,36 +1,23 @@
 ---
 category: news
 title: "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare"
-excerpt: "This technology could reduce that to weeks if not days. It won't be the first time the two institutions have partnered on AI. They previously worked together using IBM's Watson to assist physicians and help guide care across a patient's entire journey ..."
+excerpt: "Tech giants like Microsoft (NASDAQ: MSFT) and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) have been racing to build useful quantum computers, but IBM (NYSE: IBM) just signed a partnership that could vault it to the top of the pack in the healthcare space."
 publishedDateTime: 2021-04-10T10:57:00Z
-originalUrl: "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
-webUrl: "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/"
+originalUrl: "https://www.nasdaq.com/articles/this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare-2021-04-10"
+webUrl: "https://www.nasdaq.com/articles/this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare-2021-04-10"
 type: article
-quality: 91
-heat: 91
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "5Ofhibmc7+su8nsom1bEC/0m6mmkADYsp1joCuUJyK3atcuxCMu7LMp0KbDPgZjHm6qnVUpGXfBG8OCCNCOgg3mikErFF7O3unVbJao7ymuQlAm2Hmp32kY7JNx/brdck4NrCTslGmzM3YcUq8wBiLFggS3bt1kXfVR5UkD0mwmHP+2Fcn72BTbcOxqy3Dkcg0GKNT316KRhju6zAUUCkWFrxl81ewvScYqD6mydUMuKfkOMmvH9HweBfY3DJTtJ3/lBOD0aCukNXGBT4iFfNRR1nR3t89Fl+xkcibGfgTo3Zi7SrGkQEpaLCnVaNdFQZ+Lz4LV5WFqcrWE1uftX0mzy3fAPG7gvgx/wHjRsCQ3dSdi9nT539lxHIJaFjp30Ua+2q/1AXLh3QGxVMqMvRxbX6w97u68hjuctdfqlIWDf48LR9iKJZSewk2wRfqIxTPYdgZXCo6Fdyknq16wTsOBOo57uxcnr3qJ6zqa9wyUcJOMNr0nQikc7ggsAx/TCtWXQQ2mPbS55c1DwOo8Viw==;rq3AmOwa06nACQewgPSfnQ=="
+secured: "hTV4ka8tTvhP8HkStFnDwbAdHuZq/uVIXLH7N5fFVlxVT+3CjD9e/80dXNzP9unJeEu7y00aZAxFrO+U+qjhbGE5sA6x0ZdEmBxErMqToyBzOnuy5aAPU19KtYbjITZNc9w1Rj/xZLK40QoVx+uFofi91b4zgTSir/qaaDenXOvuvlE40x4oDHjYLpTZ08fGXGVyTa4rab1y0O0PQ//tPd+YiGeL+1CJTAj3TqME6k/TKiOtK1kWxQbXephDImZUcV8/T6VspQWdIgiM0AtUAJmynDoLilrP2Za8zBraMuC+fFy7+8Yk7Kyaae/q5CPm2sday/FCncAqZu4MVL5NeKSPkA2gaJfeIzf26b0mc8A=;nFx8N5EnaaHQbl6NlqteaQ=="
 ---
 

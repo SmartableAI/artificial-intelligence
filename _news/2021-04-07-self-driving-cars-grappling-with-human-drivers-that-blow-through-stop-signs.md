@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 833
         isCached: true
-  - title: "Perfecting self-driving cars: Can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind ..."
-    publishedDateTime: 2021-04-07T12:47:00Z
-    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-04-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/perfectingse.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
     excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
     publishedDateTime: 2021-04-08T11:36:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2021/4/8/selfdrive.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
+    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
+    publishedDateTime: 2021-04-10T18:01:00Z
+    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 36
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Inside the self-driving car of the future"
     excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."

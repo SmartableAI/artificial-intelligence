@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-21-strong-competition-in-booming-ai-infrastructure-market.md",
+      "title": "Strong Competition in Booming AI Infrastructure Market",
+      "excerpt": "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-20T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-the-future-of-driverless-cars-is-now.md",
       "title": "The future of driverless cars is now",
       "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male ...",
@@ -1152,58 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud.md",
-      "title": "IBM’s Rob Thomas details key AI trends in shift to hybrid cloud",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. The last year has seen a major spike in the adoption of AI models in production environments, in part driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-e1616161696853.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "publishedDateTime": "2021-03-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

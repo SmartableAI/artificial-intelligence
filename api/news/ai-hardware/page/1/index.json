@@ -210,7 +210,7 @@
       "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -303,49 +303,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers.md",
-      "title": "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers",
-      "excerpt": "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
-      "originalUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1486,6 +1443,49 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-how-are-gpus-going-to-change-your-working-world-its-ai-everywhere.md",
+      "title": "How Are GPUs Going To Change Your Working World? It’s AI, Everywhere",
+      "excerpt": "SPONSORED Mention GPUs these days, and you will naturally think about how they can accelerate the most challenging AI and machine learning workloads as",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
+      "publishedDateTime": "2021-03-30T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

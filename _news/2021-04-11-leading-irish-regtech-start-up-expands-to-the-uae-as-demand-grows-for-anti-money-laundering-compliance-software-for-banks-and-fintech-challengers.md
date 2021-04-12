@@ -43,6 +43,47 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "How To Become A Fintech Market Participant"
+    excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
+    publishedDateTime: 2021-04-08T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
+    excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
+    publishedDateTime: 2021-04-11T11:04:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+  - title: "Why PayPal Is Winning The Fintech War"
+    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
+    publishedDateTime: 2021-04-10T16:09:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
+        width: 936
+        height: 446
+        isCached: true
   - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
     excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
     publishedDateTime: 2021-04-07T13:30:00Z
@@ -89,19 +130,19 @@ related:
         width: 600
         height: 468
         isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 pc growth"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T12:27:00Z
-    webUrl: "https://www.malaysiasun.com/news/268517105/angel-broking-rides-fintech-wave-to-record-127-pc-growth"
+  - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
+    excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
+    publishedDateTime: 2021-04-07T16:02:00Z
+    webUrl: "https://www.autoremarketing.com/autofinjournal/ids-set-acquire-white-clarke-group-forming-global-fintech-firm"
     type: article
     provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
+      name: Auto Remarketing
+      domain: autoremarketing.com
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1617798923.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.autoremarketing.com/sites/default/files/AR2103_AFJcvr.jpg"
+        width: 3131
+        height: 3750
         isCached: true
   - title: "Angel Broking Rides Fintech Wave to Record 127 Percent Growth in Client Base"
     excerpt: "One of India’s leading digital stock broking company, Angel Broking, is adding a new chapter to its decades-old journey as a financial services company. Having achieved several awards, accolades, and growth through digital transformation in the previous decade,"

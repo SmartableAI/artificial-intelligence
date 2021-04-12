@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
-      "title": "In an AI world we need to teach students how to work with robot writers",
-      "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
-      "publishedDateTime": "2021-04-09T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-the-3-most-interesting-ai-and-robotics-stocks-today.md",
       "title": "The 3 Most Interesting AI and Robotics Stocks Today",
       "excerpt": "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade.",
@@ -1001,7 +957,7 @@
       "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1231,6 +1187,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-facial-recognition-for-covid-vaccination-what-about-data-privacy.md",
+      "title": "Facial Recognition for COVID Vaccination: What About Data Privacy?",
+      "excerpt": "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
+      "publishedDateTime": "2021-04-08T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

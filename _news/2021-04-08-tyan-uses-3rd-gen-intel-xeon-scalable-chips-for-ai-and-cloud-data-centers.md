@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalabl
 webUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: insideHPC
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers"
-    excerpt: "TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration,"
-    publishedDateTime: 2021-04-07T12:43:00Z
-    webUrl: "https://insidehpc.com/tag/3rd-gen-xeon/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
   - title: "Alation Delivers Cloud-Based Platform for Data Intelligence"
     excerpt: "Alation Inc., a leader in enterprise data intelligence solutions, today launched Alation Cloud Service, a comprehensive cloud-based platform for data intelligence. Alation Cloud Service offers a simple,"
     publishedDateTime: 2021-04-07T13:30:00Z

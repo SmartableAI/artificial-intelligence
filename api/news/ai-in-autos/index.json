@@ -499,6 +499,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks.md",
+      "title": "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks",
+      "excerpt": "(Reuters) - Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu-idUSKBN2BT0AH",
+      "originalUrl": "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu-idUSKBN2BT0AH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT0AH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT0AH",
+      "publishedDateTime": "2021-04-05T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
       "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
@@ -1389,58 +1432,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
-      "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
-      "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
-      "originalUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

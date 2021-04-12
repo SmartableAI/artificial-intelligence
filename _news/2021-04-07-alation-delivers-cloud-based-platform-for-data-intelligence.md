@@ -39,15 +39,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers"
-    excerpt: "TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration,"
-    publishedDateTime: 2021-04-07T12:43:00Z
-    webUrl: "https://insidehpc.com/tag/3rd-gen-xeon/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
 
 secured: "p3xl80fZNKz0VxlPFuECSqGy8fEx9BxvywmrU8OmJOxNIGhLxpM7hiscH/2VDryWtyI+j92vVNyinm0OCQsuFQQ7SFAGnrFT9dT/uEjrjMTcZhWCXiZ8yIqvO2L1gCR1H+4tyv5SzwYMCYtEMGVPPpTKW1P3ranrkQoNvbP/pYT5EsCSKFEdy4InaSUZvxuIausSg5EkrBcSBoML6/Y06LS4l3fQ44Qr7hjyaV/Yg92Fkf0bwBYNEwtRC66zNsD94cnbBrphuaNRXdrV3UZe/nmx5YlYWext8fQ8SmhcVFvTgbQ18rRcIMhCrZL7km2QCx90+LWLehLiYesVq8tYoUbZXSI1m9JZxcQ9ZC9B5C0=;5Nu8X6hf121YE36zhGj2Lg=="
 ---

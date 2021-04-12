@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-25-former-google-ceo-gives-150m-for-research-in-biology-ai.md",
+      "title": "Former Google CEO gives $150M for research in biology, AI",
+      "excerpt": "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
+      "originalUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
+      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
+      "publishedDateTime": "2021-03-25T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
       "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
       "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
@@ -1096,40 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-which-cars-have-self-driving-features-for-2021.md",
-      "title": "Which Cars Have Self-Driving Features for 2021?",
-      "excerpt": "As it turns out, making the final leap to full autonomy — self-driving on any road at any time — remains tantalizingly out of reach both for engineers and safety regulators. And despite all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
-      "originalUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
-      "cdnAmpWebUrl": "https://www-cars-com.cdn.ampproject.org/c/s/www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
-      "publishedDateTime": "2021-03-24T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cars.com",
-        "domain": "cars.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

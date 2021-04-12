@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral"
+    excerpt: "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app."
+    publishedDateTime: 2021-04-12T05:44:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/12/06/41638292-0-image-a-92_1618205309826.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "The NYPD used a controversial facial recognition tool. Here’s what you need to know."
     excerpt: "Newly-released emails show New York police have been widely using the controversial Clearview AI facial recognition system—and making misleading statements about it. It’s been a busy week for Clearview AI, the controversial facial recognition company ..."
     publishedDateTime: 2021-04-09T09:01:00Z

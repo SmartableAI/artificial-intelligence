@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
     excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-04-08T12:13:00Z

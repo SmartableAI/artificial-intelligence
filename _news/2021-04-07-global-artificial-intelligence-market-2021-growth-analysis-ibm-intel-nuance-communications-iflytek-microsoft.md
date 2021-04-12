@@ -335,15 +335,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-    publishedDateTime: 2021-04-07T12:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
+  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
+    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
+    publishedDateTime: 2021-04-12T05:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 41
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report-2021-04-12.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "PEwnJdOXhIbKVyAQ9TkJvFoMwwf8lI8ec6368CPg8rl20EAQZEmgMGuVARTFXa+/PWGrxhZA2+Pc43r+9ARIMDaaH//gQIdiZcIJA/VgNH7WrMuf97gyKaXr7DRgJ0Ywf/i6ZQWPnk5tFQZu8caOe3NazJLFAJq/lmFWC6BkeENPkeDNajINWu4KLdJguAURlIjsb9GWq0IMtlWKyZJLIXXY6BTFGBZ8sxdVm4hFMxzYOMoCKQILqSx37/w4Rk8/co5Os4FJ5biU0F0OW7xK/6QFjD2MpWsBTZtfH305VzU5TT4uM/KBy7QIs5m4kaK2jzdLoQTPIXMMlzW8imrkfZa6JMt5sFV3Xc4WcYHmpLyV8lK+CDHYNzEPzgu/VcuaT9ilrWCg+8QidptdJiFzsKqYBXrIIaZmFTIkU8BvZpcIflS0j8B6MXNeHuybnjKelVv8lfiTIOedGvZvShAhHJXWYt47GtqtcwztD9GeyQFLKNmofJK6rIwDQEoPcAH/PxKsCWOFkBk3HwK7ZQ0/QQ==;JO7mZ7MNoyzo9MH4c4Ms3Q=="
 ---

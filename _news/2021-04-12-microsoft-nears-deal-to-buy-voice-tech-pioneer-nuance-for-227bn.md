@@ -322,6 +322,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
+  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
+    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
+    publishedDateTime: 2021-04-12T05:47:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 41
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report-2021-04-12.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
     excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
     publishedDateTime: 2021-04-07T13:09:00Z
@@ -336,15 +350,6 @@ related:
         width: 5000
         height: 2661
         isCached: true
-  - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
-    excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
-    publishedDateTime: 2021-04-07T12:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management-301264100.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
 
 secured: "JD9pLKONPM5VEzZKVHAYO5J86gYFcjrxdlQ+mqMRGzjcuHXVoTjMo306rQ5g7eIYevaBLZfkPEQkor2BszXUpWe0RiEN6vTeKfclWx+cUZV37QvmNxX7J8lPV7No8DkHxnAYrhUfZCYV0eZoYfXyRx5IFPzuF0MNcsx8MI1QqqdgRoAwZI1rfOgOc4r3FDxrG/LS6XelGEvqJZWZe8Up+K1BH/T6Uatkj6UejdH7a6tFMxRULyRH1KPq3Yh/RKl43NFGhoY965QVvqxYDwh1czo/vV+oeFQisDPo4uLh7zbjCFgwr/zSG8Hri0D/tf4xjQ5fiORv57BV/IYNyCpC7JkM65Ljz5hSQ46to4K1qhY=;uGkszSz37dJxgyw89R0G3g=="
 ---

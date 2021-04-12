@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "What’s next in AI-assisted governance, risk and compliance"
-    excerpt: "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,"
-    publishedDateTime: 2021-04-07T13:00:38Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/"
+  - title: "To the rescue: AI crucial for businesses amid pandemic"
+    excerpt: "Increasing customer service demands during the pandemic period have prompted broader implementation and usage of artificial intelligence robots, which have proven ... their projects and ventures from the start of the pandemic have actually taken critical ..."
+    publishedDateTime: 2021-04-09T12:57:00Z
+    webUrl: "https://www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic"
+    ampWebUrl: "https://www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic/amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png"
-        width: 2000
-        height: 1006
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/04/09/thumbs/800x531/106744.jpg"
+        width: 1599
+        height: 1062
         isCached: true
 
 secured: "qAOga3bsCTvz/ghvaSu+GOEloZq7CHL4TwWp92NESqBy7KIGon/WSZOCdwMwdQSqFeGWtErL4/OlGniD9AlBhTWazu/OxWqpCcvCxuxvwPs1q50heCExZP27iA7EMf+m5GhGV6dYWnvepGH3agKTp9mwl85Ojc7waD0P82GPC9S3a+GTyRFJy0a6wJimFDw1y6N79sCTwZtAJlQTMc+ue2b8DZ/EHcnSII3KJm752GEwhPxqVUFMnIMlKDtLqPCVwzjImylJNiMMYQ+uoM/gu6oAeVTvg9KNYuSeWfDKVIL0JOMfjwOpFHPdbe5Sb7jJ2/SrVa/xwlMljpjUuOC1mwh0qCsv95Jla+elNHEf9Y4=;ubMQcY1V3SHgf5UnQNdfhg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Securiti Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "--(BUSINESS WIRE)--#AI--Securiti, the leader in AI-powered Data Privacy and Security, today announced it was selected for the fifth annual AI 100 ranking of the 100 most promising private artificial ... [General]Kindred Healthcare and OSF HealthCar.."
-    publishedDateTime: 2021-04-07T13:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=448630"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 40
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "SentinelOne Named to the CB Insights AI 100 List For Second Consecutive Year"
     excerpt: "SentinelOne, the autonomous cybersecurity platform company, today announced the company was named to the annual CB Insights AI 100 ranking for the second consecutive year, showcasing the 100 most promising private artificial intelligence companies in the world."
     publishedDateTime: 2021-04-07T13:16:00Z

@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-15-eight-ways-companies-can-leverage-ai-in-content-marketing.md",
+      "title": "Eight Ways Companies Can Leverage AI In Content Marketing",
+      "excerpt": "While AI hasn't yet fully developed the creative intelligence to build content from scratch, it still offers enterprises a way to improve their content marketing. Insights generated from data as well as openly sourced information from the wider internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/03/15/eight-ways-companies-can-leverage-ai-in-content-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/03/15/eight-ways-companies-can-leverage-ai-in-content-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fbc4bccaaab4e890ff940%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-enterprise-workflow-automation-startup-deepseeai-raises-226m.md",
       "title": "Enterprise workflow automation startup DeepSee.ai raises $22.6M",
       "excerpt": "DeepSee.ai, an enterprise workflow automation platform ... “In only the way a startup could, we managed to find innovation in that constraint and developed a tool for training across small ...",
@@ -1101,49 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
-      "title": "Items filtered by date: March 2021",
-      "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/img/images/Enea/npb.jpg",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

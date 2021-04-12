@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
 type: article
 quality: 65
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Healthcare Market Competitive Landscape, Research Methodology, Business Opportunities, Statistics and Industry Analysis Report by 2027"
-    excerpt: "The report evaluates the global market consumption rate in terms of value and volume and focuses on the key regions/countries dominating the global AI in healthcare market. The report methodically profiles the key players in the AI in healthcare market,"
-    publishedDateTime: 2021-04-07T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-competitive-landscape-research-methodology-business-opportunities-statistics-and-industry-analysis-report-by-2027-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

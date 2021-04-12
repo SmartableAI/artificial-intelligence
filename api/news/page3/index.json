@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-08-facial-recognition-for-covid-vaccination-what-about-data-privacy.md",
-      "title": "Facial Recognition for COVID Vaccination: What About Data Privacy?",
-      "excerpt": "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
-      "publishedDateTime": "2021-04-08T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
       "title": "The 4 key elements missing from your conversational AI strategy",
       "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
@@ -105,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -303,7 +260,7 @@
       "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -355,7 +312,7 @@
       "originalUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -605,7 +562,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1006,49 +963,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers.md",
-      "title": "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers",
-      "excerpt": "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
-      "originalUrl": "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-start-up-backed-by-james-murdoch-launches-ai-platform-for-virtual-artists.md",
       "title": "Start-Up Backed by James Murdoch Launches AI Platform for Virtual Artists",
       "excerpt": "a start-up whose investors include James Murdoch’s Lupa Systems, on Wednesday unveiled the launch of an artificial intelligence-powered virtual artist platform for music, gaming and streaming applications. The \"creative AI company\" said the proprietary ...",
@@ -1235,6 +1149,110 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-doctorate-programme-prepares-leaders-for-a-fintech-future.md",
+      "title": "Doctorate programme prepares leaders for a FinTech future",
+      "excerpt": "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/04/07/campus_0089_1.jpg?itok=VeyU3Y8V",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
+      "title": "Streamlit nabs $35M Series B to expand machine learning platform",
+      "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open source ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -85,19 +85,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-04-07T12:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-07"
+  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
+    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
+    publishedDateTime: 2021-04-12T04:02:00Z
+    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
+        width: 683
+        height: 419
         isCached: true
   - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."

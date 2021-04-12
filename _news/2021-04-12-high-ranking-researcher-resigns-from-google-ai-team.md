@@ -57,15 +57,6 @@ related:
         width: 2048
         height: 1364
         isCached: true
-  - title: "High-ranking researcher resigns from Google AI team"
-    excerpt: "Google on Tuesday confirmed a leader of its artificial intelligence team has resigned in a departure that comes after the controversial firing of two colleagues."
-    publishedDateTime: 2021-04-07T11:38:00Z
-    webUrl: "https://guardian.ng/news/world/high-ranking-researcher-resigns-from-google-ai-team/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 19
 
 secured: "0wf72GaymB3M52oYoDp4r2DqfXtQ8YvGercifGFtJAlLRBI8m6FJtSQ/zBJpEdQGlbC15BqZ/Y0QEAr7PZxfmyZhOWqYFlXZB1fBiQ6kyKSZblLFT6e08rgeUlHjzmEIZ6e0FTOp4qDfcomZYeXGqJD0GsvIYq+Y132/+cVIqg+xjgtMtWkD9k+5wfmVn5eRtGu22bh9pz/0GPMhkw6wVGIJX2a/FOj4n+rbd9cPVEabNs3T8XmqfXXXTcWP7gzq5hP7WF8OYmtszm8+QYbWVXtTSEmJDLjoeERyKPHEs9shwfbLuVcOaM6g6fC74ZYd/YlpsaIDd7Y1dk0PJhvpn9AY8qsmcQuJkoFIjWDuvWM=;4N2WjEkkgs7RtBjpUWq3VQ=="
 ---

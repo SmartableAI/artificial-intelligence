@@ -2,6 +2,58 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
+      "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
+      "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh",
+          "width": 5128,
+          "height": 2881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
+      "publishedDateTime": "2021-02-02T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors.md",
       "title": "Radiological Analysis Leveraging Artificial Intelligence Is Moving Past Pure Identification Of Tumors",
       "excerpt": "In the medical area of lung health, there is significant movement past the early success of AI for identification of objects in radiological images, into machine learning for more high level analysis for identification,",
@@ -1138,59 +1190,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-this-month-in-aws-machine-learning-january-edition.md",
-      "title": "This month in AWS Machine Learning: January edition",
-      "excerpt": "Hello and welcome to our first “This month in AWS Machine Learning” of 2021! Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-january-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/January-Edition-01.jpg",
-          "width": 801,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T15:06:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

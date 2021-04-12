@@ -10,7 +10,7 @@
       "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -347,59 +347,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare.md",
-      "title": "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare",
-      "excerpt": "This technology could reduce that to weeks if not days. It won't be the first time the two institutions have partnered on AI. They previously worked together using IBM's Watson to assist physicians and help guide care across a patient's entire journey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "publishedDateTime": "2021-04-10T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1230,6 +1177,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
+      "title": "In an AI world we need to teach students how to work with robot writers",
+      "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "publishedDateTime": "2021-04-09T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

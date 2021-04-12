@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-03-08-gender-bias-in-artificial-intelligence.md",
+      "title": "Gender bias in artificial intelligence",
+      "excerpt": "To mark International Women's Day, the General Secretariat of the Council invited Malvina Nissim, Professor of Computational Linguistics at the University of Groningen, to give a lunchtime talk. Accompanying this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/gender-bias-in-artificial-intelligence/?filters=1506",
+      "originalUrl": "https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/gender-bias-in-artificial-intelligence/?filters=1506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consilium.europa.eu/media/48736/equality.png",
+          "width": 800,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europa",
+        "domain": "europa.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna.md",
       "title": "Nvidia, Harvard researchers use AI to find active areas in cell DNA",
       "excerpt": "Using a new deep learning toolkit called AtacWorks, researchers are studying how diseases and genomic variation influence specific types of cells in the human body.",
@@ -1169,57 +1212,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
-      "excerpt": "The technology sector has been hit hard as of late, as the impending economic reopening has gotten more attention, and rising long-term bond rates have hit growth stocks particularly hard. As rates go up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616516%2Fgettyimages-1163715561.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "publishedDateTime": "2021-03-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
