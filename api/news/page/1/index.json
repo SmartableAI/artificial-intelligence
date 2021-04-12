@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-how-ai-could-upgrade-brain-stimulation-therapies.md",
+      "title": "How AI Could Upgrade Brain Stimulation Therapies",
+      "excerpt": "Some scientists are even using advanced AI predictive technology to enhance their brain stimulation therapy methods. The idea of brain stimulation is not new and carries with it the cultural ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788",
+      "originalUrl": "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hpjtmbgytsmwrtx1bkyd.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788/amp",
+      "publishedDateTime": "2021-04-12T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-the-future-of-smart-cities-utilities-powering-progress-with-ai.md",
+      "title": "The Future Of Smart Cities’ Utilities: Powering Progress With AI",
+      "excerpt": "Optimizing a municipality’s strategy behind the entirety of its utility operations is one of the major keys to creating a “smarter city” and a more sustainable environment overall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7bff27f61977148c37a4b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "publishedDateTime": "2021-04-12T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
+      "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 527,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607440023e3fe7001882a117?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "publishedDateTime": "2021-04-12T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot.md",
+      "title": "Chinese robotics firm unveils AlphaDog, a cheaper alter ego to Boston Dynamics’ Spot",
+      "excerpt": "There is a growing preference for robopets which are robots using artificial intelligence (AI) to perform sometimes extraordinary tasks. US-based firm Boston Dynamics is a leading light in robotics, with its famous robotic dog called Spot. A Chinese tech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/04/12/chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot/",
+      "originalUrl": "https://www.gizmochina.com/2021/04/12/chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/alphadog-1_resize_md.jpg",
+          "width": 744,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-why-predictive-cash-flow-data-is-the-future-of-small-business-lending.md",
       "title": "Why Predictive Cash Flow Data Is The Future Of Small Business Lending",
       "excerpt": "With machine learning becoming common in every industry, it’s unsurprising that it can be used to predict more and more about a business’s potential cash flow. To extend the earlier metaphor, predictive cash flow data is like driving a car and knowing ...",
@@ -54,6 +261,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla.md",
+      "title": "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla",
+      "excerpt": "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
       "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
       "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
@@ -62,7 +321,7 @@
       "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -166,7 +425,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -206,59 +465,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-in-advanced-talks-to-buy-speech-tech-firm-nuance-communications.md",
-      "title": "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications",
-      "excerpt": "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
-      "originalUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "publishedDateTime": "2021-04-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -389,6 +595,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
+      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
+      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -843,58 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-10-microsoft-open-sources-tool-to-use-ai-in-simulated-attacks.md",
-      "title": "Microsoft open sources tool to use AI in simulated attacks",
-      "excerpt": "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/",
-      "publishedDateTime": "2021-04-09T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-10-ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai.md",
       "title": "AI Weekly: Continual learning offers a path toward more humanlike AI",
       "excerpt": "And we do this completely for free, for anyone.” Even highly sophisticated deep learning algorithms can experience catastrophic learning or catastrophic interference, a phenomenon where deep ...",
@@ -1041,194 +1248,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-how-artificial-intelligence-is-being-used-to-streamline-training.md",
-      "title": "How Artificial Intelligence is Being Used to Streamline Training",
-      "excerpt": "DeepHow AI's digital workforce training platform makes developing and distributing multimedia educational content more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform",
-      "originalUrl": "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/GettyImages_1225807222__.6070a8c78e61e.png?auto=format&fit=max&w=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
-      "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
-      "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/",
-      "originalUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/04/17447102w.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/amp/",
-      "publishedDateTime": "2021-04-09T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-global-adas-market-size-share-2020-impressive-industry-growth-report-2026.md",
-      "title": "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026",
-      "excerpt": "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620885%2Fartificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2021-04-09T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

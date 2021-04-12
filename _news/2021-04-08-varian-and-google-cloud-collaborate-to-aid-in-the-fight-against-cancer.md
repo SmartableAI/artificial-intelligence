@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Varian (VAR) Inks Deal With Google Cloud to Boost Cancer Care"
+    excerpt: "Varian Medical Systems, Inc. VAR recently partnered with Google Cloud to develop an advanced artificial intelligence (AI) based diagnostic platform to lend support to the battle against cancer. Varian and Google Cloud AI have undertaken a deployment endeavor,"
+    publishedDateTime: 2021-04-12T12:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/varian-var-inks-deal-with-google-cloud-to-boost-cancer-care-2021-04-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Varian partners with Google Cloud to build AI models to streamline cancer treatment"
     excerpt: "Using the Google Cloud AI Platform’s Neural Architecture Search technology, Varian will input its own repository of imaging data to create and “train” models that can automatically perform organ segmentation on diagnostic images."
     publishedDateTime: 2021-04-09T11:48:00Z

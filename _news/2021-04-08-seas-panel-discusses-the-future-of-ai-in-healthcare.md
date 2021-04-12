@@ -7,7 +7,7 @@ originalUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-a
 webUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-ai-in-healthcare/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered virtual assistants and the future of work"
-    excerpt: "I was recently connected with Jim Kaskade, CEO of Conversica, a company that has spent the last 14 years perfecting its AI-based virtual assistants for enterprise marketing, sales, and customer success teams. \"Liza, can you tell me how sales are ..."
-    publishedDateTime: 2021-04-07T20:16:00Z
-    webUrl: "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
+  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
+    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
+    publishedDateTime: 2021-04-12T12:57:00Z
+    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg"
-        width: 1280
-        height: 856
-        isCached: true
-  - title: "The Future Of Work: How AI Is Changing The Time Management Game For Executives"
-    excerpt: "AI are developing at record speeds, especially in the remote work and work productivity sectors. Executives are leaning on AI to enhance or support new remote work routines."
-    publishedDateTime: 2021-04-08T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/"
-    ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e183174aaf063be2df695%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
         isCached: true
 
 secured: "MuZK18cIMgVkr00USIUOuioG+v/Jxf/Fwr0l5gMyyJ40X56z7E7F9rn7kfKOyJ72mM7CIBsb3Lto2Ihi5ZrIDngHJgMVL+znh91cihaatr2F26P5M+aCuyWr8TvbPRGtcfms/wGbBojRVm3p0fVRhpgbqxBGJlstMPxGX4eghf9gBwqRm2HSSbsJ3Qf8IUpjZsYAKPywufI+FvmLGy+cqGcAljCnGOLUL3+8dk/zTMi0o55vwoOc0Qz0SA5aTc5JUmnO3O0LmL32X1J+rwfSNSEL+sS94Vi28Kt1BNC/moYspu20gOd1nyt4TmVID8MOADEV88rkXMWxgqVlY/D7fUKcpjDN/GOAssgEZa9wZKxMCPGKfQWZJiYBJXhLJLKweHHbu9pqcK/qBtKlNinzZRmytnDsDPxb2YzXz9tFMg5Wsbig7LwMFP22sPGDWAZ8EVLC95qGQmZ1bmR/NM7lRaFOoYo6D/obGbQvdBeZnVzQtIDDL0FyRbdBKkCU8PfBavzmPzkdN9KZyVnZLC7Cqg==;fYM9OdvmBzl3A65S4O+6OQ=="

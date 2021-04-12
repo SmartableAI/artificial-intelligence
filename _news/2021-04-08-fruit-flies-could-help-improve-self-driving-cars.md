@@ -139,6 +139,20 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
+    excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
+    publishedDateTime: 2021-04-12T13:02:00Z
+    webUrl: "https://communitynewspapers.com/biscayne-bay/reef-technology-cartken-announce-arrival-of-self-driving-delivery-robots/"
+    type: article
+    provider:
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 23
+    images:
+      - url: "https://i1.wp.com/communitynewspapers.com/wp-content/uploads/2021/04/REEF-Technology-1655-featured-min.jpg?fit=640%2C480&ssl=1"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "s9oyhQgA8wHcyOvr4F6MDayyTfJkyya4rT7nEg/a1wkQ7mx3YmRaPJCEMNwdE1QaeDsTrx/QPCfoQ1XHYE9OtQPXo1cb5zG3BDwxBam4s36DYeC6ZLfDdHxp/5cXXU4y+eFUUF2U7ztbXuDD+mMx4ljra8T+0fluRPs+MsHeNOqc7ScCX0PFc7k9P0JZ7F5scy+Gt0QsOMI4nJtvHAS2OeYm1gQl1T+xrUVkT3Y/vX/7Lk0MAf7sedNjgu1uczdHIv+ZL+l5YZPUXCIESo1eEg+UVBIpawJAY0It7pxJs1E9kkldVMndNMg/8tMRMmJCN7/T/oG0heW3L2nv7vdNl9UqamQzMte64hrpVwChL74=;qYFrgfQrXrqR3sB0ya+0RQ=="
 ---

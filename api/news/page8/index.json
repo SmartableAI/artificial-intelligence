@@ -2,6 +2,257 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
+      "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
+      "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "originalUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/77de6537-fdd7-5de4-8b4e-cdc36e7ed04a/default-1617617681-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
+      "publishedDateTime": "2021-04-05T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
+      "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
+      "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606777a29b21937828c0c223%2F0x0.jpg",
+          "width": 1200,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
+      "publishedDateTime": "2021-04-05T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-six-lessons-learned-from-running-an-ai-company-during-a-pandemic.md",
+      "title": "Six Lessons Learned From Running An AI Company During A Pandemic",
+      "excerpt": "With necessity being the mother of invention, we have adapted to this “new normal” and have emerged stronger than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6067752a3134066730d8fe4e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/amp/",
+      "publishedDateTime": "2021-04-05T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028.md",
+      "title": "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028",
+      "excerpt": "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-7-ways-the-cloud-is-changing.md",
+      "title": "7 ways the cloud is changing",
+      "excerpt": "Computing without servers? Programming without code? Let’s ponder these and other innovations in the constantly evolving cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "publishedDateTime": "2021-04-05T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
       "title": "SKorea’s LG to exit loss-making mobile phone business",
       "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
@@ -956,267 +1207,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
-      "title": "An artificial intelligence tool that can help detect melanoma",
-      "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://stm.sciencemag.org/content/13/581/eabb3652.abstract",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg",
-          "width": 1400,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-seattle-area-ai-startup-darklight-raises-51m-to-help-companies-automate-cybersecurity-tasks.md",
-      "title": "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks",
-      "excerpt": "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "originalUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "publishedDateTime": "2021-04-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-build-a-cicd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services.md",
-      "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg",
-          "width": 800,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:06:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-steps-down-replaced-by-two-co-ceos.md",
-      "title": "Waymo CEO John Krafcik steps down, replaced by two co-CEOs",
-      "excerpt": "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "originalUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BpqqzSlbGMXZmST7t058Qp7ETkU=/0x0:2040x1360/1400x933/filters:focal(714x153:1040x479):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69067594/akrales_180327_2419_0161.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "publishedDateTime": "2021-04-02T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip.md",
-      "title": "Pixel 6 will reportedly debut Google’s Apple-inspired Whitechapel chip",
-      "excerpt": "Google’s new Pixel phone is expected to switch to a homegrown processor chip known as Whitechapel, sources claim, as what’s expected to be the Pixel 6 takes a page out of Apple’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/",
-      "originalUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/google-pixel-5-21.jpg",
-          "width": 1500,
-          "height": 938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/amp/",
-      "publishedDateTime": "2021-04-02T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

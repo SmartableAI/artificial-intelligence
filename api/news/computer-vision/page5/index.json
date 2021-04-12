@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-23-continental-invests-in-object-recognition-startup.md",
+      "title": "Continental invests in object recognition startup",
+      "excerpt": "The startup is working on a new chip architecture for object recognition in real time based on artificial intelligence, Continental said on Tuesday in a statement. The supplier said it expects the ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "originalUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Continental%20grille%20web_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group.md",
       "title": "Global Face Recognition Device Market Business Opportunities and Challenges Report 2031| Cloudwalk, Aurora, Insigma Group",
       "excerpt": "Feb 22, 2021 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Face Recognition Device market for the forecast year 2022-2031, which is ...",
@@ -1287,49 +1330,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge.md",
-      "title": "IOTech edge software platform to support Computer Vision and AI at the IoT edge",
-      "excerpt": "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
-      "originalUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
-      "publishedDateTime": "2021-02-11T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -131,6 +131,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
+    excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
+    publishedDateTime: 2021-04-12T13:02:00Z
+    webUrl: "https://communitynewspapers.com/biscayne-bay/reef-technology-cartken-announce-arrival-of-self-driving-delivery-robots/"
+    type: article
+    provider:
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 23
+    images:
+      - url: "https://i1.wp.com/communitynewspapers.com/wp-content/uploads/2021/04/REEF-Technology-1655-featured-min.jpg?fit=640%2C480&ssl=1"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Fruit flies could help improve self-driving cars"
     excerpt: "With over 70% of respondents to a AAA annual survey on autonomous driving reporting they would fear being in a fully self-driving car, makers like Tesla may be back to the drawing board before rolling out fully autonomous self-driving systems. But new ..."
     publishedDateTime: 2021-04-07T23:59:00Z
@@ -141,6 +155,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "i9tp3jlVs4Iqxk2gm9sfhvznWzd6692FZKn8zoLTFLUCMWrsbnqn6SRtrzE38lcIalqG1hddQvbToPCGma14hujJXfmMThr8hxIbCBZgMqPqtU8cCZ4No5bjP245o496Z6Xy1AVVGmRmhb/YE1V8qf5D4q8BGNMzaXg05qoDXDq9N99oDfgGsF8eCRUSDf1ePMb4JOYBM/6D288IVj5DlWlUxnDgi4tqwv2H0EFjhEDtZwZcl4NwJJHq0xbebC+b6Lou0gmbF51WKAw3agtu9Ciwf6NMXpj5JsFrV9OYs5VFDwowhFy9LCQjTthUsmDux4+zXZBazFyPR0fGSFia5NmR2vz9RHnav+fW2twpOw0=;jlZP1A3qW8TNkl48/51z/Q=="
+secured: "LaWO7Nbv6r0XzKW50ISo73Ur5mHaqbl6U+AZ+0TD40raXmjbWk8M5jcbeLNG0MVmNxxIa2VhZSNj0k8j940gWJJoQGvB2swrJSzRM6Ggct1HYU2sKt9UJHmcZXXGBQ7DuM1T3yzlml+CrKNcG45DnDUqAJNrPz7qns2355VYKQ2ljGugYkUj9EhcjDn+qJKfAMz8NbzC0T9DaEHgZZm9wpNDbNfln3ha/dliSZ0ENcvnw9WK2lg9dljGH7j2ZaCXy6AAPRqQ2yHtiri5qqc2ygJfWlLPNHF5rRWOShXfhvnk99v5DhnMN1TPZ9IwaxVpOrG1XcNsFKJvOijZqzd7crF8CVERW5Qy7psRSfR6Y285fLW7hq8p+wGaykxseX8Z7REzkLoHWICSU5+H0wY8WEQnTQ2wRUAFhuu0P0UMQWaxj+QFiCM2aRpHK0I8a/yXY2q5lKrexgxUj6C+jeLd7sp7fyXqwI4LShCQxML9bPt389ooi5RZrdeT6cMcMcM3yJ8BKQIbkGgexRvHk3ZkTw==;7e8U9yGLP8cVnEJQGyIbYQ=="
 ---
 

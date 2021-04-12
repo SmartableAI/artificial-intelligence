@@ -19,90 +19,95 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
-    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
-    publishedDateTime: 2021-04-12T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
+  - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
+    publishedDateTime: 2021-04-11T20:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
+    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
+    publishedDateTime: 2021-04-10T14:00:00Z
+    webUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
     quality: 66
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
-    publishedDateTime: 2021-04-10T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
+  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
+    publishedDateTime: 2021-04-08T13:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-19739313.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 63
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence Market Global Industry Analysis by Size, Share, Growth, Sourcing Strategy, Scope, Demand and Forecast to 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-04-08T09:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-analysis-by-size-share-growth-sourcing-strategy-scope-demand-and-forecast-to-2027-2021-04-08"
+  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
+    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
+    publishedDateTime: 2021-04-09T06:52:00Z
+    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
+        width: 800
+        height: 531
         isCached: true
-  - title: "Neural Network Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
-    excerpt: "Global “Neural Network Market\" 2021-2026 Research Report provides key analysis on the market status of the Neural"
-    publishedDateTime: 2021-04-09T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-04-09"
+  - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
+    excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
+    publishedDateTime: 2021-04-10T10:58:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm"
+    ampWebUrl: "https://futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
-    publishedDateTime: 2021-04-09T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+  - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
+    excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
+    publishedDateTime: 2021-04-09T03:23:00Z
+    webUrl: "https://www.openpr.com/news/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
+    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
+    publishedDateTime: 2021-04-08T14:09:00Z
+    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "PaK38Yqfpxo1ecr5eLXCSr3nwh/wEZDXNs+Xuvl9J02zp75NKONeUGjQNZRPAIOHFGHWi1br3vOCwCfK9VJRMaw+FVIQ/+RlFBYuhV+r8esV55WMsTf+YX5f7B9sXHHnd7zQJog81GdnOLbiQRdR3EO7JylNYgY6wiHldJpFj3ClFyJb/sdutibZ/rTvIFpq5Gz2YfjsmRq4QgC4cj+F4U0fEEkClguH3F/mi0ebtiCNCs2III2KWFIopmchXB1019/uoiXW/lGYMwBRCdGLmSgCYpnsAdkL/MyBL/3Y1Eo8ltxVetvTxk3HtaDE+MyTeI9070QIsTJcLW1+wJ9bapbFZcsSUOZPFkQlnbsghIs=;bzHSPyQXiNSoZD5pP7+eJw=="
 ---

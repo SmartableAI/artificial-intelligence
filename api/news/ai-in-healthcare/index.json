@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
+      "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 527,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607440023e3fe7001882a117?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "publishedDateTime": "2021-04-12T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-biosig-invited-to-join-alliance-for-artificial-intelligence-in-healthcare-aaih.md",
       "title": "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)",
       "excerpt": "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ...",
@@ -96,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1397,49 +1450,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-ai-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.md",
-      "title": "AI study on aggressive form of cancer could improve patient outcomes",
-      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "publishedDateTime": "2021-03-26T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

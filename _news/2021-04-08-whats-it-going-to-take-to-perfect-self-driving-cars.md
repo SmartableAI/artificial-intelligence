@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
         width: 765
         height: 446
+        isCached: true
+  - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
+    excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
+    publishedDateTime: 2021-04-12T13:02:00Z
+    webUrl: "https://communitynewspapers.com/biscayne-bay/reef-technology-cartken-announce-arrival-of-self-driving-delivery-robots/"
+    type: article
+    provider:
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 23
+    images:
+      - url: "https://i1.wp.com/communitynewspapers.com/wp-content/uploads/2021/04/REEF-Technology-1655-featured-min.jpg?fit=640%2C480&ssl=1"
+        width: 640
+        height: 480
         isCached: true
   - title: "Fruit flies could help improve self-driving cars"
     excerpt: "With over 70% of respondents to a AAA annual survey on autonomous driving reporting they would fear being in a fully self-driving car, makers like Tesla may be back to the drawing board before rolling out fully autonomous self-driving systems. But new ..."

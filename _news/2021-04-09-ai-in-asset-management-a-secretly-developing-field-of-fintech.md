@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Future Of Work: How AI Is Changing The Time Management Game For Executives"
+    excerpt: "AI are developing at record speeds, especially in the remote work and work productivity sectors. Executives are leaning on AI to enhance or support new remote work routines."
+    publishedDateTime: 2021-04-08T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/"
+    ampWebUrl: "https://www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shamahyder/2021/04/08/the-future-of-work-how-ai-is-changing-the-time-management-game-for-executives/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e183174aaf063be2df695%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Machine learning, AI making its way into clinical lab management"
     excerpt: "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and ..."
     publishedDateTime: 2021-04-08T15:16:00Z

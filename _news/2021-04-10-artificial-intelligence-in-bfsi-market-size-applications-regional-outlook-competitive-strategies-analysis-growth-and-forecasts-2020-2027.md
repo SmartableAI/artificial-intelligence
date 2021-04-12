@@ -142,6 +142,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
+    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
+    publishedDateTime: 2021-04-12T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Global Artificial Intelligence (AI) Chipsets Market 2020 Remarking Enormous Growth with Recent Trends & Demand"
     excerpt: "Amazon Web Services (AWS), and XMOS Limited among others. Request Free Sample Report of Artificial Intelligence (AI) Chipsets Market Report @ https://www.zionmarketresearch.com/sample/artificial-intelligence-chipsets-market According To The Report ..."
     publishedDateTime: 2021-04-08T09:20:00Z

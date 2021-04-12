@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-15-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
+      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+      "excerpt": "Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T was developed by researchers and engineers in the Google Brain team and a community of users ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/tensorflow/tensor2tensor",
+      "originalUrl": "https://github.com/tensorflow/tensor2tensor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/15658638?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-this-is-how-we-lost-control-of-our-faces.md",
       "title": "This is how we lost control of our faces",
       "excerpt": "Then, in 2014, Facebook used its user photos ... Amba Kak, the global policy director at AI Now, who did not participate in the research, says the paper offers a stark picture of how the ...",
@@ -1365,59 +1409,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence.md",
-      "title": "Amazon DevOps Guru is powered by pre-trained ML models that encode operational excellence",
-      "excerpt": "On December 1, 2020, we announced the preview of Amazon DevOps Guru, a machine learning (ML)-powered service that gives operators of cloud-based applications a simpler way to measure and improve an application’s operational performance and availability to reduce expensive downtime. Amazon DevOps Guru",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/02/ML-2395-3.jpg",
-          "width": 800,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T11:25:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

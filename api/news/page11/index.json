@@ -2,6 +2,258 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
+      "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
+      "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg",
+          "width": 630,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
+      "publishedDateTime": "2021-03-31T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
+      "title": "5 machine learning essentials non-technical leaders need to understand",
+      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
+      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-facebooks-feckless-fairness-flow-wont-fix-its-broken-ai.md",
+      "title": "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI",
+      "excerpt": "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/farinessflow-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/31/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai/amp/",
+      "publishedDateTime": "2021-03-31T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-using-artificial-intelligence-to-discover-new-drug-treatments-science-next.md",
+      "title": "Using Artificial Intelligence To Discover New Drug Treatments: Science Next",
+      "excerpt": "In the fields of medicine and pharmacology, drugs have historically been discovered either by identifying active ingredients from traditional remedies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "originalUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/6e23bb3/2147483647/strip/true/crop/1109x683+46+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrkf%2Ffiles%2F202103%2FAI_AVPs.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "cdnAmpWebUrl": "https://www-wrkf-org.cdn.ampproject.org/c/s/www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "publishedDateTime": "2021-03-31T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRKF",
+        "domain": "wrkf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "publishedDateTime": "2021-03-31T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download.md",
       "title": "Safety Pool Announces 100,000 Self-Driving Test Scenarios Ready For Download",
       "excerpt": "Self-driving teams, academics, and armchair roboticists should be able to build and contribute useful scenarios to the library. Every time there’s a car accident or an unusual situation it should go into the library. Then every car from every company can ...",
@@ -962,238 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising.md",
-      "title": "Windfall nabs $21M for AI that aids nonprofit fundraising",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Windfall, a startup developing an AI platform to help nonprofits engage donors, today raised $21 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-announces-new-chip-architecture-with-focus-on-security-and-ai.md",
-      "title": "Arm announces new chip architecture with focus on security and AI",
-      "excerpt": "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
-      "originalUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem.md",
-      "title": "Deepfake “Amazon workers” are sowing confusion on Twitter. That’s not the problem.",
-      "excerpt": "Ahead of a landmark vote that could form the first-ever labor union at a US-based Amazon warehouse, new Twitter accounts purporting to be Amazon employees started appearing, sowing confusion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
-      "originalUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/AP_21089718039308.jpg?w=1990",
-          "width": 1990,
-          "height": 1343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
-      "publishedDateTime": "2021-03-31T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
-      "title": "Self-driving truck startup Plus raises extra $220 million",
-      "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
-      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
-      "publishedDateTime": "2021-03-31T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-iot-is-transforming-healthcare.md",
-      "title": "How IoT Is Transforming Healthcare",
-      "excerpt": "As healthcare IoT makes more in-roads, there is greater potential for improved healthcare outcomes for the patient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063513d552b00e0d5276463%2F0x0.jpg",
-          "width": 1118,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

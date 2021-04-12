@@ -643,6 +643,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-idemias-facial-recognition-ranked-1-in-nists-latest-frvt-test.md",
+      "title": "IDEMIA’s Facial Recognition Ranked #1 in NIST’s Latest FRVT Test",
+      "excerpt": "COURBEVOIE, France--(BUSINESS WIRE)--IDEMIA’s facial recognition 1:N algorithm achieved best for accuracy in the latest Face Recognition Vendor Test (FRVT) from the National Institute of Standards and Technology (NIST) 1. IDEMIA today announced that its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
+      "originalUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
       "title": "U.S. Army looks to facial recognition access at bases",
       "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
@@ -1357,50 +1391,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-neural-network-knows-when-cat-wants-to-go-outside.md",
-      "title": "Neural Network Knows When Cat Wants To Go Outside",
-      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

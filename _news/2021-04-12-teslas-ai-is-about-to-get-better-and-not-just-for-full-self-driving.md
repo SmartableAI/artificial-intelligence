@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-se
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1360
         height: 765
         isCached: true
+  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
+    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
+    publishedDateTime: 2021-04-12T12:14:00Z
+    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 49
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
+        width: 600
+        height: 423
+        isCached: true
   - title: "Perfecting self-driving cars — can it be done?"
     excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
     publishedDateTime: 2021-04-12T11:06:00Z
@@ -93,7 +107,21 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
+    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
+    publishedDateTime: 2021-04-12T12:39:00Z
+    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
-secured: "qHTjbW0ZQhjOyHRilQjf/xMzxSKR1dQ5ZZp7S/wSJwXoUs6cPIJf0CMVdiHfxv+uiVQgF/r0+ODpSlx63SAvYDZ+Anq7mfyGrKnJ3Q1zOc5DLs+CyyH/D25BBO8Sw7wvhztlxmIoWGEsy/nsaRysyC8j4dnPmEtRHPKntP1ebIaMMK3i61uNQ9nhLT/yN4O+ag50cUyznZWruKh+DTypMaENP5TEab+Vi30AdXPgUGgBMeSdkrPW7GSsNBvLb0Ee+uasIQEo3WCmAuoe3F4ogIL9V95NsBWVyk4mr0wr9a9ZrO5fRiwuUSx39ayto0gEwytgnXaNnYXWZdvzRA3pRcCz0ScOZ7nIWIN9JXCYjVE=;ncQ2esqryS+vviYMByhd8A=="
+secured: "8vPUdIikAGbnN1BpLbrUIU2Q58SE3X+4tbdGEyDAcLvtM67vAgFU38/fiQ9VNwApIQcUiBQXmqCOpuONB3n89d4zfLTmHz/n8hdkWVdFbgrd5EaLRI02cvTDA9wd66/KCYIpjbUzrzdwvBFbW97bmJ6503MLBSqHhmH7UGFea9Kn1Y/NDzHNh3GSVv4Ngih5j4WzGFtFtRZusQGv2zfGjDD3zMXOODm/9grWqIJmQnZ0DKTi9QGPxDtH8wgIOp40KSLmfSfHrO4nNpm39n2mJ/JJ7b3n1BSxNmVno7FdbStA+VEX4Qy6nXyyfWdNsd97i51WktFuAXOcNuGPAu1kXRCbmbUic+wPHzC1ASsIGACs1DEAUF2IWirTfuQrPEi+0yLwIxuARn1liPgpDNzWlW0BBT7t82lxvFcK8pPJXrsLWQMv5OnMe617f1XwONTRtPQkclfB1baJTnBTydkYdnI1dpuFN0KVIXIPJ/aL4WQPPwgolTqlCEoY5rIt6Uvw9HNMv95AsLZ3fk5Pvlm/mw==;R0EDSPrKlRvjSIrL23ZpkA=="
 ---
 

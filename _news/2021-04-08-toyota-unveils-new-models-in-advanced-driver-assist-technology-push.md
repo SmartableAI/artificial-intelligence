@@ -2,35 +2,47 @@
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
 excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-publishedDateTime: 2021-04-08T10:13:00Z
-originalUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
-webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+publishedDateTime: 2021-04-08T07:21:00Z
+originalUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
+ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
 type: article
-quality: 74
-heat: 164
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
-    width: 817
-    height: 545
+  - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
+    width: 620
+    height: 348
     isCached: true
 
 related:
+  - title: "UPDATE 1-Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
+    publishedDateTime: 2021-04-09T09:15:00Z
+    webUrl: "https://cn.reuters.com/article/toyota-autonomous-idCNL1N2M107Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2M107Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2M107Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 71
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Toyota Mirai, Lexus LS show off Advanced Drive assists with OTA updates, AI"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle ..."
     publishedDateTime: 2021-04-08T13:34:00Z
@@ -164,6 +176,6 @@ related:
         height: 560
         isCached: true
 
-secured: "n4A7Oo+XzAEwmGEmrfVH94v3NW+uDxRjsYWcSVhktebvgNm+SBujHHTk7W7X1PwuhV1O4UGEeGC/RMMU/q/uMUn59q8BF6awAluUG0akX+DoJqUVBEsP3+rMpcNfIBxbjXAqM1edXMHDsFhC56hYun45uagIFNKDM1aduGZSEDpr1abUf5I7toYjHOa27RKmnmGIj1awZXeEDJxPUQxV9wGRNWWkp/5TMkyXOHLz6RQupxoOj40Z7LMxnOteZ2TMSGMrHm0W9wJPgaKvbyIWAKdORcrryrtbLxNJR4k7BSpTlfQEOZaKy2EkY0cXIKvk00aGkH3rbIdYQqnjb4nozRDtJAeNhAHoazEk1xY2MGw=;MSJGVLAGtImAZiMuhV4nIg=="
+secured: "slrYhuqOPUmb8Y7j1gR1ofekV4L/vhamUr01+1ov91PADur2dhmHn807ycSUoh1NnDOuxRqKNH9m96f01FJw/8+tT6HNOP2x6eNmbutYoyOdP1aetrJYmVFppmGwcVNPNtnj/Y5Czr54N4ScaIDY1glxX0seBXos7Fn5nPRi2nd6A6J/+aEn0KHURkDZokrabRJRMc/MIf5VqIyULCqibC4ZbYud99cecoJgNkgRQNTSwH8fR89HRXrM/qbUmkvAbJTGiYVvbUdZJuWXANeSXT0ZOkY5L8LTzFZDiAJeiNo/izWD1zew5lCCBPwgBDkhFW1TfEThnu6+oSk5n1ka3eGwRQb41ddyFz7zPPQN4fE=;eCWpUUfT4uFk6wX8cGZCdQ=="
 ---
 

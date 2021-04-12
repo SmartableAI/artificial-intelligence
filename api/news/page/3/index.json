@@ -2,6 +2,263 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-08-improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws.md",
+      "title": "Improve operational efficiency with integrated equipment monitoring with TensorIoT powered by AWS",
+      "excerpt": "Machine downtime has a dramatic impact on your operational efficiency. Unexpected machine downtime is even worse. Detecting industrial equipment issues at an early stage and using that data to inform proper maintenance can give your company a significant increase in operational efficiency. Customers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/image-15.jpg",
+          "width": 800,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T10:35:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-us-spy-agencies-warn-of-threats-from-digital-currency-to-ai.md",
+      "title": "U.S. Spy Agencies Warn of Threats From Digital Currency to AI",
+      "excerpt": "The U.S. intelligence community predicts an increasingly leaderless and unstable world in the coming decades as trends such as artificial intelligence, digital currencies and climate change reshape the global arena, according to the National Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iexSk_KE7Df0/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mlops-startup-comet-raises-13m-to-launch-model-monitoring-products.md",
+      "title": "MLOps startup Comet raises $13M to launch model monitoring products",
+      "excerpt": "MLOps startup Comet today announced that it raised ... (MPM), a product that enables organizations to track and monitor AI model quality. MLOps, or machine learning operations, encompasses the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
+      "originalUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
+      "publishedDateTime": "2021-04-08T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-klevu-raises-12m-for-ai-that-personalizes-ecommerce-search.md",
+      "title": "Klevu raises $12M for AI that personalizes ecommerce search",
+      "excerpt": "Klevu, a startup developing products that leverage AI to optimize ecommerce discovery experiences, has raised $12 million,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
+      "originalUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
+      "publishedDateTime": "2021-04-08T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-object-detection-with-detectron2-on-amazon-sagemaker.md",
+      "title": "Object detection with Detectron2 on Amazon SageMaker",
+      "excerpt": "Deep learning is at the forefront of most machine learning (ML) implementations across a broad set of business verticals. Driven by the highly flexible nature of neural networks, the boundary of what is possible has been pushed to a point where neural networks can outperform humans in a variety of tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T10:03:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies.md",
       "title": "CB Insights reveals 2021 cohort of 100 most-promising AI companies",
       "excerpt": "One way to gauge the deployment of artificial intelligence in the marketplace is to track CB Insights' top 100 most-promising private AI companies to watch. The firm released its annual list this week, culled from over 6,000 companies. \"This year's cohort ...",
@@ -200,7 +457,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -347,7 +604,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -632,58 +889,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
-      "title": "Toyota unveils new models in advanced driver-assist technology push",
-      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
-      "originalUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1",
-      "publishedDateTime": "2021-04-08T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
       "title": "What’s it going to take to perfect self-driving cars?",
       "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
@@ -692,7 +897,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -744,7 +949,7 @@
       "originalUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1017,216 +1222,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-thousands-of-us-government-agencies-using-facial-recognition-without-permission.md",
-      "title": "Thousands of US government agencies using facial recognition without permission",
-      "excerpt": "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "originalUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "publishedDateTime": "2021-04-07T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-study-suggests-that-ai-model-selection-might-introduce-bias.md",
-      "title": "Study suggests that AI model selection might introduce bias",
-      "excerpt": "Register for a free or VIP pass today. The past several years have made it clear that AI and machine learning are not a panacea when it comes to fair outcomes. Applying algorithmic solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
-      "originalUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/big-data.shutterstock_350592197.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
-      "publishedDateTime": "2021-04-07T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-education-tech-investments-boom-in-2020-focused-on-ai-solutions.md",
-      "title": "Education tech investments boom in 2020 focused on AI solutions",
-      "excerpt": "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "originalUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "publishedDateTime": "2021-04-07T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-weaviate-is-an-open-source-search-engine-powered-by-ml-vectors-graphs-and-graphql.md",
-      "title": "Weaviate is an open-source search engine powered by ML, vectors, graphs, and GraphQL",
-      "excerpt": "A modular structure enables people to plugin their own vectorizers, too. Weaviate also works with popular machine learning frameworks such as PyTorch or TensorFlow. However, there is a catch: At this time, if you train your model, or use one provided by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "originalUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/fcc7e36c-88fb-43dd-a426-58da9d148fcf/weaviate.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "publishedDateTime": "2021-04-07T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

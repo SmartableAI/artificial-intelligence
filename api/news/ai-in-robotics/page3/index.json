@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians.md",
+      "title": "AI backpack concept gives audio alerts to blind pedestrians",
+      "excerpt": "\"For years I had been teaching robots to see things ... shares its secret weapon Mahendran's AI backpack isn't for sale, but he says he is going to start a GoFundMe to equip any blind pedestrians ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "originalUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F03%252F24%252F0b%252F0a558442b3924a7b84fd2b866ce898d7.79a8b.png%252F1200x630.png?signature=Wj5EMYk7hbZ-7_I5EZdPFLj7N2E=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/blind-visual-assistance-ai-backpack.amp",
+      "publishedDateTime": "2021-03-24T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
@@ -1327,40 +1371,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
-      "title": "5 Robotics Stocks on the Cutting Edge",
-      "excerpt": "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
-      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

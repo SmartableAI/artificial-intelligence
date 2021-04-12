@@ -48,6 +48,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Varian (VAR) Inks Deal With Google Cloud to Boost Cancer Care"
+    excerpt: "Varian Medical Systems, Inc. VAR recently partnered with Google Cloud to develop an advanced artificial intelligence (AI) based diagnostic platform to lend support to the battle against cancer. Varian and Google Cloud AI have undertaken a deployment endeavor,"
+    publishedDateTime: 2021-04-12T12:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/varian-var-inks-deal-with-google-cloud-to-boost-cancer-care-2021-04-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "QgFETMhNg4UFTXdlw74JgebWiSN+zfS0Ncu7Yj/YRXLVGak/fhwMwT+ED5aRvzbpt8DCpj74qkRJ3jxPELHHuLWOMG68pUdOSjKW5Ku83B3NOIHp7hVXCsXvse398MgH9onh0idcQ4gkLkb5NmqJbFcCNHBLgcrK4KhJ39hxgGQlAnn7/aFVJQsHJ6k2zL4fW1JOgsAqM2x0yiPKnMmz8uQbMyDVy7fl2QCxuiTx5L2BqKhKt6wueoayav2EqJ4sp+cAM49V4r++wkCEOqfV3Jb71AxusH7VgP7sOVUvZ78J8XSgQhFCrN6b1nruh2UE+T7v7x78U1yTGT2An8WsEaQkJCd9Im5SFvy2i1g0dHnC6XwR+qMgJvjTcKQROT6vK/ioXdrq5GpalnsTKDLVbs9HF5OtGQG0odeFDIVTfpQ7Rb6hAwZt2yYm/t6hoYud3x0Ns22yP/RO60t+FWTfIdwCGYwYEzLFCiGqwyz1j5+ySrVfGdvccJ0B3xv3wFlA1aaCoDIkJBi7JC96KtU13g==;CzGZoFQKfsaZUfe+vqtnpw=="
 ---

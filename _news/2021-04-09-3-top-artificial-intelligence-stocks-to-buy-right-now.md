@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 840
     isCached: true
 
-related:
-  - title: "Can AI Beat the Market? 10 Stocks to Watch"
-    excerpt: "Artificial intelligence isn't new to the world of stock picking ... The Food and Drug Administration in February put trials of the gene therapy on clinical hold. Although the consensus recommendation stands at Buy, analysts are pretty closely split ..."
-    publishedDateTime: 2021-04-07T20:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch-2021-04-07"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-
-secured: "6npIeX9a1qfem7uxTstdJ+dvlT/ZsaxzTumnHUmm6psrQu/jAyc0OscM0h7/NVokaNrmNxYVcowBC3lHBwZXvpCqKq4Fcgu7KDd7yiuD85I9dpK5q7lqQJaQzQrtTLu7lkq4wjAwHwdrxr8HC7IdWukbLyjxv7S2bW5qpD5cL0iOIIjyr77nqSc9i5G1rR6m/6LEZRHYk6ZefQD85gRjzSvTfazzd+uQkXXs98dFQwNFmII2Q1pL+CyL2yCFk9ilFLrV+RqrgxFZ2VPpck7c31yq/W2zNEN+AVa+Ehu+mEMhksIwI/M79biMwfuLIeUaUVGMc8mNLu88fO1Q1jk2TrBUI0Q51Z2qNDCmE6Vg5YY=;SQ51ryLHPkVPO78VxPQFIQ=="
+secured: "dg5jZyQhTPWfDtKKLKQ7hCYg7JSdpz7xH2I6teSpFZr3WcaksfBhymBdBcL0wnoO92MFKpxhZFAfBfla1/czh05IcKR7f4LIQK6yJZrbXgucXrr+/g//vCX0P8AFp7W8ZQTGD9+oySx3DGkmLdDN8ZZ3sFqmED44nJoTmxa0c9IGO09kMyXOSRdkEtXr+x2VBvb0wJOXmABB6ysR3/s+EdzgIu9gTzLle/Qa/atNk5JJXVIkBGCNNHP5IsTXk0bIYgogmcqxm/wGPbbzU6UWSQlthFGnuSyjzYV4CbtJBcNY7q3E8Aq70Xl8PH4SnPCjikv42kTbqEcZesLyT49Hp7Hffa2tMG2ELvNnIgwQj+SQPUxRYIL8pSw0b1NumkyLieeggYRojUJFbegCsiHcx4XrLP37Tp+ugpfWh7Qbez/Z0LsJnuLFCO3a8sEPDW8iHHqqcMHrfjIZREtuWtw/xFtuKPySrDGkg3uxBxhvP4OLnDnf76kVRrATehBWMWbDBF7fMDKc1elEZt5lXawsLQ==;FFOYfY6lbfndeJjDE/UAEg=="
 ---
 

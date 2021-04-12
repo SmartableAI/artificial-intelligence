@@ -7,7 +7,7 @@ originalUrl: "https://www.psychiatrictimes.com/view/artificial-intelligence-cogn
 webUrl: "https://www.psychiatrictimes.com/view/artificial-intelligence-cognitive-behavioral-therapy"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1346
     height: 886
     isCached: true
+
+related:
+  - title: "How AI Could Upgrade Brain Stimulation Therapies"
+    excerpt: "Some scientists are even using advanced AI predictive technology to enhance their brain stimulation therapy methods. The idea of brain stimulation is not new and carries with it the cultural ..."
+    publishedDateTime: 2021-04-12T13:10:00Z
+    webUrl: "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788"
+    ampWebUrl: "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/hpjtmbgytsmwrtx1bkyd.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "CbVCBLgFF/+H5IlKUhOWsl3GeYNp6OcaPGjFDrl1ugNvUWs8JZEGLeuUu4rXfrhX9wViQHthifG7CogMnsRqKHhV3L4z3lt6dlUhO4XS+AdKbZnP0uyiAIG9qTswSahq5ncsmY2ogK/+w49symzWwjRB0BmXKSnDkh4awL4cc4fQr939tcCsSeYy/1rRnemzpt2QLUNBmhEaJXscG8J6WS5phvlO++JsyZ1cVi7fr2Rj3+TwJNwRzekyYaJ8ve8zAagXFdLydWs+DVmtMFU5uD8SZ/aNxFrpvJm1AQKRyU/J+jW9mX/NTQKASJ+u8Dl3Dkc3VA+ep3e/tMn4jUciNX7Cslrced7v4tFAF4tZxhQ=;OK9YndSu2R9/mgMJNRD8Wg=="
 ---

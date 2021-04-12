@@ -2,72 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-12-microsoft-in-advanced-talks-to-buy-speech-tech-firm-nuance-communications.md",
-      "title": "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications",
-      "excerpt": "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ...",
+      "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
+      "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
-      "originalUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
+      "webUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
+      "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 527,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "publishedDateTime": "2021-04-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-microsoft-open-sources-tool-to-use-ai-in-simulated-attacks.md",
-      "title": "Microsoft open sources tool to use AI in simulated attacks",
-      "excerpt": "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all",
+          "url": "https://i.insider.com/607440023e3fe7001882a117?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -77,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/",
-      "publishedDateTime": "2021-04-09T16:50:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4?amp",
+      "publishedDateTime": "2021-04-12T05:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,6 +49,60 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
+      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
+      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
         "Microsoft AI"
       ]
@@ -167,7 +168,7 @@
       "originalUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -607,6 +608,40 @@
       "provider": {
         "name": "Hart Energy",
         "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry.md",
+      "title": "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry",
+      "excerpt": "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "originalUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1321,49 +1356,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.md",
-      "title": "13 startups selected to join Microsoft AI for Social Impact programme",
-      "excerpt": "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/",
-      "originalUrl": "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

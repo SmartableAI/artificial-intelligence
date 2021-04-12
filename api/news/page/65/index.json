@@ -2,6 +2,346 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-02-21-a-set-of-jupyter-notebooks-to-analyze-the-performance-of-a-deepracer-model.md",
+      "title": "A set of Jupyter notebooks to analyze the performance of a DeepRacer model.",
+      "excerpt": "This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer. This project is a redo of analysis solutions provided in the AWS DeepRacer Workshops repository. There are a few motivations leading a decision to reorganise the ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/55031406?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
+      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
+      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
+          "width": 770,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
+      "title": "Facial recognition: Sexual predator caught on CCTV",
+      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
+      "originalUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
+      "title": "Salesforce Research wields AI to study medicine, economics, and speech",
+      "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
+      "originalUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
+      "publishedDateTime": "2021-02-20T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp.md",
+      "title": "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP",
+      "excerpt": "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
+      "publishedDateTime": "2021-02-20T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
+      "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
+      "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/31/15/anthony-levandowski.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "publishedDateTime": "2021-02-20T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well.md",
+      "title": "Google is trying to end the controversy over its Ethical AI team. It's not going well",
+      "excerpt": "Croak will report to Dean. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — will report to her. Most stock quote data provided by BATS.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation",
+      "originalUrl": "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210218140829-timnit-gebru-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "publishedDateTime": "2021-02-20T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-the-2-big-reveals-of-wandavision-episode-7-explained.md",
       "title": "The 2 big reveals of WandaVision episode 7, explained",
       "excerpt": "What Agatha wants with a town full of mind-controlled people and a reality-warping, enhanced Avenger named Wanda Maximoff, we don’t yet know. But it’s now clear that it isn’t just Wanda’s ...",
@@ -853,315 +1193,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
-      "title": "Second Google AI ethics leader fired, she says amid staff protest",
-      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation",
-      "sourceUrl": null,
-      "webUrl": "https://wsau.com/2021/02/19/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest/",
-      "originalUrl": "https://wsau.com/2021/02/19/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-02/19/2021-02-19T222922Z_3_LYNXMPEH1I1GF_RTROPTP_3_EU-ALPHABET.JPG",
-          "width": 800,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAY",
-        "domain": "wsau.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ibm-is-reportedly-considering-a-sale-of-its-watson-health-business.md",
-      "title": "IBM is reportedly considering a sale of its Watson Health business",
-      "excerpt": "But Watson stumbled in the healthcare sector, the Wall Street Journal writes, \"in part because physicians were hesitant to adopt artificial intelligence\". In 2018, IBM laid off a percentage of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "publishedDateTime": "2021-02-19T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i.md",
-      "title": "Reviewing online fraud using Amazon Fraud Detector and Amazon A2I",
-      "excerpt": "Each year, organizations lose tens of billions of dollars to online fraud globally. Organizations such as ecommerce companies and credit card companies use machine learning (ML) to detect online fraud. Some of the most common types of online fraud include email account compromise (personal or business),",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/15/1559Architecture.jpg",
-          "width": 800,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T13:15:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-artificial-intelligence-worshipping-church-officially-shuts-down.md",
-      "title": "Artificial Intelligence-Worshipping Church Officially Shuts Down",
-      "excerpt": "Remember that artificial intelligence-worshipping church ... from his legal battles over stolen trade secrets within the self-driving car industry. Even though the Way of the Future is gone ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
-      "originalUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/02/wotf-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
-      "publishedDateTime": "2021-02-19T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
-      "title": "AI in the OR: One company is closing the gaps in surgery using technology",
-      "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
-      "publishedDateTime": "2021-02-19T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-a-robotics-revolution-unpacking-the-actively-managed-arkq.md",
-      "title": "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’",
-      "excerpt": "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
-      "originalUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
-      "publishedDateTime": "2021-02-19T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ibm-and-palantir-partner-to-help-businesses-deploy-ai-applications-and-unlock-valuable-data-across-hybrid-cloud-environments.md",
-      "title": "IBM and Palantir Partner to Help Businesses Deploy AI Applications and Unlock Valuable Data Across Hybrid Cloud Environments",
-      "excerpt": "IBM and Palantir Technologies have announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next-generation operations platform for building applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-Palantir-Partner-to-Help-Businesses-Deploy-AI-Applications-and-Unlock-Valuable-Data-Across-Hybrid-Cloud-Environments-145343.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-Palantir-Partner-to-Help-Businesses-Deploy-AI-Applications-and-Unlock-Valuable-Data-Across-Hybrid-Cloud-Environments-145343.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

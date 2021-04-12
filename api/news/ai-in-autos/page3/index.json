@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-10-stocks-to-own.md",
+      "title": "10 Stocks to Own",
+      "excerpt": "Alphabet's autonomous car technology business Waymo is a good example ... Azure also is an excellent launching point for secular trends in artificial intelligence, business intelligence, and \"Internet of Things\" as it continues to launch new services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/articles/1029632/10-stocks-to-own",
+      "originalUrl": "https://www.morningstar.com/articles/1029632/10-stocks-to-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blt5ed092452b80f2f2/5e70e9e7bfb1c042abc0c854/SusanDziubinsk_3x2.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
       "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
       "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
@@ -1393,42 +1436,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
-      "originalUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
-      "publishedDateTime": "2021-03-15T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
         "AI in Autos"
       ]
     }

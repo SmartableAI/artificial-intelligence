@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-12-microsoft-in-advanced-talks-to-buy-speech-tech-firm-nuance-communications.md",
-      "title": "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications",
-      "excerpt": "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
-      "originalUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp",
-      "publishedDateTime": "2021-04-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
       "title": "Researchers detail systemic issues and risk to society in language models",
       "excerpt": "and was published last month at the Fairness, Accountability, and Transparency conference by authors that include former Google Ethical AI team ... machine translation for African languages.",
@@ -1429,6 +1376,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-how-nlp-can-drive-speech-recognition-use-in-commercial-environments.md",
+      "title": "How NLP can drive speech recognition use in commercial environments",
+      "excerpt": "TK: How does NLP determine a person’s emotional state, especially in applications that involve a wide variety of people and personalities? For example, when some people are upset or frustrated, they talk low and slow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/case-studies/article/how-nlp-can-drive-speech-recognition-use-in-commercial-environments",
+      "originalUrl": "https://www.inavateonthenet.net/case-studies/article/how-nlp-can-drive-speech-recognition-use-in-commercial-environments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1616588697/widgetdocs/Rana_close_up_gymlcm.jpg",
+          "width": 750,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

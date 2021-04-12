@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla.md",
+      "title": "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla",
+      "excerpt": "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
       "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
       "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -158,6 +210,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-update-1-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
+      "title": "UPDATE 1-Toyota unveils new models in advanced driver-assist technology push",
+      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/toyota-autonomous-idCNL1N2M107Q",
+      "originalUrl": "https://cn.reuters.com/article/toyota-autonomous-idCNL1N2M107Q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2M107Q",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2M107Q",
+      "publishedDateTime": "2021-04-09T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
       "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
       "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
@@ -263,58 +367,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
-      "title": "Toyota unveils new models in advanced driver-assist technology push",
-      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
-      "originalUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1",
-      "publishedDateTime": "2021-04-08T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
       "title": "What’s it going to take to perfect self-driving cars?",
       "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
@@ -323,7 +375,7 @@
       "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1387,49 +1439,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-teslas-full-self-driving-scam-are-evs-really-better.md",
-      "title": "Tesla’s Full Self-Driving Scam; Are EVs Really Better?",
-      "excerpt": "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "originalUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "cdnAmpWebUrl": "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "publishedDateTime": "2021-03-30T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ValueWalk",
-        "domain": "valuewalk.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

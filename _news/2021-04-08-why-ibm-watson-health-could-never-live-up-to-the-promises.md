@@ -24,19 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
-    excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
-    publishedDateTime: 2021-04-09T03:23:00Z
-    webUrl: "https://www.openpr.com/news/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-
 secured: "neXvHOGihnn/0c3piIBSb7MWXXyZeXzUogJ5WmhaPpWTU2zWFejjTO6eJouDTHow7yKC5Zog7yLQ6gryrik0gKxtzrlRP2YXYERcE+BKfdf1h0UOBvw++bGt41EwStV0KiDsLcYixbUKoMl+GRCCiuixHb+mBOfSacCX7HgVw7TuXvlvhjRtzjnYxuuYS8rtCddjcYAfQSxeR0Oc5vtpkUb+9olSYUFgCjr/o/vtJn5pWcZDwFB1Jm5VQhcVsuy0MmBecw/riJJcLDQJo1kwBylxSUVtLup5ymZdwQDVI5+gBfAJ0k+mTuaIOjnOu9ImYZovS7Dv7BGmJ2tcAPNPGKnol0/NW7d2SmE5PcTDhCNRTU4YkIdStiCEbH3vSza9hmwRrUL6DmpQmehOwt3kIJRTa1QvFaC5/SxDEj64xcDWg9W4U0Nip0Jfqc+aHxM+mWobsfwXyDPBlKO4DOTZUVMBqfpKw/Z//IApLQ2emmb81xlRqjwSJPveo3rgR2rLbHrxPLEGIK+cJcAfHmT5wA==;FH/53h0VZO1MgEa7KAVgSg=="
 ---
 

@@ -30,35 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered virtual assistants and the future of work"
-    excerpt: "I was recently connected with Jim Kaskade, CEO of Conversica, a company that has spent the last 14 years perfecting its AI-based virtual assistants for enterprise marketing, sales, and customer success teams. \"Liza, can you tell me how sales are ..."
-    publishedDateTime: 2021-04-07T20:16:00Z
-    webUrl: "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/"
+  - title: "Securing Your Data In The New World Of AI-Enabled Data Management"
+    excerpt: "When your company is using AI-generated data and provides your vendors with access to sensitive information — including facial recognition scans, up-to-the-minute images from embedded security cameras and sensitive employee data — the topic seems to ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg"
-        width: 1280
-        height: 856
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeaa4ed584777ab549994f%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "SEAS Panel Discusses the Future of AI in Healthcare"
-    excerpt: "Health and technology experts discussed the advantages and pitfalls of deploying artificial intelligence to improve health care equity at a School of Engineering and Applied Sciences panel Wednesday. The event, hosted by the Center for Research on ..."
-    publishedDateTime: 2021-04-08T06:10:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-ai-in-healthcare/"
+  - title: "Machine learning, AI making its way into clinical lab management"
+    excerpt: "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and ..."
+    publishedDateTime: 2021-04-08T15:16:00Z
+    webUrl: "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management"
     type: article
     provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
+      name: Modern Healthcare
+      domain: modernhealthcare.com
     quality: 54
     images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/09/29/153003_1345878.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
+    excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
+    publishedDateTime: 2021-04-09T06:31:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-in-asset-management-a-secretly-developing-field-of-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Costa Rica Advances in the Implementation of Artificial Intelligence for Sustainable Forest Management"
+    excerpt: "Following its recovery plan, Avianca finalizes details to resume its operations between San José de Costa Rica and Miami on July 1st, 2021. The... Efraín David Fines Nevares, better known in the artistic world as “Tito El Bambino”, is on vacation in ..."
+    publishedDateTime: 2021-04-10T23:52:00Z
+    webUrl: "https://thecostaricanews.com/costa-rica-advances-in-the-implementation-of-artificial-intelligence-for-sustainable-forest-management/"
+    type: article
+    provider:
+      name: The Costa Rica News
+      domain: thecostaricanews.com
+    quality: 36
+    images:
+      - url: "https://thecostaricanews.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-1.52.59-PM-640x322.png"
+        width: 640
+        height: 322
         isCached: true
 
 secured: "fRTplCvoYaMuf7GgiSAEfNLJexH5NpI9xZcc+utxRRbKR8y8/ZnTKIuRzRPJqMt9mSp+GDp12NRzTybIrJ6+ZkPkZxPxncoU+ywSHYFClReUD2tyD1Bc1wW7ryCzFwS68UU3V1DdjzhnaAs0EOkWAV7DlV4tvH29i9OZI9Ks+DWNn408UvQuRFvsfMvGg7GUW+2V3PmYy/AycPqZnFR+LPAhJA1CWLIu8ejx5DsTa82dkPdWJzHWBbZLFznIPP7STKz+Ss20Ih1P0R78NTR24j8Qqap2Ll32Ut5Hiz0ikNwyOmpCgN+o0b8ZwuCANslB94D1WdomMMmcCtJzmo7vZ6VvQoQuEcHM/nBt1Lj3qvDAMCf/1YRx4LMVzfCfFJwe7ubo1p5IsZzECmOhBJwKSDENb+jj2zEX2MZjChdNnnFWQ4QLjs6pqYldAux422N+qgtmukgK63MX7oxxJbVwrsLS5BxbAwl0VrM6ttMoGuH08d4s5wdMyI941otKMZVBjefPpzBMG4DCHyoDLUOKTA==;S9D0QBGU8lNWK7qvn5WMnw=="

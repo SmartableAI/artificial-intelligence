@@ -75,6 +75,20 @@ related:
         width: 1360
         height: 765
         isCached: true
+  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
+    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
+    publishedDateTime: 2021-04-12T12:14:00Z
+    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 49
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
+        width: 600
+        height: 423
+        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z
@@ -89,7 +103,21 @@ related:
         width: 810
         height: 456
         isCached: true
+  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
+    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
+    publishedDateTime: 2021-04-12T12:39:00Z
+    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
-secured: "z88AHHuwZz4Gi6dcUSir1lSLIjwXR252+EbHa7uNWEkHka3JavUFey/MCLJW3IFurjMJma7lwuJ6sguXhV52iCb2SKMoppYty9MWVfRyqWnRl2H70biw75+t7tlibjao2YAq86HRuYg7I3J/e87y5SSO0cwOiGw+U6NV3XEP8iJdAQe1ojcbtVt86QiMpGxmP3iAOTgSMqkNojP+k/8TdlTYZyqGHSZlu2njEqXbht7ySR68JWJlzgMyCCSYtZTVn1NeHFtaTry5rlGJWrn24ycibTSzWOrJcIrJtHqAi+0nihNeEvIKhdp8Z/KcpHYa3wqBUaILemXzBHIvYaJpGdADPYq6NwfBwdUZeYCkvHA=;+m8V8j60PnPepdLMcR9aZA=="
+secured: "a7IpyR7SfvzcjzkNSkcLEgvWvHJbMrK9V7YAeK80tIPtJFC6ZXHVfQGlW+w916QTbWxvoobFzI7UyPG2R6DY98LeW01RrkUPB83wF3Y7d06We5mWjwXke5snVKgyKer5Il1J0YJWgs4kze/LPhDn75l3y25lcbV3LT4zDC9I/76YovxqI2w8EHcEXcNN0BudxDLRr5i2g++TEskR+A6QIGyxh0wq7azbvI2nwqZPL70ixRabxs4LVq1IVw8jXx8YFoH/H2PxrSJ4EGgB1U6nsbvA84vJUYAxiiVCs9U030QNS/lRZoUIfQga715D6RIINqVLcZ+t0HLJ8D0um6rimTAzZyFV09pbAQXCtwovrMBMfBjyAKEWvvifkHndZm5TK54AwBTqgW1adxj+TZX/bNabLw5qhKl7CyJ5ZttZNHARs1f8T0S+VlTU/bPOk4Y33YtvVlep3CUauAeqVbm7SgtO2oQsjDcCAXaIJ/grvtyCACLALmwJx+Ps8lzW7VbshlEoUkqJmdjqvX8qL4uPWQ==;YzNHJAEqXgo7fi9VMyyHww=="
 ---
 
