@@ -72,17 +72,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 37
-  - title: "Idaho police agencies, including Boise and Ada County, tried out facial recognition app"
-    excerpt: "Several Idaho law enforcement agencies have had access to a controversial facial recognition app that is used to identify individuals, according to a report from Buzzfeed News. Among the Idaho agencies listed that used Clearview AI’s app — the company ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.idahostatesman.com/news/politics-government/article250461956.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/politics-government/article250461956.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/politics-government/article250461956.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 31
   - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
     excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
     publishedDateTime: 2021-04-08T02:00:00Z

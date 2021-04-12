@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-27-can-ai-make-data-security-simpler-and-smarter.md",
+      "title": "Can AI Make Data Security Simpler (and Smarter)?",
+      "excerpt": "Cybersecurity teams often face tough choices, and there’s typically much at stake. For example, do you rely on already",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196",
+      "originalUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/03/Data-security-and-compliance1.png",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/brandviews/pure-storage/can-ai-make-data-security-simpler-and-smarter-02395196/amp",
+      "publishedDateTime": "2021-03-26T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-avvir-raises-10m-for-ai-that-spots-construction-site-errors.md",
       "title": "Avvir raises $10M for AI that spots construction site errors",
       "excerpt": "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital.",
@@ -1118,49 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
-      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
-      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

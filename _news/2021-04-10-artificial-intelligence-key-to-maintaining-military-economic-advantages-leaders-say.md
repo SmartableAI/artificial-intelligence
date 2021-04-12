@@ -40,15 +40,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Report: Louisville lags most peer cities in AI talent and innovation, but it can catch up"
-    excerpt: "According to the 30-page report published by Brookings, Louisville ranks lower than most of its peer cities — including Indianapolis and Cincinnati — on AI-specific measures of innovation, talent, and startup ecosystem. \"Nevertheless, it has a ..."
-    publishedDateTime: 2021-04-07T09:34:00Z
-    webUrl: "https://www.courier-journal.com/story/news/local/2021/04/07/brookings-institution-says-louisville-lagging-ai-talent-and-innovation/7112829002/"
-    type: article
-    provider:
-      name: Courier-Journal
-      domain: courier-journal.com
-    quality: 8
 
 secured: "TDWxKjMsIhgzePslmajjRXSIQV6y9jI8isLPpM7xZb+I50x62zlI0ItEeSBhkoTCD+HbXKyMiPuAXQ5UjcVlfyCPGzNSBEieiMxeKBCDqZjOSQU0DLy0HIQ9v24giZgbh27u3QHoq6ksTd6+/I5LJFt8cVz7IJZmVUIKGL3YaztF+b/5L20ixUJx8fbS+EJNx0EqxHSKlrbv0CY7YdoC97FYEQyzA5uc7kO182GXKrWXsf8HMQgh5+18v7DWbbdJRlGNzFx+PMR6JDjcFIvkSuG3qIUa4Du6JvfjL+hEulWEf5hwvpYrkuR3+YdrzeYlR1B1Oypr6osUICei81oTR08XA5JNDzR1XX597E1wGE7ByYmCM4u8mhmq2xJ7PGkoOGYn3oUlHMAYtb4+qZIezhNabWEje7QsKCtRsBnH+k2i1HTdORGWUXBmP9icI9XyBgO+QfwcJsFLfdufrYBnw3YUHTEtJVPZ1Ir7Y6qrzIoTp9MUKtGOJcfa5I3jwlh0V66CW2/UR4eH93Qsg+sNeQ==;8AFNgCo23n4OElehilqBeQ=="
 ---

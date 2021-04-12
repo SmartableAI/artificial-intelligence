@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-05-hong-kong-robot-sells-art-for-688888-and-is-now-eyeing-music-career.md",
+      "title": "Hong Kong robot sells art for $688,888 and is now eyeing music career",
+      "excerpt": "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
+      "originalUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280",
+          "width": 1280,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
+      "publishedDateTime": "2021-04-04T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021-price-range-self-driving.md",
       "title": "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving",
       "excerpt": "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,",
@@ -1160,57 +1203,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
-      "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
-      "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
-      "publishedDateTime": "2021-04-02T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

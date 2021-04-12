@@ -8,8 +8,8 @@ webUrl: "https://digiday.com/sponsored/deep-dive-how-ai-steered-the-ad-councils-
 ampWebUrl: "https://digiday.com/sponsored/deep-dive-how-ai-steered-the-ad-councils-campaigns-during-crisis/amp/"
 cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/deep-dive-how-ai-steered-the-ad-councils-campaigns-during-crisis/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/04/ibm_1030x600_v2.jpeg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
@@ -25,6 +26,6 @@ images:
     height: 595
     isCached: true
 
-secured: "ZqitnTKso5dKoG5aZcptR+bTYNjc49J1Fi7aMC1C/K1eokl0aJP70+7XnNTlzS78ZNv98UPAIz7VcIPljY30hNtdc5M1s/2rFh+GZmmSGpGqEl7R0U+9mGWD4TSa+/Y0fRUWzlGz03eIiq97Y8fRJ3lLCc/n83X0wkDXEL9dDjCahnr5FI2uotbx8xYFQVVQvHn+zrKRTzx6TV6OkKPqZ9bNJ7ITccZWF9UoNnGBNJWHAZXlEKJyNlLFvULsiV1P5XJNREw6JJzuBg0wmlQMmQfmdR1IbhNsgxJg9aahGQcRtD5W+2C/kttuGFpJtmhsiBFIl0uz3TXvAbc/27sGiax7OgbCUgPJpGwbjrtwBII=;KrBIxYQ0uIhg+d5PIfuv7Q=="
+secured: "olqpiFLrARGA+ARrWhVkLlqRvlvrvvRSdOD+IQb9/NN+2NQJ70zjPA/sV62YcVpoicrY3QkclUMC9u0xYAdOzem6p2DfLvaTVpvB7ZAvJvuySxvPUblAqjQnqAs2K8GVcelQFKT5n7goHqmvoJNK+jQNe27kzqK3I6wyuTmxrYCFLJarjjoKLjqzLgIrOpHU/A4mgvz5xZAlmK4DUjLFEljJvsTEY5jVkJcFAileGJmS2FTzgEv5ClbjyNtIMeC4BEniBqYaepqXdbtsYbzk3a3mpEudKS+3YplubOQAGrqEgzDvV9HhNhx0NGMyAM7+7EsSfnsP1eQ/bY6I/Qwrc1FDoDHCYKZltyo55ykWE05IStSZvKV0yDoyJiRV7Ed5BsWxXQpoPp5OhokAMmvtI1tLVJMSOoPu07uQ2lkbCtvjGzPHCD11eVqisn8WKOCzD1SfGEcjrxnMFstaWaraUOuujpDPVUFOwDaPSi9U0rJoeuzTPCqkiCWKz44Httqa7AroRkp59iYkRm92E6256w==;d9qlPT3SmkOf7/gDnopUog=="
 ---
 

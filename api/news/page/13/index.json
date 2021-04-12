@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-31-forbes-backed-qai-announces-availability-of-qai-invest.md",
+      "title": "Forbes-Backed Q.ai Announces Availability Of Q.ai Invest",
+      "excerpt": "AI-Powered Investment Platform Offers Customized, Professional Strategies Typically Reserved For High Net-Worth Individuals; A \"Hedge Fund in Your Pocket™.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "originalUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60636b7bc151c754b8276463%2F0x0.jpg",
+          "width": 600,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "publishedDateTime": "2021-03-30T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-intel-will-launch-its-ai-based-toxic-voice-chat-filtering-bleep-software-later-this-year.md",
       "title": "Intel will launch its AI-based, toxic voice chat filtering 'Bleep' software later this year",
       "excerpt": "AI to the rescue: Anyone who's played an online competitive game for longer than a few hours -- and with random users instead of friends -- has probably encountered a jerk or two. Trash-talking is ...",
@@ -1133,49 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-japan-facial-recognition-system-allowing-smooth-boarding-to-start-july-at-narita-haneda-airports.md",
-      "title": "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports",
-      "excerpt": "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "originalUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

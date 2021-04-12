@@ -557,7 +557,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -652,48 +652,6 @@
         "AI",
         "Facebook AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-report-us-military-must-speed-up-ai-development-to-maintain-edge.md",
-      "title": "Report: U.S. military must speed up AI development to maintain edge",
-      "excerpt": "Gen. Michael S. Groen, JAIC director, added, noting that beyond defense initiatives, AI will be a driver of the U.S. economy. \"We must act now. We need to start putting these pieces into place now,\" Groen said. Work and Groen spoke Friday after the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4741617998029/2021/1/16179988735703/v1.5/Report-US-military-must-speed-up-AI-development-to-maintain-edge.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/",
-      "publishedDateTime": "2021-04-09T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -990,7 +948,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1228,6 +1186,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-biosig-invited-to-join-alliance-for-artificial-intelligence-in-healthcare-aaih.md",
+      "title": "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)",
+      "excerpt": "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

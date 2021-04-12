@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentag
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: UPI.com
@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Report: Louisville lags most peer cities in AI talent and innovation, but it can catch up"
-    excerpt: "According to the 30-page report published by Brookings, Louisville ranks lower than most of its peer cities — including Indianapolis and Cincinnati — on AI-specific measures of innovation, talent, and startup ecosystem. \"Nevertheless, it has a ..."
-    publishedDateTime: 2021-04-07T09:34:00Z
-    webUrl: "https://www.courier-journal.com/story/news/local/2021/04/07/brookings-institution-says-louisville-lagging-ai-talent-and-innovation/7112829002/"
-    type: article
-    provider:
-      name: Courier-Journal
-      domain: courier-journal.com
-    quality: 8
 
 secured: "W0A0Tuf++eE8Xvt3+F9nleHPnTdf+1xWkQoCkfDJjOjm66JZ0PJZ7Mya3X6fP4Pl5Fu7Qe4nBDVNBUlkeiovYDgEHopyJfibGCTqQ4WSBLTB0eK2ZYVZBpnXB/nBHS3C+SSyLQPR7yAdMw4e2JmOGItIJoKbwmhF2Zbz40IWLY5U70XL4GsWF/uxy32OzpbcSSXoIFA0IRUcqhUy661nOztdaIfUmIRm917acf2AMPS94nghTRnXYWQu9MOV1MjRre3VcL7WPxpSXQX47j4olVT4Pnu1mAk7MWbHsSRfAc/qgVQWMhRZuwHsivjaNzCvY7IL6ArKRcnyBRNJEo17j8ryQPjbaIXpKowXMK5/w51J7ZEcRCjq5L8knYq7m6mNlioSO3NPAEY+HS8c7SacJ7Ccbpqh5LGTZKOAy5PbbqSoFo2fcDanaRoOZyVqCTnTSl+9hLmH9i0BGIaAq9fi73YqNtVzSXI7dSyvQYwOLLT8+gxaQHdmcpF4EbCrtidwANAqw6KuoBkD5u60nUXYDQ==;5Sq9zESua3osA4r+Oe9zLQ=="
 ---

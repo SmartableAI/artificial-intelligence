@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-21-the-future-of-driverless-cars-is-now.md",
+      "title": "The future of driverless cars is now",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
+      "originalUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/44/644e72a8-7e03-11eb-aa0e-c3f742e052b2/6042b2b3be994.image.jpg",
+          "width": 436,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
+      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
+      "publishedDateTime": "2021-03-20T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oakland Press",
+        "domain": "theoaklandpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions.md",
       "title": "Artificial intelligence keep expanding through a turbulent year, with some exceptions",
       "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
@@ -1161,49 +1204,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines.md",
-      "title": "Pangiam Acquires veriScan, a Biometric Facial Recognition System for Airports and Airlines",
-      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired veriScan, an integrated biometric facial recognition system for airports and airlines, from the Metropolitan Washington Airports Authority (\"Airports Authority\").",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

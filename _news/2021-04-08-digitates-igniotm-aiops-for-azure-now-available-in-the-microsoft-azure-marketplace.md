@@ -113,7 +113,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
         width: 1200
@@ -208,6 +208,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Microsoft makes big bet on health-care AI technology with Nuance deal, worth $16 billion"
+    excerpt: "Microsoft is buying Nuance Communications, which can help overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
+    publishedDateTime: 2021-04-12T03:40:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 67
+    images:
+      - url: "https://images.indianexpress.com/2021/04/Microsoft_Reuters_NEW_1.jpeg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $16bn"
     excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about $16bn, according to people briefed about the matter. The deal would be the second-largest acquisition ever by ..."

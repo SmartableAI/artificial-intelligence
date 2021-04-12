@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
-excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
-publishedDateTime: 2021-04-12T00:30:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
+title: "Microsoft makes big bet on health-care AI technology with Nuance deal, worth $16 billion"
+excerpt: "Microsoft is buying Nuance Communications, which can help overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
+publishedDateTime: 2021-04-12T03:40:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
 type: article
-quality: 88
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
   - Microsoft AI
-  - Natural Language Processing
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
+  - url: "https://images.indianexpress.com/2021/04/Microsoft_Reuters_NEW_1.jpeg"
     width: 1200
-    height: 798
+    height: 667
     isCached: true
 
 related:
@@ -110,6 +107,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
+    excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
+    publishedDateTime: 2021-04-12T00:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 88
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
     excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
@@ -200,22 +211,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Microsoft makes big bet on health-care AI technology with Nuance deal, worth $16 billion"
-    excerpt: "Microsoft is buying Nuance Communications, which can help overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
-    publishedDateTime: 2021-04-12T03:40:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.indianexpress.com/2021/04/Microsoft_Reuters_NEW_1.jpeg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
@@ -351,6 +346,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "H/ZRbohip8QclKBpb8xZL0dh09noB0E3uYHSUS8V0ZsFjb1iFf8crsfwE8TzmcfGx3WwEwmWotwS8PLDCjvW/OhqjFzrFTKJoBkUsWR3rcX+RYR+lZw/u2B92uPV683yEmtm6aJKc9Q9Kt7sGzQDjUSH+NfyVKyprRGkTbhUdXcs6kbWZF3rkqus5Tq/xOzGpyYOShtVNsUbqmHiBB3ALH9+24bUz57FpZaynKHGzy5KvtISPRgnLFPvsuN83nP+5uLjWyG3CzqixTfH/RV8pvk3i64x7cV0rhzpaFstMOobaDo7Yf31f7ZqS5U11zSirXawc0UXNloHlBIEpIjz+AkYhHxGica7kZia8mbtpXBH7bifOjXqLVVtIXw6b9ioaC1Ea7D09uVs91vZyFYAMVLCtaeK8UMxLg8xJvoQOCdjRG6ulbbvdZxN79Y59IxZ3ZDT1l07vDD9kPytSAdzRX+oD9FLNLM5zrldfiijUKDyCGTpKqil8LQiqqP6jdwyxzSEpEEwVYSb88F1fXsS9A==;aiJ/tRkm38Oz9S1g3NOEgA=="
+secured: "HQ8XVuDDOpupN0+HoqP2hSkt4zvXWUO3AP2xGci7FH1zMFlzt+1tFfOm3ARFLEIgmkYjRGBcqwkeXsSematLnuZ9AsrZjQYLdALsHIRb2xf4sgkEvUZptOEJ1m174B+IJV/BJUIEdYUfiGZtx9kTN0y5yVQA7XDIyBwgBmqnNrJSbAW0ZlRrhKTP4yKcJpGk5siayiL0ZSABWYtkNgBUATBYxwUCBFsJXPYzqvI8mMQuC9dxQuwCLNpki594NhKfh5ms6aT84/wUQ4oDMC0MqiqzU9syOPFff3gxM633rjcfdieRGcPtuCpg7r00/ITIp957SPN6Mmdlr6lQ+fxT/eCUSM7/pdvq7yi9zAN9aA8=;hdjGktVg80FiSujRI9wjVQ=="
 ---
 

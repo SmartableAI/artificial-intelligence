@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-ai-firm-level-e-research-raises-funds-to-scale-up.md",
+      "title": "AI firm Level E Research raises funds to scale up",
+      "excerpt": "Level E Research, the Edinburgh-based company focused on artificial intelligence investment solutions, has closed a seed funding round raising £1.2m. The finance is from a group of undisclosed private investors,",
+      "sourceUrl": null,
+      "webUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/",
+      "originalUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/04/Dr-Sonia-Schulenburg-300x213.png",
+          "width": 300,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/",
+      "cdnAmpWebUrl": "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/",
+      "publishedDateTime": "2021-04-08T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailybusinessgroup.co.uk",
+        "domain": "dailybusinessgroup.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
       "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
       "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
@@ -1328,58 +1371,6 @@
         "name": "City A.M.",
         "domain": "cityam.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ceo-of-fintech-lender-now-a-billionaire-after-shares-soar-89-in-one-day.md",
-      "title": "CEO Of Fintech Lender Now A Billionaire After Shares Soar 89% In One Day",
-      "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
-      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c8533b896794608942c2%2F0x0.jpg%3FcropX1%3D151%26cropX2%3D838%26cropY1%3D32%26cropY2%3D419",
-          "width": 687,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

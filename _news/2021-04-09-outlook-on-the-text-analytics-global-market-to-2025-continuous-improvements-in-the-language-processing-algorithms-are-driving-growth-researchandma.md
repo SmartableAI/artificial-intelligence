@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=450053"
 webUrl: "https://us.acrofan.com/detail.php?number=450053"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 580
     height: 339
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and Machine Learning Survey: Motivations and Challenges in AI Projects - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence and Machine Learning 2020, Volume 1” report has been added to ResearchAndMarkets.com’s offering. This survey gives a comprehensive view of the attitudes, adoption patterns and intentions of artificial intelligence and machine learning developers worldwide."
-    publishedDateTime: 2021-04-07T10:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 45
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ddzwcMpfiklad2GCHwOG8PT+AL3dgXEu5MWtIzNGHQE9QHZD4lpEu/CpNHBYT42cysq5YEAGqUeeczjowuVGvh92y2yZhW7zomHUNoxmOt8iHfKpWTJdv/X8fk4OXHfbRKK4GMrXzExhCdC9Ngys0/9ymeACQdonXEyf20JjyFHe/F2YJmnTF4rvBqSnP7UHCFB8HxLlGltS333ztMTKTiWq5wniXTwzWkB9q9VYAP+rUQrkPNbMutzED9tiuyu6LX9FiE/C1iM1X46TTV7i/1jGqo611dIo7E/4qceTgKdozokbhrfWRmL3aBmHyViTuFPki5OfDr2INaLCwacPI6CnaSo3C3XLzNOiqGxYovuo2gAvvvjEOjxe6bpVV0aKsp1CNL0fM5WSe7ik7T9OgoUQ/6NaT/aqhrcdeFMBhSX0yiq9R/oZPBpQuRhGF4o+A9EGKRWJhLMnWUZO0m45w4c8EE1h5d98iZYNCxzZuUrRoPL7E/yOyprFEWhz0yE2dPxOgwnRjyqjO01f5JU7Fg==;306n/akBcuMMQ1VNjry/rw=="
 ---

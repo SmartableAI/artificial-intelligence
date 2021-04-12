@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market future prospects, growth opportunities and outlook (2021-2027) shared in trending report"
-    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that ..."
-    publishedDateTime: 2021-04-07T10:03:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/computer-vision-market-future-prospects-growth-opportunities-and-outlook-2021-2027-shared-in-trending-report/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
   - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
     excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
     publishedDateTime: 2021-04-09T14:35:00Z

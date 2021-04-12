@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
+      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
+      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -92,17 +135,17 @@
       "title": "Cognitive Media Market Growing at a CAGR 27.2% | Key Player Google, Microsoft, Salesforce, Adobe, Baidu",
       "excerpt": "and services to their customers and venture into untapped regions. Microsoft has been extensively working toward advancing its cognitive solution portfolio by following an effective mix of organic ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29",
-      "originalUrl": "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?631943",
-          "width": 327,
-          "height": 249,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,12 +155,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T15:59:00-07:00",
+      "publishedDateTime": "2021-03-25T15:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1109,49 +1161,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
-      "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
-      "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "originalUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/0
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Engineers tap machine learning to improve graph analytics"
-    excerpt: "Graph databases hold numerous attractions for financial services users, among them the ability to detect hidden patterns in data that could be harder to spot otherwise. Some financial institutions are now looking to go a step further by augmenting graph analytics—the process of analyzing data in graph format to show relationships between data points—with machine learning to identify more complex data patterns."
-    publishedDateTime: 2021-04-07T10:34:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7817871/engineers-tap-machine-learning-to-improve-graph-analytics"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 41
-    images:
-      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2021-04/GettyImages-962721460.jpg?h=61c0a37d&itok=KMbgPSCK"
-        width: 378
-        height: 234
-        isCached: true
   - title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
     excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
     publishedDateTime: 2021-04-08T13:02:00Z

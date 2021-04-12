@@ -45,17 +45,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Machine Learning Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The global machine learning market size was valued at USD 6.9 billion in 2019 and is anticipated to register a CAGR of 43% from 2021 to 2027. Machine learning is defined as the process of applying artificial intelligence (AI) to provide system capabilities ..."
-    publishedDateTime: 2021-04-07T09:55:00Z
-    webUrl: "https://www.openpr.com/news/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2267043/machine-learning-market-size-trends-shows-a-rapid-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
 
 secured: "HsfA840UShbb+etedwI2HTwY8PfQRC+TzYgPAEXf+o5zQFzKkXd0g1S7Ytzp0wtIIYkdPLWFbBWyWF61jqkqZGqRsjUozIFzevjCegLMpNU1Ck6dVfgQXWmHaEhYR8HLwsti9GnKoapIABNc1iJ0s11OpR+08kKc4C7FDwAI3p+qkgN3O8Mka1KM2G5gaTugylwCceJUhAPkV4Pw0do2o6L9dKSwFBWXT0SBMtgPJ3g6PH2RVs05vEm8WkjFfE+z3a4PFExY0b1d/ar7QPafLi4h350+OqUJM8SkJ5UkExgHDc6Q/aI7h5m+G8K1OrOzMrc0k3ZIKcdZAfAXJAemmpLT542q5FXeQslrE7YPK2E=;nfkbYGOZIB+cWIXAwRiOlQ=="
 ---

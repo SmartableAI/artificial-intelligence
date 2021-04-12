@@ -2,25 +2,29 @@
 category: news
 title: "Cognitive Media Market Growing at a CAGR 27.2% | Key Player Google, Microsoft, Salesforce, Adobe, Baidu"
 excerpt: "and services to their customers and venture into untapped regions. Microsoft has been extensively working toward advancing its cognitive solution portfolio by following an effective mix of organic ..."
-publishedDateTime: 2021-03-25T22:59:00Z
-originalUrl: "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29"
-webUrl: "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29"
+publishedDateTime: 2021-03-25T22:21:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?631943"
-    width: 327
-    height: 249
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "SPJ/4hwVrpvL9MWwoYYOLTkodLq/XGgqyrY8BpyvDSwxhPZwScT8w8EZIz/6GK9miwrd3hCjMQ0YvhaJyAnDmsjJ/D0a+WsjQXReTXple0w7ifGGUOziw7HQqENcUNZmdHKr4zDdWPUOrR+4zc7c7N/hDKhDN89o2vQx0EL8HRXNHL9+KkdF1GHSyOAnfZG2cvKhSqFS0IbxwC8bsB3vc95473uI8cjs/1HMNtIKc1K6ZG85rM3dNMyPpMWNuO+TlfhFrLbpB+n3/yuu7bwg1fuIh821jObhyF/n58nYnOZo58/Ik2WI9fckC1yaroJwQ3hX69JCI65dBZFXoiFoxzq/9xJFNIDVP9F3vlAdrcQ=;bw4bb5XklPw9nn6iU+reTQ=="
+secured: "vwtkiQQhEDWNb+ur2tY44DQm9QdLoE6i+DRvn3dX4Jf12Fuem0c5H9L+xUGTtTxL9EXkJjusMksei1mrkMFkE5QKzycDLRS8MTBsHFZHxpijrjuCyZWfUtV+qSDeQDa940nrD75Fzapw4BqrhV1mk6DoMv6EgMT19hSEFMU22+kpWK6s+++Q2D85ZIdX+3xdAasRiwrruSsup2dsYzoHbqoksKXRRYqZObtKU7gJMWvaYounqEHz7xSpepQbRV4zBGuTalT5PXv3ZB2K4VqCX6KTyILRCkS5PW7qQndfiu36lhpL2COWxIXDR0qOmP1AoGiMd85X3mb3+kcvWxFDsQAODWO/idU4jCHzqqo9t9Y=;OoX26lqjqQJJ/+d7QzYyCg=="
 ---
 

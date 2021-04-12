@@ -103,7 +103,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
         width: 1200
@@ -198,6 +198,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Microsoft makes big bet on health-care AI technology with Nuance deal, worth $16 billion"
+    excerpt: "Microsoft is buying Nuance Communications, which can help overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
+    publishedDateTime: 2021-04-12T03:40:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 67
+    images:
+      - url: "https://images.indianexpress.com/2021/04/Microsoft_Reuters_NEW_1.jpeg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
@@ -333,6 +349,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "CzgPwZBKgdxxw44UZ9pNXIwrJ0KrEgIr+UlXBxbYvbyj0AJ0L0TWp0KcOU6yOB2XC053rpKnGBfRxZRcxTTmUEnmtH0I144ksB/fDq2ESPcMk8LNSMvfuM3iNqds++/pNrJpTfLlHOFl+LteInit2EBU5LHTv7cgDeZ+JpYnBOUOVhgF5MgTQt2i18P2pdBH/2faYEUtErxYBsIhlhhQJQrjnh9utEoa+uBnyBh5PXB3f79DtNjVEeTaO7SSiNArMhJa08VJbxyKha5VqajxnxoObp9EhZTvbOviieOS3jEZ8f7RTRPi38nZTmAT4zJwEvwEOpVWcCmyLg2cDQwLK5i2eP8slFUjK844xvyMSKc=;Z+TePh3qmkvd52ioYrjjZw=="
+secured: "5S48zqnd4Ma5atgErXFk07xjHzgJmv/ooRgdsgXh1JiFZ3Eq8UmszD1Pgrkz1g+nZnlJZq6c0BFm0oaswPLbwrSflPX9ISBlnMVRsAtPhMKSNkYpFFEfgX8moAQ6mAiGD2OJeC/AU2pWlnt4IK8O8g88isSecFpegOgL0xIg9kxossdw2nOHEec4l/m6sF5XWWcZkk+SeuOtK7V5+YHW7+ypveB+Ub5otgFlxzsAnED5KRshH4rDIrW8SncDMvvQnpsMdXUjRAwfrllHQ6LQ9PZ9b1wvqgeBPeKKulyR1o0K9DVs1UpG/M6ofESC11671vgQOBVQm4AoAT2OBKaDMRbRusiM0gvzpdaKxa4BNTywE9azhz7nGVx+qLg8B2Q47UfpbRIOy0w8AW3ntT04GbswchnrgCvI/mctGzXMiFyYWjWyNHplytrk0mLcWwi5dhxHY7u6FCKa+Crj3tqIVOsWH7Rs04zUmmr4glzov/dFCd3wSvCa+8yE5vorOCqq4K/26zwTlbpQbxwsvqBTRQ==;uKDGkBve2yjDRiMzHZxuJQ=="
 ---
 

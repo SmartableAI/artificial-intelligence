@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -625,17 +625,17 @@
       "title": "Cognitive Media Market Growing at a CAGR 27.2% | Key Player Google, Microsoft, Salesforce, Adobe, Baidu",
       "excerpt": "and services to their customers and venture into untapped regions. Microsoft has been extensively working toward advancing its cognitive solution portfolio by following an effective mix of organic ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29",
-      "originalUrl": "https://menafn.com/1101812062/Cognitive-Media-Market-Growing-at-a-CAGR-272-Key-Player-Google-Microsoft-Salesforce-Adobe-Baidu&source=29",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-growing-at-a-cagr-272-key-player-google-microsoft-salesforce-adobe-baidu-2021-03-25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?631943",
-          "width": 327,
-          "height": 249,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -645,12 +645,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T15:59:00-07:00",
+      "publishedDateTime": "2021-03-25T15:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

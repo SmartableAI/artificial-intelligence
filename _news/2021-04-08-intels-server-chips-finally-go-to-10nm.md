@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/network/52655-intel-s-server-chips-f
 webUrl: "https://www.fudzilla.com/news/network/52655-intel-s-server-chips-finally-go-to-10nm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 620
     height: 465
     isCached: true
-
-related:
-  - title: "Intel and AMD chip war heats up once more with Ice Lake launch"
-    excerpt: "Intel has unveiled its latest weapon in the fight against AMD in the data center wars with the release of its new Ice Lake chips. The new 3rd Gen Intel Xeon Scalable chips are the company's first 10nm data center processors,"
-    publishedDateTime: 2021-04-07T10:44:00Z
-    webUrl: "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
-    ampWebUrl: "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ns7nbikpEgre9kGi25QHVU-480-80.jpg"
-        width: 480
-        height: 269
-        isCached: true
 
 secured: "BcTHXQYuBdsaNXo42juosVEgTTkuxKRUgsDQYK2GQXg5zFEd23aO1TjUmJoxP+1s6eV7HnLKbRnWnQIaVUZBKR8x6zn8aEB09KdU6VKE0lO+4dpF/R3goBciPwRIloITx4S5kcBF/jWRIYRMnqfSXqB47Cei00YmsKGUo+x0uDYfBRGM6Tfk+WkTRg+Zk6cn4WrioKE0QB7eAdomltq4uD2eROj7yvT3KXVFS2Q7pz8gSMmrYH0S1uInqVp0OFGMIFwtKvwf5+rqtdkPF/Dve3h7BsB41jy4U/nmdGicty14MNLZbe3mDZQaCGYrb4FOl8LmYWKZ9GkHg8d0wz3dBqFQJvfh+PkRA0CkNb241J0=;GNl92j3BQY9qiJqtkNQ7Qg=="
 ---

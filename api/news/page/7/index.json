@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-06-yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.md",
+      "title": "Yellen speech confirms that the U.S. is back on the world stage",
+      "excerpt": "Drawing a line between the past and present, Yellen asserted, in a speech to the Chicago Council on Global Affairs, that \"the most important difference today is a fundamental recognition that our policies at home and abroad must be designed to be inclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/05/yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/05/yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106836437-1612553113515-gettyimages-1300545603-reynolds048_2021020515243517.jpeg?v=1617653310",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/05/yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/05/yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.html",
+      "publishedDateTime": "2021-04-05T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.md",
       "title": "Apple’s C.E.O. Is Making Very Different Choices From Mark Zuckerberg",
       "excerpt": "kara swisher The day of the attack, I was actually interviewing the C.E.O of Parler ... that it’s hard to imagine my life without it. “Sway” is a production of “New York Times” Opinion. It’s produced by Nayeema Raza, Blakeney Schick, Heba ...",
@@ -1169,49 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-hong-kong-robot-sells-art-for-688888-and-is-now-eyeing-music-career.md",
-      "title": "Hong Kong robot sells art for $688,888 and is now eyeing music career",
-      "excerpt": "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
-      "originalUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280",
-          "width": 1280,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
-      "publishedDateTime": "2021-04-04T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

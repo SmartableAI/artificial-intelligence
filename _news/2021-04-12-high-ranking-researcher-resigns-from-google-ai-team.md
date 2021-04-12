@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired"
-    excerpt: "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ..."
-    publishedDateTime: 2021-04-07T10:30:00Z
-    webUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp"
+  - title: "AI firm Level E Research raises funds to scale up"
+    excerpt: "Level E Research, the Edinburgh-based company focused on artificial intelligence investment solutions, has closed a seed funding round raising £1.2m. The finance is from a group of undisclosed private investors,"
+    publishedDateTime: 2021-04-08T10:50:00Z
+    webUrl: "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/"
+    ampWebUrl: "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/"
+    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: dailybusinessgroup.co.uk
+      domain: dailybusinessgroup.co.uk
+    quality: 59
     images:
-      - url: "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/04/Dr-Sonia-Schulenburg-300x213.png"
+        width: 300
+        height: 213
         isCached: true
-  - title: "Another Google AI boffin quits"
-    excerpt: "Artificially the most intelligent thing to do  Google research manager Samy Bengio has quit the search engine outfit over the firings of his colleagues who questioned paper review and diversity practices."
-    publishedDateTime: 2021-04-07T09:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52645-another-google-ai-boffin-quits"
+  - title: "Edinburgh fintech Level E Research nets £1.2m from private investors"
+    excerpt: "Level E Research, a fintech specialising in artificial intelligence (AI) investment technology, said the investors included leading figures in the investment management industry. The business, founded by Sonia Schulenburg in 2018, combines machine learning ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://www.edinburghnews.scotsman.com/business/edinburgh-fintech-level-e-research-nets-ps12m-from-private-investors-3193022"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 24
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/ca81965a5d5d85d28d6cc31e0c34165c_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.midlothianadvertiser.co.uk/webimg/b25lY21zOjE4N2U1MzVhLWZmYTEtNGQ2OC1hY2I0LTE3ZmE3MDBiZWM4MTowMjJkM2UxMy01OTFlLTQwMDQtYmI1ZC05NGNjNGU3MDhkZTI=.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1364
         isCached: true
   - title: "High-ranking researcher resigns from Google AI team"
     excerpt: "Google on Tuesday confirmed a leader of its artificial intelligence team has resigned in a departure that comes after the controversial firing of two colleagues."

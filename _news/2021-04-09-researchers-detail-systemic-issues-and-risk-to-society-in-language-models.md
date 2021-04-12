@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issue
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/"
 type: article
 quality: 90
-heat: 91
+heat: 92
 published: true
 
 provider:
