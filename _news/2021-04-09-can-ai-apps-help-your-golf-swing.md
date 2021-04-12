@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Can AI Apps Help Your Golf Swing?"
-excerpt: "If you’re on a budget, the new AI golf apps do their best to replicate this process. Take 18Birdies AI Coach, the first such app I sampled last spring, shortly after its debut. After downloading the app to your smartphone free of charge, you record a ..."
-publishedDateTime: 2021-04-09T16:01:00Z
-originalUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386"
-webUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386"
+excerpt: "I don’t think they are as good as a human instructor. But they can be helpful. And they are a lot cheaper."
+publishedDateTime: 2021-04-09T16:00:00Z
+originalUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "jAuWs5W/lOIXFXVydDqrFuD9pSDlU4wqIJcj5P5hoRFdvtiLB4MMy64eca0Ykq7SpcYORTC13B4Jm5xXi2zHnHeWldXKTFlDsNBuRFb34/IaXQRoJKyYz5BdFiDqQvmupDxqfjZxOQmOvQE21oxr7hCuhdYBrBvje6Vh1b2PMgh6BIi/rJ2+PnbLbX0orVGykIOqygpCixn1zJ6OfHBp/P7I1OtwzLdLM74K64eTdLGwv4nRJHUg9JM3yqhnZDPNvh8aQM0wVzZILpCRh5MsyDwfD3vwTLUPbCfQsqJ6qpJLH+xrQ3oXn1qiGQsGfMTZWgPuSuxJA0G68/eJxNpu8N0slL9fpwhB5l6Bsn1kMaMY42QEg7JfmgYC0L2JLF5OWSwjHrhV2OaGjk97rnRtW0Qsnf37kKp/sXrnDWJ5vT+z837rz6tj1K5Dm3H3sqoK+oJPd8NA+urzsmbGQs/efPddVlCKzoJI5qsBAAYB6H7bB9xQUHFnf8LuQUKBItqQgUhu9wsBUF4h3ey16jBaiQ==;Ed6neSyyFhlL4J//RPdJEg=="
+secured: "79mTJBkZF843yaln3D4dImnjxKbx2MozpL3CUT65G4FnPBAaiihgHA/R/Jqm0+Gk5GcNNkWhg+Tb/VDXTP/hJuvLxjCreAZVeFBTR3j2lDJryXsze3LlxGBhErBL9rvIrxYRI9qhbf8un+vvplQpgPTAFnNNzgfz+wG/5nYUisi8Gyu9AfJGfkXLyHkK3+A86T74uWwTxz+vrUmNpp3JX0u78GfjibueB+2G4lUmrslGwJT3GDSuy13QRNx+kmd98mFPzh7ZwhVH852mLv6n8XkhG6gkcPUXf3WdJ39Pu3QcN3+UqEoHezu9XR/4Ku6YygStmaPMrDw+RhYeN4OclgFSK0x4zXE4m6Czlgjgqyk=;VdGB/cWUoiydkTjzzYbziQ=="
 ---
 

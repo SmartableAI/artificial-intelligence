@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Not using AI in healthcare will soon be malpractice"
+    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
+    publishedDateTime: 2021-04-12T09:18:00Z
+    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
     publishedDateTime: 2021-04-09T13:34:00Z

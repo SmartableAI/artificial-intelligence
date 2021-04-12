@@ -128,20 +128,6 @@ related:
         width: 600
         height: 468
         isCached: true
-  - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
-    excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
-    publishedDateTime: 2021-04-07T16:02:00Z
-    webUrl: "https://www.autoremarketing.com/autofinjournal/ids-set-acquire-white-clarke-group-forming-global-fintech-firm"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 24
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/AR2103_AFJcvr.jpg"
-        width: 3131
-        height: 3750
-        isCached: true
 
 secured: "0QsbLgHCgJnWUNqVR+oJs0AWAV9y8WW8BqjKVewYIrQB071urn28dDKz/fpF72Q67tPp0UK98Nr82/SZKn/brJ+xDUHQdGwb0REhrvHpmNL7MZSgA10BVuxkWh9jy0x4CUi8PpzJffS1zuN299vYHH4xYTX2Vrv91j2eI3mmufZlLX9d2n0U6ZrDhjMn/xV5m4DOZIq9Dy3Ybm2bFIzn+IrgIHS/gyc0mZewcDd+wt3VYcHursPCSHyx4qA61Vef2LPWqR6jN2LKGCgG7bG/VoZN5FhHFXScvBQ/I3m+n/ZAQq/QRXkQZ91dJnav4Rg0oGndP88XuSOdjM3EZbki35LzF5gml1XVB9WPM7zoEX7HML15Ug1uHOaffBbq4mrE75Diqd9u6sM+/QY2OcRRDMxfUBwd+C4UBFeTlvpB0dFhUjgEiBPhTWIiPuJG5YfwCZ7oeH0dXZHteAX/bkKa9ZcLxOuUag8Rp5Pd62KCqbwAkvxkd5yXJuweFSAXzMk+V05ZzTakOy2DAAIekDtOrw==;Su6J4xXQMdIm1oUuhZW7xQ=="
 ---

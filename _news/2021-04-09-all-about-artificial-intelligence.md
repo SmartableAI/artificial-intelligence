@@ -50,22 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 79
-  - title: "How to report on artificial intelligence"
-    excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
-    publishedDateTime: 2021-04-07T16:17:00Z
-    webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 59
-    images:
-      - url: "https://www.journalism.co.uk/assets/1/franki-chamaki-z4H9MYmWIMA-unsplash.jpg_resized_460_.jpeg"
-        width: 459
-        height: 306
-        isCached: true
 
 secured: "USS+7RR0IL4/vlxI/muJ1SpzB+kHuzVQTRw6rpHARnv/+Mmjua4gJuvrNPvUONQByFXd9F8wtGuX1emkSMnIICywGd0sp2r1x0uWjP5bIBCrbiKyYtJkJardW2OKVn7KlUokKYngjuEjyherJGe+enyyCGuA1THWDRFTmLMAUvdqI02wBXSP3iy6rE0jXqtqVDVOfmZ0sb9nG32MHoCtZWf0misw030UMsw2wMsLSTvlLZqi0XAggSuxZShk4qNPpRxi/R0tH4HOcKOtFLHJyDcFPZhB1gROsAn6rzU+teVHmhIi49JDkM4XoS98s59xIimmA+crXa5UySkz+UJEFGXHpmCMlKlAWW8rpi5hads1nO8bVHSYaABfqqF84aYwoSJaVX7LdjU+QLvmsN5Xst4I9STqS5K5lWCN7JN8A5KJzBczaFSb/FF97KJcoi2fr/8PvNy73ob7RSGxXtXt2AvddyO4x7OgidlVbuEiynges1f0ekgDt+X50/1I2LCUg8sv9RS78CwuO1xZIHYIVg==;Qik+fDUCrJPYXrdREYP4Vg=="
 ---

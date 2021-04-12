@@ -112,20 +112,6 @@ related:
         width: 600
         height: 468
         isCached: true
-  - title: "IDS set to acquire White Clarke Group, forming global fintech firm"
-    excerpt: "“Consumers and businesses want utility and outcomes, not ownership. This has created an opportunity for financing firms to tap into emerging technologies including digital and AI to create new business models like subscription and car-sharing."
-    publishedDateTime: 2021-04-07T16:02:00Z
-    webUrl: "https://www.autoremarketing.com/autofinjournal/ids-set-acquire-white-clarke-group-forming-global-fintech-firm"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 24
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/AR2103_AFJcvr.jpg"
-        width: 3131
-        height: 3750
-        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z
@@ -143,6 +129,6 @@ related:
         height: 501
         isCached: true
 
-secured: "vndJufRVOSmyqfiQTYJy14o7DoU3d3irxv4mUiJRg2eWePDaAcMu/VI3ifNO8wtQDPzsNYL9Fwd2XgaVtXLOrtEmBNfGS95KtgJwROiWNEDvnGcrMZWmP4Zm8cXXWILpXaa3z4JcdREAL879+5V2a74HgGFgNrqWGN6MGWRDv3DrnuLmLsNEBo4XECnZU6TEJ7l7fDJW+pao9CqmhHrvnnR+swncD2CvCry2nmLP9KRNk0gIWEqGXTSTnDsVlgA3aWqPkVfJs5nzQ2mp7ENXzGY/M6d7c0FMOJM6VaXlKawYOWplwtyJfCvokOrBfnMZMxjI+35cR5mn72UqWLLdKP3IWw/hilgQgBbsAm97wus=;hjsHaRnLfmm88jaOKcY+Cw=="
+secured: "OpA1F7c4hQTvoW+NRzTEr2sXSj81fBo67Hsyez6Ew2Zrzk+CHIYZ/eT8tBpOf14XStNAVHGAsWp49EIhXGsnfD1RDSrENKAHYiRaO3DothZfLKnTxF6XsXvatJHUpOKjzahAu+31sTXAcxKNHCoEk5Ix2ncaobaRTkZvKoUc2a5xKFSw5iJP2yi4jolS96dU7Jc8v09r2uMSiBKve2dHmAL4pg4GAvx92xMNj9Yx1eesPSuWMLMMfozptGOAC7kqCXTBXO+2YGRAL27ZfeFE3keHq2G9f9YCsxoMnHyQePtDQaEcrBoJ9Yt0tibpbfBn4m1/Q0sE7IfovpSHSsbrGWhXJ+xzSUBIWIZH2BlOu2noB1MUNNjPVF8TY0qXipbTfKxuRlbrjVL0g+4hn07Vtve66v5fbJElPi6qgRJ9jFroc1IfYumNLXAFRgy4ZNXDSrkam/j6fSFu2WHTfvHgDVLKHbRE4KHK/GhWed59ePGZ+U3mgeIriy+jT/NkR9TDbCoP5Ainy7H+tiVmdMIm6Q==;0EyTePdEbY+RpSl+ezCmcQ=="
 ---
 

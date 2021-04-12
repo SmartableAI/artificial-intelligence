@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Not using AI in healthcare will soon be malpractice"
+    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
+    publishedDateTime: 2021-04-12T09:18:00Z
+    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "GPjTGnk9sqKgIaZUBVhinXyKTUIbZvDCcE12EX16vMacVSxxjOEGf+AyhXcHGEOEhcQOygo4w5gPCMZWLEOU0h/lSAsfdA6E5LoIHr1PYPqaIJFuEJkL80yD4/AHEuzQBmJQEKBFhZsuUkoouSU2VpvHury9iHr+x3P1d0hn9C4H8eYTjhR0y1AgBVS5vj4EGQDNnsM2qc2dJdbYBpNFZxu3EiYjChrKEDbnJ7dGDqBD+LEQ7TtVqyAkLjE7JylXJ5KzS8R7hSiCoBj6MUuNvzg7gMbhDQ2BZsgievr7xUBUaJ4sd6JkDs81mOSmvB1aOE6vxrycS+UhkX7v3ZujDLW5Ed+qLmToxMPWeZbEufw=;lG/c9vhW0FB17G85MYhbzQ=="
 ---

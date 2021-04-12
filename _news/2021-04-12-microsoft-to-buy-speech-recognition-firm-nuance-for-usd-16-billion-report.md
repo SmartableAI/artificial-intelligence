@@ -28,35 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
-    excerpt: "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ..."
-    publishedDateTime: 2021-04-08T09:11:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
-    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+  - title: "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications"
+    excerpt: "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ..."
+    publishedDateTime: 2021-04-12T09:09:00Z
+    webUrl: "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour"
+    ampWebUrl: "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-10T14:00:00Z
-    webUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
+  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
+    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
+    publishedDateTime: 2021-04-11T23:55:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 61
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
-        width: 1200
-        height: 600
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "/7dtMTnxcNjEBcA1aqeD+6JDtXL2zaTDQrvGHVkwZxFLhpzGHA1f3MYfOBiIDlt7GvY2BzWVtPYWMAH5/unTvfyXWdOX9cfgcC/7cnlW/bJkmZBCz/v3BZ1HjEP5XWJqEaGap8WiwyuOAi3gar2L9VhFju+qtnKGZD8yddOM++VYGo/23yZysFLQS9D1o8yRorSnIjDiqLHJNWKf+Tgn/lpC5WbMK3kAsrGMctDpGY7E4XgUO8Zcrs+WwTgr6Kfld+/XwJvh85t+tvCU1z+X7qg0HewTB/q1t7JsAJ/S9+FqmWUwsrgIfsk2Smn0/kCWGyfXpCT6KcFFDvWWQPV4rmpusvBNO87QhpG3iz1h9KA=;1SXM/W035BqLC3kwx5Y5IQ=="

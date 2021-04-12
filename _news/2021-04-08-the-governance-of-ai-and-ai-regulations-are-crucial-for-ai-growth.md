@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "To the rescue: AI crucial for businesses amid pandemic"
-    excerpt: "Increasing customer service demands during the pandemic period have prompted broader implementation and usage of artificial intelligence robots, which have proven ... their projects and ventures from the start of the pandemic have actually taken critical ..."
-    publishedDateTime: 2021-04-09T12:57:00Z
-    webUrl: "https://www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic"
-    ampWebUrl: "https://www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/to-the-rescue-ai-crucial-for-businesses-amid-pandemic/amp"
+  - title: "The promise of artificial intelligence and machine learning for higher education"
+    excerpt: "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning"
+    publishedDateTime: 2021-04-12T07:43:00Z
+    webUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/"
+    ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
     type: article
     provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
+      name: Dataquest
+      domain: dqindia.com
+    quality: 86
     images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/04/09/thumbs/800x531/106744.jpg"
-        width: 1599
-        height: 1062
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
+        width: 816
+        height: 400
         isCached: true
 
 secured: "qAOga3bsCTvz/ghvaSu+GOEloZq7CHL4TwWp92NESqBy7KIGon/WSZOCdwMwdQSqFeGWtErL4/OlGniD9AlBhTWazu/OxWqpCcvCxuxvwPs1q50heCExZP27iA7EMf+m5GhGV6dYWnvepGH3agKTp9mwl85Ojc7waD0P82GPC9S3a+GTyRFJy0a6wJimFDw1y6N79sCTwZtAJlQTMc+ue2b8DZ/EHcnSII3KJm752GEwhPxqVUFMnIMlKDtLqPCVwzjImylJNiMMYQ+uoM/gu6oAeVTvg9KNYuSeWfDKVIL0JOMfjwOpFHPdbe5Sb7jJ2/SrVa/xwlMljpjUuOC1mwh0qCsv95Jla+elNHEf9Y4=;ubMQcY1V3SHgf5UnQNdfhg=="

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge"
-    excerpt: "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are"
-    publishedDateTime: 2021-04-07T15:55:00Z
-    webUrl: "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge"
-    ampWebUrl: "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp"
+  - title: "TYAN Uses 3rd Gen Intel Xeon Scalable Chips for AI and Cloud Data Centers"
+    excerpt: "April 6, 2021 – TYAN, a server platform design manufacturer, and MiTAC Computing Technology Corporation subsidiary, today introduced the 3 rd Gen Intel Xeon Scalable processor-based server platforms featuring built-in AI acceleration, enhanced security ..."
+    publishedDateTime: 2021-04-07T20:05:00Z
+    webUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/"
     type: article
     provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 76
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 53
     images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-3-75498030.jpeg"
-        width: 690
-        height: 560
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
         isCached: true
 
 secured: "Hryh1MsOYTfGLHbvNM+J6RqGcqJQv4/bVdox4AcrxePJ/apY8t3NHgJQQHEXlWY38cBdUvbiPnM+SKS7+LPAPNFczL2ENq4KoFWMSofwKnjMF/+M9XVDj9wrIhkplNV4SkQH8FYJOtZOnNVEIC8TKlFR9g9vJu1/C/jhtaajxccisy1IReVcNukZP/ujOntpX/qEZllwcunP/4JGfl4rWR8HMs6zbxdVJ0LgNyldjs6EGb/VSfWoUmU72pe73IvtkVrOvpGrGKLU9fby7V4KnAyoqn1XMJjUahDz7VVCZtOTWhNDZnMVq+PCzHB3BDoVVBeBqaGFY9qbUcd7cdHufAcK8V3JvOBUwtzjupbhtuamj2RmBEaiFrmbbwnvimaN8XcnDmukmFwjZ7+wJYvXX8j/bGaDvZVWZN1jS2aj8/TKNPepAhaaNnKUDHf5qGX3AMw1ZVv4MCfrX1abN68LAimx24X2Kw1SuNU8bER1ffaEL+67jvdTmi2fr+nae4hyNkXdDxxdLDBPKao7ChlWyw==;nf/YPrcnqb8HbAGZ9o417A=="

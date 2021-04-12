@@ -101,6 +101,20 @@ related:
         width: 683
         height: 419
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market, which has"
+    publishedDateTime: 2021-04-12T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-2021-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-says-kenneth-research-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
     publishedDateTime: 2021-04-10T07:25:00Z

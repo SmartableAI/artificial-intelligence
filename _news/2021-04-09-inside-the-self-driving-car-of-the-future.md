@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 833
         isCached: true
-  - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
-    excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685"
-        width: 1200
-        height: 1031
-        isCached: true
   - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
     excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
     publishedDateTime: 2021-04-08T11:36:00Z

@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI, automation the only option for SA"
+    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
+    publishedDateTime: 2021-04-12T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 41
   - title: "Resolver's AI-Enabled Security Management Solution"
     excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
     publishedDateTime: 2021-04-07T17:47:00Z

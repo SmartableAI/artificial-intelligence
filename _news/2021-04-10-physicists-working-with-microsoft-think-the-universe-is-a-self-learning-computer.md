@@ -46,23 +46,7 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
-    excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
-    publishedDateTime: 2021-04-12T06:02:00Z
-    webUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/Microsoft_AP.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
-secured: "3JqJ5nGA96ex98om6aTkQtXwJBFaaJKbn61pFpj+w4xkNF3uYVcGytXp7I8ERFfYQWe0CDOC6KhVCBSfoimbzkmI7XaT155giJLVIlzZgYcg4ZzKljuLSJhs7K8nANke3bUo4mYWq9cujnczWqOQTUsNN4ywzXbvCIZb7K4m3JJfsgmE9Na7hhE3UtZyWlLqSWEK5q7u5zHZFUKW5BoXUExVYXMtkQzsB/UL/jbb+R3hAWx8X6MQr3kNgl+kWIaPrluKJqn5BsPolAAkKpxrv8XsFi7n8tFk9EN7TaOW5YI/xkLxJV/VETItCdcr4m6sAJG3YWtzQSG+X7Z0hvcpoLFW8BhNPCUlkE4gu4q5zFk=;ZcQZNdE9BsZAFBuANHriwQ=="
+secured: "KjQ8UM5FnS/nDNl+njqazWNn6PK6NUnAxKoA06ISDVlZKW4oCf3xGSSoF/fnyvXHP/CGD69R2x74MDelDERYJQilfKKgjvmt8wDJwqGCFy7qIQ8XQr00X+ccubunwauLxTqxluwMXbY5DYyTLLSNOEDezBFduJA2C9ck5nSwAqJRxeZ6O0XtsRMZy1n8/i5f6qMZch4FjYQjPZzV6fFL4ChTgPfVE/cfShqs00mlW+1bUuLDjkiLxPNq+ArBc0X1h8ivD+5kNtFStObs3VHrjQJSpzRVRHnn5TzUHsO1svhtGr5/fukudcRC+gaMVmrGkFoF8ruRhPfA/uVdfc50yNU/WBLjPR1H4Yr1yG1MjNOXFG6zbzpNaNUqQ9GB8GU+xDkp3/O/sFWqnm/kwyuNcZzsOcKvI9JNUMHhiDleTmzTqPqC5GTzzZZgGF96ZljGQFLd9mnjthR/XE/ZUDcG+KHAxHFe2D8h6oELcgMnleFCD8kXuafrpMNUPZ8/3YOVHVzNC/6ZR7apNRezxL1T7A==;1XO6leB+J5dblEHoI6j7Eg=="
 ---
 

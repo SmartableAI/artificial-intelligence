@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: Daily Mail
@@ -25,6 +25,35 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
+    excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
+    publishedDateTime: 2021-04-08T12:48:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97182-googles-ai-software-magenta-creates-new-songs-by-nirvana-amy-winehouse-and-others?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
+  - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
+    excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
+    publishedDateTime: 2021-04-07T23:06:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/07/23/41470126-0-image-a-37_1617834438114.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "W0q/jKw73KxJhDgqGDBhNetBb6ZqYTQ9oypai21k3DLR4omFNJgJgMXbA+gCkd1S+i1W705DZG7b0UeyTrkoDQsCJV+nk9PPC65qx667vVIEAvuidRi2MoPUW9kdfV80KFvJ2jGplfgEIekiv7N8hKm8KCfUt9OGRMpcpxQbUTZFfz6eJKLi/gAJMzMmsGuI0XMP+9cfIzn+B4udTJ4ud3jtoibbyfZRu8de33sZqYaMltVAnUxHnmWwKY/S3Kj6K7NRc2KvR+wQKh1CWbDBJpSZkEJDueZaI23PgKGKACy5rWBNfBVc0nLrrWT+bO+I+U70S6XhKe0Xt/QbFOkayk+8AmwVwkeoA0+4JnVHPltF3LoKAWYXK/DY1cK9m/J75X7xI1O++bP1tn9OyKR8/LLmX9qf8tyQSqd8gn6c3Q/RtbPLFXNIPjoXStRD8QnW8yLPEWKPVx3tVEn4b+mFYvi6KF9Yy/TGOfix+S5pnN9Z2za+VP36pqAi4zuogZODUUn9eZGNUjjeREa6VrATqQ==;tAL4mYLWvEteib3i1RB/4w=="
 ---

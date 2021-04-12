@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence"
-excerpt: "Stephen Clark as Head of Artificial Intelligence ... a world leader in driving connected commerce for the retail and banking industries, has been awarded the prestigious Red Dot Award: Product Design 2021 for its retail self-service solution, EASY eXpress ..."
-publishedDateTime: 2021-04-12T07:36:00Z
-originalUrl: "https://www.lelezard.com/en/news-19742200.html"
-webUrl: "https://www.lelezard.com/en/news-19742200.html"
+excerpt: "Cambridge Quantum Computing ( ) are pleased to announce the appointment of Prof. Stephen Clark as Head of Artificial Intelligenc"
+publishedDateTime: 2021-04-12T07:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-executive-changes-a0ac665c6d820c2c3bd9d4f30db4924b"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-executive-changes-a0ac665c6d820c2c3bd9d4f30db4924b"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
+  - Google AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "0PuXbqMRqWNFL1QX+SdeJXZXe7vWs3pNNmzJQucq6WDxKX6jBuLinAJWFepJNTwDcCl95uDnNXqWuD6wClUCA2mUcNArIFZYdQmCOuPmtuYtuybJmX2Ak/Ucb0NfTn1RtLDjst+QZvFGTKCpv+2JV4MAHsa12/3gyjiBJ7Ziev52MeHJS3h8aii9ZYTG/nNI7GzYJEzjvBs8slnS46SKFLdbD93ZYd09+YPRKpv+tfk0eJdH/pf8DcibddCUHFjl6mUQ/odsSfXYnfmiqkI8cFMxeA9iIXngN+j9gNK9F6/zw+YVrmNuHPTOxPQBcdzqTy001b6J7v0ekE+YLvygW75dksBuDhbvmQ4NIPvwsbo=;lhDe+CX0aBtmT8NWLzGVHw=="
+secured: "Ts9Iz2opjdN7d1DebTeSFf+AYhgFr4rACCsBrfbm9OS9etrxdMLCX+H8TvcsdQxwaTnNAgSdNKcAf6IRYqrNAtPKFxDNcoGj03gWlBd6P3tV0GZAhbLS05Ht125GnHFJYL8XJf6G8Y7ATWzE4+XaBkqq6Z7iZkVwxMLlJuZn0WVkjsNYFGSZKo38rK90wA7acCCoN7Fm2SAMuIvATCyZli9PTgmHrXvXRHdyZns3ey9ISFEMrPABk3UQEvi8YbtNHebU8deqRHoe2yW8+j8+5DtAwfKiWlYHq88iWzkW6Fc2BZYxcyiXq+F4UMVJDfhNGQ3XgxAhDJ2m+gDcNMeppq6b/dD6jxjluxKwWQ35pnQ=;vXOIDqt9P1OZWU2Vh1VWfw=="
 ---
 

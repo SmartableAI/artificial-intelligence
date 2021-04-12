@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tredence Launches ML Works, Machine Learning Ops Platform to Accelerate AI Innovation and Value Realization"
-excerpt: "Tredence, a leading AI engineering and analytics services company, is powering innovation in artificial intelligence with the launch of"
-publishedDateTime: 2021-04-12T03:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-891008149.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-891008149.html"
+title: "Tredence launches ML Works, machine learning ops platform to accelerate AI innovation and value realization"
+excerpt: "Tredence, a leading AI engineering and analytics services company, is powering innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations"
+publishedDateTime: 2021-04-12T05:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1484499/ML_Works.mp4?p=medium"
-    width: 512
-    height: 288
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/12/full/20210412094020.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 420
         isCached: true
 
-secured: "CoCNaDlNjtGT4ariyKsRaq0WqDgdECuMDKA3Oa5o7OjJtxwghLIP3ln9lSNtjf+wdN9TrZCB4RqkFBoxHzOq78I/n1sqYwD3vqFGHjCw8ZoqxOwX82K0/eHPZvjnb2tAux+jz7t9OmZjSLVa8qcqqhh5p1Kn783cb3cW0ED5ERbmzZKbx2hyoFieYaxqSPpRE4MTuhlWMuLgeQNzlCH+3nCKArR1GAI88kxlU3uVvjknAPEft38W8f/p8NT1+m+GEjyzltVPxDa6/obIKpQjIjMstgeIyHY7E6ddHqsgY2OCMYB54H8lBsUJlaSUmy5Nel1YEHHruT7AdFTDS5owFCSGO3qZoJRVQbbg+5+30BXrJEwCJ/4HlAf24mfcJxz+ZhDfbYRJWl45k3Ffz2+oz+RYaqAPKnCDWh/CRzLzNEUQn58RiwgkQYCdCPk4CnskY3W31LeU6fSSeCy/xpHPXnJ//iVohoKCDFz3jw6hyXKcKVi6zT6fJCrPIVx68U8rfA7Qf87uY42BtIvy0rIwFQ==;Ct8PE4Q6VuUuX9Kqa4kLTw=="
+secured: "z0wF4b6u8zviOXp65jamUIL711W1CL/YMMPnimr9/qJwzslWrR9LVPBgKPSCkd31FDcSCAmfMzISai7LM8zHrbvpEltI6n+osmh2X7hk0mdmojj2nduq5HLaEGnFKTK7YVtL8qTcGIpjIQnafk6OAMdzwsFQwlMh2ze10EgK9p84XrhoLqhorxtr13JpLZWPzjuULq6cZg8vjq1rKaJuiKlsD6+hyaD8osQ8KGl9Nii0AMVjfRHS50cLEx4oeZFQ0am5VyCi2iCL7VHB3ZnOyoSOBmtKRmlZg6c2zJ7rBxFmKqcNsjCtbVy5FdT2s0dmbcfsetH0H6UzpseKL7RKRiyh99fG54AExxdwc55PzQ8=;4PNyb7z76P2W70UQoZJ4xA=="
 ---
 

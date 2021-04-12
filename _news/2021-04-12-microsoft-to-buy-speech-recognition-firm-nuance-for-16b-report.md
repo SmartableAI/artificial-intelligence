@@ -108,6 +108,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft shopping for speech tech, in talks to buy Nuance for $16B"
+    excerpt: "Burlington, Massachusetts-based Nuance whose voice recognition technology helped launch Apple Inc’s assistant Siri, makes software for sectors ranging from healthcare to the automotive industries."
+    publishedDateTime: 2021-04-12T09:32:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
     excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
     publishedDateTime: 2021-04-12T00:30:00Z
@@ -258,6 +274,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Microsoft to buy speech-recognition firm Nuance for $16bn - report"
+    excerpt: "San Francisco - Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
+    publishedDateTime: 2021-04-12T08:39:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 61
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/e03dbfda-c814-5934-b164-da8993601c7b&operation=CROP&offset=0x31&resize=3500x1969"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z
@@ -353,6 +385,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GJa2mCxUqt9o0mNW+keDZ4fh3GaL4qlX2NeelFVC9CoQxM4NSZlwkEbfeViTC4b+odyB9ARu2azQINggSwJZTT8UyvU3CHchT7CdKiISM6EP16EKSKCCiL5h6VN6suwQaXoFKGLIfclVXVj91ju9XjGTiP4UNyr5UEcR2R13Feav6UoI+nFB+YsrswxVUkY2avHlV017WPXPQGphxBc+KHbHQG0lhPHMpCS+HUPZgXeP9FP3GMk+EIA8HCqKMKiE1nwTYefjb3kyadX7vJpKJBR4IW5rvbKKJS4hRz9kaMB09JixrixI5UK+sGlLMztPnZJ4fd+nCoI8IzHIBvzAUeHBm4P5ix413SBlff1ZCaU=;N3VgHC8fD70UfOSfdbo7aw=="
+secured: "0XNzFMWiX+wACDNd+4nVm0DqmTXxdb0OeMBX1O95iRGm/FC4Rw7zlWO2ZM4zsh1tczaGY7H/1rBMIwh4cKJEheqdF07RFsFdSFQkMCltOWCAFC22F/jdTV/dqcGJHstBIXcUSqVxa3/NRq3WbD7VmEYMrenH1xApdAp7yVmSGkZHx0qH4EiLYubOtQJvwd6mfxtZakbC2xAD6xG5xp6BvgD2Ig0eX14O4Pchtz4UMhB/ePAViLt5dnfKJDHUyFXQWB/d2LQAI/4o8gTS68zzv2d+zSFI/PSgWc7je3+1e3MDDZ2jEem6S7iE5H1vyxxFneX/XFIekS7r5if2TF2DuDy3PYIMeO2hQXumw6rtFDvPbBy3jCgmRRTIe9UFopZ5cuIq+7kz/fwiZJaeaHGDUVNR1ZPMtmlN3rJVoPjS3JBcsRFp084jTZH0zkPMTt+2dB6Nl0MXlEQiQgBbKil9gLptPl/JYngj9hdDWLTByJd+ZOttyVkbdIE2QHXgumqYujLrKdcbEgA0P8+E9WNOvA==;biLwwDgj7GXNLF0IL3fEog=="
 ---
 

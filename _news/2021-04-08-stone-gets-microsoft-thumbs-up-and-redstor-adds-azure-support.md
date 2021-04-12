@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
-    excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
-    publishedDateTime: 2021-04-12T06:02:00Z
-    webUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/Microsoft_AP.jpg"
-        width: 600
-        height: 390
         isCached: true
 
 secured: "sP0LFhNieJNQdbbYtR4WyqQ+6qxChKkIsFxWcfvI2Z+W1JTH31CRVe8uGAv3GTzWWlr7pofSJ214BHe5DHr6qKFK/Zy5H1MLtFwbI49/mXfAhVmcnnOB9DVEULluqqeqOSO0ec/UuIgXmwgawyF6BMn3gsHwKgiQD+n/08uaPwCKgQc2ccxH4kwDMW0OTXvy5gU4a/d9WIVEni7rLHJBaD8mlQ6KV6Xyari6sYTo8YvfF9g1nmpSmn0Mrst1iIda98Y42K6x0fNyPEAX3Fi8sGdkSgoor/vNG+11abqqm4aUs0c397VOBOQnIY5ukwuZxlDtxxxy6+4caipRbJzyd2f0lkZtTmrnUX0SlJV+lFgC8fJFSc0iSlGufvlXCunuh2OSlvH9R49UDZCC76DABEK26FfQgUBcfsKziQv+wqTrOF6p0vNSqjqYmt++eQ0fnfUmHPO3Aa44wwuY6RKoHqMji4r35H1DbxPa+MmaIZdiJELFiTf87liTYFXUCzNYP+umLL7lOGVkoLqKN1tNWw==;pffgh/4TMkK20tpqJd7dQg=="

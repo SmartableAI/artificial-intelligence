@@ -35,22 +35,6 @@ related:
         width: 278
         height: 578
         isCached: true
-  - title: "How to report on artificial intelligence"
-    excerpt: "When that happens, it’s useful to be able to read regulation like the GDPR, understand what it says and reflect on it in your reporting.\" AI reporters always read new research papers to understand the field and to stay on top of new developments to report on."
-    publishedDateTime: 2021-04-07T16:17:00Z
-    webUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-report-on-ai-effectively/s435/a811366/"
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 59
-    images:
-      - url: "https://www.journalism.co.uk/assets/1/franki-chamaki-z4H9MYmWIMA-unsplash.jpg_resized_460_.jpeg"
-        width: 459
-        height: 306
-        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z

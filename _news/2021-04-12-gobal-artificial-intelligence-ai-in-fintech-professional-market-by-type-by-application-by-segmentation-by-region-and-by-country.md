@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI, automation the only option for SA"
+    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
+    publishedDateTime: 2021-04-12T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 41
   - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
     excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
     publishedDateTime: 2021-04-09T14:00:00Z

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 833
         isCached: true
-  - title: "Self-Driving Cars Grappling With Human Drivers That Blow Through Stop Signs"
-    excerpt: "Human drivers blow through stop signs, dangerously so, and self-driving cars need to anticipate and cope with this disastrous behavior."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/07/self-driving-cars-grappling-with-human-drivers-that-blow-through-stop-signs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60289f4a46b1060589d9be7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D528%26cropY2%3D5685"
-        width: 1200
-        height: 1031
-        isCached: true
   - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
     excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
     publishedDateTime: 2021-04-08T11:36:00Z
@@ -159,6 +143,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "BsFXbphTdCFinpm6y4qZ9UBO7DehezmuetCd+squ6MUsY7ybS/gG0gSJf7ExYUANteYRSK6GBREU8jZQcA2qUK0Z3lA5LgzImnVBV3u35xwbpYZFZiPylSdB2EUBGfg5PnJXNDOh2I3VhhIlQJql7n9etOAn7wNNSezw+6zvkYS0QH8ufNkeDFqqSiZ5xmR0/I+2Aa8IbRl1oETR8/BgW4DmgajqJq3milGl3rYkbVujyIKQRuwPPsD1/0KmIuef7Thwd5KN+HR+66ihlIKszq3TIwCfaqZc/vFK6eJ7Ya5vAav30zNIMG7oxnHrzsJcfOmcsj7y2M4idXoVGa9JJi6efs+YSd/WVUIg9zvro3w=;jwZTzAn4i3nawRWYZD+xng=="
+secured: "S+lvUR1uMdpU/gVeWN+Q9q/scCHltP39EEEcRFnz7SU0Ikl7bJfp9gfB5jLaYn62SVreHLO+9Ha91LCl4URZ4w1v26Ux5ezcOG9YaRZxB+h8JUKuPA46qfXwN57Gxfd+xP3mIjVzhRpV4TVSMqF05qaDyUo1uIMj1OaoGho9puzA2fIN2RPNrAXqobwuVtsCSR404M2X6aTFRPQCrVTRBL+N00x6PmvbjpIMvFqc0U6u9klcut9ui+IypLlYJ7nwI0us0WmBWUK6DZSI9vkcw5+9dSxc4HRYDjnSaibWJYBo5oD5BwOJvM8bhiHt8f310FOgdT2ofqod/IOvUdok4KIISt32tEN4RRa/EOJLv/CdSf1BEM1I2AKJzjVjingorf7uPlV3V1hbzY0wZSw8WUAiwd3++Nsl8yQJaIiFNGN1wwxsgCyrFxB+29XFEsEbUJ06sTz45RheZaOGh0xTFwodtVlCwhfSeCTyL1h3E9cVOjRUJAAuJourtKmSIY2MbTcjBOk1nH1s5rrI9ADmRg==;8PRduVNordAvf5dg4bb3MA=="
 ---
 
