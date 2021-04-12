@@ -3,7 +3,7 @@ name: "Huahai Yang"
 bio: "A technologist and an entrepreneur. Used to be a professor and a research scientist."
 location: San Jose, CA
 type: "profile"
-heat: 32
+heat: 50
 published: false
 
 affiliation:
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Huahai Yang"
 
-secured: "Fev5CHQvkYg5Oju0LftHM6CC7bPdPJIcWGaF2bfMXvAIeSpJnBbn15dFEVVMlE0OHbTsynwFMAdXHqkVIwvtt8xETiRcvBd/q8uaAL0T5CCGz1hEmaDUEPaUhFA+4N8ZdKqxxCQQ8TCIhuwbmc754tn81th0/XRVx7I8B9TTVZ2VR2emL6xKuXpSlEz+lrKZJIkKc7jLf8cdOP9eI+QCQdta1trgR09gmxKeyEQl1OHFb1jHrMGIu24qNClbM7Lq4buapdwmWlJdoKNpRNuG2DCkmeIvxQAsiGqnGEzmYawQ+IK/8Nzpp5VCCuf2pTwx4stzjNi4wYadnCKUv9jvsiLab28IRd9QCeXZnXY1Qc4tZxOzH1jUg9dffqJI7+JzHfOy7Nb09JQozBBd/6S14ZsY9H9kk8tpxLMST1jlrM4=;3G29nFuakGXP3MBLxkrsig=="
+secured: "5jgmqjqpbOX4mXzLIlYAoH+12ypaMzNa6rDCcqtQnnJrUeul6A6TtJEKeSBo21MfX3tdZVDRdeZJ9xxc4Xi4A/Wf7S2oDgGcu01R7Js0rxp1JtXassG1CEojtiOHNi1Mb4WnrsyrZ2oujz9KnozK1I3JWUaBTq5s5DolAozTfnhBbQe853A+3NLYEiMYikhDCJUXnA/3N1vfcQH2erQ/muGy+q4jr1yGJlaJi8I41ln3yIiKULhN6SFolavWFRKFVLFQOrOUcfT3CUlAfTpGlb1CD35cv81PHyNcDafp3elqVuHCeI8VItQ04yZQdJdFLwdVJtzV7GjdTSk++qdchjZrldMj+PbJVeMr14XYagrgX5ruHRJmc404zbbjumSrWZvXgmS3+4NRJS5CwPvB2u54dgdZBqw45x7QYfxTpH8=;WX11b8FOyDYH0z3cxyRURQ=="
 ---
 
