@@ -2,6 +2,159 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
+      "title": "Supply Chain Strains Sharpen Focus on AI",
+      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "publishedDateTime": "2021-03-31T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-auditoria-raises-155m-to-expand-ai-platform-automating-repetitive-accounting-tasks.md",
+      "title": "Auditoria raises $15.5M to expand AI platform automating repetitive accounting tasks",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Auditoria, a startup offering AI-driven automation products for corporate finance teams, today announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "publishedDateTime": "2021-03-31T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
+      "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
+      "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367510",
+      "originalUrl": "https://www.entrepreneur.com/article/367510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616690604-GettyImages-1187635329.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367510",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367510",
+      "publishedDateTime": "2021-03-31T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
       "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
       "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
@@ -1062,159 +1215,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient.md",
-      "title": "AI experts warn Facebook’s anti-bias tool is ‘completely insufficient’",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today published a blog post detailing Fairness Flow, an internal toolkit the company claims enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dataikus-new-ai-tools-reduce-dependency-on-data-science-teams.md",
-      "title": "Dataiku’s new AI tools reduce dependency on data science teams",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Dataiku today expanded its effort to make AI accessible to the average business user with an update that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Dataiku.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-edge-computing-orchestration-startup-zededa-raises-125m.md",
-      "title": "Edge computing orchestration startup Zededa raises $12.5M",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Zededa, an edge virtualization startup, today announced that it raised $12.5 million in an oversubscribed ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/ZEDEDA_Logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

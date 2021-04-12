@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-10-one-stop-machine-learning-platform-turns-health-care-data-into-insights.md",
+      "title": "One-stop machine learning platform turns health care data into insights",
+      "excerpt": "By shepherding hospital data through an ever-increasing set of machine learning models, the system could assist hospitals in planning for events as large as global pandemics and as small as no-show appointments. With Cardea, hospitals may eventually be ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/cardea-machine-learning-platform-health-care-data-insights-0409",
+      "originalUrl": "https://news.mit.edu/2021/cardea-machine-learning-platform-health-care-data-insights-0409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Cardea-LIDS-2021_0.png",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-acoustic-anomaly-detection-using-amazon-lookout-for-equipment.md",
+      "title": "Acoustic anomaly detection using Amazon Lookout for Equipment",
+      "excerpt": "As the modern factory becomes more connected, manufacturers are increasingly using a range of inputs (such as process data, audio, and visual) to increase their operational efficiency. Companies use this information to monitor equipment performance and anticipate failures using predictive maintenance",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T12:39:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-how-artificial-intelligence-is-being-used-to-streamline-training.md",
       "title": "How Artificial Intelligence is Being Used to Streamline Training",
       "excerpt": "DeepHow AI's digital workforce training platform makes developing and distributing multimedia educational content more efficient.",
@@ -353,7 +457,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -448,7 +552,7 @@
       "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -924,6 +1028,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
+      "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
+      "excerpt": "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "originalUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
       "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
       "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
@@ -1035,7 +1183,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1076,153 +1224,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-habana-labs-chosen-to-ai-train-the-voyager-supercomputer.md",
-      "title": "Habana Labs chosen to AI train the Voyager supercomputer",
-      "excerpt": "Artificial intelligence (AI) chip maker Habana Labs has announced San Diego Supercomputer Center (SDSC) selected it to provide high-performance inference accelerators and AI training for its Voyager supercomputer. SDSC’s Voyager, scheduled for release ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
-      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1591268911/itpro/Supercomputer1.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
-      "publishedDateTime": "2021-04-08T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-ab-inbev-werner-enterprises-to-test-embark-driverless-truck-technology.md",
-      "title": "AB InBev, Werner Enterprises to test Embark driverless truck technology",
-      "excerpt": "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "publishedDateTime": "2021-04-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-researchers-say-ai-will-greatly-impact-the-future-of-education.md",
-      "title": "Researchers say AI will ‘greatly impact’ the future of education",
-      "excerpt": "AllHere isn’t the only AI-powered technology startup that expanded last year. According to Stanford University’s 2021 AI Index, more than $40 billion was invested in all AI startups in 2020. Researchers at the Digital Promise-led Center for Integrative ...",
-      "sourceUrl": null,
-      "webUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
-      "originalUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Salman-fol-tease-april-7.jpg?fit=2000%2C1333&ssl=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
-      "cdnAmpWebUrl": "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
-      "publishedDateTime": "2021-04-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hechinger Report",
-        "domain": "hechingerreport.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

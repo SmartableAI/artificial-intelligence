@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-varian-and-google-to-co-develop-ai-based-cancer-diagnostic-platform.md",
+      "title": "Varian and Google to co-develop AI-based cancer diagnostic platform",
+      "excerpt": "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic ... must be targeted or protected during a course of radiation therapy. Additionally, Varian will leverage Google’s NAS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608210084/itpro/medical_images_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "publishedDateTime": "2021-04-12T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-will-buy-ai-firm-nuance-for-197-billion-to-bolster-healthcare-tech.md",
       "title": "Microsoft will buy AI firm Nuance for $19.7 billion to bolster healthcare tech",
       "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Microsoft has agreed to buy the AI and voice communications firm Nuance for $19.7 billion. The deal, expected to close at the end of the year, would value Nuance at $56 per share, implying a premium of 23% to the ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 527,
+      "heat": 607,
       "tags": null,
       "images": [
         {
@@ -63,7 +115,7 @@
       "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1405,49 +1457,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-north-american-ai-in-healthcare-market-trends-2019-segmentation-outlook-industry-report-to-2025.md",
-      "title": "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025",
-      "excerpt": "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U327247103_g.jpg",
-          "width": 800,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "publishedDateTime": "2021-03-27T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

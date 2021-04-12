@@ -64,20 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Healthcare tops 100 most innovative AI companies: 8 digital health startups on the list"
-    excerpt: "Healthcare secured the spot as the most-represented industry among a grouping of the 100 most promising artificial intelligence startups in the world, according to a new CB Insights report. Since 2010, the 100 companies on the publication's \"AI 100 2021 ..."
-    publishedDateTime: 2021-04-07T21:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-tops-100-most-innovative-ai-companies-8-digital-health-startups-on-the-list.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 46
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
     publishedDateTime: 2021-04-08T18:12:00Z

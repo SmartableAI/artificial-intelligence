@@ -2,28 +2,28 @@
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
 excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-publishedDateTime: 2021-04-08T07:21:00Z
-originalUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
-cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+publishedDateTime: 2021-04-08T08:24:00Z
+originalUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/"
+webUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/"
+ampWebUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
+cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: Nippon
+  domain: nippon.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
-    width: 620
-    height: 348
+  - url: "https://www.nippon.com/en/ncommon/contents/news/573263/573263.jpg"
+    width: 1280
+    height: 854
     isCached: true
 
 related:
@@ -176,6 +176,6 @@ related:
         height: 560
         isCached: true
 
-secured: "slrYhuqOPUmb8Y7j1gR1ofekV4L/vhamUr01+1ov91PADur2dhmHn807ycSUoh1NnDOuxRqKNH9m96f01FJw/8+tT6HNOP2x6eNmbutYoyOdP1aetrJYmVFppmGwcVNPNtnj/Y5Czr54N4ScaIDY1glxX0seBXos7Fn5nPRi2nd6A6J/+aEn0KHURkDZokrabRJRMc/MIf5VqIyULCqibC4ZbYud99cecoJgNkgRQNTSwH8fR89HRXrM/qbUmkvAbJTGiYVvbUdZJuWXANeSXT0ZOkY5L8LTzFZDiAJeiNo/izWD1zew5lCCBPwgBDkhFW1TfEThnu6+oSk5n1ka3eGwRQb41ddyFz7zPPQN4fE=;eCWpUUfT4uFk6wX8cGZCdQ=="
+secured: "/N5WMuq70WVoCnx3iNn/GtQ6+tekFLneJgapzPNzioN4Kkz2M+LcmGBdbxhZsP8GFdCIod6tlLMku8KRer2V9Hjy6TQhj4cKGyNC9wBXk0h2VaXy/e4h6QM2UK4tI3H9myIv1hS4hPndtIFQL1OXe0MIBS0RVpkrKpK5apWmqAmunsbLgfjkUZ8vOC1BACsL6gLSf+3i9XRcidPwRa3WC5g88LO0i0nJN8V15l3l2GoGXwNRSjKv65Y+GhEhu+3cl3qIGw6o7XL9hkwPwCiwLpiDclCGoA2OgbYJQujcy+CMWa0X3JRWTXVXFPmq8VPiIwqDZXBjCAm6ilf5KeQR09dAYzQlLkuLA6/tJYvXDLw=;2nNEn/1zxjFtTQUVV3kGwQ=="
 ---
 

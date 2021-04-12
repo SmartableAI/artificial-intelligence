@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-botz-vs-robo-the-best-robotics-artificial-intelligence-etf-for-2021.md",
       "title": "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021",
       "excerpt": "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,",
@@ -1365,58 +1418,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
-      "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
-      "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

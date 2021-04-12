@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
+      "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
+      "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/5-plant-leaf-disease-data.jpg",
+          "width": 800,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T11:23:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-this-browser-game-shows-the-limits-of-ai-emotion-recognition-software.md",
+      "title": "This browser game shows the limits of AI emotion recognition software",
+      "excerpt": "Spotted by The Verge, the Emojify Project was created by a multidisciplinary team led by University of Cambridge professor Alexa Hagerty. You’ll find it over on emojify.info. It will ask you to look at your computer’s web camera and try to produce six ...",
+      "sourceUrl": null,
+      "webUrl": "https://emojify.info/menu",
+      "originalUrl": "https://www.engadget.com/ai-emotion-recognition-game-182056088.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-ucl-scientists-use-ai-to-identify-three-new-multiple-sclerosis-subtypes.md",
+      "title": "UCL scientists use AI to identify three new multiple sclerosis subtypes",
+      "excerpt": "Scientists at UCL have used artificial intelligence (AI) to identify three new multiple ... treatment choice and identify patients who would best respond to a particular therapy. Explaining the research, lead author Dr Arman Eshaghi (UCL Queen Square ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210406/UCL-scientists-use-AI-to-identify-three-new-multiple-sclerosis-subtypes.aspx",
+      "publishedDateTime": "2021-04-06T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-deep-learning-networks-prefer-the-human-voicejust-like-us.md",
       "title": "Deep learning networks prefer the human voice—just like us",
       "excerpt": "Once both neural networks were ready, Chen ... One of the more refreshing results of computer science research on artificial intelligence has been an unexpected side effect: by probing how machines learn, sometimes researchers stumble upon fresh insight ...",
@@ -237,10 +375,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ...",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -273,9 +411,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1045,152 +1182,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-you-can-now-turn-on-nvidias-excellent-noise-cancellation-with-any-geforce-gpu.md",
-      "title": "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU",
-      "excerpt": "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
-      "originalUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/48T59jevWjdV3uxFo5wWBb-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
-      "publishedDateTime": "2021-04-06T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix.md",
-      "title": "These AI-made songs channel the spirit of Cobain and Hendrix",
-      "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/possessed-photography-U3sOwViXhkY-unsplash-e1617698188720-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/06/these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix/amp/",
-      "publishedDateTime": "2021-04-06T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners.md",
-      "title": "Facial recognition tech is supporting mass surveillance. It's time for a ban, say privacy campaigners",
-      "excerpt": "A group of 51 digital rights organizations has called on the European Commission to impose a complete ban on the use of facial recognition technologies for mass surveillance – with no exceptions allowed. Comprising activist groups from across the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "originalUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2015/06/24/6e25c7c0-3573-4c02-b123-9438a67474f7/camerasurveillance.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "publishedDateTime": "2021-04-06T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

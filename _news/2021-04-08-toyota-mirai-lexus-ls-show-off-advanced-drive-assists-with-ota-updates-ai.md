@@ -45,19 +45,19 @@ related:
         isCached: true
   - title: "Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-    publishedDateTime: 2021-04-08T07:21:00Z
-    webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-    ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
-    cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+    publishedDateTime: 2021-04-08T08:24:00Z
+    webUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/"
+    ampWebUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
+      name: Nippon
+      domain: nippon.com
     quality: 44
     images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
-        width: 620
-        height: 348
+      - url: "https://www.nippon.com/en/ncommon/contents/news/573263/573263.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "Toyota unveils new models loaded with autonomous driving tech"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."

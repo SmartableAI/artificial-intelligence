@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-meet-the-xenobots-living-biological-machines-that-could-revolutionize-robotics.md",
+      "title": "Meet the Xenobots: Living, biological machines that could revolutionize robotics",
+      "excerpt": "“We could program the living robots to sense pollutants, and hopefully to seek them out and destroy them. Once they finish their job, they [could then] break down harmlessly in the environment, [without leaving] any artificial waste behind.” The longer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/",
+      "originalUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/?amp",
+      "publishedDateTime": "2021-04-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-varian-and-google-to-co-develop-ai-based-cancer-diagnostic-platform.md",
+      "title": "Varian and Google to co-develop AI-based cancer diagnostic platform",
+      "excerpt": "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic ... must be targeted or protected during a course of radiation therapy. Additionally, Varian will leverage Google’s NAS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608210084/itpro/medical_images_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "publishedDateTime": "2021-04-12T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-how-ai-could-upgrade-brain-stimulation-therapies.md",
       "title": "How AI Could Upgrade Brain Stimulation Therapies",
       "excerpt": "Some scientists are even using advanced AI predictive technology to enhance their brain stimulation therapy methods. The idea of brain stimulation is not new and carries with it the cultural ...",
@@ -112,7 +207,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-will-buy-ai-speech-firm-nuance-for-19-billion-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 527,
+      "heat": 607,
       "tags": null,
       "images": [
         {
@@ -476,7 +571,7 @@
       "originalUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -512,49 +607,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization.md",
-      "title": "Tredence launches ML Works, machine learning ops platform to accelerate AI innovation and value realization",
-      "excerpt": "Tredence, a leading AI engineering and analytics services company, is powering innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/12/full/20210412094020.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-121041200260_1.html",
-      "publishedDateTime": "2021-04-11T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-internal-affairs-used-facial-recognition-software-against-nypd-cops-email.md",
       "title": "Internal Affairs used facial recognition software against NYPD cops: email",
       "excerpt": "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ...",
@@ -563,7 +615,7 @@
       "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1248,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-acoustic-anomaly-detection-using-amazon-lookout-for-equipment.md",
-      "title": "Acoustic anomaly detection using Amazon Lookout for Equipment",
-      "excerpt": "As the modern factory becomes more connected, manufacturers are increasingly using a range of inputs (such as process data, audio, and visual) to increase their operational efficiency. Companies use this information to monitor equipment performance and anticipate failures using predictive maintenance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T12:39:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

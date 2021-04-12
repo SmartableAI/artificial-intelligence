@@ -55,6 +55,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Vertical farmer AppHarvest buys robotics start-up Root AI"
+    excerpt: "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ..."
+    publishedDateTime: 2021-04-12T15:50:00Z
+    webUrl: "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx"
+    type: article
+    provider:
+      name: Just-Food
+      domain: just-food.com
+    quality: 69
+    images:
+      - url: "https://i4.progressivedigitalmedia.com/3/2017-08-09-10-03-19958918_1672264276138920_2939318213788909041_n_cropped_90.jpg"
+        width: 424
+        height: 282
+        isCached: true
   - title: "AppHarvest Announces Acquisition Of Root AI And Its Signature Robot, Virgo - Quick Facts"
     excerpt: "(APPH, APPHW) has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. Based in Somerville, Mass., Root AI has 19 full-time employees,"
     publishedDateTime: 2021-04-08T10:23:00Z
@@ -88,6 +102,6 @@ related:
       domain: foodbev.com
     quality: 34
 
-secured: "Oz7Xuwj0lF4BkBDfzlvgxOUNNqX/YN5k4tNYnRI4e9nFS6JhzJesvu0jRKmQPJ+tPUsDLmxZCHCFjXPrVIocKKil2+F6uiSZb+2ytoZa6z5yNs0na7NcUewauhbpoqEOlS/lkAsnLC3pMY3f/gloGiwZmUAFdVnsGc2Uba4ypQz/GzcwISjZjyR+GOXlbk7Rg3J/zQ5odiIzaGZqy75Kq5K+lL+BxMzr2ZpZQU0fWsCLrRcfy+JBLUzZWeeicBMpyKk9xdzAKGqvHNhvGf1XnxntE9nDHcFyKNcJrEyu0ymqXLGnT6p23cImhOTWMfq7okNnRBGF1AatslVWoGUjn6lHA5PidFpVfPAbYOT/Ycs=;g4AQvd/NJlQks+U0L4ysXg=="
+secured: "xHa5Zq8w4R0btoh5JYiPxwTJ+sQ1Lup86ykyDBPRmbmeWVlkn3wNbWanZ/xQcEGfUcz6xmCf2mTxHjAPB9s91GDdhWuPRxzYsVKJKf+FheJUPodQtccc5OTXVLxlCgkTDp3EfL7gI9anJPtRUnxfw3cgITjCcnNk/Vi5dWP8r7Ppl+n8scqgfYvbOTp0Kku5Fi9NXhYMBikACcoAzWmA7PPWDF51nAlG0qb4+rSu9PQk9ATBtbb/cn45/9BPhQLuPhHXoCkkOUZUy9HUGuL86/S4L7m/3SOJ2o/SyfCximmur+a9YJwZhYIt6LxnRIGk66Rr6TIuOXTx9q4CV1iQTUNWwkYynt/tSU/nXUm4Uy0=;UC6WiKC90mVmMY3N2s+fTA=="
 ---
 

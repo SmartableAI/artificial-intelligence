@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Philips and Ibex Medical Analytics team to accelerate adoption of AI-powered digital pathology"
-excerpt: "“Building on our strong portfolio to support clinical decision-making in oncology, we bring together the power of imaging, pathology, genomics and longitudinal data with insights from artificial intelligence ... image-guided therapy, patient monitoring ..."
+excerpt: "Philips and Ibex Medical Analytics cooperate to globally commercialize clinically proven, AI-powered digital pathology solutions; Combination of Philips’ digital"
 publishedDateTime: 2021-04-08T13:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e/gallery/410a3c693a6edc44d8171a992dbd3ca5"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-europe-corporate-news-ca67c1c45ebbf50567abd4b54c94941e/gallery/410a3c693a6edc44d8171a992dbd3ca5"
 type: article
 quality: 27
 heat: 27
@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
-secured: "m98/9QYnzHKnJ2LIP4X5duwaxh8EjZBOIQG/A2kve3SH+5PxJtQdu2V6TqZVls/+yJUg8NUbs6rQgomKhpxviTdi+RqFQSF0C+z5nodj07DL55cdZ8fFvZBze3hb6fzvS30IuB499y/dOfqPLzujiCNa/sB++cIorBdxzt8oTGYg2up/L6BprfjI6SG/Pn2JEH1resU2rJBkuO7EFOsCUabjJ6tgWBQHEwFQEHqukfBM1NXC43k6A+zbVpLmh/uk58Hslz28X99LwVdlkzz8DEW2+QeYvESSHumFrMvNWQ8KohjQi5J2Gg5/rT3NvS0SxMi+ntxxjob/S3tyCjz0BUqtnBIPt+MegQXVrhl+uTQ=;Y2d9Hf17Nb+NciWIMHdtZQ=="
+related:
+  - title: "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud"
+    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP ... they need to better understand their data and realize the true transformational potential of AI,” said Arun Murthy, Chief Product Officer, Cloudera. “CDP analytic experiences are purpose ..."
+    publishedDateTime: 2021-04-12T15:31:00Z
+    webUrl: "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+
+secured: "Gej2ZeldpGG26Ktb/2RMTfsnjgx7Ob1hZnwUW0XxMaxYSuBy2btkLjOvWI8vzQB4bpN67qox+BDpIlcGRKCVgxmStZ/w6NYQIiWFJbfHVtNz3+LBiqfrOW2zM1ds7ziXJnSA84pgHJ9Yf2rOJVJC2jqZRTddOLMfCBge5/Ps+SS3kETGKPxzh9dtsAKN0t8ZzAHXoWpcTdp0v+rgjFPnbIAbCQcZ6FkIznscBgTatzuhzUmUEoHVKqQ9/bGipGWmOg/HXjzkz3wo+pL+XJZD+d78THt9cka7lGB9S6ZQ7ysvW1jtrgSzAiCSH3enflaFlsShK9MmEl6gqWxyAYhmQ20IiLLxEKdzsmuuJEUW39U=;KmnC0Mlk9C8VvNJ+xkKhmA=="
 ---
 

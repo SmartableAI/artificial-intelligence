@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
 type: article
 quality: 83
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Will Increase Demand, Statistics, Growth Rate In Forecast By 2027"
+    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-04-12T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-will-increase-demand-statistics-growth-rate-in-forecast-by-2027-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Will Increase Demand, Statistics, Growth Rate In Forecast By 2027"
+    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly high CAGR, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-04-12T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-will-increase-demand-statistics-growth-rate-in-forecast-by-2027-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
     excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
     publishedDateTime: 2021-04-09T12:56:00Z

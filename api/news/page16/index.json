@@ -2,6 +2,116 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
+      "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
+      "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "originalUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
+      "publishedDateTime": "2021-03-29T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry.md",
+      "title": "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry",
+      "excerpt": "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "originalUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-chipotle-invests-in-nuro-in-autonomous-delivery-push.md",
+      "title": "Chipotle Invests In Nuro In Autonomous Delivery Push",
+      "excerpt": "Chipotle Mexican Grill has invested in Nuro in its efforts to transform its digital business. Nuro is a market leader in autonomous delivery and uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
+      "originalUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/03/shutterstock_1358720510.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/chipotle-invests-in-nuro-in-autonomous-delivery-push/amp/",
+      "publishedDateTime": "2021-03-29T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-openais-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day.md",
       "title": "OpenAI’s text-generating system GPT-3 is now spewing out 4.5 billion words a day",
       "excerpt": "The best-known AI text-generator is OpenAI’s GPT-3, which the company recently announced is now being used in more than 300 different apps, by “tens of thousands” of developers, and producing 4.5 billion words per day.",
@@ -1030,152 +1140,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-ai-can-be-dangerous-how-to-reduce-risk-when-using-ai.md",
-      "title": "AI Can Be Dangerous - How To Reduce Risk When Using AI",
-      "excerpt": "AI has the potential to be dangerous. As a result, we need to create ways to manage the risk presented by AI-based systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f79eaad8970188040f338%2F0x0.jpg",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
-      "publishedDateTime": "2021-03-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-robots-not-ready-to-clean-the-bathroom.md",
-      "title": "Robots not ready to clean the bathroom",
-      "excerpt": "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks. Last month, Boston Dynamics showed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business",
-      "originalUrl": "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197767613_1G2robots0328_t600.jpeg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arkansas Democrat-Gazette",
-        "domain": "arkansasonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
-      "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
-      "originalUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gpt-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
-      "publishedDateTime": "2021-03-27T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

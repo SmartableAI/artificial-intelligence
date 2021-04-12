@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-f
 webUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Biometric Companies
@@ -35,6 +35,17 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
+    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
+    publishedDateTime: 2021-04-09T11:00:00Z
+    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
+    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 37
 
 secured: "reaU0yKtctpMABvOWclw9aKgqnBMIwnDHeaDl52vGbny8VbnfAgxtu19wDiz7T46MXC+zofGRuj8H3WLeLwAnOm4tiLxGtaO88WUE1QLZ+VhfYFqLbBnqUWiUXTlmMQaLlDp5B7R7C0e48wN3VxihodOiBvt1QJPv5W4T3Ad9FFRzPNH65KzxIetMPkr2LJ3Xdlw18JIxvJHdlErNwKMXfuvB2AH7j5EGLzArSUrA71GgWMwCkKWtcVOJLyajvi9jOZq5Bmgh9acmJmkjw27ERJEsnFdcnPzxItidOMKjLcUb0Q3VkTGdYnoHCmhJuFPxRPX2dYVZJ7AP8io+75XvbsgR5a8SDPwpfO7mYr0HeI=;kmopE8YO2xdF20wJLvXuLA=="
 ---

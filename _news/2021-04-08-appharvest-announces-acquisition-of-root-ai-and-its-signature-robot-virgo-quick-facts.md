@@ -63,6 +63,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Vertical farmer AppHarvest buys robotics start-up Root AI"
+    excerpt: "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ..."
+    publishedDateTime: 2021-04-12T15:50:00Z
+    webUrl: "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx"
+    type: article
+    provider:
+      name: Just-Food
+      domain: just-food.com
+    quality: 69
+    images:
+      - url: "https://i4.progressivedigitalmedia.com/3/2017-08-09-10-03-19958918_1672264276138920_2939318213788909041_n_cropped_90.jpg"
+        width: 424
+        height: 282
+        isCached: true
   - title: "Greenhouse Growing Game Changer? AppHarvest Plugs into Artificial Intelligence"
     excerpt: "AppHarvest has acquired agricultural robotics and artificial intelligence company Root AI to increase efficiency."
     publishedDateTime: 2021-04-10T17:06:00Z

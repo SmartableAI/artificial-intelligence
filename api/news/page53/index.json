@@ -2,6 +2,215 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
+      "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
+      "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "publishedDateTime": "2021-03-01T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-chinas-synthetic-media-startup-surreal-nabs-funding-in-3-months.md",
+      "title": "How China’s synthetic media startup Surreal nabs funding in 3 months",
+      "excerpt": "What if we no longer needed cameras to make videos and can instead generate them through a few lines of coding? Advances in machine learning are turning the idea into a reality. We’ve seen how deepfakes swap faces in family photos and turn one’s selfies into famous video clips.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/01/surreal-profile/",
+      "originalUrl": "https://techcrunch.com/2021/03/01/surreal-profile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/%E8%AF%97%E4%BA%91-%E7%94%B5%E5%95%86%E8%A7%86%E9%A2%91%E6%8D%A2%E8%84%B8.gif",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/01/surreal-profile/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/surreal-profile/amp/",
+      "publishedDateTime": "2021-03-01T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-self-driving-cars-market-growing-business-factors-2021-industry-trends-share-size-growth-opportunity-and-forecast-2027.md",
+      "title": "Self-driving Cars Market Growing Business Factors 2021: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2027",
+      "excerpt": "Global \"Self-driving Cars Market\" report provides key analysis on the market status of Self-driving Cars manufacturers with the best facts and figures, definitions, SWOT analysis, expert opinions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-growing-business-factors-2021-industry-trends-share-size-growth-opportunity-and-forecast-2027-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-growing-business-factors-2021-industry-trends-share-size-growth-opportunity-and-forecast-2027-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-markforged-a-3d-printing-startup-will-go-public-in-a-spac-merger.md",
+      "title": "Markforged, a 3D Printing Startup, Will Go Public in a SPAC Merger",
+      "excerpt": "Per details of the deal, which is expected to be finalized sometime this summer, the combined valuation of the merged companies is expected to be $2.1 billion",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
+      "originalUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lqp819fkyto0ykyrywne.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
+      "publishedDateTime": "2021-03-01T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
       "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
       "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",
@@ -982,204 +1191,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
-      "title": "Codeacademy partners with Black and Brilliant for 10-week AI course",
-      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "originalUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "publishedDateTime": "2021-03-01T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
-      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
-      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "publishedDateTime": "2021-03-01T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience.md",
-      "title": "Only 50% Of Hires Are Successful: How AI Is Optimizing The Experience",
-      "excerpt": "Organizations need to have processes to handle the increased number of applicants the best way possible, especially for industries that had to let go of many employees, to recruit the best candidates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603cfb88adb5fdfd03d7427c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
-      "publishedDateTime": "2021-03-01T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-facebook-is-considering-a-creepy-new-feature-for-its-smart-glasses.md",
-      "title": "Facebook is considering a creepy new feature for its smart glasses",
-      "excerpt": "Facebook is considering adding facial recognition support to its augmented reality glasses. The company is looking into the legal and privacy issues around allowing the smart glasses to use facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/",
-      "originalUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2021/01/social-network.jpg?quality=70&strip=all",
-          "width": 1599,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/amp/",
-      "publishedDateTime": "2021-03-01T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

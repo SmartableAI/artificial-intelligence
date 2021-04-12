@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-lear
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI, automation the only option for SA"
+    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
+    publishedDateTime: 2021-04-12T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 41
   - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
     excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
     publishedDateTime: 2021-04-08T06:30:00Z

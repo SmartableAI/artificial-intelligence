@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-medical-technology-colon-and-rectal-cancer-diagnostic-tests-84723ac8f8aee877aff178c5aed5972a"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "FDA clears its first plug-in AI video system for spotting polyps during colonoscopy"
+    excerpt: "The FDA has cleared its first artificial intelligence-based device that uses machine learning to spot polyps or suspected tumors in real-time during a colonoscopy."
+    publishedDateTime: 2021-04-12T14:45:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/fda-clears-its-first-plug-ai-video-system-for-spotting-polyps-during-colonoscopy"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 33
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1618233292/fda-COURTESYOF-Andrew%20Harnik-Associated%20Press.jpg/fda-COURTESYOF-Andrew%20Harnik-Associated%20Press.jpg?kVH_tDe9zMdWUHItT9oRk1jDL.HNFgYM"
+        width: 1274
+        height: 850
+        isCached: true
 
 secured: "UhzAADn2VbenAE3qBtuCYIL3khflyZwzEYZrDsbBGDV/QyaT8Nu8FeIUZ1h5HIwZbVVenaumwlXWizc4kNv2uXL5Ro+TcWkCPBVlgE3pQgODeTJ2LJqoKHhhs39MKufiD85/d+rp5NcVfmc7T7f/FUbl+wNYECShUwh+y/JZjAot5f7PIasoxgbMYnW6ZqulnipEWRi4WQY2D42V/GFcAwtZPmizESqWkjQiAcRs/KyjVjYB1tWccQO+tlB93pr1HhMW6NhDOtgCrdbYQk/639abp6SShJCv45VOv5E/J2jQqOhiTlgH8/F5xqMx/PgUAxYabJJUuIN/ovDU54xaSO+aGlEMUwijvo07qVX5ADQ=;7R4ElBOzrV2BfkWHjLZXwg=="
 ---

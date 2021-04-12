@@ -21,47 +21,48 @@ topics:
   - AI
 
 related:
-  - title: "Education tech investments boom in 2020 focused on AI solutions"
-    excerpt: "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic."
-    publishedDateTime: 2021-04-07T21:22:00Z
-    webUrl: "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/"
+  - title: "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)"
+    excerpt: "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ..."
+    publishedDateTime: 2021-04-09T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 106
+      name: Associated Press
+      domain: apnews.com
+    quality: 64
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
-    publishedDateTime: 2021-04-12T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
+  - title: "Not using AI in healthcare will soon be malpractice"
+    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
+    publishedDateTime: 2021-04-12T09:18:00Z
+    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2021-04-09T13:34:00Z
+    webUrl: "https://www.benzinga.com/news/21/04/20556236/biosig-technologies-says-invited-to-join-alliance-for-artificial-intelligence-in-healthcare"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI, automation the only option for SA"
-    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
-    publishedDateTime: 2021-04-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 41
 
 secured: "p4VfNLKeix1ugkuBwB/Q45yCtDbzv14lBn2rUMlAlxrGolwnSJ7WzQvJMGRf5YX097gjuILSn8SPMpagpGPQ5MKbtFOcuUJxat0ZLbr3MUe8+XcvPVCGszBy/c+R3XN+Tv6YRIK9NMnU05c282NljEUXBsd4Qj1tB8iDksPqHiZKibTJJoa+8D1ZbxoQA9ishd5fVNB7QK6jBlfarYe/z+szlVY6hj0v7QzBKjyVHng8ID9tPttOIJ03ZQDDXIgIyQ5vg5Mxsn1weyDVxj3NPqsCzBgMbxzktrFbUVlZ1JGpS6D6fwlQAAIFNYB4qKMso8b2HCngJWuZPU+3g/HdSYN1EpBSho837qyjQfl8ZDg=;TL9z40bMO19l4CjcCtzWzA=="
 ---

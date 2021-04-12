@@ -10,7 +10,7 @@
       "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -94,6 +94,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
+      "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
+      "excerpt": "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "originalUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -824,6 +868,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-uber-driver-claims-facial-recognition-app-locked-him-out-of-system-after-he-tonsured-his-head.md",
       "title": "Uber driver claims facial recognition app locked him out of system after he tonsured his head",
       "excerpt": "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,",
@@ -917,49 +1013,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1337,49 +1390,6 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-disney-world-tests-facial-recognition-at-magic-kingdom.md",
-      "title": "Disney World Tests Facial Recognition At Magic Kingdom",
-      "excerpt": "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
-      "publishedDateTime": "2021-03-29T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

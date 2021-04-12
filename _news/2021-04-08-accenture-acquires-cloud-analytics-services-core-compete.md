@@ -59,20 +59,6 @@ related:
         width: 750
         height: 406
         isCached: true
-  - title: "Accenture Grows AI, Cloud Capabilities With Core Compete Buy"
-    excerpt: "Accenture expanded its native cloud analytics and related artificial intelligence capabilities with its Core Compete acquisition."
-    publishedDateTime: 2021-04-07T22:51:00Z
-    webUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabilities-with-core-compete-buy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0268-11fc96109c5c-f4cb6a9c686e-1000/accenture_sanjeev_vohra_small.jpg"
-        width: 480
-        height: 719
-        isCached: true
   - title: "Accenture Buys Analytics Services Firm Core Compete"
     excerpt: "and machine learning to help clients become data-driven enterprises. Terms of the deal were not disclosed. Durham, North Carolina-based Core Compete, which also has offices in the UK and India, works with clients across the retail, financial services ..."
     publishedDateTime: 2021-04-09T22:38:00Z

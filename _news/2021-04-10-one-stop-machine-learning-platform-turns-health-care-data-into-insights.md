@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/cardea-machine-learning-platform-health-
 webUrl: "https://news.mit.edu/2021/cardea-machine-learning-platform-health-care-data-insights-0409"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: news
@@ -27,6 +27,24 @@ images:
     width: 3000
     height: 2000
     isCached: true
+
+related:
+  - title: "One-stop machine learning platform turns health care data into insights"
+    excerpt: "By shepherding hospital data through an ever-increasing set of machine learning models, the system could assist hospitals in planning for events as large as global pandemics and as small as no-show appointments. With Cardea, hospitals may eventually be ..."
+    publishedDateTime: 2021-04-12T15:01:00Z
+    webUrl: "https://techxplore.com/news/2021-04-one-stop-machine-platform-health-insights.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-one-stop-machine-platform-health-insights.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-one-stop-machine-platform-health-insights.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/onestopmachi.jpg"
+        width: 900
+        height: 599
+        isCached: true
 
 secured: "fQBf3XrHHMtK3LLEzWEgnp1yRsRGa2NnLk75EEkut8mlwSI4OEl2IbEhD7mxUNaYbXElkll7PQi+CtLtRU5tRY6MgcEEJTCgVIa78C44HYsjrzoHltQycn73mgFqruKuHciY6Knv+9y5oi1UbN9cGJ7CBabe4TqgOD0eGQ65gmC6djJlzq91u7Kq1kuEoquQJkHvjoY6wuJeprZXTcyuFMawLvKQQdkTt274dWB1PEbUlLPcBxN/jKNfDtYGJeXN05nyisUmpZACTuEIeWtB5sGLReWEpVriJkzB9jOUcdH0vOcxeCMWkxSaTX9E9vjkgyrg6mq3qxMWOtxmPe2Mw/XxTQkZB3VzRFbZxgnZY+E=;5DJte3kJ2LCbfRIDcAwJYQ=="
 ---

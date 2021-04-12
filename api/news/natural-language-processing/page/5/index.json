@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-natural-language-processing-services-in-ai-annotation.md",
+      "title": "Natural Language Processing Services in AI Annotation",
+      "excerpt": "AI applications can be developed with the help of natural language processing (NLP) using machine learning or deep learning. NLP helps machines (mainly computer system) understand, analyze, manipulate, and potentially generate the human language or the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
+      "originalUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arcticstartup.com/wp-content/uploads/2021/02/Text-Classification.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArcticStartup",
+        "domain": "arcticstartup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-natural-language-processing-an-essential-element-of-artificial-intelligence.md",
       "title": "Natural Language Processing: An Essential Element of Artificial Intelligence",
       "excerpt": "Natural Language Processing (NLP) is an important part of artificial intelligence which is being researched upon to aid enterprises and businesses in the quick, speedy and fast retrieval of both structured and unstructured organizational data when needed.",
@@ -1337,49 +1380,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-sdls-intelligent-language-solution-enables-alteryx-to-manage-and-translate-any-type-of-content-across-the-business.md",
-      "title": "SDL’s Intelligent Language Solution Enables Alteryx to Manage and Translate Any Type of Content Across the Business",
-      "excerpt": "SDL helps support Alteryx’s translation strategy MAIDENHEAD, England--(BUSINESS WIRE)--SDL, part of RWS Holdings plc, today announced that it is providing the industry's only end-to-end intelligent translation management solution to Alteryx,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=420633",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=420633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-09-habana-labs-chosen-to-ai-train-the-voyager-supercomputer.md",
+      "title": "Habana Labs chosen to AI train the Voyager supercomputer",
+      "excerpt": "Artificial intelligence (AI) chip maker Habana Labs has announced San Diego Supercomputer Center (SDSC) selected it to provide high-performance inference accelerators and AI training for its Voyager supercomputer. SDSC’s Voyager, scheduled for release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
+      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1591268911/itpro/Supercomputer1.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
+      "publishedDateTime": "2021-04-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-ab-inbev-werner-enterprises-to-test-embark-driverless-truck-technology.md",
+      "title": "AB InBev, Werner Enterprises to test Embark driverless truck technology",
+      "excerpt": "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "publishedDateTime": "2021-04-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-researchers-say-ai-will-greatly-impact-the-future-of-education.md",
+      "title": "Researchers say AI will ‘greatly impact’ the future of education",
+      "excerpt": "AllHere isn’t the only AI-powered technology startup that expanded last year. According to Stanford University’s 2021 AI Index, more than $40 billion was invested in all AI startups in 2020. Researchers at the Digital Promise-led Center for Integrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "originalUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Salman-fol-tease-april-7.jpg?fit=2000%2C1333&ssl=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "cdnAmpWebUrl": "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "publishedDateTime": "2021-04-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hechinger Report",
+        "domain": "hechingerreport.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws.md",
       "title": "Improve operational efficiency with integrated equipment monitoring with TensorIoT powered by AWS",
       "excerpt": "Machine downtime has a dramatic impact on your operational efficiency. Unexpected machine downtime is even worse. Detecting industrial equipment issues at an early stage and using that data to inform proper maintenance can give your company a significant increase in operational efficiency. Customers",
@@ -267,7 +414,7 @@
       "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -457,7 +604,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1084,144 +1231,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
-      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
-      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "publishedDateTime": "2021-04-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-googles-ai-software-used-to-create-new-nirvana-song-drowned-in-the-sun.md",
-      "title": "Google's AI software used to create 'new' Nirvana song 'Drowned in the Sun'",
-      "excerpt": "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html?fbclid=IwAR31-Gc2UV01Z2wtUqGmIqhxcLGkE0AwiEQS51cJ8-f81-rqjrBeeWik9is",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html?fbclid=IwAR31-Gc2UV01Z2wtUqGmIqhxcLGkE0AwiEQS51cJ8-f81-rqjrBeeWik9is",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/07/23/41470126-0-image-a-37_1617834438114.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html",
-      "publishedDateTime": "2021-04-07T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development.md",
-      "title": "The Negative Impact Of \"Blacklisting\" On The Future Of Domestic AI Development",
-      "excerpt": "Chinese companies that utilize and are developing important AI technologies such Huawei, Xiaomi, and TikTok, were targeted to varying degrees. The logic was that, by working through “trusted” suppliers, the U.S. would benefit from a “clean network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e365b33a5a8a82d408f31%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1616%26cropY1%3D18%26cropY2%3D927",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
-      "publishedDateTime": "2021-04-07T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

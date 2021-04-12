@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-23-zte-reveals-improved-under-display-selfie-camera-under-display-3d-face-unlock.md",
+      "title": "ZTE reveals improved under-display selfie camera, under-display 3D face unlock",
+      "excerpt": "The first phone with an under-display selfie camera didn't deliver great results, but hopefully we see improvements here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "originalUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/ZTE-Axon-20-5G-front-display-cutout-macro-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "publishedDateTime": "2021-02-23T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-continental-invests-in-object-recognition-startup.md",
       "title": "Continental invests in object recognition startup",
       "excerpt": "The startup is working on a new chip architecture for object recognition in real time based on artificial intelligence, Continental said on Tuesday in a statement. The supplier said it expects the ...",
@@ -1286,50 +1338,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
-      "title": "Should Delhi govt schools be using the facial recognition technology?",
-      "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "publishedDateTime": "2021-02-12T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Leading the Over-coax AI Evolution with Dahua HDCVI 6.0 PLUS"
-excerpt: "Dahua Technology, a world leading video-centric smart IoT solution and service provider, has been a frontrunner in the HD-over-Coax development in terms of resolution, intelligence and usability. As part of Dahua's core products for 2021,"
-publishedDateTime: 2021-04-12T13:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-the-over-coax-ai-evolution-with-dahua-hdcvi-6-0-plus-1030294188"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-the-over-coax-ai-evolution-with-dahua-hdcvi-6-0-plus-1030294188"
+excerpt: "Moreover, the Dahua HDCVI 6.0 PLUS also boasts enhanced AI with its high-performance AI chip and advanced deep-learning algorithm. For instance, the Cooper-I Series is armed with Smart Motion Detection (SMD) Plus that can accurately recognize people and ..."
+publishedDateTime: 2021-04-12T14:19:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-ad7824f25d28ed1d4b8249362b3700cd"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-ad7824f25d28ed1d4b8249362b3700cd"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "RuWlwx1q9uj+Y/HNiX6rksFef8dmebNT2vn/4Z/OO7uFXNCUwWY5MeJgfDnuDm1TVv04ARM5ZVRAmjA5FLfvXlTs5DR8ufTciU3h33lSfPQD/d80hO84KXnV5zGQAGrWHQ74O1YL11YAA7LTZLHDu35FyCSjexhm8dJI9b30nOdxiUyiTOEebPAqYVQ4RefQKzIVWp36V/c0Jul9Vs3tRP+OTyEIbS9FVqbh00UwyizGpEIojOi7VipsLwCY9is3NoQcN7Joamoe+Oq1mMjnTIQWQBuxKuFRUufKI4m/Ff4qv0NJWsSskoJbOf5isaml1krtZtqC4yUyEB2skei1m+Xay8TAZsOmjlMfS+I3kp0=;IYm73Rqh2GoBrIhjDucGuQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "dHfaJJWDHYrd3rz48Jxm8dWzHR1tTmVMRgiaVKKOMDmLmXDqoD3PWOTtCjOeO/qi0uCRIe7qfKLYfLxFnOuU1XvljDIGc/KNjvgdWy3kTw938d5KqQRccyOadUFQNq4yKXoBgMizX2PGEyDjralIfW76KBxA+pUZksvjEG825aoYfsONSn4KZ5IDlWbxXEyuGYnE3xeiWC8g6KIV4FZAI3X2ZxPn+fSh1J3OsPVawSXgrUifr3piL9cJJpL7gQGlpJyDefAIPvgD/asJxmW4hu0gYE9E0mDJ8xTFEDAN7+CDFzjZ8sawEiw0cByj5mXAx4fUWXhD9XlU6wEr5euCIShc5VPgUpOTXGIJaPiyqKc=;N06J/PIFd6X9DEC87/V2mA=="
 ---
 

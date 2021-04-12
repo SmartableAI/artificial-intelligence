@@ -53,6 +53,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
+    excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
+    publishedDateTime: 2021-04-09T14:00:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/946183/biosig-technologies-accepts-invitation-to-join-the-alliance-for-artificial-intelligence-in-healthcare-946183.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/946183"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/946183"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 39
 
 secured: "kEGHoZ+bJ0Z7gA1XC2n+vKkBCIDsHk7MaosT7rUd1Gr3TPNSFQ7wfT+7ekxrw60Wmygsxs/0T4Tsub5xT0Bzhryu8/N0oM0CVHfZFKr4h4267im7xGA0WhUCPV1XLzND+h+cPiohOj0/Qbsw1JUStJE/YuIrXO2M1yYwhpdy4sN2sGEFvja6kyY6cX2zWBxy4HNBHZYMvWNHBAeBOTBWjP5aEoZ25CPxNE+C8e7ay6avs7N1Z+Xeb3e2zgAG6IPsm1PYGLwgfyjPQ8e5LUpqh5pJmxlAFcRjI+kRwobxLZrfHB6naLGGVb7C0oATWqucK/kFtxMtL9F+/bwrx79qxp1kKQ0/y2iEX6ir8XU+aX8=;1UegiFg/PJk3XWp2b14GYw=="
 ---

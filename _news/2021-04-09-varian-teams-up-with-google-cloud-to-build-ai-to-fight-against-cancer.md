@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-wi
 webUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Varian and Google to co-develop AI-based cancer diagnostic platform"
+    excerpt: "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic ... must be targeted or protected during a course of radiation therapy. Additionally, Varian will leverage Google’s NAS ..."
+    publishedDateTime: 2021-04-12T14:45:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608210084/itpro/medical_images_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Varian and Google Cloud Collaborate to Aid in the Fight Against Cancer"
     excerpt: "\"We are excited to see how Varian accelerates AI innovation and segmentation quality to improve cancer care with radiation therapy using our state ... we are harnessing advanced technologies like artificial intelligence, machine learning and data analytics ..."
     publishedDateTime: 2021-04-08T15:00:00Z

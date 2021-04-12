@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-05-nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring.md",
+      "title": "NHAI introduces AI-based face recognition system for attendance monitoring",
+      "excerpt": "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "publishedDateTime": "2021-03-05T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
       "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
       "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
@@ -1364,58 +1407,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-zte-reveals-improved-under-display-selfie-camera-under-display-3d-face-unlock.md",
-      "title": "ZTE reveals improved under-display selfie camera, under-display 3D face unlock",
-      "excerpt": "The first phone with an under-display selfie camera didn't deliver great results, but hopefully we see improvements here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
-      "originalUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/ZTE-Axon-20-5G-front-display-cutout-macro-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
-      "publishedDateTime": "2021-02-23T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
