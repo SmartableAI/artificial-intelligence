@@ -59,22 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google AI scientist Samy Bengio resigns after colleagues’ firings"
-    excerpt: "At least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart"
-    publishedDateTime: 2021-04-07T05:29:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-ai-scientist-samy-bengio-resigns-after-colleagues-firings-7262253/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2021/04/Google_Logo_Reuters_1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "High-ranking researcher resigns from Google AI team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
     publishedDateTime: 2021-04-11T17:05:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/AdobeStock_310941793_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Google AI chief Samy Bengio resigns over colleagues' firing and racial discrimination"
-    excerpt: "And in one swoop, just like that, gone. Bengio's resignation has come a few months after Margaret Mitchell, a lead artificial intelligence ethics researcher, took to Twitter to announce the termination of her employment with Google. I'm fired."
-    publishedDateTime: 2021-04-07T06:31:00Z
-    webUrl: "https://www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828"
-    ampWebUrl: "https://www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/google-ai-chief-samy-bengio-resigns-over-colleagues-firing-and-racial-discrimination-375828/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 52
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/02/02/180895-untitled-design-2.jpg?itok=njAPhBlB"
-        width: 918
-        height: 506
         isCached: true
   - title: "Another Google AI boffin quits"
     excerpt: "Artificially the most intelligent thing to do  Google research manager Samy Bengio has quit the search engine outfit over the firings of his colleagues who questioned paper review and diversity practices."

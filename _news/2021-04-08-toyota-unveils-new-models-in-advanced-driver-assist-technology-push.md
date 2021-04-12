@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
-excerpt: "Toyota Motor Corp unveiled on Thursday new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars. Toyota’s latest launch comes as automakers,"
-publishedDateTime: 2021-04-08T06:39:00Z
-originalUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-webUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984"
-ampWebUrl: "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
-cdnAmpWebUrl: "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp"
+excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
+publishedDateTime: 2021-04-08T07:35:00Z
+originalUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
+webUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
+ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
+cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Irish Times
-  domain: irishtimes.com
+  name: bdnews24.com
+  domain: bdnews24.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg"
-    width: 620
-    height: 348
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/04/08/toyota-new-model-080421-01.jpg/BINARY/toyota-new-model-080421-01.jpg"
+    width: 1024
+    height: 640
     isCached: true
 
 related:
@@ -160,6 +160,6 @@ related:
         height: 560
         isCached: true
 
-secured: "f6Dd8dYkrM0PqwRKR3uBGgLKUe8gLEIT4DiuJEdV2ZT5eT9LR19RpONTBzdl7FJmo8Yt5REOasoNZzFxUFZnUWKiErNJudpCmiqvpk1bAbIkEvqdXQJAnmjuwu1DiZAfjpetjoO6d/9fC6jn3NCYrL4t1QiNb0glgPK2dHLaelemHXjn+vf6+MUAvOkhZbCNlpaF6ISzWvRgLOWxweX6KvV14yMV06zHUC/Ap69XGm53dn3IcvLzsieMhIaa70iZ+Ql+LrBEzmy//SpC/2jSfcNiFW4XLWCrH/AsnCouJHL1RVIpUdXQi5c2OyaEB0CFAknxwrCI/rzOIl+OL7XJcS0IaCMuuGQ71vAzFG5r+s25iedYyhVmQGzuZAWLtcoh5H42b4BBVADnMJFabqrW2FqnHisOqf2LyxqBiuzv9PGm103k/GwLQUtiKRour1dz3jY64xrFPdwLCyigcWn9Lq3+Njrx/EC54fKlnMmVbpjBzSnpUDXdmrRX1ZHcTGzNcffQrIMPqzrJCkB7kD7TWw==;+bXsoYanhMrRWQMeh+YxDw=="
+secured: "JQGZDKd9TgUqz1uGLna0hbk8LsD5Aqhr2saXs1gqXhtmKxCPyem0KJixEGvZ0gUPa+vHY6s+sLD0tIIPO2G+rP9tgc1YWSzSq+5Tc8KcPSiiNi8zY1T0mQonRqitldkpjLVZMk4O4BPFwb1YpG1btNto/MgHMgbZkv7mapasRBRqmZggOCIMro9bDUTqpOxyP5XQITkkGHNxkvto+s9EeWShHp/kKRbs31Y/ka7TWAsyXprIzdYZD7xS83FLbleBXHBGEkiUf5sm5zqCnipD2SMLkzjQ6xmKgrWoKqIME0Qu0nrMceX/pNzZ3bAd33ZHx8r0cmV6+RgbSt4vrp6wj0BMNYvmnrm6AZ2oVLYss7Q=;Qi5ZMgFLSZctGFJCPX6c7w=="
 ---
 

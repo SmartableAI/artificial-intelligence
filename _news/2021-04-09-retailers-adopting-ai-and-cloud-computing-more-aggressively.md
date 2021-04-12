@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Huawei deactivates AI and cloud business group in restructuring"
-    excerpt: "Chinese telecom giant Huawei Technologies is closing its core cloud and artificial intelligence business group after only 14 months, reflecting the company's difficulty in transforming from device-maker to service provider."
-    publishedDateTime: 2021-04-07T05:55:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/Huawei-deactivates-AI-and-cloud-business-group-in-restructuring"
+  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
+    excerpt: "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade."
+    publishedDateTime: 2021-04-09T13:02:00Z
+    webUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/"
+    ampWebUrl: "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 137
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 89
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F7%252F5%252F8%252F33468570-3-eng-GB%252FCropped-16177692222019-07-02T111339Z_1179524159_RC1411658B40_RTRMADP_3_HUAWEI-POLAND-SPYING.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Planning in Australia for adopting artificial intelligence is inadequate, says robotics/AI expert Sue Keay"
+    excerpt: "Australia is behind in developing a strategy for adopting artificial intelligence, a situation thats impacting investment."
+    publishedDateTime: 2021-04-11T14:00:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/planning-in-australia-for-adopting-artificial-intelligence-is-inadequate-says-roboticsai-expert-sue-keay/news-story/c70512e346eaf343f792d5615207bd40"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 46
 
 secured: "gU8Z3L4enjaUeVl5zCfETTDAS1zGcD5606vrtSxbIEkSxFgGOBNCkfR+F+9RqGm/HUzlUdCTZ83hySDGMbUGLNkaampnc7gg9eaSQhjwXwfgexeREV6O+4k9iUHt4HI2m3XFaOi1Pro04wN32sVeDTBYcSlN8pLQjqSM6Ed0f91T4pQsaKHwKatuWHSdpG6KyvqGjopkC/sN8H7wvuMxII8K9FEUN57ohHJlQXAz0X6co4qZuVM9HnIQHdZyPnN+RJtjJvufHhS0QTCThMnckLlhGmHlftX4gofiHMAXkYaYosgNuRnB0lYksmcPmKLE66kdMxX/Qj+ZpL6SyS8TTA9wlOT3NFYIEiL20UFT/3M=;YGbJ6dIGD3Jk26xcW4JFnA=="
 ---

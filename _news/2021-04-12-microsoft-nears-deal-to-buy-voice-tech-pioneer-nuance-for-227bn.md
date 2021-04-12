@@ -1,36 +1,47 @@
 ---
 category: news
-title: "Microsoft open sources tool to use AI in simulated attacks"
-excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
-publishedDateTime: 2021-04-09T23:50:00Z
-originalUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
+excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
+publishedDateTime: 2021-04-11T23:03:00Z
+originalUrl: "https://www.nzherald.co.nz/business/microsoft-nears-deal-to-buy-voice-tech-pioneer-nuance-for-227bn/TYLRUSF6CJOGNDEEQHBDR2LIEI/"
+webUrl: "https://www.nzherald.co.nz/business/microsoft-nears-deal-to-buy-voice-tech-pioneer-nuance-for-227bn/TYLRUSF6CJOGNDEEQHBDR2LIEI/"
 type: article
-quality: 104
-heat: 315
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The New Zealand Herald
+  domain: nzherald.co.nz
 
 topics:
+  - Natural Language Processing
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
+  - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
     width: 1200
-    height: 600
+    height: 675
     isCached: true
 
 related:
+  - title: "Microsoft open sources tool to use AI in simulated attacks"
+    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
+    publishedDateTime: 2021-04-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft reportedly in talks to buy AI company Nuance Communications"
     excerpt: "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri."
     publishedDateTime: 2021-04-11T19:24:00Z
@@ -274,20 +285,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
-  - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
-    excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
-    publishedDateTime: 2021-04-11T23:03:00Z
-    webUrl: "https://www.nzherald.co.nz/business/microsoft-nears-deal-to-buy-voice-tech-pioneer-nuance-for-227bn/TYLRUSF6CJOGNDEEQHBDR2LIEI/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 41
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
     excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
     publishedDateTime: 2021-04-07T13:09:00Z
@@ -321,6 +318,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "LXpiGfPZbHkdxWqpRcBuXpnhHHYnODNicx08sxaHACdrr/l5AZIwJZWc44mczTlop3JGTZbVONC8Nrk8HqIXj64rUSZb2/v/WpZ1y73gqlfIUo+YQPfIDRSuBkq8oB3cZ92hYXA6hrgjt9230e8NBL1VysAuPsWbM5j1DM1zVmNH6r5bd72PhiJvfkFYrOnzHLujHCoGGw8PLdMWrxtVAVjKtPL6cwPfUSZPQL21Zpzj+GmhGqD55ZwOdi4YzeQHTG9v2PSLcmL0CCRVruDVtf8Yph5RvS9ZOx/eTF6Av1u0FIUmHUTZ6BwXOio6bRHZx/rsMpejnspmxYwureR36XQbrjCWi4UjiyoZ4lu3sRz9KtsoYGJJRnaqWMQVZNGEA5r3Cnjai4mjbTHH3/efWUmBuRuNh+XTDjcl4gDNPRBCzRtyGoWBC/kmq6tgwL3mMmqmM91Z+zChJsdPDO7tZdxdfTr3ha7dzJJ0PsqzdfkzwHPrrgO/3jc5PN9MEJmLI4xvAuUwIVIiawu3EoYXOQ==;a+cwkSoK0VL7CYNCcUDIdw=="
+secured: "JD9pLKONPM5VEzZKVHAYO5J86gYFcjrxdlQ+mqMRGzjcuHXVoTjMo306rQ5g7eIYevaBLZfkPEQkor2BszXUpWe0RiEN6vTeKfclWx+cUZV37QvmNxX7J8lPV7No8DkHxnAYrhUfZCYV0eZoYfXyRx5IFPzuF0MNcsx8MI1QqqdgRoAwZI1rfOgOc4r3FDxrG/LS6XelGEvqJZWZe8Up+K1BH/T6Uatkj6UejdH7a6tFMxRULyRH1KPq3Yh/RKl43NFGhoY965QVvqxYDwh1czo/vV+oeFQisDPo4uLh7zbjCFgwr/zSG8Hri0D/tf4xjQ5fiORv57BV/IYNyCpC7JkM65Ljz5hSQ46to4K1qhY=;uGkszSz37dJxgyw89R0G3g=="
 ---
 

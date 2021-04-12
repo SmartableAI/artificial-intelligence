@@ -52,20 +52,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Trax secures $640m in pre-IPO Series E round led by SoftBank Vision Fund 2, BlackRock"
-    excerpt: "Including the latest funding, the Singapore-headquartered retail tech company has raised $1.03 billion to date."
-    publishedDateTime: 2021-04-07T05:20:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/trax-pre-ipo-funding-234931/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 17
-    images:
-      - url: "https://cdn.dealstreetasia.com/uploads/2019/05/logo@2x.png"
-        width: 354
-        height: 336
-        isCached: true
   - title: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     excerpt: "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies"
     publishedDateTime: 2021-04-08T06:05:00Z

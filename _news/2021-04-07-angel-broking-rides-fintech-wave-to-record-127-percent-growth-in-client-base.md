@@ -95,20 +95,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z

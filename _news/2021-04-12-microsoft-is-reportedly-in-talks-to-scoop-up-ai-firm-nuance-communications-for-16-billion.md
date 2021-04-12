@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft open sources tool to use AI in simulated attacks"
-excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
-publishedDateTime: 2021-04-09T23:50:00Z
-originalUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+title: "Microsoft Is Reportedly in Talks to Scoop Up AI Firm Nuance Communications for $16 Billion"
+excerpt: "While not exactly a household name, Nuance’s AI and speech recognition software is used in a range of industries from healthcare to automotive and helped lay the groundwork for the tech powering ..."
+publishedDateTime: 2021-04-11T21:53:00Z
+originalUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275"
+webUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275"
+ampWebUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
 type: article
-quality: 104
-heat: 315
-published: true
+quality: 94
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
+  - title: "Microsoft open sources tool to use AI in simulated attacks"
+    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
+    publishedDateTime: 2021-04-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
+    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft reportedly in talks to buy AI company Nuance Communications"
     excerpt: "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri."
     publishedDateTime: 2021-04-11T19:24:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://i.insider.com/603f4b7fb46d720018b0482e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft Is Reportedly in Talks to Scoop Up AI Firm Nuance Communications for $16 Billion"
-    excerpt: "While not exactly a household name, Nuance’s AI and speech recognition software is used in a range of industries from healthcare to automotive and helped lay the groundwork for the tech powering ..."
-    publishedDateTime: 2021-04-11T21:53:00Z
-    webUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275"
-    ampWebUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 94
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
     excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
@@ -321,6 +321,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "LXpiGfPZbHkdxWqpRcBuXpnhHHYnODNicx08sxaHACdrr/l5AZIwJZWc44mczTlop3JGTZbVONC8Nrk8HqIXj64rUSZb2/v/WpZ1y73gqlfIUo+YQPfIDRSuBkq8oB3cZ92hYXA6hrgjt9230e8NBL1VysAuPsWbM5j1DM1zVmNH6r5bd72PhiJvfkFYrOnzHLujHCoGGw8PLdMWrxtVAVjKtPL6cwPfUSZPQL21Zpzj+GmhGqD55ZwOdi4YzeQHTG9v2PSLcmL0CCRVruDVtf8Yph5RvS9ZOx/eTF6Av1u0FIUmHUTZ6BwXOio6bRHZx/rsMpejnspmxYwureR36XQbrjCWi4UjiyoZ4lu3sRz9KtsoYGJJRnaqWMQVZNGEA5r3Cnjai4mjbTHH3/efWUmBuRuNh+XTDjcl4gDNPRBCzRtyGoWBC/kmq6tgwL3mMmqmM91Z+zChJsdPDO7tZdxdfTr3ha7dzJJ0PsqzdfkzwHPrrgO/3jc5PN9MEJmLI4xvAuUwIVIiawu3EoYXOQ==;a+cwkSoK0VL7CYNCcUDIdw=="
+secured: "VowvVC3UernUiN3Zv1Lm+nsA+IPfxHKXkLNX8PqKo6elXlLJQH6MUj3aXaOKREchzDeYtqTD/crc8q2lH7ybclglaEEMcLB/7VzF/WFqKfU1gNst1CggovCkRlLlpNXBxTk7eK3k5ZIn47HV6KfkqZ8jXpSoEon3QARPVaMolIrOBstrS8f73jPapS5kZaHgZq1qpLRLOpjZyZ/OldotKuLEmKOju1yhx1rXtU3tYJeKsyMft/vtUJQxDBiIZhqnPTgByWYkkp8pQONhsCNpPC0FFE8BFeambUu9IXvsVmshpjfgCOboOwwRjSywyrg/LYExd7GmUT+r1E3DaFl4JEgRsvxiF8xz7Iu0UWgT7CY=;iC3ksS15GTYdUbW1UxPhCg=="
 ---
 

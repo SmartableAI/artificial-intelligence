@@ -87,20 +87,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "China dives into FinTech & UK eyes vaccine passports"
-    excerpt: "China has launched its own digital currency in a bid to dominate the new FinTech frontier Boom Bust’s Christy Ai offers her take on the move and what it means for the international financial sector"
-    publishedDateTime: 2021-04-07T07:01:00Z
-    webUrl: "https://www.rt.com/shows/boom-bust/520319-china-digital-currency-fintech/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 24
-    images:
-      - url: "https://cdni.rt.com/files/2021.04/article/606d521f85f540263f142821.png"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z
@@ -127,6 +113,6 @@ related:
       domain: webindia123.com
     quality: 1
 
-secured: "1Iq2J1GICMPENnFJjTbYBjBBXldHBTwQPxxMWG4AVsE/ryoCPncDvxvdwjEJDAIebFfkeFI2QquGNFZBcbtHA8bDbufbPFhmgAD0cxJh/x9rUo4ETPh2RhQZJ8Jhc38g7zLBG8vfF/W4bj/GJu6f0mYdYoIPgARioVtt4H8VaF2Xr+s6zSekM7WrBSk43lX6s72DtN+iCToV0lyJAeQqdqY+txcgDWcsLAp4P9sA2VDCOVdMklhJqHcnCTAmoL+3Y2YZPXV1HOPhK/gYwRtIqM3DK1JD1C76ZwYOSEblgS7Uo/LQmBh4WHOxreWxkB9OHi93ijdb4ASFZY4+A/iPTDoJCaoiVUnAojf5gIxf6SA=;rlRtXxU0cQYnainBiwEG1Q=="
+secured: "qjDACRqaSuCG9DhKZud3TNt2+uatX+tuhsjpuJAc6MHhuC7nw7i0xFjyyUmCiXrC8n1j0mIcJ73hZWsWm15UcM2g9Tt07z3GX7iXPUps+kF8lvNego2vq2qA7tWCpUNlXTYTW2j+TiyNcuQx+Fp9/dHJGbF5zP8Ecp6SiOGqYrR6vdyoqLXdd8FdsoSE2ly6AZ6ML6pQgyifjdlzJKJ3N52bXXUlqY4M5m3WaLrQX7RUbVkLFDmF50hgDs6Fe5okYT/4RYy3XM/zR2HTeaS7vapHnYSGR8a+GNXdKDxXXo7RfD2ZcoAtBrnX+8zr2PTbyrEJUJkleXgMea0JDt6ziJ6lYl2EXPUYx9Id9eiuodsCwOpbc6fckfPqmkQp7f/Rr7H4JTi1O5y1iJz38K90TDvBNxT6ixqms6HJlYyGOU9Ov/88hlGo+3BZgyHNIjnRPo4b9P/s9pTczhlD/zCmVfY89bvpYbVfYmCB/lvMOTpcGDHkFCyr5gQx6/BzV4bm5GpWi6q7SAzl0jFFr94bDg==;Lq1YCBMx0FH301kUqJdD9A=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Is Reportedly in Talks to Scoop Up AI Firm Nuance Communications for $16 Billion"
+    excerpt: "While not exactly a household name, Nuance’s AI and speech recognition software is used in a range of industries from healthcare to automotive and helped lay the groundwork for the tech powering ..."
+    publishedDateTime: 2021-04-11T21:53:00Z
+    webUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275"
+    ampWebUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 94
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
     excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
     publishedDateTime: 2021-04-11T17:51:00Z
@@ -268,6 +284,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
+  - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
+    excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
+    publishedDateTime: 2021-04-11T23:03:00Z
+    webUrl: "https://www.nzherald.co.nz/business/microsoft-nears-deal-to-buy-voice-tech-pioneer-nuance-for-227bn/TYLRUSF6CJOGNDEEQHBDR2LIEI/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 41
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Redstor’s AI and Kubernetes offering helps Microsoft partners manage customer data"
     excerpt: "A new service from Redstor is designed to assist Microsoft partners in managing and protecting customer data in Microsoft Azure and Microsoft 365. The AI engine offers an additional layer of protection by detecting malware before it can compromise backup ..."
     publishedDateTime: 2021-04-07T08:30:00Z
