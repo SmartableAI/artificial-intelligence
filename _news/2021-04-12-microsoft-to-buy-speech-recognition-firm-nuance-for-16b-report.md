@@ -2,17 +2,19 @@
 category: news
 title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
 excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
-publishedDateTime: 2021-04-12T05:47:00Z
-originalUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
-webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
+publishedDateTime: 2021-04-12T06:39:00Z
+originalUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html"
+webUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html"
+ampWebUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report-2021-04-12.jpg"
-    width: 1000
-    height: 800
+  - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/microsoft-afp-1024x683.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -84,7 +86,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://i.insider.com/603f4b7fb46d720018b0482e?width=1200&format=jpeg"
         width: 1200
@@ -322,6 +324,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
+  - title: "Microsoft close to $16bn deal to buy voice tech firm Nuance"
+    excerpt: "The tech giant is in the midst of more acquisition talks that could see it buy the long-time player in the voice technology space."
+    publishedDateTime: 2021-04-12T07:52:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/microsoft-nuance-deal"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/voice-AdobeStock_418701314.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
     excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
     publishedDateTime: 2021-04-11T23:03:00Z
@@ -336,21 +352,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
-    excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
-    publishedDateTime: 2021-04-07T13:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/global-artificial-intelligence-market-2021-growth-analysis-ibm-intel-nuance-communications-iflytek-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
-    images:
-      - url: "https://teceze.com/sites/default/files/inline-images/Artificial%20Intelligance.jpeg"
-        width: 5000
-        height: 2661
-        isCached: true
 
-secured: "jR7tQ/aRSQw+xuhyc6OZJWcaWwU2dzNtpCh6nG9om354puMDIJiR7NsQ1T0VpCKq0LBPaWkbwx3tLQMVVbPNuZfzpOKuHQagX5btDAgKJbaD0XwgteUBvV/ZasvNyeYlyVnhLns0KcXiIURNtFckYHlgMqVrNc/dKbYsZslzcqkbNPl5B6CXvYvnOi2zkLTcwqP83n0TiMXMnGyapo8E1pmNSYYJKbDEpUpgsX85PbM9qKqwpX7kff0mqnJJO/E4QRqhh5SN+GBMecfPpdEBZyXoKTQy6YScZaD5QyRBXqqwDzV4NBjWj3plg1vMwxhGe53C1hkS61b4CFXl0bUSfvpC5Qagnrld8u+M77AbSTg=;746Z4ypKFA0gl0DkK2khOQ=="
+secured: "GJa2mCxUqt9o0mNW+keDZ4fh3GaL4qlX2NeelFVC9CoQxM4NSZlwkEbfeViTC4b+odyB9ARu2azQINggSwJZTT8UyvU3CHchT7CdKiISM6EP16EKSKCCiL5h6VN6suwQaXoFKGLIfclVXVj91ju9XjGTiP4UNyr5UEcR2R13Feav6UoI+nFB+YsrswxVUkY2avHlV017WPXPQGphxBc+KHbHQG0lhPHMpCS+HUPZgXeP9FP3GMk+EIA8HCqKMKiE1nwTYefjb3kyadX7vJpKJBR4IW5rvbKKJS4hRz9kaMB09JixrixI5UK+sGlLMztPnZJ4fd+nCoI8IzHIBvzAUeHBm4P5ix413SBlff1ZCaU=;N3VgHC8fD70UfOSfdbo7aw=="
 ---
 

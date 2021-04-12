@@ -1,23 +1,29 @@
 ---
 category: news
 title: "1 Fintech Stock to Know; Coinbase Has a Hot Date; and Why Is SPAC Mania Cooling Off?"
-excerpt: "Fintech lender Upstart (NASDAQ: UPST) has delivered a year-to-date gain of about 250%, but it isn't just because of earnings. In this episode of Industry Focus: Financials, Fool.com contributor Matt Frankel, CFP, ..."
-publishedDateTime: 2021-04-09T19:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-know-coinbase-has-a-hot-date-and-why-is-spac-mania-cooling-off-2021-04?time=1617996602"
-webUrl: "https://www.nasdaq.com/articles/1-fintech-stock-to-know-coinbase-has-a-hot-date-and-why-is-spac-mania-cooling-off-2021-04?time=1617996602"
+excerpt: "Not a lot of competition in the FinTech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
+publishedDateTime: 2021-04-09T19:23:00Z
+originalUrl: "https://www.fool.com/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+webUrl: "https://www.fool.com/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
 type: article
-quality: 27
-heat: 27
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "+gpd9zWQxi7oGn2WOscbm0glREq216gFu/sOehDUyAjfdsdTo+kyZsiwl94HoDMxPzWflkB08sPX9olKrUjwPCj8gbltTp83l2tarllyejufCVYK2plLsObl+aGE7B3kpGFfprREteNrv2aH+H5VYAVBGF4Ev/05aMe+JS2vq3AueVvtFZwuszc2Bhb4nydQGLs86oqU9g2WP+ElxBO9SAGvc4UmzHkpcVLJPQ44mtLTWY/eGWypV0DweRZwOUyAl05WBCIeMTRsquNJfb2ep+MCce7H+P+MxPuZSiBzB16Da1QdUdZTfymXTUiBlec4zkbUm9d25aYIlSKRUtgble8LZuadPyvyn/IMtFZenMQ=;LDYMsYdQ3TpRGrdAZv5c2w=="
+secured: "4DzvzqjXHqS2WcAFAzkLMZfBro1ljAABCg85VTcrsFmrxBqlSaX2XZu8aMy1FQU1PtYqxdMK9PMJ6N+iIeyHZLCm5b+cuYJlDJOQ8ocOehyw25BmPfgRUQHb9g2doNornKCCVS26VVJeBILl45UVFR5tgf/3p71KmNyo+z8f/rvgTCO4bMUgLTlWS7c/RgaSqbCtDPCTp97QE1hNAJ4OVxN2a86BC1XkPq6rtiHy8oFyywjGY99MpfxIaKrMlPEGAtjK5IQ1+XN6RTxV8B19P3JivtHyesdvHFPx1Fr3sTMfj2OX4es8DDsVFEjkpT16qX8hUa3W0DgrTMZ8N6rGcZRMqWI+CHgcBINvdyGiiY2c3Ib+loHfni8rGcAmvSMwrwqSyprBX12b0s5BO5MEDEhYWn68ymXUnuLWVq5MLzLlZaXY8EQ1bCaYvDo33dwB/cIypjDGioAfOvT63W9dJ7ZUiD/HwrkxI6+K+8+RPbVG0qnItNjfTwEIHzi8l5ASTXV5HTo1AjwJFiGASixZmQ==;oBSE13Hd/tXsHWdfsfHO0w=="
 ---
 

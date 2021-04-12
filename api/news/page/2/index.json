@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-09-the-3-most-interesting-ai-and-robotics-stocks-today.md",
-      "title": "The 3 Most Interesting AI and Robotics Stocks Today",
-      "excerpt": "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "originalUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
-      "publishedDateTime": "2021-04-09T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
       "title": "NLPCloud.io helps devs add language processing smarts to their apps",
       "excerpt": "with a focus on natural language processing (NLP), as its name suggests. Developments in artificial intelligence have, in recent years, led to impressive advances in the field of NLP — a ...",
@@ -957,7 +914,7 @@
       "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1095,7 +1052,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/368971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1199,7 +1156,7 @@
       "originalUrl": "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1230,6 +1187,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
+      "title": "The 4 key elements missing from your conversational AI strategy",
+      "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-46_-Enterprise-Plan-Launch-Thought-Leadership_Leadspace_Final.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:00:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

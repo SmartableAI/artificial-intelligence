@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC"

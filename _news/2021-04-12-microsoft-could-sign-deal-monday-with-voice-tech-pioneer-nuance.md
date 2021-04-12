@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,49 +26,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-09T20:40:00Z
-    webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
-    excerpt: "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ..."
-    publishedDateTime: 2021-04-08T09:11:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
-    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
-    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
-    publishedDateTime: 2021-04-08T14:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "Ll1GTKvGM2PcJWhUWybTTYqgZs3NdijrW6t9ylO9pTSczO3vB3+4mQEwl49x8cQS22Md/aOIjbtsHg6YuTkeJpwA3v7kp5jHeDAQHmT6ky7tTpbul9k9iRzjeRZiZWR6li8V/Hpb6/ZZfXrVawF+XARnEF8ftlekrUYSfydeUm74PrYZU5tAn0O47Gin/ORlRY5KCOLrw/A5V1D0f2aTkpCD89yw2fXu87Nt6Hurifbm+AqmHzuWKMIuQ/htOlZv8go1F9nSVUlpXENNKehRulgkoCnqX3muhMYkYYPWHMH/yvlApmRvfVmburoZqTnRRTxbeR+/l5DI+bHOSDNTINRiBp4/7TXtgAxLn8O1lgTLAz/wHWlNSpVkCRwbhB/rWFwvU8G9ewa1KyrvyYdf0unhJzt2gy72huRgZnin0hOOw8QuGLxUEkgojc/Kl0RCDwTCUMQM/c1eiF2IuMGK+oRXgkWFzZGzWCbfeJwWrnQCxsFBdYtRJXWf2yT0v1uhaj4hdxFl+gEw+e9a1eGE1g==;0fG6UQiPDHCLODGhgUft3g=="
 ---

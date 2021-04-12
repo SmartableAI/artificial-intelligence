@@ -2,40 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-03-30-bright-machines-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "originalUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-update-1-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
       "title": "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence",
       "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
@@ -1094,6 +1060,49 @@
       "provider": {
         "name": "Manufacturing",
         "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-how-stellantis-will-tackle-its-electric-future.md",
+      "title": "How Stellantis will tackle its electric future",
+      "excerpt": "Waymo agreed to work exclusively with FCA on level-four ... \"It's about making sure that we scale up in the way we use the data and the way we use artificial intelligence,\" Tavares said. For now, Jeep is leading the way for the company in rolling out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/business/autos/chrysler/2021/03/29/how-stellantis-tackle-its-electric-future/4801743001/",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/chrysler/2021/03/29/how-stellantis-tackle-its-electric-future/4801743001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/19/PDTN/245834ad-43de-48d3-8897-69d93b3dc942-Jeep_Wrangler_4xe.jpg?auto=webp&crop=2177,1225,x813,y717&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/4801743001",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4801743001",
+      "publishedDateTime": "2021-03-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null

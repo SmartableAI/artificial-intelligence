@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-02-14-two-accused-in-farmer-shooting-acquitted-and-walk-free-from-court.md",
-      "title": "Two accused in farmer shooting acquitted and walk free from court",
-      "excerpt": "Alan Hemmings and Antony Shrimpton are cleared of all charges but the prosecution continues against four more defendants",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsoneplace.com/8026262012/accused-farmer-shooting-acquitted",
-      "originalUrl": "https://www.newsoneplace.com/8026262012/accused-farmer-shooting-acquitted",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article19898986.ece/ALTERNATES/s615/0_Man-shot-in-robbery-on-Back-LaneAughtonLancashire.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T21:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsoneplace.com",
-        "domain": "newsoneplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-14-real-or-fake-robot-uses-ai-to-find-waldo.md",
       "title": "Real Or Fake? Robot Uses AI To Find Waldo",
       "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
@@ -1407,6 +1364,58 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-youre-doing-cloud-based-ai-and-machine-learning-wrong.md",
+      "title": "You’re doing cloud-based AI and machine learning wrong",
+      "excerpt": "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "originalUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
+      "publishedDateTime": "2021-02-05T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

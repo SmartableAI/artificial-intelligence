@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "There’s a ‘New’ Nirvana Song Out, and It Was Written By Google’s AI"
-    excerpt: "The neural network found patterns in components of each song, like vocal melody or rhythm guitar, then used those patterns to predict what would come next."
-    publishedDateTime: 2021-04-07T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/"
-    ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/04/Nirvana-song-by-Google-AI-deep-learning-concert.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Google’s AI software Magenta creates ‘new’ songs by Nirvana, Amy Winehouse, and others"
     excerpt: "Magenta was launched by Google in 2016 using TensorFlow, the company’s open-source software library. It was started by some researchers and engineers from the Google Brain team. Magenta explores the role of machine learning in the process of creating art ..."
     publishedDateTime: 2021-04-08T12:48:00Z

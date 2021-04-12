@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE Government to employ biometric face recognition"
-    excerpt: "DUBAI - The UAE Government announced that it will employ biometric face recognition (Facial ID) to register customers in the \"UAE Pass\" application, as part of its plan to launch the first safe digital national ID for citizens and residents. The UAE Pass ..."
-    publishedDateTime: 2021-04-07T13:28:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/UAE_Government_to_employ_biometric_face_recognition-ZAWYA20210407132426/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/171031091852QSQA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "UAE to leverage biometric face recognition to accelerate government services"
     excerpt: "As part of its endeavour to launch the first safe digital national ID for citizens and residents, the UAE has announced plans to employ biometric face recognition (Facial ID) to register customers in the ‘UAE Pass’ application. The UAE Pass app is the ..."
     publishedDateTime: 2021-04-08T11:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalabl
 webUrl: "https://insidehpc.com/2021/04/tyan-uses-3rd-gen-intel-xeon-scalable-chips-for-ai-and-cloud-data-centers/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 325
     height: 325
     isCached: true
-
-related:
-  - title: "Alation Delivers Cloud-Based Platform for Data Intelligence"
-    excerpt: "Alation Inc., a leader in enterprise data intelligence solutions, today launched Alation Cloud Service, a comprehensive cloud-based platform for data intelligence. Alation Cloud Service offers a simple,"
-    publishedDateTime: 2021-04-07T13:30:00Z
-    webUrl: "https://www.lelezard.com/en/news-19736890.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "x/d/bMJgYnOM2div+NLixUzEBdD85trgbmMKz57W+vLqYWntA1ox7wvDpZ1wIhBY/1TIGFtlJHt0vkdwSal290eLMpZH+6h3YyWzM6RWLqTNmtPrIe4WhmYHVg4G3JzCgtcY36yPogGSZ4H+VHl/0nHB/FZOw2M3ocL2vln9WQ9BrrcMiOecCb/N4/0ZsDgQVi+SlNCFYy2I7euw0DRrcyeyTKfCGWoI8ftYDcezi6RY+HS8uz2kZQnHjhc33S6/Rkg//1ojLGFkSo4xw14VHlCw0SbCSFPfA6mMlht6M4rXvjOFPIYDUgC1mD/4mJKjGtbF/b7O5by0ZoEP8FQSqRGCHrLq5HuhYC9cpbT82m4=;2PqEmaEfJq+qPweOLNWorg=="
 ---

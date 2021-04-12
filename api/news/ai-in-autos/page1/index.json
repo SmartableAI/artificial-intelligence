@@ -263,58 +263,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "Moderna ( NASDAQ:MRNA), and Baidu ( NASDAQ:BIDU) were the index's biggest losers from Feb. 12 to April 6 -- with those stocks falling 29.5%, 29.3%, and 29%, respectively, across that stretch, according to data from S&P Capital IQ.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-07T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo.md",
       "title": "Self-driving truck startup TuSimple eyes over $8 billion valuation in U.S. IPO",
       "excerpt": "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO).",
@@ -1387,6 +1335,58 @@
         "name": "ValueWalk",
         "domain": "valuewalk.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-autonomous-driving-must-achieve-zero-accidents-vision.md",
+      "title": "Autonomous Driving Must Achieve Zero Accidents Vision",
+      "excerpt": "For autonomous vehicles to be accepted into the mainstream, they must be far safer than human-controlled vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
+      "publishedDateTime": "2021-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "\"We need robots to harvest the apples and the strawberries\"."
-    excerpt: "As societies flourish and grow, so do the distances. Today, growers can hardly hardly get any seasonal workers from Poland or the Czech Republic, as their demands and their income have"
-    publishedDateTime: 2021-04-07T13:29:00Z
-    webUrl: "https://www.freshplaza.com/article/9309355/we-need-robots-to-harvest-the-apples-and-the-strawberries/"
+  - title: "Building a Better Berry with Artificial Intelligence"
+    excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
+    publishedDateTime: 2021-04-09T13:35:00Z
+    webUrl: "https://news.wjct.org/post/building-better-berry-artificial-intelligence"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 39
+      name: WJCT
+      domain: wjct.org
+    quality: 37
     images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_de/2021/04/06/goer1.jpg?preset=OgImage"
-        width: 1200
-        height: 630
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/985527364.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "xwB9tEpFHG2LbOPxmdiud8ZITw5W8Q8D5+uwrg3QozN83P564c3V6l2OwmK3DIj1JNEg/Wo/0A+36/0vtuH0kUYDy1bYyWRNhBqsggS/viOR6iO+YPolGrtzVXJ3JFgmZ1oyqkQV24MNCD8wLrRWhrLZ2aRZNUDxM+Go+22W2pxvUG7JDAawsT7IevZasJTJA7hkHfDzpKM2C6xeHnvFiNEPKiUyJ8BOARFbocfUU8NzrtliLQkOMyLLGhFb+RngjDpAQ+tZ43jXxL3v4a+M8Z4iozWbQkrX6oQx7JnBu/95v3SlsRnk1wjwKKVdSmMgmfseyg+/e1Hjx+Amw8V5/iCipwn+K4xsc/BJC98//yQ=;FWoFC+Sa7+NrPGYOogAeKA=="

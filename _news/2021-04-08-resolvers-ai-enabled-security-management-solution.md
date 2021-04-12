@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
+    publishedDateTime: 2021-04-12T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BioSig Technologies accepts invitation to join the Alliance for Artificial Intelligence in Healthcare"
     excerpt: "The AAIH invite came after the company was awarded US patents for its artificial intelligence-based platform. BioSig noted that the AAIH is the global advocacy organization for the advancement and use of AI in healthcare to improve patients’ lives and ..."
     publishedDateTime: 2021-04-09T14:00:00Z

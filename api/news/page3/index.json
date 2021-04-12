@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-08-the-4-key-elements-missing-from-your-conversational-ai-strategy.md",
-      "title": "The 4 key elements missing from your conversational AI strategy",
-      "excerpt": "In 2021, enterprises who wish to implement a chatbot, virtual assistant, or conversational AI have no shortage of options. Informed buyers will take the virtual assistant’s feature set into account. These products will range from simple chatbots that regurgitate pre-programmed dialog in a single channel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/cheap-chatbots-conversational-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-46_-Enterprise-Plan-Launch-Thought-Leadership_Leadspace_Final.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:00:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls.md",
       "title": "Securiti releases AI-powered data privacy and security platform to provide unified controls",
       "excerpt": "In addition to catching Cisco’s eye, Securiti has landed on CB Insights’ list of the 100 most innovative AI companies. The company has also raised $81 million in venture capital to date.",
@@ -62,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -451,6 +399,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-stone-gets-microsoft-thumbs-up-and-redstor-adds-azure-support.md",
+      "title": "Stone gets Microsoft thumbs-up and Redstor adds Azure support",
+      "excerpt": "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
+      "originalUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1",
+      "publishedDateTime": "2021-04-08T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-survey-finds-96-of-execs-are-adopting-offensive-ai-against-cyberattacks.md",
       "title": "Survey finds 96% of execs are adopting ‘offensive AI’ against cyberattacks",
       "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. “Offensive AI” will enable cybercriminals to direct attacks on enterprises while flying under the radar of ...",
@@ -562,7 +553,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -593,58 +584,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "Moderna ( NASDAQ:MRNA), and Baidu ( NASDAQ:BIDU) were the index's biggest losers from Feb. 12 to April 6 -- with those stocks falling 29.5%, 29.3%, and 29%, respectively, across that stretch, according to data from S&P Capital IQ.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-07T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -709,7 +648,7 @@
       "originalUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -813,7 +752,7 @@
       "originalUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -963,48 +902,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-start-up-backed-by-james-murdoch-launches-ai-platform-for-virtual-artists.md",
-      "title": "Start-Up Backed by James Murdoch Launches AI Platform for Virtual Artists",
-      "excerpt": "a start-up whose investors include James Murdoch’s Lupa Systems, on Wednesday unveiled the launch of an artificial intelligence-powered virtual artist platform for music, gaming and streaming applications. The \"creative AI company\" said the proprietary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists",
-      "originalUrl": "https://www.hollywoodreporter.com/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/Authentic-Artists-and-inset-of-James-Murdoch-H-2021-1617806774-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/news/authentic-artists-whose-investors-include-james-murdoch-launches-ai-platform-for-virtual-artists",
-      "publishedDateTime": "2021-04-07T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
       "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
       "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
@@ -1065,7 +962,7 @@
       "originalUrl": "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1236,6 +1133,102 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
+      "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
+      "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
+      "originalUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-3-75498030.jpeg",
+          "width": 690,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
+      "publishedDateTime": "2021-04-07T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning.md",
+      "title": "Regulatory Compliance Must Be Addressed With Multiple Techniques Including Machine Learning",
+      "excerpt": "Machine learning and artificial intelligence are still moving up the food chain. It’s good to see that the industry is moving past an important but still narrow focus on pure system security. Linking the tactics to compliance strategies is the next step in a more mature use of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
+      "publishedDateTime": "2021-04-07T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

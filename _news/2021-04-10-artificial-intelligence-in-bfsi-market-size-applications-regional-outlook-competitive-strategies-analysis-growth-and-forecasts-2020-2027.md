@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
+    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
+    publishedDateTime: 2021-04-12T04:02:00Z
+    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
+        width: 683
+        height: 419
+        isCached: true
   - title: "Self-Driving Car Market Research 2024 | Growth Overview, Development Size and Revenue Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 09, 2021 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
     publishedDateTime: 2021-04-09T09:47:00Z
@@ -97,22 +113,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
-    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
-    publishedDateTime: 2021-04-12T04:02:00Z
-    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-    images:
-      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
-        width: 683
-        height: 419
         isCached: true
   - title: "Global Artificial Intelligence (AI) Chipsets Market 2020 Remarking Enormous Growth with Recent Trends & Demand"
     excerpt: "Amazon Web Services (AWS), and XMOS Limited among others. Request Free Sample Report of Artificial Intelligence (AI) Chipsets Market Report @ https://www.zionmarketresearch.com/sample/artificial-intelligence-chipsets-market According To The Report ..."

@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-03-30-japan-facial-recognition-system-allowing-smooth-boarding-to-start-july-at-narita-haneda-airports.md",
-      "title": "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports",
-      "excerpt": "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "originalUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-this-robot-could-help-fulfill-your-online-shopping-sprees.md",
       "title": "This Robot Could Help Fulfill Your Online Shopping Sprees",
       "excerpt": "Ambi Robotics is using years of research in robot manipulation to teach machines how to get a grip. The secret? Giving them suction cups for fingers.",
@@ -1192,6 +1149,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-bright-machines-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
+      "originalUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

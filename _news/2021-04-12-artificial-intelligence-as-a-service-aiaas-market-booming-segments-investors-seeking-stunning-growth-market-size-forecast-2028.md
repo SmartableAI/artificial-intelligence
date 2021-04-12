@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-servic
 ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
@@ -138,6 +139,6 @@ related:
       domain: ksusentinel.com
     quality: 0
 
-secured: "dlMDwMu2QfwIlCLZoOlMWku9lE7vZzgR8Y0Dwyr933x6uSq9TrWmoppZrY+MKcusZVe3FJ8600dUBH7ZnDHkV5MD97h5HaqBpsrwCE1u5KKCBo7EP17qTR1eEgbbC6FhQ77IkcQ22R0CgVaW9BjCLA5U7dgmGlCEEBViky3eWzRXrkiqadsVORzfEN3sJuKUMxIngIMAy9pLKhyoQWtQNaaCfnSP3Uz+ulDSpiI3nGX5FhYP6e/KjD3ltZnk1bHeDevvqrlQTmusdupp5FibqyH8JeOTHoDsn8/aH/jqTK1LhqMQ4XHpcqGNMuZmn53GGkzCcGJwVjX0cg1Tn08V51FPKymoujeALt+3AoJTzvE=;xQfvpWtfiX3A5tf+WYC4Jg=="
+secured: "OSPDfOz7Eem8vVKRmt1z98IwcPOZKks9We+3aZDLOuNw/bAioauIglRl10q8+1JLoRuWDqJU4u9T1j6jqj5mcLdGSwX7HRETPrYvRwekkNpax2KTl4QH/sQWeY7V13v57OaONyJ/0KZm4t3assaG8e+1svhZOk8Cfv2TsxUuEi40fH9jxSOFjkuqG3REGwcS01xQbzJTVOFD5UWsplYmXiTK3MgQhS1gZpiLUV42KucgIx6abEB3YbYFqcqzruXkbIzFrnPs/+PoWFusQdClPeZj+qTsr/NuG9TtZr/A1P0KQeToV3CMaxf2m80+zYNGjS1QLCG/fCZlqggSu7UKNriu0n0hm+7OyhbNjWJHfW5L0gtVdfr+GoAYHC8YOGEpNMNLDFYJpnFrUsX356mpLaFh7fy8pHnFaq0eD0vCamLKg1c1QBKjMNik7JFfiejbDLkwBV/2tiOCXidaFIgCwZ8T4sdAW1Lfv/2i7wNjWM6OMV6t+71Fv5hDU8BG2wPGl1hqYg4wmE49DYjCllP7yA==;N+Ka/DuOFCrR5n2Ta1o5og=="
 ---
 

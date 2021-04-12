@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "SentinelOne Named to the CB Insights AI 100 List For Second Consecutive Year"
-    excerpt: "SentinelOne, the autonomous cybersecurity platform company, today announced the company was named to the annual CB Insights AI 100 ranking for the second consecutive year, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2021-04-07T13:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-0dbca6dbedf841e0890409307ae0402f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "AuF4jOVm/6xBSugJW9femGTd1/pfT7rp8MAGzkeUYB9IQgt3sZnp+8Q7iuHLWyasA6TK6Xn4bwegh9YT3RqDuhj8kUYjVcGdlt/Lao96Wpq71yoVtgoTaCtsG/HPRoRrV0xvVojQbzG5Lff5FcbRc8ZbyNz87fEKVo8n4NysMh4mO/sK0uy/9g0J7dvhCKZ8EiCGCRwuGGYMq8LAsQ84PDytk7fe+7yLgG8oLtf0m7rAEXZDOEgvHWZGgVwNIMAe4M5Ba7Kr+/4TWObGKQ9N27kaL4Yb7/Koe+h+mfsmQO7+Ckcl/4Ds9pHLDbuY5EWB5Z3oAObyblWzCwOBf7rjCPxWE+c+1oAwzOZoz83sEr2xqeME3JaTv51qcrhRjQ6giLjUgSBAUgwv4b7joP27kVTWOJU4Dk2awvk2/wLq/tiMdAm1k7RDV/mUBgpCqPu8SYLgli4ZKAg00kGji/FsVWB8NrwIrhQTiYiHM+IGVy1k7FK28leY9oEcI++K1X1652vo+T7AhbPEU4xQPghm5g==;NmXRUfVZCwxBlRUyOyiROA=="
 ---

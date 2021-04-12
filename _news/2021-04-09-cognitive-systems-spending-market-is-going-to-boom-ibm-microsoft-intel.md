@@ -85,7 +85,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://i.insider.com/603f4b7fb46d720018b0482e?width=1200&format=jpeg"
         width: 1200
@@ -257,6 +257,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
+    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
+    publishedDateTime: 2021-04-12T06:39:00Z
+    webUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 61
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/microsoft-afp-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
     excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
     publishedDateTime: 2021-04-10T10:58:00Z
@@ -307,6 +323,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 42
+  - title: "Microsoft close to $16bn deal to buy voice tech firm Nuance"
+    excerpt: "The tech giant is in the midst of more acquisition talks that could see it buy the long-time player in the voice technology space."
+    publishedDateTime: 2021-04-12T07:52:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/microsoft-nuance-deal"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/voice-AdobeStock_418701314.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
     excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
     publishedDateTime: 2021-04-11T23:03:00Z
@@ -320,34 +350,6 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
-    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
-    publishedDateTime: 2021-04-12T05:47:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 41
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-buy-speech-recognition-firm-nuance-for--16b--report-2021-04-12.jpg"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "Global Artificial Intelligence Market 2021 Growth Analysis – IBM, Intel, Nuance Communications, IFLYTEK, Microsoft"
-    excerpt: "The latest research on Global Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comprises a fully comprehensive assessment of the industry vertical and highlights the various market segmentation. The report ..."
-    publishedDateTime: 2021-04-07T13:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/07/global-artificial-intelligence-market-2021-growth-analysis-ibm-intel-nuance-communications-iflytek-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
-    images:
-      - url: "https://teceze.com/sites/default/files/inline-images/Artificial%20Intelligance.jpeg"
-        width: 5000
-        height: 2661
         isCached: true
 
 secured: "awD9kFDgl/rRDJah2gNZg1df6TaKqR8vZxtvWxRzcXzxeiJQrwykEssgQ8QHv3sxAYXqGk6CIFY1HDObFkueafg4yzo+ZpcGJ4XXC7kbi2HkwTaVREHy3jnxbsuVv6P0lI4QTRR/e+1v75Q8ycsD/ggYEvGb9A2s3fFNCqgo0IkXvCc0LIhWsOA/B+qa0P/jjxKqIIgNcTRlvjwE0n0dEGe6Co417HwqiuZABg0G3s8q6KLmTPF4DIlp9x9oOyFdAAJ8H8igI8vCEdnWdIrxdYyodv9+J1v9YU3lsaon68G+ddWmg3rhb3j8P39wnYk0c+h+YQR2WSRxGL4RV36bWDsCuLB33+4+dSqgYJdrIuE=;LRwSY+witxBcPD7XR5Gycg=="

@@ -2,101 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-04-05-hong-kong-robot-sells-art-for-688888-and-is-now-eyeing-music-career.md",
-      "title": "Hong Kong robot sells art for $688,888 and is now eyeing music career",
-      "excerpt": "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
-      "originalUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2021/04/AP21092018861389.jpg?w=1280",
-          "width": 1280,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/hong-kong-robot-artist-sells-art-for-688888-now-eyeing-music-career/amp/",
-      "publishedDateTime": "2021-04-04T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021-price-range-self-driving.md",
-      "title": "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving",
-      "excerpt": "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60696d2c3a792eb62a553dc8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1827%26cropY1%3D100%26cropY2%3D1128",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/",
-      "publishedDateTime": "2021-04-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-04-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.md",
       "title": "Insomniac may be using Sony AI machine learning for Spider-Man on PS5",
       "excerpt": "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech.",
@@ -1035,10 +940,10 @@
     {
       "path": "_news/2021-04-02-adapts-mission-to-empower-tech-users-with-an-ethical-approach-to-ai.md",
       "title": "Adapt’s mission to empower tech users with an ethical approach to AI",
-      "excerpt": "Adapt’s metrics to date are impressive. The number of researchers the centre supports is doubling, from 199 up to almost 400. For every €1 publicly invested in Adapt, more than €5 is leveraged back to the Irish economy.",
+      "excerpt": "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users.",
       "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco",
-      "originalUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco",
+      "webUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
+      "originalUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1057,7 +962,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T07:52:00-07:00",
+      "publishedDateTime": "2021-04-02T07:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconRepublic",
@@ -1210,6 +1115,99 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
+      "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
+      "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "publishedDateTime": "2021-04-02T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-ai-powered-social-media-analytics-startup-circus-social-raises-1-million.md",
+      "title": "AI-powered social media analytics startup Circus Social raises $1 million",
+      "excerpt": "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/",
+      "publishedDateTime": "2021-04-02T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

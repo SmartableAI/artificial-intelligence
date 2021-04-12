@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-02-24-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
-      "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
-      "excerpt": "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19667110.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19667110.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-deep-learning-with-tensorflow-certification-training-course.md",
       "title": "Deep Learning with TensorFlow Certification Training Course",
       "excerpt": "IgmGuru takes great pride in introducing the well-curated deep learning with tensorflow course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
@@ -1426,6 +1382,50 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-reverb-is-an-efficient-and-easy-to-use-data-storage-and-transport-system-designed-for-machine-learning-research.md",
+      "title": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research",
+      "excerpt": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research. Reverb is primarily used as an experience replay system for distributed reinforcement learning algorithms but the system also supports multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/deepmind/reverb",
+      "originalUrl": "https://github.com/deepmind/reverb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "Machine Learning"
       ]

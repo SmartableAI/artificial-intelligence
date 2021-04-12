@@ -287,7 +287,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -452,10 +453,10 @@
     {
       "path": "_news/2021-04-02-adapts-mission-to-empower-tech-users-with-an-ethical-approach-to-ai.md",
       "title": "Adapt’s mission to empower tech users with an ethical approach to AI",
-      "excerpt": "Adapt’s metrics to date are impressive. The number of researchers the centre supports is doubling, from 199 up to almost 400. For every €1 publicly invested in Adapt, more than €5 is leveraged back to the Irish economy.",
+      "excerpt": "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users.",
       "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco",
-      "originalUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco",
+      "webUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
+      "originalUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -474,7 +475,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T07:52:00-07:00",
+      "publishedDateTime": "2021-04-02T07:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconRepublic",

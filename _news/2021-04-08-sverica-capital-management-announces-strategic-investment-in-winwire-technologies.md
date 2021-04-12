@@ -24,31 +24,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "WinWire secures investment from Sverica"
-    excerpt: "Sverica Capital Management has made an investment in Santa Clara, California-based WinWire, a digital engineering company."
-    publishedDateTime: 2021-04-07T13:44:00Z
-    webUrl: "https://www.pehub.com/winwire-secures-investment-from-sverica/"
-    type: article
-    provider:
-      name: PE Hub
-      domain: pehub.com
-    quality: 24
-    images:
-      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_NewsBriefs_2.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Sverica Capital Management Announces Strategic Investment in WinWire Technologies"
-    excerpt: "Sverica Capital Management LP (“Sverica”), a private equity investment firm, announced today that it has made a strategic investment in WinWire Techno"
-    publishedDateTime: 2021-04-07T14:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210407005268/en/Sverica-Capital-Management-Announces-Strategic-Investment-in-WinWire-Technologies"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "RkS6ck/XS1BM+nt3ZCnk5iImTsSEYuH1YOGYXMZIKTgQRYCwdjInBSRolUPW9FW1SrbtJNv7ANEhEQzPpwlXhkR/cHKVA5kduSSymNZPPhQQLeUhQmRucvLaDrp47CDucfX873e3XrxdX0TMdgZB3RmOESELRYfb3ol3IbrAZNc38BHXPdU9Jw2nSX37yJJAkS34/GYHxeSTqhe7jcG2gYYw7lgDcjdxkxMTxwrN5aT4CHZBErvcu1CHS1OrpWoa71HUWL2SjnpICAf8yPtJE+Gi+0OyceqUD5R0X+j6hsWcG9uPkaEe775qjltZFCs7LCaWpoXzzFeweso+LsHJyLVJOaD79YHW8meFYY+HOr8=;xhfFcsXXCNJiyNEnAc7nWw=="
 ---
 

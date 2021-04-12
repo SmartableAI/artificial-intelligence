@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Self-driving startup TuSimple targets over $8B valuation in IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc. said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering. TuSimple is the third company to announce plans to raise more than a billion dollars through share sales on Wednesday,"
-    publishedDateTime: 2021-04-07T13:20:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-startup-tusimple-targets-over-8b-valuation-ipo"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-truck_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AS0DorUpcPEhRW9XLy1jyrtv57dR92BQNVvcr9pwAXe4Jh8kk52Csj6MgOfKLLAB3oxxotPOmK72PH4dMXnxbrv0N8iZnpWm4G+qcetAQQAhPvL2hfXSjoUA5RwXjXaSXtEKvA/MRU+40zjktIvhF0jr7t2wlAAZR6SWzbqM4EAv0oUYwAQwm4+41wqoRX0mlKNGpKESsVFkxDMPMhv0tIWqiKdcXKuatLRY+YWpQcIMuDg3H0RBB/KZjgtxzaIZpcp/nBDzi5f/0au+oGvYfHcFquPIR80Sy8+uilPqCBHbyAzZV0XNA9AjsO99I6MV5lGHU+/h2KeXli97/JiIwKXvCzXlZ7FwWKcRt5gQjS9YY0mMM358wU70c7s5kNQAsQO4OhulYU8D1HguS2UUkEHIbNFA7Fwno958mCxPdAvSArGm6+QMGqruwpC6n+7PX0sQ1GSKqQUsLhXObd2ZJdseA7DZrkJvJAv1O+S1BmKRIHarPfglcGyce0FPAcGSyelGzej8ynNUYCcSAintZg==;7g/UXzBuu/s0qViOFm7XMg=="
 ---

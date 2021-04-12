@@ -266,7 +266,7 @@
       "originalUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -307,6 +307,59 @@
       "topics": [
         "AI",
         "AI in Education",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
+      "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
+      "excerpt": "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC",
+          "width": 811,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT",
+      "publishedDateTime": "2021-04-06T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
         "Facebook AI"
       ]
     },
@@ -700,6 +753,58 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment.md",
+      "title": "Where AI Needs To Advance To Bridge The Gap From Research To Deployment",
+      "excerpt": "The AI excitement is predominantly driven by on-going technology innovation, as the speed, accuracy and usage of AI has dramatically increased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/amp/",
+      "publishedDateTime": "2021-03-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1352,112 +1457,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward.md",
-      "title": "Preventing bias in AI is hard. Bug bounties could point the way forward",
-      "excerpt": "Deborah Raji is researching ways to apply the models that underpin bug bounty programs to algorithmic harm detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "originalUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/facerecognitionistock-1180902227.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "publishedDateTime": "2021-03-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness.md",
-      "title": "AI Weekly: Facebook, Google, and the tension between profits and fairness",
-      "excerpt": "Learn more. This week, we learned a lot more about the inner workings of AI fairness and ethics operations at Facebook and Google and how things have gone wrong. On Monday, a Google employee group ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "publishedDateTime": "2021-03-12T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

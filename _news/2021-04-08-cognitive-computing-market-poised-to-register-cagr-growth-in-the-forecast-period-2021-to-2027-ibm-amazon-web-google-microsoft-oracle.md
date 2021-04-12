@@ -19,54 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-09T20:40:00Z
-    webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+  - title: "Emotion Detection and Recognition Market Growing at a CAGR 11.3% | Key Player Microsoft, Apple, Google, Tobii, Intel"
+    excerpt: "In the post COVID-19 scenario, the global Emotion Detection and Recognition Market size is projected to grow from"
+    publishedDateTime: 2021-04-08T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-growing-at-a-cagr-113-key-player-microsoft-apple-google-tobii-intel-2021-04-08"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
-    excerpt: "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ..."
-    publishedDateTime: 2021-04-08T09:11:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
-    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 400
+        height: 630
         isCached: true
-  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
-    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
-    publishedDateTime: 2021-04-11T23:55:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+  - title: "Global Mobile Speech Recognition Software Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "Under COVID-19 Outbreak, how the Mobile Speech Recognition Software Industry will develop is also analyzed in detail"
+    publishedDateTime: 2021-04-08T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-04-08"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Supply Chain Analytics Market Growing at a CAGR 19.8% | Key Player Oracle, Infor, Microstrategy, Salesforce, Cloudera"
+    excerpt: "Factors that drive the market growth are increasing volume and velocity of data, need to enhance operation and supply chain efficiencies, and the advent of AI and machine learning ... such as SAP (Germany), Oracle (US), IBM (US), SAS Institute (US ..."
+    publishedDateTime: 2021-04-07T21:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supply-chain-analytics-market-growing-at-a-cagr-198-key-player-oracle-infor-microstrategy-salesforce-cloudera-2021-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "DpzkIfWnZJ2LxyObmEOTObLTaVLh1/PXzzkihnk4fbK23f8iaaD5X16xCT9L63oWI+v2DAX5LOCF83YyAQqSQdYWzs10Ly28w7bjl3YJCTMFiQGyKCMOMMF2gg1CE3JTzJALcyq9+mjCTTRig1qIQWagANckAyNo5g6f9Pf6jqN53QUweUg3D19JqkXmbwiO+2DKNt1+p6uov6V0VKXuwcA4BngdxvCVxbqlUL7kItFzC/K39RB6cFAYz8Pmx8Qxuca7s1BBo1ugAeO1ObrfRl+Hp2rk2V2m2KV/pW6Wp4SjXqCG1s621OKfwx2esvyfJ5VssbdIXPlEl6/MxGVJi9iVUs9F8Ctn4Zl7+sWj8kA=;Ce/VJa2TD2LeX2ZMlDVLgQ=="
 ---

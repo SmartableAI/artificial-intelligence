@@ -66,6 +66,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "Vancouver-based fintech to offer AI-powered personal finance platform"
+    excerpt: "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ..."
+    publishedDateTime: 2021-04-12T07:00:00Z
+    webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
+    type: article
+    provider:
+      name: Mortgage Broker News
+      domain: mortgagebrokernews.ca
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Why PayPal Is Winning The Fintech War"
     excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
     publishedDateTime: 2021-04-10T16:09:00Z
@@ -81,22 +95,6 @@ related:
       - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
         width: 936
         height: 446
-        isCached: true
-  - title: "Angel Broking rides Fintech wave to record 127 per cent growth in client base"
-    excerpt: "... at Angel Broking in the past few years are an indicator of how AI, machine learning, and cloud computing have been transformative, and the beacon directing the company into its FinTech future. Commenting on the FinTech pivot, Prabhakar Tiwari, Chief ..."
-    publishedDateTime: 2021-04-07T13:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/angel-broking-rides-fintech-wave-to-record-127-per-cent-growth-in-client-base-121040701147_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 41
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/07/full/20210407171229.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Avant makes digital banking play through Zero Financial acquisition"
     excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
@@ -144,15 +142,6 @@ related:
         width: 450
         height: 501
         isCached: true
-  - title: "Angel Broking Rides Fintech Wave to Record 127 Percent Growth in Client Base"
-    excerpt: "One of India’s leading digital stock broking company, Angel Broking, is adding a new chapter to its decades-old journey as a financial services company. Having achieved several awards, accolades, and growth through digital transformation in the previous decade,"
-    publishedDateTime: 2021-04-07T13:10:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetails.asp?id=55964&cat=Press Releases"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 1
 
 secured: "5cUzcv5jXnyk2AVLJtpDK6GoY1cfygbcJ8wpJMVm2+8t42znDAqTDGTGNI9O0ZV7xEEk1wU8UDUEfQ16XA2msc+q1SLZqQjtfi7DxL+EhIZKI98h+q/nYDfhXBhJoL9Dux87lA+BTY8o+g5a8zzWDK4Xm0n5ZD+DkmgO6bxXLDUNcNHMSGK8a+3iBjrTjW0LV7BPhfUGhHmeqUmkn0sZEUcxvGdyAPRKL0kgSOb8BNF8/baqZtqLYks5ikB2G/gyugFNKaIeKPY/wkSElje0a+BIuuU/on82UaW1rDF3+Vu1Zb/mWQEtY6M+ZzeqBFlAWeeBHLSd8p1F+vVcU1wdFFohDHOTa3UG77nCWlveChs=;VE7UJJBaQ5r3AE/awV3jDg=="
 ---

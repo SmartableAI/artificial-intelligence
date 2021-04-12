@@ -2,15 +2,13 @@
 category: news
 title: "Physicists working with Microsoft think the universe is a self-learning computer"
 excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-publishedDateTime: 2021-04-09T20:40:00Z
-originalUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
-webUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/"
-ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
+publishedDateTime: 2021-04-10T14:00:00Z
+originalUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
+webUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
 type: article
-quality: 86
-heat: 116
-published: true
+quality: 66
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -26,9 +24,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg"
-    width: 796
-    height: 417
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -48,32 +46,23 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
-    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
-    publishedDateTime: 2021-04-11T23:55:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+  - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
+    excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
+    publishedDateTime: 2021-04-12T06:02:00Z
+    webUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/Microsoft_AP.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
-    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
-    publishedDateTime: 2021-04-08T14:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
-secured: "1PBY8Tl2A6Y8nmXtYZy8Ytmn/cyM1MWirQVr2Xxb8vKGEZSMeOVH+q3MPk6g2N/hfsnygOnJmxLzmG1dh/eQWivlhALor+W4OzL73OVSeUJ6hA/VoJGPGCQ+VRrzxr2Mezs4O3TIEMCLc+I23aiZALetzaneUTEvYhAwsN9/Ag6LhANENg1sfZgy6o6sD2HaxNEm6VLn6uLJfvK93X1Glsr0icH+oSA0hqW6OEyRC9G6PoHRpa2qAIbnfYw11XC58BsBHzbfSKUJf8oIs8hnvAqd/kLnedPlYU84p3BRt5V+R7LOqtvrnW6gfWb8Js4FLht4kdKfMwS+8hkhVVAIZnUwR6stjsLjespfP/RF23nGJDwkHXFNpOvivKKke5/SLpP7gAT4CIJp8bWd4WVE+f4AbHce62Y0pZ+TfxGN/g2xIRUKXc7JRF29dvnAMiKDIo8SigLQvbKSnKkhlbCN/WGFkn/fkV3fNsMPHpUpS2ne+8n2MsWx5DCo2AYlOjSYDckjXYUkFGhNmK2Mfi6kPA==;OYN981T2m1qBMGRcqOvXDw=="
+secured: "3JqJ5nGA96ex98om6aTkQtXwJBFaaJKbn61pFpj+w4xkNF3uYVcGytXp7I8ERFfYQWe0CDOC6KhVCBSfoimbzkmI7XaT155giJLVIlzZgYcg4ZzKljuLSJhs7K8nANke3bUo4mYWq9cujnczWqOQTUsNN4ywzXbvCIZb7K4m3JJfsgmE9Na7hhE3UtZyWlLqSWEK5q7u5zHZFUKW5BoXUExVYXMtkQzsB/UL/jbb+R3hAWx8X6MQr3kNgl+kWIaPrluKJqn5BsPolAAkKpxrv8XsFi7n8tFk9EN7TaOW5YI/xkLxJV/VETItCdcr4m6sAJG3YWtzQSG+X7Z0hvcpoLFW8BhNPCUlkE4gu4q5zFk=;ZcQZNdE9BsZAFBuANHriwQ=="
 ---
 

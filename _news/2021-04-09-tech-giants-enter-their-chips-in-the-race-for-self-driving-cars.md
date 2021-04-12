@@ -136,9 +136,9 @@ related:
         height: 630
         isCached: true
   - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-    excerpt: "A discussion about the current state-of-the-art for self-driving technology and the implications for the safety of runners and cyclists."
+    excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
     publishedDateTime: 2021-04-09T20:18:00Z
-    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
+    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_7914.html"
     type: article
     provider:
       name: Slowtwitch

@@ -82,6 +82,17 @@ related:
       name: Reason
       domain: reason.com
     quality: 37
+  - title: "Solution House Software expands Smart Cities offering with facial recognition"
+    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
+    publishedDateTime: 2021-04-12T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 36
   - title: "Who's Looking at Your Social Media Pictures? New Report Says NY Agencies Used Controversial Facial Recognition Tool"
     excerpt: "\"We've written nearly two dozen stories over the last year, the one this week kind of being the culmination of that showing just the extent to which this startup has spread its facial recognition technology across the country,\" Mac said. Clearview offers ..."
     publishedDateTime: 2021-04-10T01:59:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-excerpt: "A discussion about the current state-of-the-art for self-driving technology and the implications for the safety of runners and cyclists."
+excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
 publishedDateTime: 2021-04-09T20:18:00Z
-originalUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
-webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_j7914.html"
+originalUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_7914.html"
+webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_7914.html"
 type: article
 quality: 24
 heat: -1
@@ -159,6 +159,6 @@ related:
       domain: plantservices.com
     quality: 4
 
-secured: "11qA5L2zWhxgXINcM2r69sFMgECJxIl580Rte2e4zKbfwLB8sge+9Pm8RLdXrr+Hc4ZdNt8vLliYDYGTlzZb4uifLV1inUtDSfD00LBgiI0GkHguKXG5/s6kQk6KllIc8KdEh9z0/Eah9mNXfm8f925RfWHcnOv+wTlbDc0PJO+TG/MCphnPYDZ0HTeaWz4LhdmgbKF8MOFpZSbcifIHagSgetKc3R+j7p0leEElAzO06CIfpbNMEseMAdUG6V5GKpPQ9HLThvWxUb+vQkK39uB5jAvrunVnq2v/ghxUmJXo3r5mYaWMxgXy4K1UWuYt6Tc9v+k9lGwLKnaJYS/UzOAAHU7gFdJOhXT9bwDX3pvlne5InBW64vz2sKB6IH/b69lAv/OzyytVVaYOPvlcIPLm8t6Q3CpHVq8aViMb04SufML+ENXtlcSKp+YNfCZVO5MJNlwcL+RBxPbnkyOKeehJ3BfHjlbfgg27PQYT7XTVRgSVVWqcMfXMWnpaYHvDiL7N8V7DYe1kuK3z9w+6Ew==;pmxZ1UZcOzQXlJC0NetHkQ=="
+secured: "BsFXbphTdCFinpm6y4qZ9UBO7DehezmuetCd+squ6MUsY7ybS/gG0gSJf7ExYUANteYRSK6GBREU8jZQcA2qUK0Z3lA5LgzImnVBV3u35xwbpYZFZiPylSdB2EUBGfg5PnJXNDOh2I3VhhIlQJql7n9etOAn7wNNSezw+6zvkYS0QH8ufNkeDFqqSiZ5xmR0/I+2Aa8IbRl1oETR8/BgW4DmgajqJq3milGl3rYkbVujyIKQRuwPPsD1/0KmIuef7Thwd5KN+HR+66ihlIKszq3TIwCfaqZc/vFK6eJ7Ya5vAav30zNIMG7oxnHrzsJcfOmcsj7y2M4idXoVGa9JJi6efs+YSd/WVUIg9zvro3w=;jwZTzAn4i3nawRWYZD+xng=="
 ---
 

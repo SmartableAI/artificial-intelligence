@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"

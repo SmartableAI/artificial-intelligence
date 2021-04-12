@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/jpmorgan-dimon-letter-finte
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/jpmorgan-dimon-letter-fintech-threat-to-banks/amp/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Fintech is here to stay, says JPMorgan chief Jamie Dimon"
-    excerpt: "Fintech companies are set to win significant market share from ... To compete, banks need to invest in AI and machine learning tools and accelerate a shift to cloud-based banking, the CEO says. Banks also need to be faster and bolder in how they attack ..."
-    publishedDateTime: 2021-04-07T13:48:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37808/fintech-is-here-to-stay-says-jpmorgan-chief-jamie-dimon"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/dimon.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "rAvlQWdVmeSlP9hMK084nr3kAEHBNPpCSmr6kfrjy5JwBEu3mvv9CsyDQj+WT6wNnb2xcbZ1bpcB4Tp6BZFMwL7WGxGoNXPDaX6OyhJ6bMO6zzwP+486DGDKpw3exlJggAr+nTIV3gNaXai6T0nFvNtmVdrdo7poyGZU/SQhAGTdGTHaIMGpmECJCw3TEJ0qqHKri7u8WAoeH3sQYr0BPfUqkn3tPYHpDxkTBTHrbLO2SSXYVjyRgzkGbh+YQ9NaV385mFFPFJib2IbklqlAaOg4Tk/yiy5iF7uhoJ67qURl5UPNZJ3ReL9BEhmpbTWbvjGbXM1RpI2wqzCIrFN8ia8/yY4vJoIXsLoBJ+b+KECAJUnikEwa1hhKsDTsgL7GOAtlpCJ81UUAnYpLzfXcPB+AdY8ItUA8/UQ6eJQtp5bx2/kRDEuqlB2q4v2JkON7B5ryOp3OkJucS9PfZSF77j8X1/5bIPCPjSB/qZz4DrdlUpenmvylgye4v2noAO9fPvRqRjz+rZDxpUbwk4T2SQ==;ItcUdJamr7kCPMech8YBvQ=="
 ---

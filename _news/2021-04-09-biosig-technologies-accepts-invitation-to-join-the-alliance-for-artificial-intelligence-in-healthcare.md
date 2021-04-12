@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
+    publishedDateTime: 2021-04-12T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Resolver's AI-Enabled Security Management Solution"
     excerpt: "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. “Our vision is to integrate AI into every step of the incident ..."
     publishedDateTime: 2021-04-07T17:47:00Z

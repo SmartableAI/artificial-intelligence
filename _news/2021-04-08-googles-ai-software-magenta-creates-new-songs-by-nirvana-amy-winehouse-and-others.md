@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "There’s a ‘New’ Nirvana Song Out, and It Was Written By Google’s AI"
-    excerpt: "The neural network found patterns in components of each song, like vocal melody or rhythm guitar, then used those patterns to predict what would come next."
-    publishedDateTime: 2021-04-07T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/"
-    ampWebUrl: "https://singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/07/theres-a-new-nirvana-song-out-and-it-was-written-by-googles-ai/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/04/Nirvana-song-by-Google-AI-deep-learning-concert.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "AI writes ‘new’ Nirvana song Drown in the Sun that sounds just like it was written by Kurt Cobain decades after the singer’s death"
     excerpt: "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ..."
     publishedDateTime: 2021-04-07T23:06:00Z

@@ -2,102 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
-      "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
-      "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
-      "originalUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-3-75498030.jpeg",
-          "width": 690,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
-      "publishedDateTime": "2021-04-07T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning.md",
-      "title": "Regulatory Compliance Must Be Addressed With Multiple Techniques Including Machine Learning",
-      "excerpt": "Machine learning and artificial intelligence are still moving up the food chain. It’s good to see that the industry is moving past an important but still narrow focus on pure system security. Linking the tactics to compliance strategies is the next step in a more mature use of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "publishedDateTime": "2021-04-07T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
       "title": "Op-ed: Using AI to help solve today's semiconductor problems",
       "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
@@ -889,10 +793,10 @@
     {
       "path": "_news/2021-04-07-predicting-regional-coastal-sea-level-changes-with-machine-learning.md",
       "title": "Predicting regional coastal sea level changes with machine learning",
-      "excerpt": "Short-term variations in regional coastal sea levels depend on a combination of nearshore and offshore processes, including fast-paced changes like those associated to high tides or storms and interannual to multi-year changes driven by relatively large temperature oscillations (thermosteric variations) in large open ocean areas—just to name a few 1.",
+      "excerpt": "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z",
+      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1225,6 +1129,91 @@
         "AI",
         "AWS AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
+      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
+      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "publishedDateTime": "2021-04-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email.md",
+      "title": "Google’s senior AI scientist resigns after colleagues' firing, reveals email",
+      "excerpt": "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "publishedDateTime": "2021-04-06T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

@@ -645,59 +645,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-10-physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer.md",
-      "title": "Physicists working with Microsoft think the universe is a self-learning computer",
-      "excerpt": "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/brokenbrain-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/",
-      "publishedDateTime": "2021-04-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-acoustic-anomaly-detection-using-amazon-lookout-for-equipment.md",
       "title": "Acoustic anomaly detection using Amazon Lookout for Equipment",
       "excerpt": "As the modern factory becomes more connected, manufacturers are increasingly using a range of inputs (such as process data, audio, and visual) to increase their operational efficiency. Companies use this information to monitor equipment performance and anticipate failures using predictive maintenance",
@@ -1221,6 +1168,49 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-the-3-most-interesting-ai-and-robotics-stocks-today.md",
+      "title": "The 3 Most Interesting AI and Robotics Stocks Today",
+      "excerpt": "These robotics stocks stand to benefit from application across industries. Positive industry tailwinds for next decade.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
+      "originalUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/the-3-most-interesting-ai-and-robotics-stocks-today/amp/",
+      "publishedDateTime": "2021-04-09T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

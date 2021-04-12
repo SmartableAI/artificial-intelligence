@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Predicting regional coastal sea level changes with machine learning"
-excerpt: "Short-term variations in regional coastal sea levels depend on a combination of nearshore and offshore processes, including fast-paced changes like those associated to high tides or storms and interannual to multi-year changes driven by relatively large temperature oscillations (thermosteric variations) in large open ocean areas—just to name a few 1."
+excerpt: "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ..."
 publishedDateTime: 2021-04-07T10:24:00Z
-originalUrl: "https://www.nature.com/articles/s41598-021-87460-z"
-webUrl: "https://www.nature.com/articles/s41598-021-87460-z"
+originalUrl: "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd"
+webUrl: "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 386
     isCached: true
 
-secured: "bYuPKlYfwTNkCVFvn6D7Xxzezet1JvAcjPnwuS/n4f+pYyuMyrp2igTqZ10YLS/T7suZLpNsDUM1+QRdMG5a4U1SZhPRszoyP8oy5/xRYVciQH+E0U+OHStPBkMnWYAsVfw3TzO0NheU1HxMFYBBIVr/ZOr8AYB4Vi9HWmY4LU5WX0rhX0CiywClJDnWvEjGXv4Ot9Tk4sMH9BmFiJ8QlZaF/J8696Ri8MkEWQ9/JAh/cZ8wF1BLeM2DnjlZ1Ggf55Cc7oW062SUJO/7Qt+jwyVvX4DP9M/V0zbqSKSbF7Ij64+MhAB9Vtrktldh68YCHROAsGq2Jm04DxhY2FjH+I9tOSS61Upr2hUqgBCwmQ4=;n9cTilXleG4YZNBouWT1yQ=="
+secured: "1BFPzejztxG7eNtcdfPKd01Tx6I5ms4XYNcD2O0BF1b5HljuO3LfCIuicH2YBj8XAN0IACaQzkqvWJJ0iY7id5KFNc3jKoqsrcTb5znAg/UcoRoiGwR5nw7+4KC/tMhbtMHyLjzU3BOCxvFrXzqvlW9xM9KMFlA/OzwuojV9jNuE1kI5G91UuADXK12IQ3yLx09X8oP8A5vWmWsAkmHNEB7E8BOkZ70vf7EJXlqsSmGUMOzu2kFhNIopALtaAJJtYM57DnqTFLfrihXhoHsvV4ROcukWtQOzBNdF+lBbtDMHDzvhbMtJJcGbIWA4WpWD7arp9NF/b0fXiSOpe6dT2ovoLatkWXtotfrJd7sdmiM=;+uf0iop+ob/OLmvlf3D+Iw=="
 ---
 

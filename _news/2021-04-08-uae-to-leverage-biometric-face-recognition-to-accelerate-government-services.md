@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-fa
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "UAE Government to employ biometric face recognition"
-    excerpt: "DUBAI - The UAE Government announced that it will employ biometric face recognition (Facial ID) to register customers in the \"UAE Pass\" application, as part of its plan to launch the first safe digital national ID for citizens and residents. The UAE Pass ..."
-    publishedDateTime: 2021-04-07T13:28:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/UAE_Government_to_employ_biometric_face_recognition-ZAWYA20210407132426/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210407132426/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/171031091852QSQA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Voice biometrics forecast to grow at 22.8 percent rate to $3.9B by 2026"
     excerpt: "Voice biometrics market will spike from $1.1 billion in 2020 to $3.9 billion in 2026, driven by banking, financial services and insurance (BFSI) industry demand"
     publishedDateTime: 2021-04-09T21:45:00Z
