@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Singapore’s Otsaw Digital develops robots for home deliveries"
-    excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
+    excerpt: "Founded in 2015, Otsaw Digital focuses on developing robotics technologies and artificial intelligence for healthcare, security delivery, and mobility applications."
     publishedDateTime: 2021-04-12T04:03:00Z
-    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
+    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries#!"
     type: article
     provider:
       name: Techinasia

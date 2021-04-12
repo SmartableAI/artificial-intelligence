@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 795
         isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
     excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
     publishedDateTime: 2021-04-12T17:05:00Z
@@ -78,6 +94,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ocz4pPDZFiphMlLtwUvz6PcywM23rbxuNZAL1hVZaJbt1Nk+V4qqHDlGUG1Ae3erIsd0aKSbcJPVwNBcS+K8julThpPRAwIxJ9rPtVgV79vel7vLoPJkrR6pDVHFW7ECkzb1yyYsM6tdLIHl4ntZRDWNi4PPaD0JqLKffNDRCpaqSrsB+EKvWzkvdEwC48aDz9a/QNCJXqcJ2BpftyxOWqVfOhs+jv/xHMn7CLuQq0rIbsxVX8eFWEfrmOYeH7LXwVhpiwkdIiYSNx5JyAKAbzX6R4VHilkl25gT7NgmVBMNXwXtxS/d2jqrY1o4plWRFSDZzfkiEttpSKOitJMLGq0i1ko+VxwE5m5jMbxWMtc=;UwcYUs/loS5sjgHMJIxqwQ=="
+secured: "KFFsxtrzg7p1KeDuJ1gTvkpf316iBPg7LjiN5F/WYu9TLeVyfjZ8Fx6NfphVCbff0hpQa0Prnb8aJXs7JX9f3Mpi3pp3J0Cu18OHs1AByvl2V5owL+wyyewczcc9OyYz9kbInrCGnoc7q0a48UNK+ifp3Nd7O2atnJ7AqpYuFgGhTUgqsr0DydsT4L/WBoknAbzFuYkO3OdNmIURWw5wPCFqpsZBbArWYq7KTS3xSHLcpcNkJNDf/CNSIIxtIzpndjdXIzANcOuT/U6z+Fi6xgOlOj+JRlysbV0xYlyyNVaTCjro3XLVWMXzPY0TunWktenoWgzmiAruHGfo6gsUp779zuT0KIqgLpdh4dCgJmjY6Lgf/89HeW8CmJyEyGYC2c+1AtInzOPynjvdRhf5U6pKUITQvOrDAPPosouxbyyEuBLVsT6cgWKALu2Rk+13d7JQOmajP1JN23JU6FmA4AI/4BwVHmzD5q09FNcGF7kJhGY+PNZ5KGYaWz6ehzR6hzVzipR9ToSyVialpw7urw==;xEc2yfSKBrx7jTcGvARH3A=="
 ---
 

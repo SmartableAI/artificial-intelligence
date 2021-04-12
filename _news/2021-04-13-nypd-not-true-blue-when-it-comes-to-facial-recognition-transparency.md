@@ -89,35 +89,7 @@ related:
         width: 932
         height: 460
         isCached: true
-  - title: "Legal Aid Society calls NYPD use of facial recognition technology 'unreliable'"
-    excerpt: "The Legal Aid Society disclosed documents made available in a public records request, showing email exchanges from the NYPD and Clearview AI from late 2018 to early 2020."
-    publishedDateTime: 2021-04-08T02:27:00Z
-    webUrl: "https://longisland.news12.com/legal-aid-society-calls-nypd-use-of-facial-recognition-technology-unreliable"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 50
-    images:
-      - url: "https://img.chdrstatic.com/media/24c22de5-9c5b-434d-938e-49fc97b66018.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
-    excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
-    publishedDateTime: 2021-04-08T02:00:00Z
-    webUrl: "https://cbs58.com/news/47-wisconsin-law-enforcement-agencies-used-facial-recognition-software-reliant-on-social-media-photos"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 24
-    images:
-      - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
-        width: 1751
-        height: 985
-        isCached: true
 
-secured: "UwcoWWapc3vTiqH74ZvkAIzS5CmkvIq4N/r/bo2UJWXi+w1ANXJWz/HA1JRnfmsDsiHYFU7Z5lj7mKSfI4OgY2JKDjt9NwjaB23WSJWvbQNRJM/NChdSf30nER7hdBTAP2AMX+dW9JNi73NPTo8UiVqoTsLBP755ghoQ+b4pvqG040HFk97CndU6FkPaiGOVk/A7XZGTXRAWiCXidDUlJT5R9mrOkTjXZJxP7rMn2g60UPk9KhdD6hrFqnaD7f7ESuC7GLkJxJq3+BdEIr5a0X/rjaqMNE0m17xaSGApHEoNpqHsu6DU6uwe1KiWjFCY+GPt8bD5TVnSq3f6KonfMpIUtaFPp2OEtMxsnLjUbAE=;kZPXWeHzJrQSiLRLFrN0hQ=="
+secured: "n73APrXa77LspMPAu2d/0z9jLKwkaQ4Ya+6oKe6YbX7OWbkRR1+nXAXnm1UDbn3uIGfK5jEU4ll14iKkVqmFqRf1lcdOTrh9ZQkVvAE75c8LizWKUY7jFGkKnf8grzAVOlVxdYwf52QmWu+sMkvMGzwL9h/cfzg3UzOGyEUB6nkRxouN2na4MpbJemIbylFFuK5jFdeeEQVwhw4eU2zLZuXkkKz9plwxe9NzTiTFdKMUFk5UudH6GSYNRtCWYWAGN/jHzDHIBVXEGggQ8F0mBw00kjsPgMU9pFyZ7z3s1TzAI6ATf06O0aHrwS0NSqovaJj9K94yKNO0cLEff5D2HINY7sozn2zaQBerxqMJ+x8+J0P6NPAk0ck1rRUWXfSicslE9okSTSWcBuF48lG3cgSmDXmqZhem6JOz4NHWEHkS3LL4XrkQ7VRe5U5szPHx01qwvsOF9OkYGxhE1CGJ5a/WBteP1wOAP2fCaiFsZ6AGWpQEFXr1B1nondHdUs8rb2VGwrZRf+e+BUBQfnRWvg==;qylLD8eBDJJMzcbmGtNnQw=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1000
         height: 554
         isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Nvidia shows off DRIVE Atlan, its next-generation system-on-chip for autonomous cars"
     excerpt: "Nvidia claims the chips will run an unprecedented 1,000 trillion ... “Atlan is a technical marvel for safe and secure AI computing, fusing all of Nvidia’s technologies in AI, automotive ..."
     publishedDateTime: 2021-04-12T16:57:00Z
@@ -74,6 +90,6 @@ related:
         height: 450
         isCached: true
 
-secured: "X/eTUEHzCslsWPhPr5DnNM7K0VIx+0QNR5lmG32Evqa4Nkr9rc4yN3Jc4p3ehpVjr2WQkMTrZybn0WMhopzT933OaumSE8EwOMei9WY2+IQA2ibJKgRVPu2z+EoXF1KIMaL9sBBsv4UjWxTErpvB/YnOSsS18ckOyDF2yS1b7/U0p6lozU9LSwklrBa4fzT4DY4i04Qu9s5h6zpV6Bpf8QFhz566yc5iK0LRVI/ZENFikq2hI9eNh3y6o2nHwppSDgshWX+Pb67zHdxhZvd9EegibMZzOcrKDkgh2TAvWneutLeixhVTbmZD9Elyiqnh1OxlD5wjAMzKTKkdO7P4iF3e+7V2AHg9QFZO+YOpAAs=;6QuonwRLepe9n8hD8cIXmw=="
+secured: "Z+t7g+P1nNf81AVQkE1DdAO37TxM9XUKmYpc5uBtp6yDzi/llKNFWawyIfMcjdQgNQFFgwAJXqqW2x3ArTxuOj5f/n8BW3TUim6CH5xontbzZ8QghSvFuZkYQF7BGtaLG6M5b4fttFE91DWDpR9OcSEYS+bzxGMHPoSzgtanvr9k6TGRee/B5se233G4rameI4xyP4Hv/qbiObdk1bC8l5aOq8a/oVAQUBbGzzaFz+BfTQmPOzmuXtiuEJt1i7Kjh9pNtTucSbLio+QiyjvOlbTqkU8yaxMOq1Td6QrZBkTTRkNV6Qj8GP7U7qV12GQkNF5SfL5CTV2azAmJkCM8WuylI9Sz09l4I6jVJWVaLrfKHGzVyJ4czQ5vnVbeYjyGEctCFVlfgcMaZX9zhlM+qnuEXo/tHTVoOtCbGyHDkFm/DJ1nQB7VJ0rBlxG1MnmVfS0CvSA2QTrUl5H0pwwwYyIXEBYRLV7w8pzKVc3yhnkch6Vgc8txkwFayN1rCwHe8I6FqXonN84O2Uh7m0G23g==;hkDtBUu2Ur8YBN7kX97DEw=="
 ---
 

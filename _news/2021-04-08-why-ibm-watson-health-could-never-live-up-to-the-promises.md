@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/04/why-ibm-watson-health-could-never-
 webUrl: "https://medcitynews.com/2021/04/why-ibm-watson-health-could-never-live-up-to-the-promises/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "AI Stock Picking Mutual Fund from IBM Watson"
+    excerpt: "He holds an MBA, B.S. and B.A. from UC Berkeley. In this 3,367 word interview, Mr. Natividad describes the AI based mutual fund powered by IBM’s Watson that he and his colleagues have created. “AIEQ is the ticker, and it is the first AI-powered equity ETF."
+    publishedDateTime: 2021-04-12T18:08:00Z
+    webUrl: "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/"
+    type: article
+    provider:
+      name: The Wall Street Transcript
+      domain: twst.com
+    quality: 54
+    images:
+      - url: "https://www.twst.com/wp-content/uploads/2021/04/ChrisNatividad-1.jpg"
+        width: 1200
+        height: 1800
+        isCached: true
 
 secured: "neXvHOGihnn/0c3piIBSb7MWXXyZeXzUogJ5WmhaPpWTU2zWFejjTO6eJouDTHow7yKC5Zog7yLQ6gryrik0gKxtzrlRP2YXYERcE+BKfdf1h0UOBvw++bGt41EwStV0KiDsLcYixbUKoMl+GRCCiuixHb+mBOfSacCX7HgVw7TuXvlvhjRtzjnYxuuYS8rtCddjcYAfQSxeR0Oc5vtpkUb+9olSYUFgCjr/o/vtJn5pWcZDwFB1Jm5VQhcVsuy0MmBecw/riJJcLDQJo1kwBylxSUVtLup5ymZdwQDVI5+gBfAJ0k+mTuaIOjnOu9ImYZovS7Dv7BGmJ2tcAPNPGKnol0/NW7d2SmE5PcTDhCNRTU4YkIdStiCEbH3vSza9hmwRrUL6DmpQmehOwt3kIJRTa1QvFaC5/SxDEj64xcDWg9W4U0Nip0Jfqc+aHxM+mWobsfwXyDPBlKO4DOTZUVMBqfpKw/Z//IApLQ2emmb81xlRqjwSJPveo3rgR2rLbHrxPLEGIK+cJcAfHmT5wA==;FH/53h0VZO1MgEa7KAVgSg=="
 ---

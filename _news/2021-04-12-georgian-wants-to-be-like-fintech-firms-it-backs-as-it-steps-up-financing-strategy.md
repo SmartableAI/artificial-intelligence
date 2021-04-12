@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level"
-    excerpt: "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release."
-    publishedDateTime: 2021-04-08T02:21:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "How To Become A Fintech Market Participant"
     excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
     publishedDateTime: 2021-04-08T11:50:00Z
@@ -80,6 +64,33 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "1 Fintech Stock to Know; Coinbase Has a Hot Date; and Why Is SPAC Mania Cooling Off?"
+    excerpt: "Not a lot of competition in the FinTech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
+    publishedDateTime: 2021-04-09T19:23:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
+  - title: "How fintech boosts the progress of the MSME sector"
+    excerpt: "These AI-enabled services may also help on the simplest of queries like MSME full form. The primary function of fintech is to simplify the entire process of fact-finding. It is not just limited to MSME loans. Fintech companies help MSME owners in filing ..."
+    publishedDateTime: 2021-04-08T08:41:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/04/08/1600x900/Ziploan_HT_1617871219657_1617871224708.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why PayPal Is Winning The Fintech War"
     excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
     publishedDateTime: 2021-04-10T16:09:00Z
@@ -112,6 +123,34 @@ related:
         width: 600
         height: 468
         isCached: true
+  - title: "Students See Job Opportunities in New Fintech Major at NJIT"
+    excerpt: "Mydah Naseem entered New Jersey Institute of Technology as a business major but as a sophomore switched to financial technology.\\"
+    publishedDateTime: 2021-04-09T22:36:00Z
+    webUrl: "https://njbmagazine.com/sponsored/students-see-job-opportunities-in-new-fintech-major-at-njit/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 24
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
+        width: 775
+        height: 500
+        isCached: true
+  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
+    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
+    publishedDateTime: 2021-04-10T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z
@@ -128,6 +167,15 @@ related:
         width: 450
         height: 501
         isCached: true
+  - title: "Artificial Intelligence in Fintech Market Next Big Thing | Major Giants- Onfido, IPsoft, Intel"
+    excerpt: "HTF MI introduce new research on COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech covering micro level of analysis by competitors and key business segments. The COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech explores ..."
+    publishedDateTime: 2021-04-10T04:04:00Z
+    webUrl: "https://industribune.net/news/45318/artificial-intelligence-in-fintech-market-next-big-thing-major-giants-onfido-ipsoft-intel/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 7
 
 secured: "D/IhAG5FMFOy8YWTLl9TEqNrE/QJpBxSSyIm7zF3klvMXVDb+/L8TCLCx/ufUK57uTFkEl1bwXRb4rI828kjNLNBizE/1hT4efmaElvgkXwhky9aTagF2R+coLv4TcVvBD8dzTfGvioelQC5ZceGZTe/9YoIP+hmlEfc6ZuHhZn+aZhHglQYTVI/Z7t0BGwtBaxYaQ0xlQ5r1wapOXZVjaBWcWCP26NnfkOF1f4dwpkyOjMLQzTrZMAQTs3Iln4yJXyUM5kfED5jMgOZkQnONDdiMdAJdXljD5ifMcLEsOoFIqPYo83JkCOghlp4pI1A4eG0O7Ori5SG1DWjWgth65iEry/Gah+yjJA91ocmgSiHse06BLs7qqm8VRnMk+smffZa1dbU+9yhcLzW6gO0OVDa3YdMVS9F32G4Tvc3hDQQP4GACsAyEyhhMoTYwhy5TGNWZ+fMDACw79Z7lF9VQJviwZf/3YkPJpHlBWvTYpk8v1V1cAll4KOP683qggu5Z977cuAeIlHdrySuVv0c6A==;f59YcKDKLqP7RJec6xxgug=="
 ---

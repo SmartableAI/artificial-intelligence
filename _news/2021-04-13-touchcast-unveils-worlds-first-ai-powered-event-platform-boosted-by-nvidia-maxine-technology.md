@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-12T17:04:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-transportation-and-shipping-2c9a338a8c970c72c6e7157099ba2d92"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-transportation-and-shipping-2c9a338a8c970c72c6e7157099ba2d92"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Axiom Consulting Partners to Present Competition-Winning Machine Learning Solution at 36 th Annual SIOP Conference"
+    excerpt: "Axiom Consulting Partners has been announced as a winner in the third annual Machine Learning Competition hosted by SIOP."
+    publishedDateTime: 2021-04-12T18:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210412005107/en/Axiom-Consulting-Partners-to-Present-Competition-Winning-Machine-Learning-Solution-at-36th-Annual-SIOP-Conference"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "OJ0p/DlEHk9Uodojl/HNyA0LILC+p0X/uczoUD7kpQwB6l0B/RuGABaLEHqHN3M4vg2fJEHPCPaUduQeHTZeZFPXDOXKTlA/cPkEHB4fRl/5+P2HuSMWiRNYpQdaV2yK+2hreYSVSnlpKkBp2Q1opCvBJ/eR+geJLXzwCyNPm29ySmo71iEHpDafovum7o4pT+OiI4kAXpDKz80WWJPOKjgi0dpZwZ5OY9HX4/opEgqfjA0mD8gMzoWqxUp0wAMjTUMlPTMxZyld+Ak/X0a7aaPe+5oo311l43WRK6bdAFLLqsJNy0hwhLPAMNr3yGoYTdef1kXXLALe8yjhVGHIN6GZWos/GlGoWm/clGbHpmE=;tlCgE4fg14fyFS8v/VOjrA=="
 ---
 

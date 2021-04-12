@@ -25,97 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "What’s it going to take to perfect self-driving cars?"
-    excerpt: "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage."
-    publishedDateTime: 2021-04-08T09:45:00Z
-    webUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/"
-    ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
+  - title: "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston"
+    excerpt: "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ..."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
+      name: The Verge
+      domain: theverge.com
+    quality: 84
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Autonomous-driving-Barcelona-796x418.jpg"
-        width: 796
-        height: 418
+      - url: "https://cdn.vox-cdn.com/thumbor/oRCkywwYBpbl8UjzgYn9SHAuTVM=/0x0:5129x3420/1400x933/filters:focal(1863x1390:2683x2210):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
-    excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
-    publishedDateTime: 2021-04-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
+  - title: "Domino's starts self-driving pizza delivery service with Nuro autonomous cars"
+    excerpt: "Domino's customers can select the self-driving pizza delivery service when placing a prepaid order from Domino's in Woodland Heights, at 3209 Houston Ave, depending on the service's availability. Once ordered, customers will receive alerts informing them ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.techspot.com/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963"
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-12-image-12.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Domino's Pizza to test 'R2' self-driving delivery car in Houston"
+    excerpt: "April 12 (UPI) --Domino's Pizza said Monday it's testing a self-driving delivery vehicle in southeastern Texas that could ultimately send out pies across the country. Domino's said it's partnering with automated delivery company Nuro for the vehicle ..."
+    publishedDateTime: 2021-04-12T16:46:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7391618243334/2021/1/16182442209319/v1.5/Dominos-Pizza-to-test-R2-self-driving-delivery-car-in-Houston.jpg"
+        width: 624
+        height: 415
+        isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
+    publishedDateTime: 2021-04-12T18:41:00Z
+    webUrl: "https://www.kmbc.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: KMBC
+      domain: kmbc.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
-        height: 833
-        isCached: true
-  - title: "Understanding fruit fly behaviour may help self-driving cars avoid obstacles"
-    excerpt: "American Automobile Association's (AAA) annual survey on autonomous driving reported over 70 per cent of respondents would fear being in a fully self-driving car. That could make companies like Tesla think more about safety before rolling out fully ..."
-    publishedDateTime: 2021-04-08T11:36:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 41
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2021/4/8/selfdrive.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
-    publishedDateTime: 2021-04-10T18:01:00Z
-    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 36
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Inside the self-driving car of the future"
-    excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
-    publishedDateTime: 2021-04-09T05:06:00Z
-    webUrl: "https://www.cbsnews.com/video/inside-the-self-driving-car-of-the-future-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
-    excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
-    publishedDateTime: 2021-04-12T13:02:00Z
-    webUrl: "https://communitynewspapers.com/biscayne-bay/reef-technology-cartken-announce-arrival-of-self-driving-delivery-robots/"
-    type: article
-    provider:
-      name: Miami's Community Newspapers
-      domain: communitynewspapers.com
-    quality: 23
-    images:
-      - url: "https://i1.wp.com/communitynewspapers.com/wp-content/uploads/2021/04/REEF-Technology-1655-featured-min.jpg?fit=640%2C480&ssl=1"
-        width: 640
-        height: 480
+        height: 675
         isCached: true
 
 secured: "LaWO7Nbv6r0XzKW50ISo73Ur5mHaqbl6U+AZ+0TD40raXmjbWk8M5jcbeLNG0MVmNxxIa2VhZSNj0k8j940gWJJoQGvB2swrJSzRM6Ggct1HYU2sKt9UJHmcZXXGBQ7DuM1T3yzlml+CrKNcG45DnDUqAJNrPz7qns2355VYKQ2ljGugYkUj9EhcjDn+qJKfAMz8NbzC0T9DaEHgZZm9wpNDbNfln3ha/dliSZ0ENcvnw9WK2lg9dljGH7j2ZaCXy6AAPRqQ2yHtiri5qqc2ygJfWlLPNHF5rRWOShXfhvnk99v5DhnMN1TPZ9IwaxVpOrG1XcNsFKJvOijZqzd7crF8CVERW5Qy7psRSfR6Y285fLW7hq8p+wGaykxseX8Z7REzkLoHWICSU5+H0wY8WEQnTQ2wRUAFhuu0P0UMQWaxj+QFiCM2aRpHK0I8a/yXY2q5lKrexgxUj6C+jeLd7sp7fyXqwI4LShCQxML9bPt389ooi5RZrdeT6cMcMcM3yJ8BKQIbkGgexRvHk3ZkTw==;7e8U9yGLP8cVnEJQGyIbYQ=="

@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Is It Time to Buy the Nasdaq's Biggest Dippers?"
-excerpt: "If you see continued opportunities with new COVID-19 vaccines and regular booster shots and are generally bullish on mRNA vaccines, the recent sell-off presents an opportunity to buy Moderna stock at a discount."
-publishedDateTime: 2021-04-07T18:23:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-it-time-to-buy-the-nasdaqs-biggest-dippers-2021-04-07"
-webUrl: "https://www.nasdaq.com/articles/is-it-time-to-buy-the-nasdaqs-biggest-dippers-2021-04-07"
+excerpt: "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ..."
+publishedDateTime: 2021-04-07T19:56:00Z
+originalUrl: "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html"
+webUrl: "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html"
+ampWebUrl: "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Po/m4AySwbjLsAapWbs0irgonDyvlXOkjI5poT7YMrMsscIabxhwab7swman44XbTFe8+EG2p7oS4Wgh4Y3ZvZub27wirsQ0TeiasYi5qYTu5R78bmVziwyR4opol3n9fi006UL7lq3nHYvTuGHP3t2iZR+keC6oUkF0fjJ6OxBP9qI7NvMSyVoRN35zwOX0UWyHGl1PeZd3oOismaDf/NlAIMU9e8pKEZWgSIDbDCR877y02NFan5XKdp/IXEgggC/KO9E92vfxpxFDDIHXgL1OStYZrlcUbm9ibPTBAzFzIsGuzdUZpNIgOahuqqotUZ3Om6eaoiPmrvfyr9w6FtRe3MBFy42z6zR1vWwo8xE=;NkXbSe/jVK+8bsW8UF469Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/fd/0fdbaaa5-3d0c-5562-a649-df928d17e463/606e0c332880b.image.jpg"
+    width: 700
+    height: 425
+    isCached: true
+
+secured: "wErTbJhxbcrbH8JPUs316vpAbur+2gvxAKLlBJvK70+GGkXcDPeXVsQT20BLYsmZrInA70IdXt6sh3/Hd3UzOcg94u7hL2k3OLdpNOEu2SpLTJp5xTsCZjTO3DikQ/A8crTHNqr1emrhSeGYPKiSjON7ml7SSLK1UIP9fL3z36wPWTcHDGdOl+9wOjMEdoiXc5bXuLnLzK1qTvc+9r9bFcEhvRy1KaaaQkDHSAgQNpM8xKoKReqfEzGFkJzmjE/thLHd9FCjBwAXH17JSxi0JtM6BQhpaDWVuVkGxqFaMO+5wpm3NNYQmipCdq6r7UPGnmyxgV5gWxRxzOdECs1TPzzvBV61bnnOLzTEVSOgwdw=;ekQEYiqTdnY48TMoDxs89A=="
 ---
 

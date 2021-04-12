@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-m
 ampWebUrl: "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.openpr.com/U/4/U412411471_g.jpg"
@@ -55,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/KhqEwETQDzuctHdHBYZ5PIh0WszUVuGZmhHWNvqQcszmzDFYE/ieeR9um2i9cHAeG0sVbupMJxHLwUMd4z7ZH6NUeO6fGdpvmyeajvJ5aHqHUTpxL1flHxXg5RGPfOM4Vf552byNSfFMzE3MHEJeMNe+SrrvvuO/7SZ2BIth119hOfwUsYJbo8FJY4q8oBNgA3Cxxj0GEtxUkisELRjKk4WZ+Kul4m7OZlTd4559/4U6VzAAil+IMAFhZHyORUvPyJuR3DvFkaE6Mc/rI8abOCqZoFVbhtHdhyjscgltZBsH2dSPnT95KIIYBU5kZe811qL2U3Eaf6iqYM6HwixvYBHF5RhPUKLSYfbSNv8mpI=;V5xlJTX4ce/6iD1+Mx016w=="
+secured: "Geu4MUY3CaV1n50cPW/jgYlUzp9j6s0Lm6Nubf8XklgM8SY4yv7TR6c194LaFSclWV/fUrTmUzmadwAlFcB7n9z1qdG9iC7LGQKgNAifzA45H9ADq4by8hIESpQx79FwX+0arxJoBgInUkenr5ObAL9vVdVrHgc2Dzq+P1VknDhHMl6oti8mj+CQHxjZK09asf9/1lLnuNZMtq7ZRnrMhxp9EmYiIOweFv99TlaMGVMKccwztxKKEGVuzrq8vsEQ15hFZTXtMzbI+asT3wVr7HR8yhPmunBv8bgbarOfYovN29YCNbcJO72cFBJnuHvJqDpqWAD08CF58T/MUe83n4gc/rIIMPjokBX1clHQpihogrYbPw2ZO3KYolbCTnmzVPZMtOYXAuSy3d5tdqBISdso4kZlFW1nyyOAypOhb04fb3XNUUlKeNJIanWeCwvudhgQKpLCln3CEf0YzUi9zZZs4sVuNrtTm7aK70kMOo1J5HHiFDNR5xUJSeWPB70o2H5gBikdNazlNxXToj/CJw==;9bPOd+Q8XzwOv6SE8iPaZw=="
 ---
 

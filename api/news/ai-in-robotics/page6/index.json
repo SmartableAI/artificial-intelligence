@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-03-hoag-becomes-first-hospital-on-west-coast-to-offer-advanced-minimally-invasive-robotic-navigation-platform-for-spine-surgery.md",
+      "title": "Hoag Becomes First Hospital on West Coast to Offer Advanced Minimally-Invasive Robotic Navigation Platform for Spine Surgery",
+      "excerpt": "Hoag’s Pickup Family Neurosciences Institute (PFNI) today announced it is the first on the West Coast to utilize the Mazor X Stealth™ Edition Robotic Guidance Platform, the most advanced robotic-assisted,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-robotics-diagnosis-and-treatment-keyhole-surgery-43013c29041132287e1ceaf0bacb8b62",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-robotics-diagnosis-and-treatment-keyhole-surgery-43013c29041132287e1ceaf0bacb8b62",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
       "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
       "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
@@ -1358,40 +1401,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499.md",
-      "title": "Automated eats: Meet the Silicon Valley robot serving healthy grain bowls for $4.99",
-      "excerpt": "Mezli, a local startup founded by current and former Stanford students, wants to use robotics to make cheap, convenient, high-quality food available to the masses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "originalUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

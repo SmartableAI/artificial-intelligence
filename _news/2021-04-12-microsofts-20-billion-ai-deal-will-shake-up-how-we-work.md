@@ -46,11 +46,11 @@ related:
         height: 600
         isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications for about $16 billion in healthcare push"
-    excerpt: "(Reuters) -Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion in cash, as it builds out its cloud strategy for healthcare. The deal comes as both companies ..."
-    publishedDateTime: 2021-04-12T13:19:00Z
-    webUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idUKKBN2BZ1FS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ1FS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ1FS"
+    excerpt: "(Reuters) - Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion in cash, as it builds out its cloud strategy for healthcare. The deal comes as both companies ..."
+    publishedDateTime: 2021-04-12T12:18:00Z
+    webUrl: "https://www.reuters.com/article/uk-nuance-commns-m-a-microsoft-idUKKBN2BZ1IU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ1IU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ1IU"
     type: article
     provider:
       name: Reuters
@@ -172,6 +172,22 @@ related:
       - url: "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft to buy AI company Nuance"
+    excerpt: "Microsoft agreed to buy artificial intelligence developer Nuance in a deal worth $19.7 billion, including debt. CNN's Clare Sebastian explains."
+    publishedDateTime: 2021-04-12T15:00:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411185815-microsoft-nuance-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Why Nuance? Microsoft is making a $19.7 billion bet on ambient digital healthcare"
     excerpt: "The deal for Nuance comes as the enterprise and healthcare artificial intelligence company is just hitting its stride. Not only does Microsoft's purchase of Nuance make more sense than rumored talks for TikTok, Pinterest, and Discord, but the two companies ..."
@@ -628,6 +644,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
+    excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2021-04-12T12:36:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 67
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities"
     excerpt: "Nuance, based in Burlington, Mass., is considered a pioneer in speech recognition and artificial intelligence technology used in healthcare. The company's technology is used by more than 55% of physicians and 75% of radiologists in the U.S., and used in ..."
     publishedDateTime: 2021-04-12T14:16:00Z
@@ -838,6 +870,20 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "Doubling down on AI, Microsoft to acquire Nuance for $19.7B"
+    excerpt: "“AI is technology’s most important priority ... closer integration between Nuance software and Microsoft Corp.’s Azure public cloud. Nuance already uses the platform to power its products."
+    publishedDateTime: 2021-04-12T17:10:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png"
+        width: 768
+        height: 430
+        isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
     publishedDateTime: 2021-04-08T10:26:00Z
@@ -851,20 +897,6 @@ related:
       - url: "https://www.techgenyz.com/wp-content/uploads/2017/11/artificial-intelligence-software-testing.jpg"
         width: 610
         height: 380
-        isCached: true
-  - title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
-    excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion."
-    publishedDateTime: 2021-04-12T12:36:00Z
-    webUrl: "https://apnews.com/a60e111457deba3711ff57493dcd3a87"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
     excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
@@ -947,7 +979,21 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft to Acquire Nuance for $19.6 Billion in Health-Care Bet"
+    excerpt: "Microsoft Corp. is buying speech-recognition pioneer Nuance Communications Inc. in an all-cash deal valued at $19.6 billion, gaining artificial-intelligence technology aimed at helping doctors predict patients’ needs and upgrading hospitals’ digital ..."
+    publishedDateTime: 2021-04-12T18:28:00Z
+    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/microsoft-buys-nuance-for-19-7-billion-in-bet-on-health-care"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 41
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0a6b4a2/2147483647/crop/3984x1531%2B4%2B462/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F28%2Fd9%2F384ce0f64fa182b2b68bd3dbe282%2Fmicrosoft.jpg"
+        width: 960
+        height: 369
+        isCached: true
 
-secured: "AIf0sas+jW8iyhWPv58kkYAUpu2DrBzA479vjXHCi6/KuMzYXrGilsb1z7EMOzSINqlb8QrRwSx5ZI8Gltu0cGySvuXjTg5wMckIE0zcWVQ0i3ia6k5Recpq6rqPvIFzqvW/YEPW1qrwOO8yxWfnyLcDMYi01VGEsPHar0gxSRQtDxQfiA1u8FiGb/3F6F+OLc38FrqRhq2ZAA3k8ezJFahVmMsE2Ur2qS0P/Q3j4Saiwtib4HxexaPo9FzYT5Q2GADzVkmR34GNAx02S9hZv8d73vvt8HOBkyvIB4jiRFlx+VxtEF9I2K4EeFqPCFY2U1ceHDX9w4dGPwPoLjQhxbeFZESx1Rf4ZQH9oe2TFT0=;kRXOwuPUZ0Wo4ewYJTvBzA=="
+secured: "7Bq5LZtDHIoP392ErWLTGg9+tVm8MAimCMi+PnjRf902Cfgh/ncy/vf5er/iLTi6zGFAUYWp10Ggf53GnPmn75Wm0xEg+Q2fQhp6SGCotTMUcWS9eKhmSLTUoLS3VzIkR7SQ9vL8bjEiZa7eDPhducjbKxYPlVYpBMQOSTuB0HReAPQ8Wpocfr08g5GCjWhdMH3yCuE0zYC8k1dRjBNPwj0PERPU9xo93MgWkeEbch5BLnLS8pAertAuUorogI2XAjSydYcUzdQ82/hjlH1EYNV30litmlX0bZc4GdY803ySo3Tqn1zq+MDsV9nNkSuaNFLaK++gNQ0tmGWM1qid6QjFmGO0NsmBt+EBP218gEXZtHpudnDMHFzwyEHE/v1awtFIrHJN+SfuFcvKmUmR3ePE4K9SWptJKQg3DpISqKexKeKoxFVMNbUN0Bep104n8WZOcqs0DfrDyBc4WLjKqgLsVcblDlx7/lxNqFrpepnp0WOoR1RyC6Zd4N1o1u5+NdQIwGy83uu5DeRvJ9oCBw==;z7Ya6oN+vyjLLO59GyT/ng=="
 ---
 

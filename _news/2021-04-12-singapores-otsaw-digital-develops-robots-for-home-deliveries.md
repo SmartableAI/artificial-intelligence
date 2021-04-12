@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Singapore’s Otsaw Digital develops robots for home deliveries"
-excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
+excerpt: "Founded in 2015, Otsaw Digital focuses on developing robotics technologies and artificial intelligence for healthcare, security delivery, and mobility applications."
 publishedDateTime: 2021-04-12T04:03:00Z
-originalUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
-webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
+originalUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries#!"
+webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries#!"
 type: article
 quality: 49
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 405
         isCached: true
 
-secured: "co9e4a+H3a4fBhgTc9oBHdMth+N3ePc2Pxxjyxk0os+d9tR7C3nqqUTspo5oX5r+/Yiu22cP5oCGPShU5LsGhMiyyzCYg7BBhcVa/V6FIvRLbHRw+8vaaxJqxA0C1JYXsLUuM/v4DN7OiRhOSep45A1MSjTROYao8uPZTG7xRU9RSEYgAk4oWhcsbDEb0tEmYVSwUH/GZ0CtGeYoMrfh8fKsnuLjWsK8jWDYMHHOv18yG+5SjYWM2nqhuWQ/kB6qqc0ZYg5C+R4+YylU0UzUKPYBFJESuSmEQcO8+jtbQ+WNK1Fhv7YI5uhTkdIajwDyXJqTo5zd9ZrjIuU691F/WLyWjf8fwotDi0uMmnh0F/EtGT4bfQ5MZKTXhrbKUXNVd3TgrP1k2E7Ot5kznOH6BT5q7XjreIghQ0oczbu6Lg+62/q3DwTD3LFMTG1TTkf7ScfP5OKoq5jm0+chhcVX/xG2KwtGfZkR9Z9BNxBMFiyJ6D13SL33+890OZ7AacWu4qrodBrtkg5dqCR/A6yttA==;Y4diEAzZCrXZY1A26rJeVw=="
+secured: "VemJ7x2XJsw8VG8pYobntT89rOTRlKbI3ioqgmntf0g5bWyc6jxqGhOh10VfEfASiG5+jKrWYn6qJA8JkdjKhsILhrbLvdvqnM7G+klV5PbjpMXgOU9+uzxuWCmqWDh9y9ZR+uNN3d69yV6LQXVKHYPf5zwWDLKprjIXiuuaZB+KAd9LVA9wEz7J/KLK8C6ElCdor29kMGaxSz/Z07+YvGpC04Nw5RRw4iixKmDWpuuxjDnzy8Jw77tdQq6gB7QHU0S9cc4ONa5N8/WwIuSgV1n0ODBQHGwvPZ5TbDAwnEhSYatK/m6k4Yva+kcsdZ4G25zCkJh1ngtjtVopwNsV3c25BUUIRxS2oGhfmFWpNKs5kCS1c9dthF6dDETCiWejFH0JF0XdzL3rhU713mGrI6XD6MHJN4ut5E1oAONvdjcww/vdXHEoOxDr3LzmBhDtIJ5qYEBzk6biSJUCXMsYvIBjYHxHs0RFNDXNRWHeqH/6b4pE7aWH61vK7yG9MVPDX7qTE0rhVnjT0VgzjZu+IA==;ZDBmBvQ8S4UkRDXi2dQSiw=="
 ---
 

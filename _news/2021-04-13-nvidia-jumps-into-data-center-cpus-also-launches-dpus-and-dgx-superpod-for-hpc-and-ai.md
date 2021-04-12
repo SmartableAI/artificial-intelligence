@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Nvidia Unveils a CPU Chip for Data Centers, Supercomputers"
+    excerpt: "the chip will deliver 10 times the performance over the leading x86 server chips when it comes to AI and large-scale data science workloads. The product may pose a competitive threat to Intel ..."
+    publishedDateTime: 2021-04-12T18:49:00Z
+    webUrl: "https://au.pcmag.com/graphics-cards/86582/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-unv/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers_9gut.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
     excerpt: "NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta, SVP of the company’s telecom business unit, the AI-on-5G concept is ..."
     publishedDateTime: 2021-04-12T16:53:00Z
@@ -88,6 +102,48 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54794/content/small_nvidia_grace.jpg"
         width: 708
         height: 419
+        isCached: true
+  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs, GPUs and DGX Superpod for HPC and AI"
+    excerpt: "On the GPU front, the company announced the Nvidia A30 Tensor Core GPU, described as a “versatile mainstream compute GPU for AI inference and mainstream enterprise workloads.” Powered by Nvidia Ampere architecture Tensor Core technology, it supports ..."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-gpus-and-dgx-superpod-for-hpc-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 43
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
+    excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"
+    publishedDateTime: 2021-04-12T16:22:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/nvidia-debuts-grace-first-data-center-cpu-advanced-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Nvidia-Grace-CPU.jpg"
+        width: 992
+        height: 620
+        isCached: true
+  - title: "Nvidia Is Designing an Arm Data Center CPU for Beyond-x86 AI Models"
+    excerpt: "Tightly integrated with Nvidia GPUs, the company’s first CPU is meant for the near future when AI models reach trillions of parameters."
+    publishedDateTime: 2021-04-12T16:41:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-designing-arm-data-center-cpu-beyond-x86-ai-models"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 39
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Nvidia%20grace%20CPU%20rendering.jpg"
+        width: 2000
+        height: 1250
         isCached: true
   - title: "NVIDIA Launches Grace CPU to Bring Arm Efficiency to Massive AI Workloads"
     excerpt: "For now, the battle is being waged at the very top of the HPC market, as Grace is designed for AI supercomputing involving enormous ... we’ll be able to deliver advanced scientific research using high-fidelity 3D simulations and analytics with data ..."
@@ -164,6 +220,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "AKm2mhkMg6QGy6Kv6tFHWMXNBXL1YdtaOxj3Gj4Y0HaXGxK77xkZz6Xzm8lo0RqKUkhzjIavKXDzq1a7H5WrE1FnlDETJFh5Bl1SrGJQsUEWdpaXSMKDNAfrPHWbfHM+k8ZbPhW/JgNUDXacDRhe5kNqVGUsvnbWyamfh2ccnK6/fTtsaE2nBCfitxY9wVvfwC6hP/L4cGBsiebHO7ucUruz2axMnWcTIdsVvXhI6oxKxOPBBVHqY+2FUPgtauxJ5/yKmWSVw95OfvnN2L9x2zks9mDRhf+yGVGlRedhRIlkDIU/+wyHNEgttXUjUneenU+yCESBUXGT6grd66yRr41hfUX7Z7vM8gyQuh+MeFc=;TO3UgBgux6ZFnCDOAiUVKw=="
+secured: "et9apC3oaSdAxX9MY2rKhzl2UDTUXW93mXj1u67qIB13/5EEcKqEHmYUlbpaaEEH7NvXHG3XPTcgg/7/jwSn0S18OCSnDHUrLp31ZePH49ILuPJ19o3SpsK02G69s0+8gvLCfaFfaVVFeMzE7CSqHa2lqyh0YJb2lr587caEGSl12XhCXcOkyPSGyTb92q7l8/0U9qWTI22KCtkZc9hxoemUX9DlXq0JIg5yRfxe6yBN7do76YJD3B1moKNlhlWhOYyPRdpvxugZkVKkGicU1UICpOvEf2UkY8fb8m8FqVQu7GFV18LsIBIxxg13rWpGHrjRMTLcGzRiBT4J+3HBiRiGJP2BY+HIqUnmZU41IWVhtwyQmbluq/AsEsmhrDEOiuHUJGg4BHrjxyFKIat0DnMuN5xMpQk6r+HGu/EZWw315MbXsX4gSf/7jT3JGKeU8G/iG5eH70PvIWMisOgD7l6h4TT1ZebU/zibk+RAJjuEIPShH8jVXQaCT8N1V+DbYhuXN+44vmg3kb3/vyvq6w==;vcKut1HqEnYZG7DYbr/7YQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-ra
 cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
         width: 560
         height: 292
+        isCached: true
+  - title: "Artificial Intelligence Research at Duke"
+    excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
+    publishedDateTime: 2021-04-12T19:29:00Z
+    webUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 37
+    images:
+      - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
+        width: 750
+        height: 500
         isCached: true
   - title: "Edinburgh fintech Level E Research nets £1.2m from private investors"
     excerpt: "Level E Research, a fintech specialising in artificial intelligence (AI) investment technology, said the investors included leading figures in the investment management industry. The business, founded by Sonia Schulenburg in 2018, combines machine learning ..."

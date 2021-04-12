@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
+    publishedDateTime: 2021-04-08T10:13:00Z
+    webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
     publishedDateTime: 2021-04-09T09:15:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
         width: 817
         height: 545
-        isCached: true
-  - title: "Toyota unveils new models in advanced driver-assist technology push"
-    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-    publishedDateTime: 2021-04-08T08:24:00Z
-    webUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/"
-    ampWebUrl: "https://www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
-    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/reu20210408KBN2BV0EZ/amp/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 44
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/573263/573263.jpg"
-        width: 1280
-        height: 854
         isCached: true
   - title: "Toyota unveils new models loaded with autonomous driving tech"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."

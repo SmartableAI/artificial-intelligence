@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-xiaomi-invests-15-billion-in-fully-owned-ev-business.md",
+      "title": "Xiaomi invests $1.5 billion in fully owned EV business",
+      "excerpt": "The world's fourth-biggest phone maker Xiaomi now pledges to develop high-quality EVs with a 'best-in-class' connected device ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "originalUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2021/03/vbox12151_HSPH5091_212757.jpg?fit=1920%2C1080&ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "publishedDateTime": "2021-03-31T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-as-big-tech-enters-the-race-pe-vcs-look-for-next-big-thing-in-chinas-growing-ev-market.md",
       "title": "As big tech enters the race, PE-VCs look for next big thing in China’s growing EV market",
       "excerpt": "Lightspeed China also invested in self-driving truck startup PlusAI ... On January 11, internet search giant Baidu also announced its plan to build a new venture for intelligent passenger EVs. It entered into a strategic partnership with auto maker ...",
@@ -525,6 +568,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-preparing-self-driving-cars-for-towns-and-cities.md",
+      "title": "Preparing self-driving cars for towns and cities",
+      "excerpt": "Focus Areas Artificial Intelligence Use cases Program line 1: Safe autonomous systems in an open world Decision making in autonomous driving Busy intersections are hard enough for people to cope with. So how do we ensure that self-driving cars can safely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tno.nl/en/focus-areas/artificial-intelligence/use-cases/safe-autonomous-systems/decision-making-in-autonomous-driving/",
+      "originalUrl": "https://www.tno.nl/en/focus-areas/artificial-intelligence/use-cases/safe-autonomous-systems/decision-making-in-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tno.nl/images/social-share-logo.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TNO",
+        "domain": "www.tno.nl",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1293,110 +1379,6 @@
         "name": "Cars.com",
         "domain": "cars.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up.md",
-      "title": "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up",
-      "excerpt": "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-kodiak-hesai-idUSKBN2BG1I6",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "publishedDateTime": "2021-03-24T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-4-insane-assumptions-embedded-in-cathie-woods-new-tesla-target.md",
-      "title": "4 Insane Assumptions Embedded in Cathie Wood's New Tesla Target",
-      "excerpt": "because of the visual data it gathers from its current fleet and leading artificial intelligence capabilities. It's not totally out of the question that Tesla could surpass Waymo, as well as all the other companies racing to get an autonomous vehicle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/24/4-insane-assumptions-embedded-in-cathie-woods-new/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/24/4-insane-assumptions-embedded-in-cathie-woods-new/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F618847%2Fgettyimages-1059102594-2.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/24/4-insane-assumptions-embedded-in-cathie-woods-new/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/24/4-insane-assumptions-embedded-in-cathie-woods-new/",
-      "publishedDateTime": "2021-03-24T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -105,6 +105,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
+    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
+    publishedDateTime: 2021-04-12T16:38:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 43
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z
@@ -132,6 +148,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
         isCached: true
 
 secured: "G3u8H4Q/Ui54yeNLipuljjHBZbVZxrRsVNaAwICBi5/8wcdNQzHDctrGbCzPf4f3VOQdSjYi8m9eoif+uqpwmVryvMrtK53g3vV60YqCkqIV8T9O6JuahA4y9e36NkwLuhbXbUYC1MeIhwZMSvRvT69NsU4W9x+dvugrKBqYNisNL63oZCpw4dST3pOg1KvbQJkCtAaP9wLo5UMZmnVg1Hdg7CNgZ+BoNlw8A94kzdbCSH7khdu8mWYVC81FpCYJtGzFtJ0FSoGJpktscv8NJd2lr9ddMa14gUt7eyrbndPmfzvMndeyPzL9/cO7Lx0CsjE0qAPkJMnQJr4ohXl7Lk8xrscGv5cWTbZU8OMsV2b3sXbms4FPbLll1wtNEdgeBK55OSqMZshBh3CsuB0+DLNYOPBFrdBlTGoqNCLioQ6deJxehaf8HswtEcqZU8avycyGk+ALej/nT484UuH9LnYS389OdKLvXaFHxreXjHWZqk+uLV8dMS1ejz5d4DcCkL5EOPFygLhbFKfp8IVRBg==;we47Br5USrLD2m7p8r0cEw=="

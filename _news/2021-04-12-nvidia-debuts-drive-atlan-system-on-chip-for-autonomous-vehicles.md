@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1000
         height: 554
         isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
     excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
     publishedDateTime: 2021-04-12T17:05:00Z
@@ -78,6 +94,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hVeyF12IIZ7Q9KcDxAZRVgLWuZs8r7l2TsEI75j1tzKnkm3ZzfI/Mh0DAdh6v3gW2DU7B8Sd+V3LhJj7b3+7x/wmYuDU/nFpkIkkiPF/WpxZX+27k0Yv9FL2FXCsrfq/+Ep2e+G/aRSlaxM6ZSns3yxrynyg6CPyLhEwdf+UybWTGLV1tqJmx5yxth0L+DlTnDTyJXGVKvt/YYIkJY/pJ6kSE7VDlRVTE8jfXn5u4djHFCUuWQGaFBCRlBAHTi/90uGbX6dkj9hX0OTEjIv9loK+wOWoZ0xHaxfW1DOr7WG1ZU+I6l2eUzDk5KQBa3MEFyIM4163wxXf57xVjfZByGyrNNkLhSOAwFp3TdK3Yt0=;atTIVU+aiH2GhXUWpaz+7Q=="
+secured: "gD/iGwAuQZOlrPFdf1i/sIF2cMPLAD9yrt9sDfN5w6kxoufm64+26+5xyAqDPIZ4rD9F7NfHiBHF335pabIY9//u4D3eqPyrzLhT/TiceFfVTmoolSg4laR7MxBMB6c9Co2kYbSmFEh6uG+7ZJWpK35syn4NqvnfLlzxQzJqHhGgcNTE6Caxo7hMRBJpP9LGXVUkR6KmhvBD5jjdFQyr6dA3zZzOKXgaUGSKmGpcUhQjgk9lFrjtrowrmWkQLia58e8MzIw557x/tw5qI8X3cmhH3DFYtYM2aKxG36Clisa53ZCWpfpzEkAsUJBLzE8VIfxbXZRN72dfFIKb4p18oFAFayktsM7Sraaap3AaDfvtz+IO0SSrnwY6lRI01afmLrhoRs2srg+9fe4gvn9uIc/Fra1rKxfH+P3ChPX6EUmCjjMxZrlqaHwBrCfvt1/hxlziyOqHl5Y77CZG94VbRW/it4/KyAuZ/SbPO045VvU3Zu5H7ztK3UklLDBfPqNFBKelF2fO1j1A3TNOVffqgg==;taFDXlPxWjOKHw9i1g9KVw=="
 ---
 

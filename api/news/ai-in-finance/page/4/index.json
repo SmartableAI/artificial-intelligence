@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
+      "title": "Fieldfisher launches new financial services advisory firm",
+      "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
+      "originalUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fieldfisher",
+        "domain": "fieldfisher.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe.md",
       "title": "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe",
       "excerpt": "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector.",
@@ -1375,49 +1409,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-innovate-finance-the-uk-retains-european-fintech-investment-crown-in-2020.md",
-      "title": "Innovate Finance: The UK Retains European Fintech Investment Crown in 2020",
-      "excerpt": "Innovate Finance has published a note regarding Fintech investment in the UK. According to their numbers, the UK retains its title as the top investment destination in Europe for Fintech firms at with $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/London-UK-Fintech-600x447.jpg",
-          "width": 600,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/01/171416-innovate-finance-the-uk-retains-fintech-investment-crown-in-2020/amp/",
-      "publishedDateTime": "2021-01-20T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

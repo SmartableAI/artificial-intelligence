@@ -3,25 +3,25 @@ category: news
 title: "Local police in Virginia will be banned from using facial recognition technology"
 excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
 publishedDateTime: 2021-04-08T19:00:00Z
-originalUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+originalUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Virginian-Pilot
+  domain: pilotonline.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+  - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
     width: 1200
     height: 675
     isCached: true
@@ -74,6 +74,6 @@ related:
         height: 422
         isCached: true
 
-secured: "oDqWmZhIRzoxSRhy5f0wQBL3jYOgUBONLmaVQdN+to2PRmTGdNqFgWCAM/jae9HUePhrJ7UiRa32nYd3HQkR3VL7XRZqFjYz6DYzZP0SKUz6TCvBgsqu9NFArJ2prdpz9JQg4SGfSrdj8o1ikekMqUKu2xOBxX0lTKhY8n0JvAFVmC9woXHaXA1JBO66ID57LPW1L5U+UgrW4V+ip0O6OapneykVjVx64nlFUd5cHyH/IiWYEFFOAl8Y4EeP1RcEC0OnTXFoMHPJKoziEeFyhb4JybLsuHj+Je2e3R2nLXvlX57Djjxx37+y6s2nXyYqizgNwcie5cH2+DL3DVTbTYdv/igZUOqOfYmBODN3cukL3ULLCBwQOdN5aGBE5JUP38RS8hwlayLkQup7Fd39ZaQpowsS08j1qinU+dnSQPaCTZexaqyhYC2nC9vaIM1WxoetaOPwNr/dO8mXoPNVM9ZM8A1wYH38JGtBzXApySCT1dtdS3MNjYf8DcjJHorkNaHQ7uJOwIl/dtC8z1WgOg==;/IKKmwKmgpnGaQIpmEAOqw=="
+secured: "ZP8cVp//7k2OElRwP7msDmvLcD3rkhAnjFEF+Q7pwX/3esOMb7rUmnx8WKXzOYNhTLL+pttQv4fqAL6DEhMRfhn16oyQIzlxWyR90w5NLUAwDfrD5VXTshTiOsdqJQ+10pvGXK+nAx/HRpb+fTzDqUU0XEE/xzFcTISIn316+dJnlCbz3HwsOYjBfQTWV4UMdoBY8UFkcjcQpw4OhG7a/k0P0uyBulIlsliYfUgejuODux3SLCrWhbXMUlnbjGLIG/mNjoL0bO9T+5huWsPyf6KfqCV1onwgyd4kxOE+Dw3VZ7yYMibJmz4lPrynyXOC7IF6xPHxVWyB0OMulPl0EojAdXaqltuxBeQzwuU+F9E=;q8i9CtaxZpHhBKI32VhfYA=="
 ---
 

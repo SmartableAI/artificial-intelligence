@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recogniti
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
 type: article
 quality: 72
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
         width: 932
         height: 460
         isCached: true
-  - title: "Legal Aid Society calls NYPD use of facial recognition technology 'unreliable'"
-    excerpt: "The Legal Aid Society disclosed documents made available in a public records request, showing email exchanges from the NYPD and Clearview AI from late 2018 to early 2020."
-    publishedDateTime: 2021-04-08T02:27:00Z
-    webUrl: "https://longisland.news12.com/legal-aid-society-calls-nypd-use-of-facial-recognition-technology-unreliable"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 50
-    images:
-      - url: "https://img.chdrstatic.com/media/24c22de5-9c5b-434d-938e-49fc97b66018.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NYPD not true blue when it comes to facial recognition transparency"
     excerpt: "The worst-case scenario for those who want police to use a controversial facial recognition service is playing out. News is breaking nationwide of police agencies using Clearview AI‘s face biometric service reportedly with insufficient oversight ..."
     publishedDateTime: 2021-04-12T17:03:00Z
@@ -102,20 +88,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-        isCached: true
-  - title: "47 Wisconsin law enforcement agencies used facial recognition software reliant on social media photos"
-    excerpt: "Your vacation photos on Facebook may have wound up in facial recognition software used by police without your knowledge.A national investigation found 47 police departments in Wisconsin, and nearly 2000 across the county,"
-    publishedDateTime: 2021-04-08T02:00:00Z
-    webUrl: "https://cbs58.com/news/47-wisconsin-law-enforcement-agencies-used-facial-recognition-software-reliant-on-social-media-photos"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 24
-    images:
-      - url: "https://weigel-news.s3.amazonaws.com/HatJU-1617844302-192115-blog-Capture.JPG"
-        width: 1751
-        height: 985
         isCached: true
 
 secured: "IJfXP3ZArngj+DjPuGunSJQ1Aept/2p5j0HkRAZxDWFLNCFvjYlx9ghwp692QEixMN2//k8wJjHfnngjFp0wCjdF4SfVeQ4eo4fs3ofVdPhYOMey2A73rdp+1wmugrjSLTyy4+f0DLsxsuDzL820nNqI5rESadMLnpgt5/H802AUCxd5xYB/LNXyt6CQDEq9e/xe6cz6HeacQ2yX3Exghr3ovXW/UWdnJlALDTctZRw84q1dAV+7ZT5mDdWivLh61OztFdWGaqt5dfwrBP9AXQa09YpjN7CrV6m3TjpXn/h+/xixZEKGlvECg83jxTz9Vs3xHAZg3wdlzO7aqgFcs8v5xcr9iJMyrWKagjm2D6Fum4d2EWdVrbHGoIbijmliE/7Etizv4myZaVPvYSdSfkH1NjxZzm/67nLBvxyBr/iXm17cO7qi4Y2+R6h+ylFUsBx67mbZoDsUZV52TWJ3+7IKLCF0CBNmJmqNrrFy5xXpLX7+pn8jBXa4vg2IiTtJ0n0gHPi7STxPwpdOO6flzg==;722RHYyTKJqNyWIf+Eeacg=="

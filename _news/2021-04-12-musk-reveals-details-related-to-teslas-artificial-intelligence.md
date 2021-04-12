@@ -105,6 +105,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
+    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
+    publishedDateTime: 2021-04-12T16:38:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 43
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z
@@ -133,7 +149,21 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
+        isCached: true
 
-secured: "u22AfUXP31tifmiXeqTirmBz6YP3oVzkXjex3QzoNKz1YFMFR4wAqjTB3PPO9ldIocqhYRCSK0Vu6+pnsvjsH35rtA90yxhzf0FgLJVZhko1RSjffEtb/hLJxxqVR5gt82HoSv7j71VOZ7J8tHctmrnUPa7OXYiKUcrlhct1ONzl8DeCFhoDVpH+TDOwO0w+J5sxz0k4unf/7DY3ds6nFnNx0s890fQ8Eo+tSmmcSvLcBawhOWOlQPlScZIp7AlcLMJv5G0FOgCeYbOWAKzz8nLDqmmlNUrbfxe0r/F7MaxKvjQnnIwPE5Lvvdij0PaE4qpXJL7ZRqcZgE0lDP/ur4eKPpU+0HQdcT1ySIMR8Mg=;7Nt1qazcqqE4cIbvPekAWQ=="
+secured: "M0q71SbxedkSLdgPoE6mYJq7lX9GpBTrKuIdi8S5JUW41pKLaNpK6ORWhxaAKH+gMazZNLMDJDrUZ9pLZKOmFbtWfKaY2opHDpwlK0dWF73IUwakdiYZqZQFaCGXsEaIaykkmP76UvpxU1wjqF9ViRxWZSGVW4n4nceucgaq8N/HFDFTNfnTSaes0m5A96UWi61vFfWjNDpAslqSt86hwBsd4dXZplaKp63iPCQaoqSFeehrk6679EfjoDpdM0uJDojrcFoHj1MWCfKAoJdvJ/gw7yPAgaKJFq2Y8thvk3vYIJ85coerJF/YXEeKtJ0op6xVXRVXeLKDSRHx4x4vZ4Hepi5iYEIaCDZWe9+1byBDWjbNSa5abPlbeghlK5w4FSBJGsaz5I1JX9+ovV8d37zbTR7T3Jo4wpUtntloIiay9WG5+mghQorVZW23ysxQRyGQQYDeUlGJH6mMhaHD1eTckFEJyoQuEtRtafC3qPpKK2pe7hlQTXdbJRM+Ru9HufSKthF13SL64tbVV6yltQ==;IKe8QL96wPG7yOfyGnZWPw=="
 ---
 

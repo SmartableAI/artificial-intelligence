@@ -3,8 +3,8 @@ category: news
 title: "Rep. Rashida Tlaib: ‘Facial Recognition Technology is Racist’"
 excerpt: "Rep. Rashida Tlaib (D.-Mich.) sent out a tweet on Friday saying that facial recognition technology is racist. “Facial recognition technology is racist,” Tlaib said in her tweet. “@CityofDetroit must acknowledge that in an over 80% Black city this type of surveillance is harmful,"
 publishedDateTime: 2021-04-12T14:37:00Z
-originalUrl: "https://cnsnews.com/index.php/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
-webUrl: "https://cnsnews.com/index.php/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
+originalUrl: "https://www.cnsnews.com/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
+webUrl: "https://www.cnsnews.com/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 459
     isCached: true
 
-secured: "DWB3dXHsd4nE2vUUukJVzSh/ssNuY2sO+hwrGilTf7KV3+DkoR4JgZ7BOOValnUpf29QdI5y5+E8XlxjNUye/L6cSP1/pnI7+RUmn4KAw8unCk/cBv1IlDCtvd4+ZG0vdY3SsJ7eSGp4Jif05YWMcngVndtmSsTPNLwdkIR5O6TZtN9XCpd4rw9fz7eCVGjWUSf2x4Eok1vvifr0EbKxptwcGN++gnLVLRrxPI8ICOt+14Wj+xtkCj86o4cYWDTT30R6aXqcFpKTr9hzxVvB9X/AGokt00HZSpC1h+laiHgcWZ0dok2dt+17+Lt/f+fGDRwpz9ZQzvSnQ8AGe1a/fjCsOCBCZnVeGvrQacdQipg=;AYI2fKmGQsf2URmmDc2Ajw=="
+secured: "vBQdOjvEHsjr6C3tLJy7YkBMXKpp5f3O/06WxpAJwhjjQSmrhqvWWOUvC9G4sm0UvKYhD631+bUVbM8cT+YWFOjCLoCk97vkkEm2OMg+cCS9mQ9bPY+1ufCeqGJim4z9iSIYmNvHCDxZOw8vgQUkMSUFVuLcOFxzwfJeee050Q/wJiwlmhSI5SLoukIXQVAQnNtrk0i5T2BOveK4yYz6eK+KLzzl2e0XxkJKBprH7K+/5w2IB0M2/NtZMgCwOJw5Dkcf+9OnZ4aloNz810c1IAe9OmBuwPdX6ldGgSmPF5kOwJnWSnjFRVs/DgyKq72lSkqbDeeOFnILX7HBOZUQT3imwd0Xw+bQdGxH8QdNgp0=;JGZ/jseODsEIeBu7Vltvxw=="
 ---
 

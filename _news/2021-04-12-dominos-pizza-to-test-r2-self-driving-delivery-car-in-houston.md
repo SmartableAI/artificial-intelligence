@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,32 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Minus Zero tests autonomous three-wheeler in Jalandhar, working on self-driving car"
-    excerpt: "Minus Zero, a self-driving vehicle startup, has successfully tested a rejigged three-wheeler as an autonomous vehicle for over 2 km on the streets of Jalandhar, proving its capabilities on Indian roads. \"We tested it on April 1 in Jalandhar between 2:00 ..."
-    publishedDateTime: 2021-04-09T09:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/articleshow/81985552.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
+  - title: "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston"
+    excerpt: "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ..."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: The Verge
+      domain: theverge.com
+    quality: 84
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-574656,msid-81985546/driverless-auto-.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.vox-cdn.com/thumbor/oRCkywwYBpbl8UjzgYn9SHAuTVM=/0x0:5129x3420/1400x933/filters:focal(1863x1390:2683x2210):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023"
-    excerpt: "Mobileye, the Intel (NASDAQ: INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles."
-    publishedDateTime: 2021-04-12T15:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023-2021-04"
+  - title: "Domino's starts self-driving pizza delivery service with Nuro autonomous cars"
+    excerpt: "Domino's customers can select the self-driving pizza delivery service when placing a prepaid order from Domino's in Woodland Heights, at 3209 Houston Ave, depending on the service's availability. Once ordered, customers will receive alerts informing them ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.techspot.com/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-12-image-12.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
+    publishedDateTime: 2021-04-12T18:41:00Z
+    webUrl: "https://www.kmbc.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: KMBC
+      domain: kmbc.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
+    excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
+    publishedDateTime: 2021-04-12T11:48:00Z
+    webUrl: "https://www.qsrmagazine.com/news/self-driving-cars-start-delivering-dominos-pizza-houston"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
+        width: 765
+        height: 446
+        isCached: true
 
-secured: "edse9KccCkv9fMCATw+jKX55w8JdsTYbpdvoo2sehSFmc9SIEjk/enZfL/ePNKoSDpF33nBaJbxMxa778XEevxj6geqPmKhb0su98o1pBib1X6JOBF7eS+OdZBfBfcOWayl34O/p+dUgcL+t6LTnkgbQ5dhl2eA/nT/dfICOeQ8QOFbxo/UjGX7OhejyHMfM4J4ui/31Qjju/UyNJbgl9D99KPtc1aoBPWiatrBTz1fyCQkviWqiSzmy51Dd7vOjyZSdhtXLSjgFw7Y0WFqOLoooqyzOryFOPgl0P7AJ2ecLjzkK28Neb1gzuY/pXFQU87FPTm4GjdCJVc97KrjnUqOw1GutSU7IBbOOtcvW068=;D386IuyaPfWmivQWPQN3Yw=="
+secured: "IN5BAYmAMICZGx5xlAz7r2hE0xUeUvxIay2L/39aG1VMvvEFZJCQ/yTo7xRXBMthMUjFb+kicrx1HAn3TeXis8E1mr3vX1/wgqV+ErGQwIhIrpRrBgnP4Zh92eIOQreIx1lag3OPCXt24Z/OEyyLPuENJSrqAiDGzawdDiYbexNOpq8ACrKJiA2h1zlZQs5OgVUXy8+NPDWEKYaWutfPSHMrZX4WjIbmGotY12sTp7c5YZt5rrVQuFZB/tD3YXbDkAo9cg0/mr60Dq9QPtlk3/fO+49QJl+ttQaV6DpfNgFP/g/YtNxbY7JjJzcJYmXa6AfOCN74jqnx+7qKoY3tr3Ha/SxNnP7li3a6xMVT0qL1G3jLHKVKOAGoPbeZKGl3K51YPfLUDVQbF4lN0q3EJlHJ4lXBdatM2jwkJnTicCcrUjtGXL7kEt2xwFqISR/O1bosJeGVWWTfb7JzMj4+8y+A8+Cq1A7mhDZ0qlAF4ohav8Gn1Jo9YMCeLN/qmr8KEDNfX5cPQqNAiYCBoeTTOA==;tHnXzCS6W8i4EqTO/5P0gw=="
 ---
 

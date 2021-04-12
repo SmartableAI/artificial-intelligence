@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 554
         isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
     excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
     publishedDateTime: 2021-04-12T17:05:00Z

@@ -119,6 +119,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
+    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
+    publishedDateTime: 2021-04-12T16:38:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 43
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
     excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
     publishedDateTime: 2021-04-12T12:39:00Z
@@ -132,6 +148,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
         isCached: true
 
 secured: "USS+7RR0IL4/vlxI/muJ1SpzB+kHuzVQTRw6rpHARnv/+Mmjua4gJuvrNPvUONQByFXd9F8wtGuX1emkSMnIICywGd0sp2r1x0uWjP5bIBCrbiKyYtJkJardW2OKVn7KlUokKYngjuEjyherJGe+enyyCGuA1THWDRFTmLMAUvdqI02wBXSP3iy6rE0jXqtqVDVOfmZ0sb9nG32MHoCtZWf0misw030UMsw2wMsLSTvlLZqi0XAggSuxZShk4qNPpRxi/R0tH4HOcKOtFLHJyDcFPZhB1gROsAn6rzU+teVHmhIi49JDkM4XoS98s59xIimmA+crXa5UySkz+UJEFGXHpmCMlKlAWW8rpi5hads1nO8bVHSYaABfqqF84aYwoSJaVX7LdjU+QLvmsN5Xst4I9STqS5K5lWCN7JN8A5KJzBczaFSb/FF97KJcoi2fr/8PvNy73ob7RSGxXtXt2AvddyO4x7OgidlVbuEiynges1f0ekgDt+X50/1I2LCUg8sv9RS78CwuO1xZIHYIVg==;Qik+fDUCrJPYXrdREYP4Vg=="

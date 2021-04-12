@@ -43,6 +43,20 @@ related:
         width: 300
         height: 213
         isCached: true
+  - title: "Artificial Intelligence Research at Duke"
+    excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
+    publishedDateTime: 2021-04-12T19:29:00Z
+    webUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
+    type: article
+    provider:
+      name: Chronicle
+      domain: duke.edu
+    quality: 37
+    images:
+      - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Edinburgh fintech Level E Research nets £1.2m from private investors"
     excerpt: "Level E Research, a fintech specialising in artificial intelligence (AI) investment technology, said the investors included leading figures in the investment management industry. The business, founded by Sonia Schulenburg in 2018, combines machine learning ..."
     publishedDateTime: 2021-04-08T11:30:00Z

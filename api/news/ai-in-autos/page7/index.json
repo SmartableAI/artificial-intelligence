@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-20-the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp.md",
+      "title": "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP",
+      "excerpt": "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
+      "publishedDateTime": "2021-02-20T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
+      "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
+      "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/31/15/anthony-levandowski.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "publishedDateTime": "2021-02-20T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
       "title": "Why Baidu Stock Soared Today",
       "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
@@ -1342,101 +1428,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
-      "title": "Self-Driving Car Market Trend and Forecast",
-      "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
