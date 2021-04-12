@@ -21,29 +21,42 @@ topics:
   - AI
 
 related:
-  - title: "Body temperature-scanning facial recognition device sales boom in Singapore"
-    excerpt: "The need to reopen up businesses, schools and other public places in Singapore after prolonged shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures, according to a report by The Straits Times."
-    publishedDateTime: 2021-04-08T20:45:00Z
-    webUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore"
+  - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
+    excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."
+    publishedDateTime: 2021-04-12T15:51:00Z
+    webUrl: "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png"
-        width: 720
-        height: 405
+      - url: "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Singapore’s Otsaw Digital develops robots for home deliveries"
-    excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
-    publishedDateTime: 2021-04-12T04:03:00Z
-    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
+  - title: "Solution House Software expands Smart Cities offering with facial recognition"
+    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
+    publishedDateTime: 2021-04-12T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 36
+  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
+    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
+    publishedDateTime: 2021-04-12T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 21
 
 secured: "pafNhsYUjEPKSPRdqIBGleZQ/xf9QFKv9H6iqfFHGNj29oU6Q/tXM8MguWrHRbax9MC8niCyFDfx0FbACk5oSQg10xxGid33hJIPtY3WyVwR+kv8ca6Zya+UVR7OE0rakAcexqgOHsvXl37QIjky+oHGvT85i5d1Y40pkaSIJAd2LePeECb00cyG6t1eHVl8smHRm557NmqkkbBIgEZsz1twy3RXcMM6CaxoaI3DlSa1Wme2thPtz2xRJmvvfxTG3cOtdYbUSJ3qTvjT64xAmtQXy2SvRw8G7b2p7Z36SdxCKJXhax0woXjiKpQAJ3buQa2ueB/VVR3qm6bAToJgSdXD3oDvP29BXMfYkCCaHN+I51wgBshKwgslNPELEzD17eLE4ZMcm7VsH2sjSKi2Xa5qB21cNC8N+ZA/ACvThkP6VZAXwVPIb5j8vkqHmLoOtk/6mjsThMBtLY+yPPnMJpIWm6kcdSYAC/Rqwk6SSkuGv3iEro2WtsxBz65WmJd1ge45wpbAGVUr3LfB5RFUyg==;7oV166Z+w4PiiGNFkgsSxw=="
 ---

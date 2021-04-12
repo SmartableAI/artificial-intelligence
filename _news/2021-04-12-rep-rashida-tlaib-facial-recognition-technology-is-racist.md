@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Rep. Rashida Tlaib: ‘Facial Recognition Technology is Racist’"
-excerpt: "Rep. Rashida Tlaib (D.-Mich.) sent out a tweet on Friday saying that facial recognition technology is racist. “Facial recognition technology is racist,” Tlaib said in her tweet. “@CityofDetroit must acknowledge that in an over 80% Black city this ..."
-publishedDateTime: 2021-04-12T14:38:00Z
-originalUrl: "https://www.cnsnews.com/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
-webUrl: "https://www.cnsnews.com/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
+excerpt: "Rep. Rashida Tlaib (D.-Mich.) sent out a tweet on Friday saying that facial recognition technology is racist. “Facial recognition technology is racist,” Tlaib said in her tweet. “@CityofDetroit must acknowledge that in an over 80% Black city this type of surveillance is harmful,"
+publishedDateTime: 2021-04-12T14:37:00Z
+originalUrl: "https://cnsnews.com/index.php/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
+webUrl: "https://cnsnews.com/index.php/blog/cnsnewscom-staff/rep-rashida-tlaib-facial-recognition-technology-racist"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 459
     isCached: true
 
-secured: "wq7NHKRC2b7HlmWTwbyz+BeaCI00HeknLcyzjbpWOZ2eOYXPZkHP1IdBZDfcfJcCfaiL8DtamIiGM+OPiB0ne+Way5Fn1WaPJkE4xymJghWslW/HynA2UzpP6Wu9yCkGjoT31iRPvFsiKdm6c1jEJImbCzbIMFwJbNiGw9/VyZNZAKtyP92Uh5nuojwaOphjfheOZMGc1MeivxmNrEymkvQTEL1ioKeUGw8KRRh2xr1TDqVROZ7fP/LVHjzK29wOCR2XBLkhxRazw01qYZlhJI46wsF7AbumDCITBzjqlJFFwmyMaaZvFmXC3JHyXPBprzpQL82sb58OAHlXjnF0nNrjnStqz3He3ounA8DngWA=;FdPqEBzc7p/7oUdfq3g0xw=="
+secured: "DWB3dXHsd4nE2vUUukJVzSh/ssNuY2sO+hwrGilTf7KV3+DkoR4JgZ7BOOValnUpf29QdI5y5+E8XlxjNUye/L6cSP1/pnI7+RUmn4KAw8unCk/cBv1IlDCtvd4+ZG0vdY3SsJ7eSGp4Jif05YWMcngVndtmSsTPNLwdkIR5O6TZtN9XCpd4rw9fz7eCVGjWUSf2x4Eok1vvifr0EbKxptwcGN++gnLVLRrxPI8ICOt+14Wj+xtkCj86o4cYWDTT30R6aXqcFpKTr9hzxVvB9X/AGokt00HZSpC1h+laiHgcWZ0dok2dt+17+Lt/f+fGDRwpz9ZQzvSnQ8AGe1a/fjCsOCBCZnVeGvrQacdQipg=;AYI2fKmGQsf2URmmDc2Ajw=="
 ---
 

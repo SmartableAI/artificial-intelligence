@@ -100,6 +100,20 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 32
+  - title: "Deep Learning Chipset Market to Witness an Outstanding Growth during 2019 - 2027 - IBM Corp, Graphcore"
+    excerpt: "Evolving from neural networks to present-day deep learning architectures, AI has come a long way. Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is ..."
+    publishedDateTime: 2021-04-12T14:36:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/139412/deep-learning-chipset-market-to-witness-an/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 23
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
     excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
     publishedDateTime: 2021-04-08T14:09:00Z

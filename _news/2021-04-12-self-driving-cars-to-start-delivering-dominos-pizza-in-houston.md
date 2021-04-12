@@ -103,34 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
-    excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
-    publishedDateTime: 2021-04-09T00:13:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/tech-giants-enter-chips-race-self-driving-cars/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 24
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Waymo.jpg"
-        width: 700
-        height: 285
-        isCached: true
-  - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-    excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
-    publishedDateTime: 2021-04-09T20:18:00Z
-    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_7914.html"
-    type: article
-    provider:
-      name: Slowtwitch
-      domain: slowtwitch.com
-    quality: 24
-    images:
-      - url: "https://www.slowtwitch.com/articles/images/1/197981-largest_distracted.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
     excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
     publishedDateTime: 2021-04-12T13:02:00Z
@@ -145,15 +117,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fruit flies could help improve self-driving cars"
-    excerpt: "With over 70% of respondents to a AAA annual survey on autonomous driving reporting they would fear being in a fully self-driving car, makers like Tesla may be back to the drawing board before rolling out fully autonomous self-driving systems. But new ..."
-    publishedDateTime: 2021-04-07T23:59:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/fruit-flies-could-help-improve-self-driving-cars/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 4
 
 secured: "LaWO7Nbv6r0XzKW50ISo73Ur5mHaqbl6U+AZ+0TD40raXmjbWk8M5jcbeLNG0MVmNxxIa2VhZSNj0k8j940gWJJoQGvB2swrJSzRM6Ggct1HYU2sKt9UJHmcZXXGBQ7DuM1T3yzlml+CrKNcG45DnDUqAJNrPz7qns2355VYKQ2ljGugYkUj9EhcjDn+qJKfAMz8NbzC0T9DaEHgZZm9wpNDbNfln3ha/dliSZ0ENcvnw9WK2lg9dljGH7j2ZaCXy6AAPRqQ2yHtiri5qqc2ygJfWlLPNHF5rRWOShXfhvnk99v5DhnMN1TPZ9IwaxVpOrG1XcNsFKJvOijZqzd7crF8CVERW5Qy7psRSfR6Y285fLW7hq8p+wGaykxseX8Z7REzkLoHWICSU5+H0wY8WEQnTQ2wRUAFhuu0P0UMQWaxj+QFiCM2aRpHK0I8a/yXY2q5lKrexgxUj6C+jeLd7sp7fyXqwI4LShCQxML9bPt389ooi5RZrdeT6cMcMcM3yJ8BKQIbkGgexRvHk3ZkTw==;7e8U9yGLP8cVnEJQGyIbYQ=="
 ---

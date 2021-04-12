@@ -89,34 +89,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
-    excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
-    publishedDateTime: 2021-04-09T00:13:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/tech-giants-enter-chips-race-self-driving-cars/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 24
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Waymo.jpg"
-        width: 700
-        height: 285
-        isCached: true
-  - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
-    excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
-    publishedDateTime: 2021-04-09T20:18:00Z
-    webUrl: "https://www.slowtwitch.com/Tech/Self-Driving_Cars_A_Tutorial_for_Cyclists_and_Runners_7914.html"
-    type: article
-    provider:
-      name: Slowtwitch
-      domain: slowtwitch.com
-    quality: 24
-    images:
-      - url: "https://www.slowtwitch.com/articles/images/1/197981-largest_distracted.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
     excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
     publishedDateTime: 2021-04-12T11:48:00Z
@@ -145,15 +117,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fruit flies could help improve self-driving cars"
-    excerpt: "With over 70% of respondents to a AAA annual survey on autonomous driving reporting they would fear being in a fully self-driving car, makers like Tesla may be back to the drawing board before rolling out fully autonomous self-driving systems. But new ..."
-    publishedDateTime: 2021-04-07T23:59:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/fruit-flies-could-help-improve-self-driving-cars/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 4
 
 secured: "385khQ/HA3LFO0G4/2US+2KDXQsChf7eGhv8nOncK/UDFom1JRwiypieLd+MkYcPmbKw8MeeLXJ9kmLADwc9Cqv3FXqiCCnk1Fj8cFqUlGvlYr5RH3iRXmejDQeyOvfyReMdumQi/JyAOgHGpqOQMs0VK8nOB7BBfngnQvkOPUrabwK8AEoyuwB1QQx/8XB5jMzUz6kNDU53jJOZoCyeau7iX5DzQliPcBWs+9C1NiFOAbx7jXWstnMQ0OpP7LdCCOGgfP4Ui4EDvFVxgIzjxfHhMijm1Ue86/I9z50bRdJkxrGQnJEvo6Hgrybke0R7dBhoehQA99MuS6OHAul+u5abqGZAKHPg3eaJ6oWHT9QXldCeqCm/CYGxRMYGdJJv2EWbamqLktP8VxvZor5XZ++a30tLjNVPcnoHNEs+W2jYwnHUkK47uqTflobL28IIDWxymC8tTfGv6rYNBspw8Bgb+1GtJYcXxcMSCVgnSi7DJv+//Tk4twWzGYgX9yqRR4mfeggiRSrJAKtJY1tsFQ==;xrvz+E2VF2n0aNdz3VgeXg=="
 ---

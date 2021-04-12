@@ -57,6 +57,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "NYPD used facial recognition to bust their own cops for drinking in uniform"
+    excerpt: "The New York Post reports that the NYPD’s Internal Affairs Bureau ordered the use of Clearview AI’s facial recognition software on two cops who were drinking on the Long Island Railroad before the funeral of Detective Brian Simonsen in February 2019."
+    publishedDateTime: 2021-04-12T16:14:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-clearview-ai/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-clearview-ai/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-clearview-ai/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 57
+    images:
+      - url: "https://uploads.dailydot.com/2021/04/NYPD-Facial-Recognition-Clearview.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "The NYPD used a controversial facial recognition tool. Here’s what you need to know."
     excerpt: "Newly-released emails show New York police have been widely using the controversial Clearview AI facial recognition system—and making misleading statements about it. It’s been a busy week for Clearview AI, the controversial facial recognition company ..."
     publishedDateTime: 2021-04-09T09:01:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://img.chdrstatic.com/media/24c22de5-9c5b-434d-938e-49fc97b66018.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NYPD not true blue when it comes to facial recognition transparency"
+    excerpt: "The worst-case scenario for those who want police to use a controversial facial recognition service is playing out. News is breaking nationwide of police agencies using Clearview AI‘s face biometric service reportedly with insufficient oversight ..."
+    publishedDateTime: 2021-04-12T17:03:00Z
+    webUrl: "https://www.biometricupdate.com/202104/nypd-not-true-blue-when-it-comes-to-facial-recognition-transparency"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "iCQMlP/V8L1JtLFAD4X3/sP6C87CGxLRhsDXCY2l8cbOaSSFBM3wIMP9XegP5QyKjG5Z2V1PdgCjKl8QmZkRHuBbh5DJ81w3FoDyRzPt4biYMfjEjl1q3NYF//k+Y5ll1vs1sKuzkC3txfLLXvzzqImhA1JP2OSCCcsFTLvId7/CsZJ8+XbKJ1CAgEHTVt94yHjM7yQx/pypKgrlOsptv+hi/JfYCCKuYLMecZ2Kk2IvLN1EK9VAeOKQKIhC5Ss2swDzalCD/0q3J0PB/aLQI5naFeIqsEds2xD+GFVzGwiMqa0O7kOq/esToNJ2La3sB82JIjXo8OAS3saowrH6cyFDIQ9Yd2ljamCtyPwSBA+KkJExllVogipML4YlPe7bZeWd6YwnM5U20bR9MP6v72p0UK8i7eeSzOmZiK7tVV/o/zw7yFX13VPlfR124LWAQeyjc++V8L4MrCv6W+0Y0Xn8k3bfOXun4Ims4pT4VY6f8j/t/HM07TPIkM3pW8TppTY4am7h6CiDAR+M03MDSw==;m4iSFEiTJraVziooStaLzg=="

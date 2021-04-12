@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 32
+  - title: "Deep Learning Chipset Market to Witness an Outstanding Growth during 2019 - 2027 - IBM Corp, Graphcore"
+    excerpt: "Evolving from neural networks to present-day deep learning architectures, AI has come a long way. Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is ..."
+    publishedDateTime: 2021-04-12T14:36:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/139412/deep-learning-chipset-market-to-witness-an/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 23
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
     excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
     publishedDateTime: 2021-04-09T03:23:00Z

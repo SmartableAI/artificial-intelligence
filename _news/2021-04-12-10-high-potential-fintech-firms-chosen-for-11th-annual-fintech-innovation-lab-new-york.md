@@ -98,20 +98,6 @@ related:
         width: 936
         height: 446
         isCached: true
-  - title: "Avant makes digital banking play through Zero Financial acquisition"
-    excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
-    publishedDateTime: 2021-04-07T23:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37815/avant-makes-digital-banking-play-through-zero-financial-acquisition"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z

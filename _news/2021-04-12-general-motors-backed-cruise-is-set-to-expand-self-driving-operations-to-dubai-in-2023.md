@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Reveals Details Related To Tesla's Artificial Intelligence"
+    excerpt: "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications."
+    publishedDateTime: 2021-04-12T16:05:00Z
+    webUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/"
+    ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 89
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
     excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
     publishedDateTime: 2021-04-09T20:27:00Z

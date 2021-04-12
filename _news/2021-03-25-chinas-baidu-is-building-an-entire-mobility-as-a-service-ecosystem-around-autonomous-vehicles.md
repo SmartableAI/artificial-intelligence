@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China's Baidu is Building an Entire ‘Mobility as a Service' Ecosystem Around Autonomous Vehicles"
-excerpt: "With Baidu's recent IPO in Hong Kong, the Chinese internet services company is poised to become a major player in the future of mobility, just like many of the new startups are trying to do by merging with SPACs to launch IPO’s in order to raise new capital from investors."
+excerpt: "For the past several years, Baidu has been working on advanced self-driving vehicle technology as part of its Apollo open development platform in addition to its core internet related businesses. The tech giant aims to be one of the world's first companies ..."
 publishedDateTime: 2021-03-24T20:00:00Z
-originalUrl: "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-‘Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles"
-webUrl: "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-‘Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles"
+originalUrl: "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles"
+webUrl: "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "qpDvbweS6kYxWRrv2hBmGEOaTjdXubzmOM2frJWsQNdIMjEpYU4pjvO1WCch4aKCXuaaQrlf3/zX6ll4xv+1Lzo9tgDqDlK40+kZcW0uPgzLoMASW4oc5emTBvvfFIGsRkIFXdp1/DdhHhLsvpmEmuUaiZNSl7wEVminhxHE6eYso0LDGRObbdyTuxfBZgG8o8Z1PNq1xJPYtyd1f5KXcB93C+tewfKbTLCKhFx4WvtgbbQnfTQg6fUE54bqDq5oQY+6nfmlJJ06c+WK0f5MjHBqbqaiQDI0uB6sradmey0xEdN5rgy+H0Bsusqp44N5+so9Zh2SDGUIvgFcdgl2ajDfzxdVqSpWRoVQ8DPkooN65z9xT7/iyQKzf1QtPpXYjcrsumAPzZikqtrnXVi9s9whOJG4xMUNxkybn7CFIuuTjEOI7AS1/3m0q7INmi+5AiMwUz5qbTurVTPbLhuLTP91VYj3cgr6hin/Te//+E23t1QHln6Ib34FQ8wtYKtbJ0nSggOweqNpUImcrUcIBg==;R6SEgdZ04rz2rML8yNG4Vw=="
+images:
+  - url: "https://img.futurecar.com/202103/24/l_605b90ed6a851.jpeg"
+    width: 800
+    height: 418
+    isCached: true
+
+secured: "8peT8hXG9AUIEDWBhwW7keGVlQXSUUphORLyG0Lrftn5H8uR2uGm9LZHwB0MDDHDb/UFEAXTNa5u5kHP6vPL5MLHYgK2kjYxzeuxxJhGXTjCNUaFwMWPD0aFlB3pWpzu089EPHbPB0TnKEp2AQFdGICDcpDCgA01OWuit7l/oNWdYdnbRM181bxF43rh6ka1DQn3MgFBs8RmBEBAkxTA9bF0O3W6nQ4ae6I+Ky0EfKOx2vRQqj7z+lWuX34+yuzDJrgIu5wJqcgZXWVucr3l0YAHTLAlvt+7mirtjyAm6+Ff44SAGF6pvrHSxUy3DlUgcLJaY6SKotFqfDc3uFiL+SuyFM29EKI4Kk7Myaq83eg=;+hnRq1z1RAZtU6AHnAkHkQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/are-tech-schools-in-india-preparing-st
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age/amp-11618134198731.html"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "We embody the idea of Make in India: IBM India MD"
+    excerpt: "In a candid conversation with Fortune India, IBM India’s MD, Sandip Patel opens up about the company’s business strategy, its R&D efforts, and how it plans to push the idea of Make in India forward."
+    publishedDateTime: 2021-04-12T17:18:00Z
+    webUrl: "https://www.fortuneindia.com/technology/we-embody-the-idea-of-make-in-india-ibm-india-md/105393"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2021-04/aa3fde62-d250-4c4f-b5b3-58b104713e03/DSC02994_copy.jpg?w=700"
+        width: 699
+        height: 406
+        isCached: true
 
 secured: "hrizHyB4Ib8p88chmCWWbqRFovHFPArhN4VJziskuYF2mDuMqX93CrRk58Y1e63jDMioOGABntqh2927gcDvLRS+E+2wjhyda4QNY8HNsgft1NAeuj5FHoaAck0xXDV1iPfXPchFS78xOO1xZthToRJMZNI1oaBfd4MWS3xBo5mdhaUoZwz/y14JoebiVmxPkOs4jJnIBurKCl7cTCfGhz88ltUouvYKagb4pYYI0yd8sSSjVUAm8KnAilVdPYllO55qIekf6TwHGGJzk57HC6e2/WaTGprzOy52C6aum/KdmcrkepbwXZqAvn7hioPjRAPz7MXIVi1w4rxFiiyxzeGAR2/Xm5kxIjX06FAnX6Iqq3kVe68c5rkAnskehPWShvhCVVLz8/yeylMl4EJ2jvGjUDJ0YEGE0qe1uj2Cb6mYLXrqSMGEwSp/4bMsb+YJUeKkaHumTBmhObzLCH2Cqf4vG88l7c1MtkF/5L22ADyGB4iaFs33+WsxO87wLle+Qw9k09M81NgUGnkjqCuLiQ==;ESzZ2cbdKY8TwBIp/VEMmQ=="
 ---

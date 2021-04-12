@@ -98,20 +98,6 @@ related:
         width: 936
         height: 446
         isCached: true
-  - title: "Avant makes digital banking play through Zero Financial acquisition"
-    excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
-    publishedDateTime: 2021-04-07T23:50:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37815/avant-makes-digital-banking-play-through-zero-financial-acquisition"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
     excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
     publishedDateTime: 2021-04-11T21:20:00Z

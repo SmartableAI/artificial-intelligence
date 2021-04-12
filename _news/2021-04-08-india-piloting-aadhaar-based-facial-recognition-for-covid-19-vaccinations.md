@@ -57,22 +57,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "India’s COVID Vaccine Drive to go Contactless With Aadhaar-Based Face Recognition: Here’s What it Means"
-    excerpt: "The process of facial recognition will help alleviate concerns of accidental infections at vaccination centres. (Picture credit: PTI) New Delhi: At a time when the country is running its vaccine drive in the third phase, India’s efforts appear to add ..."
-    publishedDateTime: 2021-04-08T00:23:00Z
-    webUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/"
-    ampWebUrl: "https://www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/indias-covid-vaccine-drive-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means-4566732/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 43
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/01/covid-vaccine-drive-PTI-delhi.jpg"
-        width: 1200
-        height: 708
-        isCached: true
   - title: "COVID-19 vaccination drive to go contactless with Aadhaar-based face recognition: All you need to know"
     excerpt: "India is looking at adding Aadhaar-based facial recognition in an effort to make its COVID-19 vaccination procedure contactless. The Unique Identity Authority of India (UIDAI) has already started a pilot project in Jharkhand to test the efficacy of the ..."
     publishedDateTime: 2021-04-08T09:51:00Z
