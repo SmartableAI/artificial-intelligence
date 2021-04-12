@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft in talks to buy AI firm Nuance Communications - Bloomberg"
+    excerpt: "(Reuters) - Microsoft Corp is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications Inc, Bloomberg News reported on Sunday. An agreement could be announced as soon as this week, Bloomberg said citing people ..."
+    publishedDateTime: 2021-04-11T14:59:00Z
+    webUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idUSKBN2BY0JE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BY0JE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BY0JE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210411&t=2&i=1558045103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3A0BC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Microsoft reportedly in talks to buy AI company Nuance Communications"
     excerpt: "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri."
     publishedDateTime: 2021-04-11T19:24:00Z
@@ -92,6 +108,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
+    excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
+    publishedDateTime: 2021-04-12T00:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
     excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
@@ -169,15 +199,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
-    excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
-    publishedDateTime: 2021-04-11T15:59:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
     excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
     publishedDateTime: 2021-04-08T13:06:00Z
@@ -302,15 +323,6 @@ related:
         width: 5000
         height: 2661
         isCached: true
-  - title: "Redstor’s AI and Kubernetes offering helps Microsoft partners manage customer data"
-    excerpt: "A new service from Redstor is designed to assist Microsoft partners in managing and protecting customer data in Microsoft Azure and Microsoft 365. The AI engine offers an additional layer of protection by detecting malware before it can compromise backup ..."
-    publishedDateTime: 2021-04-07T08:30:00Z
-    webUrl: "https://www.pcr-online.biz/2021/04/07/redstors-ai-and-kubernetes-offering-helps-microsoft-partners-manage-customer-data/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 28
   - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
     excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
     publishedDateTime: 2021-04-07T12:35:00Z

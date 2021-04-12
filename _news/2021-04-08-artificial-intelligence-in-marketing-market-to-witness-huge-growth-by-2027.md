@@ -28,6 +28,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "Inc.), Tesla and Waymo LLC Market Segmentation : The global automotive artificial intelligence market is segmented on the basis of offering and application. On the basis of offering the market is ..."
+    publishedDateTime: 2021-04-09T14:22:00Z
+    webUrl: "https://www.openpr.com/news/2268387/automotive-artificial-intelligence-market-by-growing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/4/U409963963_g.jpg"
+        width: 700
+        height: 347
+        isCached: true
 
 secured: "PaK38Yqfpxo1ecr5eLXCSr3nwh/wEZDXNs+Xuvl9J02zp75NKONeUGjQNZRPAIOHFGHWi1br3vOCwCfK9VJRMaw+FVIQ/+RlFBYuhV+r8esV55WMsTf+YX5f7B9sXHHnd7zQJog81GdnOLbiQRdR3EO7JylNYgY6wiHldJpFj3ClFyJb/sdutibZ/rTvIFpq5Gz2YfjsmRq4QgC4cj+F4U0fEEkClguH3F/mi0ebtiCNCs2III2KWFIopmchXB1019/uoiXW/lGYMwBRCdGLmSgCYpnsAdkL/MyBL/3Y1Eo8ltxVetvTxk3HtaDE+MyTeI9070QIsTJcLW1+wJ9bapbFZcsSUOZPFkQlnbsghIs=;bzHSPyQXiNSoZD5pP7+eJw=="
 ---

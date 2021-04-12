@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2021/4/8/selfdrive.jpg"
         width: 760
         height: 443
-        isCached: true
-  - title: "Apple chief talks of self-driving cars"
-    excerpt: "SAN FRANCISCO: Apple Inc's chief executive Tim Cook portrayed self-driving cars as an ideal match for the technology giant during an interview released on Monday by The New York Times. Talk of an autonomous vehicle bearing the Apple brand has long been ..."
-    publishedDateTime: 2021-04-07T07:38:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2096095/apple-chief-talks-of-self-driving-cars"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20210407/c1_2096095_210407143727_700.jpg"
-        width: 700
-        height: 471
         isCached: true
   - title: "Inside the self-driving car of the future"
     excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."

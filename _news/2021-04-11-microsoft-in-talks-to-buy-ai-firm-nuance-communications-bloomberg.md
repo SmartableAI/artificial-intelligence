@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Microsoft in Talks to Buy AI Firm Nuance Communications - Bloomberg"
-excerpt: "An agreement could be announced as soon as this week, Bloomberg said citing people familiar with the matter. (Reporting by Radhika Anilkumar in Bengaluru; Editing by Daniel Wallis) Wealth of ..."
-publishedDateTime: 2021-04-11T15:59:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-04-11/microsoft-in-talks-to-buy-ai-firm-nuance-communications-bloomberg"
+title: "Microsoft in talks to buy AI firm Nuance Communications - Bloomberg"
+excerpt: "(Reuters) - Microsoft Corp is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications Inc, Bloomberg News reported on Sunday. An agreement could be announced as soon as this week, Bloomberg said citing people ..."
+publishedDateTime: 2021-04-11T14:59:00Z
+originalUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idUSKBN2BY0JE"
+webUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idUSKBN2BY0JE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BY0JE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BY0JE"
 type: article
-quality: 64
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210411&t=2&i=1558045103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3A0BC"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Microsoft open sources tool to use AI in simulated attacks"
@@ -86,6 +94,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
+    excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
+    publishedDateTime: 2021-04-12T00:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
     excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
@@ -301,15 +323,6 @@ related:
         width: 5000
         height: 2661
         isCached: true
-  - title: "Redstor’s AI and Kubernetes offering helps Microsoft partners manage customer data"
-    excerpt: "A new service from Redstor is designed to assist Microsoft partners in managing and protecting customer data in Microsoft Azure and Microsoft 365. The AI engine offers an additional layer of protection by detecting malware before it can compromise backup ..."
-    publishedDateTime: 2021-04-07T08:30:00Z
-    webUrl: "https://www.pcr-online.biz/2021/04/07/redstors-ai-and-kubernetes-offering-helps-microsoft-partners-manage-customer-data/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 28
   - title: "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management"
     excerpt: "While many deployment tools claim to automate endpoint management, only Aiden autonomously follows your policies in plain English using natural language processing (NLP). Aiden streamlines deployment without the need for developing targeting rules ..."
     publishedDateTime: 2021-04-07T12:35:00Z
@@ -320,6 +333,6 @@ related:
       domain: prnewswire.com
     quality: 25
 
-secured: "KQyxNz1g5SfWO3d4iF5CAp/2plhK+u3GrIganJNvfsm+NAO6g4RqPwHLIHKQgV3wsy7ixcKkAfbLIUSXmVO/1tDyWz8jN4pU+WfDL55hpmf+v1Pq8KxqkQGww66H3O1W6H5coKaM12a/7VFcvl/CzTZkHfyD9yaWNDa8f7yvRnCcc7wVbHWqmYKW2yq0W87i34M0Za9B0DjgnAgSnjAE+s6CsQDnm/FDZMUR8WOSkgL9t10jXbfUAeJwLXmN6tvvxi1UZAqVFMWz9aD4x7T4URsZ+EMu+diFZFouPjoRyVNdcveBqpbOhcuq/Gt1Hy7MPIEUuHtIr0QrX9aluY646YDvmcI0zN/3GZg6x9R+SH6PzME6YTUJFfSEitniCO36/iEDCgF6o3Oj3Kd6bqC1hAnrx0ruh9MMxy8jSNj5sPD78WOlkP+vpPe18Cc57HGkLgS5/QAr99v91z2QAqkbDaOHHs7+Nt1f9uNNUegCsExICcAEEJeu1pT/SgzAsZHL2npOjfWcBxsuI74KU1OVvA==;ht2bvugChHFFfn0Lb79p/g=="
+secured: "CzgPwZBKgdxxw44UZ9pNXIwrJ0KrEgIr+UlXBxbYvbyj0AJ0L0TWp0KcOU6yOB2XC053rpKnGBfRxZRcxTTmUEnmtH0I144ksB/fDq2ESPcMk8LNSMvfuM3iNqds++/pNrJpTfLlHOFl+LteInit2EBU5LHTv7cgDeZ+JpYnBOUOVhgF5MgTQt2i18P2pdBH/2faYEUtErxYBsIhlhhQJQrjnh9utEoa+uBnyBh5PXB3f79DtNjVEeTaO7SSiNArMhJa08VJbxyKha5VqajxnxoObp9EhZTvbOviieOS3jEZ8f7RTRPi38nZTmAT4zJwEvwEOpVWcCmyLg2cDQwLK5i2eP8slFUjK844xvyMSKc=;Z+TePh3qmkvd52ioYrjjZw=="
 ---
 

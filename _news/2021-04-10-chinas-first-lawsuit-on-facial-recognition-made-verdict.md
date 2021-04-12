@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
-    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
-    publishedDateTime: 2021-04-07T08:00:00Z
-    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 41
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "y7NdbSE9dlbOPmeajQGPelkmJRXBiayWFvcj1ePhqi3ga2lIHUsr6yi6x6tvebDZ4kUsFdw8lk1XfZE+71J1d3NvWL8eYPqhTR/lR8xf4Xl8X3XtIplcNkishHadkuhR2cdXFINpg9kAUC3LSg/QyVedprJwx4wz38+3w0jK/90j+KJAXWZC8UN8xncBH9WLfjzShBj+VvUL3c66tR9vSEw2DWrSlPwMs61S9KXiCRIEnLsmRA5339OOubI3bahG7cXw2J/9SYDhk/QxFxCsk+feDEq1/4G6cHgXQQMp5MkBqi2Pl9+PxnbrHoWAkA+cW8/6bO6MWEu69VcbNzfijYVHqZ+U0WgPE7FD/Ty2Ge49KA4zi2IrN92ksUN7yP1Ny6DLwB/cdUA7Vqe9Osa3A/SMruGbDSHskKeScXHYbFcstTiNiZnRSd08JxWPX8S4+5p7sbz+jSfNsh0mJ2dx9AC0A37zt89PjHxcpqcQQTI+s+291CBemBI+WahHR6Gi4vAi0TVudbnuiN/m4FSm+w==;bQ+t0EiNZLqsH19+FFvnyQ=="
 ---

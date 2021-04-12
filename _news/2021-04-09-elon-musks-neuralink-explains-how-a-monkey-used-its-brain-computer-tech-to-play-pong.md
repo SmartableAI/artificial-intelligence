@@ -64,6 +64,22 @@ related:
         height: 600
         isCached: true
   - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
+    excerpt: "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted"
+    publishedDateTime: 2021-04-09T15:41:00Z
+    webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://images.mktw.net/im-322928/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
     excerpt: "Elon Musk’s neuroscience startup Neuralink has released a video that appears to show a primate playing Pong using only the power of its mind. The roughly three-and-a-half minute video shows Pager, a 9-year-old macaque monkey who had two wireless neural ..."
     publishedDateTime: 2021-04-09T21:23:00Z
     webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913?mod=mw_latestnews"

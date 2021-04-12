@@ -79,6 +79,22 @@ related:
         width: 3639
         height: 2421
         isCached: true
+  - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
+    excerpt: "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted"
+    publishedDateTime: 2021-04-09T15:41:00Z
+    webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://images.mktw.net/im-322928/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "76DVmrO2qw5LTTnCpg2hNiAjEbtPWTVYJf2LJDBg4/E5jcQthIB5CWEM/O8+CQS79RDcuFnGtGBG2iuIDjcdBwZzCAYNmEbYC++VVr2v+Zd2Uum9kKyatP29gUmqcGe1cOr2Emigd9lnPnSuF9FGEaGCjrKh1Gg1dAStiM+pcs66tICRA9WVqVVum8an9BjwlipbDyrN56XccCagACjG75wQi6cuWKuKMfFkx8nVYvo+sEKNi2T/NPsTGZowj132y4qTEeVN3ZQ/kEXsDEaVNqrb4Bw4Ymn0TPPxpWyrwU94oyDXky02ew7uBjVevEfOYCm2kZQbAYzwb3GncZLc368ZdE/mks+5PkDVRRaa5DLACe6d2BsbEy+/0uhCu8b5FyA6J/bW515POCierXzLptM4uJS0KSSYNjOsDhLTOqDJmVnT70FL+T9T/vnfUa/KFmHH+k+h/1i4q4zHfA+8xvZ+cnDVEYEjmtGnzYwpMCncDJvsmeNk9UD8CeWzkd4l6fyCP1HfIe7+n/E4wR/zJA==;/tIRrGlGeLF+qzFR8lwYZA=="
 ---

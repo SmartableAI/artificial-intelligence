@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
+    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
+    publishedDateTime: 2021-04-11T23:55:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 61
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "DpzkIfWnZJ2LxyObmEOTObLTaVLh1/PXzzkihnk4fbK23f8iaaD5X16xCT9L63oWI+v2DAX5LOCF83YyAQqSQdYWzs10Ly28w7bjl3YJCTMFiQGyKCMOMMF2gg1CE3JTzJALcyq9+mjCTTRig1qIQWagANckAyNo5g6f9Pf6jqN53QUweUg3D19JqkXmbwiO+2DKNt1+p6uov6V0VKXuwcA4BngdxvCVxbqlUL7kItFzC/K39RB6cFAYz8Pmx8Qxuca7s1BBo1ugAeO1ObrfRl+Hp2rk2V2m2KV/pW6Wp4SjXqCG1s621OKfwx2esvyfJ5VssbdIXPlEl6/MxGVJi9iVUs9F8Ctn4Zl7+sWj8kA=;Ce/VJa2TD2LeX2ZMlDVLgQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
-    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
-    publishedDateTime: 2021-04-07T08:00:00Z
-    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 41
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
-        width: 500
-        height: 300
         isCached: true
   - title: "China's first lawsuit on facial recognition made verdict"
     excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."

@@ -59,20 +59,6 @@ related:
         width: 600
         height: 412
         isCached: true
-  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
-    excerpt: "Virginia lawmakers passed a ban on police use of facial recognition technology last month, according to a report from ABC News. Virginia joins a list of states, including California, New Hampshire, New York, Oregon, and Vermont, and major cities such as ..."
-    publishedDateTime: 2021-04-07T08:00:00Z
-    webUrl: "https://www.campussafetymagazine.com/technology/virginia-bans-police-use-facial-recognition/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 41
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/04/AdobeStock_269353075.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "China's first lawsuit on facial recognition made verdict"
     excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
     publishedDateTime: 2021-04-10T09:34:00Z

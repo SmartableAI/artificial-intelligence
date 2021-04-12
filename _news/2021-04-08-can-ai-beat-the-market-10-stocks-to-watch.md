@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Automotive Artificial Intelligence Market"
+    excerpt: "Inc.), Tesla and Waymo LLC Market Segmentation : The global automotive artificial intelligence market is segmented on the basis of offering and application. On the basis of offering the market is ..."
+    publishedDateTime: 2021-04-09T14:22:00Z
+    webUrl: "https://www.openpr.com/news/2268387/automotive-artificial-intelligence-market-by-growing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/4/U409963963_g.jpg"
+        width: 700
+        height: 347
+        isCached: true
   - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
     excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
     publishedDateTime: 2021-04-08T10:37:00Z

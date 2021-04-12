@@ -41,22 +41,6 @@ related:
         width: 480
         height: 269
         isCached: true
-  - title: "Intel launches new artificial intelligence-based data center platform in India"
-    excerpt: "Intel has launched the new 3rd generation Intel Xeon scalable data center processors with built-in artificial intelligence in India"
-    publishedDateTime: 2021-04-07T08:11:00Z
-    webUrl: "https://www.dqindia.com/intel-launches-new-artificial-intelligence-based-data-center-platform-india/"
-    ampWebUrl: "https://www.dqindia.com/intel-launches-new-artificial-intelligence-based-data-center-platform-india/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/intel-launches-new-artificial-intelligence-based-data-center-platform-india/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-1.jpg"
-        width: 822
-        height: 400
-        isCached: true
 
 secured: "BcTHXQYuBdsaNXo42juosVEgTTkuxKRUgsDQYK2GQXg5zFEd23aO1TjUmJoxP+1s6eV7HnLKbRnWnQIaVUZBKR8x6zn8aEB09KdU6VKE0lO+4dpF/R3goBciPwRIloITx4S5kcBF/jWRIYRMnqfSXqB47Cei00YmsKGUo+x0uDYfBRGM6Tfk+WkTRg+Zk6cn4WrioKE0QB7eAdomltq4uD2eROj7yvT3KXVFS2Q7pz8gSMmrYH0S1uInqVp0OFGMIFwtKvwf5+rqtdkPF/Dve3h7BsB41jy4U/nmdGicty14MNLZbe3mDZQaCGYrb4FOl8LmYWKZ9GkHg8d0wz3dBqFQJvfh+PkRA0CkNb241J0=;GNl92j3BQY9qiJqtkNQ7Qg=="
 ---

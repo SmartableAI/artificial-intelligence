@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/04/09/physicists-working-with-mic
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/09/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
+    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
+    publishedDateTime: 2021-04-11T23:55:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 61
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
     excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
