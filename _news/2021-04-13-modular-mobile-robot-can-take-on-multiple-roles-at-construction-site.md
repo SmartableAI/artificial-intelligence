@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/baubot-modular-mobile-construction-rob
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Mobile Robot Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2027"
+    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
+    publishedDateTime: 2021-04-13T15:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2027-2021-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ddgto1VJKAFJ/bXpqCowh1j2eMEh2UwMXjI1n5IyB9dvDm7PbMhJflvWX6lo/1DZ+mjvith/4w6UZLRdVe8fg7nG8Njset2tT55Am4YPRFyVTxSOnab3/a8NQZMSGjfPtRlUpHfsgCH7O9COxuvRQABAxPF7vJBbLI4JIRW6PiPNMo7lLVDNoc4JJ9reNpEvxlpv6rrbolrTWxbC1+h5qNq/Fbx59cDR3PUrF7P9TWGuEtNV7G4kCzbPydOeaxIkHXlaA6NwIMErZ5ANwQIS3YJXlPTR1dD+M0npsKqOOxqIBKGdVxfCr6D9TzLlEQCIl++lnuQoPI/pd0fnQBC6Gx5iXD94qmI0O1oVGnc20NLk6eFQL7AfVC8uHqZUdskgxzoorFuYB5L3w4U1sfBrs010Hq1MUh+zh+Q8BH3syxTf4giXNasDD1TX2zZXSVnkflJ9n8N6dNTTgh6ocTljaqQ2OUIWJQ04pPLCEop4WV6xpamM+kEMwHGHWZThqqjlNEc9Oke99fG+Hbf/XQkegA==;BINcRqL0ZQ2xVXKa6kqQuQ=="
 ---

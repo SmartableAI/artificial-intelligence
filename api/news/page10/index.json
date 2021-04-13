@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-06-facial-recognition-for-bears-and-other-ways-to-use-the-technology-for-good.md",
+      "title": "Facial recognition for bears (and other ways to use the technology for good)",
+      "excerpt": "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "publishedDateTime": "2021-04-06T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-you-can-now-turn-on-nvidias-excellent-noise-cancellation-with-any-geforce-gpu.md",
+      "title": "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU",
+      "excerpt": "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/48T59jevWjdV3uxFo5wWBb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "publishedDateTime": "2021-04-06T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix.md",
       "title": "These AI-made songs channel the spirit of Cobain and Hendrix",
       "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ...",
@@ -1108,108 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture.md",
-      "title": "AI Holds The Key To Helping Remote Organizations Maintain Great Culture",
-      "excerpt": "How do you know if remote employees are engaged and happy? Do your remote teams have the dynamics that fuel success? Artificial intelligence (AI) is taking the guesswork out of the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b2715c62555e80b1ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2021/04/05/ai-holds-the-key-to-helping-remote-organizations-maintain-great-culture/amp/",
-      "publishedDateTime": "2021-04-05T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai.md",
-      "title": "Government audit of AI with ties to white supremacy finds no AI",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In April 2020, news broke that Banjo CEO Damien Patton, once the subject of profiles by business journalists ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/6849676544_dbab162f57_k.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/05/government-audit-of-ai-with-ties-to-white-supremacy-finds-no-ai/amp/",
-      "publishedDateTime": "2021-04-05T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

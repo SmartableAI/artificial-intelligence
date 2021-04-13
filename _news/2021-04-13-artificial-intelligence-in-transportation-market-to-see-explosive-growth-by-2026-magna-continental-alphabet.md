@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Computing Market 2021 Global Trends, Key Company Profiles, Share, Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "and artificial intelligence (AI) with cloud computing solutions is increasing globally. It is aiding in analyzing, visualizing, and monitoring data-driven business strategies. At the same time, such integration processes would allow companies to make ..."
-    publishedDateTime: 2021-04-09T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-market-2021-global-trends-key-company-profiles-share-growth-analysis-opportunities-and-forecast-to-2027-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AbHyu0haK1dYwcngH+EkRkwtwk4hHOrj6hVLqujYKNG9cwHxVD2+yBpRwx+YTNxCxDtHHSgSUWmMAtZ3GVEzJ4vVoHttB8uiKtBFgulGrK0C7hQH4AiRS7jMfRmGvtibvWeuUYy0/m3JkHt6A40C+rWDutyJGv71c/jl5iYhaLyrlZq+pb4UjQ8kbfX4mOeb9r0CBWGjyAR5d1GLKlkwaRvKv5Rtc6a/FZ0dxpdYAtH3PIZayl/myzlpQp4O8TFGsWnfIPZjALC6MtQ3P0c0df0IDLXmEkA0+P98wJA83IXEAIq1ZOmOaWf1AcBo9rR0c3IsxfbA0mAr66a2ZBKHy4FjfW6XxFg6O744xv0x0b8=;zBN7lNYU2T5eml3N0RTFow=="
 ---

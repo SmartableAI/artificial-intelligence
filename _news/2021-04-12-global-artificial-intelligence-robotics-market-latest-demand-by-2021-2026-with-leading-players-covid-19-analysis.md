@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market By 2025 Top Winning Strategies, COVID-19 Impacting Factors, Business Strategies"
-    excerpt: "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years, deep learning architectures and ..."
-    publishedDateTime: 2021-04-09T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-by-2025-top-winning-strategies-covid-19-impacting-factors-business-strategies-2021-04-08"
+  - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
+    excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
+    publishedDateTime: 2021-04-12T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-report-analysis-2021-2026-top-keyplayers-ibm-intel-nuance-communications-etc-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

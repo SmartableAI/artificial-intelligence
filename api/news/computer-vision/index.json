@@ -63,7 +63,7 @@
       "originalUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.thejakartapost.com/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -438,17 +438,17 @@
     {
       "path": "_news/2021-04-10-east-bay-police-used-facial-recognition-technology-despite-ban.md",
       "title": "East Bay police used facial recognition technology despite ban",
-      "excerpt": "ALAMEDA — Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive, leaving at least one council ...",
+      "excerpt": "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,",
       "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
-      "originalUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
+      "webUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412",
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412",
           "width": 600,
           "height": 412,
           "title": null,
@@ -458,13 +458,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "publishedDateTime": "2021-04-09T10:02:00-07:00",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
+      "publishedDateTime": "2021-04-09T21:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1301,6 +1301,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-uber-driver-claims-facial-recognition-app-locked-him-out-of-system-after-he-tonsured-his-head.md",
       "title": "Uber driver claims facial recognition app locked him out of system after he tonsured his head",
       "excerpt": "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,",
@@ -1394,49 +1446,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

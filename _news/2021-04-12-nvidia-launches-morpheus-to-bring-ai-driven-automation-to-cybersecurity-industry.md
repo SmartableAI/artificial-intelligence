@@ -1,27 +1,31 @@
 ---
 category: news
 title: "NVIDIA Launches Morpheus to Bring AI-Driven Automation to Cybersecurity Industry"
-excerpt: "Morpheus is the foundation for our Cyber Precog Flyaway Kit, an AI-enabled cyber-hunt platform that packs data center compute into a small, ruggedized GPU form factor.” “Splunk is excited to collaborate with NVIDIA to uncover more ways to utilize GPU ..."
+excerpt: "Morpheus is the foundation for our Cyber Precog Flyaway Kit, an AI-enabled cyber-hunt platform that packs data center compute into a small, ruggedized GPU form factor.\" \"Splunk is excited to collaborate with NVIDIA to uncover more ways to utilize GPU ..."
 publishedDateTime: 2021-04-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b"
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-launches-morpheus-to-bring-ai-driven-automation-to-cybersecurity-industry-2021-04-12"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-launches-morpheus-to-bring-ai-driven-automation-to-cybersecurity-industry-2021-04-12"
 type: article
-quality: 34
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +60,6 @@ related:
         height: 328
         isCached: true
 
-secured: "A2eakR7jfI+Jo2147v15iYcX9MVrBzQw+zfC4Yw8Dve+8CK+L/zKhdJvkAXl5eIGXwxf67sPD+meWmCx7oRpXdupZ1V76hmcfxKLifY2F73eu5KzUXmWaLkmZLYcap2p0e3XaOzSecUByOAsihvmiQ8ceGYv7JraBJsAI6c7fcjuqBWiVR/M92OgDSHiHJK2C9dJLuieKQbqLWstQ/iGEQallUQn+YnSVMzbnUlm6lrArE6O2i5w/YxS69M74k4CIP2QZROwei6ifxpY/r2aS1wi/NGyvae14EXkUlNgw0K88tBVVBLY1ZcCKcvpJE5HbeANSxIqNrwwf+Q0uZO19ZvWDmUoG8LNK6FhI6slrJo=;X7XPHv4+EihmmCh4ERDvtA=="
+secured: "lpHTscTdiz1IoBJj50H30vNRGx1i5g4LvigPK6Iu0ejfuG2QfcGT3B9htzXegv3TG9WMZMN8PfsMQT4qxAU12eBEQrSoUrUBqboPsef6nopb+xTOA/Ha6F6yvLmQY0rfkJE3uDAMqa9XNNm96wr9EBpqxzIHbhto72enj8quOvHKwm+YumwBe0tWR35JKOsRMREz3AhgEaeIOH6hgApcYRpPshxUfs/nZYpCVL6cQfz2OKKPKl21cmlp9mbq5KfVhq6BlVpY0RfO90STvCL0kIiigvfhGIWAS9j3TJkKzvNkazMP7R0GDMF9n999DsxvJPzQRKDz8TI/JbGiipEfB20aofh/sV6URxaNKbx5uvI=;+H/jIO2zx4pFIWwxARhGGg=="
 ---
 

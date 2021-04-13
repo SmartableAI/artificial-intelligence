@@ -35,8 +35,8 @@ related:
         isCached: true
   - title: "AppHarvest acquires robotics and AI company Root AI"
     excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting support ..."
-    publishedDateTime: 2021-04-13T10:02:00Z
-    webUrl: "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/"
+    publishedDateTime: 2021-04-13T12:01:00Z
+    webUrl: "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/?intcmp=related-content"
     type: article
     provider:
       name: futurefarming

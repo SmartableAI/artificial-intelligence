@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natur
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
 type: article
 quality: 121
-heat: 1021
+heat: 1041
 published: true
 
 provider:
@@ -1136,6 +1136,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 54
+  - title: "Microsoft Buying Nuance In $19.7B Voice Recognition, AI Blockbuster"
+    excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
+    publishedDateTime: 2021-04-11T23:54:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-buys-nuance-in-19-7b-voice-recognition-ai-blockbuster"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0267-11dbd4e35679-ae0c062583d5-1000/merger-400.jpg"
+        width: 399
+        height: 399
+        isCached: true
   - title: "Microsoft Buys Nuance In $19.7B Voice Recognition, AI Blockbuster"
     excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
     publishedDateTime: 2021-04-12T14:54:00Z
@@ -1326,6 +1340,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 40
+  - title: "Microsoft cools data center servers in liquid-filled tanks"
+    excerpt: "As advances in air-cooled computer chip technology have slowed, Microsoft touted its new cooling system that’s running in a production environment."
+    publishedDateTime: 2021-04-13T20:12:00Z
+    webUrl: "https://gcn.com/articles/2021/04/13/liquid-cooled-data-center-servers.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2021/April/MSliquidcooledservers.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Microsoft – Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Another area where conversational AI is gaining traction is in sales management ... too. Speaking at a recent Fintech Zoom CIO Summit, Harry Moseley, the global CIO of Zoom, noted that the pandemic will inevitably have made workers much more wary of ..."
     publishedDateTime: 2021-04-12T22:07:00Z

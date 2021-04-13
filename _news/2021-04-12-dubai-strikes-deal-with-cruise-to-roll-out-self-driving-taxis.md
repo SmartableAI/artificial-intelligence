@@ -107,6 +107,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
+    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
+    publishedDateTime: 2021-04-12T14:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-2021-04-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Domino's is testing out its automated self-driving pizza delivery service"
     excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
     publishedDateTime: 2021-04-12T18:40:00Z

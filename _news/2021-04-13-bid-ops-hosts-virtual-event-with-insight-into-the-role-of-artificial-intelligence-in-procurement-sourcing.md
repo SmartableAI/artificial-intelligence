@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Giant Oak brings security screening into the age of AI"
+    excerpt: "Company’s GOST technology enables organizations to screen individuals for a wide range of illicit activities Giant Oak's software-as-as-service security screening platform, known as GOST, was borne out of the need that arose for large-scale,"
+    publishedDateTime: 2021-04-13T21:29:00Z
+    webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 56
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
     excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
     publishedDateTime: 2021-04-09T06:31:00Z

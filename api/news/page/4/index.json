@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-12-internal-affairs-used-facial-recognition-software-against-nypd-cops-email.md",
+      "title": "Internal Affairs used facial recognition software against NYPD cops: email",
+      "excerpt": "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
+      "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/",
+      "publishedDateTime": "2021-04-11T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
+      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
+      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-are-tech-schools-in-india-preparing-students-for-the-aiml-age.md",
       "title": "Are tech schools in India preparing students for the AI/ML age?",
       "excerpt": "AI/ML, in Dave’s view, will permeate every field in the years ... That’s actually how I got into machine learning because with the improvement in chips in the early 2000s, we started not being able to keep up with the data we were getting on our ...",
@@ -508,6 +604,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-10-east-bay-police-used-facial-recognition-technology-despite-ban.md",
+      "title": "East Bay police used facial recognition technology despite ban",
+      "excerpt": "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412",
+          "width": 600,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
+      "publishedDateTime": "2021-04-09T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning.md",
       "title": "IBM releases Qiskit modules that use quantum computers to improve machine learning",
       "excerpt": "Register for a free or VIP pass today. IBM is releasing Qiskit Machine Learning, a set of new application modules that’s part of its open source quantum software. The new feature is the latest ...",
@@ -905,49 +1044,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-10-east-bay-police-used-facial-recognition-technology-despite-ban.md",
-      "title": "East Bay police used facial recognition technology despite ban",
-      "excerpt": "ALAMEDA — Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive, leaving at least one council ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
-      "originalUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412",
-          "width": 600,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "publishedDateTime": "2021-04-09T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),",
@@ -1150,102 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
-      "title": "Accenture AI expert on how first principles prevent problems",
-      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "publishedDateTime": "2021-04-09T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-elon-musks-neuralink-teases-brain-computer-tech-in-new-video.md",
-      "title": "Elon Musk's Neuralink teases brain-computer tech in new video",
-      "excerpt": "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna633",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633",
-      "publishedDateTime": "2021-04-09T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

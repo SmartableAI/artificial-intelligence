@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-01-30-microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture.md",
-      "title": "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture",
-      "excerpt": "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-how-microsofts-azure-playfab-supports-game-developers-with-james-gwertzman.md",
       "title": "How Microsoft’s Azure PlayFab Supports Game Developers, with James Gwertzman",
       "excerpt": "How Microsoft's Azure PlayFab Supports Game Developers, with James Gwertzman Source: Microsoft Microsoft just released some of its",
@@ -1375,6 +1322,59 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
+      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
+      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-01-19T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

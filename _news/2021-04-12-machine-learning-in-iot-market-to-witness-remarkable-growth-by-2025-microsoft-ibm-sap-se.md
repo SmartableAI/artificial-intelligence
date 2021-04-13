@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -76,17 +76,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
-    excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
-    publishedDateTime: 2021-04-09T03:23:00Z
-    webUrl: "https://www.openpr.com/news/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268063/natural-language-understanding-nlu-market-may-set-new-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "dWyf2gMIK7l6tU9Az5dkcUYEbphbq/5XOtO+ks9YMmepjDaWqGsFFc8lA+WEE2ToVsD1C5Gy335+3ocdTK+gtt1j77ENulsDnXa2F0lOvRWDDhytpiZ3B2uzsvAH0GUWcRMxg0lmM/8AcLGIC7FnDTgc40pzWDV8IpOOnyne6cAA5LMHEMnP8WN9q0OZEdg+6dmgO6pnWL0uz1BWuwunLrBFWCqkTRlbQ9w39Dlse6QZUWFlkbYGnTUCb7kE7RlBjXWoUMdSg2PCRcc+W+xk8BTaehdzG1ylH8hzyD2IfzZtk3+dn4FT3i63Yxbrv62WF//k44KHh5HH3PLuw6MYYbnAVQN7gmVcJoNQEKBlySM=;XS6IAnztsbYpEm3alMH9kg=="
 ---

@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "East Bay police used facial recognition technology despite ban"
-    excerpt: "ALAMEDA — Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive, leaving at least one council ..."
-    publishedDateTime: 2021-04-09T17:02:00Z
-    webUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
-    ampWebUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
+    excerpt: "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,"
+    publishedDateTime: 2021-04-10T04:30:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 59
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412"
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412"
         width: 600
         height: 412
         isCached: true
@@ -122,6 +122,6 @@ related:
         height: 800
         isCached: true
 
-secured: "YLsmO5iMQ/Qp9bbHaDYhUbhK9jXxJMy0SD3Ge51AlX5FOs8cSILsYGez/r7gPuaNm30oa7yX+YUKGnWR+NKoZ9wtOrJdMW/EsdrZ+GuUoYLlj+MJle2fa/qBq2QdnxgMp1suCrVPjkku4MSvI6nAmdYxvm/lFbOYs60xe9e/o0B7xr1eoP+eHYek+dKZxfxT4pGWso1q1Poy97VZnzdP+5mbxcMunsaXPrT5q3Yqs13wd/q8nr0KuKmRffTMzCCTr9c/VM31gIwEorNc8zlHZJInoKi3IqYFMzmMpU51YO5Ea0amjkbSTtXcOqt4h+yOs30qPsl8JrbXheZnLMcdr+DwSBsCuLvTn6lBOghu9sI=;gc0C8Tkld5Wv6Nfj9s5Emg=="
+secured: "Cf1Y1IC37Hli5Dw61CMkB6U5OYj40UbRmwsfWb6+HNQeb0NEqAPTkRY1pVTcTdF/sZ4MtCDmNGtWCYavTU87NkxoLLeN1GLxkuNo6e+CnzGHIj5FkYMzbwELEUb7FOehuFm3kKAw5Yx+7RRoJJLy99zNAUSRTKBneAqbadhE8FZbuk6X3vHS42p5qX8qdUeyIgOrZqrBcDcjd4iQ9ITUlr9B1MPZMNHoFKYvXBzLw/OBq7SfBS8J3jbZ9TMAE3YY/Eim23vBXcWeG9A7OsA6qAs80dLxsY2Uv2J3JWjmOp7dXpCUhrkiSwmBKgzwdgOH8OAO9vUGRfay5qkcWoLRr7bvTwDJgtS4+4Ro1qKKjLF7SjOYccaXw+cYtXBz8T2qu4PcS+entGVcvfrFQNjPsH/OzaRCsSAH/za+OrHgcltDaG7NH9edTlHzQd4NUvqXWtAtDq40qw9BI08+VbO/E9ck+WEBNbM2Zu+TTctrKnyFIU7LhmZXHEYrRX7/kThrCkyVqyG/kiwpr0EDSClAUQ==;Gx1a9l8PBft8RVW74Yq+Pg=="
 ---
 

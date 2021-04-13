@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition tech being tested for US flights"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic ..."
+    publishedDateTime: 2021-04-13T20:01:00Z
+    webUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
+    ampWebUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 39
+  - title: "Narita airport starts facial recognition trial for faster travel"
+    excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
+    publishedDateTime: 2021-04-13T21:40:00Z
+    webUrl: "https://japantoday.com/category/national/narita-airport-starts-facial-recognition-trial-run-for-faster-travel"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
 secured: "PyaVMiXeBcEt99TMZjk54nyxRnkLXxqiplTlfb7iuYCtrwFmCJCrgOY781OMYFtgZWv2BoddMucNoVRm2vwb/D/+OOopWeR5mKEunRprBvQZuZpRGYESffnVItoxeTgqhNzEW6vutgXR+xKZDZAYGLQpy8sFAQEHIXrv0sCls6nYlyu6EFJd9bwuOkl5xxdf7XRjFZpTpcOSdB+u9uAajIfdS9hz3oAqeNRjfISzwtCi6I9kTM14EbPYIkAREY8kfY5gYuqWjNmvhtLuJBPZ4GNGJWagTs2SLrsNojgZ8uAS0R2uJPhhhjnI0FbPnixLM7AnMDXM67gIIsJW5dOVcNktiZuuFEyn5mhXh5hEQr7gb8p16PxCXGsVCINkKhmPZoCGTWSZ4vTL9PewjAF36lOMuWgb9AJEiUNMkb22updFNVsYjXDsQnpVdHwy3LHVVTKVDxHf2nS0OE3qfSBsBodmr6ZQAcmaKGpZ9Jf1hsElZ/dMGqDxZMUrJPx5osTK3Ctk4ntEKSVEQSJn6f9VjA==;QA01dZj3/EvlCxF2cVf1SQ=="
 ---

@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-08-object-detection-with-detectron2-on-amazon-sagemaker.md",
+      "title": "Object detection with Detectron2 on Amazon SageMaker",
+      "excerpt": "Deep learning is at the forefront of most machine learning (ML) implementations across a broad set of business verticals. Driven by the highly flexible nature of neural networks, the boundary of what is possible has been pushed to a point where neural networks can outperform humans in a variety of tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T10:03:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies.md",
+      "title": "CB Insights reveals 2021 cohort of 100 most-promising AI companies",
+      "excerpt": "One way to gauge the deployment of artificial intelligence in the marketplace is to track CB Insights' top 100 most-promising private AI companies to watch. The firm released its annual list this week, culled from over 6,000 companies. \"This year's cohort ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
+      "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/08/72f782b6-01c1-4475-985a-b1364e55e4ae/resize/1200x/f82f649b8dd9dadf1861a9a2e5fbb37a/ai-100-export-3000x2250-v4.jpg",
+          "width": 1200,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
+      "publishedDateTime": "2021-04-08T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
       "title": "AI helps zap mosquito larvae before they become a problem",
       "excerpt": "An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to demonstrate how humans can use powerful artificial intelligence technologies,",
@@ -1094,110 +1197,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development.md",
-      "title": "The Negative Impact Of \"Blacklisting\" On The Future Of Domestic AI Development",
-      "excerpt": "Chinese companies that utilize and are developing important AI technologies such Huawei, Xiaomi, and TikTok, were targeted to varying degrees. The logic was that, by working through “trusted” suppliers, the U.S. would benefit from a “clean network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e365b33a5a8a82d408f31%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1616%26cropY1%3D18%26cropY2%3D927",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
-      "publishedDateTime": "2021-04-07T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-thousands-of-us-government-agencies-using-facial-recognition-without-permission.md",
-      "title": "Thousands of US government agencies using facial recognition without permission",
-      "excerpt": "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "originalUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
-      "publishedDateTime": "2021-04-07T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

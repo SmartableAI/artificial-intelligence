@@ -2,6 +2,100 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-01-read-resist-observing-trans-day-of-visibility.md",
+      "title": "Read & Resist: Observing Trans Day of Visibility",
+      "excerpt": "You can read more about everyday ways to support the trans and nonbinary people in your life here. Strangio and Willis explain why they expanded Trans Day of Visibility to Trans Week of Visibility and Action,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "originalUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2021/3/31/60c69bc7-48ab-4c30-95a8-e9275fed1dee-trans-day-of-visibility.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmagazine.com/culture/trans-day-visibility/amp",
+      "cdnAmpWebUrl": "https://www-wmagazine-com.cdn.ampproject.org/c/s/www.wmagazine.com/culture/trans-day-visibility/amp",
+      "publishedDateTime": "2021-03-31T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "W magazine",
+        "domain": "wmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
+      "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
+      "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "originalUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318945/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "publishedDateTime": "2021-03-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
       "title": "Supply Chain Strains Sharpen Focus on AI",
       "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
@@ -1131,90 +1225,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-digitate-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Digitate Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "Digitate today announced it has been named a winner in the Artificial Intelligence Excellence Awards program presented by the Business Intelligence Group. Digitate was selected for its excellence in AI-driven products that create exponential value across enterprise business and IT functions.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
-      "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
-      "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-33_WA-Cardinal-Health-Post_2000x1006.jpg",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

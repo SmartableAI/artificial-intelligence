@@ -2,6 +2,92 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-03-22-how-the-construction-industry-builds-smarter-with-artificial-intelligence.md",
+      "title": "How the construction industry builds smarter with artificial intelligence",
+      "excerpt": "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "originalUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MultiBriefs",
+        "domain": "multibriefs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep.md",
+      "title": "Online to In Your Hands: Shipping Technology That Helps Deliver Products to Your Doorstep",
+      "excerpt": "This route mapping platform is usually also complemented by artificial intelligence (AI) driven fleet management ... hybrid fuel options for their final mile, but in 202,1 UPS, Waymo, and Amazon will be rolling out their fully electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
+      "originalUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techspective.net/wp-content/uploads/2021/03/pexels-artem-podrez-5025668-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
+      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
+      "publishedDateTime": "2021-03-22T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techspective.net",
+        "domain": "techspective.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
       "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
       "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
@@ -1055,111 +1141,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
-      "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
-      "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60576485f4a1e62cb6f9a91e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
-      "publishedDateTime": "2021-03-21T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-ford-spokeperson-calls-teslas-full-self-driving-vaporware.md",
-      "title": "Ford spokeperson calls Tesla’s Full Self-Driving ‘vaporware’",
-      "excerpt": "Driving’ package ‘vaporware’ in a spat with a Tesla investor over the Mustang Mach-E. Press relations and communication people at legacy automakers are generally pretty careful about what they say, especially when it is about the competition,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
-      "originalUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-vs-Ford-Mustang-Mach-E-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
-      "publishedDateTime": "2021-03-21T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

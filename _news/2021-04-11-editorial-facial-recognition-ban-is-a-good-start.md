@@ -57,6 +57,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition tech being tested for US flights"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic ..."
+    publishedDateTime: 2021-04-13T20:01:00Z
+    webUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
+    ampWebUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 39
+  - title: "Narita airport starts facial recognition trial for faster travel"
+    excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
+    publishedDateTime: 2021-04-13T21:40:00Z
+    webUrl: "https://japantoday.com/category/national/narita-airport-starts-facial-recognition-trial-run-for-faster-travel"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
 secured: "bVQJ2N1Mg7aF6nU1OigqH14fUpcV8xCKFFjzlLmrYLYTMtA/2nybi8InJ3kLqP/okCn0r0T304o1yyAkZeY3P1bBrRuBWA8QGHhUDIAV/EMWaiTAukxZOyK5ZuMVilToL6vrPeDnDh/gfDYU+a6lkYf7PATcxYuXKvkbKjvXuc3YshHtYJeX7CZf+CElrcUbCoqSL0n/I8p2WO5+6YaNASYmTcUUzmBB72hKPK54MFpxneAx+/bEz9UbPVbHi1iD+pas73wxT+6Pg5xbfUj6ivmx+JGlSBGj4y7FxAxaoxn99HWBSBCADdqM63HWvPZXKIa4U/Iz7PdedGkWzzRtmVLFz67g6y0MoJU3SRcbUyQfgrV6FdjlDUEtfBlclax4ZipbKTOVtpKejpjEe7AuNWNGUZaEM28lP1BumyVsSl/zgSAbQKLPlzMrzxM3cSy8x/Zmi5Nzz1rhLs9s8Y2oTzOsr0E+vtm+VOho1raXDaC32Zm0EDYJ190vCAZ1N+qd88L/KkdexuZ7DrOTiA8A3w==;IvicgmQOn1M7WJ7gBYXMcA=="
 ---

@@ -1146,6 +1146,20 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 54
+  - title: "Microsoft Buying Nuance In $19.7B Voice Recognition, AI Blockbuster"
+    excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
+    publishedDateTime: 2021-04-11T23:54:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-buys-nuance-in-19-7b-voice-recognition-ai-blockbuster"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0267-11dbd4e35679-ae0c062583d5-1000/merger-400.jpg"
+        width: 399
+        height: 399
+        isCached: true
   - title: "Microsoft Buys Nuance In $19.7B Voice Recognition, AI Blockbuster"
     excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
     publishedDateTime: 2021-04-12T14:54:00Z
@@ -1336,6 +1350,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 40
+  - title: "Microsoft cools data center servers in liquid-filled tanks"
+    excerpt: "As advances in air-cooled computer chip technology have slowed, Microsoft touted its new cooling system that’s running in a production environment."
+    publishedDateTime: 2021-04-13T20:12:00Z
+    webUrl: "https://gcn.com/articles/2021/04/13/liquid-cooled-data-center-servers.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2021/April/MSliquidcooledservers.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Microsoft adds speech recognition"
     excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ..."
     publishedDateTime: 2021-04-13T04:59:00Z

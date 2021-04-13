@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-12-nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles.md",
+      "title": "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles",
+      "excerpt": "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/nvidia-cars.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
+      "publishedDateTime": "2021-04-12T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-nvidia-launches-jarvis-conversational-ai-framework-in-general-availability.md",
+      "title": "Nvidia launches Jarvis conversational AI framework in general availability",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. At its GTC 2021, Nvidia this morning announced the general availability of its Jarvis framework, which provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/8a5f192d-10ec-43eb-9c61-acb8418ac2c6.png?w=800&resize=800%2C390&strip=all",
+          "width": 800,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
+      "publishedDateTime": "2021-04-12T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
       "title": "New Advancements in AI are Changing Healthcare as We Know It",
       "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
@@ -786,7 +890,7 @@
       "originalUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -838,7 +942,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1130,102 +1234,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-internal-affairs-used-facial-recognition-software-against-nypd-cops-email.md",
-      "title": "Internal Affairs used facial recognition software against NYPD cops: email",
-      "excerpt": "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
-      "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/",
-      "publishedDateTime": "2021-04-11T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
-      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
-      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-11T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

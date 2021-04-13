@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-this-is-the-state-of-smes-one-year-after-the-pandemic-according-to-facebook.md",
+      "title": "This is the state of SMEs one year after the pandemic, according to Facebook",
+      "excerpt": "This article was translated from our Spanish edition using AI technologies. Errors may exist due to this ... effects of the COVID-19 pandemic on SMEs. In this context, Facebook research aims to provide insights and information that can facilitate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369332",
+      "originalUrl": "https://www.entrepreneur.com/article/369332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618350345-Depositphotos-223945066-l-2015.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369332",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369332",
+      "publishedDateTime": "2021-04-13T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization.md",
+      "title": "Utilizing AI And Big Data To Reduce Costs And Increase Profits In Departments Across An Organization",
+      "excerpt": "Research reveals that the combination of AI and Big Data technologies can automate almost 80% of all physical work, 70% of data processing, and 64% of data collection tasks. In this article, we explore the major indirect cost origins in departments that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607602a6a361353e05e81429%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/amp/",
+      "publishedDateTime": "2021-04-13T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-how-coca-cola-european-partners-consolidated-their-shared-services.md",
       "title": "How Coca-Cola European Partners Consolidated Their Shared Services",
       "excerpt": "Consolidating shared services across a multinational company requires thought ... First, 90% of all requests arrived via email, whose unstructured text has potential for machine learning solutions. Second, the scope of most queries was limited to certain ...",
@@ -167,7 +270,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -271,7 +374,7 @@
       "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -375,7 +478,7 @@
       "originalUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -471,7 +574,7 @@
       "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1021,
+      "heat": 1041,
       "tags": null,
       "images": [
         {
@@ -1161,108 +1264,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-why-your-ai-project-is-failing-to-deliver-value.md",
-      "title": "Why Your AI Project Is Failing To Deliver Value",
-      "excerpt": "However, we have also seen how AI deployments can run into headwinds. Executives start with many hopes and expectations but eventually struggle to put their models into production or ensure that the end users are actually using the intelligence to drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47c47573174d64749ebba7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/amp/",
-      "publishedDateTime": "2021-04-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-why-these-doctors-are-embracing-ai-to-make-triage-decisions.md",
-      "title": "Why these doctors are embracing AI to make triage decisions",
-      "excerpt": "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/",
-      "originalUrl": "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/11/8c3289a0-2079-42f7-b8fb-ac6f44614965/radiology.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/",
-      "publishedDateTime": "2021-04-13T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

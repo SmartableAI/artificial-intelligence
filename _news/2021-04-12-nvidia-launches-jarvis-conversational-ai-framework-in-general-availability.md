@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Launches Morpheus to Bring AI-Driven Automation to Cybersecurity Industry"
+    excerpt: "Morpheus is the foundation for our Cyber Precog Flyaway Kit, an AI-enabled cyber-hunt platform that packs data center compute into a small, ruggedized GPU form factor.\" \"Splunk is excited to collaborate with NVIDIA to uncover more ways to utilize GPU ..."
+    publishedDateTime: 2021-04-12T16:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nvidia-launches-morpheus-to-bring-ai-driven-automation-to-cybersecurity-industry-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia’s Jarvis Offers Real-Time Machine Translation"
     excerpt: "Automated speech recognition services with improved accuracy for enterprise applications are the object of a new batch of pre-trained deep learning models"
     publishedDateTime: 2021-04-12T22:29:00Z
@@ -44,20 +58,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png"
         width: 492
         height: 328
-        isCached: true
-  - title: "NVIDIA Launches Morpheus to Bring AI-Driven Automation to Cybersecurity Industry"
-    excerpt: "Morpheus is the foundation for our Cyber Precog Flyaway Kit, an AI-enabled cyber-hunt platform that packs data center compute into a small, ruggedized GPU form factor.” “Splunk is excited to collaborate with NVIDIA to uncover more ways to utilize GPU ..."
-    publishedDateTime: 2021-04-12T16:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "/bL4FVb244NRbVRBg9XzWvYwDNlSKRUiJ0K5rRPbgBXQJd4jsJCY0Ry02aDCdE9UAx+PD8XztjkDs+8U7IsIaEuZ2+si/Y3Ygs0tvr24h8+rKqZTMbG7GFY3UY+iYPwZu9Walq2YIB8NeUd3RCRPjYynvlioox7kyk4lHiZSQnNZFauKxqFWtQ+KL4ZM6TZYJrTYs2OcuJgK9g+FCwf+0SM1muAxzuMsajptaRZWw70CKyU6JQt6BnWXIpH81QkgtXQEcS4rsKaJtGRupFMewkYFTvGT/FAxsfafwTL55GjbQ/ePXt8GkNQI+r3/LrNU1CH0YTACvpgmh2gU+qAjLDsyfHdQY2pSnK7GWdlSqBGozwU4tPBfYhtKCutF2kCK3fJKAwXtU9Q7fgP8oJWx94ysK75VOPL1dqtR8OyA3Y7RZ/7E/IgaNYrls991+d7AUXD0LSTFuClyIaNGecOPjuif+cea/q28BhmeaCI/xFsQthYrYF5RdvEWeckMv3F1PdMs/CKGIFlKMz+eiAQyGw==;VRGZ21MVj9BX7ovVUfS/gw=="

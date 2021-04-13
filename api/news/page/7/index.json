@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-08-the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development.md",
+      "title": "The Negative Impact Of \"Blacklisting\" On The Future Of Domestic AI Development",
+      "excerpt": "Chinese companies that utilize and are developing important AI technologies such Huawei, Xiaomi, and TikTok, were targeted to varying degrees. The logic was that, by working through “trusted” suppliers, the U.S. would benefit from a “clean network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e365b33a5a8a82d408f31%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1616%26cropY1%3D18%26cropY2%3D927",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
+      "publishedDateTime": "2021-04-07T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-thousands-of-us-government-agencies-using-facial-recognition-without-permission.md",
+      "title": "Thousands of US government agencies using facial recognition without permission",
+      "excerpt": "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "originalUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "publishedDateTime": "2021-04-07T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-study-suggests-that-ai-model-selection-might-introduce-bias.md",
       "title": "Study suggests that AI model selection might introduce bias",
       "excerpt": "Register for a free or VIP pass today. The past several years have made it clear that AI and machine learning are not a panacea when it comes to fair outcomes. Applying algorithmic solutions to ...",
@@ -1138,101 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
-      "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
-      "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "originalUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/polopoly_fs/1.4531004.1617795508!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "publishedDateTime": "2021-04-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
-      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
-      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321568/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "publishedDateTime": "2021-04-07T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
