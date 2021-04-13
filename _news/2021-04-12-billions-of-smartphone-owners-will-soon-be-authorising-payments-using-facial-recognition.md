@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 36
-  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
-    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
-    publishedDateTime: 2021-04-12T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
 
 secured: "8qSA3OU9OkWyZ0YIJdSOs4Uuw5OVzAtY88cWPbSRQGZK5JxWSsg1jExK+qvZz/Mf6MTBWFMJ9l57IXqfMu9ebm+GjSPUsJ93abibOw0wJneaQzo1il4pMO4aTCeOpoEJ113Z7+TgssFDPPAWe4qRd3aq0Gm31bJFIkA5E6qJzAqnjvyuUCQliWLpnHOASZJFyrXfiyiSyLU6H0QD8FEo0eD2zzcxB/CDfzHILdCQs9oM58vsLNYEWJHyN/Y84a5Xrw293+wlYELw5gISehJb2en9IB2FR7zbcttjLxOsJJpqx4SLdIYfb8PxGOVpFaRRMxnRH9PUPX+3+Oo6UDSUKoNv0pSF/vHsgUYNxAw7XsJHqaryaURmTDKfP/0MPq2fygl5chlPypv61X4KCFQ8cf3DUltKmJlejVt2wyXIeiaggDzMuMXtUx3vF/67kdUnhLhoLVSF+S2IjGz+Wjz+batYrU54FK6xXtrjxNSEGU6a0Qa+xkTNOjyVU0hwiXbndA2J0AP8nc16Ct0X3Ndcsg==;pGrHSeF4K1tTEA8Cq5D1Gw=="
 ---

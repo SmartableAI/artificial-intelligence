@@ -48,15 +48,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 36
-  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
-    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
-    publishedDateTime: 2021-04-12T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
 
 secured: "pafNhsYUjEPKSPRdqIBGleZQ/xf9QFKv9H6iqfFHGNj29oU6Q/tXM8MguWrHRbax9MC8niCyFDfx0FbACk5oSQg10xxGid33hJIPtY3WyVwR+kv8ca6Zya+UVR7OE0rakAcexqgOHsvXl37QIjky+oHGvT85i5d1Y40pkaSIJAd2LePeECb00cyG6t1eHVl8smHRm557NmqkkbBIgEZsz1twy3RXcMM6CaxoaI3DlSa1Wme2thPtz2xRJmvvfxTG3cOtdYbUSJ3qTvjT64xAmtQXy2SvRw8G7b2p7Z36SdxCKJXhax0woXjiKpQAJ3buQa2ueB/VVR3qm6bAToJgSdXD3oDvP29BXMfYkCCaHN+I51wgBshKwgslNPELEzD17eLE4ZMcm7VsH2sjSKi2Xa5qB21cNC8N+ZA/ACvThkP6VZAXwVPIb5j8vkqHmLoOtk/6mjsThMBtLY+yPPnMJpIWm6kcdSYAC/Rqwk6SSkuGv3iEro2WtsxBz65WmJd1ge45wpbAGVUr3LfB5RFUyg==;7oV166Z+w4PiiGNFkgsSxw=="
 ---

@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
+    excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
+    publishedDateTime: 2021-04-13T08:15:00Z
+    webUrl: "https://tass.com/press-releases/1277131"
+    ampWebUrl: "https://tass.com/press-releases/1277131/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 46
   - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
     excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
     publishedDateTime: 2021-04-12T21:48:00Z
@@ -130,6 +141,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 19
+  - title: "Nvidia announces new GPU collaborations"
+    excerpt: "The devkit runs the Nvidia HPC SDK, a suite of compilers, libraries and tools that will enable engineers, scientists and developers to create and migrate HPC and AI applications to a GPU-accelerated Arm computing system. Initial computing centres deploying ..."
+    publishedDateTime: 2021-04-13T09:47:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations--1379238"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
   - title: "Supermicro Expands Its Nvidia Ampere Architecture GPU Product Line, Includes 5PF in a 4U Tier 1 AI Platform"
     excerpt: "Server maker Supermicro today announced expansion of its Nvidia Ampere Architecture-based GPU-product line, including achieving 5 petaFLOPS of AI performance in a 4U form factor with the latest NVIDIA A100,"

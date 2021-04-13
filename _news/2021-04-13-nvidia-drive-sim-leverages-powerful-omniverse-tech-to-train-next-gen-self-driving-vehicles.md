@@ -105,6 +105,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nvidia to supply Drive Orin chips to Volvo Cars, develop new Atlan AI chip"
+    excerpt: "Nvidia has announced an agreement to expand its collaboration with Volvo Cars to allow increased autonomous driving functions in future vehicles. Under the deal, Nvidia will supply Volvo with its latest 'Drive Orin' system-on-a-chip (SoC) technology to power the autonomous driving computer in its next-generation cars based on the SPA2 modular vehicle architecture."
+    publishedDateTime: 2021-04-13T08:06:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-to-supply-drive-orin-chips-to-volvo-cars-develop-new-atlan-ai-chip--1379196"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
 
 secured: "1jxJUo7ddxwOn4gjYqmjozy9guh90MpkBtUAza4OTGgE2tZ1W4IUXyKGvHrLM3QYJoYMTu5fpPdPtMSbULzH9alfvAgvQ9O1QabKGS/RJmwkWvLFh8fCtRs07cHXHvbVvgrvssKZalYecjWwzSei9ILaPeKYInWjqb8h4/s8XWzYzhZS7QiL0lyiQjLfZscQCmjidMfPiGLkj3Yauy1FfKrqJ7t9r1vuUDFzw5HO6JJzQsKVxBFujHG/K/RDKFiokT/a7cFr6OKNXo3Juiz3IdVWfvqtoNe8J85DQL7vpMdQc8zPIn6C2/YHIiehhmxQH6CVKUgqa80v7aGTz0gmEQ5Y0TOZCuAFn60HQLO0Rjg+2+wSON5w0AFTh/DGhDPsihme1IZc8+MBUM+l6NeLBvoqG8covBTdF0DQ4KCcNoMVq2vZmE+RRRfGb6ATLVgKTodu5h7Vp2NvqZOPOuH8fCBlNlbvOP8Jq6/QYfKbcP2GtQoq9JtFapU77l1pO+lvcfzdryJahxOJfMcLpYr1Yg==;sxW10LHNzKcB2lAZClkolg=="
 ---

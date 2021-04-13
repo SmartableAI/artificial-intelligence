@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence in Security Market to See Major Growth by 2026 | Amazon, Intel, Micron"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Security Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and"
+    publishedDateTime: 2021-04-13T09:11:00Z
+    webUrl: "https://www.openpr.com/news/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/U/4/U413327692_g.jpg"
+        width: 800
+        height: 445
         isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."

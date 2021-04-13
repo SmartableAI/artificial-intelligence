@@ -53,20 +53,6 @@ related:
         width: 800
         height: 425
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Equipment, a new service that uses AWS-developed machine learning models to help customers perform predictive maintenance on the equipment in their facilities."
-    publishedDateTime: 2021-04-08T16:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-industrial-equipment-repair-bfe196600824464ea18d57238ffeae75"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial neural network model for predicting changes in ion channel conductance based on cardiac action potential shapes generated via simulation"
     excerpt: "Many studies have revealed changes in specific protein channels due to physiological causes such as mutation and their effects on action potential duration changes. However, no studies have been conducted to predict the type of protein channel abnormalities that occur through an action potential (AP) shape."
     publishedDateTime: 2021-04-09T10:11:00Z

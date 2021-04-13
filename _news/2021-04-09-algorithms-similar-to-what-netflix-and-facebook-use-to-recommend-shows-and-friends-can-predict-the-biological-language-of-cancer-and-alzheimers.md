@@ -29,22 +29,6 @@ images:
 
 related:
   - title: "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'"
-    excerpt: "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found."
-    publishedDateTime: 2021-04-08T16:10:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg"
-        width: 1440
-        height: 861
-        isCached: true
-  - title: "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'"
     excerpt: "Powerful algorithms can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found. Big data produced during decades of research was fed into a computer language model to see if artificial intelligence can make more advanced discoveries than humans."
     publishedDateTime: 2021-04-08T22:24:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/04/210408131441.htm"

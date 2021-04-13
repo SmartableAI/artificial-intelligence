@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
-    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
-    publishedDateTime: 2021-04-12T12:57:00Z
-    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 39
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
-        isCached: true
 
 secured: "kEGHoZ+bJ0Z7gA1XC2n+vKkBCIDsHk7MaosT7rUd1Gr3TPNSFQ7wfT+7ekxrw60Wmygsxs/0T4Tsub5xT0Bzhryu8/N0oM0CVHfZFKr4h4267im7xGA0WhUCPV1XLzND+h+cPiohOj0/Qbsw1JUStJE/YuIrXO2M1yYwhpdy4sN2sGEFvja6kyY6cX2zWBxy4HNBHZYMvWNHBAeBOTBWjP5aEoZ25CPxNE+C8e7ay6avs7N1Z+Xeb3e2zgAG6IPsm1PYGLwgfyjPQ8e5LUpqh5pJmxlAFcRjI+kRwobxLZrfHB6naLGGVb7C0oATWqucK/kFtxMtL9F+/bwrx79qxp1kKQ0/y2iEX6ir8XU+aX8=;1UegiFg/PJk3XWp2b14GYw=="
 ---

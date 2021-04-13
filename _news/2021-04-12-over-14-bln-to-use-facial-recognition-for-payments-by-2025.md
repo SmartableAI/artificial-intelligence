@@ -20,44 +20,22 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
-    excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."
-    publishedDateTime: 2021-04-12T15:51:00Z
-    webUrl: "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+  - title: "Facial recognition could soon let you pay for all your mobile purchases"
+    excerpt: "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ..."
+    publishedDateTime: 2021-04-13T09:19:00Z
+    webUrl: "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg"
-        width: 1200
-        height: 627
+      - url: "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
-    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
-    publishedDateTime: 2021-04-09T11:00:00Z
-    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
-    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
-  - title: "Solution House Software expands Smart Cities offering with facial recognition"
-    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
-    publishedDateTime: 2021-04-12T06:36:00Z
-    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
 
 secured: "VdH0MUTQaItiYj8bQLU3XXYlXFlvpuAO/qsaQFg3AA+l+6Heq2agS6IUYKnp+hDWj9HbBNusj2FSHDn7x8z7pvFvmu9xhCGMfsE59wu1jEH6WvKI8BVtJ+JI+RcYAszRVm3Ec/MboaaNJGGDIuiNw1DdA23aTgFOdZSJe1880Uw0z/hGFr/begle0e0V3glCpQy8IEzOzx9t4mNqvEpukp27qIJ/SAcPGPDigvz6U+biW0cXsBSZYpRf+lETCT1ejFZzTPCfGde9i8FWM4sI0gPqJqb32YaznT+sY49p+mw7l3OKxOPwKgaqE1Hl411CgLl+NqVP/SSxuut/gf3IURoPXNSB5tQDha5lJgkMJ9s=;tOema4QJIIBG+SIaHhEQbg=="
 ---

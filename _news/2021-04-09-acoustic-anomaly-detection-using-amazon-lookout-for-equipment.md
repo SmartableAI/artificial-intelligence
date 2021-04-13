@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-det
 webUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/09/2-architecturediagram.jpg"
         width: 800
         height: 425
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Equipment, a new service that uses AWS-developed machine learning models to help customers perform predictive maintenance on the equipment in their facilities."
-    publishedDateTime: 2021-04-08T16:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-industrial-equipment-repair-bfe196600824464ea18d57238ffeae75"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
     excerpt: "TensorIoT is an AWS Advanced Consulting Partner delivering complete end-to-end products and solutions in IoT, data engineering, machine learning, and artificial intelligence. “TensorIOT builds solutions with AWS services to accelerate integration of ..."

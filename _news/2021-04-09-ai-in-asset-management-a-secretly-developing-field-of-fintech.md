@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine learning, AI making its way into clinical lab management"
-    excerpt: "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and ..."
-    publishedDateTime: 2021-04-08T15:16:00Z
-    webUrl: "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Costa Rica Advances in the Implementation of Artificial Intelligence for Sustainable Forest Management"
     excerpt: "Following its recovery plan, Avianca finalizes details to resume its operations between San José de Costa Rica and Miami on July 1st, 2021. The... Efraín David Fines Nevares, better known in the artistic world as “Tito El Bambino”, is on vacation in ..."
     publishedDateTime: 2021-04-10T23:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changin
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
-    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
-    publishedDateTime: 2021-04-12T12:57:00Z
-    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 39
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
         isCached: true
 
 secured: "YB0fUU8I4bPW4TjuXhJ2O357XdiMfLyoi4CeW5sCacpGzbu5R2gg1BjSbcw9fs2wM4rAAaWPECT1XPpsyYk44WsO1D9euz6dzwAqHiaZRClcdy8xKlF/r46fxVOwngn5Ra1hs8drrlbUougCpRcgzZMyAXO97nVmX5t+zxSg6hASy8naI0956TOeMCxIUW31ujjQcXqhfZ9j22PmW9R2+xq9kmbY1FBkR7kRNnPHJ6mMGEEjMujcRHDhA9OPIlrgYR9NrSAmtE0gaE10BmLKo42DS1MvoqxhlSDX6scCYrJUrm9BaCDsaAM04vHkXZlblo+tzSDlw0d0Z4zDM1KbDd7LDz5v9XKdgg++1U3cZDc=;0QEnJ5ReCemP1S9tBRY6BQ=="

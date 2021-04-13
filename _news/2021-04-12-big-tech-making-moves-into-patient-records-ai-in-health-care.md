@@ -25,49 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "New Advancements in AI are Changing Healthcare as We Know It"
-    excerpt: "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ..."
-    publishedDateTime: 2021-04-12T16:41:00Z
-    webUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/"
-    ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
+  - title: "Big Tech’s guide to talking about AI ethics"
+    excerpt: "If they challenge the status quo, fire them. efficiency (n) - The use of less data, memory, staff, or energy to build an AI system. ethics board (ph) - A group of advisors without real power, convened to create the appearance that your company is actively ..."
+    publishedDateTime: 2021-04-13T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 76
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg"
-        width: 1600
-        height: 900
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Not using AI in healthcare will soon be malpractice"
-    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
-    publishedDateTime: 2021-04-12T09:18:00Z
-    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
+  - title: "What a bleak AI future tells us about how to work now"
+    excerpt: "What is it that I’m hanging on to?” “Goodwins. Your law department. This whole . . . world of work. Your every waking moment determined by some contract you once signed.” Kazuo Ishiguro sets his new novel Klara and the Sun,"
+    publishedDateTime: 2021-04-12T03:00:00Z
+    webUrl: "https://www.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
+    ampWebUrl: "https://amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
     type: article
     provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-04-09T13:34:00Z
-    webUrl: "https://www.benzinga.com/news/21/04/20556236/biosig-technologies-says-invited-to-join-alliance-for-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28fe7e89-8dd3-4315-a4f2-5061de79be7f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "EEw11PDayKNQP6y/0HEb7sgIhJCyTvtXF/z7H+ufFM30BQNCT9crUPbEv6qeaswE7v66GgIzoRm2r6Bv+RJflEOU4Kl3ESjLP/z08PD/A0Q8c49tzGDzWivI0zEkVSjGByd63NFtQjmhmm1LukEakINEuDFnN5EUdfFf6gJnP24K2H8MLjr+Kh1lKRMqeoxR9pJGvBbC1iQbUH/6pscdb3f/7MLI/D7xRYdjsklt19klOtKd2Vsm3kVb5igYofbVz6rHEXh/cBhpz7N9DLgegkqt4jYnaYGHZslZVuu5bB7ruNG6ps/BaulWxQjBpQnep1JjL9Yjy8icfAsCUQ3Ls6KL16dikweTtORXvGub7UM=;i9Iix2jpwsLAr2OglgobyQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-r
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Mercury News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
-    excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
-    publishedDateTime: 2021-04-08T15:29:00Z
-    webUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "Local police in Virginia will be banned from using facial recognition technology"
     excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
     publishedDateTime: 2021-04-08T19:00:00Z
@@ -59,19 +43,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's first lawsuit on facial recognition made verdict"
-    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
-    publishedDateTime: 2021-04-10T09:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
+  - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
+    excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
+    publishedDateTime: 2021-04-09T20:46:00Z
+    webUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/"
+    ampWebUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
+    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
+      name: VTDigger
+      domain: vtdigger.org
+    quality: 51
+    images:
+      - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
+        width: 1024
+        height: 732
+        isCached: true
+  - title: "Editorial: Ending use of facial recognition by police"
+    excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."
+    publishedDateTime: 2021-04-12T22:15:00Z
+    webUrl: "https://www.dailypress.com/opinion/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
     quality: 39
     images:
-      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
-        width: 750
-        height: 422
+      - url: "https://www.dailypress.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "MrbsynBY3A8s4i9W6E3dLeqS2DJL2/esc8cpCjiguhHyJBN5MQJP9kchWY+XUK0JpXzGWmaiLBcJ5G3NOBojw4qpKLq2vDo4VvKkOcM9opxh+5GzRg6QNsSN9FanKKD8YMadUMjLLVSkygi6Wjn8lJSwu4jYOPYejIoZYuuZWLCcV7n7cknfAfCBac91DudOgsg92EVz8AuwBy35T2RhAmVlBcSJMMG0778O2bGDlg2zmusPsEQw/A84VsDSS1/a+ecrYEF8pCPR279FQIdyvRFJ2TLKJaLOGTKEbquX6bF/EPjp55wCpfOtMMzMojSSJj4ebBzUgQAQ1MTDB3r38PQfWCp73NYvVCBRrkt4/aFn/rsr9t2Zdy1qkU5Tgl2FBZ0PO61tDzKcoNK3iBzKFpJIOct/veH1RZaJCJecSybQDWPMqE0evvFIBVvBsABq9l76WEYkJ4MP6rI801pfCIAT29N/tAxsMfFUp6RPcDReMcXf5Xcbx0OYXuw2MEzT3ERCXrw0+XBODrMN1jx4Pw==;S/Bm8DBZmyNWwOt2xtUTuw=="

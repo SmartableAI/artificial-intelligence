@@ -65,6 +65,17 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
+    excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
+    publishedDateTime: 2021-04-13T08:15:00Z
+    webUrl: "https://tass.com/press-releases/1277131"
+    ampWebUrl: "https://tass.com/press-releases/1277131/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 46
   - title: "Cloudera Data Platform to integrate with Nvidia's accelerated Apache Spark 3.0 libraries"
     excerpt: "According to Cloudera, the integration will accelerate data pipelines and make it easier to add machine learning workflows to processes. Cloudera Data Platform added Applied Learning Prototypes (AMPs) earlier this year. AMPs often run on Nvidia GPU hardware."
     publishedDateTime: 2021-04-12T15:30:00Z
@@ -135,6 +146,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 19
+  - title: "Nvidia announces new GPU collaborations"
+    excerpt: "The devkit runs the Nvidia HPC SDK, a suite of compilers, libraries and tools that will enable engineers, scientists and developers to create and migrate HPC and AI applications to a GPU-accelerated Arm computing system. Initial computing centres deploying ..."
+    publishedDateTime: 2021-04-13T09:47:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations--1379238"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "7zzfFSX2XdXSqcncPk3cHm3w+T2KxSjWiLle9IMhoZGftdOkaI316PP041yEl6oOVl15W54Q/P0b7RIzATYm9YNGDK3TvNPGexus7ftCXDIdCd+oKnIWoyzQNDUU9jRivYfGssP61OTMoTy/BPO7snRmErLTVxpVJzDneVFnchF7lX1FUCbAGoQ0fX7owYEh9ng1yMdtMQit/rtL0Q5+7fowbRTgCgdQcbVPa9pT+cUdd2zc4TM775i9z1781gWpsGocr5b6ECsLKb8JmlebuEhbibxuqZ+9leJRbkjxMyVj0SIAbbjlPxf0+hRQnZFwoCfAdftj8XTqbSqO2Abu1osxkjPFO0GyVK3u/Si4bbw=;Bdc/GOhEBeS8sP0Ja5Dd4g=="

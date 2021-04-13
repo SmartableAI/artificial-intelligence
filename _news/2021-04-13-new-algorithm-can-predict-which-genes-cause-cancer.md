@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 1300
         isCached: true
+  - title: "165 New Cancer Genes Identified Using Machine Learning"
+    excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."
+    publishedDateTime: 2021-04-13T07:26:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/165-new-cancer-genes-identified-using-machine-learning-347599"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/165-new-cancer-genes-identified-using-machine-learning-347599.jpg?cb=20210413"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "DRRKMxfB74qt5B0iq+6fpF1qGw+yoW1GFDf03THimmhiOiznTfTsCRIk7i0ARBQINqnKa1uyicGj0O4e24UALa+D2dsERbEgplw5E9mZ6jo5UQz+TNP7cMtK1OQtiLtFBaRWIdOcnLjT1xZ2MaUCstGqGDTCnHeSv5u6oYW3QJmFHy2W3USHwr9N5ifpb6m8PhnEPshuMVugrX5p96jZmqY2+qrSVM3JKUDLM+25FsB0F9ZiLL4wcGaYGfESE0rFwZqvNJyydS8BFN5BeLAd1HkboKGeYBPQVeI3QPBTcwrP45cAAA9Gl90UMw5Yb24P0R9I0sg4/Gz6MBrpwtg7CAQz0Xn92d+K2Y2Y0jX2UmM=;RKFnX0dkEZpZKQ6QLpkSqA=="
 ---
