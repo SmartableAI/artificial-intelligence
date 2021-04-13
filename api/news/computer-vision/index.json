@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-lawsuit-filed-against-detroit-police-after-controversial-facial-recognition-leads-to-arrest-of-wrong-person.md",
+      "title": "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person",
+      "excerpt": "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
+      "originalUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp",
+      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp",
+      "publishedDateTime": "2021-04-13T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBK",
+        "domain": "fox2detroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
       "title": "Facial recognition could soon let you pay for all your mobile purchases",
       "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ...",
@@ -348,7 +391,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -422,6 +465,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-local-police-in-virginia-will-be-banned-from-using-facial-recognition-technology.md",
+      "title": "Local police in Virginia will be banned from using facial recognition technology",
+      "excerpt": "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
+      "originalUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-08T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1339,101 +1425,6 @@
       "provider": {
         "name": "DelmarvaNow",
         "domain": "delmarvanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-chinese-government-run-facial-recognition-system-hacked-by-tax-fraudsters-report.md",
-      "title": "Chinese government-run facial recognition system hacked by tax fraudsters: report",
-      "excerpt": "Concerns mount for data privacy in China, as a group duped a government-run facial recognition system to issue fake tax invoices valued at US$76.2 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/30/2a7c0ac1-68a8-4dd9-98e1-1a4f79a2a3a5_e59cdf4c.jpg?itok=avqNscSA&v=1617100153",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "publishedDateTime": "2021-03-31T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-tech-newsletter-facial-recognition-in-the-us-amazons-big-pr-fail.md",
-      "title": "Tech newsletter: Facial recognition in the U.S., Amazon’s big PR fail",
-      "excerpt": "In this week's Daily Dot tech newsletter, we take a look at facial recogntion in the U.S., Amazon's Twitter PR, and Section 230.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
-      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/03/Tech-News-Newsletter-Image-03-30-2021.jpg?auto=format&ixlib=php-3.3.0",
-          "width": 1938,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
-      "publishedDateTime": "2021-03-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null

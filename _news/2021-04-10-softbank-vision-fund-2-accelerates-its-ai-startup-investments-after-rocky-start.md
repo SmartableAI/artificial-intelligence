@@ -36,6 +36,20 @@ related:
         width: 1396
         height: 794
         isCached: true
+  - title: "SoftBank Leads $220 Million Funding for AI Home Gym Maker Tempo"
+    excerpt: "The fresh capital will be invested in enhancing Tempo’s AI and motion-tracking technology used to provide real-time feedback. Steadfast Capital, General Catalyst, Norwest Venture Partners, DCM and Bling Capital also participated in the latest round."
+    publishedDateTime: 2021-04-13T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/softbank-leads-220-million-funding-for-ai-home-gym-maker-tempo"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG7W1Plw6BCY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "EMoB746P80TzNymdm/njqtIISTyPB7fCsIDqYN7N+E+hkF+9bDiTogCt5vuFD7LRu8O3dZqkUH1ydPog3WQxDPQfs9S2inLcVVGYPOT8k/o+XwvMHL6WtP0bK6a9v4H+82PpimbWgqWTELGPOTIWy1iWV5CPNO1GR/8JrqCj5++RVFFySNgOeHeW0aYRff8JtH7TWtv5iu/w8EhLtg2wQJlHZB1jpSMvD9+nqrEGOLTJ7cJN4BDzkdfTeGdyoG3IX2crbgFLT8JayePj7rhq6D5uBBpR8c9hgFncJ24ugZ6MGEHG/mQUUg8jYW1SujGP9m7ZK7fgA4Q6pnE76i03wNXA4S82i3+hDSuQP/GsZZc=;FdD5O0uP+1+JC6T/gVLgaA=="
 ---

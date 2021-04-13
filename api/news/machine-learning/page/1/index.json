@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-machine-learning-can-help-keep-the-global-supply-chain-moving.md",
+      "title": "Machine learning can help keep the global supply chain moving",
+      "excerpt": "Disruptions can come from almost anywhere, and keeping goods moving is critical. One expert says AI and machine learning can help. TechRepublic's Karen Roby spoke with Noel Calhoun, CTO of Interos, an artificial intelligence supply chain solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-can-help-keep-the-global-supply-chain-moving/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-can-help-keep-the-global-supply-chain-moving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/0b2f75a4-9dc3-429d-95ae-1b668f35a03b/thumbnail/1200x675/f3af9a2e28df366472e5aabbd6a1e6c4/20210410-supplychain-karen-fixed.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-can-help-keep-the-global-supply-chain-moving/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-can-help-keep-the-global-supply-chain-moving/",
+      "publishedDateTime": "2021-04-13T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-machine-learning-on-raspberry-pi-just-took-a-big-step-forward.md",
+      "title": "Machine learning on Raspberry Pi just took a big step forward",
+      "excerpt": "\"Increasingly we're seeing deep learning eating software as part of a general trend towards increasing abstraction, sometimes termed lithification, in software. Which sounds intimidating, but means that we can all do more, with less effort. Which isn't a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/200a744f-429b-4a0f-b243-5ccc37d7498c/resize/1200x/a486d534d301e3691d29b889a98e246a/raspberry-pi-board-tinyml-edit.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "publishedDateTime": "2021-04-13T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
       "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
       "excerpt": "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ...",
@@ -246,7 +351,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1134,10 +1239,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Armonk, N.Y.-based company’s core product is IBM Watson Studio on IBM Cloud Pak for Data, a modular and extensible platform for data and AI that combines a broad set of descriptive, diagnostic, predictive and prescriptive capabilities. IBM delivers a ...",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1170,9 +1275,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1348,110 +1452,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-seeking-the-cellular-mechanisms-of-disease-with-help-from-machine-learning.md",
-      "title": "Seeking the cellular mechanisms of disease, with help from machine learning",
-      "excerpt": "Caroline Uhler blends machine learning, statistics, and biology to understand how our bodies respond to illness. Caroline Uhler’s research blends machine learning and statistics with biology to better understand gene regulation, health, and disease.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/caroline-uhler-disease-machine-learning-0406",
-      "originalUrl": "https://news.mit.edu/2021/caroline-uhler-disease-machine-learning-0406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202104/MIT-Caroline-Uhler-02-PRESS.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T21:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-new-app-helps-prevent-skin-cancer-using-ai-and-ml.md",
-      "title": "New app helps prevent skin cancer using AI and ML",
-      "excerpt": "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
-      "originalUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
-      "publishedDateTime": "2021-04-05T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

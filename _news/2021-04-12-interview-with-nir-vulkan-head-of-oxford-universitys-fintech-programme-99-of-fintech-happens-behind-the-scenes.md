@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/interviews/interview-with-nir-vulkan-oxford-
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/interviews/interview-with-nir-vulkan-oxford-universitys-fintech-programme/amp/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 500
     height: 500
     isCached: true
+
+related:
+  - title: "Luxembourg fintech hub launches development programmes"
+    excerpt: "Target: 10 B2B Fintech firms with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies."
+    publishedDateTime: 2021-04-13T16:58:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87079/luxembourg-fintech-hub-launches-development-programmes"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "V6dMVdJVTwvxuJZvotmucxopg4J6Fm+WbfgSEy+dNfc6xZZCgDRe6aGxBry5TFf9UAU2GUITjJFczAh4fgFSa0yiyRH+MyWMpFpZjapiqt67fUQaHn/n9nWazVg5eV1XiiCnr9i9ruTkdciXAPtvz5wvYeBi7XKci/T4VuRokylkKKBbvDwy3nbLEXwI+1Arb9NEH2/hfHrNTTkR37IwsdEv7NKgodnh8TZkKEbJK4P5ok+JyINmgc9KKuKkv9kdWYrzkjhQuTVtoaBYE4VsI63G64prkgVUkrHRUI08hAvT56dCEKLInWQNXDrAJUCiAycDEjMvJ8KtPx5M5hubAALHtlewz2d09x3j0dQghV77izJ/qotUAqfBz0iOh4fmbYKtYswgefIagaJq91YYWCRV79xw/QR3bdfMw7YHLtcs7XbbWTE1JH3gtf0mghir5m+N9FiwoGnUV6rvXrlusTK+uFcJleW41EwDhT04tqn8clk8uGcgVw/N7e5vkyFwV4Q8JiI6gBhmjJwNEtEjmg==;gzU7+nEF64w1lgF6lqbHSg=="
 ---

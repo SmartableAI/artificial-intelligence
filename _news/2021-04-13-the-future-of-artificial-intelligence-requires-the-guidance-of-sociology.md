@@ -7,7 +7,7 @@ originalUrl: "https://drexel.edu/now/archive/2021/April/The-future-of-artificial
 webUrl: "https://drexel.edu/now/archive/2021/April/The-future-of-artificial-intelligence-requires-sociology/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 534
     isCached: true
 
-secured: "lm8NupIFz/5qLarQLghgBvuJS05QIITLtknFDIEJ/M4ovv35dvY5uRSvTG0Pf82uFS+15rBPO1of1VbrjlSic210H2OiN1MMBgIPQ2qO/zsSxKL3MAJa/YUhKxKJe0BkpxCtkbaPpuWLegyL3rgdcqZjPThXQ/1/sTjSsVRs6s9DhThUveaMrQQwy+jTd9RRmYXd1TV9SrxNvoIkfRlsIJZNNaPPDbS5W4jBuhJEuAXYLWTU0e+Q470u8SSUjZYIeInldP4gGqLkr9wjzrKuCciHsHQrfHapTxkp+OYmHpEbsIt03MDA4JbxgYm0CAt67HZnGEVAt/imvxwNdi5ZSvBSa5lwKlAbIstT33ChK2Y=;24qBai/9w0hqHhyzSs2rew=="
+related:
+  - title: "The Future of Travel"
+    excerpt: "International Air Transport Association (IATA) research indicates passengers’ most desire: Increased innovation Reduced travel disruptions A seamless travel journey Streamlined baggage handling Greater accessibility for passengers with disabilities It is against this backdrop that Houston Airports and Avalon Airport have sought to innovate their operations."
+    publishedDateTime: 2021-04-13T16:45:00Z
+    webUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html"
+    ampWebUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/Shutterstock_Airports_Empty.jpg"
+        width: 770
+        height: 513
+        isCached: true
+
+secured: "0WonSMYLzDnCcStFYQGf5TSLq/sRa737rRUT5X4m9bCyL4SkV6t/LjYxJWEF0YFiPzbxhB/F3ijZOoSlleXiHxWNhucYnRakernRem/pLesWntvteWrrEr5PgPIIeC6XdSQv2Fn1YILC5ec1a5+pCFfnubnbL+e2I+a0Rq/AEjHOaLBAnr3ZtqfM8chP08IeT4wRRppufKQFLq2WcIBpBrW3sLweZrBWt9wlqb8uwh6E30KEsVIY9ouPab6y56yEqjdA/wEB+UXIejg56Op/etVd2hv0jlUyidwDxBFLyj+V6buIkPuqhCoov5pKA12ljJEBBPNlxBmrjM/VosgaTPMTwF4ZDQTabw142rCL3RHraZd7Spu1LQ3twjcN0P7CgPtmR9819FRk9Ylqb5+uTB+CYWPoGY/NkKN3fvGLm8LorA/n6Q8IJE8tBqKOJzMl+s+WbUkdDjQhHbkxjViTWG0Fpms1qK7Q4MUOE7OE7xBDuYrd28OePghJPBbMYJoGpE1i//N6gAJnJXJ3eZ7Htw==;bg+MaLWhFSjsngHHTeDjNA=="
 ---
 

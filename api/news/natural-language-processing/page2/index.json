@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
+      "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
+      "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/03/equestrian-equipment-market-1.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-reader-polls-online-dating-via-google-translate-risk-to-top-lsps.md",
+      "title": "Reader Polls: Online Dating via Google Translate, Risk to Top LSPs",
+      "excerpt": "Google improved the UX for live speech translation by reducing flickering text (although Google Translate was deemed not quite ready for use in medical emergencies according to a recent study). Facebook open-sourced 50,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
+      "originalUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/Translation-and-Localization-Survey-2021.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-how-a-stabbing-in-israel-echoes-through-the-fight-over-online-speech.md",
       "title": "How a Stabbing in Israel Echoes Through the Fight Over Online Speech",
       "excerpt": "Stuart Force says he found solace on Facebook after his son was stabbed to death in Israel by a member of the militant group Hamas in 2016. He turned to the site to read hundreds of messages offering condolences on his son’s page.",
@@ -1243,101 +1329,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
-      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
-      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202103/efbd269de16c42fdac94df0d9901d5fe.jpg",
-          "width": 980,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=305474",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=305474",
-      "publishedDateTime": "2021-03-14T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-tiktok-a-chinese-entrepreneurs-unfinished-search-for-global-recognition.md",
-      "title": "TikTok: A Chinese entrepreneur’s unfinished search for global recognition",
-      "excerpt": "Biden himself has described China as the “most serious competitor” to the US and has vowed to confront Beijing on various fronts, including human rights, intellectual property and economic speech. “The Biden administration has been clear that it will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/b0429a1c-f64c-4c8a-b4cb-0a1125339db3_ead8f5b4.jpg?itok=kVlaTEII&v=1615549481",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "publishedDateTime": "2021-03-13T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonom
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonomous-car-platform-12667945/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
-    excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
-    publishedDateTime: 2021-04-09T00:13:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/tech-giants-enter-chips-race-self-driving-cars/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 24
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Waymo.jpg"
-        width: 700
-        height: 285
-        isCached: true
   - title: "Self-Driving Cars: A Tutorial for Cyclists and Runners"
     excerpt: "The “easy” way out: get rid of the human driver altogether. Enter the self-driving car. Self-driving vehicle technology promises to eventually remove the human from the enormous responsibility of competent, responsible driving. Is this a solution to ..."
     publishedDateTime: 2021-04-09T20:18:00Z

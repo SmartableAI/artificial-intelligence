@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "2o1CrtrmTQE0aKcKZLMdZntaHiO9k4yakWCmRm2grwebv1iJEBr0yf5hJXjXOPVr7h63TgOHOazhP/auLhcEXXpFtbrw/zJx4CeebkMTlskVuHhjnVvzU7hId4N9krgEsMF0yn+ez+rCiHhgoKHSqoqGh7MqeuIj2fBXCenGPptaojTybESuJOsOclBK8oWwiaYVv4q/VhZbAyg/YwRG526NnVf7u4Xa5n0PIIdu7L8FbBZgjqdOCBPSUcGp3K4vRxSD+XqsFGXdHtBjk+EFVs/Mdaxhp1ecVrYR5DTaoAmzILTaMHvGDSoCXURa0vK+wAw0ktPI9+9YoOzAfUbHh5Y3lbeeOAN5CbsEDcjeI44=;ed9E5plaGQMHrIC8nOxR1w=="
+images:
+  - url: "https://img.futurecar.com/202104/07/l_606e4d241e855.png"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "20AWtNkVBPXZKmgg7BazyvsTtSyw+ddjA+u0uPuCGSxEJZswtghzqM+Vb4dRvzYKaGJUNsozhakLODTaSIbpQDkr6xx+IKa4LWMZXA8Rsak/F2UspNlWEpAY3JhDiMJDgn3bJqcpBn26+BtAP8gWy94+z872oxqM7KvqyUVtzGWRGOTP1GjqtacvvzeguYVr+dj5N9I+28BZz8xrL6q26ZOwrHrkID/7jB6cppSbiNUL53tINzrdrqaE5/pkYRhsKemId6tEKVsgjZf2+nVsBEVSZCUct/n+jTQ6I62g0MTB3E6pbZCCOaegqmKu33Wuw6/fFwlK/YyPfd3y4khNEMDFRu27xYVuPuVgECZW/To=;hGLr+6E9WWHo472sP3ZJYg=="
 ---
 

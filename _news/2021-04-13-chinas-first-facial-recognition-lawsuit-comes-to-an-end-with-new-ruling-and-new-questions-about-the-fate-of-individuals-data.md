@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China's first lawsuit on facial recognition made verdict"
-    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
-    publishedDateTime: 2021-04-10T09:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "eXWh0EzUTBO/8TlfMY6oTD1CgL7TRCTmBfcgvYRiq8DJ5CXsdjO0wfjohIyxK/3g+vysc0KEX6brHTJtl936Cw7LXQK2U5acwB5QwJ18jbj7n7TLlgYf7VdWWyiXeWs4y6JEH0k4QY6+aXRXq3sr6t2/v2UsDnoydAf4e96+jFJySNfZryy+kjJlhlilceNXP48curi2qFR4fMS5+KkbyW210KbPPlvBCcYEXP255wREt70lFnmiG+KnsxLF9gYZWTMmelV93ZzGcxw1QG/SNQnRaEDeVhQUeY4ugPHtWP7bjWqqlCnhCsBK5p9O8SGKWaD9Yh0ZvEyiBqwQz+YwehJV5DRLFthea1PlzAWIgdU=;Mo7tnlQtJjwqPalpb9VtDA=="
 ---

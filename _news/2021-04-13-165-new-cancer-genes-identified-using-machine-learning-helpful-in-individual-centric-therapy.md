@@ -36,7 +36,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
     excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
     publishedDateTime: 2021-04-12T17:11:00Z

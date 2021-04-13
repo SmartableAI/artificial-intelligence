@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-05-the-cambrian-ai-landscape-qualcomm.md",
+      "title": "The Cambrian AI Landscape: Qualcomm",
+      "excerpt": "One should expect Qualcomm to produce a highly efficient platform for AI, given the company’s historical strengths in mobile, and the company’s first AI platform does not disappoint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604106b73e13adf76daf14ee%2F0x0.jpg",
+          "width": 864,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
+      "publishedDateTime": "2021-03-04T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-speech-recognition-a-new-way-of-working-for-legal-professionals.md",
+      "title": "Speech recognition: a new way of working for legal professionals",
+      "excerpt": "The time is right for legal professionals to revisit their use of cloud based speech recognition solutions, to ensure they are using the most productive, cost-efficient, services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
+      "originalUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png",
+          "width": 485,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lawyer",
+        "domain": "thelawyer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences.md",
       "title": "Cisco Webex Innovation Breaks Through Language Barriers with Real Time Translation for More Inclusive Meeting Experiences",
       "excerpt": "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time tra",
@@ -1354,85 +1450,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-healthcare-natural-language-processing-nlp-market-size-growth-share-2021-global-trends-global-industry-key-players-regional-forecast-to.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Size, Growth, Share 2021 Global, Trends, Global Industry Key Players, Regional Forecast To 2024",
-      "excerpt": "\"The report elaborates the Healthcare Natural Language Processing (NLP) Market overview. Various definitions and classification of the industry, applications of the industry and chain structure ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
-      "originalUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-global-deep-learning-courses-for-nlp-market-drivers-challenges-trends-and-five-forces-analysis-2021-2027.md",
-      "title": "Global Deep Learning Courses for NLP Market: drivers, challenges, trends, and Five forces analysis 2021-2027",
-      "excerpt": "Syndicate Market Research's Latest updated Report on 'global Deep Learning Courses for NLP Market 2021' Analyses Research Methodology Figure out including Secondary Research, Primary Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2247888/global-deep-learning-courses-for-nlp-market-drivers",
-      "originalUrl": "https://www.openpr.com/news/2247888/global-deep-learning-courses-for-nlp-market-drivers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U224202718_g.jpg",
-          "width": 800,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2247888/global-deep-learning-courses-for-nlp-market-drivers",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247888/global-deep-learning-courses-for-nlp-market-drivers",
-      "publishedDateTime": "2021-02-24T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

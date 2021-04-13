@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
 type: article
 quality: 181
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
         width: 1000
         height: 704
         isCached: true
+  - title: "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023"
+    excerpt: "Udelv and Mobileye said that the autonomous vans, which Udelv calls Transporters, will be powered by the Mobileye Drive self-driving system and will begin operation in 2023. Udelv expects to build more than 35,"
+    publishedDateTime: 2021-04-12T15:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023-2021-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
 
 secured: "9LzmWFTQ23ciP52X6JE2O11KwV5NYF16tfAhs84fbiumwaqne5Fa2hKdVjsMUSTMhvU85kc37hYY7IW6B6hckJVY7uHG+tM3d/qhf4h+pIdp5y/7ASJzmwgleYVR92Mz6OpqMX9nYeqogQtVCL/ABuHghgZVzsvUKBrAp1mzi6f3WrATKak4iot0Y6s27QBno2HCX0B3DolI0xvB9GEgrHFRJn4KO1wgPW+mGi8RemBHcZyKoAt0bxRTggCpBTlbgCBk2GarkFxJBzOamfO489wPwFYhCLABzDbks16CoS0k+z080y1CnrVZJ/mH+UKV1Zyd8iv+FqAD+BXHUgJVl8LXhh4ype2x9r3G94mB/fq8w/WLg5zbz9K7fv0VagKnXNlT99PdeAFeayzIr8+Qp/aSExumtZ4dDgIrHUJ8xjwcDuHiuWhr70Q+UevUOum+bKiLQmnn6wIz0d7mLFGTawTMdAWk1fUEG9Wir/8ZUMZHilTTHWkv+8533hwGGLoSiFSIQUJpT+AwAD0Mn0FQHdX7lnZRjyeqAFaIXeuvGeM=;UtXpB5JDqxWaFfZHNDNEdg=="
 ---

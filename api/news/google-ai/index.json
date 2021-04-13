@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-machine-learning-on-raspberry-pi-just-took-a-big-step-forward.md",
+      "title": "Machine learning on Raspberry Pi just took a big step forward",
+      "excerpt": "\"Increasingly we're seeing deep learning eating software as part of a general trend towards increasing abstraction, sometimes termed lithification, in software. Which sounds intimidating, but means that we can all do more, with less effort. Which isn't a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/200a744f-429b-4a0f-b243-5ccc37d7498c/resize/1200x/a486d534d301e3691d29b889a98e246a/raspberry-pi-board-tinyml-edit.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "publishedDateTime": "2021-04-13T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-sambanova-raises-676m-to-mass-produce-ai-training-and-inference-chips.md",
       "title": "SambaNova raises $676M to mass-produce AI training and inference chips",
       "excerpt": "On the software side of the equation, SambaNova has its own graph optimizer and compiler, letting customers using machine learning frameworks like PyTorch and TensorFlow have their workloads ...",
@@ -1385,58 +1438,6 @@
         "name": "All About Circuits",
         "domain": "allaboutcircuits.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
-      "title": "DeepMind is building a team of A.I. researchers in New York",
-      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "publishedDateTime": "2021-03-11T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

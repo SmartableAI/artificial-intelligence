@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/press-release
 webUrl: "https://www.securityinfowatch.com/video-surveillance/press-release/21218351/safr-from-realnetworks-inc-industry-leading-safr-facial-recognition-for-live-video-integrated-with-geutebrck-vms"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAFR facial recognition integrated with Geutebrück G-Core VMS for security monitoring"
+    excerpt: "RealNetworks has integrated its SAFR facial recognition solution for live videos into Geutebrück’s G-Core Video Management System (VMS) for an AI-powered experience which the companies say provides time-saving and efficient advanced video analytics for ..."
+    publishedDateTime: 2021-04-13T17:24:00Z
+    webUrl: "https://www.biometricupdate.com/202104/safr-facial-recognition-integrated-with-geutebruck-g-core-vms-for-security-monitoring"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "RealNetworks, Inc.: Industry Leading SAFR Facial Recognition for Live Video Integrated with Geutebrück VMS"
     excerpt: "Featuring real-time, automated, low-bias identification of opt-in staff and persons of interestSEATTLE, April 12, 2021, Inc. (NASDAQ: RNWK) today announced that its SAFR facial recognition system for"
     publishedDateTime: 2021-04-12T08:57:00Z
@@ -35,6 +49,6 @@ related:
       domain: finanznachrichten.de
     quality: 1
 
-secured: "D9zkorGiu+0AT/+siYx2fiHrhwX07bW23AYXnrxQ27v2dBpDTUZMjaWht7JDQFSnS6FxH/L86aVEi8FjOUgGn3T5BfFXpHlJfdSgV2wvUxobKZ1TWmPNQ3ihLzO5H+EIZd2k/703f0VK5fjCCFC4oFjtl9dnm5S9Xx1goSG6LmYnN2CAVniXOliUQc/8APPCSGm8RzYm4Vxo8/ZWlVvSApLPyJBnnxnPtgAZjJG2e2JynLBSOV7byPNZsWzMNdmRzcxXmclPz628z1UxHRZJWiEY0kVYPgnd1eWwHwfNYrNO3v7SKQG1JDGKFMCvIk0GoIPdvnpjceQzqGPPVdOccBxXmob1NvkM7yyUI8L/YAI=;7sDi5q+Bb1Zh6BJT8LyY8w=="
+secured: "gkIKGeQyYtJfftM7Fe5UViVni7I+UMNsq3h0hfZcUDU2jO5F39Ygc8x/ovLbFoAeEtco7iGLgcVq9xCvhe+Kqk8FUGR8qY93NwBwO2MKVKqO//26sNtMHRws7fNEsVo/iZBN9JgPsfbZTz7dRlHmyx1o/c+V/Uj/crpGVKJsTch06R5g/CB2cYzBiIOwOWkwWB1StdWjdTlMsj76UnmEb9J5gSYxQBZ80pJU/datejaY/THvUSYCqQbEoc3iYlX98sASiQRq3a2eoEJ3Kuneiun4X69XpWXX1Sj+eUvVKqK1UOKkOMM1CxAVz2eDq+uVUxvsCtc7Zm8BILYxB7nykdkHOhF1OdrJSY3X+NpxVAUzDtEQQ++Tgw84yRwbw8st7ndFGrmz99sP+deVro9SlKWLVVyp67/LQcABul4mShYTWI5U8eWnS3knBPX0ca3WT2iWyR001ag/z6aPGVtpnRLXvjXl90OWb8LXSjZxPKKSZKXYq4QRVQ+2q5Vihgef6hjAq+Il3NrrrRjGxXGh9w==;niQvOSKb9U0y9v5lpHToNg=="
 ---
 

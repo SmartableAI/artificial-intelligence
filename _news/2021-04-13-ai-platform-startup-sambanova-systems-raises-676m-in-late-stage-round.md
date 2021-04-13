@@ -51,7 +51,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"
         width: 1000
@@ -76,6 +76,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "siNkEmHKJYvJm8B8wm9EUspFAHsrkXwI18ao+6U8r9RLxE8IjYIO6il+eOlcVqXZDbI6fcqhyMrn/VNkHfw4znNHcljxzwjIgliSoy76JTMnYUlKrJkCHuUlIb7mLBx/0c7mMxOfj6FhORnu+2yHqyGYxTL7xzH2+U02M/Ruoxnm6xZnQvTepdK5o3sonePUd1NLNO7TNi1+xoEOYgtDqw2sJcgVJ+yOX4CTGg3VK3ZjxksRT/QRpGyaRuwSWEroJHQOCpFXTuvHGWVb7aBy65go0u0nW5Fal2z/kedz6D7fHM9BSggZzwIpO6s0GQMlcMsEuWZuLVX0y55oaqM0WWSWwcUNu5/WJtITLFVPyGc=;LAhKq6r5MtBo80jHZMQk5A=="
+secured: "QcxrPf8Yr+XjmMU7x54jD8tMbZAuXnsoBOiHwOmlOVd07w9QSHmg+ImA7KBv6b7NAjxFpT/27P0XvaXQ7A+mcOIpID7XtNUAz+4oRRWqn2cmpAO/0KWU13PtSfrR5kqstjLzG+McoLO26bpTL6CtILL7LgmqyuzHwuZlqHodyAf74w4PKvnEq0rHSigbNSXPqHkR4fu9YnOwX5XkqMKTqZkM2UKqDRQSZhyg5YlhpTzOIW9rqISzm7Gu/2aareRBQ1Z1z7F/28ijcGdOucPyhWo7n/pSPILVMGgCGiMoW526BcC3fSL9+g+Zp/OmILGnJIKS3CXSSFqsbkCyygBllpOtxx0WL+mEYxR+XNBTqyvmbe1UCf6iq+ZLirmGOPDN1WqkIt5aCgrKm+GpXo/LFpzszB3Z/rLFf2Ex9rWefpaBKOpHqX6CMefsBGFaxl05AGCJUDG/vAXMPbH4XweDn1U6MSKxzgnj7Diz+y3EDbGO9Cfjwg36OC8/Yr+1pElHWUrt3nESvl7CXAFdReAdig==;ndZoPe+AL/XX3YAnIB6PeQ=="
 ---
 

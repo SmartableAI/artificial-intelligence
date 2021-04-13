@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
+      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
+      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202103/efbd269de16c42fdac94df0d9901d5fe.jpg",
+          "width": 980,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=305474",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=305474",
+      "publishedDateTime": "2021-03-14T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-tiktok-a-chinese-entrepreneurs-unfinished-search-for-global-recognition.md",
+      "title": "TikTok: A Chinese entrepreneur’s unfinished search for global recognition",
+      "excerpt": "Biden himself has described China as the “most serious competitor” to the US and has vowed to confront Beijing on various fronts, including human rights, intellectual property and economic speech. “The Biden administration has been clear that it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/b0429a1c-f64c-4c8a-b4cb-0a1125339db3_ead8f5b4.jpg?itok=kVlaTEII&v=1615549481",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "publishedDateTime": "2021-03-13T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-ai-natural-language-processing-and-the-battle-for-unstructured-data.md",
       "title": "AI: Natural Language Processing and the Battle for Unstructured Data",
       "excerpt": "Increasingly banks are turning to the field of natural language processing (NLP) and machine learning to extract valuable information from voice, documents, and audio to boost productivity on trading desks. It’s all part of a broader push to gain ...",
@@ -1336,102 +1431,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-the-cambrian-ai-landscape-qualcomm.md",
-      "title": "The Cambrian AI Landscape: Qualcomm",
-      "excerpt": "One should expect Qualcomm to produce a highly efficient platform for AI, given the company’s historical strengths in mobile, and the company’s first AI platform does not disappoint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604106b73e13adf76daf14ee%2F0x0.jpg",
-          "width": 864,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
-      "publishedDateTime": "2021-03-04T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-speech-recognition-a-new-way-of-working-for-legal-professionals.md",
-      "title": "Speech recognition: a new way of working for legal professionals",
-      "excerpt": "The time is right for legal professionals to revisit their use of cloud based speech recognition solutions, to ensure they are using the most productive, cost-efficient, services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
-      "originalUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png",
-          "width": 485,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lawyer",
-        "domain": "thelawyer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

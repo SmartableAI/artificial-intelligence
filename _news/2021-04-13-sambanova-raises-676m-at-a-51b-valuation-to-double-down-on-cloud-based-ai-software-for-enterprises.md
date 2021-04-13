@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valua
 ampWebUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"

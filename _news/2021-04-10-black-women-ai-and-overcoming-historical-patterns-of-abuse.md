@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-pat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 52
     images:
       - url: "https://www.ajc.com/resizer/K0bD-0OzEiV8RMdqs8G2jqEGRaE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/U5CDU6EQVZH2PGLIXXW32Z3324.JPG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Building a Bridge Between AI and Law"
-    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
-    publishedDateTime: 2021-04-08T23:26:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 39
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
         width: 1200
         height: 630
         isCached: true

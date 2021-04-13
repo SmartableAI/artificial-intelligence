@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
+    excerpt: "By leveraging the TensorFlow platform developers can use familiar tools to build and test machine learning models, and then deploy them globally onto Cloudflare’s edge network. “Cloudflare Workers is one of the fastest and most widely adopted edge ..."
+    publishedDateTime: 2021-04-13T17:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cloudera Collaborates with NVIDIA to Accelerate Data Analytics and AI in the Cloud"
     excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP, allowing organizations to support HPC, AI, and data science needs – from research to production – with a secure, scalable, and open platform for machine learning. “At a time when speed is ..."
     publishedDateTime: 2021-04-12T17:15:00Z

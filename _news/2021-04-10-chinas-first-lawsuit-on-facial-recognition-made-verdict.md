@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
-    excerpt: "When the zoo refused, Guo sued for breach of contract. “The purpose of the lawsuit is not to get compensation but to fight the abuse of facial recognition,” he told the Southern Metropolis Daily at the time. . The court, however, refused to recognise ..."
-    publishedDateTime: 2021-04-12T13:30:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
+  - title: "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person"
+    excerpt: "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ..."
+    publishedDateTime: 2021-04-13T16:21:00Z
+    webUrl: "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person"
+    ampWebUrl: "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 46
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 56
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/12/d06ea7ed-9ccb-4911-92d3-1a0901a8271d_2af53877.jpg?itok=s5Yl5m1Z&v=1618219411"
-        width: 1200
-        height: 630
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
-    excerpt: "SCMP A court in Hangzhou made its final judgment in China’s first-ever lawsuit over the use of facial recognition after both parties filed for appeal, upholding its original judgment and ordering additional data to be deleted."
-    publishedDateTime: 2021-04-13T05:39:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/13/chinas-first-facial-recognition-lawsuit-comes-to-an-end-with-new-ruling-and-new-questions-about-the-fate-of-individuals-data"
+  - title: "Man Sues Detroit Police for Arrest After Faulty Face Recognition"
+    excerpt: "A man is suing Detroit police for wrongfully arresting him based on a faulty match by facial recognition technology."
+    publishedDateTime: 2021-04-13T17:39:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/man-sues-detroit-police-for-arrest-after-faulty-face-recognition"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 0
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/13/1111776.jpg"
-        width: 1240
-        height: 697
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/42416e7/2147483647/crop/3000x1153%2B0%2B14/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fb9%2F01%2Fc59cf04143fbbdb5f9aff753de56%2Fgettyimages-485280467.jpg"
+        width: 960
+        height: 369
         isCached: true
 
 secured: "y7NdbSE9dlbOPmeajQGPelkmJRXBiayWFvcj1ePhqi3ga2lIHUsr6yi6x6tvebDZ4kUsFdw8lk1XfZE+71J1d3NvWL8eYPqhTR/lR8xf4Xl8X3XtIplcNkishHadkuhR2cdXFINpg9kAUC3LSg/QyVedprJwx4wz38+3w0jK/90j+KJAXWZC8UN8xncBH9WLfjzShBj+VvUL3c66tR9vSEw2DWrSlPwMs61S9KXiCRIEnLsmRA5339OOubI3bahG7cXw2J/9SYDhk/QxFxCsk+feDEq1/4G6cHgXQQMp5MkBqi2Pl9+PxnbrHoWAkA+cW8/6bO6MWEu69VcbNzfijYVHqZ+U0WgPE7FD/Ty2Ge49KA4zi2IrN92ksUN7yP1Ny6DLwB/cdUA7Vqe9Osa3A/SMruGbDSHskKeScXHYbFcstTiNiZnRSd08JxWPX8S4+5p7sbz+jSfNsh0mJ2dx9AC0A37zt89PjHxcpqcQQTI+s+291CBemBI+WahHR6Gi4vAi0TVudbnuiN/m4FSm+w==;bQ+t0EiNZLqsH19+FFvnyQ=="

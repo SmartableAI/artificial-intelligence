@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-12-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
+      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
+      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx",
+      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i4.progressivedigitalmedia.com/3/2017-08-09-10-03-19958918_1672264276138920_2939318213788909041_n_cropped_90.jpg",
+          "width": 424,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just-Food",
+        "domain": "just-food.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-artificial-intelligence-can-accelerate-clinical-diagnosis-of-fragile-x-syndrome.md",
+      "title": "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome",
+      "excerpt": "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile X syndrome, the most common inherited cause of intellectual disability and autism,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/chromosome.jpg",
+          "width": 1920,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
+      "publishedDateTime": "2021-04-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-meet-the-xenobots-living-biological-machines-that-could-revolutionize-robotics.md",
+      "title": "Meet the Xenobots: Living, biological machines that could revolutionize robotics",
+      "excerpt": "“We could program the living robots to sense pollutants, and hopefully to seek them out and destroy them. Once they finish their job, they [could then] break down harmlessly in the environment, [without leaving] any artificial waste behind.” The longer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/",
+      "originalUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/xenobots-tufts-university-biological-robots/?amp",
+      "publishedDateTime": "2021-04-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-varian-and-google-to-co-develop-ai-based-cancer-diagnostic-platform.md",
+      "title": "Varian and Google to co-develop AI-based cancer diagnostic platform",
+      "excerpt": "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic ... must be targeted or protected during a course of radiation therapy. Additionally, Varian will leverage Google’s NAS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608210084/itpro/medical_images_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359183/varian-and-google-to-co-develop-ai-based-cancer?amp",
+      "publishedDateTime": "2021-04-12T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-how-ai-could-upgrade-brain-stimulation-therapies.md",
       "title": "How AI Could Upgrade Brain Stimulation Therapies",
       "excerpt": "Some scientists are even using advanced AI predictive technology to enhance their brain stimulation therapy methods. The idea of brain stimulation is not new and carries with it the cultural ...",
@@ -101,6 +282,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion.md",
+      "title": "Microsoft Buys Speech Recognition-Firm That Helped Build Apple’s Siri For $19.7 Billion",
+      "excerpt": "Microsoft plans to use Nuance’s speech recognition and transcribing tools to expand on its health care tech ambitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60741ca1c89a945e7b608580%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2092%26cropY1%3D110%26cropY2%3D1286",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
+      "publishedDateTime": "2021-04-12T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -363,7 +597,7 @@
       "originalUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -761,7 +995,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -993,269 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
-      "title": "Black women, AI, and overcoming historical patterns of abuse",
-      "excerpt": "Join us for the world’s leading event about accelerating enterprise transformation with AI and Data Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "originalUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "publishedDateTime": "2021-04-10T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-this-tech-dinosaur-just-took-a-game-changing-step-in-healthcare.md",
-      "title": "This Tech Dinosaur Just Took a Game-Changing Step in Healthcare",
-      "excerpt": "Tech giants like Microsoft ( NASDAQ:MSFT) and Alphabet ( NASDAQ:GOOG)( NASDAQ:GOOGL) have been racing to build useful quantum computers, but IBM ( NYSE:IBM) just signed a partnership that could vault it to the top of the pack in the healthcare space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620696%2Fgettyimages-1200558976.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/10/this-tech-dinosaur-just-took-a-game-changing-step/",
-      "publishedDateTime": "2021-04-10T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-adventures-with-ai-can-computer-vision-and-gpt-3-get-me-fit.md",
-      "title": "Adventures with AI: Can computer vision and GPT-3 get me fit?",
-      "excerpt": "Jeremy offers video workouts on the fitness app Kemtai. As you train in front of your laptop’s webcam, computer vision monitors over 40 points on your body. The virtual trainers use this ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
-      "originalUrl": "https://thenextweb.com/news/ai-workout-routine-fitness-gym-computer-vision-gpt-3-kemtai-exercise-virtual-personal-trainer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FUntitled-design-2021-04-09T161109.248.png&signature=a95f03b772890831983c075843236ba5",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
-      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
-      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat",
-      "originalUrl": "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbleepfeat.jpg&signature=27601ecd00812c157d5a630250b44201",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-robo-taxi-company-waymo-now-has-two-ceos.md",
-      "title": "Robo-taxi company Waymo now has two CEOs",
-      "excerpt": "Pronouns: He/him Tristan covers human-centric artificial intelligence advances, politics, queer stuff, cannabis, and gaming. Pronouns: He/him Take me to your leader(s). Waymo CEO John Krafcik ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
-      "originalUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F06%2FwaymoIO.jpg&signature=7c220beffc9bb52ed7fef89e89d73392",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

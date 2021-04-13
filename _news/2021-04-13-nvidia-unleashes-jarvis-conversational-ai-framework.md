@@ -233,6 +233,20 @@ related:
         width: 2000
         height: 1250
         isCached: true
+  - title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
+    excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
+    publishedDateTime: 2021-04-13T16:32:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-rolls-out-slew-new-ai-hardware-data-centers"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 39
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx%20superpod%20supercomputer.jpg"
+        width: 1420
+        height: 747
+        isCached: true
   - title: "NVIDIA Launches Grace CPU to Bring Arm Efficiency to Massive AI Workloads"
     excerpt: "For now, the battle is being waged at the very top of the HPC market, as Grace is designed for AI supercomputing involving enormous ... we’ll be able to deliver advanced scientific research using high-fidelity 3D simulations and analytics with data ..."
     publishedDateTime: 2021-04-12T16:24:00Z
@@ -256,6 +270,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "NVIDIA Announces Availability of Jarvis Interactive Conversational AI Framework"
+    excerpt: "and new text-to-speech capabilities to create expressive conversational AI agents. Utilizing GPU acceleration, the end-to-end speech pipeline can be run in under 100 milliseconds — listening, understanding and generating a response faster than the blink ..."
+    publishedDateTime: 2021-04-12T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-consumer-products-and-services-55ffd82a715097935ab7069c055a2d0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Building a Bridge Between AI and Law"
-    excerpt: "In January 2020, Microsoft president Brad Smith, speaking at the World Economic Forum said, “We should not wait for the technology to mature before we start to put principles, and ethics, and even rules in place to govern AI.” A host of questions ..."
-    publishedDateTime: 2021-04-08T23:26:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-bridge-between-ai-and-law.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 39
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-bridge-between-ai-and-law-1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The perils of artificial intelligence"
     excerpt: "AI is generally seen as objective, clever and a feat of humanity. But for Professor Kate Crawford, it is far from neutral and is increasingly impacting on people and the environment."
     publishedDateTime: 2021-04-13T07:44:00Z

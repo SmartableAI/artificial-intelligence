@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-10T14:00:00Z
-    webUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence in Security Market to See Major Growth by 2026 | Amazon, Intel, Micron"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Security Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and"
     publishedDateTime: 2021-04-13T09:11:00Z
@@ -85,17 +71,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
-    excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
-    publishedDateTime: 2021-04-10T10:58:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm"
-    ampWebUrl: "https://futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
   - title: "Natural Language Understanding (NLU) Market May Set New Growth Story | IBM, A.S. Watson Group, Nuance Communications"
     excerpt: "Latest released the research study on Natural Language Understanding NLU Market offers a detailed overview of the factors influencing the global business scope Natural Language Understanding NLU Market research report shows the latest market insights current situation analysis with upcoming"
     publishedDateTime: 2021-04-09T03:23:00Z

@@ -26,22 +26,6 @@ images:
     height: 677
     isCached: true
 
-related:
-  - title: "SPS’ Music Education program receives national recognition"
-    excerpt: "Significantly, listening skills are closely tied to the ability to: perceive speech in a noisy background, pay attention, and keep sounds in memory. Later in life, individuals who took music lessons as children show stronger neural processing of sound ..."
-    publishedDateTime: 2021-04-09T00:14:00Z
-    webUrl: "https://www.stwnewspress.com/community/sps-music-education-program-receives-national-recognition/article_99752be0-98c8-11eb-8f86-c3e8275f1a69.html"
-    type: article
-    provider:
-      name: Stillwater News Press
-      domain: stwnewspress.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stwnewspress.com/content/tncms/custom/image/ed40d3f4-da92-11e5-b374-2f6043526515.jpg"
-        width: 1008
-        height: 432
-        isCached: true
-
 secured: "VnA9lJw8zXd+2T8dAwe1pPVcL3OJbKAANNvaIl17IEExUU/WT+r5C8EU3f98OZGvVhx2kGsetTH5zLEiFdE3gaL0uk2Kd/dJkPGQRdlPl6QxMKbkVmqBtmQVi7IpP640lfnBma03LbRJqMnyS3p2yty1/HsfE22fdAr1s0h/Abnezs2BcVPv8JVsbHZgnrX9yFC48Hhk3xnjJARf3vrhUsvVYsEac9BicPeRKXakp6mpJS6TnU23qfSQZpcAv6G7GzdFodUCMSTY9nL1+p5umtLyW+4k4eyBsZUsqOjS2KXPGUxmOvCUowb291mr3nDoQ6nVsPScXBE39+6GdMEocjxgDMn7YHOsg2QpLMBmC7ACLbltkvYtJ9n5KLrfmhW69KMG7nCp5xONSU0YGyfgRW0a9RTypjFDlk+c5xZlkb4l9X8d9D5RDjuwniYQ9SiZ8PA9OEpwDIEcE0IvoCxqkufuh3Ika9Tr5ipEF/0GnDB3RrLsIwGIdszDD1aq01sII+srgIgooOkpFZPabWFC7w==;hQn8EUc8Tcc3/aIQOfZCtQ=="
 ---
 

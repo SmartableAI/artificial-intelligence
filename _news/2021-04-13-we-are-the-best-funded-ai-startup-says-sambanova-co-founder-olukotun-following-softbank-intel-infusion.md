@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "SoftBank Leads $220 Million Funding for AI Home Gym Maker Tempo"
+    excerpt: "The fresh capital will be invested in enhancing Tempo’s AI and motion-tracking technology used to provide real-time feedback. Steadfast Capital, General Catalyst, Norwest Venture Partners, DCM and Bling Capital also participated in the latest round."
+    publishedDateTime: 2021-04-13T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/softbank-leads-220-million-funding-for-ai-home-gym-maker-tempo"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG7W1Plw6BCY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SoftBank Vision Fund 2 accelerates its AI startup investments after rocky start"
     excerpt: "But SoftBank struggled to find outside investors for the AI-focused Vision Fund 2 due to the fund's chaotic management and SoftBank's growing problems, including losses on its WeWork and Uber ..."
     publishedDateTime: 2021-04-10T15:51:00Z

@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 938
         isCached: true
-  - title: "Tech Giants Enter Their Chips in the Race for Self-driving Cars"
-    excerpt: "ADAS innovation happens at the chip level. Here are the big-name players honing in on autonomous SoCs to advance the possibility of self-driving cars. ADAS and other autonomous driving technologies can apply automatic braking, park your car, adapt cruise ..."
-    publishedDateTime: 2021-04-09T00:13:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/tech-giants-enter-chips-race-self-driving-cars/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 24
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Waymo.jpg"
-        width: 700
-        height: 285
-        isCached: true
 
 secured: "S+lvUR1uMdpU/gVeWN+Q9q/scCHltP39EEEcRFnz7SU0Ikl7bJfp9gfB5jLaYn62SVreHLO+9Ha91LCl4URZ4w1v26Ux5ezcOG9YaRZxB+h8JUKuPA46qfXwN57Gxfd+xP3mIjVzhRpV4TVSMqF05qaDyUo1uIMj1OaoGho9puzA2fIN2RPNrAXqobwuVtsCSR404M2X6aTFRPQCrVTRBL+N00x6PmvbjpIMvFqc0U6u9klcut9ui+IypLlYJ7nwI0us0WmBWUK6DZSI9vkcw5+9dSxc4HRYDjnSaibWJYBo5oD5BwOJvM8bhiHt8f310FOgdT2ofqod/IOvUdok4KIISt32tEN4RRa/EOJLv/CdSf1BEM1I2AKJzjVjingorf7uPlV3V1hbzY0wZSw8WUAiwd3++Nsl8yQJaIiFNGN1wwxsgCyrFxB+29XFEsEbUJ06sTz45RheZaOGh0xTFwodtVlCwhfSeCTyL1h3E9cVOjRUJAAuJourtKmSIY2MbTcjBOk1nH1s5rrI9ADmRg==;8PRduVNordAvf5dg4bb3MA=="
 ---

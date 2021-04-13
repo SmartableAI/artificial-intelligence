@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-13T14:01:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/04/210412142730.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/04/210412142730.htm"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy"

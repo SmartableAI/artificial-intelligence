@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "SAFR facial recognition integrated with Geutebrück G-Core VMS for security monitoring"
+    excerpt: "RealNetworks has integrated its SAFR facial recognition solution for live videos into Geutebrück’s G-Core Video Management System (VMS) for an AI-powered experience which the companies say provides time-saving and efficient advanced video analytics for ..."
+    publishedDateTime: 2021-04-13T17:24:00Z
+    webUrl: "https://www.biometricupdate.com/202104/safr-facial-recognition-integrated-with-geutebruck-g-core-vms-for-security-monitoring"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Industry leading SAFR facial recognition for live video integrated with Geutebrück VMS"
     excerpt: "SAFR from RealNetworks, Inc. (NASDAQ: RNWK) today announced that its SAFR facial recognition system for live video is now integrated with the Geutebrück G-Core VMS (Video Management System). SAFR for Geutebrück is an AI layer that runs on top of the G-Core VMS which provides advanced video analytics that save time and increase efficiency of surveillance operations."
     publishedDateTime: 2021-04-13T15:54:00Z

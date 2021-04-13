@@ -57,6 +57,22 @@ related:
         width: 936
         height: 446
         isCached: true
+  - title: "Financial regulators must keep up with the evolution of fintech"
+    excerpt: "In 2009, in the midst of the global financial crisis, Paul Volcker, the former Federal Reserve chair, famously observed that the only socially productive financial innovation of the preceding 20 years was the automated teller machine (ATM)."
+    publishedDateTime: 2021-04-13T16:19:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech-11618330378503.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/04/13/600x338/UPIPay_1579504433616_1618330550206.PNG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "D/IhAG5FMFOy8YWTLl9TEqNrE/QJpBxSSyIm7zF3klvMXVDb+/L8TCLCx/ufUK57uTFkEl1bwXRb4rI828kjNLNBizE/1hT4efmaElvgkXwhky9aTagF2R+coLv4TcVvBD8dzTfGvioelQC5ZceGZTe/9YoIP+hmlEfc6ZuHhZn+aZhHglQYTVI/Z7t0BGwtBaxYaQ0xlQ5r1wapOXZVjaBWcWCP26NnfkOF1f4dwpkyOjMLQzTrZMAQTs3Iln4yJXyUM5kfED5jMgOZkQnONDdiMdAJdXljD5ifMcLEsOoFIqPYo83JkCOghlp4pI1A4eG0O7Ori5SG1DWjWgth65iEry/Gah+yjJA91ocmgSiHse06BLs7qqm8VRnMk+smffZa1dbU+9yhcLzW6gO0OVDa3YdMVS9F32G4Tvc3hDQQP4GACsAyEyhhMoTYwhy5TGNWZ+fMDACw79Z7lF9VQJviwZf/3YkPJpHlBWvTYpk8v1V1cAll4KOP683qggu5Z977cuAeIlHdrySuVv0c6A==;f59YcKDKLqP7RJec6xxgug=="
 ---

@@ -137,6 +137,15 @@ related:
         width: 1000
         height: 704
         isCached: true
+  - title: "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023"
+    excerpt: "Udelv and Mobileye said that the autonomous vans, which Udelv calls Transporters, will be powered by the Mobileye Drive self-driving system and will begin operation in 2023. Udelv expects to build more than 35,"
+    publishedDateTime: 2021-04-12T15:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023-2021-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
 
 secured: "v5C4CeF3O3SgYbcQRpHrToA1rX4DzjFuLnOAy7DCZXG73nqDstObmCGRfKiFuYdT9neNfrxxDquV9mrrylvZjH4OdckQ0I94tyo2fnALzODfwGabYC/DXsdKdkFU4JliDmSA7LtE5kXgcf2QDZqeVszph5EPaLkORVv/97V2n/QsrqWPBPB+OOa5cSjMyqLsTzhTBOvVgmtRXn3FQTqcE8r5vRv5xO+FXTfw1wYOiXY8ZTbIriS8UW7C5c+2ahg5yoF1rpaguhTRyaG4QSxpqwmQNPRrrzyXgctnMlhoah6n2w/W2Mqcvsy7x4BzSGvqvBB5RTr1QSxCkivSiRU9waL5dTeLzK0eS/3//A2P3m6MyB+pt7225wQaaonX5PJOVnUB01zl/djGiLl9Mpk0cqImpchkzMGZIXVA7vFbvYelUILs6TviDyblchprcT3fIYkYZjqVIF18ySGXKJugtCoa47LhqZMCmw0OQfkyFX5Cvk64QSauGjpohIWphG5QcPfKMeyStpvZJkT0gSG/IA==;jn4F6BAshLBZf9UtgGhwfQ=="
 ---

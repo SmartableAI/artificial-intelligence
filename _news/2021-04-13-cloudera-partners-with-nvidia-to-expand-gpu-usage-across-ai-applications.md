@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-exp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/"
 type: article
 quality: 103
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
+    excerpt: "By leveraging the TensorFlow platform developers can use familiar tools to build and test machine learning models, and then deploy them globally onto Cloudflare’s edge network. “Cloudflare Workers is one of the fastest and most widely adopted edge ..."
+    publishedDateTime: 2021-04-13T17:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Bulk Data Centers Accelerating AI and HPC with NVIDIA DGX-Ready Data Centers"
     excerpt: "Bulk’s collaboration with NVIDIA brings the world’s most powerful AI system to 100% clean energy, state-of-the-art data center facilities in the Nordics. Bulk is fast becoming the leading provider of HPC and AI colocation services in the Nordics and ..."
