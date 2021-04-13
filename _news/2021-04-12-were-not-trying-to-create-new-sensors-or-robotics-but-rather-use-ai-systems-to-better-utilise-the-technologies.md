@@ -138,22 +138,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain says some of its customers will be able to choose to have their pizza ..."
-    publishedDateTime: 2021-04-12T19:42:00Z
-    webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "All about Artificial Intelligence"
     excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
     publishedDateTime: 2021-04-09T07:13:00Z

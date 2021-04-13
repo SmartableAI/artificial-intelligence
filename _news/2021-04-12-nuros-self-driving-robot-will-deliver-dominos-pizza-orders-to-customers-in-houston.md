@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/7391618243334/2021/1/16182442209319/v1.5/Dominos-Pizza-to-test-R2-self-driving-delivery-car-in-Houston.jpg"
         width: 624
         height: 415
+        isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://www.wvtm13.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wvtm13-com.cdn.ampproject.org/c/s/www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: WVTM 13
+      domain: wvtm13.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
     excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."

@@ -57,20 +57,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "India piloting Aadhaar-based facial recognition for COVID-19 vaccinations"
-    excerpt: "The Indian government is piloting a Aadhaar-based facial recognition system for COVID-19 vaccinations, RS Sharma, chief executive officer of the National Health Authority told The Print. The pilot is being carried out in Jharkhand, which is reporting over ..."
-    publishedDateTime: 2021-04-08T07:16:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-aadhaar-covid-vaccine-facial-recognition/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 38
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/12/Vaccine-syringe-Covid19-1.jpg.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "COVID-19 vaccination drive to go contactless with Aadhaar-based face recognition: All you need to know"
     excerpt: "India is looking at adding Aadhaar-based facial recognition in an effort to make its COVID-19 vaccination procedure contactless. The Unique Identity Authority of India (UIDAI) has already started a pilot project in Jharkhand to test the efficacy of the ..."
     publishedDateTime: 2021-04-08T09:51:00Z

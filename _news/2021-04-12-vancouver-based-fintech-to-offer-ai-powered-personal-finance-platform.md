@@ -61,22 +61,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "How fintech boosts the progress of the MSME sector"
-    excerpt: "These AI-enabled services may also help on the simplest of queries like MSME full form. The primary function of fintech is to simplify the entire process of fact-finding. It is not just limited to MSME loans. Fintech companies help MSME owners in filing ..."
-    publishedDateTime: 2021-04-08T08:41:00Z
-    webUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/how-fintech-boosts-the-progress-of-the-msme-sector-101617871111634-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/04/08/1600x900/Ziploan_HT_1617871219657_1617871224708.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Why PayPal Is Winning The Fintech War"
     excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
     publishedDateTime: 2021-04-10T16:09:00Z

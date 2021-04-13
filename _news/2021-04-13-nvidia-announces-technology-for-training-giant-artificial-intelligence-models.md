@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
 type: article
 quality: 99
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607475a5a82d88e6bcfe3ed8%2F0x0.jpg"
         width: 1200
         height: 776
+        isCached: true
+  - title: "Nvidia launches TAO, an enterprise workflow for AI development"
+    excerpt: "Users include companies like Accenture, BMW and Siemens Industrial. “AI is the most powerful new technology of our time, but it’s been a force that’s hard to harness for many enterprises ..."
+    publishedDateTime: 2021-04-13T00:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
     excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
@@ -217,7 +233,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Nvidia Announces DRIVE Atlan, its Most Powerful Autonomous Vehicle Processor With 1,000 TOPS of Compute Power"
+    excerpt: "During today’s opening keynote of the annual GTC Technology Conference, NVIDIA founder and CEO Jensen Huang unveiled NVIDIA DRIVE Atlan, the upcoming generation of its AI-powered compute platform for autonomous vehicles."
+    publishedDateTime: 2021-04-12T23:00:00Z
+    webUrl: "https://www.futurecar.com/4545/Nvidia-Announces-DRIVE-Atlan,-its-Most-Powerful-Autonomous-Vehicle-Processor-With-1,000-TOPS-of-Compute-Power"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 3
+    images:
+      - url: "https://img.futurecar.com/202104/12/l_6074d5ab6894a.jpeg"
+        width: 700
+        height: 393
+        isCached: true
 
-secured: "By5tC08DwurexY/RjvMfrA3DNTE+8wrwMO9moBMCT7OJKeJIRdybsKjyBo+ql41sRlR6sjCqkv3FRQEVlmmSG90EJj5x8fCUQLd732P8NZiFBeQbjIDz47pfRoJyZmmx0F+DP3FqUkdFMm0eONWz/Gst2yEImz/j63zgFCd7QIokcSiOSTy9whDKktzkOKp5AjDo7RtVKot3nx0suLGK1ebNNSSINuCMNEx5Fx85yX61eKOTVYzc9/yk7sywJFeoePVQosbxOXuEDE1TVOOWk+zwHA24cNIUVxiE1D80QjQBPGklf3Iq/90QemjbdKhka1H6cxybBLY62gjd+0ppw0UCmI3b2tNGI9Z01QGILxs=;WvNn64/q5up/t+YfMtpgFA=="
+secured: "nhsa/T9tW7oBRZAlyQe4ZQgFvx1dL9Dbnv5CCiIhF8XUKBHzcCIb/1PbtEJNOyBuVHqGGoN/6zyMSbf+RdkBB2gfEdXiwXU1YfsJEU1ACE2yZZRsS6wLhpaoeamfwNby8PZ7Lk9eVFKYFCs3VE+TRuUpbK00aHllzdj0+15m6Jg8R3/qaqi46sitMgADgwxlLeGlkPDbnmOxrK79e1uy9OjYfMAgnvWcOi/h51R6TzxvGrzDChvY4B+aOfa5/syGfMk5B0LH8lR4ABqdrSlJKmgGoWyKM0zVRyaOQ/F1K5q9bO578Pr09cp2sK7T03BK9CTUbzsw/am3ESfXMSSetJEe4dptLJjpeVjMzn18ts72gjsc822eNC8xlALO6Io82TTwmuyzIeMRM9zEghrpsNo8K0ZTvttSsoVdrY8irNR4p50G1ABor+2wdtpC3iSAmEpFHMd7iL7/Z6ZdqcG3jIOmlFcMqkOgJ8WyDB2ptDPV6mwyFb8n2HUPFSOLwImuWTDShNAyPbgfpldW73Qfng==;TsuoN0nRlEt3JSLs1vSjuQ=="
 ---
 

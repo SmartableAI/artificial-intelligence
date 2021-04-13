@@ -53,20 +53,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "India piloting Aadhaar-based facial recognition for COVID-19 vaccinations"
-    excerpt: "The Indian government is piloting a Aadhaar-based facial recognition system for COVID-19 vaccinations, RS Sharma, chief executive officer of the National Health Authority told The Print. The pilot is being carried out in Jharkhand, which is reporting over ..."
-    publishedDateTime: 2021-04-08T07:16:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-aadhaar-covid-vaccine-facial-recognition/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 38
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/12/Vaccine-syringe-Covid19-1.jpg.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Malaysia proposes reciprocal COVID-19 vaccine certificate recognition among D-8 member states"
     excerpt: "Malaysia on Thursday proposed to the D-8 Organisation for Economic Cooperation (D-8) the possibility of having Reciprocal COVID-19 Vaccine Certificate Recognition among D-8 member states to speed up the reopening of hardest-hit sectors."
     publishedDateTime: 2021-04-08T13:28:00Z

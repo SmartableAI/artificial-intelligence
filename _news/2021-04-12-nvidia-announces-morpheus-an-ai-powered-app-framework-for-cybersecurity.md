@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Nvidia launches TAO, an enterprise workflow for AI development"
+    excerpt: "Users include companies like Accenture, BMW and Siemens Industrial. “AI is the most powerful new technology of our time, but it’s been a force that’s hard to harness for many enterprises ..."
+    publishedDateTime: 2021-04-13T00:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NVIDIA unleashes Jarvis conversational AI framework"
     excerpt: "real-time translations for multiple languages and new text-to-speech capabilities to create expressive conversational AI agents. The new offering was trained over several million GPU hours on over ..."
     publishedDateTime: 2021-04-12T22:32:00Z
@@ -216,6 +232,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Nvidia Announces DRIVE Atlan, its Most Powerful Autonomous Vehicle Processor With 1,000 TOPS of Compute Power"
+    excerpt: "During today’s opening keynote of the annual GTC Technology Conference, NVIDIA founder and CEO Jensen Huang unveiled NVIDIA DRIVE Atlan, the upcoming generation of its AI-powered compute platform for autonomous vehicles."
+    publishedDateTime: 2021-04-12T23:00:00Z
+    webUrl: "https://www.futurecar.com/4545/Nvidia-Announces-DRIVE-Atlan,-its-Most-Powerful-Autonomous-Vehicle-Processor-With-1,000-TOPS-of-Compute-Power"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 3
+    images:
+      - url: "https://img.futurecar.com/202104/12/l_6074d5ab6894a.jpeg"
+        width: 700
+        height: 393
         isCached: true
 
 secured: "IISC+PmBureVM57OYf6Hunby450P47QqZAMRQ8NtH//xj+fPQllQLW3Utpl7DnSbMUcw0ayeIeHHyip+ElAAdpCEfGboSaQpXZZ3d154ik4Z0HsOYahcisra/UQhe7I006jOXvGl41xoP3tv3DpIGpBfmkNRVC+fx4jFHespPqUNnb9TXdr3M1/19OF5Yqeg14MztvAB2JoRv8IkCl0AkdUdmu1wrFjGPqoOg5KR1G2KAaZX3N+KtJc1roaE9C4Ps88f7WlomTODnbdtSh3mEt62cRVuIkWw8nYQiVwvk2CZvXRDQRW4jbUcwtWimV7b10YS1+uvKa1cmXI99bu90ao3upcpLUic8mclXYLJpmc=;Egjn3L90krXIG3Fbd0b+4g=="
