@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion Microsoft, on an accelerated growth push, is buying speech recognition ..."
-publishedDateTime: 2021-04-12T22:43:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-webUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
+excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
+publishedDateTime: 2021-04-13T15:47:00Z
+originalUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
 type: article
-quality: 76
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_211b41a5959f4f41a651c82c36bcfe06_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
@@ -586,6 +580,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 75
+  - title: "Expect an even hotter AI venture capital market in the wake of the Microsoft-Nuance deal"
+    excerpt: "Microsoft’s huge purchase of healthtech AI company Nuance led the technology news cycle this week. The $19.7 billion transaction is Microsoft’s second-largest to date, only beaten by its ..."
+    publishedDateTime: 2021-04-13T15:40:00Z
+    webUrl: "https://techcrunch.com/2021/04/13/expect-an-even-hotter-ai-venture-capital-market-in-the-wake-of-the-microsoft-nuance-deal/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533"
+        width: 533
+        height: 400
+        isCached: true
   - title: "Microsoft Announces Purchase Of Nuance AI Speech Firm For $19.7 Billion"
     excerpt: "According to Microsoft’s blog post, the transaction has been approved by the Board of Directors of both companies and is expected to close by the end of the year."
     publishedDateTime: 2021-04-12T16:11:00Z
@@ -1346,6 +1354,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "/GDODsLJKZpoV3l48pfCIuh5MIvIY9JlhtcM0fZooFCTD+qS9Hss6ti4P7h4nh4qoHxJIGeFaqyrBbKHtH8RZSWTMuoivkUBmmZFgo+tslmsl5oIj5zZzd/c/9ivY7NaIdwONq/9i5NTRzEGVimwJErir9CzqtqzgwNQGrlOGkVwFKMQGmjMWlZ50doSEYieYUmU0xlJFsuKCvglizx4lpuMKEZhDpGdKi6IwQJ0C0g7nb3g71NgbAjMCEksIJb78s9x4Sj1I5FQrc9lPj0HCvEJVMTTFBUmf39c6zcIqXRXDmOktqYUma3faUw60qXQqWCEVQKL8xdI25WwvgJl5iK/pfa6otW1jD2VbEOdhCIPuwZcuZ2VwRTX9FnHGSOs71mfZZKs+waxop2ihD45sJKE9vkvdhZ4reiLwjRmmMk9niScl/3cr6TiLUL7B8H8ShZRoLoiXczZfYW/Tc6O609rGcHe0HlXxejpGb+A3N6ndVmyZnFEbGN2qeArv56c4eIv2GjaSFHmroyrv2Bf9Q==;/sPhnhXY8EIhsCuOmlPjEQ=="
+secured: "vIVpYrCvw77WUkmGzybEvvaSYLO5Wgjq0o77x32ZtFwJ4lHgsqt7Y3FY7rrNBVJNeK+mAvtaYtWYQCuVv5BjOVr5DdXpqnPDgdk0y6YVTznI4Ouosaq4QpAk38RH76GfH5rUUeOiv7KFbL94kfi9kU2dsfCn0aahETK2TXBXiR7NvWHLOdq7IecA6F9Khbmn+qQnIiSNdQBL2hR2vOAt5r4XctLvI9V9As3S8inGK14K2hJiEXmfv9O0IOn/ffJ1uQ8nZuL7TAbw/qasDjM8CgsY6P/rVqEV5KR5RtnihqIqT8bK4FkWu6PIs/7oQJMNBOBDvLeFFrgeGaJFVfeXUlxxGy1rf1vlgdShH6vNLCsIqV7WdA5ymZ2De84SWaU7s/yw6AG3ENbxqrgkSAjwntSqUaWO6lDKAXEPHTLGkkOQn17p1iWCOS35miRasqCwHEc11UAFl8S3S9lnutOSpyrP0W/SG2GhIBre5dQ9r/KpGwfk48XDJnW3aMsxsQT6CGiJjQ6p5lBro1my8uWziw==;7dHo03OZnzJUF1/X1ZXf9g=="
 ---
 

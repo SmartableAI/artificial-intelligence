@@ -39,6 +39,20 @@ related:
         width: 1140
         height: 760
         isCached: true
+  - title: "Juniper predicts 1.4 billion software-based face biometric payments users by 2025"
+    excerpt: "While face biometrics use for payments is rising, in 2025 the technology will be in 17 percent of biometrically equipped phones compared to fingerprint sensors."
+    publishedDateTime: 2021-04-13T19:43:00Z
+    webUrl: "https://www.biometricupdate.com/202104/juniper-predicts-1-4-billion-software-based-face-biometric-payments-users-by-2025"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/03132543/46BCFF71-1A95-432B-A8E3-053985110F06.jpeg"
+        width: 800
+        height: 495
+        isCached: true
 
 secured: "cPDEIJoJCq7w31r9dJ7EuCInUvb1KEsTqnP9UaDJZATkVAkvdyAcD5LdA/9PbRoPwv+bcqiTexUI5BzrTma23W1wesfkkfcujyWAD9ku6Uz41/ch97OpCnKuDJnMX00KfW/zAFLFHLigZSz4eHlkPE1AriMvmimUha0csT4TOOZkprLJ2lNtM0uZzGcCgQtTz9DawtihO2trom0HaJ94yLnyMaSKtzOltt6kwg1jdRmaF/Jr3H2b7SRzyqc6PHIIWCU6gu1hApOjQm4cUgVQem7mu158b1lDqHn7bXrbxDz5DTZJ82jzflJjRQAQFnReaUdxShH9i2/Rrcb4jLNeNwkLCkb7AD4DW+YrxLq3jpU=;LUdEouidm/mYadfIUmsKEA=="
 ---

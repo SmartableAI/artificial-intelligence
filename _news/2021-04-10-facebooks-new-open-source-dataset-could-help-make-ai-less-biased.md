@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake ..."
-    publishedDateTime: 2021-04-09T02:45:00Z
-    webUrl: "https://cnnphilippines.com/business/2021/4/9/Facebook-AI-fairness-data-set.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 39
-    images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2021/4/9/Facebook-dataset_CNNPH.jpg/jcr:content/Facebook-dataset_CNNPH.jpg"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "TGWdhe7yVbPSKcfEmcq9mA87ES8lqnIZBVV6+zWstbjqGgYKwQ1ocHGqvYI6cKx2hQcX5scKpYm2ZClnpN4HALFNMBa0kZKx1hb6iSu+dldDuULj7yCd/P5SCewwFXnvJBkxcfhYDBGUHtYR/dL9IGv7STQbH43F7luve2y8RqMvsBIxBLip68Lh9NFqCnub/j7+jS23HW24l8OUn0T42hTqTmxKsFSVMZTzCdvslqvFIFZAWK5wUv3pDaIm8Ox6PLL/oNJU0mmddaaaG9Sye9c2tLDhW0Bhu78qx6efnpcCnVixyIbbejYC3bgqErZgTCSzJitT/rxEP28VMaZzQ1jzQa/ulRMHN+qE4AnxLpcOWwqNPrG+iEUCHCNgVKjKsKHOKtMLWK3ZXREiDViPXhgUFB1cmoxTfiByjlu4HXXKUQYGz/dlCEqbnKNDa+DcPRmds4daT1cNNbWmz7DvT+9ddLS3bUmPaBTRtLy/VXGzgeD8tLDW/CdJezQVko2/wy7KL/KRVv/GzeR2Dsaemw==;wVQK1hDuml0Lhwgr5n5vLg=="
 ---

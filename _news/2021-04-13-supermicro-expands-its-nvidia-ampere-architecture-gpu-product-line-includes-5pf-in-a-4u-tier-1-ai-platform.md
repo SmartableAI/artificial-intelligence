@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
+    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
+    publishedDateTime: 2021-04-13T18:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
     excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
     publishedDateTime: 2021-04-13T08:15:00Z
@@ -169,6 +178,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
+    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
+    publishedDateTime: 2021-04-13T18:42:00Z
+    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 19
 
 secured: "7zzfFSX2XdXSqcncPk3cHm3w+T2KxSjWiLle9IMhoZGftdOkaI316PP041yEl6oOVl15W54Q/P0b7RIzATYm9YNGDK3TvNPGexus7ftCXDIdCd+oKnIWoyzQNDUU9jRivYfGssP61OTMoTy/BPO7snRmErLTVxpVJzDneVFnchF7lX1FUCbAGoQ0fX7owYEh9ng1yMdtMQit/rtL0Q5+7fowbRTgCgdQcbVPa9pT+cUdd2zc4TM775i9z1781gWpsGocr5b6ECsLKb8JmlebuEhbibxuqZ+9leJRbkjxMyVj0SIAbbjlPxf0+hRQnZFwoCfAdftj8XTqbSqO2Abu1osxkjPFO0GyVK3u/Si4bbw=;Bdc/GOhEBeS8sP0Ja5Dd4g=="

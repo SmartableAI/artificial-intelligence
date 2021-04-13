@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Olive AI software enters operating room through acquisition"
+    excerpt: "Olive AI Inc. is extending its artificial intelligence to the operating room with its second acquisition in five months. The Columbus health IT company has acquired Empiric Health, a Salt Lake City startup whose software hunts for patterns to improve ..."
+    publishedDateTime: 2021-04-13T18:04:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2021/04/13/olive-acquires-intermountain-ai-spinoff-empiric.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "National thought leaders, local employers weigh in on AI acceleration in Louisville"
     excerpt: "\"With every innovation that we're seeing now, we are one step closer to a world where every organization will be an AI-powered organization,\" said Gretchen O'Hara, vice president of U.S. artificial intelligence and sustainability strategy at Microsoft."
     publishedDateTime: 2021-04-09T13:17:00Z

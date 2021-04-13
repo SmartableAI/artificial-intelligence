@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-25-amazon-web-services-debuts-intelligent-services.md",
+      "title": "Amazon Web Services debuts intelligent services",
+      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
+      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
+          "width": 400,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
+      "publishedDateTime": "2021-03-25T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-amazon-and-red-hat-announce-general-availability-of-red-hat-openshift-service-on-aws-rosa.md",
+      "title": "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)",
+      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210324005958/en/Amazon-and-Red-Hat-Announce-General-Availability-of-Red-Hat-OpenShift-Service-on-AWS-ROSA",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005958/en/Amazon-and-Red-Hat-Announce-General-Availability-of-Red-Hat-OpenShift-Service-on-AWS-ROSA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
       "title": "Domo Expands AWS Relationship",
       "excerpt": "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers, a 400-location fast casual restaurant chain, is using data ...",
@@ -1293,102 +1370,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
-      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
-      "originalUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/e750cc282c5a3b7cf7d307fee6b8d38d_M.jpg",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-pdf-document-pre-processing-with-amazon-textract-visuals-detection-and-removal.md",
-      "title": "PDF document pre-processing with Amazon Textract: Visuals detection and removal",
-      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/4-Grayscale.jpg",
-          "width": 800,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T13:30:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

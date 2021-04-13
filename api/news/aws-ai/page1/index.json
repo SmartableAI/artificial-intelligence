@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-protecting-people-from-hazardous-areas-through-virtual-boundaries-with-computer-vision.md",
+      "title": "Protecting people from hazardous areas through virtual boundaries with Computer Vision",
+      "excerpt": "As companies welcome more autonomous robots and other heavy equipment into the workplace, we need to ensure equipment can operate safely around human teammates. In this post, we will show you how to build a virtual boundary with computer vision and AWS DeepLens, the AWS deep learning-enabled video camera",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/31/1-1558-Architecture.jpg",
+          "width": 800,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T11:49:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation.md",
+      "title": "Enable cross-account access for Amazon SageMaker Data Wrangler using AWS Lake Formation",
+      "excerpt": "Amazon SageMaker Data Wrangler is the fastest and easiest way for data scientists to prepare data for machine learning (ML) applications. With Data Wrangler, you can simplify the process of feature engineering and complete each step of the data preparation workflow, including data selection, cleansing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/12/1-Architecture.jpg",
+          "width": 800,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T11:27:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-review-aws-ai-and-machine-learning-stacks-up.md",
       "title": "Review: AWS AI and Machine Learning stacks up",
       "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivalling Google Cloud and Microsoft Azure.",
@@ -1363,83 +1468,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-25T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-amazon-and-red-hat-announce-general-availability-of-red-hat-openshift-service-on-aws-rosa.md",
-      "title": "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210324005958/en/Amazon-and-Red-Hat-Announce-General-Availability-of-Red-Hat-OpenShift-Service-on-AWS-ROSA",
-      "originalUrl": "https://www.businesswire.com/news/home/20210324005958/en/Amazon-and-Red-Hat-Announce-General-Availability-of-Red-Hat-OpenShift-Service-on-AWS-ROSA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

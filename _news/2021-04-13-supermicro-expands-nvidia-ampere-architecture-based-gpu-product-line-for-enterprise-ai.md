@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
+    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
+    publishedDateTime: 2021-04-13T18:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Cloudera Data Platform to integrate with Nvidia's accelerated Apache Spark 3.0 libraries"
     excerpt: "According to Cloudera, the integration will accelerate data pipelines and make it easier to add machine learning workflows to processes. Cloudera Data Platform added Applied Learning Prototypes (AMPs) earlier this year. AMPs often run on Nvidia GPU hardware."
     publishedDateTime: 2021-04-12T15:30:00Z
@@ -160,6 +169,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
+    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
+    publishedDateTime: 2021-04-13T18:42:00Z
+    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 19
   - title: "Supermicro Expands Its Nvidia Ampere Architecture GPU Product Line, Includes 5PF in a 4U Tier 1 AI Platform"
     excerpt: "Server maker Supermicro today announced expansion of its Nvidia Ampere Architecture-based GPU-product line, including achieving 5 petaFLOPS of AI performance in a 4U form factor with the latest NVIDIA A100,"

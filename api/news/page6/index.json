@@ -2,6 +2,188 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
+      "title": "AI helps zap mosquito larvae before they become a problem",
+      "excerpt": "An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to demonstrate how humans can use powerful artificial intelligence technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "originalUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox11online.com/resources/media/27865894-144f-4418-921e-a1cf03f9b238-medium16x9_SprayingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898405947",
+          "width": 648,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "cdnAmpWebUrl": "https://fox11online-com.cdn.ampproject.org/c/s/fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "publishedDateTime": "2021-04-08T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 11 News",
+        "domain": "fox11online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
+      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
+      "excerpt": "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg",
+          "width": 1440,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
+      "publishedDateTime": "2021-04-08T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-virginia-bill-to-put-de-facto-ban-on-facial-recognition-tech.md",
+      "title": "Virginia Bill to Put De Facto Ban on Facial Recognition Tech",
+      "excerpt": "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
+      "originalUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
+          "width": 939,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
+      "publishedDateTime": "2021-04-08T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-the-12-startups-with-ideas-that-seek-to-change-latin-america-through-technology.md",
+      "title": "The 12 startups with ideas that seek to change Latin America through technology",
+      "excerpt": "Microsoft will offer up to $ 120,000 in Azure credits, its cloud storage ... (Argentina): Marketplace that connects local food producers with consumers through machine learning to provide unique and accessible shopping experiences in Latin America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368971",
+      "originalUrl": "https://www.entrepreneur.com/article/368971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617894971-PlatziMainstream-241.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368971",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368971",
+      "publishedDateTime": "2021-04-08T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-artificial-intelligence-ai-market-research-report-growth-forecast-2025.md",
       "title": "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025",
       "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
@@ -1017,216 +1199,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-study-suggests-that-ai-model-selection-might-introduce-bias.md",
-      "title": "Study suggests that AI model selection might introduce bias",
-      "excerpt": "Register for a free or VIP pass today. The past several years have made it clear that AI and machine learning are not a panacea when it comes to fair outcomes. Applying algorithmic solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
-      "originalUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/big-data.shutterstock_350592197.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
-      "publishedDateTime": "2021-04-07T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-education-tech-investments-boom-in-2020-focused-on-ai-solutions.md",
-      "title": "Education tech investments boom in 2020 focused on AI solutions",
-      "excerpt": "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "originalUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
-      "publishedDateTime": "2021-04-07T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-weaviate-is-an-open-source-search-engine-powered-by-ml-vectors-graphs-and-graphql.md",
-      "title": "Weaviate is an open-source search engine powered by ML, vectors, graphs, and GraphQL",
-      "excerpt": "A modular structure enables people to plugin their own vectorizers, too. Weaviate also works with popular machine learning frameworks such as PyTorch or TensorFlow. However, there is a catch: At this time, if you train your model, or use one provided by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "originalUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/fcc7e36c-88fb-43dd-a426-58da9d148fcf/weaviate.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
-      "publishedDateTime": "2021-04-07T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-powered-virtual-assistants-and-the-future-of-work.md",
-      "title": "AI-powered virtual assistants and the future of work",
-      "excerpt": "I was recently connected with Jim Kaskade, CEO of Conversica, a company that has spent the last 14 years perfecting its AI-based virtual assistants for enterprise marketing, sales, and customer success teams. \"Liza, can you tell me how sales are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "originalUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "publishedDateTime": "2021-04-07T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

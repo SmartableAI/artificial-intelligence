@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-see
 ampWebUrl: "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i2.wp.com/mms.businesswire.com/media/20210413005850/en/870815/4/Deeplite_team_-_main.jpg?strip=all&ssl=1"
@@ -29,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "feXav+ArufC9dU+WeEBcxJHGYwyHFKTrypTNmHSCbEkmZ05QENlpl5/Xd25Dndj0hBpuvfIpD5C9a0UJuctgw+UIEdoVwKyyv3WhCXtwJeJvFNQJP9/OveeF1aRr4bICdd+2ZBiyaiVffWR6MUqTTabqg4I6AFIbc5Lnb2GK6h/DJfm1zkMSkqQhBBkZApda9mTBCc3zEak7BWsUfvBgoV/coi9CLYb/VRS5ZIX1G7ZPVTUF4rHpzWdX5FoI07Md1uHtQ8dWy1lZHsVSOQf9ju0DagGgc1f3keKgJwToVMOve46ixfDEpL+OkFkDTW5gs8bWlPfOfg5tgnXIjCnOU4N2ZYHXnK9SJ4n5ilNIzFA=;GkG2HJyYuWrfnH7B7OlFlg=="
+secured: "FRiEo6cP2g1GQXsZjs6+h2MTofALSy6pL/CbxsrOQae2+DokhoibWloKtpaB8YNaNLb0x4xSiv9zlos0U8okTi27B86+oEFjUNp+AS7hRf/KhzcrPJDdeAWDYG2anLaCPl1jJxEDjnRSuW6GyqZMMPqNVnU1D9ETp3HConyotcqyGJ+4ECbKedfJFJal2X+jBszSAHLiQnTyjD0IAWiY9TyQU5VWHaMKImGmrxe5+nBQNH0jMzq7edyHIh1QBK8aRsm5VBfdSQhSYpolhPsLEgVDEEdqU3TBKq/WN70dGNQUjz2WYEsHbemo2yezPaNeMDhHzRSlqtI+NJrsfhZWn5ckVPtRRJbULc4hki7ClpWTCIglXLgq5dMe8Cwltni464FyWTLbmVCH90BlwP/6l+91fXDIuBhow9JIPRlhMJgh1aq2Hgy23EsaAdRXSYn73XID1qC/VnjpMEaaoPejKym9VrWOrgbgntRacwyAHmH35F4v5YyGciU3pq+9+4AxItdjMyR7HmFisCqmMfWPcw==;z39jtjH+zFRQCcAkrpAIPA=="
 ---
 

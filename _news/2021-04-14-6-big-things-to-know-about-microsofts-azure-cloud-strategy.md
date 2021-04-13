@@ -574,22 +574,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion Microsoft, on an accelerated growth push, is buying speech recognition ..."
-    publishedDateTime: 2021-04-12T22:43:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 76
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_211b41a5959f4f41a651c82c36bcfe06_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
     publishedDateTime: 2021-04-12T12:49:00Z
@@ -599,6 +583,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 75
+  - title: "Expect an even hotter AI venture capital market in the wake of the Microsoft-Nuance deal"
+    excerpt: "Microsoft’s huge purchase of healthtech AI company Nuance led the technology news cycle this week. The $19.7 billion transaction is Microsoft’s second-largest to date, only beaten by its ..."
+    publishedDateTime: 2021-04-13T15:40:00Z
+    webUrl: "https://techcrunch.com/2021/04/13/expect-an-even-hotter-ai-venture-capital-market-in-the-wake-of-the-microsoft-nuance-deal/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533"
+        width: 533
+        height: 400
+        isCached: true
   - title: "Microsoft Announces Purchase Of Nuance AI Speech Firm For $19.7 Billion"
     excerpt: "According to Microsoft’s blog post, the transaction has been approved by the Board of Directors of both companies and is expected to close by the end of the year."
     publishedDateTime: 2021-04-12T16:11:00Z
@@ -1069,6 +1067,17 @@ related:
         width: 1100
         height: 817
         isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
+    publishedDateTime: 2021-04-13T15:47:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
     publishedDateTime: 2021-04-13T10:00:00Z
@@ -1345,6 +1354,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "tDydHpwxoi1WEnonTSwKWkscwTdO/TIgfWDQ53bD+Ve0qFAaP9sEggh/j0oiJwc26ereaWul6qn2XnnZiFHPIvBsZ9TVrRwfQDBYvGZ+0vEStUwTk+ueKoBIPm0toP4rxV1bVeP1CApgGaEc6RK9A1iwiLODnSR07W6sBliL2S13cnn/fnHj0EgZOERUBDGJC8xGmnj3/Zi/kkgLW7qSjzX4bWP/uLZnC3ZpQDe5mXvbLAVF0TX4I03UPCivaDaWA/kc5YkGiWgAFg0bP2bHG5soM8YuguBSScWaFSQleEZ2pNqrkjitME0g+tvalqxOpjqduEJdmgpJxG93KqeAuf/pdb8fqiKTGuiRyBvc3qM=;FP3CBU5BbUdAKIy7XJkQ7w=="
+secured: "4wMkgcb4F14JbKigQe2EJ0fHMp0fnXjY9ZWSV6bKjYy1FVDp5dx2N5a629NuXD/FnhBA951TzNHmZqEWEKZkwhuvVQZCcy0MSfJm6jX/8pQZu2+F4eIsAbWkznGJW75BmXCmTbjU57VkzaIkQtpyIkUIockvM9Y8/Ps9IMBv6lnzeV0gpe5nf+ffXkz9KJQ5uhkipfSv5v8vAR2t8KArNHG2RXshtLR71h9SDAdl3UcSZCtxQ9d0VTTkEIGLLcH37AoS91C8wBXpEZbJaM9A5gu4F+VD9QjsgURArH8G4hV3vP9fGl+pfnRm6E22Nn2PgyddP/jdPeGlIgjHwmrP2r0fh4jIdF/Vkh38DAPWc5E8TfuZP47s8c+Un182RDbbVthHXaFl/ZwvAT7PpDILi3jYdEUsV4EQqiOr8z7VgPOf7XcTq6MEU7ZBmHXb74cabcqwggF8F65jk4yM0zE7NKIhETdHMBs5krFF9IVMV5zDLo9ev83U9IcreSzuUOArSWgKWDr5PRTf1AWchB262g==;iz6tv5IeNte6S3CoQNjWTg=="
 ---
 

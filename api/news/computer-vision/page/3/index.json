@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
+      "title": "Uber under pressure over facial recognition checks for drivers",
+      "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
+      "originalUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-897118616.jpg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/",
+      "publishedDateTime": "2021-03-19T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-ai-designed-to-distinguish-croissants-from-crullers-and-other-pastries-proves-capable-of-identifying-cancerous-cells-on-microscope-slides-with.md",
       "title": "AI designed to distinguish croissants from crullers and other pastries proves capable of identifying cancerous cells on microscope slides with 99% accuracy",
       "excerpt": "The system uses deep learning for object recognition and instead of differentiating baked goods, the doctor hoped the technology could save lives. Identifying cancer cells to determine whether ...",
@@ -1373,58 +1425,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california.md",
-      "title": "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California",
-      "excerpt": "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "originalUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-309733/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "publishedDateTime": "2021-03-10T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

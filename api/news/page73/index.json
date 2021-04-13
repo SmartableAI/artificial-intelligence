@@ -2,6 +2,204 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-02-18-baidus-stronger-than-expected-outlook-validates-ai-push.md",
+      "title": "Baidu’s Stronger-Than-Expected Outlook Validates AI Push",
+      "excerpt": "Baidu Inc. forecast sales that topped estimates as efforts by China’s internet search leader to diversify into the cloud and artificial intelligence businesses start to pay off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-automl-package-implemented-in-julia-using-knet.md",
+      "title": "AutoML package implemented in Julia using Knet.",
+      "excerpt": "First, you have to install AutoML package. Run julia from the command line, set the environment for the package and install AutoML package using the repository address. AutoML package provides a trained model using a few lines of code. In order to ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/alperkesen/AutoML.jl",
+      "originalUrl": "https://github.com/alperkesen/AutoML.jl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/3476788?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
+      "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
+      "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
+      "originalUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/10bf896/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F56%2F8ab2b48c494b93ec9038369e0d47%2Fmit-artificial-dog-nose-01-press.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
+      "publishedDateTime": "2021-02-17T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-chinas-baidu-beats-revenue-estimates-on-strong-cloud-ai-demand.md",
+      "title": "China's Baidu beats revenue estimates on strong cloud, AI demand",
+      "excerpt": "China's Baidu Inc reported quarterly revenue above Wall Street expectations on Wednesday, helped by a recovery in advertising and an uptick in demand for its cloud services and artificial intelligence platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809",
+      "originalUrl": "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T19:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-naver-along-with-seoul-national-university-present-naver-artificial-intelligence-ethics-principles.md",
       "title": "Naver Along with Seoul National University Present Naver Artificial Intelligence Ethics Principles",
       "excerpt": "Naver has prepared an opportunity for South Korean industries to remind themselves the importance of AI (Artificial Intelligence) ethics by introducing AI Ethics Principles. Many have been suggesting",
@@ -944,196 +1142,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net CHICAGO, Feb. 17, 2021 /PRNewswire/ -- According to the new market research report \"Natural Language Processing Market by ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-1030092889",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-1030092889",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-the-ai-driven-platform-powering-the-future-of-fresh-food.md",
-      "title": "The AI-Driven Platform Powering The Future Of Fresh Food",
-      "excerpt": "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "originalUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale",
-          "width": 960,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-lumiata-partners-with-ascendio-to-offer-data-preparation-for-healthcare-customers-on-aws-and-azure.md",
-      "title": "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure",
-      "excerpt": "The Ascend platform easily fits into any data ecosystem, providing a unified fabric for companies to run their businesses in any environment",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-top-questions-to-ask-ai-vendors-in-2021.md",
-      "title": "Top Questions To Ask AI Vendors In 2021",
-      "excerpt": "AI advancements. To name a few: OpenAI released GPT-3, the most advanced conversational AI model yet; Google's DeepMind solved a 50-year-old protein folding problem; and MIT built an algorithm that can detect asymptomatic Covid-19 cases from the sound of a patient's cough.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5c7563f8718db968cbc63%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
-      "publishedDateTime": "2021-02-17T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

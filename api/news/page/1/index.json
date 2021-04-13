@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-how-coca-cola-european-partners-consolidated-their-shared-services.md",
+      "title": "How Coca-Cola European Partners Consolidated Their Shared Services",
+      "excerpt": "Consolidating shared services across a multinational company requires thought ... First, 90% of all requests arrived via email, whose unstructured text has potential for machine learning solutions. Second, the scope of most queries was limited to certain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075f27716c61e4fccf6ab8e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1068%26cropY1%3D98%26cropY2%3D699",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/amp/",
+      "publishedDateTime": "2021-04-13T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations.md",
+      "title": "Video conferencing company Touchcast uses AI to add context to conversations",
+      "excerpt": "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/touchcast_inspirehall_venue_3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
+      "publishedDateTime": "2021-04-13T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-protecting-people-from-hazardous-areas-through-virtual-boundaries-with-computer-vision.md",
+      "title": "Protecting people from hazardous areas through virtual boundaries with Computer Vision",
+      "excerpt": "As companies welcome more autonomous robots and other heavy equipment into the workplace, we need to ensure equipment can operate safely around human teammates. In this post, we will show you how to build a virtual boundary with computer vision and AWS DeepLens, the AWS deep learning-enabled video camera",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/31/1-1558-Architecture.jpg",
+          "width": 800,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T11:49:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation.md",
+      "title": "Enable cross-account access for Amazon SageMaker Data Wrangler using AWS Lake Formation",
+      "excerpt": "Amazon SageMaker Data Wrangler is the fastest and easiest way for data scientists to prepare data for machine learning (ML) applications. With Data Wrangler, you can simplify the process of feature engineering and complete each step of the data preparation workflow, including data selection, cleansing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/12/1-Architecture.jpg",
+          "width": 800,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T11:27:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-machine-learning-can-help-keep-the-global-supply-chain-moving.md",
       "title": "Machine learning can help keep the global supply chain moving",
       "excerpt": "Disruptions can come from almost anywhere, and keeping goods moving is critical. One expert says AI and machine learning can help. TechRepublic's Karen Roby spoke with Noel Calhoun, CTO of Interos, an artificial intelligence supply chain solution ...",
@@ -114,7 +323,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -153,7 +362,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -261,7 +471,7 @@
       "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1011,
+      "heat": 1021,
       "tags": null,
       "images": [
         {
@@ -1053,197 +1263,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-10-authors-sharing-the-secrets-behind-startup-success-and-failure.md",
-      "title": "10 Authors Sharing The Secrets Behind Startup Success And Failure",
-      "excerpt": "Making your startup successful means aiming for success while dodging classic startup killers — the best way to know how is by learning from those who have been there before. Here are 10 authors who have seen the highs and lows of the startup journey and have invaluable knowledge for you to draw from:  In the first days of your startup,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
-      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60748186a849c282e29e02aa%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
-      "publishedDateTime": "2021-04-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-big-shake-up-due-to-covid-19-on-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
-      "title": "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market",
-      "excerpt": "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
-      "originalUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U413109506_g.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
-      "publishedDateTime": "2021-04-13T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
-      "title": "Facial recognition could soon let you pay for all your mobile purchases",
-      "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "originalUrl": "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
-      "publishedDateTime": "2021-04-13T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-big-techs-guide-to-talking-about-ai-ethics.md",
-      "title": "Big Tech’s guide to talking about AI ethics",
-      "excerpt": "If they challenge the status quo, fire them. efficiency (n) - The use of less data, memory, staff, or energy to build an AI system. ethics board (ph) - A group of advisors without real power, convened to create the appearance that your company is actively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
-      "publishedDateTime": "2021-04-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

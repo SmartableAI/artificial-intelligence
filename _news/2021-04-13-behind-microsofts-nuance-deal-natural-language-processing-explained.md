@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natur
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
 type: article
 quality: 121
-heat: 1011
+heat: 1021
 published: true
 
 provider:
@@ -565,22 +565,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion Microsoft, on an accelerated growth push, is buying speech recognition ..."
-    publishedDateTime: 2021-04-12T22:43:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 76
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_211b41a5959f4f41a651c82c36bcfe06_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
     publishedDateTime: 2021-04-12T12:49:00Z
@@ -590,6 +574,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 75
+  - title: "Expect an even hotter AI venture capital market in the wake of the Microsoft-Nuance deal"
+    excerpt: "Microsoft’s huge purchase of healthtech AI company Nuance led the technology news cycle this week. The $19.7 billion transaction is Microsoft’s second-largest to date, only beaten by its ..."
+    publishedDateTime: 2021-04-13T15:40:00Z
+    webUrl: "https://techcrunch.com/2021/04/13/expect-an-even-hotter-ai-venture-capital-market-in-the-wake-of-the-microsoft-nuance-deal/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533"
+        width: 533
+        height: 400
+        isCached: true
   - title: "Microsoft Announces Purchase Of Nuance AI Speech Firm For $19.7 Billion"
     excerpt: "According to Microsoft’s blog post, the transaction has been approved by the Board of Directors of both companies and is expected to close by the end of the year."
     publishedDateTime: 2021-04-12T16:11:00Z
@@ -1060,6 +1058,17 @@ related:
         width: 1100
         height: 817
         isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
+    publishedDateTime: 2021-04-13T15:47:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
     publishedDateTime: 2021-04-13T10:00:00Z
@@ -1350,6 +1359,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "xdIn6T91j0csfEB2qX0q0RC5B619sj7Gdfs1krVV7sL15sLP8KMjdCAAR7DzTLVIMFEmWRsWOvaz+1lH3altjR013/8c3OpT0nt4UE7Ijmm3ejR/CRqD9ooFjgPO9yyVEDYmqMVlbSNhCoz/oiuQ9KB9IBMMj0CI/HUzI/F4TzgHpDz1+WTVzr0Hzf0EKe+mU3JgcpGPOj63FDUpV6cAqWc0XBfI5H/Tj0yXsRHLetkFIG7MF7SLhYwU3gPO9O/fos7HzACqOfMjPDFFrS/Ul/iSrksGsBHzXAMwU50ZjnOtQh/mmzzOHIwFYTQwwigOwKcRJShCqPsTItlEY1aA+w6MUkwTtdhx3gpLTS45/5I=;WEwA/A90bpdZEi5dAR+a/Q=="
+secured: "moOja17WldjwqCDRxcwkC8KKsx8P90amGVZvDycK2RqV22289w+9g3ozwCzlWQAwkftsetrmXyTWzpdn/A0VN1VRt/5XlSBq7yPcKk7ILdw/EKJ3XIppXSyNbabnZWAQNm6QSmI+vuQkiAS4EOlQDCdJhegzRLxRz2oAw5zpJv4eS02DFrk8n/aSLnOoTagHT21mFdf8L9GT/g7l3UKzkbT6Iq6xzK6pKNPfZW+VB6hcQiCzEzIteqNMdl6rYBpdIvYYUFriDPpzsdoHm7x8aCh5PcEd5uMUrm7ll9V19RvYIUxD7xMA+aUtJBxwLlsr3LcMYBsKQ6wTqwxOQQTjFsOmrOuvZ6fc+C6wGvb2MjKITTxfS5jjxHceG48VV3hhsNOdBUkiZwcB4ReuDPt10O3r3l9cd2oF7NRCLJTbOT6NN/m+GJbXnwlFmA04OEvG16qZcltEaf3UZfWzJSfQX6F/X2W/s9sfu/tBLJyPOpglPwsRUlQe5hA40jEk01Yc7+sTEiXPwiPSPixC16erCQ==;S6+zMzc1yGbZa9DHmof4VA=="
 ---
 

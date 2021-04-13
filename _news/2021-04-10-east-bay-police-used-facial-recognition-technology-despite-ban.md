@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-r
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "Michigan man sues police for wrongful arrest based on facial recognition technology"
+    excerpt: "Williams thought the call was a prank. He was arrested later that day. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to reports. “I came home from work ..."
+    publishedDateTime: 2021-04-13T19:26:00Z
+    webUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html"
+    ampWebUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 53
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2TZT7C2WHBCQHOH7TAUSA45JYE.jpg"
+        width: 4611
+        height: 2708
+        isCached: true
   - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
     excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
     publishedDateTime: 2021-04-09T20:46:00Z
@@ -58,6 +74,38 @@ related:
       - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
         width: 1024
         height: 732
+        isCached: true
+  - title: "Lawsuit: Man suffered 'great harm' after wrongful arrest based on Detroit's facial recognition technology"
+    excerpt: "An ACLU press release Tuesday claimed: \"Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States.\" The suit says Williams' Fourth Amendment rights were violated and that ..."
+    publishedDateTime: 2021-04-13T18:21:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2021/04/13/michigan-man-sues-over-arrest-based-facial-recognition-software/7203369002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7203369002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7203369002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTN/a595e4a3-a66f-4d87-8b48-6fc501a90f92-williams.jpg?auto=webp&crop=1319,742,x0,y67&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the controversial ..."
+    publishedDateTime: 2021-04-13T19:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 40
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Editorial: Ending use of facial recognition by police"
     excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."

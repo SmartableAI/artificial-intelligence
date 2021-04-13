@@ -93,6 +93,22 @@ related:
         width: 624
         height: 415
         isCached: true
+  - title: "Beep Beep: Domino’s Is Testing a Self-Driving Delivery Car"
+    excerpt: "Domino’s is piloting pizza delivery via self-driving car in Houston, the chain announced on Monday. Starting this week, select customers who place a prepaid online order from a Domino’s location in the Woodland Heights neighborhood can opt to have ..."
+    publishedDateTime: 2021-04-13T15:52:00Z
+    webUrl: "https://www.eater.com/2021/4/13/22381880/dominos-tests-self-driving-delivery-vehicle-in-houston"
+    ampWebUrl: "https://www.eater.com/platform/amp/2021/4/13/22381880/dominos-tests-self-driving-delivery-vehicle-in-houston"
+    cdnAmpWebUrl: "https://www-eater-com.cdn.ampproject.org/c/s/www.eater.com/platform/amp/2021/4/13/22381880/dominos-tests-self-driving-delivery-vehicle-in-houston"
+    type: article
+    provider:
+      name: Eater
+      domain: eater.com
+    quality: 44
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/buRAM1WcIV5YZzZIZzEpmV-6xE0=/0x0:2700x1800/1400x1050/filters:focal(1134x684:1566x1116):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69120833/Domino_Nuro_autonomous_pizza_delivery.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
     excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
     publishedDateTime: 2021-04-12T16:38:00Z
@@ -108,6 +124,36 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Domino’s Is Testing Self-Driving Robots That Will Deliver You Your Pizza"
+    excerpt: "Domino's is ready to change the pizza delivery game and they plan on doing it by rolling out one delivery robot at a time. Though the brand is already known for being a trendsetter with last year's film fest, their \"rain check registry\" for weddings that ..."
+    publishedDateTime: 2021-04-13T17:19:00Z
+    webUrl: "https://www.delish.com/food-news/a36109058/dominos-self-driving-pizza-robots/"
+    ampWebUrl: "https://www.delish.com/food-news/amp36109058/dominos-self-driving-pizza-robots/"
+    cdnAmpWebUrl: "https://www-delish-com.cdn.ampproject.org/c/s/www.delish.com/food-news/amp36109058/dominos-self-driving-pizza-robots/"
+    type: article
+    provider:
+      name: Delish
+      domain: delish.com
+    quality: 43
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dominos-1618331075.jpeg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
+  - title: "Domino's launches autonomous pizza delivery with self-driving robot car"
+    excerpt: "The Domino's pizza chain is launching an autonomous pizza-delivery service in Houston in partnership with startup Nuro."
+    publishedDateTime: 2021-04-13T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131910_domino-s-launches-autonomous-pizza-delivery-with-self-driving-robot-car"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 41
+    images:
+      - url: "https://images.hgmsites.net/hug/nuro-and-dominos-autonomous-pizza-delivery_100788385_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Domino’s has deployed a self-driving robot to deliver pizza to the masses"
     excerpt: "The future is now, and with it comes automatic, driverless pizza delivery. Mega pizza chain Domino’s has teamed up with Nuro, developers of autonomous delivery robots, to come up with an automatic, driverless delivery robot."

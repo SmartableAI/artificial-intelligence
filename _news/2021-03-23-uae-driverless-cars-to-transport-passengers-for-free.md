@@ -1,28 +1,28 @@
 ---
 category: news
 title: "UAE: Driverless cars to transport passengers for free"
-excerpt: "Hasan Al Hosani, CEO of Bayanat, said self-driving vehicles \"heavily rely\" on geospatial data, advanced mapping and artificial intelligence capabilities. The two parties will also cooperate to lay ..."
-publishedDateTime: 2021-03-23T09:56:00Z
-originalUrl: "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
-webUrl: "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
-ampWebUrl: "https://amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
-cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+excerpt: "Driverless vehicles will transport passengers in Abu Dhabi ... said self-driving vehicles \"heavily rely\" on geospatial data, advanced mapping and artificial intelligence capabilities. The two parties will also cooperate to lay the basic infrastructure ..."
+publishedDateTime: 2021-03-23T09:02:00Z
+originalUrl: "https://www.zawya.com/uae/en/business/story/UAE_Driverless_cars_to_transport_passengers_for_free-ZAWYA20210323084208/"
+webUrl: "https://www.zawya.com/uae/en/business/story/UAE_Driverless_cars_to_transport_passengers_for_free-ZAWYA20210323084208/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210323084208/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210323084208/"
 type: article
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://amp.khaleejtimes.com/storyimage/KT/20210323/ARTICLE/210329629/AR/0/AR-210329629.jpg&NCS_modified=20210323225015&MaxH=225&imageVersion=16by9"
-    width: 400
-    height: 225
+  - url: "https://images.zawya.com/images/cia/zAmp/210323084736UGBY.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "w8c78By3DZxbx7A9XqUsbhYOBIdFs4dHYcJuSmI9JzuVjRwmBoq8qxawsNKe5Yzb885AFYBgwwn8+oraz/CWORVMAwKZRWQii8xoBYWEO4PKcHL6fYEU44EjSYStdporlMB2aPYqaAQuuXqwN+I9LzM0/w2e8hSQIGpKjrNhUlBM2bB6SNYJ2rTgtuEvosMMHoLVWIhFRGc7E04QJ0iuDCSKBZotwh0+ZMCn3sA4DU+ZZoEdAgPKYMcay27ZVICUlEkXB0Quy+NjcYJZz1KCBvcmwmMcrvrmT8xeuU2kHNjZ8PcwmYzb3QLL0wbD+/xNC9bTbMoh+Fd6dxh0VeFo2iBbeImMngLo+hRppcUSmwI=;6bzkTcQSk5dOjJeh328Gog=="
+secured: "RVjQ9/tk9J4+IvYT2Df6JxtZ/AiIYGaJ7aMyqcYlH6LHTiorTeB3he0e+2/zW1b6dZ3zAR8YCggg12Qni2JNZ3Ui1zmS4whdrS8hNWcflYNILD9lQcbRyhHpvLy8d9z7+PfLWnIfILtzIZGsYowvC/6sRaI1aOxTbsSU+bWj3OkZVDRdPy51e6wsc29Dw4uy3Ztjhxnyj+1jHaZl4cA6KxMVnHaSLMJhwYkXtGzAy01M8+MPUR59k3WUCpMG3hnlTx8lmTNFhgnvCvuQ3RYM4+QspAIIMQafx+kbNq/p0kK/vgqsk60vOdCDlTdXUdmn1DO2DjTmM0eQqJVYyTlRmMwpngKU+l08aQimkEXjtNA=;8sCGHaf/7q7REGe6Hz88kA=="
 ---
 
