@@ -3,10 +3,12 @@ category: news
 title: "Microsoft buys AI speech firm Nuance Communications"
 excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
 publishedDateTime: 2021-04-12T15:00:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-buys-ai-speech-firm-nuance-communications"
-webUrl: "https://www.techradar.com/news/microsoft-buys-ai-speech-firm-nuance-communications"
+originalUrl: "https://www.techradar.com/sg/news/microsoft-buys-ai-speech-firm-nuance-communications"
+webUrl: "https://www.techradar.com/sg/news/microsoft-buys-ai-speech-firm-nuance-communications"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
 type: article
-quality: 84
+quality: 104
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/Q9MsVRHZFHWkw8tkW3dwx6-1200-80.jpg"
-    width: 970
-    height: 545
+  - url: "https://cdn.mos.cms.futurecdn.net/Q9MsVRHZFHWkw8tkW3dwx6-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -649,6 +651,20 @@ related:
         width: 1312
         height: 731
         isCached: true
+  - title: "Microsoft makes big bet on healthcare AI technology"
+    excerpt: "Microsoft Corp is making a massive bet on healthcare artificial intelligence (AI). The software giant is set to buy Nuance Communications Inc, tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
+    publishedDateTime: 2021-04-12T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/04/13/2003755568"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 73
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
     excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
     publishedDateTime: 2021-04-11T16:44:00Z
@@ -997,6 +1013,20 @@ related:
         width: 1100
         height: 817
         isCached: true
+  - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
+    excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
+    publishedDateTime: 2021-04-13T10:00:00Z
+    webUrl: "https://www.technewsworld.com/story/87093.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 56
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-microsft-nuance-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -1273,6 +1303,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "oaMUNfWixA1l3AfP9sko5OowBc1STTHV0ESNrx9NUI5qQzk3mBZBnaeyR5yhOpIYwBM9f+k/9MZpqaePC234U5snSyrIe4fgaCIe2iTQhTeJy8fJnG3AheUFI2lATM1bJDo6IaM0fEsBiRmofsE+LWQigMzVnFIVLoxKifS2xZs+YFIueORLtq0JhT8rZBwEMOdGb2uegy56uAiiNtqoRofyRINHDA5Yi2ifFLBm3py9GxCCurriksfs0enG8U/ds2KhzIm85DjJ/jqXVJUm11oWVpHhq3SRCkCqil5ci6MW4q7KfiZQjuz5MyGIqK/8UgiOp2eADGDmOgHSI+2PFEcKJ0W/E2UufXG/A5opzdZk8rtX2o/9KIBVv/QYALyXD7X5YF4p63HHmjPzGmaQQlgWB2+2sTl3xIAqD8KIf89aO1xrAopsA+yXfizEKEuErJ4aa9qj/G3bHiUS2/mpygjhyStw9g5R64WXSBRFUVCORSRG4RW1wvi6sz2futSGIc2KpcfvQzUVF+n3oGKttA==;s1VT6yVVL15RbvwgxAkfAQ=="
+secured: "4Dl2Y3yoopmCEa1qBl10qUWDkfqlS5GAc32u7irvtZll14a37xYNzHuAHApYyU/nq4QkaBoawBXvNM8af8KNUpoNcDYzMog0KeI0LpYzL9lazS5ApAKML4tfF0dcTQXpoxPsXeFIq5usnNnqB6ZREIPYxsjt+B1IZnDazHD0WXDEEjhJ+y5+d9cYfWTSwrAsAM7OqkOGFo2TU8mO/i7dqE6SdqFYSEjBpoKacWnBmxoJS5N9QP9NP+bUBMZZxT1zsarZ7LhPoK2syNy6XJMM32KWHtD7HQk0p7lX6K7ktr0eaODqyeZ6FuEgO8t2e3EgLXv14UNbX+zKu0bBD4z2hbApynjL1gLDxHFrlEWzUe4=;MH85YeZkQnBeR/HgSAQ7RA=="
 ---
 

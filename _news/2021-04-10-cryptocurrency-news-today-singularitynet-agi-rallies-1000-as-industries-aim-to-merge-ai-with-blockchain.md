@@ -42,20 +42,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "How the Internet of Things, Artificial Intelligence and Blockchain Are Transforming Precision Medicine"
-    excerpt: "The introduction of new applications of digital technology such as the internet of things (IoT), artificial intelligence (AI) and blockchain promises to be the spark that triggers the mains"
-    publishedDateTime: 2021-04-09T11:17:00Z
-    webUrl: "https://www.bbntimes.com/science/how-the-internet-of-things-artificial-intelligence-and-blockchain-are-transforming-precision-medicine"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 38
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_the_Internet_of_Things_Artificial_Intelligence_and_Blockchain_Are_Transforming_Precision_Medicine.jpg"
-        width: 1728
-        height: 1080
-        isCached: true
 
 secured: "zZm4BCUa4KVZMVtuwyGzyVRTMIg3HPcVgLEpy+y1vTVQsCYb+WjrI6547BOcfzpDWbRp5/kfsPyhCp3yPpqYTw54KZd5eD+ye+d2idqgsnC1GRqZnFFhydGoWAhTXSTZtfTHrPNIx01oP/AJeldqnGWl0B9bZtj0qVn3t/XPhOFXDUdoLkZLmB8QTYQGmg48fcTiMCqOOOWYiQ88vrJBV9lG9hz+7MHWcK3IThXEqVQwBaplkYhTwe5q1aHaPccFM7mYfLxYN7KM7nZoUED1MCylSXQEqlNPzdUB31SntbjpPAeGY0YpWedcPMnNgr/FE/rFC1S6aKSyHpxSn7NmI2nKAp7IUq2q+DmpNGOsYD1Ie2QpOMdzLycQjRt7pvRd4WiKRqxXSlp59gYb9x55AkY2O2thwVcDBZqgS7F6VjRuiarda6KjrC08NVHh8gIPCw0g1Bc/AkkhVQKUZ3G93mpOXiosojtJoKs1UKozkdCs/hnMQkIlt4ZVf+3/+F5e1kBKy1Y8FKYbcwHfMiG1XQ==;lwDhGT5nEQoTyB3h58Db5A=="
 ---

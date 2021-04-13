@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/09/securing-your-data-in-the-new-world-of-ai-enabled-data-management/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://thecostaricanews.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-1.52.59-PM-640x322.png"
         width: 640
         height: 322
+        isCached: true
+  - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
+    excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
+    publishedDateTime: 2021-04-13T11:00:00Z
+    webUrl: "https://spendmatters.com/2021/04/13/bid-ops-hosts-virtual-event-with-insight-into-the-role-of-artificial-intelligence-in-procurement-sourcing/"
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 20
+    images:
+      - url: "https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2020/11/16140911/City-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "Hb+mHenPVEP94jnTbJiUtvkTA4/2Js7nWUui85pj0l0HJRmXhyUZXPf1VBL3U8YpCEakGxyzVrOkmgdB55u3oUhihH5o6njytX3ACtJjaVQ7hy3mbi9jWt5gFS3UkIt+1uyKOlNECTSvAIgweOg2Bir1v+gf0y58MTiqdR2MgeWeqjRMib0lP/q4eKRnJ/psG6uwCq5d08AooZUwBkZ7dVa51bWsVwFNolflc4FhwRVWh5+yF/5QInDPht2IE5ze2zNYm3M8h8IxYbZ9xuRG5Js/cT5rlA9TveExDdiH6DOJIyjktt1Dm7a8AajOYAy0hsUzGdJbNIGzYwER4AFkvha6ASHONIzWR9PfkJi3mPYhawT6Pu/I5V+I9oasfzCWJV0SBh5PvNLG7jEeS8kRdYUu8z8raYE/QhKbBup0tiebds2pnwulM+t1tx5w2hbsAk+9AavPRo+MkOz/85AfJs6PREKBvOTd4nA1dMwJgLDuU7qZP0tDkIglLDbxsZ2kZTOtWhruuu+iVbMdlLL5og==;rGk7ZCgbLilaJ9xbDrbokQ=="

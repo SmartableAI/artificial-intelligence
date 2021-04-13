@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Nvidia's new Grace CPU is designed for AI-powered supercomputers"
+    excerpt: "The chip will work in tandem with Nvidia graphics ... where vast amounts of data need to be crunched and compared to train AI's to make the right decisions more of the time – whether that's ..."
+    publishedDateTime: 2021-04-13T09:22:00Z
+    webUrl: "https://newatlas.com/computers/nvidia-grace-cpu-ai/"
+    ampWebUrl: "https://newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/4078295/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F81%2F3c952bb9430bb456a8a69affa983%2F00-nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia launches TAO, an enterprise workflow for AI development"
     excerpt: "Users include companies like Accenture, BMW and Siemens Industrial. “AI is the most powerful new technology of our time, but it’s been a force that’s hard to harness for many enterprises ..."
     publishedDateTime: 2021-04-13T00:00:00Z

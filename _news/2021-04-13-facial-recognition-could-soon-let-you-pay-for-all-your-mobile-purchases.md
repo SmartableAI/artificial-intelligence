@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: telecompaper.com
     quality: 21
 
-secured: "++i36uR717lfcB+4kbIvVb8mQKQ+p8qND85j4j5sGKxGC0xiEvRFzdvIWz44LYO8hYi9srhetiuR1Mvsrk6vph6TVnFvEFC0UcwrSFWhDim7ZNL07OkpwfHrZTrMk2u/BMO9k9fgRr6SK5hpkQ+P9TwwMZ5gnCjjlGXWuiffOskT06UlEBTAS1ryvbz1UF2BsApf+h1hHK7+4KPND/An8eJeKLdAuLcje6xzSKGK5O8nDH4+sxdfqBxX4GH+OGJmTeJvcyEY84AvuN3SMowQpFK3ydOJFO/8MROR054j3lLj5z4eE8DqqkbeP2Gay0jp0XAo1Rrk6q89+pf0E9J/xFszxhQIlZa9tE9r0ZdvA6U=;8Kiqk/OdR/3GPmRmJn/80Q=="
+secured: "IvWyk01v8Btu72TCAhVWVD59TmoTCRpDOs9cFGksZQ7wDNI6k7L8TJOU0hXVpV9BNIDpAoeLfMysKKjRmLzkaHsT8zqSLgtmV9mMLVUZz/Df0jPz4knwK9uYhBmtVmTU17wPSOGPU3gWRH3/tUk7itywPoGtOASTduZSL4svpg5t8lsqvJXAWFzUtmbdGqV0dwrmeGRSUm0L0mIxYlSxAo3iEGdgktOALVlUqAN3T7SPIsWaWdgzMPXCR3yuDJlK6gBH5U4evaDv99s29flIgeM9513ebOr+aJBII6ilYeUZdEwrVq4mwglrMdvSY4Wo/t6dmhqqzquYwu2eFhMmg8NjuSBtX3ERPgAe39U6waMsNtw5Z1oA24G2T4i4MwtaqVPD/sVyP3whAqeGAPcZynZVoF1wOvtTHtAfPPjmojqlevKpXNHUCWuWvqFutaUt6R47DyUvYBThQo5PeK03sUv+mt8m5hAncqg7+kK45em57lH3dHb0I6+55pDupUCKCJxTKp0mmVJElWLR0HXALQ==;g1fDpxVB+72UYUGRpsd1XA=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 600
         height: 412
         isCached: true
-  - title: "Local police in Virginia will be banned from using facial recognition technology"
-    excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 54
-    images:
-      - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
     excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
     publishedDateTime: 2021-04-09T20:46:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-i
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the Internet of Things, Artificial Intelligence and Blockchain Are Transforming Precision Medicine"
-    excerpt: "The introduction of new applications of digital technology such as the internet of things (IoT), artificial intelligence (AI) and blockchain promises to be the spark that triggers the mains"
-    publishedDateTime: 2021-04-09T11:17:00Z
-    webUrl: "https://www.bbntimes.com/science/how-the-internet-of-things-artificial-intelligence-and-blockchain-are-transforming-precision-medicine"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 38
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_the_Internet_of_Things_Artificial_Intelligence_and_Blockchain_Are_Transforming_Precision_Medicine.jpg"
-        width: 1728
-        height: 1080
-        isCached: true
   - title: "Cryptocurrency News Today – SingularityNET (AGI) rallies 1,000% as industries aim to merge AI with blockchain"
     excerpt: "The internet has reshaped society over the past 40 years, and experts are predicting that digital technologies and artificial intelligence will continue ... just a way to get the SL2 “off to a running start,” with the organization aiming to ..."
     publishedDateTime: 2021-04-10T01:57:00Z

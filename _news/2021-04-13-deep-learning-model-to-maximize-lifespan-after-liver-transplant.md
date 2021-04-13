@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

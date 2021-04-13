@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Varian Teams Up With Google Cloud To Build AI To Fight Against Cancer"
-    excerpt: "Google Cloud to build an advanced artificial intelligence based diagnostic platform to aid in the fight against cancer. Varian and Google Cloud AI will use Neural Architecture Search technology to ..."
-    publishedDateTime: 2021-04-08T18:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/varian-teams-up-with-google-cloud-to-build-ai-to-fight-against-cancer-1030287032"
+  - title: "Varian and Google to co-develop AI-based cancer diagnostic platform"
+    excerpt: "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic platform for cancer patients. Often viewed as a crucial and laborious step,"
+    publishedDateTime: 2021-04-13T10:30:00Z
+    webUrl: "https://www.techcentral.ie/varian-and-google-to-co-develop-ai-based-cancer-diagnostic-platform/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/CT_Scan.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Varian (VAR) Inks Deal With Google Cloud to Boost Cancer Care"
     excerpt: "Varian Medical Systems, Inc. VAR recently partnered with Google Cloud to develop an advanced artificial intelligence (AI) based diagnostic platform to lend support to the battle against cancer. Varian and Google Cloud AI have undertaken a deployment endeavor,"
     publishedDateTime: 2021-04-12T12:40:00Z

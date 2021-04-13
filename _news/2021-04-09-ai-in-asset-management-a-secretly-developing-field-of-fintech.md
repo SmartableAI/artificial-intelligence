@@ -55,6 +55,20 @@ related:
         width: 640
         height: 322
         isCached: true
+  - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
+    excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
+    publishedDateTime: 2021-04-13T11:00:00Z
+    webUrl: "https://spendmatters.com/2021/04/13/bid-ops-hosts-virtual-event-with-insight-into-the-role-of-artificial-intelligence-in-procurement-sourcing/"
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 20
+    images:
+      - url: "https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2020/11/16140911/City-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "m08kXS2sc/v2YrWQVn2+3usnHsTX80GWSlH3YdbGEz/8e74LBbQbs3zwO+YGtKjTB566nSH4OjwKr+HyHnXY1ahPAErG92P4tX6RZRylt0R6GzMDD9uFt9/F9FRiKEoeZeE04IwlGlbtDbO/4GCBVlPOK/ds/D4UT43uvKKofMq1rELZGr9jDSKNL2aowunLYW3ZRoWNRRm5JjPivJfqmgwJXYP5mrfSnUCj+yklM9ziS1QhdStaz2o/LMT89usTBbE2ceXk4xlcbbKnwDyFLqwElcmMrP9unR8LPbrRePYq76eE2QU6LVUxC9hemy7jBrNplTEFdYr6XrqwD4et+KTwRWDsOQW0no1TaX/vDNE=;ssB+fT024wo5kUcykiAK5Q=="
 ---

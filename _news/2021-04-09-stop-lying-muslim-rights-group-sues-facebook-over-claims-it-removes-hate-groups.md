@@ -41,17 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Muslim civil rights group sues Facebook over hate speech | Charlotte Observer"
-    excerpt: "The company based in Menlo Park, California, said it has invested in artificial intelligence technologies aimed ... who published research about anti-Muslim groups on Facebook and alerted the company. According to the lawsuit, Facebook did not remove ..."
-    publishedDateTime: 2021-04-08T18:51:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article250528414.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article250528414.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article250528414.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 21
 
 secured: "NOjQEK3NB2gaMSYIG7z2HZgV4uXx3TJYXYzEbVfEoC0ffzVLvCNhug8MJ1qhByEEPecSsQYk/J05AccHJfcFSjqJLR0l1ZdEztKxNbtLo5lZ4ZbCYdbpCvB7Z7/RbRDIB7+sVKi3FMT0z23LTJMkE184oohjtvSpNdy1ZEDs2LGEOVmL4EDmHbbZuxVh8ktTYLL/DnNI03SdXaOynzzfH9ClgqPWY56xTAcGdTxZ7uVMNNsmvgqEnAq01y/J4xNWVPUcURmSqXQBntXEALofFcpyszFUqXWGieAqx5QskAFug+S6b2+7rqECSY+udU14G7l+zG9CJGx8OFJtwLZWhSv6rQiRpvAmC5fFt/6L9ZE=;fck99lPscKdyF1z/oGwpDQ=="
 ---

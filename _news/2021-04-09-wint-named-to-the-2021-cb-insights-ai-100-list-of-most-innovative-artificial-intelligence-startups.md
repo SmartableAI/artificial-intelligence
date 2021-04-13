@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19740853.html"
 webUrl: "https://www.lelezard.com/en/news-19740853.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "“This is the fifth year CB Insights has recognized the most promising private artificial intelligence companies with the AI ... DeepMap delivers the technology necessary for self-driving vehicles to navigate in a complex and unpredictable environment."
-    publishedDateTime: 2021-04-08T18:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-driverless-cars-north-america-palo-alto-asia-aa0aaa986fbc903b79728499c35423a6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Fiddler AI Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "April 7, 2021 /PRNewswire/ -- CB Insights today named Fiddler AI to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... Recognized by Gartner in 'U.S. Healthcare Payer CIOs: Achieve Provider ..."
     publishedDateTime: 2021-04-08T19:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-drivi
 webUrl: "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the Waymo power players who will replace John Krafcik as the co-CEOs of Google's $30 billion self-driving unit"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW -0.00% ..."
-    publishedDateTime: 2021-04-08T17:23:00Z
-    webUrl: "https://www.businessinsider.com/waymo-new-ceos-tekedra-mawakana-dmitri-dolgov-john-krafcik-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/606f2ea330004b0019b26aa3?width=700"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Waymo co-CEOs bring double vision for self-driving future"
     excerpt: "Dmitri Dolgov believed from the beginning. A member of the Stanford University team that finished second in the DARPA Urban Challenge in 2007, he was captivated by the early promise of self-driving technology. Soon after the race, he became an original ..."
     publishedDateTime: 2021-04-10T04:00:00Z

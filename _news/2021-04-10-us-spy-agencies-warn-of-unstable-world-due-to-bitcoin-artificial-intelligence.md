@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/market/cryptocurrency/us-spy-agencies-warn-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/cryptocurrency/us-spy-agencies-warn-of-unstable-world-due-to-bitcoin-artificial-intelligence/amp-11618038261924.html"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 599
     height: 338
     isCached: true
-
-related:
-  - title: "U.S. Spy Agencies Warn of Threats From Digital Currency to AI"
-    excerpt: "The U.S. intelligence community predicts an increasingly leaderless and unstable world in the coming decades as trends such as artificial intelligence, digital currencies and climate change reshape the global arena, according to the National Intelligence ..."
-    publishedDateTime: 2021-04-08T17:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iexSk_KE7Df0/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/sYl3EWtN9LSU6Oc5qdqZ3R5X5TiMcywVr+PkRotQHmtssoOvyGWA6fxvFgvduCRD3zU/lcEcLhDtZsyvB7r+eStA25PlA/oqysh6o0Mwbi+BH32aLlO7MexP6bm0O9jT90H6H3/XzPIhOW4HPu9LPvNU+78RpmYoEJk6h1DVirVl9nzFUqR0r3froa9+8cRj2Zl29zvR48dkiluxaM9m0ZjcX1KZmFnXUylbTOnDRYov8qJX2BO0xF6wLvRTwevhheDeNBKlvE2s2geM51/tWbiy2+R5XQMEm4GIIECYwo0/9PMELZuX4i7WbpsTYX6Nl2OWP5dLCbv/1TQTe/5B3XY9jnJq31yQe5QCASoe5M=;wXYpq6S25riTLhUW6uX8dQ=="
 ---

@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Nvidia's new Grace CPU is designed for AI-powered supercomputers"
+    excerpt: "The chip will work in tandem with Nvidia graphics ... where vast amounts of data need to be crunched and compared to train AI's to make the right decisions more of the time – whether that's ..."
+    publishedDateTime: 2021-04-13T09:22:00Z
+    webUrl: "https://newatlas.com/computers/nvidia-grace-cpu-ai/"
+    ampWebUrl: "https://newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/4078295/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F81%2F3c952bb9430bb456a8a69affa983%2F00-nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
     excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
     publishedDateTime: 2021-04-12T16:32:00Z

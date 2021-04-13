@@ -1,195 +1,75 @@
 ---
 category: news
-title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
-excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
-publishedDateTime: 2021-04-12T22:51:00Z
-originalUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
-webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
-ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
+title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
+excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena."
+publishedDateTime: 2021-04-13T08:33:00Z
+originalUrl: "https://www.bloombergquint.com/business/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+webUrl: "https://www.bloombergquint.com/business/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Tesla’s AI is about to get better, and not just for Full Self-Driving"
-    excerpt: "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ..."
-    publishedDateTime: 2021-04-12T10:25:00Z
-    webUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
+  - title: "Huawei to invest $1 billion on car tech it claims can surpass Tesla's"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T13:00:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas-41618229075573.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Musk Reveals Details Related To Tesla's Artificial Intelligence"
-    excerpt: "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications."
-    publishedDateTime: 2021-04-12T16:05:00Z
-    webUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/"
-    ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 89
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
-    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
-    publishedDateTime: 2021-04-12T23:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
-    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
-    publishedDateTime: 2021-04-12T09:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
-        width: 4000
-        height: 2670
-        isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
+      name: hindustantimes.com
+      domain: hindustantimes.com
     quality: 74
     images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
-  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
-    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
-    publishedDateTime: 2021-04-12T12:14:00Z
-    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 49
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
+      - url: "https://images.hindustantimes.com/auto/img/2021/04/12/600x338/airport-huawei-company-shenzhen-shenzhen-pictured-international_d784b2c2-f4cb-11e9-800c-f2f87dfa36aa_1618229210545.jpg"
         width: 600
-        height: 423
+        height: 338
         isCached: true
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
+  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena."
+    publishedDateTime: 2021-04-12T14:54:00Z
+    webUrl: "https://www.ttnews.com/articles/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
-    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
-    publishedDateTime: 2021-04-12T16:38:00Z
-    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 43
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 39
     images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/huawei-bb-1200.jpg?itok=QH1BTt8E"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
-    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
-    publishedDateTime: 2021-04-12T12:39:00Z
-    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
+  - title: "Huawei to invest $1 billion on auto technology"
+    excerpt: "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T12:22:00Z
+    webUrl: "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg"
+        width: 800
+        height: 600
         isCached: true
 
-secured: "IcsCAUfCq+wv1AodAoZvdM9DF2oblwfoYf6AxCocdN5IAKCTIP2zLLD81BGI8aDFKZmwZNbeEQOil/rJW45InmADDp0J15ZKEofBNetUvIDicBx6LnqbwIEbSTUMXEin5yu/aWpd3TwAPfLOA5UQ+VSBQA3LkNzwgKiJmn9DO3+/a4rQMqH8iaVvVGMJ0qK018ZwOYwe1Mj6ceyf/3S1Hh+AW8Scl/7SHIZyyjcgIMiQI7y+Aq36zNtJy5SKCahe0dAOlb6A7g9DomA9byzNpPKSKzWxc31zvaRK3t5PgoErndYa05hb4mDLvAgDeuKUzth1xNgS5+4H0lIVo3htwV9aHa14ubeueq3yTaLGOw4=;uq4JTGRnwTZhjYTUsLNtiA=="
+secured: "fLqnUyGiSfRapAcyPAIZgDRbfr0qAJe6SJ8jSPXaGmO08nUdiMHZ4n9PlB94UtWt8+dD9ivWsBPLELF1FUYXZF3Lnn5uuSaS3fLn4v7Ga2mtwOatAzYhYXg7DGc1iGASx54+cmTulPX8MaaZfFNbZ0x5+SaDPCW9Ex+zRyen5749KFDq6slPic0AB/SznZM2h5HRX6oMbVDPhQzFWvdNTDh60DT0pI59gJ8DYPIHZQ+DKRYjjOh61vh2cEt99Uw7ls64EPB8r9BlXgvLGC1ng7OoVRXwpzd+xqs9tXXzflaJ3KoYz4ahG5TH0KKAI+h5tbmvH44p3zJigDdGMya1uEmH7MhNleyBZ3aotEhcOlg=;mo/9HX8hl5XX8zzd4XHTkA=="
 ---
 

@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "SingularityNET (AGI) rallies 1,000% as industries aim to merge AI with blockchain"
-    excerpt: "The internet has reshaped society over the past 40 years and experts are predicting that digital technologies and artificial intelligence ... SL2 \"off to a running start,” with the organization ..."
-    publishedDateTime: 2021-04-09T21:00:00Z
-    webUrl: "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain"
-    ampWebUrl: "https://cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/singularitynet-agi-rallies-1-000-as-industries-aim-to-merge-ai-with-blockchain/amp"
+  - title: "Why these doctors are embracing AI to make triage decisions"
+    excerpt: "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ..."
+    publishedDateTime: 2021-04-13T11:20:00Z
+    webUrl: "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDQvZmRiZDcxMWQtNGM0Mi00NDAxLWJiYzktOGQzOWY0MTgzZTNmLmpwZw==.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "Cryptocurrency News Today – SingularityNET (AGI) rallies 1,000% as industries aim to merge AI with blockchain"
-    excerpt: "The internet has reshaped society over the past 40 years, and experts are predicting that digital technologies and artificial intelligence will continue ... just a way to get the SL2 “off to a running start,” with the organization aiming to ..."
-    publishedDateTime: 2021-04-10T01:57:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_cryptocurrency-news/cryptocurrency-news-today-singularitynet-agi-rallies-1000-as-industries-aim-to-merge-ai-with-blockchain/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 22
-    images:
-      - url: "https://s3.cointelegraph.com/uploads/2021-04/5d276ecc-6e0e-41f5-a169-d53c7cee4e6f.png"
-        width: 1588
-        height: 909
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/11/8c3289a0-2079-42f7-b8fb-ac6f44614965/radiology.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "lKJuME5pCJbAyq80XA6Bd6VYD7jQ1fkmp2H7uGqcgloaJ4EJYnOlTqfxook3s4ne5dQbaHaT/WRiyrWMs8g3wSa+j2vGH6YanqHDLkZtelQbuGfKcR2jPVEhPEBav127/fuuy9ri+IHCCiWx1RrYEtgI35HKi5ooA4+EdGbwyrHTHOrUBU2kVbMl2CvXmiB+gbec3gjB02lJMsdQ4OGHELQHgTo88NPT6ftIWf3gsO9Ns7WnOPWhxuLoVIMVAujJ+zxd79KeQfPFnX/7DwgLfhmWktRForjXFGZFUG+qXSreW2xWNl0w1t86j09IYu9eoAZxUr7oa0MwBrZEmNHA4DIfLrLhsiH8MGAH8B5Q4r3myVR+meAQqkzfD2rD2O2qGbPi5PMJCVA+xnPa2b7gP7fcYvI48E1WLw/OI5MgJAzF8C1byzT41fwylhqaw0xfH6mJdYlf0tARH4Vjb1mpHSCE3soaaPfphNEJntBaQcKbQ5QKzwKSvN+q7AqLqP1agP43699j8ZwRCCJ1fRCgNQ==;ZZTubvkXVaQn4PyVsSgaMw=="

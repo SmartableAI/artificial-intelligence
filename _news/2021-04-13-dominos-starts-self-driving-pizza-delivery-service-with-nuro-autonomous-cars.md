@@ -47,6 +47,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Self driving robot car will start delivering Domino's pizza in Houston"
+    excerpt: "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot."
+    publishedDateTime: 2021-04-13T10:11:00Z
+    webUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston"
+    ampWebUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
+    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
+    type: article
+    provider:
+      name: KRISTV.com
+      domain: kristv.com
+    quality: 76
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Domino's Pizza to test 'R2' self-driving delivery car in Houston"
     excerpt: "April 12 (UPI) --Domino's Pizza said Monday it's testing a self-driving delivery vehicle in southeastern Texas that could ultimately send out pies across the country. Domino's said it's partnering with automated delivery company Nuro for the vehicle ..."
     publishedDateTime: 2021-04-12T16:46:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2021/04/12/how-to-choose-and-deploy-industr
 webUrl: "https://techcrunch.com/2021/04/12/how-to-choose-and-deploy-industry-specific-ai-models/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TechCrunch
@@ -27,24 +27,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "How will conversational AI impact the media and entertainment industry"
-    excerpt: "Conversational AI is used in the form of voice and chatbots ... that is powered by artificial intelligence can take any piece of content, and translate it into the language the recipient needs. It can also translate information about that content into ..."
-    publishedDateTime: 2021-04-08T17:19:00Z
-    webUrl: "https://www.jbklutse.com/conversational-ai/"
-    ampWebUrl: "https://www.jbklutse.com/conversational-ai/amp/"
-    cdnAmpWebUrl: "https://www-jbklutse-com.cdn.ampproject.org/c/s/www.jbklutse.com/conversational-ai/amp/"
-    type: article
-    provider:
-      name: GhanaWeb - Ghana HomePage
-      domain: jbklutse.com
-    quality: 59
-    images:
-      - url: "https://www.jbklutse.com/wp-content/uploads/2021/04/businessman-holding-chatbot-with-binary-code-message-data_110893-1070.jpg"
-        width: 626
-        height: 294
-        isCached: true
 
 secured: "2640qWNgtVyjgtBEAB7vkDZ+BcyIsIGNpMOiggPz59NdvldH6YC9P/8Nm5hh4Hz7XSbpHset/u9YBCa5H4pMKDId45sKqKFuI8HzTnZF8oMOJOze847BAwFlIRdrx/6ZGuPEZ8pBkfpyqK1uSXh1YkOpjEhX6LDAG7ZwpHrP3nczdL3tgwKttYdaiMJAmvZWXoA3mwdjCvcDQ3BE7D93ZayD2Jgkgi+TIsPzc0Uk1Brv8d5Gq33qq7ANRQ1ioTqXzmQMb+aCLE7IEw1WpXnNsx4P7Yy7sL+LJ+wMow4RbWUohkbRkh2dO7+IWYe8ASvb/+4pdaZO/899J30g95Mw9XTBLYL9KNU206NXoCQOs8rJA+Et+woqAEdsTdvzyIqXGzZiVVfM2LaOLHcrugypEB8VwEwtCuiZ7Nl6B5ss2R+1Fs8iflopS9tBoRZ1l7Cz0DUrolU2W6E6KzBupVPpqXNshUTwjZHee2sBR9KbYvLhXu1L2PC5h4YVvujEQzTSbxJCRSZBMxZ2kystOo183w==;QXZqtminlNisZjzSXyfs9w=="
 ---

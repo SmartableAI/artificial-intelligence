@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
+    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-12T17:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 74
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Dubai strikes deal with Cruise to roll out self-driving taxis"
     excerpt: "Dubai has become the first city to sign a contract with an autonomous taxi manufacturer, ordering up to 4,000 vehicles from the US driverless car group Cruise with a view to deploying them from 2023. The deal with Cruise, announced in a tweet from Crown ..."
     publishedDateTime: 2021-04-12T10:51:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b888070-e717-4cc3-abcb-ef950f5fe41e.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
-    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
-    publishedDateTime: 2021-04-12T14:54:00Z
-    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
-    type: article
-    provider:
-      name: TaxiPoint
-      domain: taxi-point.co.uk
-    quality: 33
-    images:
-      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
-        width: 1000
-        height: 704
         isCached: true
 
 secured: "v5C4CeF3O3SgYbcQRpHrToA1rX4DzjFuLnOAy7DCZXG73nqDstObmCGRfKiFuYdT9neNfrxxDquV9mrrylvZjH4OdckQ0I94tyo2fnALzODfwGabYC/DXsdKdkFU4JliDmSA7LtE5kXgcf2QDZqeVszph5EPaLkORVv/97V2n/QsrqWPBPB+OOa5cSjMyqLsTzhTBOvVgmtRXn3FQTqcE8r5vRv5xO+FXTfw1wYOiXY8ZTbIriS8UW7C5c+2ahg5yoF1rpaguhTRyaG4QSxpqwmQNPRrrzyXgctnMlhoah6n2w/W2Mqcvsy7x4BzSGvqvBB5RTr1QSxCkivSiRU9waL5dTeLzK0eS/3//A2P3m6MyB+pt7225wQaaonX5PJOVnUB01zl/djGiLl9Mpk0cqImpchkzMGZIXVA7vFbvYelUILs6TviDyblchprcT3fIYkYZjqVIF18ySGXKJugtCoa47LhqZMCmw0OQfkyFX5Cvk64QSauGjpohIWphG5QcPfKMeyStpvZJkT0gSG/IA==;jn4F6BAshLBZf9UtgGhwfQ=="

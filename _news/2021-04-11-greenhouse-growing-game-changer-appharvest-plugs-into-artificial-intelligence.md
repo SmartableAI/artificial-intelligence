@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AppHarvest buys ag-robotics firm, Root AI"
-    excerpt: "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ..."
-    publishedDateTime: 2021-04-08T18:30:00Z
-    webUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024"
-        width: 1024
-        height: 765
-        isCached: true
   - title: "Vertical farmer AppHarvest buys robotics start-up Root AI"
     excerpt: "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ..."
     publishedDateTime: 2021-04-12T15:50:00Z
@@ -55,6 +39,15 @@ related:
         width: 424
         height: 282
         isCached: true
+  - title: "AppHarvest acquires robotics and AI company Root AI"
+    excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting support ..."
+    publishedDateTime: 2021-04-13T10:02:00Z
+    webUrl: "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/"
+    type: article
+    provider:
+      name: futurefarming
+      domain: futurefarming.com
+    quality: 49
   - title: "AppHarvest acquires artificial intelligence farming start-up Root AI"
     excerpt: "Agtech company AppHarvest has acquired agricultural robotics and artificial intelligence (AI) company, Root AI, in a deal valued at $60m."
     publishedDateTime: 2021-04-09T12:00:00Z

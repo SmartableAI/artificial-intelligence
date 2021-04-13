@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The firm has increased ad prices by 30% since March. Research firm eMarketer expects that Facebook ad revenue will cross $42.6B this year. The company is ranked first on our list of top 10 artificial intelligence stocks for 2021."
+excerpt: "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/5/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/5/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
@@ -72,6 +72,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "sm1K1trsSSpVpjDAxGIM6A1FUCdMyrJpdcON4Ho+rMbhg1ZQloVzKfzCVrObaLtFbO2s5Axwmb6b2tr5wdwADOfMXMVvJmMGieYpyRGu4adb0+wqvN3QNkQk74+Nid8evY+t/wE5DskO+JjhXQADP83sDBs6cH9czlcWL6VKoSq8L1+WlZ0ZHkQ81XpPCZkCvb63399GdvNG8C1z0bfMB76WHS0LKBhaq3nsMj8eyETexGLL71R2v0U04UBkaFc221QyP7ovAuvNCRVpjwWjUv3jUo3UfYXt6EVCUTUOGhfLQSAgiUXwxvKZ0t3czf7peh3jmsfjPnnroJq4SCOEiNu3IcFKVQh5pWmAMc6huws=;nILISq6FTpU5CXtsPEMm1Q=="
+secured: "kLUAfoYUV+kAV6xUYDb8NyjA3xZ2GzpYILOUFy1C2NEAEyiCuCLJsEFQXHqlTp9N5tsef/yoSBP6JP5dh/Tg5afmQHdFQztwA7bd8MJCldHXXBbZkAGg1J+1KQRt/8TcfYPYhPbnqwXy3hsudUa9lufX/vhmwZqUVWeYgE6tZwlwFc7uBqDuvk7NXehrn+aQgv+MQzxMXeX9JesoSNvA0LGFPnqNc8RYQjHQHcuc0NjeCsNuPIPJEfVrD2fOy4xpWUYpAu9mD/qrZE4YpCw0DAdmq5rOET0Lk+DbgLi54+gNl+gu+kQUKIvGjl/k6/ijpcYL4vuW7czcR/7bDP9Q5dYfD+/iVzSMaDFKOrEmP/M=;GxNcEFmmZw4Ogghj4oWSng=="
 ---
 

@@ -31,38 +31,109 @@ images:
     isCached: true
 
 related:
-  - title: "AB InBev, Werner Enterprises to test Embark driverless truck technology"
-    excerpt: "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,"
-    publishedDateTime: 2021-04-08T17:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html"
+  - title: "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles"
+    excerpt: "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 189
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
-        width: 3600
-        height: 2400
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/nvidia-cars.jpg?w=1200&strip=all"
+        width: 1200
+        height: 795
         isCached: true
-  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
-    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-04-12T17:26:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "NVIDIA Unveils Powerful Grace AI Supercomputing CPU And Atlan Secure Autonomous Vehicle Platform"
+    excerpt: "NVIDIA’s new Grace CPU is targeted at massive AI training and HPC workloads, and its name is in honor of Grace Hopper, a computer scientist, programmer and US Navy Admiral who is credited for developing a programming language concept based on natural English language."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607472952d8c54c1a5fe3ed6%2F0x0.jpg"
+        width: 1000
+        height: 554
         isCached: true
+  - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
+    excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
+    publishedDateTime: 2021-04-12T20:57:00Z
+    webUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78705_02_nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu.png"
+        width: 620
+        height: 347
+        isCached: true
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
+    excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
+    publishedDateTime: 2021-04-12T17:05:00Z
+    webUrl: "https://hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 48
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54797/content/nvidia_mercedes.jpg"
+        width: 708
+        height: 418
+        isCached: true
+  - title: "Nvidia shows off DRIVE Atlan, its next-generation system-on-chip for autonomous cars"
+    excerpt: "Nvidia claims the chips will run an unprecedented 1,000 trillion ... “Atlan is a technical marvel for safe and secure AI computing, fusing all of Nvidia’s technologies in AI, automotive ..."
+    publishedDateTime: 2021-04-12T16:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/nvidia-shows-off-drive-atlan-next-generation-system-chip-autonomous-cars/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/800-3-2.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Nvidia to supply Drive Orin chips to Volvo Cars, develop new Atlan AI chip"
+    excerpt: "Nvidia has announced an agreement to expand its collaboration with Volvo Cars to allow increased autonomous driving functions in future vehicles. Under the deal, Nvidia will supply Volvo with its latest 'Drive Orin' system-on-a-chip (SoC) technology to power the autonomous driving computer in its next-generation cars based on the SPA2 modular vehicle architecture."
+    publishedDateTime: 2021-04-13T08:06:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-to-supply-drive-orin-chips-to-volvo-cars-develop-new-atlan-ai-chip--1379196"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
 
 secured: "7DBRwEJi2pex40UTCvXMmPYBWkLgSYK9L2T76S/arNpvoYrSMmv5eQM4eNQaZdLV/0/aw93GoEG4KB97vP1R2IRHMd8opNKBqPgJje05JOgaJ3sFkmETl3BYuT+psv2LkhTu5auZv6Ydp1zOz+jG0SFX2xkw+RpnfsqJ3GVQjYunU6/9hTW3RMJaHbwz/x6n3jnB4ppvd8gS9SVxaadZYCKz4rfR4CzN6v84TG4qC8t2hHMzNk68i7MnJATLvcBt5bFDAIxDPWIfTOtFS9JWa734hRpAylve0DziD94bbmnkj10p+v/rBkuGqI3kSfiJifBnHh8Du63mebCjuah8h4eZX3ISNh03fFd3Dai2AXuJd25v7sWDWH+Rwa51qisOPiOm/dzTIGXP+CNxT9vtuDunfhZXQlyX+6uQYhSUFekFdqFiwWBPIyHAoqzC9pfJq+4L+rS3rykygGeQD5vyYpByULQXxOsWZ2THfrZ1ER9oR2pFGx+kQ2HZdGsVrXIPQEzrDoTML5P4+OZKiyVxjA==;trPaE/vw9JFRWqdZj3htNw=="
 ---

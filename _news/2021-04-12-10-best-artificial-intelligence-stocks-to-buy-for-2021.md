@@ -58,9 +58,9 @@ related:
         height: 1410
         isCached: true
   - title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-    excerpt: "The firm has increased ad prices by 30% since March. Research firm eMarketer expects that Facebook ad revenue will cross $42.6B this year. The company is ranked first on our list of top 10 artificial intelligence stocks for 2021."
+    excerpt: "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ..."
     publishedDateTime: 2021-04-12T15:41:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/5/"
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
     type: article
     provider:
       name: Insider Monkey

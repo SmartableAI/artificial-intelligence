@@ -161,6 +161,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Microsoft buys AI speech firm Nuance Communications"
+    excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
+    publishedDateTime: 2021-04-12T15:00:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-buys-ai-speech-firm-nuance-communications"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Q9MsVRHZFHWkw8tkW3dwx6-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Microsoft buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance for $19.7 billion ... or offer it independently as part of its Azure cloud business. The two companies have already worked together in these areas, and in 2019 announced a “strategic partnership” to ..."
     publishedDateTime: 2021-04-12T12:37:00Z
@@ -366,20 +382,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Microsoft buys AI speech firm Nuance Communications"
-    excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
-    publishedDateTime: 2021-04-12T15:00:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-buys-ai-speech-firm-nuance-communications"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Q9MsVRHZFHWkw8tkW3dwx6-1200-80.jpg"
-        width: 970
-        height: 545
         isCached: true
   - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
     excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
@@ -650,6 +652,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
         width: 1312
         height: 731
+        isCached: true
+  - title: "Microsoft makes big bet on healthcare AI technology"
+    excerpt: "Microsoft Corp is making a massive bet on healthcare artificial intelligence (AI). The software giant is set to buy Nuance Communications Inc, tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
+    publishedDateTime: 2021-04-12T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/04/13/2003755568"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 73
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
     excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
@@ -999,6 +1015,20 @@ related:
         width: 1100
         height: 817
         isCached: true
+  - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
+    excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
+    publishedDateTime: 2021-04-13T10:00:00Z
+    webUrl: "https://www.technewsworld.com/story/87093.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 56
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-microsft-nuance-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -1275,6 +1305,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "uYg/NtyOJzLYYrlBujjSgwG5HiSUdkcC204VC3t5XrhOyyf1VaGnFYMHEBMQVBbIEeTWjj1suGSbdD20OtWTVXAdrNSIBvSxqlOfkxPdSe0iPnbAsjq2WHL6s5ptHo4lwjqQ/Mp5p/UBN+smkf1xajhdVKjUwi/LJl9YbjjDhNVGG8BrkA1HpnVuEU5D1F36d4xmTyWn+E6AFO6EQas79a9q8r5MppX/prddNqQi1sccAeJLg8uIyFDDvARLphVNgYEKvULb/xVbZNYqjBP6C5kpx4OXGv+VUfhuNctdhynxVLvturmklQ4/7Rj2SQnsJC5CHq2EmgRwCaQhhhvPo9kwRfAg72T0C4NRzFGk3wQ=;sodQuF//FxEMpozi50m86A=="
+secured: "fayJMjHlWmC7tKe7byFzQX6u1b773fDKOAUZU1Bgg0TYji0Cx2F6Kb422bZGJxDiYMspKmXqOsn8e+XjDUK8k8sgfaf8hYt3yvH5xElL1ho+ybWxXCdshfC9Rkzheg2XlDyLggjitwCYPC4lSxZ016FdvsFlFwX469vE3+kq9/RFeVOtASdYlJJJWWzNVXflr7qNo1wk4D9svPKqvIE2fP9nwP9U/kz4UONxbZWWtvEwiKaol1QePSRrthf8FVdY4MQseHUH9pENi8Etzao18SPBCexcX1CHJQKI05Ue8qaKKxfidYVZcJdxn5EV/T03zViRBit4bAqnbVMzmd6gAXdtMt5eCLeKAoYyYFHt3HGx3382sEHqM7GLV9p0VclQT80e4E6+fdb34JSnOwhsr0dqrlx0F9Q/ke9q2PIK++aUTLJ8/q/oO0TcYwTQwXS2sbIFRaH31vFzC967GkjuNYS5x2fECKiqi38aPUa0Tsc4sfSTtGNfRT1foU7I5f8M48TitiOBzx3ijlMbyIcbHQ==;HyboIhK4VCqkGkoXO/0wiA=="
 ---
 
