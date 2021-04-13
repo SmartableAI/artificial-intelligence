@@ -41,20 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Intel’s Habana Labs to supply AI chips for new UC San Diego research supercomputer"
-    excerpt: "Intel Corp.’s Habana Labs unit today said that it will provide hundreds of artificial intelligence chips to the University of California at San Diego, which will incorporate them into an upcoming research supercomputer called Voyager."
-    publishedDateTime: 2021-04-08T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/08/intels-habana-labs-supply-ai-chips-new-uc-san-diego-research-supercomputer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/1-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Habana Labs AI Accelerators To Be Used in Voyager Supercomputer"
     excerpt: "The San Diego Supercomputer Center (SDSC) at UC San Diego has selected Habana Labs’ artificial intelligence (AI) training and inference accelerators to provide high-performance, high-efficiency AI computing in its Voyager supercomputer."
     publishedDateTime: 2021-04-08T15:03:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Habana AI Accelerators Chosen by the San Diego Supercomputer Center to Power Voyager Research Program"
-    excerpt: "Habana Labs, a leading developer of purpose-built deep learning accelerators for a wide range of data centers, today announced that its artificial intelligence (AI) training and inference accelerators have been selected by the San Diego Supercomputer Center (SDSC) at UC San Diego to provide high-performance,"
-    publishedDateTime: 2021-04-08T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-san-diego-united-states-7205ee636b0ec942cf6b2221f793fc6c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "8L/u0XPVg3ntKbmjo/T+n3YETEyZfDFWo291FLZJFRLsMZC1vVdWCVZ6vlJPM0ih0fy6+Lc8exMhy/GKvSQRKcNI9r7rguklfjofrpFQ7GpDJsPN6n/V7Xrrhy8oZQnr5L6fFd7B1c/gYgS9uIJw9d+st7q7cyHGHZwMQNEFOcWTLerv+6jys7j/vfz/Q1JHQA1CYyDis0n/3GQvKrgjxWv0pNm3Xs8LAIT1vs3AFRWQtwK4UYdDk2zxM3HUJS6O8aHDaBxwoGGvaZrELlSIkv947meCiiVJqnw2URt+f9Zyn9PW71sGRGnM5NnjUTolLX/lWD1TXt5cQ6mspijJzFzzsoe2Fi7dCdIKfM1rncpzzChk+IqZGYTFkFF7uqgoXSMO6UM6R/hv5TSsfsZx3aW58mDtkuZew7EArC7WpiLFbtaLjYqE2yOiVZz8IfdCmOF7MpHGfI2107ZfHa+fGaiou8QTjAwDl/xJ+8QtHbGWdnXYayjkWc13Eh0DlE50dBlxk3cHjl4uC1IdLou0pA==;l2AnvFw9ohTJY0mcHrCQvg=="

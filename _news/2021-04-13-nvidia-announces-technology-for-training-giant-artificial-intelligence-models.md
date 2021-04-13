@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
 type: article
 quality: 99
-heat: 249
+heat: 289
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://www.rcrwireless.com/wp-content/uploads/2019/05/119131792_m.jpg"
         width: 2048
         height: 2048
+        isCached: true
+  - title: "NVIDIA announces Grace: next-gen ARM-based CPU for giant-scale AI, HPC"
+    excerpt: "Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance AI."
+    publishedDateTime: 2021-04-12T20:33:00Z
+    webUrl: "https://www.tweaktown.com/news/78703/nvidia-announces-grace-next-gen-arm-based-cpu-for-giant-scale-ai-hpc/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78703/nvidia-announces-grace-next-gen-arm-based-cpu-for-giant-scale-ai-hpc/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78703/nvidia-announces-grace-next-gen-arm-based-cpu-for-giant-scale-ai-hpc/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78703_01_nvidia-announces-grace-next-gen-arm-based-cpu-for-giant-scale-ai-hpc.jpg"
+        width: 620
+        height: 347
         isCached: true
   - title: "Nvidia announces plan to make CPU chips"
     excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
@@ -233,6 +249,43 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NVIDIA Unveils NVIDIA DRIVE Atlan, an AI Data Center on Wheels for Next-Gen Autonomous Vehicles"
+    excerpt: "invention of the GPU in 1999 sparked the growth of the PC gaming market and has redefined modern computer graphics, high performance computing and artificial intelligence. The company’s pioneering work in accelerated computing and AI is reshaping ..."
+    publishedDateTime: 2021-04-12T16:57:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-products-and-services-8a7a3be1f8ce11128f0eada4009ffb3e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI"
+    excerpt: "SANTA CLARA, Calif., April 12, 2021 (GLOBE NEWSWIRE) -- NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure."
+    publishedDateTime: 2021-04-12T16:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
+    excerpt: "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A"
+    publishedDateTime: 2021-04-13T05:40:00Z
+    webUrl: "https://www.businesswireindia.com/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-72475.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 17
   - title: "Nvidia Announces DRIVE Atlan, its Most Powerful Autonomous Vehicle Processor With 1,000 TOPS of Compute Power"
     excerpt: "During today’s opening keynote of the annual GTC Technology Conference, NVIDIA founder and CEO Jensen Huang unveiled NVIDIA DRIVE Atlan, the upcoming generation of its AI-powered compute platform for autonomous vehicles."
     publishedDateTime: 2021-04-12T23:00:00Z

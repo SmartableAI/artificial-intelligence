@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Become A Fintech Market Participant"
-    excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
-    publishedDateTime: 2021-04-08T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
     excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
     publishedDateTime: 2021-04-11T11:04:00Z
@@ -120,22 +106,6 @@ related:
       - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
         width: 775
         height: 500
-        isCached: true
-  - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
-    excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
-    publishedDateTime: 2021-04-11T08:11:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leading_Irish_RegTech_Startup_expands_to_the_UAE_as_demand_grows_for_antimoney_laundering_compliance_software_for_banks_and_FinTech_challengers-ZAWYA20210411081141/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 22
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
-        width: 450
-        height: 501
         isCached: true
   - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
     excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."

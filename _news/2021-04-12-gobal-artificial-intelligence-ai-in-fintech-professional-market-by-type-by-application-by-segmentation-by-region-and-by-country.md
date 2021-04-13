@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelli
 webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Mobile Speech Recognition Software Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "Under COVID-19 Outbreak, how the Mobile Speech Recognition Software Industry will develop is also analyzed in detail"
-    publishedDateTime: 2021-04-08T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
     excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
     publishedDateTime: 2021-04-12T17:55:00Z

@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Editorial: Ending use of facial recognition by police"
-    excerpt: "Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software, an intrusive violation of citizens’ personal privacy. While it might ..."
-    publishedDateTime: 2021-04-12T22:15:00Z
-    webUrl: "https://www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html"
-    ampWebUrl: "https://www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 59
-    images:
-      - url: "https://www.pilotonline.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
     publishedDateTime: 2021-04-09T11:00:00Z

@@ -3,18 +3,18 @@ category: news
 title: "Domino's is testing out its automated self-driving pizza delivery service"
 excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
 publishedDateTime: 2021-04-12T19:41:00Z
-originalUrl: "https://www.wvtm13.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-webUrl: "https://www.wvtm13.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-ampWebUrl: "https://www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-cdnAmpWebUrl: "https://www-wvtm13-com.cdn.ampproject.org/c/s/www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+originalUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: WVTM 13
-  domain: wvtm13.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -90,6 +90,6 @@ related:
         height: 446
         isCached: true
 
-secured: "197Zq1EobAX7vRD57Df3MfBbI9qi2rfGbaYJRTC5s21b+AxEsvQJSJd4xpPkC84lqT3gMYpcoNKOoUfL6QzQAwCAUuNIf9pqx93ItaSR4TR4/yMVjT0rC55hsryFJgsfFwGQf8eZmlGYIiWRtZP36UjL1/25zY954lUo2ruMwnX3WvTR+DvfpohwL68XliVPpev40cHrg5opCdCVDrN3lHpL0CSFrAK6X9I/aEP3XWE6TVSFiokWB+qmPCbY/hFf46K81dPt6p0hfG9P1E/5Jc958FNMl6GyWpPQyyY7CQJHd/JHLyKrI8AYRaOSje0bK1FboWZVOlAvdiTOzyX35L1Z0hRamVB7OAtyrYg0XII=;CYh/F90Wpd1V7ykoJgCIXQ=="
+secured: "R7gcB9u2eBrmqvHjiFeD74ZAk0F5AYg6huMgCUoVGWKNJi0Mq7qEtqCMROpoodsAFaTXlYA+uBFiXFs4tjEvfl0OH0aemw6GKMgeKOEMnbVcVCkNH7hJxKzB3zdxWaFh7IgpEUYRt2deKKG+cbCvuh49DdLmLlwsUjclpaCZA7t3PUzJzi254pOkS6u9uQDlmwdoKZ91vIHAZD0a6PU9j1QWxPFMEvVBsH15tP0dLE1ETHj0mOiHuKAPzqML1zkuFiGUnvISK9h8n9sI/Q+2Uea7N7d6q38xIZqgXQwlL0yUfS7CzrJzGT48mxI8HILX/HwmnWctLZd4jukvq6C6wToVd+/1Enaa6MdqUMM085A=;IqN8ZEklwbonORLjac/8Fw=="
 ---
 

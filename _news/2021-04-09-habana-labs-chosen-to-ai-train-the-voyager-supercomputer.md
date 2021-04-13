@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hp
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 600
         height: 263
         isCached: true
-  - title: "Intel’s Habana Labs to supply AI chips for new UC San Diego research supercomputer"
-    excerpt: "Intel Corp.’s Habana Labs unit today said that it will provide hundreds of artificial intelligence chips to the University of California at San Diego, which will incorporate them into an upcoming research supercomputer called Voyager."
-    publishedDateTime: 2021-04-08T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/08/intels-habana-labs-supply-ai-chips-new-uc-san-diego-research-supercomputer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/1-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Habana Labs AI Accelerators To Be Used in Voyager Supercomputer"
     excerpt: "The San Diego Supercomputer Center (SDSC) at UC San Diego has selected Habana Labs’ artificial intelligence (AI) training and inference accelerators to provide high-performance, high-efficiency AI computing in its Voyager supercomputer."
     publishedDateTime: 2021-04-08T15:03:00Z
@@ -86,20 +72,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Habana AI Accelerators Chosen by the San Diego Supercomputer Center to Power Voyager Research Program"
-    excerpt: "Habana Labs, a leading developer of purpose-built deep learning accelerators for a wide range of data centers, today announced that its artificial intelligence (AI) training and inference accelerators have been selected by the San Diego Supercomputer Center (SDSC) at UC San Diego to provide high-performance,"
-    publishedDateTime: 2021-04-08T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-san-diego-united-states-7205ee636b0ec942cf6b2221f793fc6c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "+ZRr1yNxbDwzGsmvAAiwcCSVcjcyIFU7p/luUfTRvInKYWYOOJk3EOZC+8pA3EWrqV3x0Hu+ulWRGQhON1HVOWYPg3+ue25OSsgbif/hl980BeooCJWQNvkuEjjr8j03Xff6gTznRxymYTVwTjITBbUZkAzpaMIFiVDr9ePt+UYUotNOhSc0jwPulNzfyZPSMax2KrBgOkxN9XPUvJOyIVHmf9PmCmVrwvdxd2+nWurpLr3T8YPi0DRToTfd5IDGkQ70Tr43elGEa6tsO/9fBaL4IsgVxZqAsIEvJahflYx4+NkgK8fcId5vZ7Kz3rz7VA0B3RMI/XGY0mqZqI3ouy7lo9A8AutBi3uREzZlJk/jNLDqaJtchzze2iCOocnv9xfkEIbAQlgZnyXWucWxDgFWXwVZyK29iW++4sBg/9LQ/QrOVmEEbOuufDWz1I8FPZ3nVUSB1CEfNM1TvHRfS26ialXy4YIXSe6tGDKfw8GykGPxjgaUF9j9xFx3VIofOjiJDGzRnBAfYSjlJRstuw==;dCYEdKl/EzXuvYFKKNYOJg=="

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence victorious in Chinese fruit growing competition"
-    excerpt: "Experts in artificial intelligence have beaten some of the world's best strawberry growers in a Chinese competition to see who could grow the most fruit. Three teams of top traditional growers were set against four teams of AI experts in the contest ..."
-    publishedDateTime: 2021-04-08T12:18:00Z
-    webUrl: "https://www.freshplaza.com/article/9310041/artificial-intelligence-victorious-in-chinese-fruit-growing-competition/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 37
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/08/Aii.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Society dictated your face, according to biometrics research and a patent"
     excerpt: "It seems that algorithms can identify someone's name solely by examining a photo and if accurate, the premise could be used in facial recognition algorithms."
     publishedDateTime: 2021-04-12T20:37:00Z

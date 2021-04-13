@@ -33,34 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

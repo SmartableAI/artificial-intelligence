@@ -55,20 +55,6 @@ related:
         width: 600
         height: 263
         isCached: true
-  - title: "Intel’s Habana Labs to supply AI chips for new UC San Diego research supercomputer"
-    excerpt: "Intel Corp.’s Habana Labs unit today said that it will provide hundreds of artificial intelligence chips to the University of California at San Diego, which will incorporate them into an upcoming research supercomputer called Voyager."
-    publishedDateTime: 2021-04-08T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/08/intels-habana-labs-supply-ai-chips-new-uc-san-diego-research-supercomputer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/1-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Habana Labs AI Accelerators To Be Used in Voyager Supercomputer"
     excerpt: "The San Diego Supercomputer Center (SDSC) at UC San Diego has selected Habana Labs’ artificial intelligence (AI) training and inference accelerators to provide high-performance, high-efficiency AI computing in its Voyager supercomputer."
     publishedDateTime: 2021-04-08T15:03:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/board-2440249__480.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Habana AI Accelerators Chosen by the San Diego Supercomputer Center to Power Voyager Research Program"
-    excerpt: "Habana Labs, a leading developer of purpose-built deep learning accelerators for a wide range of data centers, today announced that its artificial intelligence (AI) training and inference accelerators have been selected by the San Diego Supercomputer Center (SDSC) at UC San Diego to provide high-performance,"
-    publishedDateTime: 2021-04-08T12:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-san-diego-united-states-7205ee636b0ec942cf6b2221f793fc6c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "ri9L6yt9r8HRZv1cLS5rA8wiAURcEfapUexbpKLq/f+eqmT5eRcmYtGYwuzD9Z/Nkw16++/gMxSdqT6tnIwYpB5z/M0OEVhuwekYycUTYYgUMvmMzq0vg5MzgLiHz+rTJcgpk1HpTM1XUfnlOpCLlqnEYfWY56HUnzpNEsy6InnUbXECKqRkbsucjTehnWDHk85xhcwgqoD0LQzPY/HuqVQSWkLN27r+1/KfXUBPwctZSU1839aSG82sM5rGO28g/hDBK/pzDhdFTj/RU2P+TQgSBJO1TVx/lfBx9PbFhRdI2AnV9XY26uOr++3Dwxcqvxr+ggibkiqUoPL+77u38XmxXt484eT06rin0eeLEmDI0uGO9xS6LBdn5aSs5J71lB1mCzhGtRtMtYtLgDYe/fI0NFknvkeKZc27X4iXUnPu0MK4R/4e62yxERV5tyPwO2uPBBMibzCZmNAvxKtnOdrFEM9piWg9MYYDoXZWv3sEoOYiwN+VfAlXo4YBiaHefRawM3C/VEilp0bRzH3HsQ==;xP9Oo7T41zIi1K9V/BWmXA=="

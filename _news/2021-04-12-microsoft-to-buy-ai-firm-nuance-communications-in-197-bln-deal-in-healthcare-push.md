@@ -407,6 +407,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Will Buy AI Firm Nuance For $19.7 Billion To Bolster Healthcare Technology"
+    excerpt: "Microsoft is buying an Artificial intelligence speech firm from Nuance for $19.7 billion. It would use its software and artificial intelligence for healthcare."
+    publishedDateTime: 2021-04-13T04:52:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 84
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/3swdoonk3lcscxi1_1618277591.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
   - title: "Microsoft is spending $19.7 billion to acquire Nuance, an AI & speech recognition company"
     excerpt: "Nuance, the company that makes the speech recognition software that powers Apple’s Siri voice assistant and the Dragon line of text-to-speech tools, is about to become a Microsoft subsidiary."
     publishedDateTime: 2021-04-12T16:12:00Z
@@ -887,6 +903,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
+    excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
+    publishedDateTime: 2021-04-13T05:26:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202104/mico-647x363.jpeg?YVzozUuFPEpeAd8bDYmitKdUtfKbRKPd"
+        width: 647
+        height: 363
+        isCached: true
   - title: "Microsoft buys artificial intelligence firm Nuance for USD19.7 billion"
     excerpt: "(Alliance News) - Microsoft Corp will acquire artificial intelligence and cloud computing company Nuance for USD19.7 billion, the company announced on Monday. Nuance's technology is used extensively in medical records, and the transaction will bolster ..."
     publishedDateTime: 2021-04-12T13:11:00Z
@@ -1026,20 +1058,6 @@ related:
       - url: "https://www.crn.com/resources/0268-12069f896813-36025a955139-1000/microsoft-nuance.jpg"
         width: 609
         height: 457
-        isCached: true
-  - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
-    excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
-    publishedDateTime: 2021-04-08T12:55:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiden-innovates-ai-driven-natural-language-processing-and-unparalleled-automation-for-microsoft-windows-endpoint-management-301265117.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1483731/aiden_Logo.jpg?p=facebook"
-        width: 599
-        height: 315
         isCached: true
   - title: "Microsoft Acquires AI Firm 'Nuance' For $19.7bn; Nadella Calls It 'priority Application'"
     excerpt: "This feature of Nuance will help with Microsoft’s cloud, including Azure, Teams, and Dynamics 365, to deliver next-generation customer engagement and security solutions. AI is technology’s most important priority, and healthcare is its most urgent ..."
@@ -1186,6 +1204,15 @@ related:
         width: 1959
         height: 1469
         isCached: true
+  - title: "Microsoft adds speech recognition"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ..."
+    publishedDateTime: 2021-04-13T04:59:00Z
+    webUrl: "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 36
   - title: "Microsoft to acquire Nuance, an AI and cloud voice company, for nearly $20B"
     excerpt: "Microsoft Corp. has agreed to acquire Nuance Communications, Inc., an AI and cloud voice recognition company that ... fits-all approach to persuading those businesses to choose its Azure cloud service over AWS, Microsoft’s main cloud competitor."
     publishedDateTime: 2021-04-12T21:59:00Z

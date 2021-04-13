@@ -7,7 +7,7 @@ originalUrl: "https://www.somagnews.com/robot-laura-an-ai-is-helping-to-fight-co
 webUrl: "https://www.somagnews.com/robot-laura-an-ai-is-helping-to-fight-covid-19-in-brazil/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
-    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
-    publishedDateTime: 2021-04-12T08:36:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
+  - title: "Brazil publishes national artificial intelligence strategy"
+    excerpt: "... the country's artificial intelligence (AI) strategy to guide actions around research, innovation and the development of related technologies to tackle the country's greatest challenges, as well as ethics. The publication of the strategy follows a ..."
+    publishedDateTime: 2021-04-12T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 27
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
 
 secured: "eWqtwUD0KdZdYVcp+2vmahWMudPfEtXi4gy3JQwHOv3sVaCgrUpDiID67OVwUYhW7CXHUSWeW0lHOXtbNhNnEYVnTN+tZOU9pzzFHAbvUKtEXUvp/VMfWkwiKaJwKn3M6rqCLIaM0zjXq0+Hrj2PiTcwLT1BLMMC0J9Szve8a4PsjUjSjZwmawXtqmOHydzVpCDQL83GbmQ6TXA1qhvSjbtRDPbT1+JfO3twqxEmMOpViRbV7L6eXKkh+6nsWsUcvwNu1PXQMnlpG+Z4dMGtbuN+UVmgejGIjUZ/9FdZlGySAqST7rOCy/Wlxw3h3IIUN/cbR/D8c9ygvjp4JHoa3BtKGVyOpJO8HK/xVVUQ8Uh4XKyhyaJcwOF1ADwxRKySS+itAaqLA8kfJfanGtrmKtuduARyIgJjXJWtFOf1MN+b+qchK/XcRTy6kGBXewfxeMjdaTyY8O9Ps5M6XaojVSyV0aRWLp/nKu/U9AygKb0/D1CnD4SnX3Pl/9z6yAI/xj5N6RFyzNYsrRZOP6rUsQ==;9eUAwpup3AjOwG1URggXxg=="
 ---

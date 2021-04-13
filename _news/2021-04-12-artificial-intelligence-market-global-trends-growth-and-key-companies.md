@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
         isCached: true
 
 secured: "3Do/vSVCzxq6I1L0zf5mxUHt1YxpnsRHxpcxma5j0W+SH2ZvMhRwSqxQ4FyPdlpUoZJyGomaCkRL/beDJoqX2IHxnikg/IRECNLZAGOStlCwQIhCPJ19LvkT/hxe+3HuQktxaS4rplvnfIC2Xx/l+VuJ31QglgRbtEe+S0ZL4aj9qY9Qyh07VxKtNBEC4ZFunvuBTQbGwXuhDPKJaJulPTl0cCMOwA914QyzT5j500cewAg9Te8INZ+U8tuYEHnwOq1yqdQ52Z5fssuXBTrRTIv64x2YnetRZ3hj018oHP9ieb5aKGUJ07OzgDLLle1XCAXqPsolHHJGDNuOgiGoH7Q0TMe/wzKQ/U/jZAJb8RM=;ZqqAeFTkD3Rq7/TyFLzF4Q=="

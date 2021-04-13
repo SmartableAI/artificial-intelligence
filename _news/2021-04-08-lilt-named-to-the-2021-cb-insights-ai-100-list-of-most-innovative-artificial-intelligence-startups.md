@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 896
         isCached: true
-  - title: "Riiid named to the 2021 CB Insights AI 100 list of most innovative AI startups"
-    excerpt: "\"Last year's AI 100 companies had a remarkable run after ... Since inception in 2013, Born2Global has been setting the standard for successful startup ecosystem as the main Korean government ..."
-    publishedDateTime: 2021-04-08T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/riiid-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-ai-startups-1030285656"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1483624/image_819222_28456087.jpg"
-        width: 400
-        height: 299
-        isCached: true
   - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
     publishedDateTime: 2021-04-08T13:12:00Z

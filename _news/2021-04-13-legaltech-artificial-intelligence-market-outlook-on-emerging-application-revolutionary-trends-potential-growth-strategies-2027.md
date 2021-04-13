@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "Under COVID-19 Outbreak, how the Mobile Speech Recognition Software Industry will develop is also analyzed in detail"
-    publishedDateTime: 2021-04-08T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-04-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Geu4MUY3CaV1n50cPW/jgYlUzp9j6s0Lm6Nubf8XklgM8SY4yv7TR6c194LaFSclWV/fUrTmUzmadwAlFcB7n9z1qdG9iC7LGQKgNAifzA45H9ADq4by8hIESpQx79FwX+0arxJoBgInUkenr5ObAL9vVdVrHgc2Dzq+P1VknDhHMl6oti8mj+CQHxjZK09asf9/1lLnuNZMtq7ZRnrMhxp9EmYiIOweFv99TlaMGVMKccwztxKKEGVuzrq8vsEQ15hFZTXtMzbI+asT3wVr7HR8yhPmunBv8bgbarOfYovN29YCNbcJO72cFBJnuHvJqDpqWAD08CF58T/MUe83n4gc/rIIMPjokBX1clHQpihogrYbPw2ZO3KYolbCTnmzVPZMtOYXAuSy3d5tdqBISdso4kZlFW1nyyOAypOhb04fb3XNUUlKeNJIanWeCwvudhgQKpLCln3CEf0YzUi9zZZs4sVuNrtTm7aK70kMOo1J5HHiFDNR5xUJSeWPB70o2H5gBikdNazlNxXToj/CJw==;9bPOd+Q8XzwOv6SE8iPaZw=="
 ---

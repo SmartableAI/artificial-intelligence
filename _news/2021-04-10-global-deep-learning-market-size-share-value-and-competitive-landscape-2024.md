@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
-    excerpt: "(MENAFN - GetNews) Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Market Size USD 3.82 ..."
-    publishedDateTime: 2021-04-08T11:30:00Z
-    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?772902"
-        width: 383
-        height: 250
-        isCached: true
 
 secured: "wK6wfz7AqCj96ruhBvD6WpYY4qj+UO8fBIx87w8K/80GO4HWfyjAnr1KrrvY7QkzYEz9yYbadex6+zsVB+g0n9fxyaj/IV9jNRoDjr01gMYXGZlMMX7FLA8WHI5hG8a6BubCmq02GwtChJJDlqj1JJ1oi46yIJvJpzTtFiGsVQwIWi7qunDOC/yFm4LttnBpZ4alCgTgZJ2fswlrZM//W1Pu+1zZr3XHebQsg/QfokEjZbg+idNaJucW/anaFmdMXCpTwcX1yrpqxxIfjlvO6LjTe+0p4hEwg4gZR1Kz5GeJnT5rsc21nsquofg4dJXloW926fs7htHqjZDAZm7tcRNxABdpUC2Hr4Xs3+lvvCU=;y36Q0sDVDSY1lLmvrE11qA=="
 ---

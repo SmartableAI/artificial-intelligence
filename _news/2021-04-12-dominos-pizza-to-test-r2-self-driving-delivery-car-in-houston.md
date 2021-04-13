@@ -62,13 +62,13 @@ related:
   - title: "Domino's is testing out its automated self-driving pizza delivery service"
     excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
     publishedDateTime: 2021-04-12T19:41:00Z
-    webUrl: "https://www.wvtm13.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-wvtm13-com.cdn.ampproject.org/c/s/www.wvtm13.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
     type: article
     provider:
-      name: WVTM 13
-      domain: wvtm13.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 43
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"

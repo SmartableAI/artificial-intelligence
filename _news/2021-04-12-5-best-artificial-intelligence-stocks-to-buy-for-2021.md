@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ..."
+excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Getting AI to Scale"
+    excerpt: "AI experts, such as data scientists and data engineers ... they will require and when, and then chip away at each piece as needed. In designing its customer-value- management system, the telecom ..."
+    publishedDateTime: 2021-04-12T18:00:00Z
+    webUrl: "https://hbr.org/2021/05/getting-ai-to-scale"
+    ampWebUrl: "https://hbr.org/amp/2021/05/getting-ai-to-scale"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/getting-ai-to-scale"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/03/R2103H_FRY.jpg"
+        width: 3000
+        height: 1410
+        isCached: true
   - title: "10 Best Artificial Intelligence Stocks to Buy for 2021"
     excerpt: "In this article we will take a look at the 10 best artificial intelligence stocks for 2021. You can skip our detailed analysis of the AI"
     publishedDateTime: 2021-04-12T15:42:00Z
@@ -56,6 +72,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "x4w+X8esz5XoYzkV2CCqb8Q6QRhXq0tpMvVRBy2rGe9hiIMokO2u/rcsxm00JVpT/gwQPCPC6JAxB25kRdY6Vou8GnBi+m7ju3yp6fSB31aLscUtfFdxrj07KHpeHPcWN8XbvGNOq661a7ElNCHzIral/JcFAkV86QGnTIyKQhtVfFT0oN4ZsigCGiZPDxSW5pBsvXFTOPZD5oh7GEpe6MLNvtUI+1F+2x3aC0LaFMbSCq6z9iLmtALGiT3LRwAJdhlzqC6iplEIWQpVZ74IrHN7qCCMGIS7JQ5NCg/7Fg83zlrAswVWKkWBmvNae5dLiqEbmcEWPm0wmaXweryMeK4sdsn9r8my3bXFJ5VXgTs=;59iBYminUDOKEYqTL5ilIg=="
+secured: "0LLD4GdNi3gLVXjOgFErlhux7je2HNUTldeQ124zWAN7avFt9eT0XmpWXXf4sZkrojyvGJ2eH02MnxKRdSkON6XSy+goxUkm/bzxWeHps63u7vNPjlC2NUQgtNHyEuUTTYRfe/1nrBGqEFnL1cTe8hSjbFkl4nVsB5L+H2l/yRDM/cXQ2f0hdIot+NWlOXwYEDHFPXgt6Ugv5pBCBSprcH9e4+zwzYknO7OF1DhA6N7NwKdINUP9lUtoidbYDm2SWO+umkt0Kgr/NIaN32M0P5VL3noFvt+lHoKjk2y0n4JMOG0XVwD9S2o7KiJ/uBD2pFsCYBB/nOps7HRDoFL1vSdE57eX9O8W2ZrGWR3uqR4=;LgNSZXoPOl1BakUVQ8zlzA=="
 ---
 

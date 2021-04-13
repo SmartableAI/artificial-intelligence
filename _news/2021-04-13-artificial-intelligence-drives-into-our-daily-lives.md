@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-13T03:30:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202104/13/WS6075075ea31024ad0bab528f.html"
 webUrl: "https://www.chinadaily.com.cn/a/202104/13/WS6075075ea31024ad0bab528f.html"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "http://img2.chinadaily.com.cn/images/202104/13/6075075ea31024adbdc1727c.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 480
     isCached: true
 
-secured: "wiB5DUwNHYkCeeUuvaeSsTuQbYea56sFAPnMa7bcALzXAkMU136HKavRNjIBDXfRZ3h5Drw2cBoaj3biJs5eM2fjkwz/tdDY/Z4yA/ZO/5bP1gS2S9D/SSGw//vcdVOzBi1WeQOHfj5Y2VUqdZtjJlC29pxOf8WBcYmwt5hyxD/xi8BLhi384xvLM/c8ap5qfXzVNIaGCkzD+jHZ5Lidi4Mm7nUIZ8n7C0f86D9bLbgpsOyisOigZbH59vCpfxGD10kw4WNhmTO9Jn/kkNOuIUI1+lxxStBQ7jJBZeL+qZwAyMr8iJHptE9qs/GbYuhTzpaqLS88rCiy18HGesFlHW+Kn4NvN/EpLYWl436EALg=;LypHgq8m0MlmaK2Qx7+w9g=="
+secured: "bjlJaYwjY7pot2y1ZWmmT1GQjyt87imeuwr5FsoE2IyUOAQLbh+XeCl6vQTqNhggV5gsojxjIN8Ot8LxgmmlIzEhgQWkifaGmXHXACGOfPhnhB1EexXWfI4VNryPAqbHX/KTEh56fUreYF78GKZQtA4vDYMTsYBwQ3wKzCAcM27236vk761qReRHq7XVBjS4L6TAo/5XfyMl/ONwXbr5bws8pXfiNc+gobNif63HKgI0EQi+ua7c2+7dqCQRF5tIIs9avWrUM4LipiyFFSG5lVGSrVW53Qw7GG2R7l7VAP2sN4icy5w0gOaPx/7YznDjT+SpXDrwAMwYqrZ7B//zQ18rrlF3Su2tB//cr5HRJcOl5jYYicFmKfhSZ2Cc3waBMyvgyjpFqzO+txZyGzII6HVGRhU+iG7MI+U4FRicY5vvX3m5hDpLLBLEf3O3FJ0wWx98lhTHcVkyM4+2ZwyFOFt+yc4ghi5v1hTMisjxxnRK72unFlq2S++exCBnlX8kl5fgmMwYt3sFeb7OaMU9nA==;qR++lu/Jnd8XtXD1BtiujA=="
 ---
 
