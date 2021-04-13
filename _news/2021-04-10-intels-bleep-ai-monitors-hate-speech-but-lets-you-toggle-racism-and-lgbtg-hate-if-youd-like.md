@@ -41,20 +41,6 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Today I learned about Intel’s AI sliders that filter online gaming abuse"
-    excerpt: "Intel’s Bleep announcement starts at the 27:24 mark in its GDC 2021 presentation. Last month during its virtual GDC presentation Intel announced Bleep, a new AI-powered tool that it hopes will cut down on the amount of toxicity gamers have to experience ..."
-    publishedDateTime: 2021-04-08T09:37:00Z
-    webUrl: "https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/mjukuSzndWHmyGK2bezPhcsPuuI=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22429051/msedge_ophDP9qyMx.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Intel’s new AI helps you get just the right amount of hate speech in your game chat"
     excerpt: "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ..."
     publishedDateTime: 2021-04-10T14:00:00Z

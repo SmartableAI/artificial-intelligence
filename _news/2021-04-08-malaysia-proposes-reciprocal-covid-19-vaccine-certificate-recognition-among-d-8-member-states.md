@@ -57,17 +57,6 @@ related:
         width: 550
         height: 367
         isCached: true
-  - title: "COVID-19 vaccination drive to go contactless with Aadhaar-based face recognition: All you need to know"
-    excerpt: "India is looking at adding Aadhaar-based facial recognition in an effort to make its COVID-19 vaccination procedure contactless. The Unique Identity Authority of India (UIDAI) has already started a pilot project in Jharkhand to test the efficacy of the ..."
-    publishedDateTime: 2021-04-08T09:51:00Z
-    webUrl: "https://www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm"
-    ampWebUrl: "https://www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 23
 
 secured: "7ZGTF9R37TYZy5/1UEtDaORzVP7tJZM6jf9WiNk98p/mwk07vS48/QwJbDJtz366PaTgMeBJNmuKHxS7wpJCC71TUG7xCXFX50hQZEMYN5mMFwMiz3a7KpKvIMcuGhiiPwh28b78sNOVHSy34QM+0fMbn2TFGD330nrq88MeT7XlfgMDA7Gd1bw9AgzRAQn3BM37KiFrsVpY9hwfYIPyR4OC68r5oOrTC93YQnMiVPAvetRVAodMN4r7gkYgB23Ltx+o7LoxqkMhas/wEs2ZI28+2SBRwBqjTVZAQoJdRo4lHOOrf1FRYvdMB/ZzZ1VwLhhXIU8HYO7Nfg/9xqfhEcK7xK8C7NogSLAQwhsZf7Q=;DqG19/cwUwIFEMA+Ug1TjQ=="
 ---

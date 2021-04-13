@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UAE to leverage biometric face recognition to accelerate government services"
-    excerpt: "As part of its endeavour to launch the first safe digital national ID for citizens and residents, the UAE has announced plans to employ biometric face recognition (Facial ID) to register customers in the ‘UAE Pass’ application. The UAE Pass app is the ..."
-    publishedDateTime: 2021-04-08T11:02:00Z
-    webUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services"
-    ampWebUrl: "https://www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97172-uae-to-leverage-biometric-face-recognition-to-accelerate-government-services?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 36
   - title: "Society dictated your face, according to biometrics research and a patent"
     excerpt: "It seems that algorithms can identify someone's name solely by examining a photo and if accurate, the premise could be used in facial recognition algorithms."
     publishedDateTime: 2021-04-12T20:37:00Z

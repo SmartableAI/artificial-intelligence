@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 54
-  - title: "Artificial Intelligence in Marketing Market to Witness Huge Growth by 2027"
-    excerpt: "The latest research on “Global Artificial Intelligence in Marketing Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-08T10:37:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/artificial-intelligence-in-marketing-market-to-witness-huge-growth-by-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 32
   - title: "Deep Learning Chipset Market to Witness an Outstanding Growth during 2019 - 2027 - IBM Corp, Graphcore"
     excerpt: "Evolving from neural networks to present-day deep learning architectures, AI has come a long way. Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is ..."
     publishedDateTime: 2021-04-12T14:36:00Z

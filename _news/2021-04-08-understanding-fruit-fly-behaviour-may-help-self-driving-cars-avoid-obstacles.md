@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/04/08/understanding-fruit-fly-behaviour-may-help-self-driving-cars-avoid-obstacles.amp.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,70 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What’s it going to take to perfect self-driving cars?"
-    excerpt: "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage."
-    publishedDateTime: 2021-04-08T09:45:00Z
-    webUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/"
-    ampWebUrl: "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Autonomous-driving-Barcelona-796x418.jpg"
-        width: 796
-        height: 418
-        isCached: true
-  - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
-    excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
-    publishedDateTime: 2021-04-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963"
-        width: 1200
-        height: 833
-        isCached: true
-  - title: "Dubai to import self-driving cars"
-    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
-    publishedDateTime: 2021-04-12T18:34:00Z
-    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
-    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 59
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
-    publishedDateTime: 2021-04-10T18:01:00Z
-    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 36
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Inside the self-driving car of the future"
     excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
     publishedDateTime: 2021-04-09T05:06:00Z
@@ -104,20 +40,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "REEF Technology, Cartken announce arrival of self-driving delivery robots"
-    excerpt: "Miami-based startup REEF Technology and robotics startup Cartken, jointly announced recently the arrival of self-driving delivery robots in Miami. The autonomous robots will offer safe ..."
-    publishedDateTime: 2021-04-12T13:02:00Z
-    webUrl: "https://communitynewspapers.com/biscayne-bay/reef-technology-cartken-announce-arrival-of-self-driving-delivery-robots/"
-    type: article
-    provider:
-      name: Miami's Community Newspapers
-      domain: communitynewspapers.com
-    quality: 23
-    images:
-      - url: "https://i1.wp.com/communitynewspapers.com/wp-content/uploads/2021/04/REEF-Technology-1655-featured-min.jpg?fit=640%2C480&ssl=1"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "yJWTknM5PfXRs3ownwNYfSuWfoOv1dluo7RrwO6ot/L/eVQP3chSEzKQbZ670N3WE5rdZFcGbo/Px1MzOtwiq0ZVDzlsnEjkSLq3l9vXgTRgBotNZngMyE0r21K4lJRebPtZXiJogaAL+W/H15T3vrm+44VTT99oxb02EvcXDpVphWGBefxAyKwuu2ux+7OJ00VqsdBoXLl13UgRxbPtORWC5Qw6P0pI6JqwL7/HtjqAptSnDvyD2GfdNWDWGlR89Cd1bMxMyozbeCIYwAW2ttLHFuvkcYx2eGW9Vsrq3zCGOb/mvtNxlK2aq1Q78nadePziH+EriPq6KlsaATZgZUbKXlDYBjxkKQD6RxlktG0=;+4Q/rpED6VXDF6YBmTBQfg=="

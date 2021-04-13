@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai to import self-driving cars"
+    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
+    publishedDateTime: 2021-04-12T18:34:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
+    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 59
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
     excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
     publishedDateTime: 2021-04-12T14:54:00Z

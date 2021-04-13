@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Systemic sclerosis accurately screened on laptop"
-    excerpt: "resulting in delays in therapy and management. In artificial intelligence, deep learning organises algorithms into layers – an artificial neural network – that can make its own decisions. To speed up the learning process, the new network was trained ..."
-    publishedDateTime: 2021-04-08T09:36:00Z
-    webUrl: "https://www.theengineer.co.uk/systemic-sclerosis-ssc-diagnosed-laptop-ai/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 26
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/04/deep-neural-network-newsroom.jpg"
-        width: 940
-        height: 705
-        isCached: true
-
 secured: "4p9vimqbme8RNkG34mzHMTXgQULOluaU0Yc6sxOTBGq/H71ZunDSsWqQBbSrC/LQJigRteh3n9NxEan47/b0R8231ltUyUvh2rrgv5wvf4/JA4t0twj34lzKAzCIJSzB0FcbtX2jGOjs2d1bh5YwdruWJR87CG6XzJChYyOFnKMPaEd+sUjui83hgdW4eB+AhxLubGpUQPeQFHC9oVynRKmAGWqIXdqcdzHd+ugcxp6NhQ8tGJ5zb1lNH4WZBhI72yvArdIvGCuTA3GmV8KTduOT2eD9F5aegjxYzetgV4MZTnw/TPsbBQ/N/c1REoiqivgfOc82uMKLaXLfDlDl55BbrlabmdTBmb5LmPPu4RZWcibIOJuWMPUWUQ4WzgRUT0K5yAmpT9n0SANXgOW+yNeKILUHQDn1WqOmjljIl0oMEtyCc9BEhawqt2wPsR/oU1u6ibUUv9PsCw+1HwCcSpbydYQAHgpYXXqiRi4d+Ze6CUXpmFseJqT3LBns3S9VbO9+V/bd4mVBRJ18F03Sag==;Wqxu6pqqnujqwIzVsyU8tA=="
 ---
 

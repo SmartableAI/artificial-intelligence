@@ -628,6 +628,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
+    excerpt: "Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers. The deal comes after the companies partnered in 2019 to automate clinical administrative work such as documentation."
+    publishedDateTime: 2021-04-12T23:38:00Z
+    webUrl: "https://www.metro.us/microsoft-doubles-down-on-2/"
+    ampWebUrl: "https://www.metro.us/microsoft-doubles-down-on-2/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/microsoft-doubles-down-on-2/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 72
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3B0RB-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Microsoft Acquires Nuance to Enhance Healthcare AI, Cloud Strategy"
     excerpt: "The more than $19 billion acquisition will aim to expand artificial intelligence and cloud capabilities in healthcare."
     publishedDateTime: 2021-04-12T15:27:00Z
@@ -998,20 +1014,6 @@ related:
         width: 1054
         height: 593
         isCached: true
-  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
-    excerpt: "(Reuters) - Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers. The deal comes after the companies partnered ..."
-    publishedDateTime: 2021-04-13T01:55:00Z
-    webUrl: "https://www.thechronicleherald.ca/business/reuters/microsoft-doubles-down-on-cloud-healthcare-business-with-16-billion-nuance-buy-574885/"
-    type: article
-    provider:
-      name: The Chronicle Herald
-      domain: thechronicleherald.ca
-    quality: 52
-    images:
-      - url: "https://www.thechronicleherald.ca/media/photologue/photos/cache/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal_medium"
-        width: 458
-        height: 305
-        isCached: true
   - title: "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition"
     excerpt: "“AI is technology’s most important priority ... The collaboration combines Microsoft Genomics’ Azure Cloud with the Tel Aviv, Israel-based company’s comprehensive cloud-based advanced framework for Next-Generation DNA Sequencing (NGS)."
     publishedDateTime: 2021-04-12T19:56:00Z
@@ -1040,20 +1042,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
-    excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
-    publishedDateTime: 2021-04-08T10:26:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-software-system-market-2021-present-scenario-google-brighterion-microsoft-baidu/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 47
-    images:
-      - url: "https://www.techgenyz.com/wp-content/uploads/2017/11/artificial-intelligence-software-testing.jpg"
-        width: 610
-        height: 380
-        isCached: true
   - title: "Aiden Innovates AI-Driven Natural Language Processing and Unparalleled Automation for Microsoft Windows Endpoint Management"
     excerpt: "Aiden launched today unveiling its DevOps for Windows solution to automate enterprise endpoint management. As all organizations"
     publishedDateTime: 2021-04-08T12:55:00Z
@@ -1067,6 +1055,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1483731/aiden_Logo.jpg?p=facebook"
         width: 599
         height: 315
+        isCached: true
+  - title: "Microsoft Acquires AI Firm 'Nuance' For $19.7bn; Nadella Calls It 'priority Application'"
+    excerpt: "This feature of Nuance will help with Microsoft’s cloud, including Azure, Teams, and Dynamics 365, to deliver next-generation customer engagement and security solutions. AI is technology’s most important priority, and healthcare is its most urgent ..."
+    publishedDateTime: 2021-04-13T03:10:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-acquires-ai-firm-nuance-for-19-dot-7bn-nadella-calls-it-priority-application.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 45
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/uucfgidzundjibhp_1618280924.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
   - title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
     excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
@@ -1135,6 +1137,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft acquires voice recognition company for $20b"
+    excerpt: "Microsoft has bought artificial intelligence-powered speech recognition firm Nuance for $20 billion, the tech giant’s second largest acquisition ever. It was revealed on Monday that Microsoft would be purchasing Nuance, a leading voice recognition firm ..."
+    publishedDateTime: 2021-04-13T03:49:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/microsoft-acquires-voice-recognition-company-for--20b.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/voice%20recognition.jpg"
+        width: 821
+        height: 462
+        isCached: true
   - title: "Microsoft to Acquire Nuance for $19.6 Billion in Health-Care Bet"
     excerpt: "Microsoft Corp. is buying speech-recognition pioneer Nuance Communications Inc. in an all-cash deal valued at $19.6 billion, gaining artificial-intelligence technology aimed at helping doctors predict patients’ needs and upgrading hospitals’ digital ..."
     publishedDateTime: 2021-04-12T18:28:00Z
@@ -1181,6 +1197,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "JlV16Ns1LF6XK0XGXINXD4Kp0Ok5BcYLkjdSnw+d1sCbCyxT6YqIluCN6w5bxb0IM9Q8ERp2daaS4BsR5gkW24/boZVYma/YkRr3CGwAZQrzSvvYC9s8lVoyn5A4FcYU+WdRcqH0o8k5U9hzna5x8eu7WUKdzJDqdTrKPbtqifPbHv/UV0WEMHbjKGKMX5OnMk4Wxl9R3CX1KHzz6XNEt1PS3oYHHPAa7JFCLNFfFmnIGk6U2og2E1I815TBWPKts1c6CCsLju0UznHq2B0pn5RAZxyJG6Msw07i0YBYZV+NJbLJgnq4WE8xg4ApkHzMv1W2nJ7KGk21gWmpmYBZN54R51k6Qvhb+Fs/sMcuJLg=;02YWsZ5JxLwa3sx3fQWsnQ=="
+secured: "QBNwYOHzOC7H68yoAUo92vkQ1k4C7m3XKCFQ1MDqC1s3uzqw9OS6isbnPccS4JgpD33TobIQ9MMh1I4Z5UUR0yXsHoNXh41dDsF33/uVJHxEu0V4oS9SWI1j7m7RgZi5+XYpGXNVRF5LsnvXmIxO0r/cYCPKz8SQhiQ/TCWlLeijwKoN8k50TRthyGitMts269oCVVG2w/SNOE7/yhmFyNvTKqidKDjYC5eGDenXIz/Kq+p2mfncyIrfODnexxNjrjIBF9rn6dXRk59TypSPfeQbgBCouEkEFemP+WcfElM4E8TVIDP8yuEr6hEbKgbczw4oF5jRkM29rLKPTEs4hb1WNGsUEYYvRbaHitFksrHStEEdXpgjdHSFCUa8oOveF8snEiaS/ppH1elw1gqz7cQbM3M5T0ABnUDPz/qmGtUtI3aBfJBeFnau704zJn3Axz/mkHftH+NP1OXlwfPno6LJO3c+ZZRwd46Mcq9KBUP6V+8FgXXI6jYNBdo35TjHm/7JvCS0XJPcEB8WnNxY9g==;dOtDSLqLGGmrn21QGMhz4g=="
 ---
 

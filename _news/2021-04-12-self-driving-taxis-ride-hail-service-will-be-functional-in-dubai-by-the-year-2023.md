@@ -41,6 +41,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Dubai to import self-driving cars"
+    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
+    publishedDateTime: 2021-04-12T18:34:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
+    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 59
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "DAFfk7DbeOHnLJWOt3rqHAqkB1rURAyi8BUeWH7EIwVu6bM58YDI0G661+pljqJCRZiAYWj+MmLN5DJcc57UC+XofQGfupi604vv8mvhBK4UFDi/WtuoBYXtaM9bdPlgn0UzM9K8PhHfOCCmpG5moJnk1xNO7deHcwkzTDWKfW5W+UQsl/vFHwNmDI0gppPtuVg/WsNiLvY6Wa51EgzRLlq3XSec69dqsKk47RqMTdyP6glXipDB2c/7m/F9cAGN9jSQr5K6QWb9BujZSaGRLg9vWF/SX4RvmyuQwNwlFfXk2mewggNAaS14SwrUf56AIWktOPz0VLyR/J0fGcHPFrxGJ+4FWdavu/48Kt2Ud146Bqz8HY31WporZKeYEgfrn8/Jx7PC49cIOkj/gh+uC12RifhcK3FpRGzyD8i/xi6JKDJF1mc3KR9gjYMKDixDyeIwYPqKEza7H0HMrHQxP+e3g5e0NwuQgqMYKHStH/IgGKQlXWQ6sL8uCTKPjL79B/Od0v6n6MHErQg3JhhYnw==;q0zuuzDiJbJ24YrigU0qhg=="
 ---

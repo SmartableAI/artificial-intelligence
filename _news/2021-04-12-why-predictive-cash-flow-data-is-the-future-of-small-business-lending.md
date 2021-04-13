@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/KV2t7TXAWBTBWFvg3GP7oB-480-80.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Predicting the clinical management of skin lesions using deep learning"
-    excerpt: "Although this study provides a proof of concept of the potential advantages of using deep learning to directly predict the clinical management decisions of skin lesions over inferring management decisions based on predicted diagnosis labels, it suffers ..."
-    publishedDateTime: 2021-04-08T10:51:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87064-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87064-7/MediaObjects/41598_2021_87064_Fig1_HTML.png"
-        width: 685
-        height: 399
         isCached: true
 
 secured: "BDNGx7DvzRPgB2zVvcl2DswB/8cgW1d5SNFuxj1Bgz1DXTxtf+qRshSXZRGr0P+1xLS1Dr7HIB6w7L8is2urkKzE3Kb/f8BsrcoW3i8m+DfRqx/MiGskRwUTuDGE1tyOuruHgN8CAzdJqR3FaXLmaPtskysd2O06rN+pegHkSW1ZA9RG8mwtGIfPtuJprct3zO1wRv1BSjQIO2zqVPIEeCPlsUzPLRM9zLPyV8MTPsmLhSoDrTb31hXORO4tXqYSQV09+SE5ItH0Dec8U2T4/URjkpPbuAuiddh2IMC/MGSaijsFMnGx+vrG+zR8wGBEpPCWT1q3G7cyUj0yuW6O5p6OAmgekDDQCuHIK3enJITVPcB3/ba2yNDnA2xVIDz+3AhkRoxiCrOdMStR+tfIcQwmECxMVkbTct2Rw5emslu/P6li4HrcDaBowayHzgGUl4t5+jmhimaO8JunRjI7RoHKd5B8QdGAuSnfCBe8Hn00GpzVufu1iT1OWXYvoV1ASP1Chdqkxr05UJmkHR0jMA==;V/8pYi5tW6fC1GRYx4PN0g=="

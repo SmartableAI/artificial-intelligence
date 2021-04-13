@@ -43,17 +43,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "COVID-19 vaccination drive to go contactless with Aadhaar-based face recognition: All you need to know"
-    excerpt: "India is looking at adding Aadhaar-based facial recognition in an effort to make its COVID-19 vaccination procedure contactless. The Unique Identity Authority of India (UIDAI) has already started a pilot project in Jharkhand to test the efficacy of the ..."
-    publishedDateTime: 2021-04-08T09:51:00Z
-    webUrl: "https://www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm"
-    ampWebUrl: "https://www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/healthcare/covid-19-vaccination-drive-to-go-contactless-with-aadhaar-based-face-recognition-all-you-need-to-know-8861111.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 23
   - title: "Malaysia proposes reciprocal COVID-19 vaccine certificate recognition among D-8 member states"
     excerpt: "Malaysia on Thursday proposed to the D-8 Organisation for Economic Cooperation (D-8) the possibility of having Reciprocal COVID-19 Vaccine Certificate Recognition among D-8 member states to speed up the reopening of hardest-hit sectors."
     publishedDateTime: 2021-04-08T13:28:00Z
