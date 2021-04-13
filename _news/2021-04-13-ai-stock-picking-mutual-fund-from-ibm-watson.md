@@ -41,6 +41,36 @@ related:
         width: 1102
         height: 739
         isCached: true
+  - title: "Overwatch League teams with IBM Watson for Season 4 Power Rankings"
+    excerpt: "Here's how Blizzard explains the process, via the Overwatch League website: Power Rankings with IBM Watson uses AI algorithms — developed by a team of data scientists at IBM along with experts at the league — to examine every moment of every match in ..."
+    publishedDateTime: 2021-04-13T14:01:00Z
+    webUrl: "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings"
+    ampWebUrl: "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/04/12/owl-season4_feature.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM introduces AI-driven Overwatch League Power Rankings"
+    excerpt: "Global technology and data services firm IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating player and team performances in the Overwatch League. According to the release, the solution will provide a weekly automated ..."
+    publishedDateTime: 2021-04-13T14:00:00Z
+    webUrl: "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/"
+    type: article
+    provider:
+      name: esportsinsider
+      domain: esportsinsider.com
+    quality: 39
+    images:
+      - url: "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg"
+        width: 1781
+        height: 906
+        isCached: true
 
 secured: "zyz2KEBZWSllJcJaSdZ16/JvpnPXg73QsFA2PZANvXtnT2KTdQTJbsOcMpGli3Pp5Mj1X7wzr26QW4HrgWRkzZc8CiMa9qvYPr1KwOyI9QsrCE/uUNoUVWGKfjsvUyVlk8obXMacnxhiqpwQYuf+LVfnDjGXyZtHeR4yRX0kPlhdn8SdUOp3EViksDJXEk69u8c3y7ExhiVcpkQ5vhAQcOVIwkWu0vre0er9U96mLkgvOuJgAaz63jjyW9bJEusDSV0SRef4kK6v8UP2pqvdzS1pfJcoAd55By8Z/PugrOAsJles7KUufVLbGeP+KOJo/WcX2o1Gv043X2O3VfVQVpdn1YQLUfOMwa2QkMCGcdgkhFDz6X0xyzeWBeSqruGY/t3CWVSJMvh8jOGCisfA0HSb7LIadzTCPz8iyrpB4gVX7tHCAy1eeV0q61aAIgYX8rzXhJcWDF9CCZHSayS59Bzuuy7vHC24F1EFGJVOw0IO4Fw+AqJ1CPBYbhFDM7/C7nsm89AookC/xs3i4eFi9w==;Y+nOaKFUzxQIcHyekJZhqQ=="
 ---

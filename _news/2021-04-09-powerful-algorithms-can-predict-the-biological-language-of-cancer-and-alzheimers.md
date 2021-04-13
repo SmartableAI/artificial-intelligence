@@ -27,46 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'"
-    excerpt: "Powerful algorithms can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found. Big data produced during decades of research was fed into a computer language model to see if artificial intelligence can make more advanced discoveries than humans."
-    publishedDateTime: 2021-04-08T22:24:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/04/210408131441.htm"
+  - title: "New algorithm can predict which genes cause cancer"
+    excerpt: "A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
+    publishedDateTime: 2021-04-13T04:55:00Z
+    webUrl: "https://www.news-medical.net/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
-  - title: "Powerful Algorithms Used by Netflix, Amazon and Facebook Could “Crack the Language of Cancer and Alzheimer’s”"
-    excerpt: "Artificial Intelligence can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found. Powerful algorithms used by Netflix, Amazon, and Faceboo"
-    publishedDateTime: 2021-04-09T13:12:00Z
-    webUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/"
-    ampWebUrl: "https://scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/powerful-algorithms-used-by-netflix-amazon-and-facebook-could-crack-the-language-of-cancer-and-alzheimers/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 27
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
     images:
-      - url: "https://scitechdaily.com/images/Protein-Condensates-Forming-Inside-Living-Cells-777x465.jpg"
-        width: 777
-        height: 465
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Algorithms similar to what Netflix and Facebook use to recommend shows and friends can ‘predict’ the biological language of cancer and Alzheimer’s, study finds"
-    excerpt: "Experts used a recommendation AI to teach train a large-scale language model to look at what happens when something goes wrong with proteins that leads to disease."
-    publishedDateTime: 2021-04-08T21:29:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
+  - title: "Machine-Learning Algorithms can 'Predict' Biological Language of Cancer, Neurodegenerative Diseases"
+    excerpt: "Scientists have found that robust algorithms used by Facebook, Amazon, and Netflix can 'predict' the biological language of neurodegenerative disorders, like Alzheimer’s disease, and cancer."
+    publishedDateTime: 2021-04-09T14:55:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12165"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12165"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12165"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 2
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 30
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/08/21/41514710-0-image-a-50_1617914443282.jpg"
-        width: 636
-        height: 382
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12165_16179712405387740.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "Qa8iGjF+q5QNwL6jQLUOlykV2T6mus1VOC8eSA5SWP9U2iCHKS4W/8J4q8RyztyXKSnMgCW2dIxgNqoFs1ZzUbmtw8EP3hYuqtTOVX+lV6aV4QZGGWF+1rpfoLhHVeWJofwLebWJ/qR+6Q8MhFay6/fGGPxFOMYV15sWsGy39pTic8cdqVGzu2WrpsBjtiIoMQtZ2nMbvUvS2cGf0ttAx/ZwKANsMr82BkfcnyDlXaTFzxUbpowjNZlQgk2ORlcR6S6U72dZp5ZSNl4n7FfvIvFtQaKi2RPVTzzq+SdUVQgh8K166QSr+csXUZWiOXyg3ACe3R2isap3XewseGI44iNDltt7lAb4bmfGSlOXI6o=;+QGj8EPAdQGWePs/DCbKOg=="

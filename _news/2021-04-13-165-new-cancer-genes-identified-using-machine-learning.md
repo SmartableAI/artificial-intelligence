@@ -41,6 +41,15 @@ related:
         width: 570
         height: 380
         isCached: true
+  - title: "165 new cancer genes identified with the help of machine learning"
+    excerpt: "In these data, a deep-learning algorithm detects the patterns and molecular principles that lead to the development of cancer. \"Ideally, we obtain a complete picture of all cancer genes at some point, which can have a different impact on cancer progression ..."
+    publishedDateTime: 2021-04-13T14:01:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/04/210412142730.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
     excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
     publishedDateTime: 2021-04-12T17:11:00Z

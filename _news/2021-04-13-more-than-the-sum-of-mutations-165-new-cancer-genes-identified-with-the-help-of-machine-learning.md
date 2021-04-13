@@ -44,6 +44,15 @@ related:
         width: 570
         height: 380
         isCached: true
+  - title: "165 new cancer genes identified with the help of machine learning"
+    excerpt: "In these data, a deep-learning algorithm detects the patterns and molecular principles that lead to the development of cancer. \"Ideally, we obtain a complete picture of all cancer genes at some point, which can have a different impact on cancer progression ..."
+    publishedDateTime: 2021-04-13T14:01:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/04/210412142730.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "165 New Cancer Genes Identified Using Machine Learning"
     excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."
     publishedDateTime: 2021-04-13T07:26:00Z

@@ -51,20 +51,29 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
+    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
+    publishedDateTime: 2021-04-13T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
+        width: 877
+        height: 583
+        isCached: true
   - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
     excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
     publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=451459"
+    webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "2KjlSXRyfL+Wnoi0Pm/FnwvoZbHqluntgYnWrIqH3MdAEEkOwQ6/TZDQlNYfZPcjzbl7moQSH6xWI3NS6Tzz8P40aTzmb5lkgesluj+Cy+O1yW1hfaYnaXQmnT/ueeAx3HRGoQMuaj1gmes0KTK4KUgLxIasWVrNc8QsuuqcLwn2GoCX3Dd724fuh2NCW+czldJlZJjDnRrY6ynWYbQBUD7yu2pqsKiuJOMSwZaVRcMR1mLCFlkUimau7aTrb7E9rx6ba4Fj127GzwvgZDXF4sbbB2D0N48eOpkhy74PlQYzHBI5kuiRhpkckkWsvrAkrPDfJQIfe9bL2riQfRBKsjJ48j6MkseTPHHrJQ1sBUQ=;aTNVnQJlU1NINKQJ4mMDVw=="
 ---

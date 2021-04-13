@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-lendingkart-uses-machine-learnin
 webUrl: "https://analyticsindiamag.com/how-lendingkart-uses-machine-learning/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,51 @@ images:
     width: 512
     height: 268
     isCached: true
+
+related:
+  - title: "Fintech Unsecured Lending: Challenges And Myths"
+    excerpt: "Fintech adoption in borrowing space is 61 per cent as per this ... Availability of many data points of the customers to feed AI/ML models to underwrite and mitigate the risks since portfolio is unsecured in nature and such players do not operate on brick ..."
+    publishedDateTime: 2021-04-12T06:37:00Z
+    webUrl: "https://www.entrepreneur.com/article/369125"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/369125"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1618209459-money-transfer-3588301-1920.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
+    excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
+    publishedDateTime: 2021-04-11T11:04:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+  - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
+    excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
+    publishedDateTime: 2021-04-11T08:11:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leading_Irish_RegTech_Startup_expands_to_the_UAE_as_demand_grows_for_antimoney_laundering_compliance_software_for_banks_and_FinTech_challengers-ZAWYA20210411081141/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 22
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
+        width: 450
+        height: 501
+        isCached: true
 
 secured: "pbvYMdWMcemwQt02pP8UK7f7jBcvnhQZc9pgkZ3Hw27nAULavXe9PVtTwa5xhB86Ad5QFqBnPkeNbIYCYFTBLN/Xrhvps4k0w8nvu/Kakmi6n/IeEz+9izyqT5qEpnW2wlkoGcjSHUDQ0dT3CAkR583qjbpMwmleWn+xvsJRHW1Xi4LH9da4F+DvDXv2q0ZACP7x6YlhyCsOANPnQV0ItaIAGsG2oNRbwm12hz3J8vEf0NLbYaVvKiFnZH/5x6WqIWRDhOo2wR9AASRhxnPs8DxR4OboiPK55lguIuZjoPkDgrtgcygR6Ss8PxRde1gDa4xaP/tLgVcDv2NtX2fp1YFLd1E6LhxzKj76Da7VuP9upVZBnuRT1Qk7VnA1dAxF7/aTh6mBDl5wJ1sCkrgQQJ9dFo5OkYd/yp/voBmR9g5N/p2SrkeF0RktW3V30Ax1gsyF5zsVnlLDBX3cYTscPM9SKr+jOw2yiQd8fK5F5ly2T7WoT11pbGGhxb4DKSYLsTWbK2mOTd9S3v78zSfH2w==;NqTdm7nbV4jeGkDuFLtD3Q=="
 ---

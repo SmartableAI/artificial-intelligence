@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-09-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes.md",
+      "title": "Waymo says their autonomous-car AI would avoid fatal human crashes",
+      "excerpt": "Alphabet’s self-driving car unit Waymo is claiming that its artificial intelligence could have avoided or mitigated the majority of a set of fatal accidents. In a white paper published Monday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/waymo_120518getty_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes?amp",
+      "publishedDateTime": "2021-03-08T16:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money.md",
       "title": "Study: People trust AI more than other humans when it comes to managing their money",
       "excerpt": "Two-thirds of people say that they are more likely to trust artificial intelligence than humans when it comes to managing their finances, according to a US study conducted in 14 countries.",
@@ -1357,49 +1400,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-why-blackberry-tsxbb-stock-fell-over-30-last-month.md",
-      "title": "Why BlackBerry (TSX:BB) Stock Fell Over 30% Last Month",
-      "excerpt": "Diggles added, “In the context of self-driving cars, DLT that is infinitely ... David Gardner owns shares of Amazon, Baidu, Facebook, and GameStop. Tom Gardner owns shares of Baidu and Facebook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/",
-      "originalUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Stock-price-graph.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/amp/",
-      "cdnAmpWebUrl": "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/amp/",
-      "publishedDateTime": "2021-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

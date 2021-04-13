@@ -479,6 +479,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Microsoft's $19.6 billion investment in health care AI"
+    excerpt: "(Credit: VDB Photos/Shutterstock.com) (Bloomberg) –Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to ..."
+    publishedDateTime: 2021-04-13T14:15:00Z
+    webUrl: "https://www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/"
+    ampWebUrl: "https://www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/?amp=1"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 78
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/08/Microsoft.jpg"
+        width: 616
+        height: 372
+        isCached: true
   - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
     excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
     publishedDateTime: 2021-04-10T14:00:00Z
@@ -1026,6 +1042,20 @@ related:
         width: 601
         height: 400
         isCached: true
+  - title: "Microsoft Bolsters Healthcare Offerings With Nuance"
+    excerpt: "We are maintaining our fair value estimate after Microsoft announced the acquisition of Nuance Communications, a leader in conversational artificial intelligence."
+    publishedDateTime: 2021-04-13T14:19:00Z
+    webUrl: "https://www.morningstar.com/articles/1033339/microsoft-bolsters-healthcare-offerings-with-nuance"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 56
+    images:
+      - url: "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/bltf5c9f6de4daaa773/5cb4f480fe8386be234ac8fb/QuarterEndReview_Sectors_Bars_1x1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft buying speech recognition firm in $16B deal"
     excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools."
     publishedDateTime: 2021-04-13T06:26:00Z
@@ -1360,6 +1390,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "c0+iROdw30F60ceQIZNcKK76o9eqCwhevY31akU+4EZ19m+yHBYp5/qbILoZti8zEeOgkPiKsQzlYO+kdnR5udqXPZRJbibbWCnUM1Y7V+bRGAnJsvFKY6EswH6L1qglfxxkJOB/u/6Do7Iffy++Mx6YJ+gdi76HXZCXRb7vqc84L1RHI9vqfq4NEbGaMkUb+if3O9VpKKki09xqhIqZvJwJpw6fjrB/pfFW8U2STUaMaj8x+i0PRdcDnczBss8KmLJbR72mNB4dEYgBYbRVnMVNpoW2K4MWWrn2Sbvr1PHGCne5O4yyBTR07el9uS81InD6ktz+HPZdmfU3RuwE8xh2/9MVaedQ81w4r4ffIbk=;tNFcvmMulRkGp2GGX/cd8w=="
+secured: "Mt4NIPr3IRARBWVxGWlZZDMV5nrdZIS4GMiHWjRevRZ/COWdu6l8aHZy/WEmR+pykkbjxyXjxP6AUoNDs2Gnr+o6M9IfLs1HTh3aGjIwcS20hw7L3iV+adPukB1hSWxcLM5Jgwdst2i7gDTERYo+5PxufsmAMKfDH5BIIDysRL7PUov50PVwCZ4/dsoIjwu6hz8tIP9iqaUnihPsHsBzuGdWzP0m1Zs9/Kc7jyTa/ywW3cNL1GTja6jY/yE7Xi+ZLeGV7lFLMzzNXEN/BeQ6EoYwSue2x0v/gvXieE4Bkj6oHw1jcSZaY7isRnKdB9uGzTy9ojU+gVG9RXc02KAyUmV6wCW+/2GQXfkF5skLACTl2OMi/u4xs691hBv6DhycK4x/QcZXqzj5uNlxsnEURihEOXg53BuRt4nSkLOIdC9Cn56w7TEc3gzhfMNHNPuJkYrlGE1+00VFgTJfeTnI9+qnJX7tYjzqiPjxZ7/zOsXZSSPovkp69yQ3FRVG9eCP/gspab3bmL6jyzcwwjqdZw==;XE3tI+r6iB/5L2iS//HUwA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
 type: article
 quality: 74
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Motor Trend
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows"
+    excerpt: "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint."
+    publishedDateTime: 2021-04-13T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767"
+        width: 1168
+        height: 657
+        isCached: true
+  - title: "DJI could be bringing its drone tech to self-driving cars"
+    excerpt: "DJI has established itself as the biggest name in drone technology in recent years – but it could be about to lend its expertise to a very different industry. As reported by Drone DJ, potentially leaked promotional material seems to imply the Chinese ..."
+    publishedDateTime: 2021-04-13T15:33:00Z
+    webUrl: "https://www.techradar.com/au/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/chrxwaAV9euDLtLoynjTjb-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
     excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
     publishedDateTime: 2021-04-10T15:30:00Z
@@ -59,22 +91,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Minus Zero tests autonomous three-wheeler in Jalandhar, working on self-driving car"
-    excerpt: "Minus Zero, a self-driving vehicle startup, has successfully tested a rejigged three-wheeler as an autonomous vehicle for over 2 km on the streets of Jalandhar, proving its capabilities on Indian roads. \"We tested it on April 1 in Jalandhar between 2:00 ..."
-    publishedDateTime: 2021-04-09T09:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/articleshow/81985552.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-574656,msid-81985546/driverless-auto-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
     excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
     publishedDateTime: 2021-04-10T18:01:00Z
@@ -105,15 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video: 35,000 self-driving delivery vans coming by 2028"
-    excerpt: "Mobileye, a division of Intel, and Udelv, a self-driving shuttle startup, are working together to produce more than 35,000 autonomous delivery vehicles by 2028. Mobileye’s self-driving system, Mobileye Drive,"
-    publishedDateTime: 2021-04-13T12:50:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16580/video-35-000-self-driving-delivery-vans-coming-by-2028"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "G3u8H4Q/Ui54yeNLipuljjHBZbVZxrRsVNaAwICBi5/8wcdNQzHDctrGbCzPf4f3VOQdSjYi8m9eoif+uqpwmVryvMrtK53g3vV60YqCkqIV8T9O6JuahA4y9e36NkwLuhbXbUYC1MeIhwZMSvRvT69NsU4W9x+dvugrKBqYNisNL63oZCpw4dST3pOg1KvbQJkCtAaP9wLo5UMZmnVg1Hdg7CNgZ+BoNlw8A94kzdbCSH7khdu8mWYVC81FpCYJtGzFtJ0FSoGJpktscv8NJd2lr9ddMa14gUt7eyrbndPmfzvMndeyPzL9/cO7Lx0CsjE0qAPkJMnQJr4ohXl7Lk8xrscGv5cWTbZU8OMsV2b3sXbms4FPbLll1wtNEdgeBK55OSqMZshBh3CsuB0+DLNYOPBFrdBlTGoqNCLioQ6deJxehaf8HswtEcqZU8avycyGk+ALej/nT484UuH9LnYS389OdKLvXaFHxreXjHWZqk+uLV8dMS1ejz5d4DcCkL5EOPFygLhbFKfp8IVRBg==;we47Br5USrLD2m7p8r0cEw=="
 ---

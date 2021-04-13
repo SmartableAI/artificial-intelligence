@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.wlwt.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DAFfk7DbeOHnLJWOt3rqHAqkB1rURAyi8BUeWH7EIwVu6bM58YDI0G661+pljqJCRZiAYWj+MmLN5DJcc57UC+XofQGfupi604vv8mvhBK4UFDi/WtuoBYXtaM9bdPlgn0UzM9K8PhHfOCCmpG5moJnk1xNO7deHcwkzTDWKfW5W+UQsl/vFHwNmDI0gppPtuVg/WsNiLvY6Wa51EgzRLlq3XSec69dqsKk47RqMTdyP6glXipDB2c/7m/F9cAGN9jSQr5K6QWb9BujZSaGRLg9vWF/SX4RvmyuQwNwlFfXk2mewggNAaS14SwrUf56AIWktOPz0VLyR/J0fGcHPFrxGJ+4FWdavu/48Kt2Ud146Bqz8HY31WporZKeYEgfrn8/Jx7PC49cIOkj/gh+uC12RifhcK3FpRGzyD8i/xi6JKDJF1mc3KR9gjYMKDixDyeIwYPqKEza7H0HMrHQxP+e3g5e0NwuQgqMYKHStH/IgGKQlXWQ6sL8uCTKPjL79B/Od0v6n6MHErQg3JhhYnw==;q0zuuzDiJbJ24YrigU0qhg=="
 ---

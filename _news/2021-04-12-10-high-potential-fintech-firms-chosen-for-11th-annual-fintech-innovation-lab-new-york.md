@@ -27,109 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
-    excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
-    publishedDateTime: 2021-04-11T11:04:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
+    publishedDateTime: 2021-04-12T06:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-  - title: "Vancouver-based fintech to offer AI-powered personal finance platform"
-    excerpt: "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ..."
-    publishedDateTime: 2021-04-12T07:00:00Z
-    webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
-    type: article
-    provider:
-      name: Mortgage Broker News
-      domain: mortgagebrokernews.ca
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "1 Fintech Stock to Know; Coinbase Has a Hot Date; and Why Is SPAC Mania Cooling Off?"
-    excerpt: "Not a lot of competition in the FinTech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
-    publishedDateTime: 2021-04-09T19:23:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
-  - title: "Why PayPal Is Winning The Fintech War"
-    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
-    publishedDateTime: 2021-04-10T16:09:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
-        width: 936
-        height: 446
-        isCached: true
-  - title: "Students See Job Opportunities in New Fintech Major at NJIT"
-    excerpt: "Mydah Naseem entered New Jersey Institute of Technology as a business major but as a sophomore switched to financial technology.\\"
-    publishedDateTime: 2021-04-09T22:36:00Z
-    webUrl: "https://njbmagazine.com/sponsored/students-see-job-opportunities-in-new-fintech-major-at-njit/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 24
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
-        width: 775
-        height: 500
-        isCached: true
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
-    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 18
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market Next Big Thing | Major Giants- Onfido, IPsoft, Intel"
-    excerpt: "HTF MI introduce new research on COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech covering micro level of analysis by competitors and key business segments. The COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech explores ..."
-    publishedDateTime: 2021-04-10T04:04:00Z
-    webUrl: "https://industribune.net/news/45318/artificial-intelligence-in-fintech-market-next-big-thing-major-giants-onfido-ipsoft-intel/"
+  - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
+    excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
+    publishedDateTime: 2021-04-12T17:55:00Z
+    webUrl: "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
+    ampWebUrl: "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 7
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
+    images:
+      - url: "https://cdn.openpr.com/U/4/U412411471_g.jpg"
+        width: 626
+        height: 417
+        isCached: true
 
 secured: "qjDACRqaSuCG9DhKZud3TNt2+uatX+tuhsjpuJAc6MHhuC7nw7i0xFjyyUmCiXrC8n1j0mIcJ73hZWsWm15UcM2g9Tt07z3GX7iXPUps+kF8lvNego2vq2qA7tWCpUNlXTYTW2j+TiyNcuQx+Fp9/dHJGbF5zP8Ecp6SiOGqYrR6vdyoqLXdd8FdsoSE2ly6AZ6ML6pQgyifjdlzJKJ3N52bXXUlqY4M5m3WaLrQX7RUbVkLFDmF50hgDs6Fe5okYT/4RYy3XM/zR2HTeaS7vapHnYSGR8a+GNXdKDxXXo7RfD2ZcoAtBrnX+8zr2PTbyrEJUJkleXgMea0JDt6ziJ6lYl2EXPUYx9Id9eiuodsCwOpbc6fckfPqmkQp7f/Rr7H4JTi1O5y1iJz38K90TDvBNxT6ixqms6HJlYyGOU9Ov/88hlGo+3BZgyHNIjnRPo4b9P/s9pTczhlD/zCmVfY89bvpYbVfYmCB/lvMOTpcGDHkFCyr5gQx6/BzV4bm5GpWi6q7SAzl0jFFr94bDg==;Lq1YCBMx0FH301kUqJdD9A=="
 ---

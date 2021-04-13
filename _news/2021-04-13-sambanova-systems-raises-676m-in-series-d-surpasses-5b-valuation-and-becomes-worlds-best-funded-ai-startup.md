@@ -3,25 +3,20 @@ category: news
 title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
 excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
 publishedDateTime: 2021-04-13T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=451459"
-webUrl: "https://us.acrofan.com/detail.php?number=451459"
+originalUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
+webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
+  - AI Hardware
 
 related:
   - title: "SambaNova raises $676M to mass-produce AI training and inference chips"
@@ -56,6 +51,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
+    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
+    publishedDateTime: 2021-04-13T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
+        width: 877
+        height: 583
+        isCached: true
   - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
     excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."
     publishedDateTime: 2021-04-13T12:01:00Z
@@ -66,6 +75,6 @@ related:
       domain: bizjournals.com
     quality: 18
 
-secured: "Z8fJlaug1pexU7hwJiqSie43TajNql4KuXLnkntxmOAMHV5ypOk57VmIVr7ECGRJVTHTF+hhfmegTD4boyzc30Du217GeS71akFyoB/y0qaxwLDAW/nouj8kOfszNzbcJV+WlSATcbaLBLiPLLkFADopL75L/jxwx1nK+Kj3DbFOMJIYfHgYgkV5NhVU7lHwLRhBpSw4+93Dol7EogSs3MR1m88qeCNViIlCrheeKoeB9/iOI7OktoVMuBFuKKz+y1cADeRjpjUwRkgU2XacR0Ve/HAaGsJRCAplWpNefpZBuyU3mUwultpfB4tOsuig4i+wXxhiLnOugemwfikVi7VUYA2IxfjvZfHKtCQfk98=;cQtFNE9iMb57jztXM3/msg=="
+secured: "nl+WeOMs+PEWRvEsaoxQ3OpXDpkF1GEPSlwMwE4W0wPpV7Y00v0OJ0z+nlJRWnt0Zip9poOLKcXGYGyjxyuKkdaGAnoQlikTRlXML5eZGQ34TNPa0SZaCU1/RXn2nKPOefiiXooceyd1tMDYzfo9jBVxjggMcr4rIZ0AkRGKrjcc6KEMUbg43YGk2LIWsxFPe1w3SI9PLUlK11GEEbalSue0umSnHUpYlighVqAFUDuD3UJ19e9jt2KZ+X7OnVthiRHjJAuLNMrkDgqRzSalaxuQZDtBAeGHa65tPrSxiHUZ/dnYX4OC+9IpoT29CDSpoOKEXKtjV9Obn6EdhG/hZevX//Vyh28nfYH+XD/bTQk=;HjdD7cJsZag1cVkKudDHbw=="
 ---
 

@@ -105,21 +105,19 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
-    publishedDateTime: 2021-04-12T19:41:00Z
-    webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+  - title: "Domino’s has deployed a self-driving robot to deliver pizza to the masses"
+    excerpt: "The future is now, and with it comes automatic, driverless pizza delivery. Mega pizza chain Domino’s has teamed up with Nuro, developers of autonomous delivery robots, to come up with an automatic, driverless delivery robot."
+    publishedDateTime: 2021-04-13T15:47:00Z
+    webUrl: "https://knowtechie.com/dominos-has-deployed-a-self-driving-robot-to-deliver-pizza-to-the-masses/"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 43
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 40
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/dominos-delivery-bot-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
     excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."

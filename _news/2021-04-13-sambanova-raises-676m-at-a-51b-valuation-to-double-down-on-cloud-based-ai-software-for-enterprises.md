@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
+    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
+    publishedDateTime: 2021-04-13T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
+        width: 877
+        height: 583
+        isCached: true
   - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
     excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."
     publishedDateTime: 2021-04-13T12:01:00Z
@@ -59,18 +73,13 @@ related:
   - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
     excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
     publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=451459"
+    webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "z+SxQ60cq1AtZ6zJlhTziI9DTYLi8WBabuobF36oFgSbiUVULk4XaIa5WxxdGQr2UrxolG4FES05XWWsoucHp+oNfg9jMKM+nTr9LRTJFbflLkK/CSvB15978Hfpif6REtTj6P8fXwCSIsjermkA+la88dPB7El5TsLb94LGDozuAkWkN2RQUbCTzxWKpo/sC5ohEPST/F6+Fz9bQAmS9W6qN7taQVhr4rjJXhDMaX7SJ82LT/Fv0n6ghKrGC4sVHo5jEKwOkPBVX9tl8aI5jfaoc5OmmyQCY0O5abVxa9Bvnd0Z4fAUwEl7yn7CU9duJ0QfLutxs6VwTrqhmH6ugn7GHpaGT5uAwglUjsr950s=;hPOxDJGn0HzmPRlggT0cMw=="
+secured: "Ahi3YTneowiOu7ibY5EH1a/vFoYhuzNUgfteJSFhhdSVhfFtG8BfHnw/ULbET1i/epH9AY90AmhfXAtWFXOpaTnD6ZwBN7kY4f6WpBKltx7rR1Tkmp/nLEqLYsGziW86iZqW7nTTrbDZATVluO4JB94/VwwfW7h8UxfOtJUd0avxk9ljxh5OvkJey77J99JZ/44NH7Dxq0mBwSy3qPDx0j7jI5j4aiAZtwDpPT+3hVxbGo/llVx4Jjud2kxqGpUKaEDLTjRC8ZhkU+mrVQVaSBOnLY+eQbPrGxVjfxN8J9pbaJm2wpetWQl7/lMR6NmICLQrQH2bIDJuHt48PdxE3hhM4SZPul0/sKE8YAjcR9AUBVWlEoK0CE3uvWoSDvqGLTPHv2qh4wuXe0NTsYWAmBdks5BIFxILQ6SQ1JFXIjfWZDno11/82JvsHBRTAShgx/UvGi5eh9RIrxFKLNkWOzm+OjkZ6US/yx0XFfJjNUj+XSKpliY9Qz258B23vlj3QeqbJ+qMKF3JUHFlcd3yAg==;7uam4s/GQollaEXDqBwhxg=="
 ---
 

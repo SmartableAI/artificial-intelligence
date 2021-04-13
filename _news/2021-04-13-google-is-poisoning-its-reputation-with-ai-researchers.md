@@ -8,8 +8,8 @@ webUrl: "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-geb
 ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/-cJlGNIdcC3kFD8y7oT_322pRW8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69118193/acastro_210412_4523_0002.0.jpg"
@@ -75,6 +76,6 @@ related:
         height: 933
         isCached: true
 
-secured: "ny4yWXcI/XTRFb9ryItAajKw18ne7dbFdmoYc5LFaxUA9QGIqdBIySBGOdmW3ilfCcUaPxtFdHpW3zeRBp8dVB1ZCGlJgjislmMauE47b8w/GTjZ+pfsd2VlaUv2LCIMGQG+fpHuBQKDXoFCmrHLZUPbpIfOBUA5C4wiGsgx23GpVlaqtddZtPBLFpoR/Hypjr9DTSSwV9K8Yu+9HqB2AfrzoNVJ3T8oI3oanHNAkLZxx7qzBGCMn++BDFIBHYWuX3EhaQ1zuHQSALBHIAtZE40FRxsDZS4vBNbk6grA9/uc2XmJ1htENz42v3KKWMs9i4mlylCzIJk2ZG52bLrDNfF3De0zq1upoM1x+cVN8W0=;MeF/G8AqkssKT5oeoqiF8w=="
+secured: "T/RAUTBXeE8ocR1SiPdiFogop9l49qvHb1VaB56OV1zB8f8W8rQW8Hi2lU4cwZfIulO8YjW2oLRIiFUVH3gZS3CNOuMpcE3zEhMCliCJ7IUlARFfRY0DlbC/s4j47t/Do8gXMEq/LU/V7DZTWvBQPYJXZJfh7V/vd6wcVsp3ki7CnsSaudap81283SJ21RHbFkdX+sVGWXH2LzPKA2UYAzgHMV5Oof+GxlSQk62EFPcBfSR+OTIE8gVAZE8YmFABC7CLbNPMZP/a4bPeM1pJX+f0kAGb9dgcYjLkDpimNqxPZdE3CbpgDnR0vnWlFO3kePVnHkJ85y08CaxLxhWDzampmtd+alI/+aOOUdokQLudUbPIgvo5rfWXG92fFdRjMU8elIMH2FH2VgquUc5BUOfQhCNOBfPew01gr5HAReAPd2ETZSCbOefYPBVwW7UCXM1Gp7E33/rYO+I0/sp2uYpyraI3RXCaYL74/+6zu8qR8zzZzQQHIP6TPmYVoili29ksJkBGYS7cdebvgLKr8g==;5x0Y6jM0OqG8lM74kp6oNQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Release of Nest Egg 2.0 Revolutionizes Investment Services for Banks and Credit Unions"
+    excerpt: "\"This expedited onboarding sequence helps to dramatically enhance digital engagement with our clients to help them fulfill their financial objectives ... Appoints Former NVIDIA Deep Learning Guru Aayush Prakash as Head of Machine Learning AI.Reverie ..."
+    publishedDateTime: 2021-04-13T15:35:00Z
+    webUrl: "https://www.lelezard.com/en/news-19746161.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "A review and comparison of breast tumor cell nuclei segmentation performances using deep convolutional neural networks"
     excerpt: "Artificial intelligence in digital pathology — new tools ... Recurrent Residual Convolutional Neural Network Based on U-Net (R2U-Net) for Medical Image Segmentation. CoRR abs/1802.0, (2018). 29. Dong, H., Yang, G., Liu, F., Mo, Y."
     publishedDateTime: 2021-04-13T12:57:00Z

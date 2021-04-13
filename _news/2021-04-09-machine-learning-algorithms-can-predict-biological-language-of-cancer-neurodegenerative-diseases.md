@@ -43,21 +43,21 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Algorithms similar to what Netflix and Facebook use can 'predict' the biological language of cancer"
-    excerpt: "This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct the grammatical mistakes inside cells that cause disease.' Machine learning technology has ..."
-    publishedDateTime: 2021-04-08T21:47:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
+  - title: "Powerful algorithms can 'predict' the biological language of cancer and Alzheimer's"
+    excerpt: "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found."
+    publishedDateTime: 2021-04-09T00:15:00Z
+    webUrl: "https://www.news-medical.net/news/20210408/Powerful-algorithms-can-predict-the-biological-language-of-cancer-and-Alzheimers.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210408/Powerful-algorithms-can-predict-the-biological-language-of-cancer-and-Alzheimers.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210408/Powerful-algorithms-can-predict-the-biological-language-of-cancer-and-Alzheimers.aspx"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 32
+      name: News Medical
+      domain: news-medical.net
+    quality: 38
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/08/21/41514710-0-image-a-50_1617914443282.jpg"
-        width: 636
-        height: 382
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "/LynCCYqFc4bX4HY4ugHLl6sm8p4R9fGWvMS8/BA+yr0XO46tPDsqQRRvwEmOOk61tG2lQRvTsqbZnQd7HlPDhC10ic9GJhcMzSNA8JyDHpjgx7Zy6PZm7s4uCes9bpq5haA9MgzLXysTRkpilBoi261aMjn7lZlN9fDF6Tn+YELx2K+1DF/JrOO9qRYso3NWuygLaqCQziwoP6LYCWZHpbQAMmXWLZUMLHXaJEGZPG/oZP5xQH+obK/Zs078dT4tPmgqrTM+j6Jliy+eGPs7C/WGD70gzjs5/fLVU4lH04r3mM3Ad/iFFtObFTHvr+SphkJ8uQqcETN8petJnJLo8l26QA1svtaAYayMlvfuFM=;D+2Rvfnf3MG+hjFqEKYh4w=="

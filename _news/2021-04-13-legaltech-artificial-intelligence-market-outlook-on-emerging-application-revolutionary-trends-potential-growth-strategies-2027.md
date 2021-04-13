@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
+        isCached: true
 
 secured: "Geu4MUY3CaV1n50cPW/jgYlUzp9j6s0Lm6Nubf8XklgM8SY4yv7TR6c194LaFSclWV/fUrTmUzmadwAlFcB7n9z1qdG9iC7LGQKgNAifzA45H9ADq4by8hIESpQx79FwX+0arxJoBgInUkenr5ObAL9vVdVrHgc2Dzq+P1VknDhHMl6oti8mj+CQHxjZK09asf9/1lLnuNZMtq7ZRnrMhxp9EmYiIOweFv99TlaMGVMKccwztxKKEGVuzrq8vsEQ15hFZTXtMzbI+asT3wVr7HR8yhPmunBv8bgbarOfYovN29YCNbcJO72cFBJnuHvJqDpqWAD08CF58T/MUe83n4gc/rIIMPjokBX1clHQpihogrYbPw2ZO3KYolbCTnmzVPZMtOYXAuSy3d5tdqBISdso4kZlFW1nyyOAypOhb04fb3XNUUlKeNJIanWeCwvudhgQKpLCln3CEf0YzUi9zZZs4sVuNrtTm7aK70kMOo1J5HHiFDNR5xUJSeWPB70o2H5gBikdNazlNxXToj/CJw==;9bPOd+Q8XzwOv6SE8iPaZw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-13T13:17:00Z
 originalUrl: "https://www.analyticsinsight.net/understanding-the-philosophy-of-artificial-intelligence/"
 webUrl: "https://www.analyticsinsight.net/understanding-the-philosophy-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/understanding-the-philosophy-of-Artificial-Intelligence.jpg"
@@ -23,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "7VthVKK7Q5gIlYPvLvya9a3Nw/LmFfFr1lr0LYnZ++jWa8mYEzXbZBGxs16iAW/SN1U3j9EGM9U1T7i0X8R95H8PUAAmkO0xFXOHihmSoODoCiXYkqU04bNnvwiG627sRjRuGxW36ZYPSVEsTW9FgZ6dda3CV/M3FDXkdj2Pg2hwbmABuqPsd1DgEprOfvW4J4nSR4aSVP18XT47ZiYzWEhGMBRfzIYqXYyESEmyKv5gbF+ofOOq3AHEBuaD7a89FGmbUxihpF7ixImewjQWV0scuaHlaVm9U3tViNw1r/wOf2Wgsua+l4Wh4RkOoQSj9LlNx7/ybKm/BGVWP95cLLh9OqCaCl4lB6vWRGSjPWU=;07rZvUXBlwphEgW2KOWo3A=="
+secured: "eg0oxQdA7sMODUmbmcaZj6xSRupaVqJvEOz/jKQzyo4EskELZI5QT9s2N2JaWMQz+lizlIbG9y7Aj+FaAVXGveGqGZJIwqVi9SqjUags+YpuRb7ZODWi5y0cGROmGakJMJ/dk2bNhJdAgmsiDtYDKlTknCh0+WNVOooSAJG8I7DnOxwopuORztJM6J9TRYhzHkPW4aWFeTi8JjrTnMKpwPcIjE6tSKCpLUfMQKVuKupGDwB2Px+gMOBjm099Cj83Vd+vTtmWvFrSzLEbMlDDlFJzuS7m8dbOpabjPZ1pLwebyCXt9k+u4v+DRCk4gnLD7e6e7olv1Sb71rXiqveSWmlXVq500lrFvEei3rzcFyumyoSG69n5nOdTlZcpBJgO1tToH6EwedfAZKIqrXmYCqLKriFOd61D3dRhiuFUMER1E07YwGjV4v+yb901XeQ/bXYipmYOwn0nFlqoF7EaqjXMAU01iKMJkyCOnyqo8/KFuaDdBrJseFY6r9It/gFzEuskjVWwvg6C/cRC+2kI7g==;cUbr85ZFCUAE+/mUA1TOig=="
 ---
 

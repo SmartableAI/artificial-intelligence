@@ -7,7 +7,7 @@ originalUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-f
 webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,111 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
-    excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
-    publishedDateTime: 2021-04-11T11:04:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
+  - title: "Marble Financial closes acquisition of leading Canadian fintech company, Inverite Verification"
+    excerpt: "Marble told investors that Inverite’s data aggregator combined with Marble’s personal finance platform MyMarble will create a faster,"
+    publishedDateTime: 2021-04-12T15:35:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/946328/marble-financial-closes-acquisition-of-leading-canadian-fintech-company-inverite-verification-946328.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/946328"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/946328"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-  - title: "1 Fintech Stock to Know; Coinbase Has a Hot Date; and Why Is SPAC Mania Cooling Off?"
-    excerpt: "Not a lot of competition in the FinTech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
-    publishedDateTime: 2021-04-09T19:23:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/1-fintech-stock-to-know-coinbase-has-a-hot-date-an/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
-  - title: "Why PayPal Is Winning The Fintech War"
-    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
-    publishedDateTime: 2021-04-10T16:09:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
-        width: 936
-        height: 446
-        isCached: true
-  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
-    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
-    publishedDateTime: 2021-04-11T21:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
-        width: 600
-        height: 468
-        isCached: true
-  - title: "Students See Job Opportunities in New Fintech Major at NJIT"
-    excerpt: "Mydah Naseem entered New Jersey Institute of Technology as a business major but as a sophomore switched to financial technology.\\"
-    publishedDateTime: 2021-04-09T22:36:00Z
-    webUrl: "https://njbmagazine.com/sponsored/students-see-job-opportunities-in-new-fintech-major-at-njit/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 24
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
-        width: 775
-        height: 500
-        isCached: true
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
-    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 18
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence in Fintech Market Next Big Thing | Major Giants- Onfido, IPsoft, Intel"
-    excerpt: "HTF MI introduce new research on COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech covering micro level of analysis by competitors and key business segments. The COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech explores ..."
-    publishedDateTime: 2021-04-10T04:04:00Z
-    webUrl: "https://industribune.net/news/45318/artificial-intelligence-in-fintech-market-next-big-thing-major-giants-onfido-ipsoft-intel/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 7
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 12
 
 secured: "OpA1F7c4hQTvoW+NRzTEr2sXSj81fBo67Hsyez6Ew2Zrzk+CHIYZ/eT8tBpOf14XStNAVHGAsWp49EIhXGsnfD1RDSrENKAHYiRaO3DothZfLKnTxF6XsXvatJHUpOKjzahAu+31sTXAcxKNHCoEk5Ix2ncaobaRTkZvKoUc2a5xKFSw5iJP2yi4jolS96dU7Jc8v09r2uMSiBKve2dHmAL4pg4GAvx92xMNj9Yx1eesPSuWMLMMfozptGOAC7kqCXTBXO+2YGRAL27ZfeFE3keHq2G9f9YCsxoMnHyQePtDQaEcrBoJ9Yt0tibpbfBn4m1/Q0sE7IfovpSHSsbrGWhXJ+xzSUBIWIZH2BlOu2noB1MUNNjPVF8TY0qXipbTfKxuRlbrjVL0g+4hn07Vtve66v5fbJElPi6qgRJ9jFroc1IfYumNLXAFRgy4ZNXDSrkam/j6fSFu2WHTfvHgDVLKHbRE4KHK/GhWed59ePGZ+U3mgeIriy+jT/NkR9TDbCoP5Ainy7H+tiVmdMIm6Q==;0EyTePdEbY+RpSl+ezCmcQ=="
 ---

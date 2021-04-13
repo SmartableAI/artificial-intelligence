@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
 type: article
 quality: 181
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.wlwt.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
     excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png"
         width: 492
         height: 328
+        isCached: true
+  - title: "NVIDIA Launches Morpheus to Bring AI-Driven Automation to Cybersecurity Industry"
+    excerpt: "Morpheus is the foundation for our Cyber Precog Flyaway Kit, an AI-enabled cyber-hunt platform that packs data center compute into a small, ruggedized GPU form factor.” “Splunk is excited to collaborate with NVIDIA to uncover more ways to utilize GPU ..."
+    publishedDateTime: 2021-04-12T16:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "/bL4FVb244NRbVRBg9XzWvYwDNlSKRUiJ0K5rRPbgBXQJd4jsJCY0Ry02aDCdE9UAx+PD8XztjkDs+8U7IsIaEuZ2+si/Y3Ygs0tvr24h8+rKqZTMbG7GFY3UY+iYPwZu9Walq2YIB8NeUd3RCRPjYynvlioox7kyk4lHiZSQnNZFauKxqFWtQ+KL4ZM6TZYJrTYs2OcuJgK9g+FCwf+0SM1muAxzuMsajptaRZWw70CKyU6JQt6BnWXIpH81QkgtXQEcS4rsKaJtGRupFMewkYFTvGT/FAxsfafwTL55GjbQ/ePXt8GkNQI+r3/LrNU1CH0YTACvpgmh2gU+qAjLDsyfHdQY2pSnK7GWdlSqBGozwU4tPBfYhtKCutF2kCK3fJKAwXtU9Q7fgP8oJWx94ysK75VOPL1dqtR8OyA3Y7RZ/7E/IgaNYrls991+d7AUXD0LSTFuClyIaNGecOPjuif+cea/q28BhmeaCI/xFsQthYrYF5RdvEWeckMv3F1PdMs/CKGIFlKMz+eiAQyGw==;VRGZ21MVj9BX7ovVUfS/gw=="
