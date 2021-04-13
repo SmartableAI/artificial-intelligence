@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Deep Learning model to maximize lifespan after liver transplant"
+    excerpt: "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant. First of its ..."
+    publishedDateTime: 2021-04-13T07:37:00Z
+    webUrl: "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-liver.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Deep Learning model developed at UHN to maximize lifespan after liver transplant"
     excerpt: "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant."
     publishedDateTime: 2021-04-12T04:00:00Z

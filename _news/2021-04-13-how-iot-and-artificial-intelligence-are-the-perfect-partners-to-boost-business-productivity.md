@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/369230"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/369230"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369230"
 type: article
-quality: 77
-heat: 77
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1618291364-alexandre-debieve-FO7JIlwjOtU-unsplash1.jpg?width=600&crop=16:9"
@@ -29,6 +30,6 @@ images:
     height: 338
     isCached: true
 
-secured: "htwITvj/475OUpXnwRwACmeUd/3JmUeg8j2fwqcoBrFFSv2lwsHPMtWOzK/vFgG3e2t8QTkxRtAGPs2264rRVnR/JjR7YN7igE3NsGm8nGP8SGjeB98Y4qO+hyGyEBDTskifdX7183omI/elv1waRRq2z+wEW7zp57/D3smrWh9l4YbIm+KpTSkEGniOq+fhDsQHz9KdNoVJMHwA3Qe1ut0vD/XxICeYszQTRLlwT41zHDBz8NHsAIpW+n5NfxDXu361l/P4VRdy6y44LCbt60oZp23IeRD2ZCilbZ6EuqQdAvo2FxGS5J/k817JMh4WWhlEVFIhrGTBVRr0RUR9E+NZ1rpq7KlO84xPcG4IFB4=;q65ok8PIyNtRHQbTsXvYfw=="
+secured: "vAiQQt/aPQjlGUZgTBszvCGo2zXvkGLwxz/b/reIKf6mUfBZr0Yb69DGbgwSTyQyFU6YTS4YpAuxs9s/gaxUAEf31HIN4O+B9oidjNjcJsyzECg7c1WVU7lcQjdUmDKDG8Tl+Xv2XR0Zt1eXIXL3XWPAVwXeuluM4v2k4ZZ104hx1BzcKYIKV+bz7HQrSmqo5jNNCvN8YzZRevqPLRuHhT2MSEu1xZTBa7aVzlKJYcOj/3l+X8YjRU42T1UKmQE9/soPxCtJDc2MnmypH6R8eD/vEBLiATzFAM5Zt4iElxlXyo58fsc4tmGQQC6jh6qqNVmyTo48jZjY0YBrOJrUrAPIHd/CVpdf9WMb/2PBZxAJdGSJwTc+zUcFP9GYqpxNjjHx1aRKiSAkXYikl+vJ5BoKSflUVK9oTQAT896JfJuZjIhilYMAqNGM2FUOkZkbdBKu5BKOSHRaPME+MJ+p4slEz7rQwm02LHNHcjfA+OQQFYn7xmK04z/yaI/fNSHPqOXaqgK1YweQJbtQpPHyNw==;i0Zh7ICdXQR2PSyaaCjuTg=="
 ---
 

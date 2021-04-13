@@ -29,10 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Size to Reach USD 2,127.9 Million by 2027 | Reports And Data"
-    excerpt: "Artificial intelligence has known to have enormous applications in ... studies ensuring relevant and fact-based research across a multiple industries including Healthcare, Technology, Chemicals, Power and Energy. We consistently update our research ..."
-    publishedDateTime: 2021-04-09T18:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09"
+  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
+    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
+    publishedDateTime: 2021-04-10T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
+    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
+    publishedDateTime: 2021-04-09T16:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
     type: article
     provider:
       name: MarketWatch
@@ -42,6 +56,59 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Research 2024 | Growth Overview, Development Size and Revenue Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 09, 2021 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
+    publishedDateTime: 2021-04-09T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-research-2024-growth-overview-development-size-and-revenue-forecast-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
+    publishedDateTime: 2021-04-10T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
+    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
+    publishedDateTime: 2021-04-12T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Outlook on the Text Analytics Global Market to 2025 - Continuous Improvements in the Language Processing Algorithms are Driving Growth - ResearchAndMa"
+    excerpt: "The report provides an overview of the global market for text analytics and analyzes market trends. Using 2019 as the base year, the report provides estimated market data for the forecast period 2020 through 2025."
+    publishedDateTime: 2021-04-09T14:25:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=450053"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "exWaSh5ODTD12lgg+B8gxShk4NDN/NPyoX65UKxhOEkVtAKYNxUGekNbYBCHY2AcEZdNnMHC4WeIG9IEkoWqU9IyE0BHM5Hu9gKsdYH8w1XOj/V+K/IkiVBtzl5z/4C1+qp0ps0i9d8DCpuBED1lR+HaBV1GJC8C2NGU4K7LvvCBXx3F0ulLGlbb0NWSebxWcsxprU+LMu0f6wcPGQRBy1KqC6iBBDLiWSuO2jjHao2m9MP2AGImgkmmvEFKGrXdv8ju3QXr5+YYUWm08GNSCM0V2X08i8t40mSp18zyHey4WE4bLhviGxtESwSTlybJMRgu/NZrCsipbzuAk+yhrfjyo5O7BIFFD0bX1g4I3jA=;bglEL1GIFUHyYWcgDHTA5Q=="

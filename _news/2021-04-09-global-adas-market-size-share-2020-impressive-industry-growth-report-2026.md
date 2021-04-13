@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-
 webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,87 @@ images:
     isCached: true
 
 related:
-  - title: "Far-field Speech and Voice Recognition Market to See Massive Growth by 2027 | Synaptics Incorporated, Texas Incorporated Instruments"
-    excerpt: "The latest research on “Global Far-field Speech and Voice Recognition Market Report 2021” offered by Data Bridge Market Research provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of ..."
-    publishedDateTime: 2021-04-09T14:35:00Z
-    webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
+  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
+    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
+    publishedDateTime: 2021-04-10T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
+    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
+    publishedDateTime: 2021-04-10T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-application-analysis-regional-outlook-competitive-strategies-and-forecasts-2020-2028-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Research 2024 | Growth Overview, Development Size and Revenue Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 09, 2021 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
+    publishedDateTime: 2021-04-09T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-research-2024-growth-overview-development-size-and-revenue-forecast-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
+    publishedDateTime: 2021-04-10T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
+    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
+    publishedDateTime: 2021-04-12T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Outlook on the Text Analytics Global Market to 2025 - Continuous Improvements in the Language Processing Algorithms are Driving Growth - ResearchAndMa"
+    excerpt: "The report provides an overview of the global market for text analytics and analyzes market trends. Using 2019 as the base year, the report provides estimated market data for the forecast period 2020 through 2025."
+    publishedDateTime: 2021-04-09T14:25:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=450053"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "/WJY1Mv2neOQrNi6FPp2e4M7VGT/nN6CjTxkXbR/4cl7txofxtntjkv0J29yv03qFD+ghHTTtUHJcwY49mt9xVdLBZ+/Ec5xXgaYvnauzbSL/S7uadzpZe6hE/ngvVqhKlvfe/DGV9CeZidBHDPFwXykixXbM2yZZTu6grUZNLyjNrIqBwy350G30t9kp8TriazMZRpCQIEhektBuVfHhPxuy/dG74kTGMHG1Hx3YpDGDKVzfybI3gwzyL3HnQNMYhp2wHfdv629nvjknGuJeykpUj87LV2Z3sptGBmUk8VR/k4sgrvJFnaGSwRORRQZFY+YxH8jsmJR+O1jYBVblVE9IGxZ4C5xDsOsNfnKlTw=;ecJFmMNZlnoVq74WWMjoAw=="
 ---

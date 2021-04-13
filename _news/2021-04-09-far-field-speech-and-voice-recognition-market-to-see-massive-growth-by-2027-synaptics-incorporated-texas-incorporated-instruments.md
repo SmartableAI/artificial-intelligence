@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-reco
 webUrl: "https://ksusentinel.com/2021/04/09/far-field-speech-and-voice-recognition-market-to-see-massive-growth-by-2027-synaptics-incorporated-texas-incorporated-instruments/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Global ADAS Market Size, Share 2020, Impressive Industry Growth Report 2026"
-    excerpt: "For instance, Intel Corp. is working with Waymo LLC, a Google-owned company ... has entered into a collaboration with Germany-based startup company Automotive Artificial Intelligence (AAI) to developed ADAS and automated driving (AD) for the vehicle."
-    publishedDateTime: 2021-04-09T16:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-adas-market-size-share-2020-impressive-industry-growth-report-2026-2021-04-09"
+  - title: "Automotive Voice Recognition Market May Set New Growth Story | VoiceBox, Nuance, Google"
+    excerpt: "The Latest Released Automotive Voice Recognition market study has evaluated the future growth potential of Global Automotive Voice Recognition market and provides information and useful stats on market structure, size and trends. The report is intended ..."
+    publishedDateTime: 2021-04-10T09:45:00Z
+    webUrl: "https://industribune.net/uncategorised/45761/automotive-voice-recognition-market-may-set-new-growth-story-voicebox-nuance-google/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 0
 
 secured: "HxbtRW60aIwp0btWf0wbG94nclnP4PJQ6u+q4d+hqS7fv/IW7j77+rCVcBLF0JKXx8rnRNS406+uGSnY5rNe+0pIvfRUirvnl/1U+/DUH9M6SQDdr4I9k3V0/KJ5XwjdGQcIPSQOn3bzNjVC4qqzMt3wGIDkDSucES5BzH/irziu2X3aV8BnY4nit7STInTE8hVcnCEB3F0KM6gQvyld26uw3oJ0vhni65b5mZA2+Zp6dKfvgbD+OZWYSdDqy1u65VP8dCdVbTvzjOFKHj54H5LvIAmx95OW728hXDFmWq/DU3CHQahAIkbgAUInmoF8Otha8C7PcFEZK47klZSh2fQEPmmULQyVCaqnXOo3+T0=;Lqez/HUqe5vqvSSexMYGgw=="
 ---

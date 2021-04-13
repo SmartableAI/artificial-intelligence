@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
-    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
-    publishedDateTime: 2021-04-08T13:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-19739313.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 63
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
     excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
     publishedDateTime: 2021-04-10T10:58:00Z
@@ -105,15 +91,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
-    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
-    publishedDateTime: 2021-04-08T14:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "awD9kFDgl/rRDJah2gNZg1df6TaKqR8vZxtvWxRzcXzxeiJQrwykEssgQ8QHv3sxAYXqGk6CIFY1HDObFkueafg4yzo+ZpcGJ4XXC7kbi2HkwTaVREHy3jnxbsuVv6P0lI4QTRR/e+1v75Q8ycsD/ggYEvGb9A2s3fFNCqgo0IkXvCc0LIhWsOA/B+qa0P/jjxKqIIgNcTRlvjwE0n0dEGe6Co417HwqiuZABg0G3s8q6KLmTPF4DIlp9x9oOyFdAAJ8H8igI8vCEdnWdIrxdYyodv9+J1v9YU3lsaon68G+ddWmg3rhb3j8P39wnYk0c+h+YQR2WSRxGL4RV36bWDsCuLB33+4+dSqgYJdrIuE=;LRwSY+witxBcPD7XR5Gycg=="
 ---

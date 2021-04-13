@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/india-news-covid-19-vaccina
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/india-news-covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means/380031"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 550
     height: 367
     isCached: true
-
-related:
-  - title: "Facial Recognition for COVID Vaccination: What About Data Privacy?"
-    excerpt: "UIDAI plans to make the entire COVID-19 vaccination ‘ contactless’ through Facial Recognition Software (FRS). The Indian government on Tuesday, 6 April, said that it is piloting an Aadhaar-based facial recognition system to replace the biometric fingerprint or Isis scan machines at inoculation centres."
-    publishedDateTime: 2021-04-08T13:17:00Z
-    webUrl: "https://www.thequint.com/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
-    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
-    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/facial-authentication-for-covid-vaccination-is-this-a-viable-move"
-    type: article
-    provider:
-      name: The Quint
-      domain: thequint.com
-    quality: 59
-    images:
-      - url: "https://images.thequint.com/thequint%2F2021-04%2Fb5325436-a257-4087-9c11-759553f240ff%2F57e9691d8f115afb8ddb5b6cacd92502.jpg?rect=0%2C0%2C400%2C225"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Malaysia proposes reciprocal COVID-19 vaccine certificate recognition among D-8 member states"
-    excerpt: "Malaysia on Thursday proposed to the D-8 Organisation for Economic Cooperation (D-8) the possibility of having Reciprocal COVID-19 Vaccine Certificate Recognition among D-8 member states to speed up the reopening of hardest-hit sectors."
-    publishedDateTime: 2021-04-08T13:28:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=1950352"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 13
-    images:
-      - url: "https://www.bernama.com/storage/photos/fd924ab320f618ef5031306bb3e18e60606f048827351"
-        width: 1110
-        height: 694
-        isCached: true
 
 secured: "NXf8L0PtuS63FhlJqpa0rlQJIwbJ00osI+FBDvZLmjBLw017mV9xKW8niPI0Hz2ZV9qubbyD68BCD2g387Rm0E3HlICBiQSCvEY+fjLnxbqrfRBVamd5dcjl5dU7ib/gV8dwOY7ZboKl/rALTPavKblVkAcgC4bH4avmsW5jvq3M4E5VBFkCwjyB2k06Jq/v9yckyW0m61GhPqMeBqh1YHTYg1oo2hFygnA1o2f8Gwb8u5TDMQz450twqs79C3TmH1TeJ9uedLHeAU6NyK9ko8m3L7fTW5vnr6yQcLteZ2ZepxmqdQ6p7n8CKj4tKN2HaFKBo9SvvlYT3YCLkdAUo1jbqjIlI0ebnWY3xZj4910=;pnM4ccU4GmQpAXOIHs0KXg=="
 ---

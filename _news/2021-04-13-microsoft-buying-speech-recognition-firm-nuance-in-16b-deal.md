@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation ..."
-publishedDateTime: 2021-04-12T17:37:00Z
-originalUrl: "https://apnews.com/3d0298725cd320fdbc321ba9c1d432f2"
-webUrl: "https://apnews.com/3d0298725cd320fdbc321ba9c1d432f2"
+excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion Microsoft, on an accelerated growth push, is buying speech recognition ..."
+publishedDateTime: 2021-04-12T22:43:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
+webUrl: "https://abcnews.go.com/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/microsoft-buying-speech-recognition-firm-nuance-16b-deal-77030225"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/211b41a5959f4f41a651c82c36bcfe06/2000.jpeg"
-    width: 2000
-    height: 1486
+  - url: "https://s.abcnews.com/images/Technology/WireAP_211b41a5959f4f41a651c82c36bcfe06_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -962,6 +964,20 @@ related:
         width: 601
         height: 400
         isCached: true
+  - title: "Microsoft buying speech recognition firm in $16B deal"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools."
+    publishedDateTime: 2021-04-13T06:26:00Z
+    webUrl: "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/"
+    type: article
+    provider:
+      name: Times Republican
+      domain: timesrepublican.com
+    quality: 56
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2021/04/13010153/AP21102458179095-1100x817.jpg"
+        width: 1100
+        height: 817
+        isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -1180,6 +1196,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
+  - title: "Microsoft’s Nuance Deal Second Biggest in Its M&A History: Chart"
+    excerpt: "Microsoft Corp. is going all-in on health-care artificial intelligence with its $19.6 billion all-cash deal for speech technology company Nuance Communications Inc."
+    publishedDateTime: 2021-04-13T07:03:00Z
+    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/microsofts-nuance-deal-second-biggest-in-its-m-a-history-chart"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 41
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "In $19.7 billion deal for Nuance, Microsoft sees big opportunity in health care and artificial intelligence"
     excerpt: "It’s a bold statement that Microsoft intends to be the dominant provider of speech-based artificial intelligence systems to the world’s biggest enterprises, particularly in health care. The Redmond, Wash., software giant will pay $56 a share for Nuance ..."
     publishedDateTime: 2021-04-12T12:46:00Z
@@ -1224,6 +1254,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "+qiRXtx6YDPSjPQ8LsHDI1XagkCa940iasI7KWor2rZCscNqwZBasFqzZhbiA0Gxydww2FogRdBvm1VqPYYBG1iOa0QOOjHkhYwCOsjum92jx9QsbIzsqkAv8/VJKq8FD5jursNEkSayiYFstqzFPTbP+XvnxKYH4m695vn66T/FS0xbgriYMTakZqNhPjwIC7mvM+YlmUeM/7BOhFbAR7Z92ZSGn9fmKo9L3s3khwpRYQo45crWlpIP6+9oqqdWG+Hdvsxotaqjvera6QRY0SvQpZyNyDRA5OyzaliIZApIiolAoNFgNCy6C3bsUNjQEd9nVzM2EWIBisTNm2brDrKaYn28NUxaUO44urYY0iK/H2oZnhZ3dTzoA5J+rqepupq6Ak+YvW1/Up/xs5kw1G6id4/aNYb+fd8f2mehs7GVMkEvNtD2Vrn1H+PowACQTUM9orgLjmhDVgBvXGlJLeO97HRps7jbSSsXeSewCul7lUk9tSwr2vrQ0TAuHN6X0Mt7iGv7YvgiFtQOp5bWeA==;ENsqOT8Tz74pqQ+vmbGQZA=="
+secured: "XTt04iYvLcD0uw/WPJqrtWzYtiZMQZ1lGE/sPOuYvMDpEx4sQHEItT/ksUImGzUUACay/IlTImdUaQvmXSM4dAId2/jbHpyqXVqnH/z2HjFfu/+W3jZwZnhRYixlHNsj5VUNPsYyaHNDoaPhE23stoLQGEPtzLbcBOXkj9FLr9iQ98ySU/4Ezmf6BYJchKlFt4iSWroCiOzUXLHCxY1QrHmquv9InT1oivHqnlF5qLcvvXqQLuVjGYaoIiSqgfwvfWUklf8OfeCNBMK75SWElyhLjbCuk3zfsUF+d3PAY6ulwGehDcZHnBwVSTyXvfzkSjPwaj/pD2gAewUTt1pG1eT6mMCYC+xgEbwL89LFJLs=;E187xH2scasXdLz0crdopw=="
 ---
 

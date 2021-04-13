@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 896
         isCached: true
-  - title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2021-04-08T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "DeepMap Named to 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2021-04-08T13:12:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210408sf36846/deepmap-named-to-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1483995/James_Wu_DeepMap.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "WINT Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "CB Insights today named WINT to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the"
     publishedDateTime: 2021-04-09T11:13:00Z

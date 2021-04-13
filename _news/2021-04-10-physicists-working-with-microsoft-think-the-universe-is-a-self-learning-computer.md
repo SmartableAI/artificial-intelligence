@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
-    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
-    publishedDateTime: 2021-04-08T13:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-19739313.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 63
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
     publishedDateTime: 2021-04-09T06:52:00Z
@@ -110,15 +96,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
-    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
-    publishedDateTime: 2021-04-08T14:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "KjQ8UM5FnS/nDNl+njqazWNn6PK6NUnAxKoA06ISDVlZKW4oCf3xGSSoF/fnyvXHP/CGD69R2x74MDelDERYJQilfKKgjvmt8wDJwqGCFy7qIQ8XQr00X+ccubunwauLxTqxluwMXbY5DYyTLLSNOEDezBFduJA2C9ck5nSwAqJRxeZ6O0XtsRMZy1n8/i5f6qMZch4FjYQjPZzV6fFL4ChTgPfVE/cfShqs00mlW+1bUuLDjkiLxPNq+ArBc0X1h8ivD+5kNtFStObs3VHrjQJSpzRVRHnn5TzUHsO1svhtGr5/fukudcRC+gaMVmrGkFoF8ruRhPfA/uVdfc50yNU/WBLjPR1H4Yr1yG1MjNOXFG6zbzpNaNUqQ9GB8GU+xDkp3/O/sFWqnm/kwyuNcZzsOcKvI9JNUMHhiDleTmzTqPqC5GTzzZZgGF96ZljGQFLd9mnjthR/XE/ZUDcG+KHAxHFe2D8h6oELcgMnleFCD8kXuafrpMNUPZ8/3YOVHVzNC/6ZR7apNRezxL1T7A==;1XO6leB+J5dblEHoI6j7Eg=="
 ---

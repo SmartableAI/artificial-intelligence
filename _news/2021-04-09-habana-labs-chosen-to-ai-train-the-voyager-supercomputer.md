@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hp
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,34 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System"
-    excerpt: "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ..."
-    publishedDateTime: 2021-04-08T13:03:00Z
-    webUrl: "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 53
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg"
-        width: 600
-        height: 263
-        isCached: true
-  - title: "Habana Labs AI Accelerators To Be Used in Voyager Supercomputer"
-    excerpt: "The San Diego Supercomputer Center (SDSC) at UC San Diego has selected Habana Labs’ artificial intelligence (AI) training and inference accelerators to provide high-performance, high-efficiency AI computing in its Voyager supercomputer."
-    publishedDateTime: 2021-04-08T15:03:00Z
-    webUrl: "https://www.unite.ai/habana-labs-ai-accelerators-to-be-used-in-voyager-supercomputer/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/board-2440249__480.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "San Diego Supercomputer Center to use Intel's Habana chips for Voyager"
     excerpt: "The San Diego Supercomputer Center plans to use chips from Intel subsidiary Habana in its AI system Voyager. Intel acquired Israeli Habana in 2019 for $2bn, replacing its AI-focused Nervana product line, which was also gained from an acquisition."
     publishedDateTime: 2021-04-09T13:04:00Z

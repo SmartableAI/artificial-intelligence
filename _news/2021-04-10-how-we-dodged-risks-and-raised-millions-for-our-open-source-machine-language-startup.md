@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-09T18:59:00Z
 originalUrl: "https://techcrunch.com/2021/04/09/how-we-dodged-risks-and-raised-millions-for-our-open-source-machine-language-startup/"
 webUrl: "https://techcrunch.com/2021/04/09/how-we-dodged-risks-and-raised-millions-for-our-open-source-machine-language-startup/"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1209772192.jpg?w=585"

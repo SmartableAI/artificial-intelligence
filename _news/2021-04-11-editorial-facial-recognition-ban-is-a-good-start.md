@@ -43,6 +43,20 @@ related:
         width: 747
         height: 412
         isCached: true
+  - title: "Japan's Narita airport starts facial recognition trial run for faster travel"
+    excerpt: "CHIBA, Japan (Kyodo) -- Narita airport, near Tokyo, started Tuesday trialing the use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in."
+    publishedDateTime: 2021-04-13T06:15:00Z
+    webUrl: "https://mainichi.jp/english/articles/20210413/p2g/00m/0na/059000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 51
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/04/13/20210413p2g00m0na058000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bVQJ2N1Mg7aF6nU1OigqH14fUpcV8xCKFFjzlLmrYLYTMtA/2nybi8InJ3kLqP/okCn0r0T304o1yyAkZeY3P1bBrRuBWA8QGHhUDIAV/EMWaiTAukxZOyK5ZuMVilToL6vrPeDnDh/gfDYU+a6lkYf7PATcxYuXKvkbKjvXuc3YshHtYJeX7CZf+CElrcUbCoqSL0n/I8p2WO5+6YaNASYmTcUUzmBB72hKPK54MFpxneAx+/bEz9UbPVbHi1iD+pas73wxT+6Pg5xbfUj6ivmx+JGlSBGj4y7FxAxaoxn99HWBSBCADdqM63HWvPZXKIa4U/Iz7PdedGkWzzRtmVLFz67g6y0MoJU3SRcbUyQfgrV6FdjlDUEtfBlclax4ZipbKTOVtpKejpjEe7AuNWNGUZaEM28lP1BumyVsSl/zgSAbQKLPlzMrzxM3cSy8x/Zmi5Nzz1rhLs9s8Y2oTzOsr0E+vtm+VOho1raXDaC32Zm0EDYJ190vCAZ1N+qd88L/KkdexuZ7DrOTiA8A3w==;IvicgmQOn1M7WJ7gBYXMcA=="
 ---

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Clarifai expands its AI product portfolio to serve its growing base of enterprise and public sector customers"
-excerpt: "April 6, 2021 /PRNewswire/ -- Clarifai, a leading AI lifecycle platform provider for managing unstructured image, video, text and audio data expands its product offerings in Q1 2021. Over the ..."
-publishedDateTime: 2021-04-06T15:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-1030277908"
-webUrl: "https://markets.businessinsider.com/news/stocks/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-1030277908"
+excerpt: "Clarifai, a leading AI lifecycle platform provider for managing unstructured image, video, text and audio data expands its product offerings"
+publishedDateTime: 2021-04-06T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-301263073.html"
+webUrl: "https://www.prnewswire.com/news-releases/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-301263073.html"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Machine Learning
   - AI
-  - Computer Vision
 
-secured: "OcoDxl0T1z4kLM5fXLgGdPM8Sw4HvcxvZrSgXmnhzek6YcReynL6Lo0qDaRnOCT20KVgNiLZG1Iq5L1m+li0P++M1n8A+kRbfZCH6Ip5uJ7t7vsLsQYhpthCl5C2evBt01fjVE502YSFyPNZazwvgIElTA6aIWHR0lSy0tY+cG8A9Ae3x/hJfeafCUsq8bzMYblY4PdUFX9kXlFMqAXcRqH2X9LLkahbRPhmfNOhbL5bipXocgj+i+iYzViwsQckbar5AUxObpWJ1nsld6mYbPTJJ4u7LUsajfXx20o5S+I140waXa0owNfqCeJnt6XrXNd66TqE6Zcc8prkyXgXoq8l3w3pTvudwEtdm0girac=;wfXOlsqXB9QBlvn6qN/JQQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/837665/Clarifai_Logo_FC_Logo.jpg?p=facebook"
+    width: 735
+    height: 387
+    isCached: true
+
+secured: "TWhNLjYD1MTkjSByOpqC8PGSSXxjcX+t52E6JOIFkeQUQK0r71esQB0PKFj8r7hR3o2geHfjvtUPqz/Cnxz0cUx0CV4wn82yMtNUSdLFAaBaEYVxuzXlOyLWeCw3HPdY/474ru2Z6YQGfFLJU9+nwyJNSzyM6iDZwW0CYZs68azHyo3yW19eG6Qsi1U5e+AkkzTd2HmpGZgF7XiMG7rEmw3kyLsHn0Zk7smdMVM9noxGzf0ODPR/XkinD8TivptIdvrzY7gfCVkRprpjSK+RtbQMWelkxMMlqGkB5dy8yyp7TGz/JtjHlNoUpBKHn0Kjz9yBFKxLPadYVJ0K7TULoCXgcVF4yoPJj5d+xhYRsdI=;jPud80UyleLf7hih4l98ww=="
 ---
 

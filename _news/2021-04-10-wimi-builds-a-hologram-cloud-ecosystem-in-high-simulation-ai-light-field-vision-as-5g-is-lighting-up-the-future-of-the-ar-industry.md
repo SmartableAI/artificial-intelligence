@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101892415/WIMI-Builds-a-Hologram-Cloud-Ecosyst
 webUrl: "https://menafn.com/1101892415/WIMI-Builds-a-Hologram-Cloud-Ecosystem-in-High-Simulation-AI-Light-Field-Vision-as-5G-Is-Lighting-up-the-Future-of-the-AR-Industry"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has 'New Force'"
+    excerpt: "Hong Kong -  MobiusTrend, the fintech market research organization, recently released a research report WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has ‘New Force'. Unknowingly,"
+    publishedDateTime: 2021-04-13T05:57:00Z
+    webUrl: "https://menafn.com/1101872539/WIMI-Hologram-Clouds-AI-Vision-Aiming-at-the-100-Billion-Market-and-Lidar-Has-New-Force"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
     excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
     publishedDateTime: 2021-04-13T02:02:00Z

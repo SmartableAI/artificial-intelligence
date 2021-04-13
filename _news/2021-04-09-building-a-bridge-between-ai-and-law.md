@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The perils of artificial intelligence"
+    excerpt: "AI is generally seen as objective, clever and a feat of humanity. But for Professor Kate Crawford, it is far from neutral and is increasingly impacting on people and the environment."
+    publishedDateTime: 2021-04-13T07:44:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/ai/13301014"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13301090-16x9-large.jpg?v=4"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "6Hv7Nt/2Gwl6mmOPD7HMyKwa6dg/vq8JR73hIOKE/kPMe5GX7NcJrUfT1WoRrG9XXxO8OCyOiA74FRFulji8pOX6yvS/DIMmtFTnBsJ9te6mefRRCb0qAIEVEGcUGPlKH0TxuyIuMb/NJRm77vkkrLTFIJLI/zGXVokZCa4k95tmnlG+EBgJUzV8smXDFvU1ykIrASj41F7N+IZyJeCnL5JME8KuprxL0CjGTHTH9dS1SgMRR6zcNQU1qa0mmPiC1Bik/sOO4KeoGXHZe9TqbCvsKuiBjJIhaXm5tTTD96AagTvPh3FSVTKnigCgOvMRMMkYL7PxVWd84y9IKnIgL/yqUDlyiPC8hcb+EBAvV7k=;pNqluY7Db5Bd6XE99aR5dg=="
 ---

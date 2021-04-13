@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Digitate's igniotm AIOps For Azure Now Available in the Microsoft Azure Marketplace"
-    excerpt: "igniotm AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
-    publishedDateTime: 2021-04-08T13:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-19739313.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 63
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
     excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
@@ -110,15 +96,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
-  - title: "Cognitive computing Market Poised to Register CAGR Growth in the Forecast Period 2021 to 2027| IBM, Amazon Web, Google, Microsoft, Oracle"
-    excerpt: "id=11929 Top Key Players Profiled in This Report: IBM, Amazon Web, Google, Microsoft, Oracle, SAS Instit, Intel, Cisco Syst, Nokia, HPE, Nuance Co, Ipsoft, Narrative, Sinequa, Persado etc. This market research report on the Global Cognitive computing ..."
-    publishedDateTime: 2021-04-08T14:09:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/cognitive-computing-market-poised-to-register-cagr-growth-in-the-forecast-period-2021-to-2027-ibm-amazon-web-google-microsoft-oracle/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "dWyf2gMIK7l6tU9Az5dkcUYEbphbq/5XOtO+ks9YMmepjDaWqGsFFc8lA+WEE2ToVsD1C5Gy335+3ocdTK+gtt1j77ENulsDnXa2F0lOvRWDDhytpiZ3B2uzsvAH0GUWcRMxg0lmM/8AcLGIC7FnDTgc40pzWDV8IpOOnyne6cAA5LMHEMnP8WN9q0OZEdg+6dmgO6pnWL0uz1BWuwunLrBFWCqkTRlbQ9w39Dlse6QZUWFlkbYGnTUCb7kE7RlBjXWoUMdSg2PCRcc+W+xk8BTaehdzG1ylH8hzyD2IfzZtk3+dn4FT3i63Yxbrv62WF//k44KHh5HH3PLuw6MYYbnAVQN7gmVcJoNQEKBlySM=;XS6IAnztsbYpEm3alMH9kg=="
 ---

@@ -129,6 +129,22 @@ related:
         width: 620
         height: 347
         isCached: true
+  - title: "Nvidia announces move to ARM-based chips in newest threat to Intel"
+    excerpt: "The Nvidia Grace server processor is made on ARM architectures and makes it the largest chipmaker yet to adopt the British firm’s technologies.Nvidia claims Grace-based systems will deliver 10x faster"
+    publishedDateTime: 2021-04-13T06:47:00Z
+    webUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel-11618296043144.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/04/13/600x338/2021-02-24T214034Z_1_LYNXMPEH1N1KI_RTROPTP_3_NVIDIA-RESULTS_1618296077514_1618296090605.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Nvidia announces plan to make CPU chips"
     excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
     publishedDateTime: 2021-04-12T17:00:00Z

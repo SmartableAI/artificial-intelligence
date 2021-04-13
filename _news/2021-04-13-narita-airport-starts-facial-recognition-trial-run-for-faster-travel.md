@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Japan's Narita airport starts facial recognition trial run for faster travel"
+    excerpt: "CHIBA, Japan (Kyodo) -- Narita airport, near Tokyo, started Tuesday trialing the use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in."
+    publishedDateTime: 2021-04-13T06:15:00Z
+    webUrl: "https://mainichi.jp/english/articles/20210413/p2g/00m/0na/059000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 51
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/04/13/20210413p2g00m0na058000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "t9WShVlAMHrR6GzQWrB1rTBuU1ACNp42hC/5tmM+I2EGo+8EL8wklRSLVMCcT5mmn+vWC1l2rlM+eAd/qv4n28gV7A4D8Y9K/kWG/GDmKwxGbVfVO5VAeHlGOG7Ll4UVWjnIRcThKRwfahtrm0wwWSEDOuSFKenuLUyEp79/iZPcxIu4/zt29kVNSq30i6eyRgyBSdtb/Rm/8G7tZv2lA7/PRSvxmVGKiXoBje89DmVxF+lJQHlmJI5iFSwwSDtOoyRZpWtQ4nwyY3nc3uNpqExIFYeKIjhLWBWYuPE0Q9GNHVTgahI+veAQOgnaYyzUtV1bBG6EGRkYHxsIuz09ULnQ+e9xiK2UqXSG5l2+Aqw=;Ri5nloHw8byg1ieG4mINag=="
+secured: "PyaVMiXeBcEt99TMZjk54nyxRnkLXxqiplTlfb7iuYCtrwFmCJCrgOY781OMYFtgZWv2BoddMucNoVRm2vwb/D/+OOopWeR5mKEunRprBvQZuZpRGYESffnVItoxeTgqhNzEW6vutgXR+xKZDZAYGLQpy8sFAQEHIXrv0sCls6nYlyu6EFJd9bwuOkl5xxdf7XRjFZpTpcOSdB+u9uAajIfdS9hz3oAqeNRjfISzwtCi6I9kTM14EbPYIkAREY8kfY5gYuqWjNmvhtLuJBPZ4GNGJWagTs2SLrsNojgZ8uAS0R2uJPhhhjnI0FbPnixLM7AnMDXM67gIIsJW5dOVcNktiZuuFEyn5mhXh5hEQr7gb8p16PxCXGsVCINkKhmPZoCGTWSZ4vTL9PewjAF36lOMuWgb9AJEiUNMkb22updFNVsYjXDsQnpVdHwy3LHVVTKVDxHf2nS0OE3qfSBsBodmr6ZQAcmaKGpZ9Jf1hsElZ/dMGqDxZMUrJPx5osTK3Ctk4ntEKSVEQSJn6f9VjA==;QA01dZj3/EvlCxF2cVf1SQ=="
 ---
 

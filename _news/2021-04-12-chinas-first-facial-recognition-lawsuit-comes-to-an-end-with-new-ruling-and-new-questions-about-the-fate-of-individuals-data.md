@@ -30,6 +30,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
+    excerpt: "SCMP A court in Hangzhou made its final judgment in China’s first-ever lawsuit over the use of facial recognition after both parties filed for appeal, upholding its original judgment and ordering additional data to be deleted."
+    publishedDateTime: 2021-04-13T05:39:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/13/chinas-first-facial-recognition-lawsuit-comes-to-an-end-with-new-ruling-and-new-questions-about-the-fate-of-individuals-data"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 0
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/13/1111776.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+
 secured: "WPLfOg1X6fhyLpZLdl9Xp2XEuVFXujlrCmxPJMzFlUnT+OvssTx6bZtQmYaFW+kG3d7iublDvsh+8pThOGXHfZubK641upZQWLSAy7glbDRGo6wR1+XFHTRVuY+VvmVLVTpkD3M/sQbnUqTNN5OKgUbLudo7aW23jyTkzWmw/eCFs5qxQ+/2LWN7WlfMRpcNMP86+siEju9xVZlIGjlsYgPvEEIoBpP0GZ8+T0tD1+klSWvaHl9f5p7zq6/ip2G973K48wY/wNlltS+sAbpVFRNCT1lZo+og6LlxKXkspGfQACJWrypsIOXl+Qkmn2xhd4YNhbQyoloUfPhxNzVfLK2oeojhb4IG/w3A3S37K0CUDBB4sMG8rFc3G9+VzkBap4tYSgvuBpOBjE21atrA2Ww2+qPbFaalLpzI3gUXVzpcDzSFZIagMPHPQVEG4eLA1tvQ5S3ct5YBlmoLdWNzfYHGB8GBKTwGMNJC4BNF8CoM8V8sNuqYwMEywyA/ogwPd2ksLQJliEl8WvrZCktFEg==;3i1VHEoo1ovnI0qWzmZ3Dg=="
 ---
 

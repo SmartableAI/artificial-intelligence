@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal
 webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Drone maker DJI the latest Chinese tech giant to get into the car game"
+    excerpt: "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ..."
+    publishedDateTime: 2021-04-13T05:34:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pte3B0Nzb3eK2Vq6ikPdMqobrTn7RKlFV5mJS5gA3oQSnLA7xoB2Ca0RIJUz3un8jYknEqhDgnjg0t+gEbIuQZ3DfVsZGdjg3umCglNmbP40qe5yvnV7aKcECXgqd9LzeR2+V9YyRM8+WcYI1QpLWaDmOjXlMNMFLJlX/fCsHfeoI9mGl0xMWxZQYs3x8QWtOzFIWLr/gtOfZIq6sb/6wZAcbj4OMZp1P1WVlQ1a0nt4GXD15vMRmPxup71xpy1zH3UjoHqNZ/mIgFydJZiPMvTdhgAzcMSWPzaVlv08X8iABhN/ZtsMVsk87vIPzWUKNsJzL6K1KfamaslBjjQYvomIafR2pggxbfToEB86ZD1HnNlpE0C14Z1K/lnDzORRA/PTpv4UhyfB1MBht17Dc3UfVEqcJtWj2Z760iT3ezQgBrj3elKvRRDovKfpS5D/vsYKxMIDw0eNX4921Hy08VseAwqvgSSwPKuG61qk0B8Xln/mYt280c00WUtzw1ddU1zFEnssp5DU82xMM1V3Pg==;myvlNdxZTel1/0ls6xc6Rg=="
 ---

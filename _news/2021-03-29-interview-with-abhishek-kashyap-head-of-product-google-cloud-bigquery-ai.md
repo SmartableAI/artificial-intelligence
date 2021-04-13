@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/image-6.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1200
     isCached: true
 
-secured: "XDY+hy7/ygjI5LKegroBXxHJAfNtRRSXVcy0V2Ur3gK2gMRDVAEGbHSpo5BJoiSCx6JkxDGQD+QPMZhdnoK0SxhUNIPNpvPiWz5DcnP+ZUwxiHaD0PcafO0TkioWj++Jyxpzt8Rq1zqgKBH0KCvfOQWIcrtNC2pUNlFEvZlReyL6q+fOk3foVQSl9vJ6Q/b5f0Su5xRnIQTOGUyUlYJ4HXRpbYttPR+Q+jV3+qBgxPAh7dNoY6KdBzJ718a1WAYt7Nr3/bErGeSQbidmHptuNXt1m90P9pIqABLWHzeVVxzJrC5UnKLvoTJ1NevDb/U1yHdByaHGJwGjEa0kfOZvLGku6OyDeuc4waMawCp3g4A=;pV3qwPhQ7pjLYGZrmQSQbg=="
+secured: "n5yLI4Ouoa1cJT+ZogjHD8UFEqXAt2D4xEJkbevO4DZkWL4akm6MZhqXXPcm/RVf+PSHmhZ0iifYrnSN955adnQuF6rAHH2XTTJF4x+agNgmvthC9wQcITrqY5C+fMmSRxil+nHK8gqrqdyH5aY7KhxWoAL9ePZagrJYH+7BvZVH7FLcHizqNFI9efs5eltOjaXONu2ljexmmoA0rUsrW8MuszWn/1wbKEFgDLKM6lCqyqSI8rrnuczneIensiuHBBggHGSmB3wnSjkQ4SDEU96gkb2ATph1fBvcpCaVyBTDfkfcoRDoY2UMoeuKBcSIPjNy63t+E0hnnuFJi9HfKp5nDCKC96LzeCif+YQszf+qWATT7xfR2YFrRKC/94kXF55VNIe8XEPp0BPk+mOq8GDIkbgCxVJsHirshrFX8z/l4LWO8ve+wJLMSUlV6dtbVdbCWgqwLnDJ1tQzIQMz/XAYmuj619cS4dXTWro5YaL1g4oeUJgGcjanx3c7t9hvlC8u1Qu8tB9IVyRYPmRkFg==;NZ2u9SP3JmTIcMnynrKJYQ=="
 ---
 

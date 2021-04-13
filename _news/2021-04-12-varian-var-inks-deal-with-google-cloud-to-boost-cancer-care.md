@@ -44,20 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Varian and Google Cloud Collaborate to Aid in the Fight Against Cancer"
-    excerpt: "\"We are excited to see how Varian accelerates AI innovation and segmentation quality to improve cancer care with radiation therapy using our state ... we are harnessing advanced technologies like artificial intelligence, machine learning and data analytics ..."
-    publishedDateTime: 2021-04-08T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-and-google-cloud-collaborate-to-aid-in-the-fight-against-cancer/article_b62c3571-71ee-534e-a740-0847b2e7de31.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Varian partners with Google Cloud to build AI models to streamline cancer treatment"
     excerpt: "Using the Google Cloud AI Platform’s Neural Architecture Search technology, Varian will input its own repository of imaging data to create and “train” models that can automatically perform organ segmentation on diagnostic images."
     publishedDateTime: 2021-04-09T11:48:00Z

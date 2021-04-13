@@ -9,7 +9,7 @@ ampWebUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-a
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Warm feelings about human-looking robots can turn icy when bots blunder"
-    excerpt: "It used to be just a few businesses experimenting with robots and earning a lot of splashy press. But I think it will become much more common in the future as artificial intelligence gets more powerful.\" Robot and human collaboration Rather than seeing ..."
-    publishedDateTime: 2021-04-08T13:28:00Z
-    webUrl: "https://techxplore.com/news/2021-04-human-looking-robots-icy-bots-blunder.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/1-ai.jpg"
-        width: 1920
-        height: 1279
-        isCached: true
   - title: "More farm robots on the horizon"
     excerpt: "For instance, FarmWise is a startup that builds autonomous weeding robots that ... “We’re developing in-house new types of machines that are powered by artificial intelligence to be able to both capture the relevant pieces of information about each ..."
     publishedDateTime: 2021-04-08T20:37:00Z

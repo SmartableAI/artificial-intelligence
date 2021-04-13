@@ -41,38 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Toyota Mirai, Lexus LS show off Advanced Drive assists with OTA updates, AI"
-    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle ..."
-    publishedDateTime: 2021-04-08T13:34:00Z
-    webUrl: "https://www.autoblog.com/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/04/08/toyota-mirai-lexus-ls-driver-assists-ota-updates-ai-learning/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/08083145/20210408_02_13.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Toyota unveils new models with advanced drive-assist technologies"
-    excerpt: "Toyota’s latest launch comes as automakers, electric car startups and tech giants invest heavily in so-called active safety features"
-    publishedDateTime: 2021-04-08T13:18:00Z
-    webUrl: "https://www.theglobeandmail.com/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/drive/article-toyota-unveils-new-models-with-advanced-drive-assist-technologies/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 44
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/yaeBa_Cp7SoHeXkxtvfXg6VlFfk=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5XRU74PZ2FN3BDW2ZDE6KS5SYM.JPG"
-        width: 760
-        height: 506
-        isCached: true
   - title: "Toyota adds autonomous driving tech to sedans"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Honda Motor Co, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new ..."
     publishedDateTime: 2021-04-09T06:06:00Z

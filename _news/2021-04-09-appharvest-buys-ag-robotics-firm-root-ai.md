@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AppHarvest acquires ag robotics and artificial intelligence company Root AI to increase efficiency"
-    excerpt: "AppHarvest, an AgTech company focused on farming more sustainably using 90% less water than open-field agriculture, has acquired Root AI, an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms."
-    publishedDateTime: 2021-04-08T14:01:00Z
-    webUrl: "https://www.lanereport.com/140277/2021/04/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to-increase-efficiency/"
-    type: article
-    provider:
-      name: Lane Report
-      domain: lanereport.com
-    quality: 70
-    images:
-      - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2021/04/08095227/AppHarvest-Root-AI-1.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Vertical farmer AppHarvest buys robotics start-up Root AI"
     excerpt: "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ..."
     publishedDateTime: 2021-04-12T15:50:00Z

@@ -44,20 +44,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "AI Enables First Hidden Masterpiece on Canvas -- Long Lost Behind a Pablo Picasso"
-    excerpt: "\"As we use more AI to accelerate the identification and reconstruction of ... Oxia Palus is an artificial intelligence startup resurrecting the world's lost art. Oxia Palus has one of the most unusual approaches to artistic creation, using technologically ..."
-    publishedDateTime: 2021-04-08T13:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ai-enables-first-hidden-masterpiece-on-canvas----long-lost-behind-a-pablo/article_9c2296d0-c957-59f1-8b91-e39b3581e6ca.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/f0/af068965-5a65-5371-a9ba-a7bbf0d3441e/606f05cbc6d48.image.jpg?resize=1200%2C538"
-        width: 1200
-        height: 538
-        isCached: true
 
 secured: "NzLpBDE7R6QRS7Gka9NXNhFr1nU7IFYd9zfpL0TOPsIltw1eWyhnAa1rHrj1W7R9Q1crsFNfAPX38RigNMwuKKr2TeSZMuDaOciWTGzOcXBOC424CmpwCtx3NEvW3qi44+MgpU0+UEKmSD6cQ4+zP1jtR0ss6c2q0Z+QtNoV1me3KAXGNvtlXVxVsNy2nRsBMAErR77r3mmNl9gT6ta4uWkOJ7HNl88SF0wEtnehw0vlXLoD4RK1hBsRYs35hM2MNGD0h72W8UycokTuxwnuES3XgHTtKH2Gogadi0p1TZhc/6bRV5AbpILHyk9NTWFM4LMZDdU05kS6yh9Mhal0szq28vu0WNtnD7tydKW0inkzKdblbSZtJ0Y/PsZHRQ2n9xlCUKwyOf5KaOUj+qfstMhAwOTFiOaFj3n3uCuoAhqLKAgGO9fWKx6IMmMsduJTcGu60KfQaDd8lbDI4vNX+PSlTUrHSpZ86kwW77YjZCOKKtDVZlxmjhfAowgFoU127jOLY6YLN+t6kpzuVy7WgQ==;ddbEP/T26ev0NKotGCTkFg=="
 ---
