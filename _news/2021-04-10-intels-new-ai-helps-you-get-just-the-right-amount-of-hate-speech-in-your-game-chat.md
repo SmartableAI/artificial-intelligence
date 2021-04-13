@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-r
 webUrl: "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Next Web
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s new AI helps you get just the right amount of hate speech in your game chat"
-    excerpt: "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ..."
-    publishedDateTime: 2021-04-08T20:08:00Z
-    webUrl: "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Intel’s Bleep AI monitors hate speech, but lets you toggle racism and LGBTG+ hate if you’d like"
     excerpt: "For some unknown reason, Intel, the company known as one of the biggest computer chip producers in the world, has unveiled a new AI called Bleep in its GDC 2021 Showcase, complete with sliders and toggles to try and monitor and block out certain levels of hate speech in online gaming chats."
     publishedDateTime: 2021-04-09T18:03:00Z

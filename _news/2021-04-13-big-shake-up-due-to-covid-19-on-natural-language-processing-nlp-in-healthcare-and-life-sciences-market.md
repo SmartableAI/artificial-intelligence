@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-n
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Worldwide AI in Healthcare Industry to 2025 - Competitive Analysis and Impact of COVID-19 - ResearchAndMarkets.com"
+    excerpt: "Artificial intelligence in healthcare is one of the most important scientific advancements in medicine so far. The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the ..."
+    publishedDateTime: 2021-04-13T11:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-sports-products-and-services-coronavirus-pandemic-d6c542bc68264212a237424ea8aa1d97"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "YHfr6SG/RrRwuHNV6qZLCnfLigZLb5Pi5WQrS9xcHa6s+GEoILNwo+0tHrzIBA5hd5mlNWjHnzPEbxgrDiczsVwAmalqZpDIT8N5i1pVqK03Ywvn3Pm5DoKAYVd+ZQ4pxKGqNlMkfyMQ2AERXJ4f9giPB/sKeYGpsxwYXfHQTDwlEiwmhJvVv/1bUnwzU8lUyATUZIEfr2MfML6zUYgw8yO1FSUDjRg4UXxiThkemjGawY7c5fvgtGMlMTmDIOJ4V5LjuY7Pb+qx56ImBFtDIoa2QROB/1RypiY42DCzJLpgu01PjB10fItZ997uzm7yAJ07CzUiOdoYQ1aweuQkoXSng9N2OxOGjeJ/BzRLXMPQjlW0UclwKqVDve//Aql2TTqkT2J48sHphzg0IuEZo+1rsA5pqNGrUvfEjkONtw60micS2UX6T+kIW4PVOoMfFaYGmIUJPlMZGGIkAYonyqLdjWsyGmTpjUOXDsMTQVbbPq6/hT7YDPzbQuPxtgVsfFCGC5XNLgpa85c4LAcVHA==;tdJdsA+nDg8btVsa5Fm1CA=="
 ---

@@ -599,6 +599,22 @@ related:
         width: 708
         height: 531
         isCached: true
+  - title: "Microsoft buys AI speech firm Nuance for $19.7 billion"
+    excerpt: "“AI is technology’s most important priority, and healthcare is its most urgent application.” Nuance’s products include multiple clinical speech recognition software as a service (SaaS) offerings built on Microsoft Azure. The firm’s solutions work ..."
+    publishedDateTime: 2021-04-13T13:13:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/yp9e8e/article34311262.ece/ALTERNATES/LANDSCAPE_615/Microsoft-Nuance"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Microsoft to buy AI and speech technology firm Nuance for $16bn"
     excerpt: "Deal comes as Microsoft builds up its cloud-computing operation for healthcare and business customers"
     publishedDateTime: 2021-04-12T17:40:00Z
@@ -1023,6 +1039,20 @@ related:
         width: 620
         height: 360
         isCached: true
+  - title: "Microsoft Releases AI Training Library ZeRO-3 Offload"
+    excerpt: "an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters ..."
+    publishedDateTime: 2021-04-13T13:04:00Z
+    webUrl: "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -1107,6 +1137,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Tech & Science Daily| Microsoft’s $16bn takeover of AI firm behind Apple’s Siri"
+    excerpt: "Having moved on from offering voice assistant tech, the firm now focuses on building software and AI for healthcare companies. New research suggests the Kent ... to such large volumes of water is unknown. Facebook News is adding a local news section ..."
+    publishedDateTime: 2021-04-13T13:24:00Z
+    webUrl: "https://www.standard.co.uk/tech/microsoft-s-16bn-takeover-of-ai-firm-behind-apple-s-siri-b924211.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 52
+    images:
+      - url: "https://static.standard.co.uk/2021/03/15/14/SITETechScience_NEW_final_3x2.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Jumps ‘Light Years’ In Health Care AI With Nuance Acquisition: Partners"
     excerpt: "Microsoft’s Nuance acquisition will produce major new opportunities for the channel in health care AI and voice recognition, solution providers told CRN."
     publishedDateTime: 2021-04-12T22:35:00Z
@@ -1120,6 +1164,22 @@ related:
       - url: "https://www.crn.com/resources/0268-12069f896813-36025a955139-1000/microsoft-nuance.jpg"
         width: 609
         height: 457
+        isCached: true
+  - title: "Microsoft Is Set To Make US$22 Billion Worth Of Augmented Reality Headsets For The US Army"
+    excerpt: "Microsoft has reportedly been awarded a ten-year contract ... the company develops products for “governmental entity customers that primarily provide security and defence services, including police, fire fighters, EMTs, other first responders, and ..."
+    publishedDateTime: 2021-04-12T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/"
+    ampWebUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 49
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/04/13/file-20210407-19-d0anu6.jpeg?ar=16%3A9&auto=format&fit=crop&q=80&w=1280&nrs=40"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Acquires AI Firm 'Nuance' For $19.7bn; Nadella Calls It 'priority Application'"
     excerpt: "This feature of Nuance will help with Microsoft’s cloud, including Azure, Teams, and Dynamics 365, to deliver next-generation customer engagement and security solutions. AI is technology’s most important priority, and healthcare is its most urgent ..."

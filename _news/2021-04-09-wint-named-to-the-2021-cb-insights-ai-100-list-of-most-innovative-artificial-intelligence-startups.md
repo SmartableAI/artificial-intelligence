@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fiddler AI Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "April 7, 2021 /PRNewswire/ -- CB Insights today named Fiddler AI to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... Recognized by Gartner in 'U.S. Healthcare Payer CIOs: Achieve Provider ..."
-    publishedDateTime: 2021-04-08T19:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19740178.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Autonomous Vehicle Mapping Company DeepMap Named One of the Most Innovative AI Startups by CB Insights"
     excerpt: "Silicon Valley-based mapping startup DeepMap Inc. has been named as one of the most innovative companies utilizing artificial intelligence (AI) by CB Insights, a National Science Foundation-backed big data company. As a big data company, CB Insights ..."
     publishedDateTime: 2021-04-09T22:20:00Z

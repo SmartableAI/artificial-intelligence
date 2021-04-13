@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy"
+    excerpt: "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ..."
+    publishedDateTime: 2021-04-13T13:19:00Z
+    webUrl: "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
+    ampWebUrl: "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 65
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/758247/artificial-intelligence.jpg?w=570&h=380"
+        width: 570
+        height: 380
+        isCached: true
   - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
     excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
     publishedDateTime: 2021-04-12T17:11:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg"
         width: 1000
         height: 1300
-        isCached: true
-  - title: "New algorithm can predict which genes cause cancer"
-    excerpt: "A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
-    publishedDateTime: 2021-04-13T04:55:00Z
-    webUrl: "https://www.news-medical.net/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "JevnD/yEJlbJ8S8TZVAUiA+0K74qWLDFh8fD/4Zd9cTe6GSO9YXtI4R7PgRp4tBOcOMBVhghU2rFeyhnNknALY/xyKquFJa2PhJ3VU1iFNZskZNhkXK72YN5hL3MMvlT8PLgiY2rIt6GY3Cyu58MvZxI49ADPLpcV7UfW4dHAuu/mVZnGWN6MHPYBbvCCmuy53UaGNLVMFPncYIEm/ogb1AnoNZAAODP+CBS6S32yMeMIyOhGf20BRxXQYiawUfVibsGyLSImBip+b2/O/fbWjCZEgPOcQ0/3pyfv2TjxajIKZPKDORM/lRyPgENpdHaEWsww0NhFt8cqTgoBmb8ermxPCK581KOKiajzHH3BOqe8fh6mdVsjBsNIFcECifQCm0MojxIR594MLgS/tvoj3TDroYVkGBh+1yasx4YwYXXmuVMcq8b2IiuyuxE/uGmixL/si9Hqe2Hx64mZ6n0zdEHHazh434yU1+YFUU0mx91tMAwyGqqZ6GTNWnQNSDeaFT9wuJ8orAEMb7zVdJPGg==;WUzFfOBvCGVzrGQrFi+kXQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210413/New-algorithm-can-pre
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
-    excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
-    publishedDateTime: 2021-04-12T17:11:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
+  - title: "Algorithms similar to what Netflix and Facebook use can 'predict' the biological language of cancer"
+    excerpt: "This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct the grammatical mistakes inside cells that cause disease.' Machine learning technology has ..."
+    publishedDateTime: 2021-04-08T21:47:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9451191/amp/Algorithms-similar-Netflix-Facebook-use-predict-biological-language-cancer.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 32
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg"
-        width: 1000
-        height: 1300
+      - url: "https://i.dailymail.co.uk/1s/2021/04/08/21/41514710-0-image-a-50_1617914443282.jpg"
+        width: 636
+        height: 382
         isCached: true
-  - title: "165 New Cancer Genes Identified Using Machine Learning"
-    excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."
-    publishedDateTime: 2021-04-13T07:26:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/165-new-cancer-genes-identified-using-machine-learning-347599"
+  - title: "Machine-Learning Algorithms can 'Predict' Biological Language of Cancer, Neurodegenerative Diseases"
+    excerpt: "Scientists have found that robust algorithms used by Facebook, Amazon, and Netflix can 'predict' the biological language of neurodegenerative disorders, like Alzheimer’s disease, and cancer."
+    publishedDateTime: 2021-04-09T14:55:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12165"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12165"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12165"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 39
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 30
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/165-new-cancer-genes-identified-using-machine-learning-347599.jpg?cb=20210413"
-        width: 640
-        height: 360
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12165_16179712405387740.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "DRRKMxfB74qt5B0iq+6fpF1qGw+yoW1GFDf03THimmhiOiznTfTsCRIk7i0ARBQINqnKa1uyicGj0O4e24UALa+D2dsERbEgplw5E9mZ6jo5UQz+TNP7cMtK1OQtiLtFBaRWIdOcnLjT1xZ2MaUCstGqGDTCnHeSv5u6oYW3QJmFHy2W3USHwr9N5ifpb6m8PhnEPshuMVugrX5p96jZmqY2+qrSVM3JKUDLM+25FsB0F9ZiLL4wcGaYGfESE0rFwZqvNJyydS8BFN5BeLAd1HkboKGeYBPQVeI3QPBTcwrP45cAAA9Gl90UMw5Yb24P0R9I0sg4/Gz6MBrpwtg7CAQz0Xn92d+K2Y2Y0jX2UmM=;RKFnX0dkEZpZKQ6QLpkSqA=="

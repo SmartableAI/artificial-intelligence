@@ -173,6 +173,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Your next Volvo might be powered by NVIDIA artificial intelligence technology"
+    excerpt: "GOTHENBURG - Volvo Cars is expanding its collaboration with NVIDIA to use NVIDIA DRIVE Orin™ system-on-a-chip (SoC) technology to power the autonomous driving computer in next-generation Volvo models. Large amounts of computing power are a prerequisite ..."
+    publishedDateTime: 2021-04-13T13:58:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/your-next-volvo-might-be-powered-by-nvidia-artificial-intelligence-technology-01ebf03c-2521-426f-bd0a-dae30d303c1c"
+    ampWebUrl: "https://www.iol.co.za/amp/motoring/industry-news/your-next-volvo-might-be-powered-by-nvidia-artificial-intelligence-technology-01ebf03c-2521-426f-bd0a-dae30d303c1c"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/motoring/industry-news/your-next-volvo-might-be-powered-by-nvidia-artificial-intelligence-technology-01ebf03c-2521-426f-bd0a-dae30d303c1c"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 54
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/d764f75c-0277-506b-bf05-4ed204191172&operation=CROP&offset=0x328&resize=3500x1969"
+        width: 651
+        height: 366
+        isCached: true
   - title: "NVIDIA Grace Next-Gen Arm CPU Delivers 10x Performance Lift For Giant-Scale AI, HPC Workloads"
     excerpt: "Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance AI. NVIDIA is now a three-chip company.\""
     publishedDateTime: 2021-04-12T16:23:00Z
@@ -310,6 +326,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Nvidia unveils new AI processor for self-driving cars"
+    excerpt: "The system-on-chip (SoC) integrates AI and software with the latest in computing, networking and security, Nvidia said. Atlan will include new graphics processing unit (GPU) architecture, new Arm central processing unit (CPU) cores, as well as deep ..."
+    publishedDateTime: 2021-04-13T12:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 21
   - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
     excerpt: "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A"
     publishedDateTime: 2021-04-13T05:40:00Z
@@ -334,6 +359,6 @@ related:
         height: 393
         isCached: true
 
-secured: "6k8HdzbfNk3Mrhlj/JP0SJ/gkepl51nXB1Vf+9T4/vtdHLZIyIxIX5grD4X5JxFob4e2goWB0G0kgGvR2amixZ5V8CYUOp0RutkGPOhjKO0AUaG0fFGeINFGh3iFWNh8wGJPmeS9G0ltjgDsJascKhmLplblrkGBdf9oCmOacwAGKm8sAnUvGYDxYV/lG7SC8Af3GVjFYl+r8iCmvWhuGNeKdq8siOFlR8FJ0vmc4kyzBJb9kM4hJuO57JV4pDoXrlZG9AxCFvTLdaUYtTxZ0Oy0WST8j/Kd7wXIcLYtNtC0i8f6smRM/c3b+GgNV379XzcI+XeAgYVSt5zrM/eMGSxeXuIleHNxInF7UIToypk=;/1/G9zol1bCp0EBzwF3INg=="
+secured: "ztDu/bqjP7OHaA07aa+ejQNikVHRoNvmyIb8BJCsmV+mkKOwGXGk9lPoY71RlPQ30cpjLfTx/3B7YaZDlAZjpQW99owmZYJGiQlJco5Jwxyk3pzVx3cd8B2GBmyUf5G10jhzv1+SVFZ+FCY/iGOpLGTIo5pBzkpKKIiRiGCbYA2xIJ+2vRPp7OXUxX0UFvt8g+Xxx9fF9r9UI7N1CogszYvHUegkN3gjaGai6gWHEE5tEYIcSpgXQxF33LySOP4D10SrUHynXfHT5LkEs0u/wLIF8pqaFVhBOvZp0kcaA4iciP9rEY6s3Sr2ve+R2E9niyrgIW9wVZEK81Y6+uyWdxNSHCDVrA9pnhMNmbtPs3xqqRhr2yn9m6S4JQF1putkGOHuvBoVluk3SrgeXAOngCIdvNzQCR8wCkuHk6J/bBCqTZpt259TbpfKvpzEvH0RwlnsCIFgBjiMYWJDh17xGIgJrjUKXCrOnFTFiiNzFUg0XIdllAPiOjOjUBCRY5QlakPiy7HlBtEyEXT5b+gLJg==;RtpnT0lkdg7DkSGOWEx17w=="
 ---
 

@@ -55,19 +55,46 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
-    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena."
-    publishedDateTime: 2021-04-13T08:33:00Z
-    webUrl: "https://www.bloombergquint.com/business/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+  - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
+    excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
+    publishedDateTime: 2021-04-12T22:51:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 39
+  - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
+    excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
+    publishedDateTime: 2021-04-13T12:48:00Z
+    webUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html"
+    ampWebUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 32
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
         isCached: true
 
 secured: "qA6FQaj6j9yGT6dQiuTZXtCFGwJcp+RLok5+6gAu8Q3agltVtxyLrtIuCMOY3gO0HUhSwGbFdX6MjnjOXFverX+VhGcaSSzzz7hm0J8wcd8dvtmDtTHWgEbKEvTygXdbAU39cfdV4qiCthozBepUFFCH1z5lvnDDJh7n7jhsQsAcfkNx1YuHOivGHyPG1x+xVMnn5/Vzo+pHvCISN2zBPKl/JIoVMll8PXAdSynuqikUmIjgzsbCktU/QJ47e/dEpfvtiChIBdTFDGY44CNGTccd3UbEKqwJ14Q9cs3KC0j+utC33hkEAHc13tAYD3C18tzN+hHS6HGTP3ehWiqt3TvTfflFJ1q5QTnn54GOHruUe72Av6TOoNHWKdCU2DGX1i8zrdXVp66Cbdydw3Fq3yLPekMod/tF/pibVJgzYgTrqQt66eLp2zJxv8TZFJwQG6CLEQTkrViJJM8rECcbItsN4lglOvZWFYmIluli2ps4OzcELK2rrnhRrm53Dd1LVz2eu4rdLgVv7UfV7EKrjA==;Bze5XtPvZuQs5oBwZ5qCMw=="

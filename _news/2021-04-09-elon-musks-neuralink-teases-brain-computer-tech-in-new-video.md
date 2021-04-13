@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna633"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's brain chip company Neuralink released a video of a monkey playing video games with its mind"
-    excerpt: "Neuralink, a company founded by Musk that is developing AI-powered microchips to go in people's brains ... Neuralink says the monkey, called Pager, had a chip implanted in his brain six weeks ago. In the video, he is given a joystick that hooks up to ..."
-    publishedDateTime: 2021-04-09T09:56:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-neuralink-video-monkey-games-pong-brain-chip-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/60701eef30004b0019b26ce7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
     excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
     publishedDateTime: 2021-04-09T11:48:00Z
@@ -63,22 +47,6 @@ related:
     excerpt: "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted"
     publishedDateTime: 2021-04-09T15:41:00Z
     webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://images.mktw.net/im-322928/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
-    excerpt: "Elon Musk’s neuroscience startup Neuralink has released a video that appears to show a primate playing Pong using only the power of its mind. The roughly three-and-a-half minute video shows Pager, a 9-year-old macaque monkey who had two wireless neural ..."
-    publishedDateTime: 2021-04-09T21:23:00Z
-    webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913?mod=mw_latestnews"
     ampWebUrl: "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
     type: article

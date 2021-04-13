@@ -27,157 +27,113 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s AI is about to get better, and not just for Full Self-Driving"
-    excerpt: "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ..."
-    publishedDateTime: 2021-04-12T10:25:00Z
-    webUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
+  - title: "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston"
+    excerpt: "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ..."
+    publishedDateTime: 2021-04-12T16:56:00Z
+    webUrl: "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
+      name: The Verge
+      domain: theverge.com
+    quality: 84
     images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://cdn.vox-cdn.com/thumbor/oRCkywwYBpbl8UjzgYn9SHAuTVM=/0x0:5129x3420/1400x933/filters:focal(1863x1390:2683x2210):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Self driving robot car will start delivering Domino's pizza in Houston"
+    excerpt: "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot."
+    publishedDateTime: 2021-04-13T10:11:00Z
+    webUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston"
+    ampWebUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
+    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
+    type: article
+    provider:
+      name: KRISTV.com
+      domain: kristv.com
+    quality: 76
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Domino's starts self-driving pizza delivery service with Nuro autonomous cars"
+    excerpt: "Domino's customers can select the self-driving pizza delivery service when placing a prepaid order from Domino's in Woodland Heights, at 3209 Houston Ave, depending on the service's availability. Once ordered, customers will receive alerts informing them ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.techspot.com/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-12-image-12.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Houston, we have pizza: Domino’s and Nuro run self-driving delivery robots"
+    excerpt: "Pizza chain Domino's and self-driving robot develope Nuro are working together to deliver pizzas by, well, robot to select customers in Houston."
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://thenextweb.com/news/dominos-nuro-delivering-pizzas-self-driving-robots"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FDomino_Nuro_autonomous_pizza_delivery-1.jpg&signature=330b2deb7e37df21ee4633ce8b4f7a45"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Musk Reveals Details Related To Tesla's Artificial Intelligence"
-    excerpt: "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications."
-    publishedDateTime: 2021-04-12T16:05:00Z
-    webUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/"
-    ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
+  - title: "Domino's Pizza to test 'R2' self-driving delivery car in Houston"
+    excerpt: "April 12 (UPI) --Domino's Pizza said Monday it's testing a self-driving delivery vehicle in southeastern Texas that could ultimately send out pies across the country. Domino's said it's partnering with automated delivery company Nuro for the vehicle ..."
+    publishedDateTime: 2021-04-12T16:46:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/12/dominos-pizza-R2-self-driving-delivery-car/7391618243334/"
     type: article
     provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 89
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
-    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
-    publishedDateTime: 2021-04-12T23:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
-    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
-    publishedDateTime: 2021-04-12T09:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
-        width: 4000
-        height: 2670
-        isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
-  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
-    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
-    publishedDateTime: 2021-04-12T12:14:00Z
-    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 49
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
-        width: 600
-        height: 423
-        isCached: true
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
+      name: UPI.com
+      domain: upi.com
     quality: 44
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7391618243334/2021/1/16182442209319/v1.5/Dominos-Pizza-to-test-R2-self-driving-delivery-car-in-Houston.jpg"
+        width: 624
+        height: 415
         isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://www.wcvb.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
     type: article
     provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 43
     images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
-    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
-    publishedDateTime: 2021-04-12T12:39:00Z
-    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
+  - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
+    excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
+    publishedDateTime: 2021-04-12T11:48:00Z
+    webUrl: "https://www.qsrmagazine.com/news/self-driving-cars-start-delivering-dominos-pizza-houston"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
+      name: QSR magazine
+      domain: qsrmagazine.com
     quality: 24
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
+        width: 765
+        height: 446
         isCached: true
 
 secured: "whQrs7gtMRJwgmp/qE+Bm3NygCslxtNVjNSQrsu/wZHanJl5NbfXG4eKoO3rJdKC/10NT0KjIkHXnTYKF2TOdCD3Em8Qg8Pu/Othpt8ZtrvTnU6f6qoqhfZKAgwmiUFf+Vkis4Paj1jCO/an3iUmW1+gOfQBu4IStb6jGGiilVXE0617mBfK2QklTleV5SszJpcZ5S9leRk8ihoxaV/IKlNFAhw11XiwlFq6MyxgVurlJWX3AcQafZc7dtCqi7vEzuEMpeN5Lan7vxEGvAzPccmZ1ri5RqKLHq0HkpkGDz07dDfViZn49qA2q4FPZ1OTCcaOOrIpfEKs+jw+S8GyeXwb9qTcKH7uEQx6l/5GUivzFcjtDvIDaCNDFelOMuOP6rspG+7aKPFsT4PqKdvKLaqKhQyMr5JqxkzPBUiqxGBJmBMO8v1G38R3z/eutrQ6uV2u3YzHmcG4PkDewBF+lhSg7O32FnIT9tNUsA49227JIaC65xUagmEkJ5sCZKLq2kLr/dMes9GiNhUldtej5g==;afs/rpxxSL1HHwRZeVquPw=="

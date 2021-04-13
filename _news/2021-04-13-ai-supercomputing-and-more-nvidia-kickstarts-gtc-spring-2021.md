@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Retailers Adopting AI and Cloud Computing More Aggressively"
-    excerpt: "Retailers adopting AI are making gains across the value chain, by personalizing offerings, optimizing inventory and fine-tuning pricing."
-    publishedDateTime: 2021-04-08T19:09:00Z
-    webUrl: "https://www.aitrends.com/retail/retailers-adopting-ai-and-cloud-computing-more-aggressively/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 37
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-9AIinRetail-2.jpeg"
-        width: 550
-        height: 237
-        isCached: true
   - title: "Nvidia Unveils ‘Grace’ Deep-Learning CPU for Supercomputing Applications"
     excerpt: "Nvidia is already capitalizing on its ARM acquisition with a massively-powerful new CPU plus GPU combination that it claims will speed up the training of very-large machine learning models by a factor of 10."
     publishedDateTime: 2021-04-12T17:00:00Z

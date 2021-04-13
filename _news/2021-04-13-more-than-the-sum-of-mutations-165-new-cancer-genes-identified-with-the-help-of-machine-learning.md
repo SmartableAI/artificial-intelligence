@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-ma
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "New algorithm can predict which genes cause cancer"
-    excerpt: "A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
-    publishedDateTime: 2021-04-13T04:55:00Z
-    webUrl: "https://www.news-medical.net/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx"
+  - title: "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy"
+    excerpt: "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ..."
+    publishedDateTime: 2021-04-13T13:19:00Z
+    webUrl: "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
+    ampWebUrl: "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 65
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://data1.ibtimes.co.in/en/full/758247/artificial-intelligence.jpg?w=570&h=380"
+        width: 570
+        height: 380
         isCached: true
   - title: "165 New Cancer Genes Identified Using Machine Learning"
     excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."

@@ -27,70 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s AI is about to get better, and not just for Full Self-Driving"
-    excerpt: "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ..."
-    publishedDateTime: 2021-04-12T10:25:00Z
-    webUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Musk Reveals Details Related To Tesla's Artificial Intelligence"
-    excerpt: "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications."
-    publishedDateTime: 2021-04-12T16:05:00Z
-    webUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/"
-    ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 89
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
-    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
-    publishedDateTime: 2021-04-12T23:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
-    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
-    publishedDateTime: 2021-04-12T09:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
-        width: 4000
-        height: 2670
-        isCached: true
   - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
     excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
     publishedDateTime: 2021-04-09T20:27:00Z
@@ -107,78 +43,77 @@ related:
         width: 1360
         height: 765
         isCached: true
-  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
-    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
-    publishedDateTime: 2021-04-12T12:14:00Z
-    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
+  - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
+    excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
+    publishedDateTime: 2021-04-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963"
+        width: 1200
+        height: 833
+        isCached: true
+  - title: "Minus Zero tests autonomous three-wheeler in Jalandhar, working on self-driving car"
+    excerpt: "Minus Zero, a self-driving vehicle startup, has successfully tested a rejigged three-wheeler as an autonomous vehicle for over 2 km on the streets of Jalandhar, proving its capabilities on Indian roads. \"We tested it on April 1 in Jalandhar between 2:00 ..."
+    publishedDateTime: 2021-04-09T09:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/articleshow/81985552.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/minus-zero-tests-autonomous-three-wheeler-in-jalandhar-working-on-self-driving-car/amp_articleshow/81985552.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-574656,msid-81985546/driverless-auto-.jpg"
         width: 600
-        height: 423
+        height: 450
         isCached: true
-  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
-    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
-    publishedDateTime: 2021-04-12T16:38:00Z
-    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
+    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
+    publishedDateTime: 2021-04-10T18:01:00Z
+    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 43
+      name: Scroll
+      domain: scroll.in
+    quality: 36
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
         width: 600
-        height: 336
+        height: 315
         isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
+  - title: "Inside the self-driving car of the future"
+    excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
+    publishedDateTime: 2021-04-09T05:06:00Z
+    webUrl: "https://www.cbsnews.com/video/inside-the-self-driving-car-of-the-future-1/"
     type: article
     provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
-    images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
-        isCached: true
-  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
-    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
-    publishedDateTime: 2021-04-12T12:39:00Z
-    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 24
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+  - title: "Video: 35,000 self-driving delivery vans coming by 2028"
+    excerpt: "Mobileye, a division of Intel, and Udelv, a self-driving shuttle startup, are working together to produce more than 35,000 autonomous delivery vehicles by 2028. Mobileye’s self-driving system, Mobileye Drive,"
+    publishedDateTime: 2021-04-13T12:50:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16580/video-35-000-self-driving-delivery-vans-coming-by-2028"
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "a7IpyR7SfvzcjzkNSkcLEgvWvHJbMrK9V7YAeK80tIPtJFC6ZXHVfQGlW+w916QTbWxvoobFzI7UyPG2R6DY98LeW01RrkUPB83wF3Y7d06We5mWjwXke5snVKgyKer5Il1J0YJWgs4kze/LPhDn75l3y25lcbV3LT4zDC9I/76YovxqI2w8EHcEXcNN0BudxDLRr5i2g++TEskR+A6QIGyxh0wq7azbvI2nwqZPL70ixRabxs4LVq1IVw8jXx8YFoH/H2PxrSJ4EGgB1U6nsbvA84vJUYAxiiVCs9U030QNS/lRZoUIfQga715D6RIINqVLcZ+t0HLJ8D0um6rimTAzZyFV09pbAQXCtwovrMBMfBjyAKEWvvifkHndZm5TK54AwBTqgW1adxj+TZX/bNabLw5qhKl7CyJ5ZttZNHARs1f8T0S+VlTU/bPOk4Y33YtvVlep3CUauAeqVbm7SgtO2oQsjDcCAXaIJ/grvtyCACLALmwJx+Ps8lzW7VbshlEoUkqJmdjqvX8qL4uPWQ==;YzNHJAEqXgo7fi9VMyyHww=="
 ---

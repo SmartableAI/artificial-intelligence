@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-ai-could-upgrade-brain-stimulation-therapies-1846652788/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Could Artificial Intelligence Improve Cognitive Behavioral Therapy?"
-    excerpt: "A recent study tested a new digital therapeutic for effectiveness on both substance abuse and depression."
-    publishedDateTime: 2021-04-08T20:11:00Z
-    webUrl: "https://www.psychiatrictimes.com/view/artificial-intelligence-cognitive-behavioral-therapy"
-    type: article
-    provider:
-      name: Psychiatric Times
-      domain: psychiatrictimes.com
-    quality: 54
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/psychtimes/611b2b90b3e538d72b83d1d6f16ed1035cc5f30a-1346x886.jpg?auto=format"
-        width: 1346
-        height: 886
-        isCached: true
 
 secured: "iJ5yyrkJzRF6so96aeCWseLBTxdc0P9KxC4Q9hOgCd6Qdj+d8SgREUK42IIj4TmpT7ar2TRLB9z9tpxQG49aHMTBIJg33/7GvHFniCFAHzyNb7nALNFeFOHXjoYHeG4ZXYM10PkGutJ8nyoc6A1wWmhb/KEmxvH2yv1Kz7wjLgD5eK3jPAx991d4CrIHqZhBFWywkZOouqCVl3AhhOuhCFxCv6Ogz5HbWAEmsigo8m7IjqqegoU8/wgu1wcGO6LEAve+EJBQjhFP+NmDbqAHeIQ+seNRVq88cHezK/b7d2fe7Nd/5IQWQVyAqOCJEh7GQ7ZBEkT/DlUQCq9h4yXfY9NYrago5IuBTrLaU7uZcoEz19aqvf2gLxXWYHOvwxYYsZixwDKM1nwLH94ZfIabHpDccx07vNT7CpFnxTI9hI1oKjoToVXJANZjyYMgUwsqwCNDiXKo03U8vpL0s0MfgD8Mbz1HiBXFNLaa4ghQg/iHZxlkyH/OYCCc3M3YnQ+9qMqu6vP0zJYBa1aZtjjHjg==;Lq3bcpYQnAmdZIrZcKSc0A=="
 ---

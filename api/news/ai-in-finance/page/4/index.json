@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-15-bahrain-fintech-bay-announces-partnership-with-sigma-ratings-to-develop-ai-rating-services.md",
+      "title": "Bahrain Fintech Bay Announces Partnership With Sigma Ratings to Develop AI Rating Services",
+      "excerpt": "Maissan Al Maskati, Chairman of Fintech Consortium, said: “AI technology in the realm of risk ratings offers investors something totally new in the form of real time and relevant ratings data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "originalUrl": "https://www.albawaba.com/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/pr_new/Maissan_Almaskati.jpg?itok=ZqcJMakI",
+          "width": 655,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "publishedDateTime": "2021-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
       "title": "Fieldfisher launches new financial services advisory firm",
       "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
@@ -1374,41 +1417,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond.md",
-      "title": "The Impact of Advanced Machine Learning in Anti-Money Laundering and Beyond",
-      "excerpt": "As part of @Nasdaq’s Singapore Fintech Festival coverage, Darren Innes, Head of AML Technology at Nasdaq, spoke about why advanced machine ... across many financial services functions, but ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21",
-      "originalUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-impact-of-advanced-machine-learning-in-anti-money-laundering-and-beyond-2021-01-21?amp",
-      "publishedDateTime": "2021-01-21T17:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

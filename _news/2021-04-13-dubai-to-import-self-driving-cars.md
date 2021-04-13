@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
+    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
+    publishedDateTime: 2021-04-12T09:45:00Z
+    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 181
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
+        width: 4000
+        height: 2670
+        isCached: true
+  - title: "Tesla’s AI is about to get better, and not just for Full Self-Driving"
+    excerpt: "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ..."
+    publishedDateTime: 2021-04-12T10:25:00Z
+    webUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
+    ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
+    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
+    publishedDateTime: 2021-04-12T23:24:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
     excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
     publishedDateTime: 2021-04-12T17:26:00Z
@@ -58,6 +106,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b888070-e717-4cc3-abcb-ef950f5fe41e.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
+    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
+    publishedDateTime: 2021-04-12T14:54:00Z
+    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
+    type: article
+    provider:
+      name: TaxiPoint
+      domain: taxi-point.co.uk
+    quality: 33
+    images:
+      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
+        width: 1000
+        height: 704
         isCached: true
 
 secured: "v5C4CeF3O3SgYbcQRpHrToA1rX4DzjFuLnOAy7DCZXG73nqDstObmCGRfKiFuYdT9neNfrxxDquV9mrrylvZjH4OdckQ0I94tyo2fnALzODfwGabYC/DXsdKdkFU4JliDmSA7LtE5kXgcf2QDZqeVszph5EPaLkORVv/97V2n/QsrqWPBPB+OOa5cSjMyqLsTzhTBOvVgmtRXn3FQTqcE8r5vRv5xO+FXTfw1wYOiXY8ZTbIriS8UW7C5c+2ahg5yoF1rpaguhTRyaG4QSxpqwmQNPRrrzyXgctnMlhoah6n2w/W2Mqcvsy7x4BzSGvqvBB5RTr1QSxCkivSiRU9waL5dTeLzK0eS/3//A2P3m6MyB+pt7225wQaaonX5PJOVnUB01zl/djGiLl9Mpk0cqImpchkzMGZIXVA7vFbvYelUILs6TviDyblchprcT3fIYkYZjqVIF18ySGXKJugtCoa47LhqZMCmw0OQfkyFX5Cvk64QSauGjpohIWphG5QcPfKMeyStpvZJkT0gSG/IA==;jn4F6BAshLBZf9UtgGhwfQ=="

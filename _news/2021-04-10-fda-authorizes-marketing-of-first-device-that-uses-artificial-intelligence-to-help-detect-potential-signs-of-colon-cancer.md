@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "FDA Approves First AI Tool to Boost Colonoscopy Accuracy"
+    excerpt: "The first device that uses artificial intelligence (AI) to help detect possible signs of colon cancer during colonoscopy has been approved by the U.S. Food and Drug Administration. The GI Genius uses AI-based machine learning to help identify lesions such as polyps or suspected tumors in real time during a colonoscopy,"
+    publishedDateTime: 2021-04-13T12:38:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/fda-approves-first-ai-tool-to-boost-colonoscopy-accuracy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "FDA clears its first plug-in AI video system for spotting polyps during colonoscopy"
     excerpt: "The FDA has cleared its first artificial intelligence-based device that uses machine learning to spot polyps or suspected tumors in real-time during a colonoscopy."
     publishedDateTime: 2021-04-12T14:45:00Z

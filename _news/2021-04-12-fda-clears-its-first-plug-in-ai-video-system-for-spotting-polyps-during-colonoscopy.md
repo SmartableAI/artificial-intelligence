@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/fda-clears-its-first-plug-ai
 webUrl: "https://www.fiercebiotech.com/medtech/fda-clears-its-first-plug-ai-video-system-for-spotting-polyps-during-colonoscopy"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "FDA Approves First AI Tool to Boost Colonoscopy Accuracy"
+    excerpt: "The first device that uses artificial intelligence (AI) to help detect possible signs of colon cancer during colonoscopy has been approved by the U.S. Food and Drug Administration. The GI Genius uses AI-based machine learning to help identify lesions such as polyps or suspected tumors in real time during a colonoscopy,"
+    publishedDateTime: 2021-04-13T12:38:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/fda-approves-first-ai-tool-to-boost-colonoscopy-accuracy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "FDA Authorizes Marketing of First Device that Uses Artificial Intelligence to Help Detect Potential Signs of Colon Cancer"
     excerpt: "Today, the U.S. Food and Drug Administration authorized marketing of the GI Genius, the first device that uses artificial intelligence (AI) based on machine learning to assist clinicians in detecting lesions (such as polyps or suspected tumors) in the colon in real time during a colonoscopy."
     publishedDateTime: 2021-04-09T22:05:00Z

@@ -73,6 +73,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Houston, we have pizza: Domino’s and Nuro run self-driving delivery robots"
+    excerpt: "Pizza chain Domino's and self-driving robot develope Nuro are working together to deliver pizzas by, well, robot to select customers in Houston."
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://thenextweb.com/news/dominos-nuro-delivering-pizzas-self-driving-robots"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FDomino_Nuro_autonomous_pizza_delivery-1.jpg&signature=330b2deb7e37df21ee4633ce8b4f7a45"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Domino's Pizza to test 'R2' self-driving delivery car in Houston"
     excerpt: "April 12 (UPI) --Domino's Pizza said Monday it's testing a self-driving delivery vehicle in southeastern Texas that could ultimately send out pies across the country. Domino's said it's partnering with automated delivery company Nuro for the vehicle ..."
     publishedDateTime: 2021-04-12T16:46:00Z
@@ -88,6 +102,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/7391618243334/2021/1/16182442209319/v1.5/Dominos-Pizza-to-test-R2-self-driving-delivery-car-in-Houston.jpg"
         width: 624
         height: 415
+        isCached: true
+  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
+    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
+    publishedDateTime: 2021-04-12T16:38:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 43
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Domino's is testing out its automated self-driving pizza delivery service"
     excerpt: "The pizza chain says some of its customers in Houston, Texas, will be able to choose to have their pizza delivered by Nuro’s R2 robot."

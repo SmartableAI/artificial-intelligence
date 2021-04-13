@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Neuralink teases brain-computer tech in new video"
-    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
-    publishedDateTime: 2021-04-09T14:03:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna633"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633"
+  - title: "Monkey plays video game - with its brain"
+    excerpt: "\"As you can see, Pager is amazingly good at MindPong.\" Neuralink devices were ... A video posted on YouTube by the entrepreneur's Neuralink start-up showed a macaque monkey named \"Pager\" playing Pong by essentially using thought to move paddles that ..."
+    publishedDateTime: 2021-04-13T07:31:00Z
+    webUrl: "https://www.youtube.com/watch?v=rsCul1sp4hQ"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 137
     images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://i.ytimg.com/vi/rsCul1sp4hQ/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Elon Musk's brain chip company Neuralink released a video of a monkey playing video games with its mind"
     excerpt: "Neuralink, a company founded by Musk that is developing AI-powered microchips to go in people's brains ... Neuralink says the monkey, called Pager, had a chip implanted in his brain six weeks ago. In the video, he is given a joystick that hooks up to ..."
@@ -62,38 +60,6 @@ related:
       - url: "https://i.insider.com/60701eef30004b0019b26ce7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
-    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
-    publishedDateTime: 2021-04-09T11:48:00Z
-    webUrl: "https://www.cnbc.com/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104780745-monkey_diet_study09_5657.jpg?v=1612183919"
-        width: 3639
-        height: 2421
-        isCached: true
-  - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
-    excerpt: "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted"
-    publishedDateTime: 2021-04-09T15:41:00Z
-    webUrl: "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://images.mktw.net/im-322928/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "76DVmrO2qw5LTTnCpg2hNiAjEbtPWTVYJf2LJDBg4/E5jcQthIB5CWEM/O8+CQS79RDcuFnGtGBG2iuIDjcdBwZzCAYNmEbYC++VVr2v+Zd2Uum9kKyatP29gUmqcGe1cOr2Emigd9lnPnSuF9FGEaGCjrKh1Gg1dAStiM+pcs66tICRA9WVqVVum8an9BjwlipbDyrN56XccCagACjG75wQi6cuWKuKMfFkx8nVYvo+sEKNi2T/NPsTGZowj132y4qTEeVN3ZQ/kEXsDEaVNqrb4Bw4Ymn0TPPxpWyrwU94oyDXky02ew7uBjVevEfOYCm2kZQbAYzwb3GncZLc368ZdE/mks+5PkDVRRaa5DLACe6d2BsbEy+/0uhCu8b5FyA6J/bW515POCierXzLptM4uJS0KSSYNjOsDhLTOqDJmVnT70FL+T9T/vnfUa/KFmHH+k+h/1i4q4zHfA+8xvZ+cnDVEYEjmtGnzYwpMCncDJvsmeNk9UD8CeWzkd4l6fyCP1HfIe7+n/E4wR/zJA==;/tIRrGlGeLF+qzFR8lwYZA=="

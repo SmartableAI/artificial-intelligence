@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-se
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
 type: article
 quality: 104
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Musk Reveals Details Related To Tesla's Artificial Intelligence"
-    excerpt: "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications."
-    publishedDateTime: 2021-04-12T16:05:00Z
-    webUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/"
-    ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
+  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
+    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
+    publishedDateTime: 2021-04-12T09:45:00Z
+    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
     type: article
     provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 89
+      name: CNBC
+      domain: cnbc.com
+    quality: 181
     images:
-      - url: "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
+        width: 4000
+        height: 2670
         isCached: true
   - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
     excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
@@ -63,125 +63,67 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
-    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
-    publishedDateTime: 2021-04-12T09:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
+  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
+    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-12T17:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
-        width: 4000
-        height: 2670
-        isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 74
     images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "\"We're not trying to create new sensors or robotics, but rather use AI systems to better utilise the technologies\""
-    excerpt: "Introducing Artificial Intelligence (AI) technology into fruit and vegetable growing operations, and making sense of all the data that exists, takes an 'all of industry' approach rather than a purely scientific one, according to a leading New Zealand-based ..."
-    publishedDateTime: 2021-04-12T12:14:00Z
-    webUrl: "https://www.freshplaza.com/article/9310787/we-re-not-trying-to-create-new-sensors-or-robotics-but-rather-use-ai-systems-to-better-utilise-the-technologies/"
+  - title: "Dubai strikes deal with Cruise to roll out self-driving taxis"
+    excerpt: "Dubai has become the first city to sign a contract with an autonomous taxi manufacturer, ordering up to 4,000 vehicles from the US driverless car group Cruise with a view to deploying them from 2023. The deal with Cruise, announced in a tweet from Crown ..."
+    publishedDateTime: 2021-04-12T10:51:00Z
+    webUrl: "https://www.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
+    ampWebUrl: "https://amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 49
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
     images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/04/12/MobileTECH_PlantTech4.jpg"
-        width: 600
-        height: 423
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b888070-e717-4cc3-abcb-ef950f5fe41e.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
+  - title: "Dubai to import self-driving cars"
+    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
+    publishedDateTime: 2021-04-12T18:34:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
+    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 59
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Self-driving cars are bringing Domino's right to your doorstep in Houston"
-    excerpt: "Robots are starting to invade Houston, but it's for a good cause. Domino's Pizza and Nuro, a leading self-driving delivery company, are launching driver-less deliveries right here in Houston, per the Houston Chronicle's Amanda Drane. What exactly does that ..."
-    publishedDateTime: 2021-04-12T16:38:00Z
-    webUrl: "https://www.chron.com/business/article/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-cars-Domino-s-pizza-Nuro-Houston-16094436.php"
+  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
+    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
+    publishedDateTime: 2021-04-12T14:54:00Z
+    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 43
+      name: TaxiPoint
+      domain: taxi-point.co.uk
+    quality: 33
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
-    images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
-        isCached: true
-  - title: "Isuzu Series N Trucks Get a Boost With Gatik Self-Driving Technology"
-    excerpt: "Truck-manufacturing veteran Isuzu and self-driving up-and-coming Gatik are ready to introduce the first fully autonomous trucks in the medium category. This collaboration could bring significant changes to B2B logistics in particular and transportation in ..."
-    publishedDateTime: 2021-04-12T12:39:00Z
-    webUrl: "https://www.autoevolution.com/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 24
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/isuzu-series-n-trucks-get-a-boost-with-gatik-self-driving-technology-159176-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
+      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
+        width: 1000
+        height: 704
         isCached: true
 
 secured: "8vPUdIikAGbnN1BpLbrUIU2Q58SE3X+4tbdGEyDAcLvtM67vAgFU38/fiQ9VNwApIQcUiBQXmqCOpuONB3n89d4zfLTmHz/n8hdkWVdFbgrd5EaLRI02cvTDA9wd66/KCYIpjbUzrzdwvBFbW97bmJ6503MLBSqHhmH7UGFea9Kn1Y/NDzHNh3GSVv4Ngih5j4WzGFtFtRZusQGv2zfGjDD3zMXOODm/9grWqIJmQnZ0DKTi9QGPxDtH8wgIOp40KSLmfSfHrO4nNpm39n2mJ/JJ7b3n1BSxNmVno7FdbStA+VEX4Qy6nXyyfWdNsd97i51WktFuAXOcNuGPAu1kXRCbmbUic+wPHzC1ASsIGACs1DEAUF2IWirTfuQrPEi+0yLwIxuARn1liPgpDNzWlW0BBT7t82lxvFcK8pPJXrsLWQMv5OnMe617f1XwONTRtPQkclfB1baJTnBTydkYdnI1dpuFN0KVIXIPJ/aL4WQPPwgolTqlCEoY5rIt6Uvw9HNMv95AsLZ3fk5Pvlm/mw==;R0EDSPrKlRvjSIrL23ZpkA=="

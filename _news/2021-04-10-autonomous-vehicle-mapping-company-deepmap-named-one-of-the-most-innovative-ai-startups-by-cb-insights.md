@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fiddler AI Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "April 7, 2021 /PRNewswire/ -- CB Insights today named Fiddler AI to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence ... Recognized by Gartner in 'U.S. Healthcare Payer CIOs: Achieve Provider ..."
-    publishedDateTime: 2021-04-08T19:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19740178.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "BmlX9QuPVjFq8zM4FUB9Xpk0yWFBVOQtlzmS7jKBB6pTKjbCFMGuwx4BHa3yj3g/8KmoV6CGzfxKXA52RSLx8Km6hlYND1MkWeVZLgB0G38/bj9q5xpfYo7wKs8u7NhxE6oc9VK58rkkfhcm+MjdMRmVR4nqIMjstpzN20HLgdBCaY+Ei45dt9XyPdBrjZZ+kwkUw1hgDysaYvs0MCPlq4cM3mChOfsGj+LZAiAn7i+4HrXQF6m9eZcTHnDc6gPrXj1a6w3iDyRRsrLJvUsN7BxvQovcmUgyb3OwsWS+Od4PAjvTQisiPznXDJPD7+We/oC932OmwugCWEMeC1HZpR93LeUOeqw0nDvqPIXPN4qNTMx8OFXpU6regMjaHKopufzpb9gQwuM1OfYyyqkupjfqzP3cToDmmWfpXlrB4VfOA1QxXvgnd2EwhvLgfaKNd76odJm+VgmpaYYiXgD6uHFwolxCMgz8sNbSv/OyNS2ux+/azBKgzA0c/a/W7+AzVUkDOK1YFHqSTvtKrHdWaA==;fpWJ2wxfZgcpUc5stasdqw=="
 ---

@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
+      "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
+      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-20T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more.md",
       "title": "Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more",
       "excerpt": "For this morning’s column, Alex Wilhelm interviewed Dave Girouard, CEO of Upstart, an AI-powered fintech lender that expects to see growth increase 114% this year. A forecast like that suggests ...",
@@ -1287,58 +1322,6 @@
         "name": "TechNode",
         "domain": "technode.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12.md",
-      "title": "Ma il Fintech in Italia è vero boom? Rappresenta lo 0,25% dei volumi del credito complessivo alle imprese, ma sulle Pmi sale all’1,2%",
-      "excerpt": "Ma è vero boom del Fintech in Italia o dobbiamo recuperare un gap rispetto a realtà più avanzate e rimboccarci le maniche per migliorare la performance e aumentare la quota di mercato? La più grande b",
-      "sourceUrl": null,
-      "webUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "originalUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repstatic.it/cless-mobile/main/amp/2016-v1/img/adv/businessinsider/ad_placeholder_300x250.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "cdnAmpWebUrl": "https://it-businessinsider-com.cdn.ampproject.org/c/s/it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "publishedDateTime": "2021-03-04T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Italia",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

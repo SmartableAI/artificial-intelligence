@@ -39,20 +39,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Retailers Adopting AI and Cloud Computing More Aggressively"
-    excerpt: "Retailers adopting AI are making gains across the value chain, by personalizing offerings, optimizing inventory and fine-tuning pricing."
-    publishedDateTime: 2021-04-08T19:09:00Z
-    webUrl: "https://www.aitrends.com/retail/retailers-adopting-ai-and-cloud-computing-more-aggressively/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 37
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-9AIinRetail-2.jpeg"
-        width: 550
-        height: 237
-        isCached: true
 
 secured: "kI3HFDBTiJiTPuGRLSYugSYmDEpYf+Y+8Yf1JMVNmOuXdfaPEgdMfDXDLWaATfWxRhP8MGzQZ1BYC3aqpJGYN5hjrdYnjHUzaie8DpDTnEg1ICcuFKuhob7YpZ7hc16HNmY17V2XZOVeyFs1OHisEeAqEBpBk0v1pAFhC772SEj+IbiCtrepNsgh80maYvMsVmJUJwWz1hEdz4HerXh5jWVPIlIe9LvElxxiZrq2QeeZiTKfNCpvLmQNIon+f1HDXron5LQww/92BroxIvY2ZYGJQexdKXdPTw9j3UBXJdsEHCWWbSFvD2cZcgIYQs084+FGm5WYMxxV8C/QDJ+rGZmax7uLdUoKdM+LZ716AcEIJTMTZtWf1KIQoKgmlEH0j14+uIJZlZGtpf2twgabKaNFWoYwDvdfcPGolSJ/qwtEIGQcsF3/W8ZriFGeamW3fF1V1SuiRGK7/LKs6Qw+IdI039Cm58qkiDVeWfvUywpTSxLYQRo7TTMdem4nLMXHhyweeUx5ib9z01MU02kk7A==;GrcAxRXhTrNQP0lSbp985Q=="
 ---
