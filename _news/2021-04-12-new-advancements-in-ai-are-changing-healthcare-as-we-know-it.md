@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changin
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SEAS Panel Discusses the Future of AI in Healthcare"
-    excerpt: "Health and technology experts discussed the advantages and pitfalls of deploying artificial intelligence to improve health care equity at a School of Engineering and Applied Sciences panel Wednesday. The event, hosted by the Center for Research on ..."
-    publishedDateTime: 2021-04-08T06:10:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/4/8/seas-panel-discusses-ai-in-healthcare/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 54
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/09/29/153003_1345878.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Not using AI in healthcare will soon be malpractice"
     excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
     publishedDateTime: 2021-04-12T09:18:00Z

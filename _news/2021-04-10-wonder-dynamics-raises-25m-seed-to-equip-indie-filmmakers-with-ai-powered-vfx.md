@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/wonder-dynamics-raises-2-5m-seed-to-equip-indie-filmmakers-with-ai-powered-vfx/amp/"
 type: article
 quality: 83
-heat: 104
+heat: 103
 published: true
 
 provider:

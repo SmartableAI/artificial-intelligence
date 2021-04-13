@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-i
 ampWebUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
 type: article
-quality: 104
-heat: 124
+quality: 106
+heat: 126
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg"

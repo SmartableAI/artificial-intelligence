@@ -8,7 +8,7 @@ webUrl: "https://www.cnet.com/news/microsoft-confirms-acquisition-of-ai-company-
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-confirms-acquisition-of-ai-company-nuance-communications/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-confirms-acquisition-of-ai-company-nuance-communications/"
 type: article
-quality: 104
+quality: 106
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg"
@@ -271,6 +272,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
+    excerpt: "Some tech forecasters have been predicting for years that voice commands will become the dominant way in which people interact with all kinds of devices and voice AI has scored notable successes in the consumer world. The explosion in use of personal ..."
+    publishedDateTime: 2021-04-12T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/martingiles/2021/04/12/microsofts-nuance-deal-comes-as-cios-rely-on-voice-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/martingiles/2021/04/12/microsofts-nuance-deal-comes-as-cios-rely-on-voice-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/04/12/microsofts-nuance-deal-comes-as-cios-rely-on-voice-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074c2680546f4455169278d%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft shopping for speech tech, in talks to buy Nuance for $16B"
     excerpt: "Burlington, Massachusetts-based Nuance whose voice recognition technology helped launch Apple Inc’s assistant Siri, makes software for sectors ranging from healthcare to the automotive industries."
     publishedDateTime: 2021-04-12T09:32:00Z
@@ -345,6 +362,17 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Microsoft to buy AI firm Nuance Communications in $19.7 billion deal"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW -0.00% ..."
+    publishedDateTime: 2021-04-12T12:40:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Microsoft’s $20 Billion AI Deal Will Shake Up How We Work"
     excerpt: "The technology giant’s purchase of voice-recognition and AI specialist Nuance Communications puts it at the forefront of the next big wave of workplace innovation."
     publishedDateTime: 2021-04-12T14:56:00Z
@@ -900,6 +928,20 @@ related:
         width: 768
         height: 430
         isCached: true
+  - title: "Microsoft Boosts Conversational AI with $19.7 Billion Nuance Deal"
+    excerpt: "said Nuance’s technology will enable Microsoft to augment the conversational AI capabilities of its Azure cloud, Dynamics 365 and Teams. “We believe we’ll be able to deliver AI-driven digital engagement solutions for any industry scenario,” Guthrie ..."
+    publishedDateTime: 2021-04-12T22:41:00Z
+    webUrl: "https://www.channelfutures.com/mergers-and-acquisitions/microsoft-boosts-conversational-ai-with-19-7-billion-nuance-deal"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 54
+    images:
+      - url: "https://www.channelfutures.com/files/2021/04/Microsoft-Voice-Tech-in-Action.jpg"
+        width: 1054
+        height: 593
+        isCached: true
   - title: "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition"
     excerpt: "“AI is technology’s most important priority ... The collaboration combines Microsoft Genomics’ Azure Cloud with the Tel Aviv, Israel-based company’s comprehensive cloud-based advanced framework for Next-Generation DNA Sequencing (NGS)."
     publishedDateTime: 2021-04-12T19:56:00Z
@@ -913,6 +955,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Apr122021at34915PM.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "Microsoft Jumps ‘Light Years’ In Health Care AI With Nuance Acquisition: Partners"
+    excerpt: "Microsoft’s Nuance acquisition will produce major new opportunities for the channel in health care AI and voice recognition, solution providers told CRN."
+    publishedDateTime: 2021-04-12T22:35:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-jumps-light-years-in-health-care-ai-with-nuance-acquisition-partners"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 51
+    images:
+      - url: "https://www.crn.com/resources/0268-12069f896813-36025a955139-1000/microsoft-nuance.jpg"
+        width: 609
+        height: 457
         isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Present Scenario – Google, Brighterion, Microsoft, Baidu"
     excerpt: "MarketQuest.biz has come with the title Global Artificial Intelligence Software System Market 2020 by Company, Type and Application, Forecast to 2025 that tries to outline the market with crucial data in the form of tables, charts, graphs, and figures."
@@ -1023,6 +1079,37 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "Microsoft to buy Nuance for $16 billion to focus on health care tech"
+    excerpt: "Microsoft said that it would buy Nuance Communications, a provider of artificial-intelligence and speech-recognition software, for about $16 billion, as it pushes to expand its health care technology services."
+    publishedDateTime: 2021-04-12T23:05:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
+  - title: "In $19.7 billion deal for Nuance, Microsoft sees big opportunity in health care and artificial intelligence"
+    excerpt: "It’s a bold statement that Microsoft intends to be the dominant provider of speech-based artificial intelligence systems to the world’s biggest enterprises, particularly in health care. The Redmond, Wash., software giant will pay $56 a share for Nuance ..."
+    publishedDateTime: 2021-04-12T12:46:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/12/business/microsoft-buy-burlington-technology-firm-nuance-communications-197-billion/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/microsoft-buy-burlington-technology-firm-nuance-communications-197-billion/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/microsoft-buy-burlington-technology-firm-nuance-communications-197-billion/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 36
+  - title: "Microsoft to acquire Nuance, an AI and cloud voice company, for nearly $20B"
+    excerpt: "Microsoft Corp. has agreed to acquire Nuance Communications, Inc., an AI and cloud voice recognition company that ... fits-all approach to persuading those businesses to choose its Azure cloud service over AWS, Microsoft’s main cloud competitor."
+    publishedDateTime: 2021-04-12T21:59:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/12/microsoft-to-acquire-nuance.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
 
 secured: "Q87Jxl4B6T3ODLXruXQ0sYZr7TwllUH769XRnbUn3BlpwhbGtbRZdUuPMpuJv0V0uqOfrvneNRfiHE4MeFdWPo5FhS7g4uwq+p3lW+QJjbvNlBozbrZAMtT/cdoZJ9q7WztLa6V7D8ZBsH0cbzc2/GukwJGLPLFTr0t0CxpRABqGo+4DEH+uKf+MO/M8MnNRReabaOoPwsYXksaG1JVuO+DoCwgBnRvpTWEE0wJjf0TseY+Cw7SNAMiZGh0+QYnbHYjJjBfLoepy9eHEhMD29R7GYyB5k9J4X28fShY2mJSwo/lmnoqRO+wGnIkWOKNiXfGd/TVc3sNH35762S18XeqgxMTPlBMCpwCZFUJewsZWPQOx0MYtCmXylRUCSg+aTLBvArsRpeCazD92S2HWYul9jAM6WFVFHrnGx1G6SifZI2mYxp7Z8fWthn6IwlR8sZVd2j5tJ//2eJx0OhkPPqLQqDgQiF+m1Yj0JNeHTG2vmUl4KPtKSc4WcnpuJN9vKxYpiACKgmscg3XhS/Scig==;vSayUBwmXz9rxGqq0tbtIw=="
 ---

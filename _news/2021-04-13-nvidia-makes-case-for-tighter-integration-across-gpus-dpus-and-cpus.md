@@ -7,7 +7,7 @@ originalUrl: "https://www.itbusinessedge.com/data-center/nvidia-makes-case-for-t
 webUrl: "https://www.itbusinessedge.com/data-center/nvidia-makes-case-for-tighter-integration-across-gpus-dpus-and-cpus/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs"
-    excerpt: "Inspur AI servers are among the first in the industry to fully support NVIDIA Ampere architecture-based GPUs and has obtained NVIDIA-Certified System status for these servers, which support the NVIDIA EGX platform for next-generation AI. “Inspur is ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
+  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs and DGX Superpod for HPC and AI"
+    excerpt: "Base Command is designed to coordinate AI training and operations on DGX SuperPOD infrastructures ... Subscriptions for DGX Station A100 start at a list price of $9,000 per month."
+    publishedDateTime: 2021-04-12T17:14:00Z
+    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-and-dgx-superpod-for-hpc-and-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 31
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "Mmsa46/24VT20XKJw9QCxMP4Cg1hgaFscPJHMLZzJbER9MxczmQjbQSmjfSXadtyz4JgdPyd++6UEWgwnnAg3Xx7gplHXHX1aX/1z+9q6mqBSyohM2wSnNSA0HqGgHej8+Sh0naDVQXQQVq5Z4zAHAaUlE/uQYWAZs585N+sqdGy9aX2+vzpBrEJTfoaZMfkCM4KxoGVL5W9fqaSLyYdiFYSEh86aRe6pv/9U6Tpk6/NTSQ1IuzfVLBN7OHlUKZc8Qsh2d6zQ85yl/3utpdotdmwaBqeNlnoVcEpq2krRZWW34OcBc6xoj5Uf91Z0bpBsbOptZK9ofPMWwzJYm2AWiTumcynmXKRjzB13Klb/5Cu4aRiNt5eMd5W6ssrO1avEVw9dJgxZk9zC8tUXtwDc5FBNVvLfcfnkrRtQnSMNttZC4N9Mpd2AdS+mDxxk39cfs/Irwttb5J/wzxcPow4SmvXsa2IChhbe/OoFmKVakhcXMViAIHeVNgZw+737SbrDaRKB3ZIKV2mJerdIXR11Q==;0B00AHL+bQ1vSNvvO7Hwmw=="

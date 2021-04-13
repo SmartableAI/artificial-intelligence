@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/08/securiti-releases-ai-powered-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 87
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
-    excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
-    publishedDateTime: 2021-04-12T16:32:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true

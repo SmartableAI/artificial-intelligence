@@ -37,21 +37,21 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Local police in Virginia will be banned from using facial recognition technology"
-    excerpt: "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-    ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+  - title: "Editorial: Ending use of facial recognition by police"
+    excerpt: "Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software, an intrusive violation of citizens’ personal privacy. While it might ..."
+    publishedDateTime: 2021-04-12T22:15:00Z
+    webUrl: "https://www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html"
+    ampWebUrl: "https://www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/opinion/editorials/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 54
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 59
     images:
-      - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+      - url: "https://www.pilotonline.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "NVIDIA Makes Case for Tighter Integration Across GPUs, DPUs, and CPUs"
-    excerpt: "NVIDIA today at its online GPU Technology Conference (GTC) for 2021 launched a series of initiatives that promise to make it much less expensive to run artificial intelligence (AI ... include Amazon Web Services (AWS), MediaTek, and Fujitsu."
-    publishedDateTime: 2021-04-12T18:28:00Z
-    webUrl: "https://www.itbusinessedge.com/data-center/nvidia-makes-case-for-tighter-integration-across-gpus-dpus-and-cpus/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 24
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/NVIDIABlueField-3DPU.jpeg"
-        width: 1500
-        height: 795
-        isCached: true
 
 secured: "/DjWx12YH//J26LhXKSdFOzrBSV9PvGYmznZLZnjEG0YcXUQF4LB1maGUswPQVS8geNpZ3tTxOd43+j9bZU0a1yMlRlpMU9WMa/kMS7JTGaLZD2rMGSKKTaU9T89l3NGeJ2sPLZg9vzWZhLpOWFlSnd/X4L1yqaWLAOpiDQA4NlCzWOpwdIVVOjkTR1D0zhAc6rkIfTfz1dQ7HSmEUfM6gHXnI1psBFabGg1BCf+gS6VyBUPrYIW5CTth6VFTaA5Ma9ImZblFpQkge/A/7aDhtcRJbXf2/BbDfddq6xDcS6d5aSgu6aaQxU1xnbN+RFSW9pLTshprCLcpvTvR5ZcPNFYpeGMkUZZXk7o+krD3yY=;mloJ4EWccV0z/YbNo9/SuQ=="
 ---

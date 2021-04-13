@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-08T09:36:00Z
 originalUrl: "https://www.theengineer.co.uk/systemic-sclerosis-ssc-diagnosed-laptop-ai/"
 webUrl: "https://www.theengineer.co.uk/systemic-sclerosis-ssc-diagnosed-laptop-ai/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://theengineer.markallengroup.com/production/2021/04/deep-neural-network-newsroom.jpg"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/"
 type: article
 quality: 91
-heat: 201
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,35 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia lays out its three-chip data center roadmap"
-    excerpt: "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ..."
-    publishedDateTime: 2021-04-12T19:59:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
+  - title: "NVIDIA Announces Technology For Training Giant Artificial Intelligence Models"
+    excerpt: "Goodson discusses NVIDIA GTC, the premier annual conference for developers, scientists, and businesses interested in machine learning or artificial intelligence. He dives into one of Huang’s most exciting announcements of a newly designed AI platform."
+    publishedDateTime: 2021-04-12T23:21:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 99
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg"
-        width: 2000
-        height: 1250
-        isCached: true
-  - title: "Nvidia Unveils a CPU Chip for Data Centers, Supercomputers"
-    excerpt: "the chip will deliver 10 times the performance over the leading x86 server chips when it comes to AI and large-scale data science workloads. The product may pose a competitive threat to Intel ..."
-    publishedDateTime: 2021-04-12T18:49:00Z
-    webUrl: "https://au.pcmag.com/graphics-cards/86582/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-unv/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers_9gut.1200.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074d4cce94425269918518d%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
+    excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
+    publishedDateTime: 2021-04-12T16:32:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "NVIDIA unleashes Jarvis conversational AI framework"
+    excerpt: "real-time translations for multiple languages and new text-to-speech capabilities to create expressive conversational AI agents. The new offering was trained over several million GPU hours on over ..."
+    publishedDateTime: 2021-04-12T22:32:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-unleashes-jarvis-conversational-ai-framework/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
   - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
     excerpt: "NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta, SVP of the company’s telecom business unit, the AI-on-5G concept is ..."
@@ -78,6 +94,22 @@ related:
         width: 2048
         height: 2048
         isCached: true
+  - title: "Nvidia announces plan to make CPU chips"
+    excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
+    publishedDateTime: 2021-04-12T17:00:00Z
+    webUrl: "https://www.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    ampWebUrl: "https://amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0ea4527-2022-4c71-ac76-af809166d41d.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "NVIDIA Grace Next-Gen Arm CPU Delivers 10x Performance Lift For Giant-Scale AI, HPC Workloads"
     excerpt: "Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance AI. NVIDIA is now a three-chip company.\""
     publishedDateTime: 2021-04-12T16:23:00Z
@@ -93,20 +125,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54794/content/small_nvidia_grace.jpg"
         width: 708
         height: 419
-        isCached: true
-  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs, GPUs and DGX Superpod for HPC and AI"
-    excerpt: "On the GPU front, the company announced the Nvidia A30 Tensor Core GPU, described as a “versatile mainstream compute GPU for AI inference and mainstream enterprise workloads.” Powered by Nvidia Ampere architecture Tensor Core technology, it supports ..."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-gpus-and-dgx-superpod-for-hpc-and-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
         isCached: true
   - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
     excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"
@@ -150,6 +168,20 @@ related:
         width: 740
         height: 444
         isCached: true
+  - title: "ViON Discusses AI infrastructure as-a-Service at NVIDIA GTC 21"
+    excerpt: "ViON Corporation, a cloud service provider and market leader in the design, delivery and maintenance of mission-critical IT infrastructure solutions, reinforced today a strategic position with NVIDIA for bringing AI infrastructure as-a-Service (AIaaS ..."
+    publishedDateTime: 2021-04-12T18:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-cloud-computing-software-industry-c5cb0545517c47bbae71c558e92ee698"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "NVIDIA Unveils NVIDIA DRIVE Atlan, an AI Data Center on Wheels for Next-Gen Autonomous Vehicles"
     excerpt: "April 12, 2021 (GLOBE NEWSWIRE) -- GTC -- NVIDIA today revealed its next-generation AI-enabled processor for autonomous vehicles, NVIDIA DRIVE™ Atlan, which will deliver more than 1,000 ..."
     publishedDateTime: 2021-04-12T17:07:00Z
@@ -173,19 +205,19 @@ related:
         width: 678
         height: 424
         isCached: true
-  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs and DGX Superpod for HPC and AI"
-    excerpt: "Base Command is designed to coordinate AI training and operations on DGX SuperPOD infrastructures ... Subscriptions for DGX Station A100 start at a list price of $9,000 per month."
-    publishedDateTime: 2021-04-12T17:14:00Z
-    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-and-dgx-superpod-for-hpc-and-ai/"
+  - title: "Touchcast Unveils World’s First AI-Powered Event Platform Boosted by NVIDIA Maxine Technology"
+    excerpt: "NEW YORK, April 12, 2021 /PRNewswire/ -- Touchcast today unveiled the world’s first AI-powered events platform. Incorporating NVIDIA Maxine, a GPU-accelerated SDK with state-of-the-art AI features, Touchcast is leading the transition to the next era of ..."
+    publishedDateTime: 2021-04-12T17:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-transportation-and-shipping-2c9a338a8c970c72c6e7157099ba2d92"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 31
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "uZ6ACRNs7lnOyfV/rRVQsDEB7ZDdexgQ2n5yUM8kjC5/sh4aSm6SrypGiEmfM3UamiVeRSezHwiWZMoer7Ip/ey3j5KNqS/85LYFkxpdKTeqkPlrH/zXEIR18cQZOfrt1eYANPSGHsGhy/Bm4ANM72FpeZVHz9djGqhzaVGBWGWL1jEoGig2dJVGIqDl7CuuSxLLMCKFYH/uAwoIEYRibjpQAOlgyE5QqPUHCFg8VOiBIUS5a6v/9OTcMF7WaGsF1vyqJL+AxzhdnkdkBUoZKVG2y4YPNT2OrisqXOYNuf59hkSQyNiUQ/VT1FoViMEHKK7v8kVVGCU4/9kWR0LoHE1YpswTMrn4VLfasc4md54DtjBhgiEb5QtVrEU0qaNYmWqhjZ8xY/tHaOayXt4ogykqM7pk1kIMw2/yVOpKFajMk2px/ncWFvBCH+gwxOyBLtdgqbJdAq9i5l3wO281aChvylvGQJXA95QuHVDW5guB2C3gPJMwz5exQsLcclsdqFibr1kpiTidWwx0qbrorg==;v/ZhJxcv52I0zyHzH5SGdg=="

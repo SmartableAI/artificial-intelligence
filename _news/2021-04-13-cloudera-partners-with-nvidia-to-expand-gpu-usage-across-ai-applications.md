@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-exp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/"
 type: article
 quality: 103
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
+    excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
+    publishedDateTime: 2021-04-12T21:48:00Z
+    webUrl: "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems"
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bulk Data Centers Accelerating AI and HPC with NVIDIA DGX-Ready Data Centers"
     excerpt: "Bulk’s collaboration with NVIDIA brings the world’s most powerful AI system to 100% clean energy, state-of-the-art data center facilities in the Nordics. Bulk is fast becoming the leading provider of HPC and AI colocation services in the Nordics and ..."
     publishedDateTime: 2021-04-12T17:05:00Z
@@ -128,6 +142,6 @@ related:
       domain: insidehpc.com
     quality: 16
 
-secured: "JYJhtSbViTWUVSYEEtnY78/mQmcDWYobXXTmnwH9+3p9kBRBi0GDYPtnsV3D34vOM+WiYebAR2465+MYB+TDFczUp9HvUKFPOvSrVZ7CytZZiuGYBPzD3ssCg7LuNfRXgRJSkdVotht/hQhTpnwfKvacguw2YD6K+1bAXEyuSLTS7oulV3Ug+uGrMJDjej4stXKsV4p6SKiFiH8O8Xjz7V0HYcGrBagjvjamrvbbwVV9iu5HufPyZSetL+UsCa9ujADpoOS+N2pRgfo00rKzIR9OKmcUatt4oQQ8mKm2k4T9TIcqq2n37zR8ZpumkAeZo6DV4+rCBGqh7AQ5MoHcJVjju8Tq49+RKagp6T5erfw=;eeUJqHpUmfLWt+unzJXVmQ=="
+secured: "zw6DhpBn3UhJQTbhjX5JXRPBBkRwKvgK0EC/i8WFGyjDhfUKjjJ9i/5RaVVVgI+ksyahXg5uCTpjOdBGT1v6oFV2BQiVB2pRG7Dlj/9/bPkj+wBzHcCoXZV8CTBKG151DMC+lspLiPZv5Hm6CwcBhVISV2BqlHL9t217Gip6e96y9kZfjgzXYJzzxKQtrE1dRFI3mKppkFzKitmRge5YtVEr4mBsdAizasHmuRT1vKDR1Nla1g/unAzMOBeWj6HFqh3OowPVoZCVVQk4bL8DSWBOll6cHEBl/25EVX9GxboDPR+ujbfHNQUXnLpyJK3842Y81Nsp3NKwVY4/S0z01OiGYcfTtzm8WA4uLJuZQQKY8JlmmFwuyR2kH4yBcWpYC2w7tJ16xp45a/f68xDqfb3n9oN2qtZGCyhPDWIYotUBM4BPIX7QLGJEovI3GQFsRKtdWelUo0iFt0BHfk0+ob8pLDansFpfM3a7IPSF+tHC1+mxpUGVpFREApGbRLol28O1n0sZyBVNqw1tlViuaw==;4z/9n/SKlsQJuNx1mypMEA=="
 ---
 

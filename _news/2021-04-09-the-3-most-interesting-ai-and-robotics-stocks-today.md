@@ -37,7 +37,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg"
         width: 1200

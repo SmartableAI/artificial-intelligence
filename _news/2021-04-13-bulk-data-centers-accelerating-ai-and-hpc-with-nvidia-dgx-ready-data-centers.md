@@ -81,6 +81,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
+    excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
+    publishedDateTime: 2021-04-12T21:48:00Z
+    webUrl: "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems"
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cloudera Collaborates with NVIDIA to Accelerate Data Analytics and AI in the Cloud"
     excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP, allowing organizations to support HPC, AI, and data science needs – from research to production – with a secure, scalable, and open platform for machine learning. “At a time when speed is ..."
     publishedDateTime: 2021-04-12T17:15:00Z

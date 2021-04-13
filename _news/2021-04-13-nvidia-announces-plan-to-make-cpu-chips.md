@@ -27,98 +27,191 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles"
-    excerpt: "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models."
-    publishedDateTime: 2021-04-12T16:56:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/nvidia-cars.jpg?w=1200&strip=all"
-        width: 1200
-        height: 795
-        isCached: true
-  - title: "NVIDIA Unveils Powerful Grace AI Supercomputing CPU And Atlan Secure Autonomous Vehicle Platform"
-    excerpt: "NVIDIA’s new Grace CPU is targeted at massive AI training and HPC workloads, and its name is in honor of Grace Hopper, a computer scientist, programmer and US Navy Admiral who is credited for developing a programming language concept based on natural English language."
-    publishedDateTime: 2021-04-12T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/04/12/nvidia-unveils-powerful-grace-ai-supercomputing-cpu-and-atlan-secure-autonomous-vehicle-platform/amp/"
+  - title: "NVIDIA Announces Technology For Training Giant Artificial Intelligence Models"
+    excerpt: "Goodson discusses NVIDIA GTC, the premier annual conference for developers, scientists, and businesses interested in machine learning or artificial intelligence. He dives into one of Huang’s most exciting announcements of a newly designed AI platform."
+    publishedDateTime: 2021-04-12T23:21:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 99
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607472952d8c54c1a5fe3ed6%2F0x0.jpg"
-        width: 1000
-        height: 554
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074d4cce94425269918518d%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
-    excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
-    publishedDateTime: 2021-04-12T20:57:00Z
-    webUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
+  - title: "NVIDIA Completely Re-Imagines The Data Center For AI"
+    excerpt: "NVIDIA has used its wildly popular GPU Technology Conference (GTC) to announce new products for AI applications. However, this year the big reveal a new NVIDIA Arm CPU tightly coupled with a GPU to enable massive Artificial Intelligence."
+    publishedDateTime: 2021-04-12T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607475a5a82d88e6bcfe3ed8%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
+  - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
+    excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
+    publishedDateTime: 2021-04-12T16:32:00Z
+    webUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/"
+    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-announces-morpheus-an-ai-powered-app-framework-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "NVIDIA unleashes Jarvis conversational AI framework"
+    excerpt: "real-time translations for multiple languages and new text-to-speech capabilities to create expressive conversational AI agents. The new offering was trained over several million GPU hours on over ..."
+    publishedDateTime: 2021-04-12T22:32:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-unleashes-jarvis-conversational-ai-framework/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
+  - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
+    excerpt: "NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta, SVP of the company’s telecom business unit, the AI-on-5G concept is ..."
+    publishedDateTime: 2021-04-12T16:53:00Z
+    webUrl: "https://www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
+    ampWebUrl: "https://www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
     quality: 59
     images:
-      - url: "https://static.tweaktown.com/news/7/8/78705_02_nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu.png"
-        width: 620
-        height: 347
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2019/05/119131792_m.jpg"
+        width: 2048
+        height: 2048
         isCached: true
-  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
-    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
-    publishedDateTime: 2021-04-12T19:41:00Z
-    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
-    excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
-    publishedDateTime: 2021-04-12T17:05:00Z
-    webUrl: "https://hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
+  - title: "NVIDIA Grace Next-Gen Arm CPU Delivers 10x Performance Lift For Giant-Scale AI, HPC Workloads"
+    excerpt: "Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance AI. NVIDIA is now a three-chip company.\""
+    publishedDateTime: 2021-04-12T16:23:00Z
+    webUrl: "https://hothardware.com/news/nvidia-grace-arm-cpu-giant-scale-ai-hpc-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-grace-arm-cpu-giant-scale-ai-hpc-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-grace-arm-cpu-giant-scale-ai-hpc-workloads"
     type: article
     provider:
       name: HotHardware
       domain: hothardware.com
     quality: 48
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54797/content/nvidia_mercedes.jpg"
+      - url: "https://images.hothardware.com/contentimages/newsitem/54794/content/small_nvidia_grace.jpg"
         width: 708
-        height: 418
+        height: 419
         isCached: true
-  - title: "Nvidia shows off DRIVE Atlan, its next-generation system-on-chip for autonomous cars"
-    excerpt: "Nvidia claims the chips will run an unprecedented 1,000 trillion ... “Atlan is a technical marvel for safe and secure AI computing, fusing all of Nvidia’s technologies in AI, automotive ..."
-    publishedDateTime: 2021-04-12T16:57:00Z
-    webUrl: "https://siliconangle.com/2021/04/12/nvidia-shows-off-drive-atlan-next-generation-system-chip-autonomous-cars/"
+  - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
+    excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"
+    publishedDateTime: 2021-04-12T16:22:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/nvidia-debuts-grace-first-data-center-cpu-advanced-ai-workloads/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 40
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/800-3-2.jpg"
-        width: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Nvidia-Grace-CPU.jpg"
+        width: 992
+        height: 620
+        isCached: true
+  - title: "Nvidia Is Designing an Arm Data Center CPU for Beyond-x86 AI Models"
+    excerpt: "Tightly integrated with Nvidia GPUs, the company’s first CPU is meant for the near future when AI models reach trillions of parameters."
+    publishedDateTime: 2021-04-12T16:41:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-designing-arm-data-center-cpu-beyond-x86-ai-models"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 39
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Nvidia%20grace%20CPU%20rendering.jpg"
+        width: 2000
+        height: 1250
+        isCached: true
+  - title: "NVIDIA Launches Grace CPU to Bring Arm Efficiency to Massive AI Workloads"
+    excerpt: "For now, the battle is being waged at the very top of the HPC market, as Grace is designed for AI supercomputing involving enormous ... we’ll be able to deliver advanced scientific research using high-fidelity 3D simulations and analytics with data ..."
+    publishedDateTime: 2021-04-12T16:24:00Z
+    webUrl: "https://datacenterfrontier.com/nvidia-launches-grace-cpu-to-bring-arm-efficiency-to-massive-ai-workloads/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 38
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/NVIDIA-Grace-cpu.jpg"
+        width: 740
+        height: 444
+        isCached: true
+  - title: "ViON Discusses AI infrastructure as-a-Service at NVIDIA GTC 21"
+    excerpt: "ViON Corporation, a cloud service provider and market leader in the design, delivery and maintenance of mission-critical IT infrastructure solutions, reinforced today a strategic position with NVIDIA for bringing AI infrastructure as-a-Service (AIaaS ..."
+    publishedDateTime: 2021-04-12T18:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-cloud-computing-software-industry-c5cb0545517c47bbae71c558e92ee698"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "NVIDIA Unveils NVIDIA DRIVE Atlan, an AI Data Center on Wheels for Next-Gen Autonomous Vehicles"
+    excerpt: "April 12, 2021 (GLOBE NEWSWIRE) -- GTC -- NVIDIA today revealed its next-generation AI-enabled processor for autonomous vehicles, NVIDIA DRIVE™ Atlan, which will deliver more than 1,000 ..."
+    publishedDateTime: 2021-04-12T17:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-unveils-nvidia-drive-atlan-an-ai-data-center-on-wheels-for-next-gen-autonomous-vehicles-1030294993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "NVIDIA Unveils Grace: A High-Performance Arm Server CPU For Use In Big AI Systems"
+    excerpt: "Dubbed Grace – after Grace Hopper, the computer programming pioneer and US Navy rear admiral – the CPU is NVIDIA’s latest stab at more fully vertically integrating their hardware stack by being able to offer a high-performance CPU alongside their regular GPU wares."
+    publishedDateTime: 2021-04-12T16:20:00Z
+    webUrl: "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 34
+    images:
+      - url: "https://images.anandtech.com/doci/16610/Image%20-%20Grace_678x452.jpg"
+        width: 678
+        height: 424
+        isCached: true
+  - title: "Touchcast Unveils World’s First AI-Powered Event Platform Boosted by NVIDIA Maxine Technology"
+    excerpt: "NEW YORK, April 12, 2021 /PRNewswire/ -- Touchcast today unveiled the world’s first AI-powered events platform. Incorporating NVIDIA Maxine, a GPU-accelerated SDK with state-of-the-art AI features, Touchcast is leading the transition to the next era of ..."
+    publishedDateTime: 2021-04-12T17:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-transportation-and-shipping-2c9a338a8c970c72c6e7157099ba2d92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
 

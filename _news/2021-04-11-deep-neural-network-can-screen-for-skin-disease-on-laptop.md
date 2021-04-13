@@ -33,7 +33,7 @@ related:
     provider:
       name: The Engineer
       domain: theengineer.co.uk
-    quality: 24
+    quality: 26
     images:
       - url: "https://theengineer.markallengroup.com/production/2021/04/deep-neural-network-newsroom.jpg"
         width: 940

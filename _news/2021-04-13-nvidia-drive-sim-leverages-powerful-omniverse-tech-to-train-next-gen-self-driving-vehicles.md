@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 554
         isCached: true
-  - title: "Nvidia announces plan to make CPU chips"
-    excerpt: "Nvidia has taken aim at a core Intel market with its first general-purpose data centre chip, for use in the most advanced AI systems. The US chip company rose to prominence on the back of its more specialised graphics chips,"
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
-    ampWebUrl: "https://amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/2994b5dd-8cb2-4612-a62f-f6a7206f29ad"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0ea4527-2022-4c71-ac76-af809166d41d.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
     excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
     publishedDateTime: 2021-04-12T20:57:00Z

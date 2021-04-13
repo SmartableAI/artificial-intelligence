@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-lear
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 107
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 41
-  - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
-    excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
-    publishedDateTime: 2021-04-08T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-governance-of-ai-and-ai-regulations-are-crucial-for-ai-growth/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
 
 secured: "XcjHXwxNXKEULczey2n4cyEuqU6OivTPhEfSW/jW2uJC+oI+EEN7n5KP9rMv859LE6lpC5Bjh0O1GUk5g0czQx/gQJq+EpCHTJjuMGyIbyT3ezAdT7SZ6jLu9hlA4CRclI6axh8pSVnOcgw5jAbziNh66OdkUHvrLeczqWvXISANWSOc1VrWBfPemAOnsLZtpzT7g8jDlau9wptVSbtdKYEG7ubVUUQ32CnDBcjMU8tzGnPiCOBA1ft7KCvVfbMKUiQKLleBTFePZnKRDiQiCZcG3RXmq8/NimrqHah4E72nDJT8NCzrTLjTtwe7nazpjXhMQmz/YcQ2yNlxSePppNX6HnM/VwH/OQABC2o1hNU=;f6xHnDmCZeU8BXEBloA8Tw=="
 ---

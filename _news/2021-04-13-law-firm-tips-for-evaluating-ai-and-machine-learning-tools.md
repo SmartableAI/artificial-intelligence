@@ -48,15 +48,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 41
-  - title: "The Governance of AI and AI Regulations are Crucial for AI Growth"
-    excerpt: "This vulnerable side, in any case, just mirrors the absence of development of AI in the business, which has been brought essentially into the less-basic business processes (and those which bear little ethics and fairness hazards). It would thus be ..."
-    publishedDateTime: 2021-04-08T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-governance-of-ai-and-ai-regulations-are-crucial-for-ai-growth/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 19
 
 secured: "EekfEssquoop2rcpMJP+MQ2Fm4Moy4r2svupvb36zCOupr3fGHMGi8wdyJtL1i47Xk5ZrxQ8vWsXRzQP+7jdvh1K4LR54znZOhaCzn4FuXgdzVMG/S5GaiyY0QgtfcONiQ6+vig/SHDkaPamOYMViUimeac9HvmN7a6Pq1juLwEAapL4isbdKFVBleH33xyfAnC2OE48D+CEvs6zSoxZRBg6i57yITycQH+ByNdZ19PtwN0jW4p9FRsl+6XoEs/NYj4AglVB937w/Wf5PWKEwEErOhv+Y6gfzWJ8Kt2EKP1aZ2ePaFEC+6m/W7rxVzaxLs1UuKb8Ri8e88oXFGIxU+mdFWvUSA5t6FZLSWeTy0s=;MIO4iIZaTp5Vc5Yy6zJbwQ=="
 ---

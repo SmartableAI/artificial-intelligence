@@ -2,6 +2,91 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-09-study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money.md",
+      "title": "Study: People trust AI more than other humans when it comes to managing their money",
+      "excerpt": "Two-thirds of people say that they are more likely to trust artificial intelligence than humans when it comes to managing their finances, according to a US study conducted in 14 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070114.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-ai-and-enterprise-search-whos-in-control.md",
+      "title": "AI and Enterprise Search: Who's in Control?",
+      "excerpt": "Linda C. Smith, then a doctoral student at Syracuse University's School of Information Studies, published a landmark paper in 1976 on the role of AI in information retrieval. Forty years later ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/",
+      "originalUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/cf6af054acda4d97a18dbc165db3f926.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/amp/",
+      "publishedDateTime": "2021-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-cloud-providers-cite-role-as-ai-inference-moves-to-edge.md",
       "title": "Cloud providers cite role as AI inference moves to edge",
       "excerpt": "Performing AI inference on embedded edge devices is attractive in situations where low latency is required, or where the volumes of data collected at the",
@@ -1112,101 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-google-hr-experiencing-workplace-discrimination-yall-need-therapy.md",
-      "title": "Google HR: Experiencing Workplace Discrimination? Y'all Need Therapy",
-      "excerpt": "Gebru, who formerly co-led Google’s Ethical Artificial Intelligence team ... here are all these therapy resources,” Gebru told the outlet. “And I would respond that no amount of support ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-experiencing-workplace-discrimination-yall-nee-1846426899",
-      "originalUrl": "https://gizmodo.com/google-experiencing-workplace-discrimination-yall-nee-1846426899",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/r1d8owrek64to0euhwan.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-experiencing-workplace-discrimination-yall-nee-1846426899/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-experiencing-workplace-discrimination-yall-nee-1846426899/amp",
-      "publishedDateTime": "2021-03-08T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-ai-reveals-current-drugs-that-may-help-combat-alzheimers.md",
-      "title": "AI reveals current drugs that may help combat Alzheimer’s",
-      "excerpt": "The drugs work by blocking the action of inflammation-fueling Janus kinase proteins, suspected to play a role in Alzheimer's disease and known for their role in autoimmune conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html",
-      "originalUrl": "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html/amp",
-      "publishedDateTime": "2021-03-08T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,80 +1,79 @@
 ---
 category: news
 title: "Local police in Virginia will be banned from using facial recognition technology"
-excerpt: "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors."
+excerpt: "It will soon be illegal for any local law-enforcement agency in Virginia to use facial recognition technology. On Wednesday, State lawmakers in both chambers of the General Assembly overwhelmingly approved a minor technical amendment made by Gov."
 publishedDateTime: 2021-04-08T19:00:00Z
-originalUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-webUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
-ampWebUrl: "https://www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+originalUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html"
+ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-facial-recognition-20210408-xjesfjd3hfgkbid2vch5jsa6nu-story.html?outputType=amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Virginian-Pilot
+  domain: pilotonline.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dailypress.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
+  - url: "https://www.pilotonline.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG"
     width: 1200
     height: 675
     isCached: true
 
 related:
-  - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
-    excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."
-    publishedDateTime: 2021-04-12T15:51:00Z
-    webUrl: "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+  - title: "Virginia Bill to Put De Facto Ban on Facial Recognition Tech"
+    excerpt: "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first."
+    publishedDateTime: 2021-04-08T15:29:00Z
+    webUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg"
-        width: 1200
-        height: 627
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
         isCached: true
-  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
-    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
-    publishedDateTime: 2021-04-09T11:00:00Z
-    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
-    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
+  - title: "East Bay police used facial recognition technology despite ban"
+    excerpt: "ALAMEDA — Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive, leaving at least one council ..."
+    publishedDateTime: 2021-04-09T17:02:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
-  - title: "Solution House Software expands Smart Cities offering with facial recognition"
-    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
-    publishedDateTime: 2021-04-12T06:36:00Z
-    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/20131214__ssjm12XXprivacy1-1.jpg?w=600&h=412"
+        width: 600
+        height: 412
+        isCached: true
+  - title: "China's first lawsuit on facial recognition made verdict"
+    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
+    publishedDateTime: 2021-04-10T09:34:00Z
+    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
-  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
-    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
-    publishedDateTime: 2021-04-12T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
+        width: 750
+        height: 422
+        isCached: true
 
-secured: "oX2R+xteTVDLWwqWmxfoFFU6bxd/12Wee8alU8WWpDld1dg0aBRv35bWw8Vixz80RfOS/d4LNd5tv1DqQgvowv0WhyBvotj6k5YIp2FYIksEQFjNgcox6zKorTp39a1zwH0V+IWnMt+qJTPaL2gp9bJ6/ldhfv5whP0iCZ9W7OYI71SZjwJyCjap3p8ZYOetXFM7q4kbbJYIlq+FuY25nC3H/dLdYADP97bCmdNLwaX+m8tvBjzb53nriBE+RLLzb3QtvivcQvXadl44BonPzEie67zgAZhGaqPgjfLrgv4rH4iL39fGQi6ohrfJb2KB8sAVTBCw1uaDDdVWpQVIWuLjgdkUN4GU+Un9kOgL5is=;K5fphJIN0BBGsGYnzFR9EA=="
+secured: "NIq/SHW3w/P2egmaoz1x/SH5mdDHlK9CJKHwQhMgdrMEFr1HrcaV90BvQ5W44/4n0sA/0/axl2T1fDFQg3HRZC1bINERnQl9aRUyYkTbkwCsJDy8qSrhdP88pdNk4vEj5048zOJgRKTS7D9tEC4sU/Z+a469e0Bu3gz+6QvQRn7baFm44PNRqa50adHPzOjeXrX/d/Km0aJHF90ZhdGRzbl60QKFbHgnxBmGTp2cRohjfxzJ2qMWkcnBqi9IARy1jR1AyLWgr+I0OOkWX+VVAXKQ3X4dwoqt2w1R1ntNl+7jFNOE0rC5E/YYz8SUXCF1hQSUbt80ihqYZAXYe7imarNSr4WDlT6+ej1piIHLP9Q=;s75cAU+NN217ohRct9g0iw=="
 ---
 
