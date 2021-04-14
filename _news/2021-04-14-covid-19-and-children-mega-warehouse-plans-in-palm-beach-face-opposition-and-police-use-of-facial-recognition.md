@@ -27,35 +27,46 @@ images:
     isCached: true
 
 related:
-  - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
-    excerpt: "When the zoo refused, Guo sued for breach of contract. “The purpose of the lawsuit is not to get compensation but to fight the abuse of facial recognition,” he told the Southern Metropolis Daily at the time. . The court, however, refused to recognise ..."
-    publishedDateTime: 2021-04-12T13:30:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3129226/chinas-first-facial-recognition-lawsuit-comes-end-new-ruling-and-new"
+  - title: "Social wasps lose face recognition abilities in isolation"
+    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
+    publishedDateTime: 2021-04-14T17:29:00Z
+    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
+    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 46
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/12/d06ea7ed-9ccb-4911-92d3-1a0901a8271d_2af53877.jpg?itok=s5Yl5m1Z&v=1618219411"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
+        width: 900
+        height: 1035
         isCached: true
-  - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
-    excerpt: "SCMP A court in Hangzhou made its final judgment in China’s first-ever lawsuit over the use of facial recognition after both parties filed for appeal, upholding its original judgment and ordering additional data to be deleted."
-    publishedDateTime: 2021-04-13T05:39:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/13/chinas-first-facial-recognition-lawsuit-comes-to-an-end-with-new-ruling-and-new-questions-about-the-fate-of-individuals-data"
+  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
+    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
+    publishedDateTime: 2021-04-13T23:12:00Z
+    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 0
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 38
+  - title: "Area students receive national recognition for essays on democracy"
+    excerpt: "Two area students have received national recognition for essays on democracy they wrote for ... Post 756 level and then first place at the state level for her essay for the VFW Voice of Democracy contest. Her essay represented North Dakota among essays ..."
+    publishedDateTime: 2021-04-11T12:59:00Z
+    webUrl: "https://www.grandforksherald.com/news/government-and-politics/6969113-Area-students-receive-national-recognition-for-essays-on-democracy"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 24
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/13/1111776.jpg"
-        width: 1240
-        height: 697
+      - url: "https://www.grandforksherald.com/incoming/6970112-dav74o-Voices-of-democracy/alternates/BASE_LANDSCAPE/Voices%20of%20democracy%20"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "wWugXa2Jh1QtyjHfGP/4KSLSq+nWmNPAi8NRB6iP0iIOm3TtLR7IgnhEaOXF9y6Ccq8puoYuUaG+mb7PDtDBsYsEZiqAMqDLopqLBdg8E5Ks71Zhi9PtudAPkJuJYQbf+chvlI0N+t9xi1Ulhnaz/5LRcbGW+A7WiZayzdFX8ybX9wtGJcOoEgrMJJx+m2sy3qhOk9lVu9HGHBJ66KqPTyUEByaPkbhi7WOryrN0KGt/4xUNuezvIm2oHMOBJrMUNxCgARpZS5GV2Y4LSb7TfqUM1O0gLLrHbuqaaH8OnM6fKFsJiFgSk1GFKHO4lOuWatRcStQ16Ura8qIXpNu8Sz7prTYM4m2vqyaxR3GhkLm7JH0cp85LQdesUedz1AWA7t14krh+ROPrEwWy5Lk3ry4NwwX0K8lC7Te3qhDLgkR7aetfE2MjP0XvDUbknuuHu2XyCeVzhm3FhJYUXAl/sZuE5VbhTg5ojTyHYnIY/7EiLB/glCMGc3WlBdH4DldMQall4uRADRUo+qQ4MAOyuA==;ApY90TpFE74pCMpwETuRyQ=="

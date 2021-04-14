@@ -143,22 +143,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft open sources tool to use AI in simulated attacks"
-    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
-    publishedDateTime: 2021-04-09T23:50:00Z
-    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft buys AI speech firm Nuance Communications"
     excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
     publishedDateTime: 2021-04-12T15:00:00Z
@@ -1255,9 +1239,9 @@ related:
         height: 593
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+    excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
     publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
     type: article
     provider:
       name: CRN

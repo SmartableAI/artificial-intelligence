@@ -1,31 +1,27 @@
 ---
 category: news
-title: "This Startup Is Building a Chip to Save Traders Vital Microseconds"
-excerpt: "That includes traders trying to coax their machines to process data faster, so orders can be placed quicker. “An AI chip could halve the microseconds needed to make the orders,” said Park, 37, the chief executive officer of Rebellions and holder of a ..."
-publishedDateTime: 2021-04-14T01:37:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-14/ex-quant-is-building-a-chip-to-save-traders-vital-microseconds"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-14/ex-quant-is-building-a-chip-to-save-traders-vital-microseconds"
+title: "This startup is building a chip to save traders vital microseconds"
+excerpt: "In the unfathomably fast realm of high-frequency trading, a South Korean startup’s plan to build a microchip that speeds markets up by a few microseconds is bound to get some attention—particularly here in Chicago."
+publishedDateTime: 2021-04-14T02:59:00Z
+originalUrl: "https://www.chicagobusiness.com/finance-banking/startup-building-chip-save-traders-vital-microseconds"
+webUrl: "https://www.chicagobusiness.com/finance-banking/startup-building-chip-save-traders-vital-microseconds"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Crain's Chicago Business
+  domain: chicagobusiness.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3jLdoLt6Ebo/v0/1200x910.jpg"
-    width: 1200
-    height: 910
+  - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/GettyImages-1150316505.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -46,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "x8oNxuihSf4+PL8RYl6+wgJd830aAdc5UYah3Uw/FxZFpP9IsWK1FB5ISzPvIk1I5nfY1qVbhZM7M5cQUJ5eYjBCq3HY0tYFCfhrcSVwx9/A7WSPrJdAXVGy+UhMGSghnqYAwqQu2nUnz3tFfIheRfLwYTDH+5v8wBrPhCgag2qKWDn4f35rN9YDgrVmfoCoTWqX9aEifhQKAG89vRtTvRPXZUCPMXdV3+YBeHbKJ6QBFakAK3DAe4nKMVkArgcMUDzRaqYOKtrkq0wZDnv9s9KpQ9OR2vnocPcukDTv177sDrqfzwKY2mD8Gf7uqcOGp45GuGOIk03Q3wdV06MjaRNbVG94zaNpSgsXlmQdB3U=;vXsnB+MDCzsxLSyLa8sMLA=="
+secured: "FEao6s2N/7ILhI/ILvRIFecftxJsauiwXa6mQOxAYr4Qjw8GQnOvyYIG8mDHXH9UkfLiraHewUC301UQ3qQ+3wVrOl0QHaLKI7rOzI5tGWqbS8aHNZkPwkjEO869X5Cs8GH5T4oJlyBlsBKmAm7ylvYxtzlxbEKHim5xkfHMxVT2fCtW8E6ZujPmbIpfigUTTejOb82t+YfWFs80rdFDStEPCCF8y1YF63kjkZ7u5nHPz3RJDw2hbt6iMk8fIGomLirj9IgV+rHhk/i7Rdrnp1blObwVbRdRg1Pfrn/UVIIrABmDxkEreyi01nZTNUjE+CPVGzIGIi3hjgfYjo+Ri0KXp+ZjJDTn+VhG+k0tzxw=;I0WpT/6FkrTu1H//yE8aSA=="
 ---
 

@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
+    publishedDateTime: 2021-04-14T17:15:00Z
+    webUrl: "https://www.openpr.com/news/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
+        width: 800
+        height: 530
+        isCached: true
   - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
     excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
     publishedDateTime: 2021-04-12T11:44:00Z

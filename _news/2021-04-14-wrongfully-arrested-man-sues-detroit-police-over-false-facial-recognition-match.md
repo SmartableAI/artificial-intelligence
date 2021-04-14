@@ -298,6 +298,20 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
+    excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
+    publishedDateTime: 2021-04-14T16:51:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/the-computer-got-it-wrong-why-were-taking-the-detroit-police-to-court-over-a-faulty-face-recognition-match/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 19
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z

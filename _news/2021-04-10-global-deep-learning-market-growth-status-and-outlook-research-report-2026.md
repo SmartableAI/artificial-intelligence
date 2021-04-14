@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
+    excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
+    publishedDateTime: 2021-04-14T17:06:00Z
+    webUrl: "https://www.openpr.com/news/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    ampWebUrl: "https://www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
+        width: 628
+        height: 385
         isCached: true
 
 secured: "x8erpr0vzyXWUO5fB291YLsYeKDFfaFVxnvbKdcx7iy6ElYfpm7RHKMX0+A3TRZavrPnh7kiaM9uInJg5iJzgtBCoXFc1dJJbps0olui/luBzZuPdSykJyjXoJCa3FsJEZPqLRuS0ID4G1DObw0rlyKDdCOMLQUmTeuRLJV5YKvEXS0/zlrKR0SGWeQNv38y90VtdDecpa0Y8ddadzPGZ95lZe7HtyXOffWIiEP1iqk4gf4Ik/8t+MIMjembAdskjgG2sYkelgtepAKSb+qtOr5LkC6GD/jSft2AOieUKjMpktQ5gac/JzMrsO9nSQQVX1tx+yTCPBvuWrrV7waum9919kM3uzVJwEKdSfeq7UI=;MYOWYdok1HnT8jRpov52ZQ=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mayo Clinic Launches Joint Ventures to Create and Commercialize AI Diagnostic Tools"
+    excerpt: "The AI and medical algorithms from the two companies will ... will enable a comprehensive translation of the language of the heart. We think of it as the Rosetta Stone for cardiac medicine.” Lucem Health was launched by Commure and Mayo clinic to provide ..."
+    publishedDateTime: 2021-04-14T12:10:00Z
+    webUrl: "https://www.pharmalive.com/mayo-clinic-launches-joint-ventures-to-create-and-commercialize-ai-diagnostic-tools/"
+    type: article
+    provider:
+      name: PharmaLive
+      domain: pharmalive.com
+    quality: 33
+    images:
+      - url: "https://www.pharmalive.com/wp-content/uploads/2021/04/Mayo-Clinic-Launches-Joint-Ventures-to-Create-and-Commercialize-AI-Diagnostic-Tools-BioSpace-4-14-21.jpeg"
+        width: 625
+        height: 350
+        isCached: true
   - title: "Mayo Clinic launches two joint ventures to build, commercialize diagnostic AI tools"
     excerpt: "To start, Anumana will be tasked with developing ... “We have a rich pipeline of ECG-based AI algorithms and we are actively pursuing FDA approval,” said David McMullin, chief business officer ..."
     publishedDateTime: 2021-04-14T11:30:00Z

@@ -23,6 +23,22 @@ images:
     height: 364
     isCached: true
 
-secured: "QEAow9Ovnrjqk4/QVxtrpQEEwJQ9F+5tOUCOltqcUPLQ5CuxC84zgW4OYf7bpi9lCO0S8Ygzv2zHYEynJ7q9Gbbpeugl65OwvqUWFz0cPygHnqZT5etWaJ+EJnO/YY/3gi5WS1U4R14G3ZqmPRSbR2zoKv3LmstPHskNc8G5rnu3E9qGYF2CPvo8gWXtt+mMQrbIBVAyAJY9ioRUEP868Czp8fUCrUm2XijLocTMQGBta07qHiX1tRuK1kAT28XgtDIX2JSR/KJtPtrKKIpn/LKF6qsq5DsTCFC7AEon5t1Vava025H/wGOr2VPQhx+WLRJtMEMTnovClOnzt58yVVwhGyFRUmBVME3Tp6BJv+Q=;RJdujA8TfZDeQtc85fYABg=="
+related:
+  - title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
+    excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
+    publishedDateTime: 2021-04-14T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "+i9i5cw4jnSuOPikS3KN341AK4p9AluOd+YjaC/Jdncv6+G+zigiNjHX+lQyzs34dmG678arGm+Q9/ZuMN292hmvzrXp0zSvPEdO0iYSco6Mkbg78uDo+agfr0dfvQyuGDD55TtNDl51IIOBlT8ueX1aVaTPHDqKqytzOzr1LbkG9Kl1q6h9lpA8GKqfkLEooWeA4W55tNJ/mn+iwLDO3O/WeeJaE43ilngWQEvi4oIrgixI8+rombI+xv+3+A76BmkiNjMqig3TBeAVKzgeUvoIQvB6q8cEm8ZB69HxIGjHaGF/P09q0P7PVLrlHFkaIojGk4hcx5R3u1VM9E25jmyLMnA3Y7w6ye8PPlMOlsWObP6x82wM9gqgbG5EafpbU6zl6vrTP3FsV1somTiXzshJBoKBcL56X+RFRMu3x7ZMMwQCeeoUMw2eZpN/rZbDNOzyH9lELSQd/OaS7TRNHEL2F49ZpZ/clC78AYSJJbXauZcc61DhARSm7bskCy6kKD2eHkzT+DmoKNuiLKHX6Q==;Uc6ffeS6mY4+/M+iYab/OA=="
 ---
 

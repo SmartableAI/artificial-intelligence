@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 900
         isCached: true
+  - title: "Toyota taps Apex.AI for its autonomous vehicle operating system"
+    excerpt: "Apex.AI, a startup founded by Bosch veterans and automated systems engineers Jan Becker and Dejan Pangercic, has spent four years rewriting the robot operating system that will give automakers the ..."
+    publishedDateTime: 2021-04-14T16:08:00Z
+    webUrl: "https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/"
+    ampWebUrl: "https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/ApexAI_car-3-2.jpg?w=1024"
+        width: 1024
+        height: 603
+        isCached: true
   - title: "NVIDIA Atlan SoC: combines in-house Grace CPU + next-gen Ampere GPU"
     excerpt: "NVIDIA's next-gen Atlan SoC announced: powering cars of the future in 2025, using in-house ARM-based Grace CPU and Ampere Next GPU."
     publishedDateTime: 2021-04-12T20:57:00Z

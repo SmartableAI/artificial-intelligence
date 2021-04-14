@@ -21,21 +21,51 @@ topics:
   - AI
 
 related:
-  - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
-    excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."
-    publishedDateTime: 2021-04-14T05:34:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-get-advice-around-use-facial-recognition-technology-two-leading-researchers"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
+  - title: "Social wasps lose face recognition abilities in isolation"
+    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
+    publishedDateTime: 2021-04-14T17:29:00Z
+    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
+    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
     type: article
     provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 46
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/12/07/CCTV_is.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
+        width: 900
+        height: 1035
+        isCached: true
+  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
+    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
+    publishedDateTime: 2021-04-13T22:23:00Z
+    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
+    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "Area students receive national recognition for essays on democracy"
+    excerpt: "Two area students have received national recognition for essays on democracy they wrote for ... Post 756 level and then first place at the state level for her essay for the VFW Voice of Democracy contest. Her essay represented North Dakota among essays ..."
+    publishedDateTime: 2021-04-11T12:59:00Z
+    webUrl: "https://www.grandforksherald.com/news/government-and-politics/6969113-Area-students-receive-national-recognition-for-essays-on-democracy"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 24
+    images:
+      - url: "https://www.grandforksherald.com/incoming/6970112-dav74o-Voices-of-democracy/alternates/BASE_LANDSCAPE/Voices%20of%20democracy%20"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "BACT2kYk0hw1KxZoSKb75rIGEBBDABT+ou0p/2flYumNbj5DeO4mIQhx8PGbd4NsIsGAMtDQqjQpqyGIiZUCkAIEJVNEdAQ+O+s430gJ+wGOqyYRXEi710g9aIAZAEV1y5GQwa1dZTVnsrJ/3AUOVqGED9/Mav9aL9/h2Iuj58M6mtLtdyN/8xcexHYCmdD0MS21ExdxytdZHkfSk4/WvLL7Pj+jAET6byelZJ/gWhmeQWHox7USD8lQHkaMKgQMueeO8eVUdwfeeoDDdhIYPYJs4v6DXhF3MJM8Wt9gbAtWeV+qZUAu29HK4t7fQinzUX0/K8VCNf1FX1JwcUV1Bs+gNV9P1bTtARu6Pne6Reg=;rLHPiX7o+gDFxMR3ALVyDQ=="

@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
+    excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 46
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+        width: 845
+        height: 396
+        isCached: true
 
 secured: "kEGHoZ+bJ0Z7gA1XC2n+vKkBCIDsHk7MaosT7rUd1Gr3TPNSFQ7wfT+7ekxrw60Wmygsxs/0T4Tsub5xT0Bzhryu8/N0oM0CVHfZFKr4h4267im7xGA0WhUCPV1XLzND+h+cPiohOj0/Qbsw1JUStJE/YuIrXO2M1yYwhpdy4sN2sGEFvja6kyY6cX2zWBxy4HNBHZYMvWNHBAeBOTBWjP5aEoZ25CPxNE+C8e7ay6avs7N1Z+Xeb3e2zgAG6IPsm1PYGLwgfyjPQ8e5LUpqh5pJmxlAFcRjI+kRwobxLZrfHB6naLGGVb7C0oATWqucK/kFtxMtL9F+/bwrx79qxp1kKQ0/y2iEX6ir8XU+aX8=;1UegiFg/PJk3XWp2b14GYw=="
 ---

@@ -299,6 +299,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
+    excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
+    publishedDateTime: 2021-04-14T16:51:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/the-computer-got-it-wrong-why-were-taking-the-detroit-police-to-court-over-a-faulty-face-recognition-match/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 19
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z
@@ -314,6 +328,6 @@ related:
         height: 628
         isCached: true
 
-secured: "B3Q4V3oTEPezDojz40ObYPjxXFichWgU9SKHVytZjwdtYsuYW/JeBQXPRBay9wv/wo6iQS2DziM8cpMci/ZM36JOod2uvquO9XerYj98/uS8ZDF2FYtnTgIc2LUv3l38CyKMFZ03Fc3d4BKleTagVx0b3gT84EuT1uTFswIxw9Oe8lR3/vRxlH1yXnTlQWDsXGXoZS7iZ8yK2Q31tGKAAnYKAXZ6y0goj1xwIt7G2EP6N3/rEX6DzFWPQ4EEeGNorjckbaglPqUJ5DHxI7opw6+Q754hchBLSrETmGbJXOUWbqFVaND0wiKNFW1H0XXCwZ9P8LCd47sZ20JfvQX+qlviBXM9tTsRJjKMvHcLAtg=;suJNcL3kmigGN+AtwfcALw=="
+secured: "88G0DC/6DTAmnjhZ/uc+Q6aKumKA3rd5ZevHlk7oyQBo5SkvhdRwHbPbayOcW5a6rnEr/PJrcBWPL0Cz7u9pFmbekKU+CL/NtLDEFwqkaNOQjy+YjSXZ28q4fy1AMjxwaSCWhD1mndXzBOK8mbRpvd/oa0HXpswZu/bAAnzcKFoaRU+D8UQplX3IiggmGE7d4h8c6Sv/LiQomcmeU36Ugh6pVJvlChN4HZBcFcfbT4S9XerR7mmcYxQ5Ibf/sSgiwjEToONIFm3lX0cR48uoSDkFitXZGtOA+J0xX0hw8SlpCHWLq3zOYl+9nA8kgNrjf0oSJ7MZyNI4/osZYijO1KhmAUbcxFXWQG/SoBp48HKc9hdUSz4wxMQPTEUhS4AgRtT/kJmmtWdZtWtkCVYs57rTwpAvkX3aMJK3ywYaNAFz5vnpfPeSuR/vJMWSbHeoTvYNqntiuMrXT9JfYWEII+8rgH5Zf9HF9ZWzPbP9kS1tX1zWVA1ANFfgDBe0INXEBEtENhIOZXfXVkD7PFeJvg==;/pjgiVuHlBjdXyZUetxlbw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "BMYcB8PB1a8oQHqMjIXZsH7sk0oQRgT6ea0bY5Mfo98RCxlGGbHMeyvvdzYKL7IwXzOzhK8AKjg7zJjcAntlQVQ0O0twN2mp+ljQf3PP2UMOUDdbRYJ/gnomIPn0h5NPizxic9XFopcs+zEtMX6SOUnh5HJf9rQvN+1f32+UCy1QkVI4Q80WQq+GKrA5Rz4wtZNZdkWwQBbFcjr5SX8TJ/CPtdRzmb4QBKFSZ6L4Qv5Cn17EWSigwBBEoPPISZlytwBQWUgx+DOWTPsJ5a69NQj7VTgWsWM74aB4/19iaT8gIBNo7R3VDk+HTXEwtGMkbOk8bj1XW4VCO/BM4G0FhHERUQZleEhKNeRpkDlvzcs=;wf/GLraTACDghnGmfJO+pw=="
+secured: "euqToVsqO+Nkm3Ae2q0KU7fCnQNxhR8+DnM4EPgdv7iDW7T0kLhCMEfRp+5uxwtAIHWJeee1gds4escUrLXYiQv7/yvvxGP1F271tbWHccvdXMvhcRwVH7zBZs56ngmV7vqL9zNW1LpHXl3erDGfxNo9X5JV/Wt+hM3o/AZbtG8akvuwSaoZF5Vu5Un4JF58UPMA6PyTlrJafYI1Hqt7lKQSUNHEsDIgtqefS4eMrR4QM6qYkk/X4fqlkfIN/gB18DLcgKno6o9Yj2ukJhMTMVcZajvcPCY7K3O4u8vUZHShtV3mbVAYQCLLT/dtibHH3WFAZE/9LFECQp8OAI8eo37yCUfIaJNfvV6wACq219Q=;SspALP2vrozeBKLRw4EP/g=="
 ---
 

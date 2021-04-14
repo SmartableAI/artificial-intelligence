@@ -39,6 +39,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "WMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface to Holographic AR Scenario, Making 5G+AI a Mainstream Technology"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WMI Hologram Cloud, Tesla"
+    publishedDateTime: 2021-04-14T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20623913/wmi-hologram-cloud-tesla-and-facebook-apply-brain-computer-interface-to-holographic-ar-scenario-ma"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20623913"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20623913"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
     excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
     publishedDateTime: 2021-04-13T02:02:00Z

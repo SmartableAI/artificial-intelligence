@@ -140,22 +140,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft open sources tool to use AI in simulated attacks"
-    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
-    publishedDateTime: 2021-04-09T23:50:00Z
-    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft in talks to buy AI firm Nuance Communications - Bloomberg"
     excerpt: "(Reuters) - Microsoft Corp is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications Inc, Bloomberg News reported on Sunday. An agreement could be announced as soon as this week, Bloomberg said citing people ..."
     publishedDateTime: 2021-04-11T14:59:00Z
@@ -1252,9 +1236,9 @@ related:
         height: 593
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+    excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
     publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
     type: article
     provider:
       name: CRN
@@ -1496,6 +1480,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "ruz9owTtWlU8/222H+c+w86Buf/uT5ilWaC0J795060BhQwmJSAUSKv6c5lOO0vkGN5UgAr7ORlxJ3A1sYbzosAoyDt0Lb5O0zopC4CWN0teHEw7i68Z362cHEpHJt3gr4uTAzHW6L0HskI/D1xqMdFDtR45u0sSveVH2F420/IZpO4cQOfWeWhyyp/Hh4iYZVuodeQ2Zn1UTZWsGr37VGSytZyEuMsRM1+W4850B2F/Kz1nNzgopQiNBpAp37ORTdPPSY5lte3RgKNGi8cX4ABErZtAGRbHFEVWhMSs3VGkGDZOKjxoF1w6qs4gWPZQaApdy+F1YkhiPDrn6/IbAoJF5qKQp0KFZ1WGsV6DUkw=;8/UtC89o82rifRatUeMqog=="
+secured: "GibPqZFho8GotQnqqh/jF6zK7f9NkgePTyZu9KOna1FlEwohezzYQ7EXuWGcKnvr3Aqx2sdj6WdGV7MzireskegJgNyxKBUjpP2U3MRNyd9WUw4MJnlO6QhjgCB6Wqn7uWzDIJzaKWEhvWLjlBN2BDDRmgmEvYX0ERXade8f6RyGZgtmmVugyusHrXSNUB845RBwc/LgKBHgBPihLiW1TMN28lrzIlNJpt7GDuM45ats0elONqg46lhaLmTdcajuIqXOsCVH+38bIsF2/kJ0gNT3xHF3MBu5BT/bE0NIyWC6befooXsHWb3fiQXDQjkxfMtLjR2RXF/il0rq2BS7YD0A+/dBrcMYBw4B+Tt7Za+M5Y3hgeBPOvVFad1EdG2ra5o/N+p28/M8nZLpvSZItg9kPedIiTn3OlN8QyW4TzN6uriLBNqmq491OuIbXHzfRxeSzfb1r4KkZOeTXyfcX9moVYlDFafJd8hFYy0pZd0l8k0XZLb/Tbzx25KpH873M9MNbCx848IKBtFLXiBDUg==;Lw3J5dbU5QmHV9XG2QEsew=="
 ---
 

@@ -313,6 +313,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
+    excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
+    publishedDateTime: 2021-04-14T16:51:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/the-computer-got-it-wrong-why-were-taking-the-detroit-police-to-court-over-a-faulty-face-recognition-match/"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 19
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lCBjoG7pyPwsAKQg29MVvd9Wk06t9GdFE8vvav99uqDMZeFa1UVm/RCtLx+zOCfj59R1tOnb2Exn3PpIPaKSD0FFuFHr36JqFzRGtPM2LuAZJ5ZeKF9/EkGGka9HGPum2N3pW33TVswa5YL2iDeKtabaffuGMxklmjh69XJc+Tf9Zs0QvHhbOPnLh3NWQNLqXq8onH2GtPs1VG3Zi6HhwxG8OdOtyIT57DM8P33hHZtbGHMy3ZDZvDJVorv25L6rBMX5piOgfSeLuyoDTOC1kh8FIIWsOPsZivfZmzdK/T1lVA59/iXmXUyQXt/HTUjPl0Xoyu/C5XQXbW6KJMyNIjz+MOkyrpuCTNun1gcWBjM=;h6dRqmQ4q8rfphvZkPAovQ=="
 ---

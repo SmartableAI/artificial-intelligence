@@ -1,10 +1,10 @@
 ---
 category: news
 title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
 publishedDateTime: 2021-04-13T17:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
+webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
 type: article
 quality: 54
 heat: -1
@@ -136,22 +136,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Microsoft open sources tool to use AI in simulated attacks"
-    excerpt: "Register for a free or VIP pass today. As part of Microsoft’s research in ways to use machine learning and AI to improve security defenses, the company has released an open-source attack toolkit ..."
-    publishedDateTime: 2021-04-09T23:50:00Z
-    webUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/"
-    ampWebUrl: "https://venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/microsoft-open-sources-tool-to-use-ai-in-simulated-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/gamification-GettyImages.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft in talks to buy AI firm Nuance Communications - Bloomberg"
     excerpt: "(Reuters) - Microsoft Corp is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications Inc, Bloomberg News reported on Sunday. An agreement could be announced as soon as this week, Bloomberg said citing people ..."
@@ -1495,6 +1479,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "ZDtcJ1XTaMrNB/uXhDYZgvv0fCbaR13rA6S8DWuVo1P+rMz2UR64L/Lk+xiTw0AxvgxaOWW2dRyY4Og8nkcF3qEq95AxpkL8t7TwuF0cC85/TxKkDJw/aMIQTGd1T1uxa+kwnFI/a4jFXGbq0x2G2docXVTAx2ZrLFGu/W9Bk0jo+Jc2Yq8xb/013vF8IRyRJd0ux1L9l+1SSlYplPYeBDQpj7p/8HZ/DedYkxL7/wsoYpyLIJgXoWKQlR4/VgKmZ70Y0skTvssWEXWY6ARawMj1YbMcAEpJhc8QRawewmgKYwrvK+SykA+HLjkzydDAN6kXyMOTCZn/3hF+pRKyjOk6m5puc4HsyCAw1F2NgKA=;8WPQgGJpPE98AZIlsYTp+w=="
+secured: "HAaPrRcNwOMSpPvezrCBv6AGJWkeL6FnsobJoRbe/brn9kpkTXxEfuPbMXqBGP//AhQVzxS+6xiipud9740H+uvZCejFEDcl+X9P3Cw/5r3cPOuy75e8XkIGlwpOvb4TezGKQ/9r2wK2vJUrQ3X7QAZnZOy+ExOEnzJI8cr7oER8TJYg1N2qt+KVQcgcJiNF5819Kz3XApbwOSkXEbqGkmheoDx1aeu9BnME1U70uK3LeLRHLnWavop1D3AW3vHom9nlryiw1Cdfv9LPbfSJyodKOvU6nyL7SD1F9Edcr5RI+GGU85C3HEQe8N2RwoxrwIQhr3kKEB25UfcUj8HQKYKdIrjtfhrpiJ9wh7+fXDg=;iOcHIA4gdiQJjuhHP6oWHw=="
 ---
 

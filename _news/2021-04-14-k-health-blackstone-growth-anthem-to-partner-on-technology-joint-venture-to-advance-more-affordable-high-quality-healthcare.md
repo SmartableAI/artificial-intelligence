@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Komodo Health Launches Prism and Sentinel, Setting the New Standard for Healthcare Intelligence"
-    excerpt: "We apply artificial intelligence and other advanced data science techniques ... today announced that it has joined the Amazon Web Services (AWS) Public Sector Partner (PSP) Program. The AWS PSP Program recognizes AWS Partner Network (APN) Partners with ..."
-    publishedDateTime: 2021-04-14T12:25:00Z
-    webUrl: "https://www.lelezard.com/en/news-19747966.html"
+  - title: "Anthem, Blackstone, digital health startup K Health launch joint venture to curb costs"
+    excerpt: "Anthem first tapped K Health for its AI technology in 2019, investing tens of millions of dollars in the platform in a bid to better triage care for its more than 40 million members. K Health's app allows consumers to screen medical needs past an AI ..."
+    publishedDateTime: 2021-04-14T15:27:00Z
+    webUrl: "https://www.healthcaredive.com/news/anthem-blackstone-digital-health-startup-k-health-launch-joint-venture-to/598376/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 14
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.healthcaredive.com/user_media/cache/16/3b/163b7d82955a8111c9f01701fb3f90a7.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "Y3fkOACoFfJRvkc/y470f/bkOzpzfk4zqmhhg7cfBRU75yKqMeKYEphovPNfIY/lgjVDUUUUQ0whL8gUx/l/ysXEYLLHdTtDJiJEsQqhP8O2wxXETYV4Lo29uiIACrEHcI8B2Y6/IefdoZRWwdEOnp88rbNWICViaCjR6oLVffHmiY7SFbbVOxVA4IiOaaqCFZEV+H4DZTXt/eIo1xt8HOP2bkC2h1cfz1Xc+wPIxccuBojo+DzQ+rkQwe3PFa5V47tAz9bmfvHY2d3DTCatuExNQT8bzJVJG6ZGtkxuv74UGXFmOWJZJEi8/EbjaCfsP+LU9FbrG0YLXBp93OmLKCArj89c280edg3OdHi4n7Q=;1W1cTst6XIg9zfIpm6L74Q=="

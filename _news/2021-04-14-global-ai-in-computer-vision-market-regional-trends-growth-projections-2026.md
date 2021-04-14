@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14"
 type: article
 quality: 83
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
+    publishedDateTime: 2021-04-14T17:15:00Z
+    webUrl: "https://www.openpr.com/news/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
+        width: 800
+        height: 530
         isCached: true
   - title: "Which are highest profitable regions Artificial Intelligence in Retail Market?"
     excerpt: "Los Angeles, United State, – including Q4 analysis The report named, Global Artificial Intelligence in Retail Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Artificial Intelligence in Retail in view of numerous aspects such as growth factors,"
@@ -220,6 +236,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "8IWBc7+/Hjy//5Bm9CmPr9hRZh+XKW6IXFRMsCbTJDToS1j6Hd5Qmyb4G+Bk8AbW2bELIhYPPsg5i4O+aUfp5mNy+Z/3MNqi7EpQ3wgzbYliw4XVB8OQ4emOW2SuiG/zwYW4OL13ltkHwt17T2ZH3O/s8o4lKvc1CE6gyvGEP0Z6Iz7zhTaOd0QCjL+Ugco/ZTGrOXB1SAo8d195ZoS62xrVmfWho/+0cnwQfIVlt2puleckXWuOLJASRZKYPZPSKwxeLm9ugdpuDa1T4tmZ+UVUi33JuJ26Of9IN4T3gpRPJ8FiuNCWNgTFobDVI+1dlOu4IrWb45ql/KI2d6JdqniISmdE2G6fBXycmHh5WVI=;GoiTmv9QQUa+IV32Q+oYaw=="
+secured: "3xbYC1gothcuiiBIlQyIO2zNeQhuBMlQdjrwkkARpJd9cyJmpjm07x8zeumU8Cm+4Z5YctmKIdQhhzeTmIbxYsQLljY4kq5lOvqpsvv2TuNdXbfmNL1BpDFq9kJoACVPsC8AM3KcO4rATGvQh4StP3a5meGGLnJdFD2iZti7JNNpBzM9aT3uLqodN0OVPesrsX14MuGPLjHNVdd+MXaDkyCdtrQ/rOTCsFo9267Wy+VABAxDuhyRxzlhsAUxFt0JS0zZbWoC7w3xmNPwwI2596VCTgW8BFVkuPYwA/lDGcXcIWJ7GabrLOLLaV7B04dhpgj/DvO5+bWQ2JruIeqkODg/wmVoOnF4VuK1y9ABlkg=;ChElYsJ14avp2c3yJ+zBpQ=="
 ---
 

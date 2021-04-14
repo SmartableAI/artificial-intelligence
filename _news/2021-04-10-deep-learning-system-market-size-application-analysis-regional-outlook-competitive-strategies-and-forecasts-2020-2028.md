@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
+    excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
+    publishedDateTime: 2021-04-14T17:06:00Z
+    webUrl: "https://www.openpr.com/news/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    ampWebUrl: "https://www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "exWaSh5ODTD12lgg+B8gxShk4NDN/NPyoX65UKxhOEkVtAKYNxUGekNbYBCHY2AcEZdNnMHC4WeIG9IEkoWqU9IyE0BHM5Hu9gKsdYH8w1XOj/V+K/IkiVBtzl5z/4C1+qp0ps0i9d8DCpuBED1lR+HaBV1GJC8C2NGU4K7LvvCBXx3F0ulLGlbb0NWSebxWcsxprU+LMu0f6wcPGQRBy1KqC6iBBDLiWSuO2jjHao2m9MP2AGImgkmmvEFKGrXdv8ju3QXr5+YYUWm08GNSCM0V2X08i8t40mSp18zyHey4WE4bLhviGxtESwSTlybJMRgu/NZrCsipbzuAk+yhrfjyo5O7BIFFD0bX1g4I3jA=;bglEL1GIFUHyYWcgDHTA5Q=="
 ---
