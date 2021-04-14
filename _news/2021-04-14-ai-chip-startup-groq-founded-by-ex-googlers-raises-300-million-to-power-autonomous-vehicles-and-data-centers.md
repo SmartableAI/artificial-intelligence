@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 641
     isCached: true
 
-secured: "pL9Qct/jnIn2cFEXRkkk+e5DQcaPY/kWHpWjaptXPD1LpVlVZkf0sUdtxUWrc0iabXX9tBJTIVIA6vTGscWFDtCb+H6D5Rx6WyPT3wzju3yFVkYERZz7x2K3p1iyT5vIwWVZx6H4neFrnIKEjRWRyooxI00Z54Txh1abgQmBsKiCscYLZRoP012NHuJGBxqojCD2PlHJXop2o/tlT00vw/V+q+RlSuWlaoi8Me7WRnwGKV8+bYdtnNcdtIseTSeRI4hgonsCO31H9TOPQv767QtLqIaek7xbnPTB1S9VonztjdTaKqJZV2bITbsNn2xaHDl+haLeR4ITCjXgMbnaRLM7wEIaJyGMhXlgNKKM5KY=;Mz7Gto5+NxvN+KhPH38Q8g=="
+related:
+  - title: "AI chipmaker Groq raises $300M in Series C round"
+    excerpt: "Artificial intelligence and machine learning chip startup Groq Inc. said today it has raised $300 million in a new round of funding that brings its total amount raised to $367 million. The Series C round was co-led by Tiger Global Management and D1 Capital,"
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/14/ai-chip-maker-groq-raises-300m-series-c-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Groq.jpg"
+        width: 980
+        height: 587
+        isCached: true
+
+secured: "P6aOg9uAhlQaq809dbh8xrA6A+5wCYWMCCI8yPYNTB+bqxbH+z+dRpYNEsKczpyWD0cJs3wR81Yv4gPLNWUSSJwBZhIy9UMqZILKoGtlD0zdo8KSRZ9mVb8srt/9nMVIpGW0e5+Aq8GIvT3MCgcTCu5p40aH1+FNQlFh9ZlMQbGmBsVfDKOoNtVcNBnj3lVzPwuBqadLkYy+YBM07IKOs/4ROtm+g0kOXgZvCA/28P0GhiCXikRThs0Lju3FYErSUmp36pV4FateMX6Sc1i0Ab7rA6WAvb/0DIo+z2QCPNEywmUv5elGh/19FnW1LxzHtUNeJVUIJMOe5rhk61O4B85CtNuvuPvFAFF1K0myr1lRKklA4t4UHXousv8XYEQw7PTD0idf9CSQvKUJk0fbTfLbosuw1/OvFeUwJY8qe9zoWE+aRjjypVhngrcXM0fg8NfMRwSVjp4Z0JbBVXGuYNul5p+GtdlXBtqb3TFhcX3K1YrjwReblFUnwZSzoR9lRepDZCm+bQtidPwsYBQ+dQ==;QDT8rXoU15nQikZRd27arA=="
 ---
 

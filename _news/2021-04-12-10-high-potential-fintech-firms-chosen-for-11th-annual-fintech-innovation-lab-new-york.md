@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fi
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,51 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
-    publishedDateTime: 2021-04-12T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
+  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
+    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
+    publishedDateTime: 2021-04-10T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Switzerland based Banking Solution Provider CREALOGIX Hires Fintech Professional Jordi Perez as Regional MD"
-    excerpt: "We want to shape the future world of fintech! CREALOGIX Holding AG (CLXN)’s shares are ... IT, managed services and AI for the financial services sector. In his last role before joining the CREALOGIX team, Perez had been working at tech giant IBM for ..."
-    publishedDateTime: 2021-04-14T11:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
+  - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
+    excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engineering-fdic-to-partner-of-fintech-innovation/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Martinskirchplatz-Basel-Switzerland-dorian-le-senechal-unsplash-300x238.jpeg"
-        width: 300
-        height: 238
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/TechwireLimeLightLogo20200122_2_Blue-Green-e1606302743940-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
-    excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
-    publishedDateTime: 2021-04-12T17:55:00Z
-    webUrl: "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    ampWebUrl: "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
+  - title: "Welsh Fintech Delio Selected for FinTech Innovation Lab New York"
+    excerpt: "The Cardiff-based fintech company, which develops investment platforms for ... Safekeep (New York) – whose award-winning AI-driven claims solution increases recovery potential and reduces effort by as much as 90%. SPIN Analytics (London / New York ..."
+    publishedDateTime: 2021-04-14T04:55:00Z
+    webUrl: "https://businessnewswales.com/welsh-fintech-delio-selected-for-fintech-innovation-lab-new-york/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/4/U412411471_g.jpg"
-        width: 626
-        height: 417
+      - url: "https://businessnewswales.com/wp-content/uploads/delio-logo-white-transparent-e1565698398697.png"
+        width: 710
+        height: 429
         isCached: true
 
 secured: "qjDACRqaSuCG9DhKZud3TNt2+uatX+tuhsjpuJAc6MHhuC7nw7i0xFjyyUmCiXrC8n1j0mIcJ73hZWsWm15UcM2g9Tt07z3GX7iXPUps+kF8lvNego2vq2qA7tWCpUNlXTYTW2j+TiyNcuQx+Fp9/dHJGbF5zP8Ecp6SiOGqYrR6vdyoqLXdd8FdsoSE2ly6AZ6ML6pQgyifjdlzJKJ3N52bXXUlqY4M5m3WaLrQX7RUbVkLFDmF50hgDs6Fe5okYT/4RYy3XM/zR2HTeaS7vapHnYSGR8a+GNXdKDxXXo7RfD2ZcoAtBrnX+8zr2PTbyrEJUJkleXgMea0JDt6ziJ6lYl2EXPUYx9Id9eiuodsCwOpbc6fckfPqmkQp7f/Rr7H4JTi1O5y1iJz38K90TDvBNxT6ixqms6HJlYyGOU9Ov/88hlGo+3BZgyHNIjnRPo4b9P/s9pTczhlD/zCmVfY89bvpYbVfYmCB/lvMOTpcGDHkFCyr5gQx6/BzV4bm5GpWi6q7SAzl0jFFr94bDg==;Lq1YCBMx0FH301kUqJdD9A=="

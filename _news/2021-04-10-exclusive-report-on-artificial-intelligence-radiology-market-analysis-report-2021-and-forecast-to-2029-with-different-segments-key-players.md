@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market, which has"
+    publishedDateTime: 2021-04-12T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-2021-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-says-kenneth-research-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
     excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
     publishedDateTime: 2021-04-14T05:57:00Z

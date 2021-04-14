@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market, which has"
+    publishedDateTime: 2021-04-12T08:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-2021-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-says-kenneth-research-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
     excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
     publishedDateTime: 2021-04-10T12:55:00Z

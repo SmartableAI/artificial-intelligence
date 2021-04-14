@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Students See Job Opportunities in New Fintech Major at NJIT"
-    excerpt: "Mydah Naseem entered New Jersey Institute of Technology as a business major but as a sophomore switched to financial technology.\\"
-    publishedDateTime: 2021-04-09T22:36:00Z
-    webUrl: "https://njbmagazine.com/sponsored/students-see-job-opportunities-in-new-fintech-major-at-njit/"
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
     type: article
     provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
     images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
-        width: 775
-        height: 500
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
         isCached: true
   - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
     excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
@@ -53,15 +55,20 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market Next Big Thing | Major Giants- Onfido, IPsoft, Intel"
-    excerpt: "HTF MI introduce new research on COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech covering micro level of analysis by competitors and key business segments. The COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech explores ..."
-    publishedDateTime: 2021-04-10T04:04:00Z
-    webUrl: "https://industribune.net/news/45318/artificial-intelligence-in-fintech-market-next-big-thing-major-giants-onfido-ipsoft-intel/"
+  - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
+    excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engineering-fdic-to-partner-of-fintech-innovation/"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 7
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/TechwireLimeLightLogo20200122_2_Blue-Green-e1606302743940-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "9rZ5vroqM7D4x8BDQyr5WS68CTc9fNHbsQqNl3LBXzkqjG60CNzxurJwk30zfZzE95A3Hu3PVaoIfLqT+5TLyiT6us0YroYrecIiPL959G1O6G2N9W75eBqU0wQRARs2DjsVCzcY6GbNtzFOnfz3R6SJzcCA9exx7MaysSbfmvbqNK/Ib0UzTnnbFLtZbrxQ2IAl7QK7DwKCCzFwbIKSG/m5rMXHGtTryfMl6ajw5BDrk/Vw5g0pyQlPsiFwTARSvP8GAXbZRxEof4yKCSd2J0wtxEkKZqBMgpKIApxjHW8lO7paLxC88Bl4bsZsCie/TqGzH5ITSDosKJzfGk9twh6tzEo/Tg6Qfw9v4cQzfxPfsWWDDiRZvHKy/PfaVu7ef/QCZeV+DMx4P/4Zly4Mb8uwOzyz41/QPL7ye/llzoOz5uFNCwHp7DfJBRtnSMb28UKrIzBlxXKe83gCfL9xKcrwx6XryIgohxfwWB+4Jy+TKXxeYDHUGTAb7mNEF/fB17sHdrdGw1d7W5u+OF40ug==;QgGo1x73Jb5XsbNu8gvFMw=="
 ---

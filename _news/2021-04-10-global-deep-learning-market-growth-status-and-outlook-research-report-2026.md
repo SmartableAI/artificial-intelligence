@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Cloud Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Global Cloud Machine Learning Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows and sizes. The report also calculates present and past market values to forecast potential market management through the forecast period between 2020-2025."
+    publishedDateTime: 2021-04-14T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
     excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
     publishedDateTime: 2021-04-10T05:14:00Z
@@ -38,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
-    publishedDateTime: 2021-04-10T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

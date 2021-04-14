@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Students See Job Opportunities in New Fintech Major at NJIT"
-    excerpt: "Mydah Naseem entered New Jersey Institute of Technology as a business major but as a sophomore switched to financial technology.\\"
-    publishedDateTime: 2021-04-09T22:36:00Z
-    webUrl: "https://njbmagazine.com/sponsored/students-see-job-opportunities-in-new-fintech-major-at-njit/"
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
     type: article
     provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
+        isCached: true
+  - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
+    excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engineering-fdic-to-partner-of-fintech-innovation/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 24
     images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2021/04/Ray-Cassetta-Lab.jpg"
-        width: 775
-        height: 500
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/TechwireLimeLightLogo20200122_2_Blue-Green-e1606302743940-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
   - title: "Welsh Fintech Delio Selected for FinTech Innovation Lab New York"
     excerpt: "The Cardiff-based fintech company, which develops investment platforms for ... Safekeep (New York) – whose award-winning AI-driven claims solution increases recovery potential and reduces effort by as much as 90%. SPIN Analytics (London / New York ..."
@@ -53,15 +69,6 @@ related:
         width: 710
         height: 429
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market Next Big Thing | Major Giants- Onfido, IPsoft, Intel"
-    excerpt: "HTF MI introduce new research on COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech covering micro level of analysis by competitors and key business segments. The COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech explores ..."
-    publishedDateTime: 2021-04-10T04:04:00Z
-    webUrl: "https://industribune.net/news/45318/artificial-intelligence-in-fintech-market-next-big-thing-major-giants-onfido-ipsoft-intel/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 7
 
 secured: "AOz+5r5PS4/onM0pgD8Tx6/R8n1n0sTHfIHJGFu+nIlhEHwvm9NYsLenRw/TGRNnpp3QCOb6mzO6SiWv6nt3jWB5O02pF9vThuSnIVnthsCJ/Js5DR2qsZMB42YpbMervnJfis1gfHoGt43GBH2mmyix1hKCz3MMbU08K7kQJk58dGzgVPB6kxhKPm2kpZjUYjm2ORg0IY/wJDHCe+paMeMVDYMmnwNlypOEe9oqOG+DYo8OofKXeuBqYIi+hGoLVq66lu/AkQez2Pz4KdZg/cjquqcDxVkMC+c5P2ex/FL9Gw9jG4jdXbxpdlv+8SWcUezvq1+kEDrYQUszuS+9HmhFeJEwb11qd4o6rW9F/p0=;xjvaSwsjHzF37KqknwZFvw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-gro
 webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
+    excerpt: "Even Financial, a platform for financial services search, acquisition, and monetization, today announced the launch of 'Financial Products"
+    publishedDateTime: 2021-04-14T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud-marketplace-301268756.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1213912/Even_Financial_Logo.jpg?p=facebook"
+        width: 2498
+        height: 1309
+        isCached: true
 
 secured: "EE0SCdiJQD0Z1Nlvi1S6GpstrBzi6VXNA/0ezPXBrk6UE/Q17VRQz3S+wXyMu+0UDYZe/NGwAcS8GAxlsfTq8jLRZAwL7gNQ27aoxhi6UvBPR0LjS++gu4qUgArHAPvnSt53BGW9tZDFmb/daN1+dYwMIne83slwEYume8tv7ZJxG/xmI4TJJ6OJ6y51NU2t7pNAfCFSOcvDGj5hmxBuSaPgw0cKOgiBqe5EJWt8VvH9lUHC7FWYsoivzjD7Mc90fE0ecet+QbkpdUFstamEAx5Ef0/Tzzq1d09iOryhTdhg7fLrO9nKSoLxIroEkjJpVMUG25E0HS4FVlfAfX6T1XAkAfS+woxFVBPhIxEyw5w=;5Eoz6bk2iJah6AmU0OJW7Q=="
 ---

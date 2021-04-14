@@ -35,19 +35,19 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 41
-  - title: "Artificial Intelligence a key Sector for the Domestic Economy"
-    excerpt: "In the competition for Artificial Intelligence innovation ... we also deal with machine vision, language technology, healthcare applications, sensors, networking of smart devices and security technology,” he explains. “For the time being, a small ..."
-    publishedDateTime: 2021-04-09T23:00:00Z
-    webUrl: "https://bbj.hu/economy/statistics/analysis/artificial-intelligence-a-key-sector-for-the-domestic-economy"
+  - title: "Artificial intelligence for space"
+    excerpt: "Building a satellite with artificial intelligence on board that is trained in space: For this project, Professor Hakan Kayal from Würzburg is receiving 2.6 million euros from the German Federal Ministry for Economic Affairs and Energy."
+    publishedDateTime: 2021-04-14T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uow-aif041421.php"
     type: article
     provider:
-      name: Budapest Business Journal
-      domain: bbj.hu
-    quality: 39
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://bbj.hu/uploads/banners/20213/shutterstock_1488887192-OK.jpg"
-        width: 2315
-        height: 1447
+      - url: "https://eurekalert.org/multimedia/pub/web/261978_web.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "vhMN0PDS3GCL4tRWrdAIS7mYKxhTJ22Fl9Wov7x1JYBf9XLiV1Hl7U4AMThrkf4xLyq+KeSljN0JRIKfmBCGGFwHoCg4H8qLf7CHQT8PkYS/0O0tIZUA9XJKpgUhm0aoe7zeZKYCa4fkNfQSeR7W1pYDL8BWqu3CFEACBW6ZCvTF9vyC7eGR6qtF/bbAS7Hv89IkRsc9btJFayBP+30DLsu1+wsHhl1HjJ5lUO8BIpYaoH/xnbeh/z4KMOXJ+8mbpJLuqekHB7W9zTeWu1BzAg+Yh8KCzAkmnN0THvyXP6t3yIbIlzNj20YJ2D0zjTMTCWH4a2q2odrYd8zUfVJYoXJA38T8lIzqPPCZRyeQHNQ=;2bTf7N+O8f9TOzCnitwhBg=="

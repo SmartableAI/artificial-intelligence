@@ -28,99 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
-    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
-    publishedDateTime: 2021-04-12T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
+  - title: "Natural Language Processing Market Size, Growth, Manufacturers Segments and Forecast 2025 | Says Kenneth Research"
+    excerpt: "Apr 14, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Natural Language Processing Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-growth-manufacturers-segments-and-forecast-2025-says-kenneth-research-2021-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis"
-    publishedDateTime: 2021-04-10T11:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
+  - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
+    excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
+    publishedDateTime: 2021-04-14T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
+    publishedDateTime: 2021-04-10T12:55:00Z
+    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 3
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
+        width: 750
+        height: 420
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Will Increase Demand, Statistics, Growth Rate In Forecast By 2027"
-    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly high CAGR, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-04-12T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-will-increase-demand-statistics-growth-rate-in-forecast-by-2027-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
-    publishedDateTime: 2021-04-12T09:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
-    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
-    publishedDateTime: 2021-04-13T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-2021-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Facial Recognition Market - Company Profiles, Industry Trends, Global Segments, Landscape and Demand by Forecast to 2027"
-    excerpt: "(MENAFN - Market Research Future) The Global Facial Recognition Market will witness a healthy growth from 2016 to 2022, a research report suggests. Growing at a CAGR of 19.68%, the market is ..."
-    publishedDateTime: 2021-04-14T06:29:00Z
-    webUrl: "https://menafn.com/1101911548/Global-Facial-Recognition-Market-Company-Profiles-Industry-Trends-Global-Segments-Landscape-and-Demand-by-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?333846"
-        width: 443
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet"
-    excerpt: "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization."
-    publishedDateTime: 2021-04-13T06:30:00Z
-    webUrl: "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
 
 secured: "9J5pzKVmG4jrXhDGpG1irggoZtvLYn2POVWytrllvqYwmbUo6N4XY95czUY+kkA386+OfsEZrxM4yWSVFMc6TWe/JP65A7gvckNVY7zNSgE+AkUdCx/xyTH4bAD6ADIqH7BIaup2sEb4N6me9/wdu15rOsuZiZvEnpaN9fhHiEtv5yNb8WuZN7z8YBalnU7YL3ZCo7xvUBRhffCVMkkaLEjogg/gtlA22A+ssOqKWy/VJXtuzFfItSspw6YjyOJ4g8PZU3ZOdNm5X76r8gvqV6TviJcbOYYxsYpnMbEurxQQcZf7+DyQXSJWV76IaHiOUumBOilPfMYX8fwNa4AQ3jDRAhGR1/Nkds7cqVU+F7o=;bcNpikz1w30YvpBVYLpOXQ=="
 ---

@@ -353,6 +353,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
+    excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
+    publishedDateTime: 2021-04-14T13:59:00Z
+    webUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/"
+    ampWebUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 91
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Healthcare.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications"
     excerpt: "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ..."
     publishedDateTime: 2021-04-12T09:09:00Z
@@ -565,6 +581,22 @@ related:
       - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
         width: 650
         height: 400
+        isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion On Location: April 13, 2021 NEW YORK -- Microsoft, on an accelerated growth ..."
+    publishedDateTime: 2021-04-12T21:29:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 76
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
@@ -1073,17 +1105,6 @@ related:
         width: 1100
         height: 817
         isCached: true
-  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-    excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
-    publishedDateTime: 2021-04-13T15:47:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
     publishedDateTime: 2021-04-13T10:00:00Z

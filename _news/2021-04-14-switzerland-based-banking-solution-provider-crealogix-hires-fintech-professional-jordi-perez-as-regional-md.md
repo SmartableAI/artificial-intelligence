@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-ba
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,54 +25,6 @@ images:
     width: 300
     height: 238
     isCached: true
-
-related:
-  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
-    publishedDateTime: 2021-04-12T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
-    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
-    publishedDateTime: 2021-04-11T21:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
-        width: 600
-        height: 468
-        isCached: true
-  - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
-    excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
-    publishedDateTime: 2021-04-12T17:55:00Z
-    webUrl: "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    ampWebUrl: "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
-    images:
-      - url: "https://cdn.openpr.com/U/4/U412411471_g.jpg"
-        width: 626
-        height: 417
-        isCached: true
 
 secured: "MzX/I0EMdVsCBX1z5p6S//g7uG/wnDlXAx6rP/3TPHE3InIFnHQguYLwaPf4pi3JJqHHTw8NueJGhlitz8QDGRCUfp/6FiUuRDz9/NiAWWpIy3nS+iHYyHUqXnyqsYJKqIfn9mHSiWx6M6KkSge+GmgWE0a8W5MeF4CDRf4foQIRMeSFlwPtR407OYZLGrbHFDAd53FkENgDECKwaOYVzCmgsMp4nHM8xjjE+ydiHRYB2UNkHidwNiNWQZOGuT0idokA59bUGe9Qv7CmqFEodDLIcHdxdUC6spTQUl2gp8MlXW9iws0LcDUSQ2lVWVtwYhocVpjTKQdFEFXYcXr+LzowG/gq5q8ZCTjpq4AHKxB9rsV3StUuTaVgauKlEWYsB9z8SdbBcML0S7/hxIduZYSUI1jIAKO5nPzOGybvr5EAiSIw80Qg7ddCRaMmQU0BjcI7S+51G4ejMLYGelWItwnLu35yBG8PhQayhke4Rq4F4sABpPRh5YL3jayEgF2c9nOrlgeRZ3IWEz9s5lypXw==;PzNf6H/Vd0Lq6oNMK/pyvQ=="
 ---

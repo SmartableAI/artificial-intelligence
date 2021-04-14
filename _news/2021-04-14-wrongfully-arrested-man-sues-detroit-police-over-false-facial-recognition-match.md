@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
-excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
-publishedDateTime: 2021-04-13T23:25:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the technology’s risk ..."
+publishedDateTime: 2021-04-13T22:00:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
 type: article
-quality: 55
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
@@ -58,6 +52,22 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412"
         width: 600
         height: 412
+        isCached: true
+  - title: "Man Sues Detroit Police After Facial Recognition Error"
+    excerpt: "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ..."
+    publishedDateTime: 2021-04-14T15:46:00Z
+    webUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_SPIRIT_OF_DETROIT.jpg"
+        width: 950
+        height: 629
         isCached: true
   - title: "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person"
     excerpt: "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ..."
@@ -154,6 +164,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2TZT7C2WHBCQHOH7TAUSA45JYE.jpg"
         width: 4611
         height: 2708
+        isCached: true
+  - title: "Black man wrongfully arrested based on false facial recognition match sues Detroit police"
+    excerpt: "A 43-year-old Black man who was arrested after facial recognition technology incorrectly flagged him as a shoplifting suspect filed a federal lawsuit against Detroit"
+    publishedDateTime: 2021-04-14T15:28:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police"
+    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 50
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/original/26899305/robert_williams_facial_recognition.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Farmington Hills man sues Detroit police after facial recognition wrongly identifies him"
     excerpt: "Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. Robert Williams, 43, was falsely identified as a suspect in a theft investigation in which a man ..."
@@ -258,6 +284,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
+    excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
+    publishedDateTime: 2021-04-14T15:07:00Z
+    webUrl: "https://thecrimereport.org/2021/04/14/detroit-lawsuit-charges-facial-recognition-software-misidentifies-people-of-color/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 34
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/39225139155_fd0c8fbdec_b-e1618411761977.jpg"
+        width: 720
+        height: 360
+        isCached: true
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z
@@ -273,6 +313,6 @@ related:
         height: 628
         isCached: true
 
-secured: "muB/IyOOThg5RNCD6grn5o+PklCnQaF5rjalyH3mgBvQaF48TjHQIxdlwSaPhEdEDIz62UkdbWRuaLgZ9A+09IXrY90d22+x1X+QivXv+wsBNWrhdTb7Qe8bZmuiUlfk9pDyXb6tPji3/uh6yWNwoQQCiXx6vG2ZdGwAoi51nzSU9iSdCqUWUGMDAnam+r388JZAMJOMRL+RutrB7A/gduQ9AV66npiCrP9SX9gPIpLMWnELmRLw/XX4EPDJ5lh2fwKTKtcYorivEUefmxBzv9euiDHIUWdSNGgoTt5UqPHcnrpRu7pJcR9qOxnTpcCgmqejkUDqHzBBDQpomFeelaASQdS+p4v0t/yy2MXarLY=;J80bl2/MAwLA8VZif4SFbw=="
+secured: "LIcvyvz1VfN797NTh5hi3hY+pjFZx3+55KmwmuPvPDKhj3CjzymArvsFru9nWik9u3q236EEa2eGS0O5diAbwcNlywkuCLWFIfebqOukfuXE4jUevcjg6T0UU7SNEfjzWFDeQHJfIVnmAXm0fJCeVNKnglO7LsnQEgIqRXzDK4tSUw05f1/VeGB43MnmT12RV3XZJQviIVveG0Fi+htH4vSfSYHHF1hr14HBeD9mYvlODH9GoFEWqVw/ZUua4+0R+SWsqQj0H01tKIR3cI3uoc0uRUEDtqLnTJD+qVqCm+XzeAhdqhJp8/X8Rv7dB7Di6urzT/rySn+fVlqBVh85rLHIALo3XoKB+cFudIz3CGxgIXvVXZY+kFChZQb49xDqn7GGvYAgIuzJjwa8f6NvnbOIf6tJv0YVus5OLJOR5Klz1ewCR3AfEW8hu1xMLq1XraUX7QXFkvyEbxrL7PTz+DYMUdc+KIg1Yq0p3aUUml6JYC/Vdo53AtwwYAwmYJ0LsTE+TduE9Q0sjDkPQSMx8Q==;NGD6lG3zzuiU+6CAAIr45w=="
 ---
 

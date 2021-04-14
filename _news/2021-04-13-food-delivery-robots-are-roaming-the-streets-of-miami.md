@@ -41,6 +41,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Drone Fleets and Robots are the Future of War. Can Humans Keep Up?"
+    excerpt: "Ever faster-increasing application of artificial intelligence (AI) and drones are altering maneuver formations, concepts of operations and war plans at such a pace that some are struggling to keep up."
+    publishedDateTime: 2021-04-14T15:04:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/drone-fleets-and-robots-are-future-war-can-humans-keep-182710"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/G35%20%281%29.jpg"
+        width: 1600
+        height: 1228
+        isCached: true
 
 secured: "OdgyHhXz5A0L4cCpgH9ZyOrq2Dgkut1IHVWO+vtrgzXVgf0agdVbJrP2YUDnxROHRh2KPs6WVScpPE3nLziv4QW73jj52/8jQMJvp8Y8OtrAz2dtqqabrK9VloUbdPOErG0NtIfxsfhrvQppC1MX+A0Dp6KHVHdk2vs+5wQzVFx4IRsFmRhRzDT/GbGBYK07Lt/zzwjaCXBt/bcjPhR9TbcokVRjfEVHMqMwPInb0F5MzXTfiz3zHCxMuIXAQYtdx1a7j2lT5202GdKh+9DcXELiCmybdw5VapxZGr1hMHBYxOSD1UmIG+vMadc47GYHNuE+LZr20TYjkpnbRu/aS/NmIIlZhcBHPu3HdREz+J8=;2vdi2xhGh1x05kh1wYEd4Q=="
 ---

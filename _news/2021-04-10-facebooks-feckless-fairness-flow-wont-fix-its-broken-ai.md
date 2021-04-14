@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/facebooks-feckless-fairness-flow-wont-
 webUrl: "https://thenextweb.com/news/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's new open-source dataset could help make AI less biased"
-    excerpt: "The social media platform says that the new dataset could help researchers address discriminatory flaws in their AI systems."
-    publishedDateTime: 2021-04-09T22:42:00Z
-    webUrl: "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
+  - title: "POLITICO AI: Decoded: The EU’s AI rules — Finland talks to machines — Facebook’s fairness project"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-14T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: POLITICO
+      domain: politico.eu
+    quality: 48
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/09/dec2c367-e2d0-4c3a-a3de-b3a16a40aec0/facebook-casual-conversations.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Chg3bFM2wQK8YtY64DyuUu8QQ7T1Gd/PTEBXzi7yvh3+b06TZqQGHqJ7kaIvx/wj2UaV+sDCjGKi6pLrL26r/D5aNo1OaYrdyvKSZNDvOGtcFhMWNtAP2Au6rjbpdErkMlPWkssrIWuJyQoVXKfYWsbfHfSSSi+lWcr9QCl++QWaugka8tZCpaSs4uS7s7eBaSZbEPEqUGgiJRwrxCzwX7P2+AtxE9Dqfiefkrq1dQuUg5CMW6W3sLh8xKYpv2yJI4JxO+uNbKYjMICltiyVgEM8TZzXi8M1m/lE9GFxEcLbAHTSrOTL+HXHtgMHLgh6S7sjzFXGXjx1VjTp6uhlhNrmlAIMe5UnaBkarLHfIL+Q5zj6PqGzjSQ+pgVxJoRziY6QfHpEACZ0HW60BL+NolPYjPAcEF/+BTMF/0bxD2UCDPpcMVfRK+wnYzLwxJZajSwAvyErpF6rQkrCiAkjwAV6SQxClmeqML21AaaLmTjsN2XTys840mlB26fyCa5QE141eRZv39kFWHev8WRZ/g==;OHKwpg8TrBRdhXHfUvDFbg=="

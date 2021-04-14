@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
-publishedDateTime: 2021-04-13T15:47:00Z
-originalUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
-webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
-ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion On Location: April 13, 2021 NEW YORK -- Microsoft, on an accelerated growth ..."
+publishedDateTime: 2021-04-12T21:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
@@ -341,6 +347,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
+    excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
+    publishedDateTime: 2021-04-14T13:59:00Z
+    webUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/"
+    ampWebUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 91
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Healthcare.jpg"
+        width: 850
+        height: 400
         isCached: true
   - title: "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications"
     excerpt: "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ..."
@@ -1474,6 +1496,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "vIVpYrCvw77WUkmGzybEvvaSYLO5Wgjq0o77x32ZtFwJ4lHgsqt7Y3FY7rrNBVJNeK+mAvtaYtWYQCuVv5BjOVr5DdXpqnPDgdk0y6YVTznI4Ouosaq4QpAk38RH76GfH5rUUeOiv7KFbL94kfi9kU2dsfCn0aahETK2TXBXiR7NvWHLOdq7IecA6F9Khbmn+qQnIiSNdQBL2hR2vOAt5r4XctLvI9V9As3S8inGK14K2hJiEXmfv9O0IOn/ffJ1uQ8nZuL7TAbw/qasDjM8CgsY6P/rVqEV5KR5RtnihqIqT8bK4FkWu6PIs/7oQJMNBOBDvLeFFrgeGaJFVfeXUlxxGy1rf1vlgdShH6vNLCsIqV7WdA5ymZ2De84SWaU7s/yw6AG3ENbxqrgkSAjwntSqUaWO6lDKAXEPHTLGkkOQn17p1iWCOS35miRasqCwHEc11UAFl8S3S9lnutOSpyrP0W/SG2GhIBre5dQ9r/KpGwfk48XDJnW3aMsxsQT6CGiJjQ6p5lBro1my8uWziw==;7dHo03OZnzJUF1/X1ZXf9g=="
+secured: "ruz9owTtWlU8/222H+c+w86Buf/uT5ilWaC0J795060BhQwmJSAUSKv6c5lOO0vkGN5UgAr7ORlxJ3A1sYbzosAoyDt0Lb5O0zopC4CWN0teHEw7i68Z362cHEpHJt3gr4uTAzHW6L0HskI/D1xqMdFDtR45u0sSveVH2F420/IZpO4cQOfWeWhyyp/Hh4iYZVuodeQ2Zn1UTZWsGr37VGSytZyEuMsRM1+W4850B2F/Kz1nNzgopQiNBpAp37ORTdPPSY5lte3RgKNGi8cX4ABErZtAGRbHFEVWhMSs3VGkGDZOKjxoF1w6qs4gWPZQaApdy+F1YkhiPDrn6/IbAoJF5qKQp0KFZ1WGsV6DUkw=;8/UtC89o82rifRatUeMqog=="
 ---
 
