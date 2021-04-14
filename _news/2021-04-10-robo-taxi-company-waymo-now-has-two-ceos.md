@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-drivi
 webUrl: "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,17 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Waymo co-CEOs bring double vision for self-driving future"
-    excerpt: "Dmitri Dolgov believed from the beginning. A member of the Stanford University team that finished second in the DARPA Urban Challenge in 2007, he was captivated by the early promise of self-driving technology. Soon after the race, he became an original ..."
-    publishedDateTime: 2021-04-10T04:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-co-ceos-bring-double-vision-self-driving-future"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
 
 secured: "joVvCNL828iXcHf4nMkzxcJH0ueL+8kvHtanBMxJ4xJ/b08tw4ktikERqr2hC7OuGE1QmpHN5MOpXUS4fc/OiMFMheg4qGbDtjxmSfNuO0/glcptlFHPP8zqB9f1bKu1rUcF6wC03fsnTdzC1vBQQrtW7ONHOdcdSK1DTihBqxM9pvpwq8ZHKtBydBWdJnhOIUoL8YBMHYUrAw25q2jR1eRgaBxJ6m9PwlX8aLu9xmh/aBQmHHziHMMe8xCmLATZBBM2EPG1vNKDOvtSYi6w/hEGneWbDI6hqz6iIl3ojl5GTGYDEIHPY3dWRzJSUGlQwJQksrbA1exTcykaZ/2k0vrz/SpJrL8TaGEoKhG/HVq9NJJfo12yveFXh6RPeTUOHbLPD/Yiz05zErpX9m7ITsXOCoo58hfgUa+RToF81pHMJ4bfqtNpYybhOHlqNpHalk/n1d9RGTkt+55fqJzya/NjqQKBCfKNPmrmqW6anomQ1q4cJA4G9ybblJb3tFiaoJmUUncNFV4afHSvQ0EXpw==;Mx9MIF6n2xrvEUDeo2tqXA=="
 ---

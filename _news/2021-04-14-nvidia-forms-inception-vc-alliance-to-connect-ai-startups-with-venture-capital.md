@@ -76,6 +76,38 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "NVIDIA and Cloudflare offer AI to all developers"
+    excerpt: "NVIDIA and Cloudflare announced a partnership that will \"put AI into the hands of developers everywhere.\" Working with NVIDIA, Cloudflare will offer artificial intelligence (AI) tools to developers on top of its workers developer platform,"
+    publishedDateTime: 2021-04-14T20:46:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-and-cloudflare-offer-ai-to-all-developers/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/11/17/ef2d24f5-d94d-4419-b3a6-d0409ade6e70/resize/1200x/b1f36729c5a29c4533e53d420729de85/istock-1245973664.jpg"
+        width: 1200
+        height: 651
+        isCached: true
+  - title: "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI"
+    excerpt: "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers."
+    publishedDateTime: 2021-04-13T04:17:00Z
+    webUrl: "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/"
+    ampWebUrl: "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp"
+    cdnAmpWebUrl: "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp"
+    type: article
+    provider:
+      name: Tech Goondu
+      domain: techgoondu.com
+    quality: 65
+    images:
+      - url: "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg"
+        width: 2000
+        height: 1250
+        isCached: true
   - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
     excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
     publishedDateTime: 2021-04-13T18:35:00Z

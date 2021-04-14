@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Robots Are Coming"
-    excerpt: "For many of us visions of the future have often included images of robots who can think on their own and perform tasks."
-    publishedDateTime: 2021-04-10T04:01:00Z
-    webUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680"
-    ampWebUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
+  - title: "The Future of Travel"
+    excerpt: "International Air Transport Association (IATA) research indicates passengers’ most desire: Increased innovation Reduced travel disruptions A seamless travel journey Streamlined baggage handling Greater accessibility for passengers with disabilities It is against this backdrop that Houston Airports and Avalon Airport have sought to innovate their operations."
+    publishedDateTime: 2021-04-13T16:45:00Z
+    webUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html"
+    ampWebUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 59
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/220/10b44a80-aba3-42e6-9ec5-3c5af5d9988e.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Food-Delivery Robots Are Roaming the Streets of Miami"
-    excerpt: "Self-driving robots are now roaming the streets of Miami, delivering takeout orders to customers who opt for an automated driver instead of a human one. The robots are the result of a collaboration between Miami-based Reef Technology,"
-    publishedDateTime: 2021-04-13T12:00:00Z
-    webUrl: "https://www.miaminewtimes.com/restaurants/reef-technology-and-cartken-team-up-in-miami-to-provide-robot-food-delivery-12069271"
-    type: article
-    provider:
-      name: Miami New Times
-      domain: miaminewtimes.com
-    quality: 39
-    images:
-      - url: "https://images1.miaminewtimes.com/imager/u/original/12102751/img_1770.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media2.govtech.com/images/Shutterstock_Airports_Empty.jpg"
+        width: 770
+        height: 513
         isCached: true
 
 secured: "LIsn/uEEHQuVBGZyDqmblPSgOmDBvmjRQvr8jNCmixgqyCwZ5qDN1spdT3GwJpDDirm+u7rbimXRPUBAPMzOEdZWUWx9O6JFt0MCkxLqF0B6GpsmGZZFNvgw9aPE28xNJB/fibamr8I2nWQCLOKH6iUeXeu/x6OeYGk3rzNTF31gn+YN7XDJBcOHja50KWNshESd/9m+zZcaEKHU5N7epevAyyjLj2yFRl2RfhaoxvbM9a6dhetntoRZLpllwzL6bZqzwabs5Pk5zTQnmRwJNZLWKAIhzIdSuB1Sw080GA+bR9mhLDaQglOGyQPAjZcrUiRNeHA1gdw79T+zo63112yfG6Z25mBW9wOubbU5U/I=;EHLFhMAyMfdmnd5ekMWAiQ=="

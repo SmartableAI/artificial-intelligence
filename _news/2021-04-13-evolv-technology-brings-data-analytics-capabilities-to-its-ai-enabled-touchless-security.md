@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-sports-government-regulations-ownership-changes-5d10ec0c819a745b911e9ecfca385faf"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI computer vision analytics deployed to Russian port, Israeli smart city initiative"
+    excerpt: "NtechLab will provide a range of computer vision analytics capabilities to Fesco Transportation Group for use at its facilities to digitalize processes, according to a company announcement. Under an agreement reached at the TransRussia forum, Fesco and ..."
+    publishedDateTime: 2021-04-14T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202104/ai-computer-vision-analytics-deployed-to-russian-port-israeli-smart-city-initiative"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg"
+        width: 877
+        height: 432
+        isCached: true
   - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
     excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
     publishedDateTime: 2021-04-14T08:30:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art-11.jpg"
         width: 1004
         height: 591
-        isCached: true
-  - title: "CloudMoyo Enables Data and Infrastructure Readiness for Advanced Analytics and AI/ML Applications at Terracon"
-    excerpt: "Successful implementation of Snowflake data architecture on the Microsoft Azure platform has created centralized access for all structured and semi-structured data and allows us to leverage BI and AI capabilities for better business decisions.”"
-    publishedDateTime: 2021-04-14T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-corporate-news-north-america-9633ba14bf0645d2bdd88941725d8e62"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "JigfDb/j7X67C7od5d7UFzXbkg0daUv7e/lOk8Idq8V9qQevFlIrkq6rEnKJQDQ9GjngJRXE0qeoSxj1mX0ta55MR4AC5jk10voXKws1LP9+lPtOW1JD/oYZUizNiXT/0wHYinN12ZKXywDFaHO+rnaFXhMN549Jed6mIGBeOS1WBEtAze4kDyilwWW89WM2KMJlqutvxYHq3BK/kjyMbiJc4j2pG09s0m+jwcbSnZuK8aWH74SkMMwvjiJEc+SwTV5BdhiHjOcRwKAsSvIF8Vgm3h7eI+nTf2GHkG+qvYzO6/mPcUgEVDI7hp2aNbd9L6b1P8052PhbsOqJ2XpO8XCKuSQIb1mykE8k0PNeNn0=;ZYd0FOr2DZhcBZcKUJMpJg=="

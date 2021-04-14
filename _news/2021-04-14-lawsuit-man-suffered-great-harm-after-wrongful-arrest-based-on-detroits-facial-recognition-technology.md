@@ -43,22 +43,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "East Bay police used facial recognition technology despite ban"
-    excerpt: "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,"
-    publishedDateTime: 2021-04-10T04:30:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412"
-        width: 600
-        height: 412
-        isCached: true
   - title: "Man Sues Detroit Police After Facial Recognition Error"
     excerpt: "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ..."
     publishedDateTime: 2021-04-14T15:46:00Z
@@ -138,6 +122,22 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e218c58/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2015%2F10%2F05%2FGettyImages-84611044_1444057759686_24781005_ver1.0_640_480.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
+    publishedDateTime: 2021-04-13T23:25:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Black Michigan man sues police after grainy facial recognition system mistakenly identified him as a shoplifter"
     excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
@@ -315,17 +315,20 @@ related:
         width: 720
         height: 360
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the technology’s risk ..."
-    publishedDateTime: 2021-04-13T22:00:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+  - title: "ACLU seeks to make facial recognition use by police a civil rights issue with wrongful arrest suit"
+    excerpt: "The suit alleges violations of civil rights law by Detroit Police, which the ACLU has consistently blamed on the use of face biometrics."
+    publishedDateTime: 2021-04-14T20:43:00Z
+    webUrl: "https://www.biometricupdate.com/202104/aclu-seeks-to-make-facial-recognition-use-by-police-a-civil-rights-issue-with-wrongful-arrest-suit"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
     excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
     publishedDateTime: 2021-04-14T15:43:00Z

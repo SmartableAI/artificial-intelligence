@@ -95,6 +95,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI chip maker SambaNova raises US$676 million"
+    excerpt: "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised US$676 million in a funding round led by SoftBank Group Corp's Vision Fund 2."
+    publishedDateTime: 2021-04-14T00:29:00Z
+    webUrl: "https://www.crn.com.au/news/ai-chip-maker-sambanova-raises-us676-million-563325"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/iStock-918508630.jpg"
+        width: 1365
+        height: 768
+        isCached: true
   - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
     excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
     publishedDateTime: 2021-04-13T13:00:00Z
@@ -170,6 +184,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tOuDsSc0ljqhl6KxrXGr05Qp0xUsxzKTnElLLJLMNUYGjuBxNM6A85T3HmEfh3GyqKUCwY+xiKeYdqbTXk4BKq2JPe+aRd5o5g2h/wo81t6VUcGNQfEoZQ6j2RAQg37FL57NqS0Rf03+u5lMpvg5i64zYelJfbv69R8AN3Ld9HeshdUzsVOoGhXo1AE2CpEFKY2hly94gdN3GjbnHUEohu925IvZUYLvTU+QAd7giEUpSf7PvwFMEgjQB6TUXlJfknbfDKfcV0T1BJby6pzeJYC7htINq2GTPyecXiWf2YJVnATTV3kiIa8e/XK0K6l3rYHvKzHWivk6eH/u3j/sB/A3/XUc1sR8k07Jfq/jNXg=;QG5bzc9nnb2Dn9XL9KhtuQ=="
+secured: "unC5pqHrOW7lo6qR+6amWkqnMmCGQ9LlNS4Xo/yrKbmTlA+aiY4tY4IjCxCaDGlewIEGBEAGpa2ns+ss8SYXLCBz7CR0Vo3BqCDwN+yeq+zFmlcTu6il/bIGoGxx3OpTQPbjMfiGgsaX6bpeGvuz1kpDHsfw6KM+TEeRcIrxzwCx3VmwBlqzKnz5YxgI1IXBj7Ih2IrmCpwI8g136PWLuT+VtF+Sg3u9izeHoAq3h3bmotrYzROUYMlVXQGD2mTwuE0C6QQ7Da2uWzcXHBgq5hAV7oql8DP59Y9UM9wB9UcD+mtNV+61X7PT094w4ktj2PQ8GjXtR3buoFpJ27EVmKsSKrBOJixSZ2ba1u/Gt8v7LNJro7Y9mL6MEniRZunD4dl888zhZuNCbjI3dCmH1Kvd0/feST9FImHctDVrMOkrEmXdcJbCCQ/3TddfeZdv/3uVwA3U9MvNBMMSTN1fbxrHZ+5yXkjRFw6k4ZLDLDIS+OtK5W2agCOZTWsm9/63fXIdSu1OK9/haXvHRi38mg==;5GvfesdqIVicJ5JR0mvOtg=="
 ---
 

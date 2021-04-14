@@ -46,6 +46,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Students looking for summer internships can make up to $9,000 a MONTH at Facebook and Amazon"
+    excerpt: "The 25 highest paying internships for 2021 were revealed in a Glassdoor report, showing Silicon Valley giants are willing to pay up to $8,800 per month to interns."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9471011/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9471011/amp/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9471011/amp/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/14/20/41757468-0-image-a-25_1618430357423.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "FkcFUj4cm2IK4wdSNNz1oNnX3uf5m+ia9FLv7fdrigyvj8tq0YD73hgLb5GW66pbLHnzEhpvx3aBHypH1FwzOm+g/6Izu9jXVmeF8iY0XRL3SWnxkTiC3vj8YPFzB3BrSBYMDcHcSAKlCJbEW9JnPjmzihKv1Xpzxi4wSyfmRMr44p3aV4VIgo/eKuoYOPJ/jBlEbt09haJMWH8tLSHchJ/+paSoUE2eDve6hc7/24AeoxZc1HhlwRyoYt7+4jk7S1fSbvqeEsy88ZiC8350haDRYU64upvScE3NLPatMZrmSUDd7K723FsW6l44gnSWFM9J518od5QAoI1CpFO1FBAiYnIrRYDtPbaaUDQruOg9266Pz1nUFmh7klSsz+VYCyEPUXC0pvYRLU5NVZPRBce7nBEq5kbw1V/nh98bcOsD3K2uwM69uYfWK/Z8GctQhHyghQSLzlozXeCc8Y4B9DhoTB7lBTUaFteIaJad6M+EyfIgE49Mlp4PE+FsFFCPfujUA1a9Pl8fr3LaZytGrg==;YddkGWJlG39ZIhsBlsHdbw=="
 ---

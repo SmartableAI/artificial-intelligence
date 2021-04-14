@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI computer vision analytics deployed to Russian port, Israeli smart city initiative"
+    excerpt: "NtechLab will provide a range of computer vision analytics capabilities to Fesco Transportation Group for use at its facilities to digitalize processes, according to a company announcement. Under an agreement reached at the TransRussia forum, Fesco and ..."
+    publishedDateTime: 2021-04-14T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202104/ai-computer-vision-analytics-deployed-to-russian-port-israeli-smart-city-initiative"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg"
+        width: 877
+        height: 432
+        isCached: true
   - title: "Evolv Technology Brings Data Analytics Capabilities to its AI-Enabled Touchless Security ..."
     excerpt: "Evolv Technology, the leader in AI touchless security screening, today announced Evolv Insights™, a powerful SaaS-based analytics dashboard that provides security and operations professionals the ability to comprehensively review,"
     publishedDateTime: 2021-04-13T12:02:00Z
@@ -34,20 +48,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "CloudMoyo Enables Data and Infrastructure Readiness for Advanced Analytics and AI/ML Applications at Terracon"
-    excerpt: "Successful implementation of Snowflake data architecture on the Microsoft Azure platform has created centralized access for all structured and semi-structured data and allows us to leverage BI and AI capabilities for better business decisions.”"
-    publishedDateTime: 2021-04-14T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-corporate-news-north-america-9633ba14bf0645d2bdd88941725d8e62"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

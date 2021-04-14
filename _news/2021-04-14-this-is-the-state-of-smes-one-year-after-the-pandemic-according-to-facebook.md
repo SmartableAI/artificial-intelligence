@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369332"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369332"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Students looking for summer internships can make up to $9,000 a MONTH at Facebook and Amazon"
+    excerpt: "The 25 highest paying internships for 2021 were revealed in a Glassdoor report, showing Silicon Valley giants are willing to pay up to $8,800 per month to interns."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9471011/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9471011/amp/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9471011/amp/Students-looking-summer-internships-make-9-000-MONTH-Facebook-Amazon.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/14/20/41757468-0-image-a-25_1618430357423.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "vjsytqeQDc1lOWREzEGPX7fpho4L/Xs7XeC0aLhxSRtCMMvgp6Y4u5xjxEHe8Hls2JSTVR+j52CuQPxfaopZ9/H4n2Lh5eKXfGWW5pEvRqfZ6S2MD9hL8f8VgFKUaYU5rarfxqICBcKVgem1NUs4QBq1WxAfY8cHXzc/XckuambKwUbvW2SxBywDoDumWpTef3YvV4xmeuZeG3jX0CBB6K2nA3PubFP/VDmc1c11jzjwD3FltZGg3s0XOGcyekp+HJXxaWBrJXyU2cc7gORNwritXkzd1+eJN28liGbBwXiZ4or/aEndPRsrJRnohDi2tK0GqmBn3/BZqDbsKjaKqmoOqBDBCcGuHtjRFx+z4sfSwXFCm+PhGfpYatVTX+r9CJbNSRhQeEY61QpL4iHwwCBuv+FzZlEYyWlxCFo33xs3Dd42kJLCx7DaW+Yu44O1+x2N0sJnX3agvNu6sESu2/r0PMnROG9Fr4IOzTReWv5w7ooHdlylQ2hrms2ewKz60vh1MJ8jRgbfMmH1C0JJxw==;OXGLEyyX+0Gt6R2ywWKnzA=="

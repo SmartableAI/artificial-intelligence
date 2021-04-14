@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-03-20-vietnams-first-autonomous-vehicle-debuts.md",
-      "title": "Vietnam’s first autonomous vehicle debuts",
-      "excerpt": "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam's first smart self-driving vehicle.Vietnam's first self-driving vehicle's prototype was displayed in front of a conference building at Phenikaa University.",
-      "sourceUrl": null,
-      "webUrl": "https://vietreader.com/tech/38235-vietnams-first-autonomous-vehicle-debuts.html",
-      "originalUrl": "https://vietreader.com/tech/38235-vietnams-first-autonomous-vehicle-debuts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vietreader.com/uploads/posts/2021-03/tech_vietnams-first-autonomous-vehicle-debuts-1.jpg",
-          "width": 600,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.vietreader.com/tech/38235-vietnams-first-autonomous-vehicle-debuts/amp.html",
-      "cdnAmpWebUrl": "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/tech/38235-vietnams-first-autonomous-vehicle-debuts/amp.html",
-      "publishedDateTime": "2021-03-19T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vietreader.com",
-        "domain": "vietreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-resume-writing-tips-to-help-you-get-past-the-ai-gatekeepers.md",
       "title": "Résumé-Writing Tips to Help You Get Past the A.I. Gatekeepers",
       "excerpt": "More companies than ever are using software to screen their mountains of job applications. Getting seen by a human recruiter takes some effort.",
@@ -1411,6 +1368,49 @@
       "provider": {
         "name": "WBOC",
         "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale.md",
+      "title": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
+      "excerpt": "In official correspondence with California’s Department of Motor Vehicles, Tesla lawyers recently admitted the $10,000 option that Tesla sells as Full Self-Driving Capability is not, in fact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "originalUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/02d3f82/2147483647/strip/true/crop/4919x3213+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2Fbb%2Ff572d3e343388d62dcdc9415a550%2Fla-photo-jan-4-2021-001.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "publishedDateTime": "2021-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null
