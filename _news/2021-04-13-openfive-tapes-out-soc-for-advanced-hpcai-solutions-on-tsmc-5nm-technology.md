@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "OpenFive Tapes Out SoC for Advanced HPC / AI Solutions on TSMC 5nm Technology"
+    excerpt: "Combined with OpenFive advanced 2.5D packaging solutions and high performance, low power, and low latency HBM/D2D interface IP, designers can now create systems-on-chip (SoCs) that pack more compute power into smaller form factors for AI and HPC applications."
+    publishedDateTime: 2021-04-14T19:38:00Z
+    webUrl: "https://insidehpc.com/2021/04/openfive-tapes-out-soc-for-advanced-hpc-ai-solutions-on-tsmc-5nm-technology/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
+
 secured: "70E+6TsJha5nalLN90w102V5qmCg/jxImnDmT393IogjT9HLMdjFTb813wv0pxnv3eWuQgDkHEzWc1Fy1TVE1Vp6+3xN7GX5Ef4YhVJLfIH9OSq5RZyRNddPcuTYPqmZ1q0BYdegLx4KJXzlEvRowuocdKBMxjcBJdUoqTujUCOvk6ttTsUOaUZBYyTjuAvjFFARDq1Zs5XZUKkKt2eqj8ufQkknmglvx7FCzgXVPsq2cnHEgQglyJAYcj+RnU4GHw3eZZ3vpT0lOtflqfX5ab6D5CHaEUucvmClnB8aK0K9o4XugnsLC4dt1BZk18wKMFOBJWfSWdIGO47Hrl8ufs0BlV4HFoEy2iCRFYRC6Yo=;rsDS0wckBNiuAPAcciqtkg=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 950
         height: 629
         isCached: true
+  - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
+    excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
+    publishedDateTime: 2021-04-14T18:23:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person"
     excerpt: "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ..."
     publishedDateTime: 2021-04-13T16:21:00Z
@@ -288,6 +304,17 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "US man sues police for wrongful facial recognition-based arrest"
+    excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
+    publishedDateTime: 2021-04-14T18:32:00Z
+    webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"
+    ampWebUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 39
   - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
     excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
     publishedDateTime: 2021-04-14T15:07:00Z
@@ -313,6 +340,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
+    excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
+    publishedDateTime: 2021-04-14T15:43:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lawsuit-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z
@@ -328,6 +364,6 @@ related:
         height: 628
         isCached: true
 
-secured: "E2r72l6i3xoODAcBbI9aI+rq42m9skHd6/IImBDDDLXz2ng7icVbdfn3EnzKancvwy9VzFp38W50oTli3G7nwt4Mx0n5RiXHHpv71tzFLZPtR2EEn1d+fWGVtqSZMvrvHcHW4QTZKUoMz86D44m/gC0vsTSvlTuZbM4mGnU7OOXJwe1bw44USvQl1V4zJ4xo0jzI3DuI634Z2XySExvxFcSwFbcmlnwBHE1H37sSJ4kQ72RKbWHIEoNwL015fbaaFZx8HKPzz1qvbC/M/7kPmRH+2NiOqakcU2EpJwdjgnAOQQTe6W4swbceuNftywfGcGzjJIHjE+WTJIKM65Pxh/rugPWixcSmTxnX0XD5lag=;uAZE+4tdCHdx5/leegd1cA=="
+secured: "lAr/2CTgpmv3RkMNI7kibWCOZf7gG01OZXVCgZFBoxI7drsvGMN/7TL8dXI/lvophEi5UpzwLtlbw1qPzmAszpVEIdYkRPgAtmNZDIfwbRvgWV1NE2sKocUc04fPwgkD70YqcoPQX1IqaeCgdoQF2qcugPpfdT4WpJYQCdjGyhfY+bLROntYQcTIOS3GN0pWJuJMNSMfyHVqN2sY5a2LA62yR4B0sc0Yqqr4khMqjulp+aSob0yKYx4Hup0GtUC0TI/zV+cjRY98cVqp6+6qbtFVvM8DWu6rY3JlSr4Nxgdvyye3Q3z+MUkjnOgL6RShjzJm0bHP7XrA+QM9S6u1AH6bGK4dqnIJ6BHsARpKSTAdIx3SV4U1MGWZH7M3TrdwzehJubFWMDUxWgfC3tGZxgttLjbV4C6Ry9vHna1FcF4owAdJxs6Tm72L0A94h7UMhaZ8LyefmGPXuwbmk9MmeB7PXauMp4KNL6rDLQdJtNJ93lpx8C2yVY6fJet7dVWQAORwssFbUqTuHKF4r5y/dQ==;bQGEkWImaHudU0npadUarQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.design-reuse.com/articles/49783/building-security-into
 webUrl: "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Design-Reuse
@@ -37,6 +37,20 @@ related:
     quality: 56
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Grace CPU Links with GPUs for Faster AI Processing"
+    excerpt: "Memory tends to be a bottleneck with a conventional CPU/GPU mix (left), but Grace incorporates high-speed NVLinks compatible with NVIDIA GPUs.\" data-embed-src=\"https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Fig_2 ..."
+    publishedDateTime: 2021-04-14T18:51:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21161267/electronic-design-grace-cpu-links-with-gpus-for-faster-ai-processing"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Promo.6077370f139ae.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
         isCached: true

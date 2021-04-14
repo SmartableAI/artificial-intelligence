@@ -40,6 +40,20 @@ related:
         width: 776
         height: 831
         isCached: true
+  - title: "Grace CPU Links with GPUs for Faster AI Processing"
+    excerpt: "Memory tends to be a bottleneck with a conventional CPU/GPU mix (left), but Grace incorporates high-speed NVLinks compatible with NVIDIA GPUs.\" data-embed-src=\"https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Fig_2 ..."
+    publishedDateTime: 2021-04-14T18:51:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21161267/electronic-design-grace-cpu-links-with-gpus-for-faster-ai-processing"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Promo.6077370f139ae.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ivh++uOlnCUvIKtS3zjoO3HVJ3UywHMLQYBRd6iVO3xrJem7vx4hNHJM6+8qfH8nUaITSl3L0TdrxdrGPm1ZjjKowBZnsI+6mNjJ7/kuaF1FslyCLIEbZ1/j1JwvZStYI/ArwieJSkWPIOi+OE1hAKatoMeMbBpBTsDYg0bbv/Qt5SdxhsLdmThvbMKJXen9qTL63S/RtgvhMbeCG/v+zMaulkKoF1XPmn60Nrv/AUm6mp6avllWx9f0++w6U3AArsYKwcJFMJjn45OuvBeSzzCeXF4HoLTsavuxnjsfh2rzd4Pt966+LNegxrg6YnIdP0eDzOFohiL18emfP7iqbgEifRI5SdeT7e57TGdrA1o=;5wNQwYHklNXYbIFPewmbJA=="
 ---

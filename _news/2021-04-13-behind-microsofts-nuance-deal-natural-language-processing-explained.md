@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natur
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
 type: article
 quality: 121
-heat: 1113
+heat: 1133
 published: true
 
 provider:
@@ -619,6 +619,22 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54796/content/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion.jpg"
         width: 708
         height: 531
+        isCached: true
+  - title: "Here's why Microsoft made a $19.7 billion bet on AI giant Nuance"
+    excerpt: "McQuire's take was a bit different: \"The long game is acquiring health data and making Azure fit for purpose for the health industry. It is also having a set of proprietary AI solutions and algorithms for a range of healthcare needs that will differentiate ..."
+    publishedDateTime: 2021-04-12T22:50:00Z
+    webUrl: "https://www.windowscentral.com/microsofts-nuance-acquisition-what-does-it-mean"
+    ampWebUrl: "https://www.windowscentral.com/microsofts-nuance-acquisition-what-does-it-mean?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsofts-nuance-acquisition-what-does-it-mean?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 74
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft buys AI speech firm Nuance for $19.7 billion"
     excerpt: "“AI is technology’s most important priority, and healthcare is its most urgent application.” Nuance’s products include multiple clinical speech recognition software as a service (SaaS) offerings built on Microsoft Azure. The firm’s solutions work ..."
@@ -1280,6 +1296,20 @@ related:
       - url: "https://static.standard.co.uk/2021/03/15/14/SITETechScience_NEW_final_3x2.jpg?width=1200&width=1200&auto=webp&quality=75"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
+    excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."
+    publishedDateTime: 2021-04-14T19:50:00Z
+    webUrl: "https://ca.investing.com/news/technology-news/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2407357"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg"
+        width: 728
+        height: 485
         isCached: true
   - title: "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal"
     excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price."

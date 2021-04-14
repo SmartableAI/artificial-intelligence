@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2270280/healthcare-information-technology
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270280/healthcare-information-technology-market-to-record"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 628
     height: 385
     isCached: true
+
+related:
+  - title: "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption"
+    excerpt: "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market"
+    publishedDateTime: 2021-04-14T18:34:00Z
+    webUrl: "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414438461_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "eQ2vi7CXZNo4+T73bCQO0ec741y26pOCLEbjHmPgz4KqxiAK1fOR2iTEz3p1Ft/RCu6Ivtgz2DE7hB9FutClhBptGNKjGHiHHEumpuFEKgyhCK84UYgPLbX+ccCObfHnYQjLY3yI8eTMOpqodOWMGdyMffopEiqsWo3aCj9k0b0SmnaEDelSrIMYprXWxjpqe5Jt+bzt0QU564/b9TtAkMfwU9FPAC4liYm2Ds11oJukdK4Z3tRGcu6re5k7g6cybg2aSDWbGmC7MQcL/Ejs3XnI1GATYfS8w6U/BEIHDjtfk47FYGPsxDvZqdizjjF4gWWlfuITYFoQxDX1JwpYBWgfndneEqDB5CqhJ++6EPf5t1MJubvye+d5e+oU5s2F7heOqobWB7czjQUXBdxfu1N4rdpvlQlUlh/I3ztH12wU+CKUu7kxIWlxI7ecQZ1dt/oztyik9SwkWa59g3nNSNPBpcYGBklkzAaqvbvIurtOINukEgEcwyvyu+LsY17wbalAVH9gOaM1WuJzWAb7aQ==;J0BTQbdfingjVz51BSPR0Q=="
 ---

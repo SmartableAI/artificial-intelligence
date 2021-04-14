@@ -3,12 +3,9 @@ category: news
 title: "Advanced satellites illuminated by computer vision are changing how we see the world"
 excerpt: "Satellite imagery, computer vision and deep learning technology are driving applications that protect wildlife, keep people safe and enable more efficient growth."
 publishedDateTime: 2021-04-09T20:17:00Z
-originalUrl: "https://gcn.com/articles/satellites-computer-vision.aspx"
-webUrl: "https://gcn.com/articles/satellites-computer-vision.aspx"
+originalUrl: "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx"
+webUrl: "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: GCN
@@ -24,6 +21,6 @@ images:
     height: 368
     isCached: true
 
-secured: "TJKvsXem1wZjU/mFNo7SH5vJX3AdaQw+AIx+VPcixBuE/jLJBd26h+qbnxXYCsO5TgkIcU9e/vscrzDOTHaBbG3aBNTDc5hYkuU97RSIKAyZjlWpmFfzDlT5OPWfHJ8dNqNvwAk81Bez2VV/NwilKpq1Kvi7rjlMlZmWNCmBwLnA9MNFiNMhfcQAZHAdz2SyPqfOxjDL+h/GUbfCkxJ0tdfeEoT9wqmhEl2KUDlMN9O8GjiQcpsK400xGcXtgR+19TbOpCaPsyYrhlNk/4oAULgzu5W8Le65vzOzvSUSA066gRMQSoZPQU65bdKicz6jD4L3xEDm4n/1D4VcRdHBtpfwihIVM35NUtXSy/mFEGNLoQzYQGn9MZFcS38/R9sJZN7AuPgSBLpy4ATwGXaEMv7qs7o2ERTTNprhDc1FLuSFnxsZLLtYU8GHQbDOI271tZVEzgtAOJrmJa/O9JU5D3W78I02BlebwOXd8nMf6CqXEmkdNr0pHX0puGmZc25xkZJtCehBij4GusZ1Ck4KYw==;t7iwNuU+O4wiKItTcZzl1Q=="
+secured: "1t3QiD7A8tpHrF0YQSikMt+M18N5M4HksLYnn6C0Fg005Cb3iULHogknOmhIYUigt7rwPLb0qZZiA20qKimVy6tXAoqjyWD74npaoRANlQAVCjRe5slgTTAm1bgqKSmBHuGfVuk/nfLKzHwdLMLLD5aaoRHoGDr7+uVCl28Ys5niiB6Flw1KEOvn7zJyT7mpCumRlbwXrUUk2jz+jU5AhLwN96spyWTihWW9xU97h0JOYRekKzbVCavbBWo4qfLd01tkUBOnQffMWEkvM1O5+KHnzrvjYskqhZr/0NqWDZF92+E6UftQTOoau1R4vXqfmKDmDN6N27tWz6/y5mGBNlXpEkuGZkM0WdTB0T1x+0E=;1N+LfpZlonaaBv+7lcMVNA=="
 ---
 

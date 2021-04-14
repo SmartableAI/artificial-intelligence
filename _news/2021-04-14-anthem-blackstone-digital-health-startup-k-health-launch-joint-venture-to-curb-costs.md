@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcaredive.com/news/anthem-blackstone-digital-heal
 webUrl: "https://www.healthcaredive.com/news/anthem-blackstone-digital-health-startup-k-health-launch-joint-venture-to/598376/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,48 @@ images:
     isCached: true
 
 related:
+  - title: "Anthem, K Health team up on tech venture to create digital-first healthcare"
+    excerpt: "An April 14 news release said Hydrogen Health will lower healthcare costs by using K Health's artificial intelligence technology to bring digital-first healthcare to the employer and consumer markets, with both virtual and in-person options. The investment ..."
+    publishedDateTime: 2021-04-14T17:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/telehealth/anthem-k-health-team-up-on-tech-venture-to-create-digital-first-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/telehealth/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Big Tech Moves Deeper Into Health Care"
+    excerpt: "Microsoft buys a speech recognition and artificial intelligence company that could help it make medical record keeping easier. Amazon does more hiring of medical experts."
+    publishedDateTime: 2021-04-13T12:47:00Z
+    webUrl: "https://khn.org/morning-breakout/big-tech-moves-deeper-into-health-care/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 24
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
+  - title: "Mayo Clinic launches two companies to create digital health care tools"
+    excerpt: "“Turning data into wisdom” is the goal of two new complementary digital health care companies launched by Mayo Clinic ... of Anumana Inc. and Lucem Health Inc., which are working with artificial intelligence and medical algorithms that tap into Mayo ..."
+    publishedDateTime: 2021-04-14T07:14:00Z
+    webUrl: "https://www.postbulletin.com/business/technology/6983498-Mayo-Clinic-launches-two-companies-to-create-digital-health-care-tools"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 24
+    images:
+      - url: "https://www.fccnn.com/incoming/6801003-x173z1-3935744_0033.jpg/alternates/BASE_LANDSCAPE/3935744_0033.jpg"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
     excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
     publishedDateTime: 2021-04-14T13:01:00Z

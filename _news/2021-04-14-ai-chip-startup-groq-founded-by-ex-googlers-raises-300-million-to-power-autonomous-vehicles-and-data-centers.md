@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 980
         height: 587
         isCached: true
+  - title: "AI Computer Chip Biz Groq Closes $300M Series C"
+    excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
+    publishedDateTime: 2021-04-14T18:15:00Z
+    webUrl: "https://www.law360.com/articles/1375106/ai-computer-chip-biz-groq-closes-300m-series-c"
+    ampWebUrl: "https://www.law360.com/amp/articles/1375106"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375106"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
 
 secured: "P6aOg9uAhlQaq809dbh8xrA6A+5wCYWMCCI8yPYNTB+bqxbH+z+dRpYNEsKczpyWD0cJs3wR81Yv4gPLNWUSSJwBZhIy9UMqZILKoGtlD0zdo8KSRZ9mVb8srt/9nMVIpGW0e5+Aq8GIvT3MCgcTCu5p40aH1+FNQlFh9ZlMQbGmBsVfDKOoNtVcNBnj3lVzPwuBqadLkYy+YBM07IKOs/4ROtm+g0kOXgZvCA/28P0GhiCXikRThs0Lju3FYErSUmp36pV4FateMX6Sc1i0Ab7rA6WAvb/0DIo+z2QCPNEywmUv5elGh/19FnW1LxzHtUNeJVUIJMOe5rhk61O4B85CtNuvuPvFAFF1K0myr1lRKklA4t4UHXousv8XYEQw7PTD0idf9CSQvKUJk0fbTfLbosuw1/OvFeUwJY8qe9zoWE+aRjjypVhngrcXM0fg8NfMRwSVjp4Z0JbBVXGuYNul5p+GtdlXBtqb3TFhcX3K1YrjwReblFUnwZSzoR9lRepDZCm+bQtidPwsYBQ+dQ==;QDT8rXoU15nQikZRd27arA=="
 ---

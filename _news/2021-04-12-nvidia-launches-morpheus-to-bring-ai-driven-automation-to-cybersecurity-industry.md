@@ -59,6 +59,20 @@ related:
         width: 492
         height: 328
         isCached: true
+  - title: "Nvidia Launches Jarvis Speech Recognition Framework"
+    excerpt: "including real-time translation and text-to-speech in addition to basic speech recognition. In other news, Nvidia has formed a partnership with Mozilla Common Voice in an effort to improve the Jarvis platform moving forward. Common Voice is an open source ..."
+    publishedDateTime: 2021-04-14T19:24:00Z
+    webUrl: "https://mobileidworld.com/nvidia-launches-jarvis-speech-recognition-framework-041404/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "lpHTscTdiz1IoBJj50H30vNRGx1i5g4LvigPK6Iu0ejfuG2QfcGT3B9htzXegv3TG9WMZMN8PfsMQT4qxAU12eBEQrSoUrUBqboPsef6nopb+xTOA/Ha6F6yvLmQY0rfkJE3uDAMqa9XNNm96wr9EBpqxzIHbhto72enj8quOvHKwm+YumwBe0tWR35JKOsRMREz3AhgEaeIOH6hgApcYRpPshxUfs/nZYpCVL6cQfz2OKKPKl21cmlp9mbq5KfVhq6BlVpY0RfO90STvCL0kIiigvfhGIWAS9j3TJkKzvNkazMP7R0GDMF9n999DsxvJPzQRKDz8TI/JbGiipEfB20aofh/sV6URxaNKbx5uvI=;+H/jIO2zx4pFIWwxARhGGg=="
 ---

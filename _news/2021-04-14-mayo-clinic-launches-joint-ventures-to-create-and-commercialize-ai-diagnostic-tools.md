@@ -39,21 +39,7 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Mayo Clinic launches two companies to create digital health care tools"
-    excerpt: "“Turning data into wisdom” is the goal of two new complementary digital health care companies launched by Mayo Clinic ... of Anumana Inc. and Lucem Health Inc., which are working with artificial intelligence and medical algorithms that tap into Mayo ..."
-    publishedDateTime: 2021-04-14T07:14:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6983498-Mayo-Clinic-launches-two-companies-to-create-digital-health-care-tools"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 24
-    images:
-      - url: "https://www.fccnn.com/incoming/6801003-x173z1-3935744_0033.jpg/alternates/BASE_LANDSCAPE/3935744_0033.jpg"
-        width: 1140
-        height: 712
-        isCached: true
 
-secured: "bz1GuTsrhjXWIXu+NNBFhYkaoAm6Dl0uGfGrc0RGEztTR+DH4n9z4zBVUijAg7kXf2It0PaVfi390SC8WX9VDZ6iLkyLEuLlSbLh3IPPHD3aFvS8IlP77okmzaIQEMefWb24QfN2Zx/4tPvJJsjEn7VsZqjND5lMmpxLvnOpt5sVrNNVcJ3UtO9OeXnneOsRNPzHAXbzaHZQpXQoSbI9kuNHgeJ8/FNwhDg3+x1TBOp7HZbC1A+QiT9BkGswnHpZUpT24rpDGCOJDGtAoB9K0c3mStQbs3DcirTAh1fQ9dl+ysf3cnrsHmbghLgI0ZtoENf729m+NoJwzv5+2Z06rG3ZkiKuhp2NTBwzNuhYorM=;7cs2b57lVg6VeNPeeWkkNQ=="
+secured: "hros3wu7La0OQ08TxMPiuTlM56YIaUk/kUTAgVbXOeU4ptJJF7G664tCgj/yjkoU97h6F5KyOCetzLCPWzW9nYUnUaYj0dE3LZjfk7f3Yzmtdg0gOYb/TM44ozY/t9hi4BfaTKAjGmx2wcqaWv8MbxB/o9EbNvH55zhLbsbiHI8OaIaI25MESYptvK5o88R3fw4UqQaSue9dKnZTMK4WPn7WBpqzMsYsXQIBWljPe/vdTPfayxl5Vg23skcejWowwFlHr2YJgbULCRWF0zvUbnwoNDPE8A5Ug1qOQ0jpMS4rrcddmjBL37mzv7+GJHQVofQR206kjXI8Lf4VhjE4p7QGgeYgx5HTMMeM2gFQn77iSEWLHEZmB8GbqHZ0fKr/bfbJTCCTt2U9dyvZDOBUc+vGewvEmTf2PO3u34iPvcE900Jq9JXDY5ibqgjoLe0zMwrKjGmoZjVfJtrggiPuT6sSJIHkqKDFnV+yK9KYfsB9PuEwM3klhTbGsgRQ8mu7218fA2soW4hm5tZ/BQ8BgQ==;tbYR5LY6Zy3aJC4QYoK3vQ=="
 ---
 

@@ -59,9 +59,9 @@ related:
   - title: "AI chip maker SambaNova raises $676 million, valued at over $5 billion"
     excerpt: "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ..."
     publishedDateTime: 2021-04-14T01:45:00Z
-    webUrl: "https://www.reuters.com/article/us-semiconductors-sambanova-funding-idUKKBN2C01MU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C01MU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C01MU"
+    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding/ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion-idUSKBN2C01MU?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C01MU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C01MU"
     type: article
     provider:
       name: Reuters
@@ -71,6 +71,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
         width: 363
         height: 545
+        isCached: true
+  - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
+    excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
+    publishedDateTime: 2021-04-14T17:56:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg"
+        width: 538
+        height: 411
         isCached: true
   - title: "SambaNova raises $676M at a $5.1B valuation to double down on cloud-based AI software for enterprises"
     excerpt: "SambaNova — an AI startup building hardware and integrated systems that run on it that only officially came out of three years in stealth last December — is announcing a huge round of funding ..."
@@ -149,6 +165,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "lvya4I5LDvJ0EpdMtbSVSHmifXg57W7prSk8HdzLzONNUi0Q7uqn3hHLmzLE86kz7T6jM63GRlBh6f0ujQZnvbL0JVTKYB/+KNCHUrSNq3c//Qrt72yKk5aAsQQuKKWhsTvL+hwxX8QJxeBTF3BRcMqVfr5iz0iXSC9VloMgUQ+RLe60+57MsjJavBT23T0B4sehij/oFX1A7mi9PtZMpOCIGX0HFp/UKoJjAF0paQXSL/XquvDTPr2C/jJyy4w1AWEozmiBeFVvdzDldys51Z2HLY/leziINyr7SUmm5vAzg9YZgBTSdS6QcM5TLiRgZdZNvJeptMbV2MKEYyEAv/Is+U4lHgsh9Md55Umb48A=;zp0S+ZJcpaXcyFva52CHKQ=="
+secured: "TeCJUGBpPXFYI6iA4pJS4bETbXsVl4RjplBaXJ1d1nFI08ITnQhxSoEB82ZEuxSk8jcuDmDtb6Z3mcbjCBwXoTZBQQ8ZMktsPINgxhziXyj5A0jTsTM9bYB/f0ilImnU5R+ehV33wegNgyjT3TxVk/NQ+m9QT4tlh7TICnPXcKcIk93QyvWQualpkthlukrktFvtMBN0cWzljWswI3WX6QKFNdNokHuVUQNkmWYh1ehWmXmbrxqX8vVi+slFoRFRN4F4v7vrCIucFjNKCMZDfXenJMy/9nv9p6wV+IJmJmn8NwVJKB375K8Rs0hdxqWwkdMBuC2R40EWGmp/o6AYNsfBFPElCJjUg6AwBLYZ8ZWfBysYF2a/d0/AmLpf/XYMvMmRgW8rDc+4p7/nwERD7N7Aw19kkwQaObL63fEV4IIaUNLcJZRDh0vFKiFspWXaor4J/qh0aDoKeIOBz30TwJz+wTyvxKISP52C2N7v9dCCZbARV+/xWBHxNK6nc+kv0R3a/eCYMZmeoVxYo0VgRA==;UGrdbWzu/vHGkXvFy769IA=="
 ---
 

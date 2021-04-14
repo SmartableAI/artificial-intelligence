@@ -75,6 +75,22 @@ related:
         width: 950
         height: 629
         isCached: true
+  - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
+    excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
+    publishedDateTime: 2021-04-14T18:23:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person"
     excerpt: "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ..."
     publishedDateTime: 2021-04-13T16:21:00Z
@@ -274,6 +290,17 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "US man sues police for wrongful facial recognition-based arrest"
+    excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
+    publishedDateTime: 2021-04-14T18:32:00Z
+    webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"
+    ampWebUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 39
   - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
     excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
     publishedDateTime: 2021-04-14T15:07:00Z
@@ -299,6 +326,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
+    excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
+    publishedDateTime: 2021-04-14T15:43:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lawsuit-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
   - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
     excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
     publishedDateTime: 2021-04-14T16:51:00Z

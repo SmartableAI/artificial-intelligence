@@ -25,33 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Mayo Clinic Launches Joint Ventures to Create and Commercialize AI Diagnostic Tools"
-    excerpt: "The AI and medical algorithms from the two companies will ... will enable a comprehensive translation of the language of the heart. We think of it as the Rosetta Stone for cardiac medicine.” Lucem Health was launched by Commure and Mayo clinic to provide ..."
-    publishedDateTime: 2021-04-14T12:10:00Z
-    webUrl: "https://www.pharmalive.com/mayo-clinic-launches-joint-ventures-to-create-and-commercialize-ai-diagnostic-tools/"
+  - title: "Anthem, K Health team up on tech venture to create digital-first healthcare"
+    excerpt: "An April 14 news release said Hydrogen Health will lower healthcare costs by using K Health's artificial intelligence technology to bring digital-first healthcare to the employer and consumer markets, with both virtual and in-person options. The investment ..."
+    publishedDateTime: 2021-04-14T17:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/telehealth/anthem-k-health-team-up-on-tech-venture-to-create-digital-first-healthcare.html"
     type: article
     provider:
-      name: PharmaLive
-      domain: pharmalive.com
-    quality: 33
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
     images:
-      - url: "https://www.pharmalive.com/wp-content/uploads/2021/04/Mayo-Clinic-Launches-Joint-Ventures-to-Create-and-Commercialize-AI-Diagnostic-Tools-BioSpace-4-14-21.jpeg"
-        width: 625
-        height: 350
+      - url: "https://www.beckershospitalreview.com/images/channels/telehealth/5.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Mayo Clinic launches two joint ventures to build, commercialize diagnostic AI tools"
-    excerpt: "To start, Anumana will be tasked with developing ... “We have a rich pipeline of ECG-based AI algorithms and we are actively pursuing FDA approval,” said David McMullin, chief business officer ..."
-    publishedDateTime: 2021-04-14T11:30:00Z
-    webUrl: "https://medcitynews.com/2021/04/mayo-clinic-launches-two-joint-ventures-to-build-commercialize-diagnostic-ai-tools/"
+  - title: "Big Tech Moves Deeper Into Health Care"
+    excerpt: "Microsoft buys a speech recognition and artificial intelligence company that could help it make medical record keeping easier. Amazon does more hiring of medical experts."
+    publishedDateTime: 2021-04-13T12:47:00Z
+    webUrl: "https://khn.org/morning-breakout/big-tech-moves-deeper-into-health-care/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 31
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 24
     images:
-      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-545123748.jpg"
-        width: 724
-        height: 483
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
+  - title: "Anthem, Blackstone, digital health startup K Health launch joint venture to curb costs"
+    excerpt: "Anthem first tapped K Health for its AI technology in 2019, investing tens of millions of dollars in the platform in a bid to better triage care for its more than 40 million members. K Health's app allows consumers to screen medical needs past an AI ..."
+    publishedDateTime: 2021-04-14T15:27:00Z
+    webUrl: "https://www.healthcaredive.com/news/anthem-blackstone-digital-health-startup-k-health-launch-joint-venture-to/598376/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 14
+    images:
+      - url: "https://www.healthcaredive.com/user_media/cache/16/3b/163b7d82955a8111c9f01701fb3f90a7.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
+    excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
+    publishedDateTime: 2021-04-14T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nuRN5inQZDwG4p7DmEDZO1iXP9fvd1c4ya9rhP7t86KVbDWz6QMTuWXoEK7zNu9VUnHqC1je0aIodglU2t1dJ14VxrtBc0apb3GlO8KRnKxBGyOjBJ53r0p4ECti3OctQLMMKGrPcs+EvmhrBKSF3s7pOqPOweHCNMnCZ3DqR5DBu56KTYDdnJSqfiRrSL9KErLrwukL+HARbgh4IWZ/3elhrgTE7mA0XGLPqR/nReNFXafRKAlIbwY1WZ6R6gNRP9pdVPiR+skWzc0IuzK/02waRz2GACZRNky36V+LDSDC6FLn5kXzE5XZVIedSJDQrjeO0Y6egS/1e4Xhl6fKvVU4DdydMYUYRmUgO2OyTmI3hu6wnTr4l5ufem4ICN4FKWGJAGOKLjXJukKO78v7FgTZia/LSBqhQ1FEJ9GM0Ry5QNuCnRtsdQ/MxXd4uo46LQEVq7GfCkKyd+FdsZAnoYdyRfOa3Gy6xfOrWsoqKkyAKk9wrBzTkdrWqyqWQEjSWkTaGuhkIc3dc5PrVi8L5Q==;HVhHkZwf71/DAI/XYptBGw=="

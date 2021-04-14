@@ -41,6 +41,17 @@ related:
         width: 841
         height: 641
         isCached: true
+  - title: "AI Computer Chip Biz Groq Closes $300M Series C"
+    excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
+    publishedDateTime: 2021-04-14T18:15:00Z
+    webUrl: "https://www.law360.com/articles/1375106/ai-computer-chip-biz-groq-closes-300m-series-c"
+    ampWebUrl: "https://www.law360.com/amp/articles/1375106"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375106"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
 
 secured: "QZ6F2t5MVb1yOJ/Tmd5aozTVfsiifl5EurkPXC9roGvxErUBGiZxqkZTfLbJ3Zd7ehyEjlmUG0OXdJpRs+AE68P9LHbyc5QAU0fn8aUj5cR8FDNiC/6mO29DlJWN1KeZ63RLLnGkWlGSWA1Xri7AeWCK0kEuOl1YL1ehJCtrgyEF3AY8fk05y556H7xeUa/T9ZoH8zxN+4hIGRvfYC+KhIxydHCJf3Mk3sOOTmeBg12U/nnaeiIjJrcjBY48XsxNB+bJUwY0dqzwMEoDcCQtGVvRY3t7lWcNtJPX9p4FsgllxIdhUnPm2AdF2zt9va+mqbzOcpWOGH8rITsAPrOb3RB/UQIofk/Ok84bpGOtxdRhwFmdNr+wXTM3xeIs+l4OMYHaI8y14rkrEShJVZwL1DvIqLP8MBABfmS/RvBComYLidcIEy8CNbqRAv7LaJZCVzFqPj031dQs9KqKGwbTAhCOje3hkm9EuZMQSGzNQBkxQ30dla4ZbtftG1f9xUFs79yyIrQyh4aDZ6CMvXVg8A==;m4B9YHtyRre7Ec5a4mMIHg=="
 ---

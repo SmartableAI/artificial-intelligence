@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nv
 ampWebUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all"
@@ -41,6 +42,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "l8LW6WQEX+y/0h9XByRqQFQfsxq9RWkQdSc2wz/CPVP8SLSH63o8HT1WLv8qG9NX4A590uKihKEptcEsheCkxUvo1gUyaySRj/XLG0SCcU8XsYqaw1s/drhctdxIYxELdPKuTnJulY5dFh5ncKQQp8uUxaVFyXJsd70aNMmecMOdkgf5REgcQKjbdaTuKXVK4k3M3BWidQTZLk71s8sO6hV18Q69hrYdLpyy+hwF7aQixdnpvYzBIm97/klP4b9V1JD9vFuwQyRIxVXhYWcQNwVzxfWKNvYqK6nr4k12I22pNxt53vnLdnQPTlhV9fsSMk8jjRvtDQJVO0k18NyMp1VeQ+doo09PEO6BgVnIIbQ=;sOjFTBt2aq/xvMuqT+Nf2A=="
+secured: "v7vjUUEyXGtvWfOToNO0QzIDU7fiI2gEWBCu/tBqL34abEQf2RAVro3w8S28mJSXiPgfK5S/9YbOCH4ttZ7oeUTQkZAMzW6xSu+o6CKvRTSluGy+Mh8Ap1tP+jE/6+WwkanSpIBgzYjTrNGO1jSceQUc6PZbQvT2Boye81KIpR7ltBLw1MTLUgl2UwHfxHCtcqjV8Xczq8MFdiTTiwnHz5+Dto8HO35NqdrsxRJXJGuPyWnUB9/R1l+QUFrOnDROT6ilW0TUqo63kGfJ0ayCsX7KGlEBYigpqMBjyR24XgE221EgsLepGst2rjqMbwEdMhDT4UOBhzfsdBIxgG1sQZI93+8Aewa57NDngZBzvWAnWvSKeGgL3rO8D+VsHzqyqj1I1zj4t9fnOeVt0p4nvF+TOjTaYoeCeyNQYpUhKVdu+PHWWnvt9LGnk4dck4AQExxHX/1fw0zIQEtIrvMvGryey+grsWj7Up3R2S9oMQ6CVMWhinhehdCuPSlsbR2aIVBMGyyJK2MAZwLoRR//sw==;8e/tGhsLI9iIqxbPPOFDMQ=="
 ---
 
