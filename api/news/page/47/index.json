@@ -2,6 +2,92 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-03-09-roborock-s7-review-setting-the-bar-again-on-robot-mopping.md",
+      "title": "Roborock S7 Review: Setting The Bar Again, On Robot Mopping!",
+      "excerpt": "The S7 is the latest line of robot vacuums from Roborock, after having the S6 series the last couple of years. The main upgrade with the Roborock S7 this",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
+      "originalUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-Review-Featured-AM-AH.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
+      "publishedDateTime": "2021-03-08T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-the-amazing-promise-of-artificial-intelligence-in-health-care.md",
+      "title": "The amazing promise of artificial intelligence in health care",
+      "excerpt": "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and to find evidence of strokes on brain CT scans. But what does the future hold for this emerging technology?",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp",
+      "publishedDateTime": "2021-03-08T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-debate-over-accuracy-of-ai-transcription-services-rages-on.md",
       "title": "Debate over accuracy of AI transcription services rages on",
       "excerpt": "An absence of natural language benchmarks makes it difficult to assess accuracy of competing automated speech recognition (ASR) platforms.",
@@ -1108,110 +1194,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-ethics-by-design-salesforces-approach-for-positive-ai-and-product-development.md",
-      "title": "Ethics by Design: Salesforce's approach for positive AI and product development",
-      "excerpt": "Paula Goldman, Chief Ethical and Humane Use Officer for Salesforce, talks with ZDNet about how companies can develop technology, specifically AI, with ethical use and privacy in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ethics-by-design-salesforces-approach-for-positive-ai-and-product-development/",
-      "originalUrl": "https://www.zdnet.com/video/ethics-by-design-salesforces-approach-for-positive-ai-and-product-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/06/28c1630a-e889-4479-85f5-a59ef81dd7a3/thumbnail/770x578/19da9fcdb681973da5d39cc507cb6708/20210305-goldman-bill.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind.md",
-      "title": "AI ethics: How Salesforce is helping developers build products with ethical use and privacy in mind",
-      "excerpt": "Salesforce's Ethics by Design program is designed to put ethics and privacy at the center how technology, specifically AI, is developed and used.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/06/f61cca19-4238-495b-b284-c0ffc577482d/ehu-pgoldman-square-385.jpg",
-          "width": 385,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "publishedDateTime": "2021-03-07T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

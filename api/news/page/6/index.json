@@ -477,6 +477,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "ignio™ AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-securiti-releases-ai-powered-data-privacy-and-security-platform-to-provide-unified-controls.md",
       "title": "Securiti releases AI-powered data privacy and security platform to provide unified controls",
       "excerpt": "In addition to catching Cisco’s eye, Securiti has landed on CB Insights’ list of the 100 most innovative AI companies. The company has also raised $81 million in venture capital to date.",
@@ -878,8 +912,8 @@
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
       "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1154,49 +1188,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-googles-ai-software-used-to-create-new-nirvana-song-drowned-in-the-sun.md",
-      "title": "Google's AI software used to create 'new' Nirvana song 'Drowned in the Sun'",
-      "excerpt": "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html?fbclid=IwAR31-Gc2UV01Z2wtUqGmIqhxcLGkE0AwiEQS51cJ8-f81-rqjrBeeWik9is",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html?fbclid=IwAR31-Gc2UV01Z2wtUqGmIqhxcLGkE0AwiEQS51cJ8-f81-rqjrBeeWik9is",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/07/23/41470126-0-image-a-37_1617834438114.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9447099/amp/Googles-AI-software-used-create-new-Nirvana-song-Drowned-Sun.html",
-      "publishedDateTime": "2021-04-07T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Facial recognition tech being tested for US flights"
-excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
-publishedDateTime: 2021-04-13T18:15:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
+excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic tra"
+publishedDateTime: 2021-04-13T18:51:00Z
+originalUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.html"
+webUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.html"
+ampWebUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Narita airport starts facial recognition trial run for faster travel"
@@ -81,6 +77,6 @@ related:
       domain: japantoday.com
     quality: 34
 
-secured: "+VCITXw1Cs1/lkbwxTzKXgHQDWEaDEEY5vm+CMhT2eAPpRZEO5NJAy0wsUprBug6orO8zhHZNyZEEet/3Ms6MAtb91dbbpGDZKQtP+oWm+dHNfeHQwHOCgLVZOqDh5xXSdhQyzwqazebnsYJ4Mqz/nQ+5ch4eBwtM9FpNRrpO9pJn/0YDKti+AQJOOWaSw3WAp974v8gmo7FKsUSa/r2Idt3butnW6FAgqlTVZx4Kqq5LP5TVcDTdJ2dqdkuE3nzYVlXL3RO2T7I8ysuaOIc3gLrbQwcrP3P1rlk8F3OAHKfQUHrrDMxqV4DJf6KExxiD2uOk0wIcH+g0/CAWagHetyh6wWiIIWknARwA3Nw55Q=;DrV8hSCd568QBHGjVPxwrQ=="
+secured: "zq4ZbUcSC1bzDDU8mQUTon/Vui9WGOa/yXdDkMU9w2/5JgkOcwjAUe0jv3CTiAuzUb6zrQ2aSIxMc6zncwxq76HspLKFNTxAiXgM+Gou8rMMBJCC76b5OPLEd8m18NTiMbWJ0noCHfpjxUXPN1UdoCry7RnoIeuV0YgU11h9oeq07MFTxZdKhwJh9st0BrRbXCHUvH7qB/AekbmfK0CmBxzkFxT+/a0UFa/5SMfYDqCZnmB97bpfHIVtod9fF4ZS/I8ep5qLbzyoVXQnrAYA8APWIPmil7pxGQul5Y7N4VvdLpXNvtXj6uklBDxMqDdUVMCqM0clWq9gaWN0ouP3tpmYiwGxdXojghwtOxIQNISlsuVxchOJo2J3tBbIXQlodY4t376uTINzvjRWvD7clUwPlGDHz2Iib5ltCU4cDnReZd7encPPMHNZ/YGILqytKSwQNaELzMDQF7pVwN5U2htzb/oheAmyuDZ5c5va2DidB6y9mQrVko0lTJywVpXyQHwSw29Ej6mwLGYYe80uIA==;2Epd5BTo2gFf+bUmYUe7Xw=="
 ---
 

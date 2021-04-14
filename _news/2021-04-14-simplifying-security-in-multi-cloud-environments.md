@@ -3,16 +3,16 @@ category: news
 title: "Simplifying Security in Multi-Cloud Environments"
 excerpt: "In doing so, they have adopted three Cloud Service Providers (CSPs): Microsoft Azure, Amazon AWS ... The platform provides predefined policies, advanced automation and machine learning, enabling generalists to manage security across cloud environments."
 publishedDateTime: 2021-04-13T18:28:00Z
-originalUrl: "https://www.armytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
-webUrl: "https://www.armytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
+originalUrl: "https://www.navytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
+webUrl: "https://www.navytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Navy Times
+  domain: navytimes.com
 
 topics:
   - Microsoft AI
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "WPKCSjp36gCqebpMpg5FseB3noyookb1+2cMG23AXkwjZ9AkvO60Cl4mAsiNC/Tg5s7YUHnGCfbEuj8M0y7Mgo8cjGvDx8ViHl5uOWWJFAnoaxfnJ0NV2/3YXmckV93+UXslVNg+S8GBVoR8u7ntCYA6MyUD3shdohuL/phPDMITCxfquRpCUdtmuJbgQfPgpOI9p59EGOxHKXtxTnDN5AiH02Fe+ZIqePqOa8HcwR4CLRDPCfGFpdzK1ptUkoILMMYouRIKe+EEpBiojDj+vSJcTcokBDGzoV7xjKDjjqgYzuB6eDmCqMR5MY8h1ZzbnF0lgRUwGCkCdl7+AtEyrazxGbcG+e2FK5y9KOGyr5OzUsNRBc/EegTfU/AD/KZ/WEeKq0rXPJeiAFqZDsw75Vartgzu0nsMuLaT6Atb9JI7CgTrenzcmtYfYePDEBq0ES7P5oBqfai2TM6q/xXfqMmkleKGlORXZuD1PlytxqyMIJOn9N70wKZJuSAmlaErn1wGadqq2J1TenSfO4KbeA==;F3I5jARba/qNI5qjhL+RHw=="
+secured: "trJru9DYlhZzN8vmzteJu9nHTizBgu6HfOqO8D3Fb6MJ+7a7AQELA9ckqYIEFX21wDagkqeYSC4yVuU1J45DtZkzO2/hCxZFZ5FPHN12Zrckpz3t/WM52aZ7FjP3vIPra5ALdHt6qkc28QUW8hdXZKhLjhgDty1tzHTSuhuNFJ0Y5YNWEvRIqDZ73Q0/DPtLnR4kCzOEoBL8lmVUwfnOCHrhRVQgV6SvcL0F9A33eICYECxauZpr64wZmZrd4QKfajwQdZJBeeERL+60UC12nNVka+Rmtpl9zfzm8EM5KJ+fc5ksoaCOoDRAfA6KBUduI5zKsOeKpWmPrs6P2ucaP/h7JbicrGe8dRpbgNHOFbM=;EhrWTYo170wqJ4pm7AVNAw=="
 ---
 

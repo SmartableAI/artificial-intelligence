@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence"
-excerpt: "Cambridge Quantum Computing ( ) are pleased to announce the appointment of Prof. Stephen Clark as Head of Artificial Intelligenc"
-publishedDateTime: 2021-04-12T07:05:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-executive-changes-a0ac665c6d820c2c3bd9d4f30db4924b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-executive-changes-a0ac665c6d820c2c3bd9d4f30db4924b"
+excerpt: "Cambridge Quantum Computing (CQC) are pleased to announce the appointment of Prof. Stephen Clark as Head of Artificial Intelligence."
+publishedDateTime: 2021-04-12T16:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-817929511.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-817929511.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "9Ql305vQckp5K0uXenKPkZDzgvMAntu6ggmsMusXCWqdZXcAXwtKbh7mWUNunsAwJLkLu5trWhW2aXJvavlh0Yj+TPfWJ2qyux1DUXYK2IZN38q/HpgRMjKiWmAX/rRDVifsYeo8aAtAqr9D9Zg0QH7MFbtzprYs7QaK6RBqlGIWFXhGXKs17S5190h5/Z8T8MS2waE+4n9brhYeoPD18Fnwn8XibVCC347/S7sUtNay4ai+2wr0cj5FEjfbhmLxkWbcd8QdnDNxaV8aMmyIj3TM0ZGmo9M4nCQ158fR7F5GHCjiZsxG8h/moOxh56STx87OyAoWlvGwU/aI50HL373PVOYTQ8OtkOnXTw0qtog=;eWvbV5AELEuLqlyNlJy6xg=="
+secured: "t+DVhxsjL8JAZ/387xNEHoE9SYv2NhuOw663ULHxwzAP+I8Hkv4qa66RHU3QtRmZYFUl9nz70eA7c5751P8EvVNQxiGaewZRW9u+Yn//9lJ2pDq0/a+zaEdfgtNFAv9FN2mkRnnBBiqs7Xx1aYGmELmGpZtWceDJ/IQe7qVrbcN+rXPZ2+oYBgdJv3BTtSBgzU5yloLjoBy2cdwWdhDIrGHOhkeYjeki0wKCwbNnfPedOMHHM6vYWsHJd86YlRckK+eoNbG1iVslKwfJZZhSDFBZshCN1/ppWHuGf0qWd/oi2UPJzJf2TsECdToZ/yZ0eY/zAxvq+bH8YIEdjVqPJofzsn1W1fzS8qo6euqfgMY=;OuSzLyjs9Rh6PXASi0TX0A=="
 ---
 

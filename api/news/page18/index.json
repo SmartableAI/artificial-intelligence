@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
+      "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
+      "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "originalUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identification-and-analysis.md",
+      "title": "GBT - Filed a Nonprovisional patent for Systems and Methods of Facial and Body Recognition, identification and analysis",
+      "excerpt": "... of an image such as a human face and unlocking functions for any computer or smartphone screen based on facial and body recognition, including covered face or body. Many mobile devices such as smartphones include a facial identification (ID ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20396888/gbt-filed-a-nonprovisional-patent-for-systems-and-methods-of-facial-and-body-recognition-identific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20396888",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20396888",
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
       "title": "Redefining what a map can be with new information and AI",
       "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
@@ -1067,82 +1153,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-bright-machines-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "originalUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-update-1-us-banking-regulators-seek-input-on-how-firms-rely-on-artificial-intelligence.md",
-      "title": "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence",
-      "excerpt": "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
-      "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4",
-      "publishedDateTime": "2021-03-29T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

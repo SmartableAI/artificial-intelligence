@@ -59,6 +59,22 @@ related:
         width: 936
         height: 446
         isCached: true
+  - title: "Financial regulators need to keep up with the evolution of fintech"
+    excerpt: "In 2009, in the midst of the global financial crisis, Paul Volcker, the former Federal Reserve chair, famously observed that the only socially productive financial innovation of the preceding 20 years was the automated teller machine (ATM)."
+    publishedDateTime: 2021-04-14T00:15:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech-11618330378503.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/04/13/600x338/UPIPay_1579504433616_1618330550206.PNG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
     excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
     publishedDateTime: 2021-04-12T10:00:00Z

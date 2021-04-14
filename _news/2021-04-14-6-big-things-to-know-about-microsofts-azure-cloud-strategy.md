@@ -1,10 +1,10 @@
 ---
 category: news
 title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
 publishedDateTime: 2021-04-13T17:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
+webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
 type: article
 quality: 54
 heat: -1
@@ -1396,6 +1396,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "4wMkgcb4F14JbKigQe2EJ0fHMp0fnXjY9ZWSV6bKjYy1FVDp5dx2N5a629NuXD/FnhBA951TzNHmZqEWEKZkwhuvVQZCcy0MSfJm6jX/8pQZu2+F4eIsAbWkznGJW75BmXCmTbjU57VkzaIkQtpyIkUIockvM9Y8/Ps9IMBv6lnzeV0gpe5nf+ffXkz9KJQ5uhkipfSv5v8vAR2t8KArNHG2RXshtLR71h9SDAdl3UcSZCtxQ9d0VTTkEIGLLcH37AoS91C8wBXpEZbJaM9A5gu4F+VD9QjsgURArH8G4hV3vP9fGl+pfnRm6E22Nn2PgyddP/jdPeGlIgjHwmrP2r0fh4jIdF/Vkh38DAPWc5E8TfuZP47s8c+Un182RDbbVthHXaFl/ZwvAT7PpDILi3jYdEUsV4EQqiOr8z7VgPOf7XcTq6MEU7ZBmHXb74cabcqwggF8F65jk4yM0zE7NKIhETdHMBs5krFF9IVMV5zDLo9ev83U9IcreSzuUOArSWgKWDr5PRTf1AWchB262g==;iz6tv5IeNte6S3CoQNjWTg=="
+secured: "k8VVROwxD5HTRIUXP1J1XMoqW2qTH8oJva9/B/QGqQh2HDsVBHQFFQXvo9XWFtPUJ85nnKVlWPwAvRyddDX/V000o6Ieiaiuv91hyvsccbFjpd+vfl4MtEW6+jTr0ZjIHzyULUuEoqCX0DI8pxV+CTC5j5v8bqOj7dpAp4aN3/K1codNX3oOTMTSe4nVcT2ZRiUFDfdQogdqpc9PQEmsGsjE4Gk4babOutwXBQN4tmU9O2SQDZ+EKFCU/d//EndCgcKG1lZZQRgdqPjElVWISufsj3HiOjg3xMBwu3LUY5iQUboZUleBFEi0fAknnVjk5v5Yxy65AZ3fiv8SXpqeopMfu9xok+P/q+ePcwEsyKQ=;Aym1zq/6yNw4hcQW55+0Yw=="
 ---
 

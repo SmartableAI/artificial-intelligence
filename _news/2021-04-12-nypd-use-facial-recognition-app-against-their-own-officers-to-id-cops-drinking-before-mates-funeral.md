@@ -59,22 +59,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "The NYPD used a controversial facial recognition tool. Here’s what you need to know."
-    excerpt: "Newly-released emails show New York police have been widely using the controversial Clearview AI facial recognition system—and making misleading statements about it. It’s been a busy week for Clearview AI, the controversial facial recognition company ..."
-    publishedDateTime: 2021-04-09T09:01:00Z
-    webUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/"
-    ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 52
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-6.17.20-PM.png?w=932"
-        width: 932
-        height: 460
-        isCached: true
   - title: "NYPD not true blue when it comes to facial recognition transparency"
     excerpt: "The worst-case scenario for those who want police to use a controversial facial recognition service is playing out. News is breaking nationwide of police agencies using Clearview AI‘s face biometric service reportedly with insufficient oversight ..."
     publishedDateTime: 2021-04-12T17:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_207820597/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_207820597/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
   - title: "Financial regulators must keep up with the evolution of fintech"
     excerpt: "In 2009, in the midst of the global financial crisis, Paul Volcker, the former Federal Reserve chair, famously observed that the only socially productive financial innovation of the preceding 20 years was the automated teller machine (ATM)."
     publishedDateTime: 2021-04-13T16:19:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech-11618330378503.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/04/13/600x338/UPIPay_1579504433616_1618330550206.PNG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Financial regulators need to keep up with the evolution of fintech"
+    excerpt: "In 2009, in the midst of the global financial crisis, Paul Volcker, the former Federal Reserve chair, famously observed that the only socially productive financial innovation of the preceding 20 years was the automated teller machine (ATM)."
+    publishedDateTime: 2021-04-14T00:15:00Z
     webUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech-11618330378503.html"
     ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
     cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"

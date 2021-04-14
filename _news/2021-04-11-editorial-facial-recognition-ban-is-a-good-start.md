@@ -58,19 +58,16 @@ related:
         height: 630
         isCached: true
   - title: "Facial recognition tech being tested for US flights"
-    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
-    publishedDateTime: 2021-04-13T18:15:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic tra"
+    publishedDateTime: 2021-04-13T18:51:00Z
+    webUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.html"
+    ampWebUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Narita airport starts facial recognition trial for faster travel"
     excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
     publishedDateTime: 2021-04-13T21:40:00Z

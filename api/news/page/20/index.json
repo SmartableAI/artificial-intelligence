@@ -2,6 +2,100 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-29-ai-could-help-advertisers-recover-from-loss-of-third-party-cookies.md",
+      "title": "AI could help advertisers recover from loss of third-party cookies",
+      "excerpt": "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "originalUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "publishedDateTime": "2021-03-28T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
+      "title": "How artificial intelligence is transforming manufacturing",
+      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/07/14113823/Depositphotos_75453425_l-2015-375x214.jpg",
+          "width": 375,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-how-stellantis-will-tackle-its-electric-future.md",
       "title": "How Stellantis will tackle its electric future",
       "excerpt": "Waymo agreed to work exclusively with FCA on level-four ... \"It's about making sure that we scale up in the way we use the data and the way we use artificial intelligence,\" Tavares said. For now, Jeep is leading the way for the company in rolling out ...",
@@ -1095,92 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment.md",
-      "title": "Is Art Made by an AI Robot Speech Protected by the First Amendment?",
-      "excerpt": "the robot becomes a medium for a person's expression, assisting (inspiring?) the decision-making process of what to design. I'll admit. In 2014, I didn't think AI artists would soon start selling ...",
-      "sourceUrl": null,
-      "webUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "originalUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dn750GALzbo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "cdnAmpWebUrl": "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "publishedDateTime": "2021-03-26T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reason",
-        "domain": "reason.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
-      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
-      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "publishedDateTime": "2021-03-26T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

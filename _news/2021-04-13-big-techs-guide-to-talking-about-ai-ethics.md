@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28fe7e89-8dd3-4315-a4f2-5061de79be7f.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
-    images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
         isCached: true
   - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
     excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"

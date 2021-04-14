@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-26-aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp.md",
+      "title": "Aunalytics unifies siloed bank customer data with AI-driven data mart and NLP",
+      "excerpt": "Register for a free or VIP pass today. Aunalytics announced an update to its Daybreak for Financial Services platform that employs machine learning algorithms to enable midrange banks and credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/daybreak_slide.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
+      "publishedDateTime": "2021-03-26T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
+      "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
+      "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
+      "originalUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/341d9ad/2147483647/strip/true/crop/2819x1879+184+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3c%2Fcf%2F7fe2562f4d5ea428995d61d18f67%2Fendww3evaaaosg4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
+      "publishedDateTime": "2021-03-25T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-ok-computer-review-artificial-intelligence-meets-human-bumbling.md",
       "title": "‘OK Computer’ review: Artificial intelligence meets human bumbling",
       "excerpt": "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,",
@@ -1010,92 +1114,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
-      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
-      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-visa-and-capital-one-alum-cetin-duransoy-joins-fintech-leader-fundbox-as-chief-operating-officer.md",
-      "title": "VISA AND CAPITAL ONE ALUM CETIN DURANSOY JOINS FINTECH LEADER FUNDBOX AS CHIEF OPERATING OFFICER",
-      "excerpt": "Fundbox, the financial services platform for small businesses, has named Cetin Duransoy as Chief Operating Officer. He will be responsible for scaling and overseeing the growth of the company’s credit business.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

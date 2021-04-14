@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Fusing business and Artificial Intelligence: The ideal way to salvage your now-useless Covid data"
-    excerpt: "That’s going to come as quite a shock to any CIO who’s been carefully building up a great conventional BI (Business Intelligence ... like predictive maintenance across manufacturing, healthcare and many other sectors. This is one of the most exciting ..."
-    publishedDateTime: 2021-04-09T09:01:00Z
-    webUrl: "https://www.itproportal.com/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fusing-business-and-artificial-intelligence-the-ideal-way-to-salvage-your-now-useless-covid-data/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 46
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KV2t7TXAWBTBWFvg3GP7oB-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "BDNGx7DvzRPgB2zVvcl2DswB/8cgW1d5SNFuxj1Bgz1DXTxtf+qRshSXZRGr0P+1xLS1Dr7HIB6w7L8is2urkKzE3Kb/f8BsrcoW3i8m+DfRqx/MiGskRwUTuDGE1tyOuruHgN8CAzdJqR3FaXLmaPtskysd2O06rN+pegHkSW1ZA9RG8mwtGIfPtuJprct3zO1wRv1BSjQIO2zqVPIEeCPlsUzPLRM9zLPyV8MTPsmLhSoDrTb31hXORO4tXqYSQV09+SE5ItH0Dec8U2T4/URjkpPbuAuiddh2IMC/MGSaijsFMnGx+vrG+zR8wGBEpPCWT1q3G7cyUj0yuW6O5p6OAmgekDDQCuHIK3enJITVPcB3/ba2yNDnA2xVIDz+3AhkRoxiCrOdMStR+tfIcQwmECxMVkbTct2Rw5emslu/P6li4HrcDaBowayHzgGUl4t5+jmhimaO8JunRjI7RoHKd5B8QdGAuSnfCBe8Hn00GpzVufu1iT1OWXYvoV1ASP1Chdqkxr05UJmkHR0jMA==;V/8pYi5tW6fC1GRYx4PN0g=="
 ---
