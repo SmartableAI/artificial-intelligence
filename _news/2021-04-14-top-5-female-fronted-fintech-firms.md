@@ -52,6 +52,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "PwC unveils fintech marketplace"
+    excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
+    publishedDateTime: 2021-04-14T10:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87100/pwc-unveils-fintech-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z
@@ -69,6 +83,6 @@ related:
         height: 501
         isCached: true
 
-secured: "pBWkUNWEMCQqx/Ucwhp9n572MfCWTFhAtMf4vsh89AkUuRP/MtrosuFQSiFmfwmAAcbedMej1MNAafQq0HOmJwrQqYOlohMMEyg4Rr0Mqlg6NpTISNPxIc5/K29k5XaIu/08TBaqljno+QfBkBcJh7VXLAjOj4r6jK4f2MYqKr12YYseH0/yYGZzl6cI6yHp64tmeFUdyc+eWvnRXbW+8PD8HIBGmZTof84oHMd4U0VomXXRi/bDnmC3b/6VXQgAoda7ySr0VDZ7raa9ggxgxXetxLhryGQeyedTAYydfppZud5y0hbE7zMA6adnqdGc28cbd6A5xrpmkVePqyO3cMzW2CGhdPtLRDbMj7GGQGw=;60O0fPYP8TLC0KjYc5fSPw=="
+secured: "YgZl7GdjKScbVpnsi7SdgpwmKahmtUPNmU+oKbEGSlZFexCg+0MSDRZBvq8oEm39kKO0F6REyaBz4poylySetvQ1vvRuI9eAfbAmRojRiX+b5vtNg2Najm7vz/0HYzMI+tGT3PrWSDkT3iChPL0sc6GR/6Y7Akp6Xhg2KFjFu6rehx3nDx9epJ2WkPWMN1ogUxAIwKCCylayGQMD7BSwEh1eTOTf0g0OE6SMGpWkkBGXXxvFU4Gj+9vy9lyyjU0+cuTxf6JnbEHr8+smiNJdokBMpkd+mtCdUJndlpZjjh/3I9uDM+/C1Eia/U0eI5uxDpvH/SLWXeCb65huzr9iqrl7uXRkN7dYa0InOmWX03wNG+nnDghvUyYGWV5VYB6e/rBp+9eUXv8Lh3zQUwXGt0D2O4efO+c49U9BdJuc/O3ViTEw2EUFqtXQxSW6Bh7aJRoSsPjMfIlw6HLiOZb8DazAwbSms8vYMFLpZoLnJOQ511K20K2Kg929K5MSR3DU6xgiJ5OfiEtewqng1UbBnA==;afp5GEJODTkDgpKCDkSHcw=="
 ---
 

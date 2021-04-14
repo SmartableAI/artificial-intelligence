@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
+    excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
+    publishedDateTime: 2021-04-14T10:42:00Z
+    webUrl: "https://www.gizmochina.com/2021/04/14/huawei-invest-1-billion-electric-vehicle-self-driving-tech/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 54
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/Huawei-Logo-MWC-2019.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
     excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
     publishedDateTime: 2021-04-12T22:51:00Z

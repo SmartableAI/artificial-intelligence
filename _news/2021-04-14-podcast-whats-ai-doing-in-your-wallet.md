@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/04/14/1022673/podcast-whats-ai-do
 ampWebUrl: "https://www.technologyreview.com/2021/04/14/1022673/podcast-whats-ai-doing-in-your-wallet/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/14/1022673/podcast-whats-ai-doing-in-your-wallet/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/IMWT-S2E2-Topper.jpg?w=1920"
@@ -25,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "fVrwZt4xogIHawNrsu7JhhHr13ocyIBT/YrQBtddonR6B7gHRmwJrzfgh8OzPs2ahftAORXPs5408UykHNlabTuStvSf3ULi6OyFC6cT1pVy/lqhshPk6JltaC2sGQmnKUP3es9lu7zANOhDAOsIWegP1vphi+sLMRmZ6DAFjXfx17e/CSs+jxZPczdC3IpaZmRRCzhyJtLrjfF3NUIFNndAO6zmDgBabeE2MupZMMoW8CkkKr7akcBXAL1rn5Zyb4utho4GbHET2umCb/EE526u7NQxdL7NSX06EKZNzphVgmWMagJz8S/B4PjfQQY7GrV9Rj5WHprzew0TWdoMlmpg5q63IgBSfH95NVsZn9w=;+d0yPbhVig2KBZo71s+9Iw=="
+secured: "jhqajeF20QuSY1Hk2LnRIZ9zQxqII8bfv6UZNwzXLN/mXMup86kpAO1uKCP8hA3HcCNHHeg0cTYmSyUUxPtBpmOXP/8SoNH6/v4QU2yCWrGTvkJ7ucZvVL2zktythYOXx9vz14U/jl/wxASIwxdbWTZW++URzWPFlQ/IuaRiW32h04n98+MNxmeWNiDt6gQIdZyOaG8hEQAK+4dpq8gQSzS8+0syUhubVl34ZVJ8/9ev1EwfMoZ4uDuX2eIgAF0ykf7/wqgztZkTKcesLvsRTjzBsVmJ1SbV6jaNozgJReBYadBvyKr4oXQmpAEqg5+ZemoyrEFDwQ5o92RAMzLdyKO4vl+MQ70NLYPEmYtZvhYJee9yNp5TO/nc4BGEiKX8xDJnRBuWNc2fzeURaAuWv0E4eLC3jYIIVP2zkcgcT7qwSEIByzu91IuFqrSLF9QKj0PpDV8+g+fRzMP9flIzH6Y8CgbhAgNPhocwsu0oTyTXIpqZZqAMcZ7uznV8J8JweK3YH6xebZb93tC++3+V7w==;PEQMgox+HnqMFe9E684+Cw=="
 ---
 

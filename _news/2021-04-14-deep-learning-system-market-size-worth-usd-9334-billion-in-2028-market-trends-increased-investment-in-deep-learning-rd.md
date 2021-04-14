@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in BFSI Market Size Worth USD 68.23 Billion in 2028, Market Trends – Increased usage during COVID-19 pandemic"
+    excerpt: "Apr 13, 2021 (AB Digital via COMTEX) -- A closer look at the aspects including but not limited to Artificial Intelligence in BFSI market segmentation by the end-user, end-use, geography, type, and application forms an integral part of the research report."
+    publishedDateTime: 2021-04-13T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-worth-usd-6823-billion-in-2028-market-trends-increased-usage-during-covid-19-pandemic-2021-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "AE05Y7GXrVl/ZUqlIT60684mGWBH/3W7WJLQxKOnhDmalPpN5PSvmZKWKoCLd5Wl8Q7nrfzgZ6Pe7uKQ+DRziP7EEfiSxHCFR/2pP4tMaXT1W7Yh4yGMWtiEQxAyRRuzv45FdBZrq3X4hQCyA9tmWmXmFTl9oyBRXeaLWjhPRyuy7KFOA9X3exwO8fhV4Li38THSCdh+H89UbDP432MeEuimIduBZr2gHXo4OMg6ZBsg7U/kdEjge6xpEwGpDVYJe9gpprWGMzeQk99PZSigZ4zdxNn5H6qB1l9eOZ7NzlRE+2VJcBr4UUtjy840owccKSIU6fxYx7HR86ftVyBRqgluaRZwf2+7w9cQ8UfIo/E=;z7zFH7vqRMf5AqYLFwFAjw=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "First-Of-Its-Kind Letter Calls For Ban On Private And Corporate Use Of Facial Recognition"
+    excerpt: "More than 20 civil and human rights organizations are expanding the fight against facial recognition and calling for a ban not only on government and law enforcement use of the technology, but also private and corporate use. The letter says that “In a ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition/"
+    ampWebUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 50
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Editorial: Ending use of facial recognition by police"
     excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."
     publishedDateTime: 2021-04-12T22:15:00Z

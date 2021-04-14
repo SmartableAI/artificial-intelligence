@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AI Fire Detection: Computer Vision Guards the Forest"
-excerpt: "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread."
-publishedDateTime: 2021-04-01T15:52:00Z
-originalUrl: "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest"
-webUrl: "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2021-03-31T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest"
+webUrl: "https://www.computerworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "XSpBV/X+kEP8t89H3mS8x4SUaVnMw1O8HwxW7YXB+zkrotBQyCaL6B6u8SagcVckxQVYlOnx7UctKOW7rDY3jmctfZyIBDYYXysr/eEpAeKmCKVdn/sejavp57estLieI8/rVMLbXajgp0q6RUYfIOfRx+3TYcfYgVh38nFZ2DTKl6Mm5wZ4I/D4OeUSdqikOQkQUm77stVxAw/XdqVx0WwpmZe5qweGCP2vYfKPYRYrBzfPIjdXp/QcB5V7Oft4vzVBwv8KumPeUXjAbZTOjqgoKj3O6SI44po03kteie6SeDFfDrb7VmuFdumbHvqL54rMHWikxhxZK+LUTD4inWOScqu3nPGsF1nCSVTjwRGwM7CWcGpeZEvbMzlQBLftJszbAOS5iEKUujbWWakv6K0OS/d78fvDEHOTg+Y08orYzcbwE8bnm2WBjMy4GHnOoHdHoGLvlTLEyfW6Jg8W8nEdDCgG3+I9BVOmd3lP2S+qZ9whVNC5+bpkzQnZLJNbF0jV5A39oBN6c8odPBjRjw==;VDWXgn1BcRRx764rgf0JSA=="
+secured: "g6D3lliN7UTS77R1YDi83H1nKxtlOiqEyUNvpWvvo7gQEvI9mZkTFHb188Xcrk6x360v3QPUvSYAA/QKrXonh4wfv9jqoGBo6Ev8ady0cMTpGmX7+aHmiG5Cx3MvZ0eN7XOOVCCufDgV6PBHrgOVf52zwi2pZjEeu5ikwUTV32pbhk/LQwF2EiT3PxDmpzjonFp5wgQlPo6FCm1WkwiFTR2r7w1EEfQotWlse3O1OJW8vBlcnP5g0S9eq0t32DPa3kQlElS9RZDZ8rUCNKk5jjmThaRPPReZj4WIafwjNH9fDMcUxMgHnnCp/A0XKxzsfUK9gxodZcLB5Ahw5Bfj4zKnXKYQw3kyZ8JCPGOeZiI=;zytdi9zS0p4obhZhiVW72Q=="
 ---
 

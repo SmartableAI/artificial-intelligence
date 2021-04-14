@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Switzerland based Banking Solution Provider CREALOGIX Hires Fintech Professional Jordi Perez as Regional MD"
+    excerpt: "We want to shape the future world of fintech! CREALOGIX Holding AG (CLXN)’s shares are ... IT, managed services and AI for the financial services sector. In his last role before joining the CREALOGIX team, Perez had been working at tech giant IBM for ..."
+    publishedDateTime: 2021-04-14T11:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Martinskirchplatz-Basel-Switzerland-dorian-le-senechal-unsplash-300x238.jpeg"
+        width: 300
+        height: 238
+        isCached: true
   - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
     excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
     publishedDateTime: 2021-04-12T17:55:00Z

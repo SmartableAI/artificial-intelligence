@@ -35,6 +35,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Civil rights organizations call for ban on corporate use of facial recognition"
+    excerpt: "at the start of this year. The Portland ordinance bans private entities from using facial recognition technology in places of public accommodation. “We believe this ordinance should be used as a ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial"
+    ampWebUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 55
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition_113017getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Over 1.4 bln to use facial recognition for payments by 2025"
     excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
     publishedDateTime: 2021-04-12T09:38:00Z

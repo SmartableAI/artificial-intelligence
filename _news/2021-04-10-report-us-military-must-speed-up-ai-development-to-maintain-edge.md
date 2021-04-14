@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentag
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: UPI.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Key to Maintaining Military, Economic Advantages, Leaders Say"
-    excerpt: "Officials today discussed the National Security Commission on Artificial Intelligence's recent report and the progress for the adoption and implementation of AI across the Defense Department. Marine Corps Lt. Gen. Michael S. Groen, director of the Joint ..."
-    publishedDateTime: 2021-04-09T18:53:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2567486/artificial-intelligence-key-to-maintaining-military-economic-advantages-leaders/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 45
-    images:
-      - url: "https://media.defense.gov/2021/Apr/09/2002617893/1280/1280/0/210325-M-KE294-073.JPG"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
     excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
     publishedDateTime: 2021-04-14T08:26:00Z

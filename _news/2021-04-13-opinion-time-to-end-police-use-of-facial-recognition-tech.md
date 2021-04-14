@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Fa
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/14/NLED/e15211f7-caf9-4353-8de1-0ebaa72b7462-stock_FL_Syn_crime9.jpeg?auto=webp&crop=3226,1814,x403,y437&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "First-Of-Its-Kind Letter Calls For Ban On Private And Corporate Use Of Facial Recognition"
+    excerpt: "More than 20 civil and human rights organizations are expanding the fight against facial recognition and calling for a ban not only on government and law enforcement use of the technology, but also private and corporate use. The letter says that “In a ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition/"
+    ampWebUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 50
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
         isCached: true
   - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
     excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."

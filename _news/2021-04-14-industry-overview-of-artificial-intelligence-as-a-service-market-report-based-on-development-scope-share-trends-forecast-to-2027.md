@@ -36,20 +36,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Artificial Intelligence Key to Maintaining Military, Economic Advantages, Leaders Say"
-    excerpt: "Officials today discussed the National Security Commission on Artificial Intelligence's recent report and the progress for the adoption and implementation of AI across the Defense Department. Marine Corps Lt. Gen. Michael S. Groen, director of the Joint ..."
-    publishedDateTime: 2021-04-09T18:53:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2567486/artificial-intelligence-key-to-maintaining-military-economic-advantages-leaders/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 45
-    images:
-      - url: "https://media.defense.gov/2021/Apr/09/2002617893/1280/1280/0/210325-M-KE294-073.JPG"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "bn6cTdWlP41LUZgryJ4G6W2vHylLnimVnCBM3hzuhDqUbhOv5Qpz9yGChbZ8GUSIt/cOEC+ywDIaDQNQNe9wXV1WoQOHrqzsD4fplG1M3yImwyIkm111q5AJRqqSipvYaVFpJoqRvDiTF/rTB7PpoIPYFMiCZMGas6Xcub6aqETErxZnrAEFBx+wS1qsqNJIKg3aNm8pvNYhClvRrq5S2kxMJ75CM8NVxOWUwzObZS+wKlYhNVaxD6HvGgQiUJryqVRZ8Qd3jTD1LiidekwcKHLd/y+noy7yDwgk2GSFcOKoGSV1hI62uCUNnMNEc3IU62mPAzg8bunOZ891/rQdkWgtBqAwJtRsiST9V/vZWA8=;mhwX5kv7iSG/wSxuoDVh9A=="
 ---

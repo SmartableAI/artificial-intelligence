@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelli
 webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Switzerland based Banking Solution Provider CREALOGIX Hires Fintech Professional Jordi Perez as Regional MD"
+    excerpt: "We want to shape the future world of fintech! CREALOGIX Holding AG (CLXN)’s shares are ... IT, managed services and AI for the financial services sector. In his last role before joining the CREALOGIX team, Perez had been working at tech giant IBM for ..."
+    publishedDateTime: 2021-04-14T11:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174197-switzerland-based-banking-solution-provider-crealogix-hires-fintech-professional-jordi-perez-as-regional-md/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Martinskirchplatz-Basel-Switzerland-dorian-le-senechal-unsplash-300x238.jpeg"
+        width: 300
+        height: 238
+        isCached: true
   - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
     excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
     publishedDateTime: 2021-04-11T21:20:00Z

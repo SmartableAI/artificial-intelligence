@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/fraud-prevention/2021/new-report-behavioral-anal
 ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/new-report-behavioral-analytics-machine-learning-keep-fis-on-cutting-edge-of-fraud-prevention/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/new-report-behavioral-analytics-machine-learning-keep-fis-on-cutting-edge-of-fraud-prevention/amp/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/behavioral-analysis-fraud-prevention-457x274.jpg"
@@ -26,6 +27,6 @@ images:
     height: 274
     isCached: true
 
-secured: "mA/wQUZYaPI8uk6oi7Yamnohneoo+7ExM1EfvBAjp02eDn0gL5g+T+uu8yyNicOoAhXlAfz4g+jESO8qwJJ0uzsmQ9B7/atzTK5Az54TPl38OutvtwTTyZwetiiv+AF5nQpW0eOELt5P8rrP16n/w/NS7s1rg9A3qfKFyHrL/PE4Pkwu8v1MpfIbYtRK+TNYArJ6GlDckUhSGVTdkoMq07IwrIhOUTJDCzd8eutkMX1YE/N280kTpAHNH50svieO5O0aFU8WUYyjGeSeSYcqHLoeHilzc3yhKg/Eyx4y9m8CopXyT4MBWyiBqDbG4X4IyRhLICeaosofaceqw4lUoa64FI8+Obbj9h+/aqnGKXM=;S3JdIfFKk+VV4TYk0w4WcQ=="
+secured: "+EwMhEi1RqyVN32N8l9PwofbXSfjwst58Drc1017iWB635/CaVLi0iJB0ydWJjjzKZ1MBeTFsNaSwsXKPVW20aGlHmZvEj9p3sqPSCpOchVlce03+tq5HANVai4yNujR06IYwStTulkjigQFrSXW4GP5JWEbAhv7C9xFhu0+RZ2e/vi0TskilL/h/3B/5Dc0vgB0Tp3ofwtXND4RHmjw1bj41FoaYCDhB9umYXHTO7ooJOXIcyqmzrblTaS6yO+pLcU93TLpSqBYcTXg79WtNSqbBea1fxgSTNygeeHBxgxRKL8OnzMDE62T3h6Q4kWgTpRBOIQY0GP+uzo7FSaTbO2cvAMA/3lNileyah8c+xgKtO/emTIyg2n6mG/gjZp6gJX9yIP1KrXlZfDcrkhEW+hu7oZPcSRose8lnDucZOD9Q9+FoEbxvVNqvvKeoNmW77rL4a9c6jpxiCCeRDiyvHifY7VrJoRMhiJxzwTQYSpP3x4qChRRUxM6GTgW/vQsmOfr3WxO9TV2wpTrnokmNw==;JLCLP00a8Rnqw+NNEo3zHA=="
 ---
 

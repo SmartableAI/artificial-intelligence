@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "PwC unveils fintech marketplace"
+    excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
+    publishedDateTime: 2021-04-14T10:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87100/pwc-unveils-fintech-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Top 5 female-fronted fintech firms"
     excerpt: "Canadian fintech firm Borrowell is on a mission to help those struggling ... as well as pioneering the country’s first AI-powered ‘credit coach.’ Eva Wong, the firm’s co-founder and COO, has long been a vocal advocate of diversity and inclusion ..."
     publishedDateTime: 2021-04-14T08:00:00Z

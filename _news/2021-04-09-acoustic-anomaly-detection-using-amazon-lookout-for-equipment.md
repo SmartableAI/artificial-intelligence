@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-det
 webUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/09/2-architecturediagram.jpg"
         width: 800
         height: 425
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
-    excerpt: "TensorIoT is an AWS Advanced Consulting Partner delivering complete end-to-end products and solutions in IoT, data engineering, machine learning, and artificial intelligence. “TensorIOT builds solutions with AWS services to accelerate integration of ..."
-    publishedDateTime: 2021-04-09T18:26:00Z
-    webUrl: "https://www.automation.com/en-us/products/april-2021/aws-amazon-lookout-for-equipment"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/2bc64dcf-1dea-4101-a0ce-27cc0c159084/AWS-prod-April-9-2021-ewb.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
 
 secured: "qy45OslawRr8uE3IBKXnMlQqI5B7eiEpSz7y2HjuK/Tl6eeAfiGTvovPIe1V7SUjcJW7QoZVBLVbtqip1EGeLjcge3kn7Oph/Eo20lU8sdVWQgJeLaGbeb08wGhtSb6z07SFI61gKVEe0+60VDiUM2MIywUK4IJxqj9CH+KhuRk7faDj6T20U110SbW1akERkZL/Qip7m0qhoWurd1IMlih8KYLY17a0QWe32vS1xHl82SivR2Be3WNhm/Nd1FaLfcorMtdPva5UFCLMFsNspR5QxCFhcsb3+DpJppHHp1Zmy5pBrV0xCpun1rIwGbt5wc3MndrFxzV9k3a34AG2M+rOhaMpIe1X6LCMD1IgfMI=;p2EOZ69MmfPHjl2CrmrKDQ=="

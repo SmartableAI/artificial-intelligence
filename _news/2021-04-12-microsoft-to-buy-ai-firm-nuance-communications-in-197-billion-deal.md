@@ -1095,6 +1095,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
+    excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
+    publishedDateTime: 2021-04-14T10:59:00Z
+    webUrl: "https://www.analyticsinsight.net/google-amazon-microsoft-who-is-leading-the-ai-race/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-11.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Microsoft to buy speech recognition firm Nuance for $19.7 billion"
+    excerpt: "Nuance will bring a number of useful technologies under the Microsoft umbrella, including the popular Dragon NaturallySpeaking speech recognition software. Apple’s Siri uses technology from Nuance for speech recognition. The AI company has already ..."
+    publishedDateTime: 2021-04-14T11:08:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-microsoft-nuance/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 56
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2018/02/microsoft-1.jpg.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -1191,9 +1219,9 @@ related:
         height: 593
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
+    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
     publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
     type: article
     provider:
       name: CRN
@@ -1366,6 +1394,17 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
+    excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."
+    publishedDateTime: 2021-04-14T10:28:00Z
+    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
+    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Microsoft – Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Another area where conversational AI is gaining traction is in sales management ... too. Speaking at a recent Fintech Zoom CIO Summit, Harry Moseley, the global CIO of Zoom, noted that the pandemic will inevitably have made workers much more wary of ..."
     publishedDateTime: 2021-04-12T22:07:00Z

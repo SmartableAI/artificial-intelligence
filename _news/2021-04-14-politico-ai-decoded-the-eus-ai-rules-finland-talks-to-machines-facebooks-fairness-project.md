@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-trans
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
@@ -26,6 +27,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "2H4y4pmplMkPKftbjoCrvJHxeI04ftDze1BK3ih6H6sMzpO6EoxdasbyxHEXiwaB9E8ozo6XPhy8iQPNCpwcNSMsvZtAotFJzAUg1e8lJ/Wrt8wlGafoWW6CPMlMkvPinDPbjbr5u0gaEXzna1UQbwk9rM4iGku3Bt7bcg0SGjS9lgywJXJPVhwZpq0Rj2iYDaWv0ITJHBZ8azci53yDB3LET0I7JWY5m1yIJp2KB62hIwe+tjRIEfF0c+jIBh36TAT7/hRxAf7F+BAblZZkpXg1/xROrbOdZG/F9RJs8GNWS+SD5hOc5NAhJ55l0CM+ILVMt0QkrxY7tNWGBGYdqfksX7AWWbGLjaXlpBkdr8Y=;sFaNZbCI5+5R7jDodgx12Q=="
+secured: "unsvg74F4Eer9C5txCpaEQRWjJYwScxB0Yhwe/vqnGhNvv0/PStD9Z6OP70KDphYat+E+ud5XCbSaPoBB7lAFq5AWIeE40p+MWjrrehnykZ09oa59pu50lKs6o+7iT9t4Fmw35xA6bBVg0NiaiaTUhBSQIcuaDUzOdu6Hy13bHxGoIeq520M2mLJGjtlxVIlYwRFtq3pn8HbnQysC6mgaZqn4y06aRE4pNNPt1jnkAzK5wOB3yJzL5KnnPL/G4VCVJCA+Rnx4ivr5ToMqqYw+uefRwHQ8n244EoHIgBBeTogEDuqAKfEhIBb1ArU50jECDqhDEOSkHxUMsCFz2lYJyD5OjIA5B/Z9ZlSoBXxZRQn6grlVlnfQ3NyNZwdJF86oChUhvOA70BImHIQDh4bQju3AyU9sMZBhGSjpIMVvpn805CZkpOvuVgxVJq6QLK5xwGb0J0PRAFA+k19wSO49sJze7u2jU59sOk2nwGXvuzAvF/CLzzw6JoeU9QT9q6rtdvddhtyjejbgZqJPTBN2Q==;natm8vrmNV3/YU2T9dijNw=="
 ---
 

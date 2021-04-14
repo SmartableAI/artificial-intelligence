@@ -43,20 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Equipment"
-    excerpt: "TensorIoT is an AWS Advanced Consulting Partner delivering complete end-to-end products and solutions in IoT, data engineering, machine learning, and artificial intelligence. “TensorIOT builds solutions with AWS services to accelerate integration of ..."
-    publishedDateTime: 2021-04-09T18:26:00Z
-    webUrl: "https://www.automation.com/en-us/products/april-2021/aws-amazon-lookout-for-equipment"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/2bc64dcf-1dea-4101-a0ce-27cc0c159084/AWS-prod-April-9-2021-ewb.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "fga+SwdPzL8hTFmZtLbXE40Kc0wAEzXct6y3mx3kYz9gTAu0Nf1aLXfM7nx2HPKcMu2heuQyRe7BijFoSW7cv6zc12Rs3+96vX3BUbUoL3yLYRrqoliBK9XfwXRQYJ7ubtKaBRlgOrdRpaysjMSsByBqt1rk2rQI4gZDhMxF3Sb3u/yivU4DPCXnWgI23/Sni6I5tQCqjLoflSX0UfkDkW+WZ2bqS1zE/r+iIoHsFLzfZxQd92UWq1IlE1EL4teyddSnF9KqTjpDYaa7CIT+UJUU9YdeX8wD2j4bweCdlXLVRnR/QgnIlGyKUjSgbJ4/Ww1AqQn8noVJB8SIdsn3bS93BK1TxPLr8iNK8kH8Rfs=;igQ2AKfEaiGHMTAyuAHcQg=="
 ---

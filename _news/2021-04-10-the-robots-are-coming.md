@@ -9,7 +9,7 @@ ampWebUrl: "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-a
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 650
     height: 340
     isCached: true
+
+related:
+  - title: "Food-Delivery Robots Are Roaming the Streets of Miami"
+    excerpt: "Self-driving robots are now roaming the streets of Miami, delivering takeout orders to customers who opt for an automated driver instead of a human one. The robots are the result of a collaboration between Miami-based Reef Technology,"
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.miaminewtimes.com/restaurants/reef-technology-and-cartken-team-up-in-miami-to-provide-robot-food-delivery-12069271"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 39
+    images:
+      - url: "https://images1.miaminewtimes.com/imager/u/original/12102751/img_1770.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "kgquqQkvq66M7pDU4NFMMjYQHBq3zy0lSS4raT8e/uwbLSqyI3S3ZJa2UO/hlqJ4Hk2vjYsJM4CqcoFfeILB6CROw5JoXb3b/4JDh76gd2VfQ0f793BGpIie42+SsjD1avdV65pdal2bgKeIJoal0qzbEKxthHuUddaZbq+vWRFhLq6N5AcspBgpdja7oeTKTdf2+LQYBQtp51GDoSG9+kbnjftvNkefQQKaE6jxUTSiEegjFPqHBuhulrW3gDquP/QWMGTw8YIXwVxBktk5dxg5j5lZA2xCsnM4JNA6F/3A0q49vYiDQdJV2tzoEtrNJVgpcIT8Dnj1oNyobWQT7sv5Xn/h1LLFh38Prw4ura01UW5an4xQxvs8R4nnmPnqygxkgmojVqQZsZuawj5mLpDuN2cPtMYOa0DoJ1sjA1/3WIvoGJR+ELakmgz795FqQKrtybctn+81/k0oVZHsJfglFP7V7cXDf7aqD5RPC7oUK+RxRmPeZqDe5BluIQo0DvSdIS1ZO1MGeQAgfvk+sQ==;77oS+MxsrWEXMLtFdnb4lw=="
 ---
