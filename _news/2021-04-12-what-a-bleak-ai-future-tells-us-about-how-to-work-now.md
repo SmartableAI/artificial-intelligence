@@ -36,11 +36,27 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 76
+    quality: 176
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Getting AI to Scale"
+    excerpt: "AI experts, such as data scientists and data engineers ... they will require and when, and then chip away at each piece as needed. In designing its customer-value- management system, the telecom ..."
+    publishedDateTime: 2021-04-12T18:00:00Z
+    webUrl: "https://hbr.org/2021/05/getting-ai-to-scale"
+    ampWebUrl: "https://hbr.org/amp/2021/05/getting-ai-to-scale"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/getting-ai-to-scale"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/03/R2103H_FRY.jpg"
+        width: 3000
+        height: 1410
         isCached: true
   - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
     excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"

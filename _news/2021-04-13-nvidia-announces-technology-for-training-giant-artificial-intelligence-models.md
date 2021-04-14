@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
 type: article
 quality: 99
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -282,6 +282,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Nvidia announces its first new Arm CPU for AI processing, the Nvidia Grace"
+    excerpt: "Nvidia has announced their first CPU in several years – and first since making a big to acquire Arm – which is set to focus on the growing AI space."
+    publishedDateTime: 2021-04-14T13:30:00Z
+    webUrl: "https://www.criticalhit.net/technology/nvidia-announces-its-first-new-arm-cpu-for-ai-processing-the-nvidia-grace/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/04/nvidia_roadmap.jpg?fit=800%2C460&ssl=1"
+        width: 800
+        height: 460
         isCached: true
   - title: "NVIDIA Announces Availability of Jarvis Interactive Conversational AI Framework"
     excerpt: "and new text-to-speech capabilities to create expressive conversational AI agents. Utilizing GPU acceleration, the end-to-end speech pipeline can be run in under 100 milliseconds — listening, understanding and generating a response faster than the blink ..."

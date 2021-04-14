@@ -294,6 +294,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Nvidia announces its first new Arm CPU for AI processing, the Nvidia Grace"
+    excerpt: "Nvidia has announced their first CPU in several years – and first since making a big to acquire Arm – which is set to focus on the growing AI space."
+    publishedDateTime: 2021-04-14T13:30:00Z
+    webUrl: "https://www.criticalhit.net/technology/nvidia-announces-its-first-new-arm-cpu-for-ai-processing-the-nvidia-grace/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/04/nvidia_roadmap.jpg?fit=800%2C460&ssl=1"
+        width: 800
+        height: 460
+        isCached: true
   - title: "NVIDIA Unveils NVIDIA DRIVE Atlan, an AI Data Center on Wheels for Next-Gen Autonomous Vehicles"
     excerpt: "April 12, 2021 (GLOBE NEWSWIRE) -- GTC -- NVIDIA today revealed its next-generation AI-enabled processor for autonomous vehicles, NVIDIA DRIVE™ Atlan, which will deliver more than 1,000 ..."
     publishedDateTime: 2021-04-12T17:07:00Z

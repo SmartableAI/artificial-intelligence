@@ -2,6 +2,267 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-machine-learning-on-raspberry-pi-just-took-a-big-step-forward.md",
+      "title": "Machine learning on Raspberry Pi just took a big step forward",
+      "excerpt": "\"Increasingly we're seeing deep learning eating software as part of a general trend towards increasing abstraction, sometimes termed lithification, in software. Which sounds intimidating, but means that we can all do more, with less effort. Which isn't a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/200a744f-429b-4a0f-b243-5ccc37d7498c/resize/1200x/a486d534d301e3691d29b889a98e246a/raspberry-pi-board-tinyml-edit.jpg",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
+      "publishedDateTime": "2021-04-13T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
+      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
+      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-324318/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "publishedDateTime": "2021-04-13T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-go-beyond-traditional-data-to-feed-next-gen-ai.md",
+      "title": "Go Beyond Traditional Data To Feed Next-Gen AI",
+      "excerpt": "When AI was introduced to the business community, visions of how we could use it to meet customers’ needs came clearly into focus. And, with those visions, came the promise for AI to revolutionize customer experience. The acquisition and successful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075b5229baf302bb5901b2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
+      "publishedDateTime": "2021-04-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows.md",
+      "title": "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows",
+      "excerpt": "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767",
+          "width": 1168,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
+      "publishedDateTime": "2021-04-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-informatica-modernizes-ipaas-platform-using-microservices-and-ai.md",
+      "title": "Informatica modernizes iPaaS platform using microservices and AI",
+      "excerpt": "In addition to making IDMC available on the Microsoft Azure cloud, Informatica is adding ... Ghai noted. The CLAIRE AI engine, meanwhile, provides the algorithms required to ensure data quality ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Informatica-Intelligent-Data-Management-Cloud.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
+      "publishedDateTime": "2021-04-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help.md",
       "title": "Customer Service As A Revenue Generator: How AI And Other Tools Can Help",
       "excerpt": "Companies that don't take a revenue-oriented approach to their customer services teams fail to unlock a lot of sales opportunities.",
@@ -554,7 +815,7 @@
       "originalUrl": "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -700,7 +961,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -752,7 +1013,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -924,7 +1185,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -964,259 +1225,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-how-iot-and-artificial-intelligence-are-the-perfect-partners-to-boost-business-productivity.md",
-      "title": "How IoT And Artificial Intelligence Are the Perfect Partners To Boost Business Productivity",
-      "excerpt": "Thanks to the Internet-of-Things (IoT) and Artificial intelligence (AI) which has transformed the business world by storm. Indeed, they have made businesses less dependent on humans and more dependent on machines. The result is ultimately auspicious!",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369230",
-      "originalUrl": "https://www.entrepreneur.com/article/369230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618291364-alexandre-debieve-FO7JIlwjOtU-unsplash1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369230",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369230",
-      "publishedDateTime": "2021-04-12T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
-      "excerpt": "The powerful robot vacuum DEEBOT N8 Family delivers a more powerful, worry-free and automated cleaning experience   JAKARTA, INDONESIA - Media OutReach  - 13 April 2021 -  ECOVACS ROBOTICS , the world's leading home",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/N8-PRO-mop-1.jpg?itok=lwWr1lI_",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
-      "publishedDateTime": "2021-04-12T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
-      "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
-      "excerpt": "Carbon Robotics’ Autonomous Weeder uses artificial intelligence to identify and zap weeds growing in fields of vegetables. (Carbon Robotics Photo) Carbon Robotics, a Seattle company led by Isilon Systems co-founder Paul Mikesell, is unveiling its self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
-      "originalUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/photo3-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
-      "publishedDateTime": "2021-04-12T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks.md",
-      "title": "How Machine Learning Will Enable Technologies That Anticipate What The Brain Thinks",
-      "excerpt": "And now, converging with advances taking place in machine learning, BMIs are on the verge of entirely new capabilities. The Problem with One-Size-Fits-All BMIs There is a tremendous amount of engineering that goes into developing BMIs. State of the art ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f78e1c80df8df6e0b0c6d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
-      "publishedDateTime": "2021-04-12T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-how-to-ace-a-job-interview-with-a-robot-recruiter.md",
-      "title": "How to ace a job interview with a robot recruiter",
-      "excerpt": "So, if you are faced by a robot recruiter in your next interview ... Aida Fazylova is CEO of HR tech startup XOR, which uses AI to automate the earliest stages of hiring like applying, screening and getting scheduled for in-person meetings. \"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106545713-1589988202687gettyimages-1026594156.jpeg?v=1618238696",
-          "width": 2119,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
-      "publishedDateTime": "2021-04-12T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

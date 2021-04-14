@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department's facial recognition software, one of the first lawsuits of its kind to call into question the technology's"
-publishedDateTime: 2021-04-13T21:06:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
-webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
+excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
+publishedDateTime: 2021-04-13T23:25:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
 type: article
-quality: 20
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
@@ -241,6 +247,17 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "US man sues police for wrongful facial recognition-based arrest"
+    excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."
+    publishedDateTime: 2021-04-14T12:11:00Z
+    webUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
+    ampWebUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z
@@ -256,6 +273,6 @@ related:
         height: 628
         isCached: true
 
-secured: "L+Xvw0ghS1iiByEOm7bVcSok2Djg0SyN5KOAkna1PT67wB4n0n3DXcwapIcl5ZcNt5Zo7KKVrlfDtxY+B3wUQpMjKtDJhvMAAs+UoushFnD4diVb4+XUYu8cCoFjO1jL0rr4Lo13Y3B7ApyNROBknkh8HWXwvd9yuG4rEV5u/RiL7Eb6OcNCjHlfihaVehOWvnbD+f/JgBpOceQ2/COIhU+z33++rKTZ5uuNkLPgpZWiHENiA6/AkbeWvgu9gLtuC8Xac2wazFAG8pLeTuaJO4t8XRgOENlaQ3AQMCzpD5aKQdVWXdD5vHuXSifMVPIoBJl4BpTK3ZuemZWDsa4Z3hraFs2Vs2C0heGmwfupb/WtnpsuHoifH7r40Bs3YL9AvDk/FYGhs909jL/7M0VCc/XgEFpHw+WXnCR1ZiqYMM/cfTCL+vwx55n3cGQvBsP4bJcnBvtU3kmJpeH0pN5iGZ9vEGbkwmaIFPRKynsWo3btPCr8J7L41xSACbaVzUCIEjdNwI+/Kt57ny4cq8XRuA==;bvbLjdhrgC0MaGBpUruEcw=="
+secured: "muB/IyOOThg5RNCD6grn5o+PklCnQaF5rjalyH3mgBvQaF48TjHQIxdlwSaPhEdEDIz62UkdbWRuaLgZ9A+09IXrY90d22+x1X+QivXv+wsBNWrhdTb7Qe8bZmuiUlfk9pDyXb6tPji3/uh6yWNwoQQCiXx6vG2ZdGwAoi51nzSU9iSdCqUWUGMDAnam+r388JZAMJOMRL+RutrB7A/gduQ9AV66npiCrP9SX9gPIpLMWnELmRLw/XX4EPDJ5lh2fwKTKtcYorivEUefmxBzv9euiDHIUWdSNGgoTt5UqPHcnrpRu7pJcR9qOxnTpcCgmqejkUDqHzBBDQpomFeelaASQdS+p4v0t/yy2MXarLY=;J80bl2/MAwLA8VZif4SFbw=="
 ---
 

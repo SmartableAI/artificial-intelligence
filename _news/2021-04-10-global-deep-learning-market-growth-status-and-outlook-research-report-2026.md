@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
-    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
-    publishedDateTime: 2021-04-12T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "x8erpr0vzyXWUO5fB291YLsYeKDFfaFVxnvbKdcx7iy6ElYfpm7RHKMX0+A3TRZavrPnh7kiaM9uInJg5iJzgtBCoXFc1dJJbps0olui/luBzZuPdSykJyjXoJCa3FsJEZPqLRuS0ID4G1DObw0rlyKDdCOMLQUmTeuRLJV5YKvEXS0/zlrKR0SGWeQNv38y90VtdDecpa0Y8ddadzPGZ95lZe7HtyXOffWIiEP1iqk4gf4Ik/8t+MIMjembAdskjgG2sYkelgtepAKSb+qtOr5LkC6GD/jSft2AOieUKjMpktQ5gac/JzMrsO9nSQQVX1tx+yTCPBvuWrrV7waum9919kM3uzVJwEKdSfeq7UI=;MYOWYdok1HnT8jRpov52ZQ=="
 ---

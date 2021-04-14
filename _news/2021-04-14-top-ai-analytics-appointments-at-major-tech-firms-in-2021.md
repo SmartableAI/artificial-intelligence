@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CloudMoyo Enables Data and Infrastructure Readiness for Advanced Analytics and AI/ML Applications at Terracon"
+    excerpt: "Successful implementation of Snowflake data architecture on the Microsoft Azure platform has created centralized access for all structured and semi-structured data and allows us to leverage BI and AI capabilities for better business decisions.”"
+    publishedDateTime: 2021-04-14T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-corporate-news-north-america-9633ba14bf0645d2bdd88941725d8e62"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "V/hf7B/1Aecjy/ygzmApL9h9OWdq31Czzqhu7d9Twg6hzLsyLYamzjqngCCMicnQr0rqsL2WZlySrnILSiK+a29/4cEYeU4X9vw5HyuPzwi25QYgV2LW12o95PttdkWgRFvKBbfwcTsYYgtM/qlPtZFJqvRpQ/3+OLKyWaFHEqZW+cW5y2h9AwIoJOzvnv/4cAeo5U9sxte9mPxETm8H4NhO0QzpUDJDF43bGv5pFvzD26oQhh8oYm9/0w8jyQKU+ojc0GLw7W5GW4f9CTE36UBd6WUUPFrrnIWdDORR2nlplTsoiqP1OwNhlSPeqraPrE+kC4eMCFmXQWB0SyOTW4UuPNMj0JZQ4MchLDx3DmyQoga03LFWJhVhXmlDKOG3/lRPljOuDGlH5tSZNDoR6QObJ8qtCHyGRCxDSWs4KFMkgy/iyNHveH5dSGXSxWG5lT5qchD6+1kLSVqMpBwqlRQjhmqIyBz3qdM/MS2MWJUlvvD/AMl2CkGR/6YLVV/gOWAJucDYE2y5Kt+IuP2KQQ==;0VviuLiJb7ZnRe2YOYB27g=="
 ---

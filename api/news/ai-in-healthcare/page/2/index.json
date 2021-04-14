@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-ready-for-duty-healthcare-robots-get-good-prognosis-for-next-pandemic.md",
+      "title": "Ready for duty: Healthcare robots get good prognosis for next pandemic",
+      "excerpt": "Spanish flu pandemic, Czech writer Karel Čapek first introduced the term \"robot\" to describe artificial people in his 1921 sci-fi play R.U.R. While we have not yet created the highly intelligent humanoid robots imagined by Čapek,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
+          "width": 1920,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "publishedDateTime": "2021-03-30T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.md",
       "title": "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details",
       "excerpt": "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30.",
@@ -397,6 +441,49 @@
       "provider": {
         "name": "Webindia 123",
         "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ai-used-in-battle-against-asbestos-linked-cancer.md",
+      "title": "AI used in battle against asbestos-linked cancer",
+      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uol-aui032521.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uol-aui032521.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1230,92 +1317,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-based-technique-determines-cancer-cells-by-their-acidity.md",
-      "title": "AI-based technique determines cancer cells by their acidity",
-      "excerpt": "Healthy and cancer cells can look similar under a microscope. One way of differentiating them is by examining the level of acidity, or pH level, inside the cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "publishedDateTime": "2021-03-16T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
-      "title": "Cancer therapy: How our cells are becoming resistant to medication",
-      "excerpt": "In their new study Rune Linding from Humboldt-Universität zu Berlin (HU) and his colleagues have utilized artificial intelligence to learn, and interpret, changes in the morphology of cancer ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news765031",
-      "originalUrl": "https://idw-online.de/en/news765031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

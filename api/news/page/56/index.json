@@ -2,6 +2,336 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-03-03-ai-ethics-research-conference-suspends-google-sponsorship.md",
+      "title": "AI ethics research conference suspends Google sponsorship",
+      "excerpt": "The ACM Conference for Fairness, Accountability, and Transparency (FAccT) decided to pause its sponsorship relationship with Google.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
+      "publishedDateTime": "2021-03-02T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat.md",
+      "title": "Eric Schmidt-led council: America's dominance in AI is 'under threat'",
+      "excerpt": "When it comes to holding a dominant position in the battle for artificial intelligence, the US is in danger according to a new report from The group, led by former Google CEO Eric Schmidt, filed a 756-page report this week warning that the US is at risk of falling behind other countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
+      "originalUrl": "https://www.cnet.com/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/WgSjkYPRKBTJmx-1ihIpkAvJuxQ=/1200x630/2017/03/08/9c6ee9ba-447c-47ae-add0-31250aa872a4/eric-schmidt-google-cloud-next-2017-7922.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
+      "publishedDateTime": "2021-03-02T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-avepoint-is-leveraging-microsoft-turing-and-ai-at-scale-to-advance-corporate-and-higher-education-learning.md",
+      "title": "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning",
+      "excerpt": "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "originalUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.avepoint.com/blog/wp-content/uploads/2020/10/machine-learning-hands-of-robot-and-human-touching-on-big-data-picture-id1206796363.jpg",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "cdnAmpWebUrl": "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "publishedDateTime": "2021-03-02T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AvePoint",
+        "domain": "avepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-ai-is-transforming-cybersecurity-in-2021.md",
+      "title": "How AI is Transforming Cybersecurity in 2021?",
+      "excerpt": "This post will let you know about the role of Artificial Intelligence (AI) in improving cybersecurity in 2021 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "originalUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2021/03/AI-and-cybersecurity-challenges.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "publishedDateTime": "2021-03-02T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-pga-tour-selects-aws-as-its-official-cloud-provider.md",
+      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
+      "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider",
+      "originalUrl": "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
+      "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
+      "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "originalUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603d34e458f56d0096504362/lede/1614628311772-gettyimages-1218336354.jpeg?crop=1xw:0.8419xh;0xw,0.1065xh",
+          "width": 3897,
+          "height": 2188,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "publishedDateTime": "2021-03-02T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
+      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
+      "excerpt": "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "publishedDateTime": "2021-03-02T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme.md",
       "title": "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme",
       "excerpt": "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API.",
@@ -833,343 +1163,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
-      "title": "India using facial recognition in schools is an ‘overreach’",
-      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
-          "width": 1000,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "publishedDateTime": "2021-03-02T01:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure.md",
-      "title": "Compute and storage updates are available for mission-critical applications on Azure",
-      "excerpt": "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "originalUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/02/shutterstock_137488049_story.jpg",
-          "width": 760,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "publishedDateTime": "2021-03-02T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-selected-as-official-cloud-provider-of-pga-tour.md",
-      "title": "AWS selected as official cloud provider of PGA Tour",
-      "excerpt": "AWS's Amazon Rekognition deep learning system will then allow the Tour to tag content with \" specific metadata like player names and sponsor logos\" and provide \"instant access\" to historical tournament moments, enhanced commentary and more. SEE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "publishedDateTime": "2021-03-02T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition.md",
-      "title": "Fears for children's privacy as Delhi schools install facial recognition",
-      "excerpt": "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an \"overreach\" by Indian authorities and an invasion of children's privacy, digital rights advocates said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/india-tech-facialrecognition/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition-idUSL5N2KZ0SZ",
-      "originalUrl": "https://www.reuters.com/article/india-tech-facialrecognition/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition-idUSL5N2KZ0SZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AU0P5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AU0P5",
-      "publishedDateTime": "2021-03-01T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-as-china-rises-the-us-builds-toward-a-bigger-role-in-ai.md",
-      "title": "As China Rises, the US Builds Toward a Bigger Role in AI",
-      "excerpt": "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/",
-      "originalUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg",
-          "width": 2400,
-          "height": 1589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp",
-      "publishedDateTime": "2021-03-01T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-azure-percept-edge-intelligence-from-silicon-to-service.md",
-      "title": "Azure Percept: Edge intelligence from silicon to service",
-      "excerpt": "In today’s fast-paced world, there is often a need for instantaneous, real-time responses. Companies are finding the computing needed to support this 24/7 mentality generates staggering amounts of data, often from devices out in the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f819b8f-c09d-4144-a93d-ba0fe7a45d83.png",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

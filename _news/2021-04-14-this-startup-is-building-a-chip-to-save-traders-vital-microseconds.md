@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-14/ex-quant-is-bui
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-14/ex-quant-is-building-a-chip-to-save-traders-vital-microseconds"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 910
     isCached: true
+
+related:
+  - title: "This startup is working on a chip to save traders precious microseconds using AI"
+    excerpt: "In the unfathomably fast realm of high-frequency trading, a South Korean startup’s plan to build a microchip that speeds markets up by a few microseconds is bound to get some attention."
+    publishedDateTime: 2021-04-14T11:45:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/04/14/1600x900/brian-kostiuk-S4jSvcHYcOs-unsplash_1618400044418_1618400075568.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "x8oNxuihSf4+PL8RYl6+wgJd830aAdc5UYah3Uw/FxZFpP9IsWK1FB5ISzPvIk1I5nfY1qVbhZM7M5cQUJ5eYjBCq3HY0tYFCfhrcSVwx9/A7WSPrJdAXVGy+UhMGSghnqYAwqQu2nUnz3tFfIheRfLwYTDH+5v8wBrPhCgag2qKWDn4f35rN9YDgrVmfoCoTWqX9aEifhQKAG89vRtTvRPXZUCPMXdV3+YBeHbKJ6QBFakAK3DAe4nKMVkArgcMUDzRaqYOKtrkq0wZDnv9s9KpQ9OR2vnocPcukDTv177sDrqfzwKY2mD8Gf7uqcOGp45GuGOIk03Q3wdV06MjaRNbVG94zaNpSgsXlmQdB3U=;vXsnB+MDCzsxLSyLa8sMLA=="
 ---

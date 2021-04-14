@@ -105,6 +105,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
+    publishedDateTime: 2021-04-13T23:25:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Black Michigan man sues police after grainy facial recognition system mistakenly identified him as a shoplifter"
     excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
     publishedDateTime: 2021-04-13T21:35:00Z
@@ -245,17 +261,17 @@ related:
         width: 960
         height: 369
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department's facial recognition software, one of the first lawsuits of its kind to call into question the technology's"
-    publishedDateTime: 2021-04-13T21:06:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+  - title: "US man sues police for wrongful facial recognition-based arrest"
+    excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."
+    publishedDateTime: 2021-04-14T12:11:00Z
+    webUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
+    ampWebUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
+      name: Sify.com
+      domain: sify.com
+    quality: 39
 
 secured: "lCBjoG7pyPwsAKQg29MVvd9Wk06t9GdFE8vvav99uqDMZeFa1UVm/RCtLx+zOCfj59R1tOnb2Exn3PpIPaKSD0FFuFHr36JqFzRGtPM2LuAZJ5ZeKF9/EkGGka9HGPum2N3pW33TVswa5YL2iDeKtabaffuGMxklmjh69XJc+Tf9Zs0QvHhbOPnLh3NWQNLqXq8onH2GtPs1VG3Zi6HhwxG8OdOtyIT57DM8P33hHZtbGHMy3ZDZvDJVorv25L6rBMX5piOgfSeLuyoDTOC1kh8FIIWsOPsZivfZmzdK/T1lVA59/iXmXUyQXt/HTUjPl0Xoyu/C5XQXbW6KJMyNIjz+MOkyrpuCTNun1gcWBjM=;h6dRqmQ4q8rfphvZkPAovQ=="
 ---

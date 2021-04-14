@@ -1,12 +1,12 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The company was one of the first technology firms to appreciate the power of artificial intelligence by establishing DeepMind in 2010, a research laboratory dedicated to artificial intelligence. The company has also restructured itself around artificial ..."
+excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -53,6 +54,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "5THU90aFulQB3RwOO6Vlcw+limUUxByzhkWZjRZOdoTzE6kpLyLbK3fGrCKXhNOepINCoDPExlr0X1Slib4jUHB+qojTVvRVTxj8JQ/o7dvNkW+iPZCpJljfynGAAUrtVwW4Fji/4wcecRCVfwcvsdCw8dpKK/7evqfTpoSxquVvqBvEE/g1+wELIDP42JPt2mIGZ/sXQGincpnFLNqPv3UeV+W6OTFA0uwgJaUwi84kd/1YjMLVg2CXYBIn1m7A3g5ZEUBejislIWKXP4ToZ6scC5ZwgNUNlg9ln/gkBkE9ENJI3HoUmbs5YkOEJdoEK2RvsmfOpUmxfp8hFFPjkVp89lXLYr17dub3/ig2Ijg=;we0crxE/XDh5B7Vl5Q9zqw=="
+secured: "McL41Vb9BJozNRTCAr1/c2saHk6LqIeTOD2NnkxiymnA22k8vQRdu9CmxLn9kkKYpFTAIYbKv/CMCMYTQNsNbJAtFy4tMukJzytPDlO3aNe0Un9pbDPM91JJfAhlGaMVHLqsDuM+IgK/hTN+a6aGsucOyQ+CpK+lKYRzrDPP2uNbIrwaK84foR9awc67CWNJzpKBqnNYaHM5BeK/h5CeDoqpzmvPWZCmOLqHe7Zipti5GlusGoaUiXCQQqCamedv5fpsN95yow/7pXS56H78fxEj05aLKtZ/B+YRYK8QZEplHxQcBGQl49wgpczG5Traq7QypSdKYoGn4Ggmn7VGYELvMagv8kq9PBbyo1QfhbA=;j3JljUBNBugKhEBuUMbOEg=="
 ---
 

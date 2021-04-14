@@ -27,40 +27,169 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition could soon let you pay for all your mobile purchases"
-    excerpt: "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ..."
-    publishedDateTime: 2021-04-13T09:19:00Z
-    webUrl: "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
+  - title: "The future of facial recognition blends AI and IR"
+    excerpt: "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ..."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://www.androidauthority.com/future-face-recognition-1217022/"
+    ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 104
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg"
-        width: 480
-        height: 270
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg"
+        width: 920
+        height: 470
         isCached: true
-  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
-    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
-    publishedDateTime: 2021-04-12T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
+  - title: "The promise of artificial intelligence and machine learning for higher education"
+    excerpt: "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning"
+    publishedDateTime: 2021-04-12T07:43:00Z
+    webUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/"
+    ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
-  - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
-    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
-    publishedDateTime: 2021-04-12T06:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210411005003/en/Juniper-Research-Facial-Recognition-for-Payments-Authentication-to-Be-Used-by-Over-1.4-Billion-People-Globally-by-2025"
+      name: Dataquest
+      domain: dqindia.com
+    quality: 86
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
+        width: 816
+        height: 400
+        isCached: true
+  - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
+    excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."
+    publishedDateTime: 2021-04-12T15:51:00Z
+    webUrl: "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Opinion: Time to End Police Use of Facial Recognition Tech"
+    excerpt: "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,"
+    publishedDateTime: 2021-04-13T16:17:00Z
+    webUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/Shutterstock_Facial+Recognition_Header.jpg"
+        width: 770
+        height: 513
+        isCached: true
+  - title: "The future of artificial intelligence requires the guidance of sociology"
+    excerpt: "In the race to out-compete other companies– artificial intelligence (AI) design is lacking a deep understanding of what data about humans mean and its relation to equity. Two Drexel University ..."
+    publishedDateTime: 2021-04-14T13:30:00Z
+    webUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.html"
+    ampWebUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 58
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-ai.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "First-Of-Its-Kind Letter Calls For Ban On Private And Corporate Use Of Facial Recognition"
+    excerpt: "More than 20 civil and human rights organizations are expanding the fight against facial recognition and calling for a ban not only on government and law enforcement use of the technology, but also private and corporate use. The letter says that “In a ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition/"
+    ampWebUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 50
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
+        isCached: true
+  - title: "Editorial: Ending use of facial recognition by police"
+    excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."
+    publishedDateTime: 2021-04-12T22:15:00Z
+    webUrl: "https://www.dailypress.com/opinion/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Future of Artificial Intelligence Requires the Guidance of Sociology"
+    excerpt: "In the race to out-compete other companies– artificial intelligence (AI ... the term with software that is able to learn and act on its own. For example, self-driving cars learn and identify routes and obstacles – just as robotic vacuums do the ..."
+    publishedDateTime: 2021-04-13T14:31:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/April/The-future-of-artificial-intelligence-requires-sociology/"
+    type: article
+    provider:
+      name: Drexel University
+      domain: drexel.edu
+    quality: 38
+    images:
+      - url: "http://drexel.edu/~/media/Images/now/v2/story-images/2021/April/googleiStock-1173509038.ashx"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "The perils of artificial intelligence"
+    excerpt: "AI is generally seen as objective, clever and a feat of humanity. But for Professor Kate Crawford, it is far from neutral and is increasingly impacting on people and the environment."
+    publishedDateTime: 2021-04-13T07:44:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/ai/13301014"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13301090-16x9-large.jpg?v=4"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "AI and the future of gaming"
+    excerpt: "Charlotte Murphy is a freelance writer who loves writing about all things AI and how it's revolutionising the world in unexpected ways. There are few industries that cut as close to the edge in"
+    publishedDateTime: 2021-04-14T09:40:00Z
+    webUrl: "https://www.pocketgamer.biz/comment-and-opinion/76274/ai-future-gaming/"
+    type: article
+    provider:
+      name: Pocket Gamer.Biz
+      domain: pocketgamer.biz
+    quality: 37
+    images:
+      - url: "https://resource.steelmedia.co.uk/skins/25041616150133desktop.jpg"
+        width: 1600
+        height: 930
+        isCached: true
+  - title: "Solution House Software expands Smart Cities offering with facial recognition"
+    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
+    publishedDateTime: 2021-04-12T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 36
 
 secured: "C9PhKODb4syIB24IxNyKc5UhiuAEP5cpD8aGsEnilndh/ppaD2UHcwAJ09YGYpn6B6mnFJmT2EkSeVzBV8m7RLx0+mR6hKIvCYpsfdGew8DX39TzXjgJ0+vJgPiX2SVLasSs1oGnc4YY7otVCjqG/0qvOQuhLIqhnAa2jAUPcNt3vbwIFY9O1D9fPciSAJTt4HkUy+qwXg+6lsapHjVPWoEl3UZk5z1xuxquOSABZw47kPs2NTZPBIFof/Ry/anTw0H3dSY98qVpccsqZNGeti7uxNH1ANYSE+xnGh+yQ6byBVD3tqlLe52JfK7PIy0cvkPcsQL/JqtTNVW7wC5g/6DuAp+fIijeHcLow21GJTM=;EoRIj6eP41hmuKTrC43c5g=="
 ---

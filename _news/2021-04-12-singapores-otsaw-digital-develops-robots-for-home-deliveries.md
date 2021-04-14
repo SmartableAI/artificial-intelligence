@@ -22,6 +22,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "From Laboratories to Home Deliveries: Robots are at their Best"
+    excerpt: "AI robotics companies work around the clock to come with possibilities ... They have also stated that Starship technologies has listed few countries to start their commercial services using AI. Few countries that are included in the list are: Milton ..."
+    publishedDateTime: 2021-04-14T12:30:00Z
+    webUrl: "https://www.analyticsinsight.net/from-laboratories-to-home-deliveries-robots-are-at-their-best/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Robots.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
 secured: "VemJ7x2XJsw8VG8pYobntT89rOTRlKbI3ioqgmntf0g5bWyc6jxqGhOh10VfEfASiG5+jKrWYn6qJA8JkdjKhsILhrbLvdvqnM7G+klV5PbjpMXgOU9+uzxuWCmqWDh9y9ZR+uNN3d69yV6LQXVKHYPf5zwWDLKprjIXiuuaZB+KAd9LVA9wEz7J/KLK8C6ElCdor29kMGaxSz/Z07+YvGpC04Nw5RRw4iixKmDWpuuxjDnzy8Jw77tdQq6gB7QHU0S9cc4ONa5N8/WwIuSgV1n0ODBQHGwvPZ5TbDAwnEhSYatK/m6k4Yva+kcsdZ4G25zCkJh1ngtjtVopwNsV3c25BUUIRxS2oGhfmFWpNKs5kCS1c9dthF6dDETCiWejFH0JF0XdzL3rhU713mGrI6XD6MHJN4ut5E1oAONvdjcww/vdXHEoOxDr3LzmBhDtIJ5qYEBzk6biSJUCXMsYvIBjYHxHs0RFNDXNRWHeqH/6b4pE7aWH61vK7yG9MVPDX7qTE0rhVnjT0VgzjZu+IA==;ZDBmBvQ8S4UkRDXi2dQSiw=="
 ---
 

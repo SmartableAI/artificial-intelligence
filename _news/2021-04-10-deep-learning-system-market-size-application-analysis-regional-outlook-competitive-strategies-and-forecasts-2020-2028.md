@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
-    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
-    publishedDateTime: 2021-04-12T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "exWaSh5ODTD12lgg+B8gxShk4NDN/NPyoX65UKxhOEkVtAKYNxUGekNbYBCHY2AcEZdNnMHC4WeIG9IEkoWqU9IyE0BHM5Hu9gKsdYH8w1XOj/V+K/IkiVBtzl5z/4C1+qp0ps0i9d8DCpuBED1lR+HaBV1GJC8C2NGU4K7LvvCBXx3F0ulLGlbb0NWSebxWcsxprU+LMu0f6wcPGQRBy1KqC6iBBDLiWSuO2jjHao2m9MP2AGImgkmmvEFKGrXdv8ju3QXr5+YYUWm08GNSCM0V2X08i8t40mSp18zyHey4WE4bLhviGxtESwSTlybJMRgu/NZrCsipbzuAk+yhrfjyo5O7BIFFD0bX1g4I3jA=;bglEL1GIFUHyYWcgDHTA5Q=="
 ---

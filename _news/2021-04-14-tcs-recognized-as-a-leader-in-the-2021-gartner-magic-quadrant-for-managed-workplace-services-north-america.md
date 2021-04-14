@@ -1,23 +1,23 @@
 ---
 category: news
 title: "TCS Recognized as a Leader in the 2021 Gartner Magic Quadrant for Managed Workplace Services, North America"
-excerpt: "Tata Consultancy Services (TCS) (BSE: 532540 ... consumer-grade employee experience and infuse hyper collaboration,\" said Ashok Pai, Global Head, Cognitive Business Operations, TCS. \"We believe this recognition is a reflection of our comprehensive ..."
-publishedDateTime: 2021-04-14T11:35:00Z
-originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=286461"
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=286461"
+excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been positioned as a Leader in the Gartner Magic Quadrant for Managed Workplace Services,"
+publishedDateTime: 2021-04-14T12:22:00Z
+originalUrl: "https://www.tcs.com/leader-2021-gartner-magic-quadrant-managed-workplace-services-north-america"
+webUrl: "https://www.tcs.com/leader-2021-gartner-magic-quadrant-managed-workplace-services-north-america"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: Tata Consultancy Services
+  domain: tcs.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "7TBYbR59+4HdQ183QXhPadx9YUuLorNqIvTu7/kCEzkLlPhFXwbI2LsqmyE57h4IMe7if+4sezXVbUEQCsv0e+sEtZBr+sB6fFgvPkjtVmPTYrH00kUcHYBNQga4bhEN1HARIzZVyJ5p3KWYJ1u4uqPQko6I+v8GHTnievq/T68sM7JdwKdS0ZcnOotZowp7UPbDYbAB5DkY6rhyhPVmWyuKM2bTUw0sgYlzH71YqHRxgQMbSA0lpSAttpLtiG0T/AestcseA3z42FSe+j6YeEoiSTsUKC4NP58Vo81e0OIjS1aAAfPbFMKAZnSUIxsI8ByCs3j8Xpx3O5prkGbaWCkWxyPBXSHrg2W6G1/yzW8=;6ynHBVSf7zjpaJj8JktU6Q=="
+secured: "DqqJrllo5waIaShFWu68cXfFffjAXUQwRZszgoXSnXS1OHdJtIwnodJA9nc4u/EyJUz1vZC6HC4bsdw3B5CY7LuDArsx8I7bhb8AmHQh4WnsNBu52GFKEwWN/SEH+Y3zEt6xHia6Ji3GhB0RyEQKXPJwYA0ST4oplMAk8hQqHRiXzy4FBU6vgbePSWQnAtN6vRZgyvxmlq/ZMpKllE/EOwL9CAvEdMKnbqp9JkJrC6NCZMqTXxW5XFu/xlpBYLzRE5iOgvC5X+O4U/rYe/ccDsg5sFBJO+QR0zfK8NShOLTSJFhDjne6cZU5jwe35LeWow/D+ef7xAa4GaoiN3yu82sCzwEPNuZGoJACcoVL2TCvUJyQ+x2TO+1ISmbmMyo0pcCs+284az1aVLYdO6clHCftIv3SiCmCl71IhasvxLSu1zIVxGXxldqYWlfoewpNtmd8jEnZRhavkTLtXOuOrMjNEJDovMWO9wOorVzHWzOOY/W4TrjUHo4cjSLnI/Yd6U4nNfe4Yz19mSlC5UwVCg==;mUMpYH2m0afaMD5bpVP4tA=="
 ---
 

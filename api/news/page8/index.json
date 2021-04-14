@@ -2,6 +2,207 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-07-save-the-date-for-the-aws-machine-learning-summit-june-2-2021.md",
+      "title": "Save the date for the AWS Machine Learning Summit: June 2, 2021",
+      "excerpt": "On June 2, 2021, don’t miss the opportunity to hear from some of the brightest minds in machine learning (ML) at the free virtual AWS Machine Learning Summit. Machine learning is one of the most disruptive technologies we will encounter in our generation. It’s improving customer experience, creating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/2021_ML_Summit_Blog_800x400_V2-1.png",
+          "width": 801,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:11:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-doctorate-programme-prepares-leaders-for-a-fintech-future.md",
+      "title": "Doctorate programme prepares leaders for a FinTech future",
+      "excerpt": "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/leaders-prepared-fintech-future/article/3128548/doctorate-programme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/04/07/campus_0089_1.jpg?itok=VeyU3Y8V",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
+      "title": "Streamlit nabs $35M Series B to expand machine learning platform",
+      "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open source ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
+      "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
+      "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
+      "originalUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-3-75498030.jpeg",
+          "width": 690,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
+      "publishedDateTime": "2021-04-07T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning.md",
       "title": "Regulatory Compliance Must Be Addressed With Multiple Techniques Including Machine Learning",
       "excerpt": "Machine learning and artificial intelligence are still moving up the food chain. It’s good to see that the industry is moving past an important but still narrow focus on pure system security. Linking the tactics to compliance strategies is the next step in a more mature use of machine learning.",
@@ -202,17 +403,17 @@
     {
       "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
       "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
-      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round led by SoftBank Vision Fund 2 1 and technology-focused funds managed by existing investor BlackRock,",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round led by SoftBank Vision Fund 2 1 and technology-focused funds managed by existing investor BlackRock, Inc. This round of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_799e63fe-e24e-5e1e-8956-3a88ac03c0d4.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_799e63fe-e24e-5e1e-8956-3a88ac03c0d4.html",
+      "webUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
+      "originalUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/67/06758ed7-331c-5f20-a0e6-826cfad3a93a/606db105456c9.image.jpg?resize=1003%2C630",
+          "url": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/1/22/122b21fd-cfb3-5211-8351-960cfa46236e/606dadc570063.image.jpg?resize=1003%2C630",
           "width": 1003,
           "height": 630,
           "title": null,
@@ -227,8 +428,8 @@
       "publishedDateTime": "2021-04-07T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "Cadillac Evening News",
+        "domain": "cadillacnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1021,198 +1222,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-is-femtech-the-next-big-thing-in-health-care.md",
-      "title": "Is ‘Femtech’ the Next Big Thing in Health Care?",
-      "excerpt": "Start-ups and tech companies are creating products to address women’s health care needs. It’s still a small segment ... MobileODT, a start-up based in Tel Aviv, uses smartphones and artificial intelligence to screen for cervical cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/07/multimedia/07sp-hc-femtech3/07sp-hc-femtech3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
-      "publishedDateTime": "2021-04-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics.md",
-      "title": "POLITICO AI: Decoded: Queer AI — Oxford on ethics — The people vs. biometrics",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics/amp/",
-      "publishedDateTime": "2021-04-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-huawei-deactivates-ai-and-cloud-business-group-in-restructuring.md",
-      "title": "Huawei deactivates AI and cloud business group in restructuring",
-      "excerpt": "Chinese telecom giant Huawei Technologies is closing its core cloud and artificial intelligence business group after only 14 months, reflecting the company's difficulty in transforming from device-maker to service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Spotlight/Caixin/Huawei-deactivates-AI-and-cloud-business-group-in-restructuring",
-      "originalUrl": "https://asia.nikkei.com/Spotlight/Caixin/Huawei-deactivates-AI-and-cloud-business-group-in-restructuring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F7%252F5%252F8%252F33468570-3-eng-GB%252FCropped-16177692222019-07-02T111339Z_1179524159_RC1411658B40_RTRMADP_3_HUAWEI-POLAND-SPYING.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
-      "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
-      "excerpt": "An Envise blade includes 16 Envise chips in a 4U server configuration that uses a miserly ... And, of course, enables continued growth in our use of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
-      "publishedDateTime": "2021-04-06T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

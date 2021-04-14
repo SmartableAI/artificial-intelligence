@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
+      "title": "The future of facial recognition blends AI and IR",
+      "excerpt": "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
+      "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/future-face-recognition-1217022/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/",
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-detroit-man-sues-police-for-wrongfully-arresting-him-based-on-facial-recognition.md",
       "title": "Detroit man sues police for wrongfully arresting him based on facial recognition",
       "excerpt": "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -107,49 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-opinion-time-to-end-police-use-of-facial-recognition-tech.md",
-      "title": "Opinion: Time to End Police Use of Facial Recognition Tech",
-      "excerpt": "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html",
-      "originalUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/Shutterstock_Facial+Recognition_Header.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP",
-      "publishedDateTime": "2021-04-13T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
       "title": "Facial recognition could soon let you pay for all your mobile purchases",
       "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ...",
@@ -158,7 +167,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -286,58 +295,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition.md",
-      "title": "Billions of smartphone owners will soon be authorising payments using facial recognition",
-      "excerpt": "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "publishedDateTime": "2021-04-12T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -766,17 +723,17 @@
     {
       "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
       "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
-      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round led by SoftBank Vision Fund 2 1 and technology-focused funds managed by existing investor BlackRock,",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round led by SoftBank Vision Fund 2 1 and technology-focused funds managed by existing investor BlackRock, Inc. This round of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_799e63fe-e24e-5e1e-8956-3a88ac03c0d4.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_799e63fe-e24e-5e1e-8956-3a88ac03c0d4.html",
+      "webUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
+      "originalUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/67/06758ed7-331c-5f20-a0e6-826cfad3a93a/606db105456c9.image.jpg?resize=1003%2C630",
+          "url": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/1/22/122b21fd-cfb3-5211-8351-960cfa46236e/606dadc570063.image.jpg?resize=1003%2C630",
           "width": 1003,
           "height": 630,
           "title": null,
@@ -791,8 +748,8 @@
       "publishedDateTime": "2021-04-07T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "Cadillac Evening News",
+        "domain": "cadillacnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1333,6 +1290,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
+      "title": "AI Fire Detection: Computer Vision Guards the Forest",
+      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

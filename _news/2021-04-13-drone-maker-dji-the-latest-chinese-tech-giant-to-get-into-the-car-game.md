@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dj
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Chinese and other tech giants bet on smart car revolution"
+    excerpt: "Chinese smartphone giant Xiaomi is the latest newcomer in the electric vehicle, race with a plan to invest $10 billion over the next decade. At a March event unveiling the company's plans, billionaire founder and CEO Lei Jun called the new initiative \"the most significant decision in Xiaomi's history\" and said it will require \"full efforts for at least five to 10 years."
+    publishedDateTime: 2021-04-14T12:52:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/Chinese-and-other-tech-giants-bet-on-smart-car-revolution"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F0%252F6%252F33616029-1-eng-GB%252F2021-01-09T125517Z_875632062_RC2C4L9CJUZT_RTRMADP_3_NIO-CHINA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "iEgu4lu4Ut2k0/V4qcmOT4ThQlHmOpKWWdD8ZR7+IL0kLJrbqcTUlSVGKlREmdjUhBqZm9Mkjyukl6VKTeX1uUTuHvKQA9XxcAb5Gh56JnI39E3FevggqrtJ3SPlSzf8zVQ9Q6T8+0mr6YdUmoOcLx2x4k18uvoFSptc5AV9nqrN6eK0mTbKQPLID9lOWkahzZdoFzFQorp8b4teV7elRS8z8d7gL3eJEvywSLNsYqiVRNKNkQq1YinpPMHetQwvLUXp206AUbUMCG1/DtkySnnM3uN4Tm3yukF3W3LxslevuO2mOlkxr9wT16sSlGopKf/2Vr0TehALEDUNj12LgbL7i4muSU+UQkW8eHXUnfA=;wvMKyE2Dss7fiBorEaP5cw=="

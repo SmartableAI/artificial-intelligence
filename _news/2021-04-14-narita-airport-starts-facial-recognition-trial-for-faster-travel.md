@@ -66,16 +66,19 @@ related:
         height: 630
         isCached: true
   - title: "Facial recognition tech being tested for US flights"
-    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic tra"
-    publishedDateTime: 2021-04-13T18:51:00Z
-    webUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.html"
-    ampWebUrl: "https://omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/facial-recognition-tech-being-tested-for-us-flights/video_d31146c6-06ff-568b-a823-28370ce6fb6b.amp.html"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: USA Today
+      domain: usatoday.com
     quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "lEp1luctItsI8HigiHpMAn5EtLk0eNO8sOwu6cXQ0x3YVzJ1nDguROEMJ3ucROUaxXY5X2NKrV6YGm3e7t7HHCQVEUz9py5oyd9/jmajw+aqMi3Ks91SfbeVFimv+XsOohzdeY+zv4Rlgb3j29bgAbfeIMvLA+5vS1qdNdCpyrjV4z4o0t2Q+/I54nIsjwuW5VuKJAxc7kaQSzyWJO3/rQdwTnbbZIMPwMRX8oMrzEVBdVGZ/loBMNfYE8SOo8VBCbB8D/gLfsvASminrUZQd19sUKEiR4cJE9D3qi7e3fsz44w7BcwAiu+lHBrSWD2BX1ynkp4FtepTApYYrp9Jb2kW3IQQ55rpxpVAqx9qens=;liw3iXUeu8ztdA8yKKEJUw=="
 ---

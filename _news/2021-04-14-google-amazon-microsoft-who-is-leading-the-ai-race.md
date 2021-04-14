@@ -752,6 +752,20 @@ related:
         width: 1200
         height: 804
         isCached: true
+  - title: "Microsoft, Nuance News May Signify Next Era of AI in Healthcare"
+    excerpt: "April 14, 2021 - Artificial intelligence in healthcare has mostly existed in the realm of the hypothetical. Clinical use cases for AI algorithms permeate the research sector, while rarely infiltrating real-world care settings. With the recent news of ..."
+    publishedDateTime: 2021-04-14T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/microsoft-nuance-news-may-signify-next-era-of-ai-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 71
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Microsoft ramps up focus on healthcare AI with $19.7B Nuance acquisition"
     excerpt: "They formed a partnership in October 2019 that began by adding Nuance’s note-taking ambient AI to Microsoft’s Azure cloud computing service so it could be more easily integrated into healthcare providers’ electronic health record platforms."
     publishedDateTime: 2021-04-12T16:01:00Z
@@ -1258,6 +1272,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price."
+    publishedDateTime: 2021-04-12T10:20:00Z
+    webUrl: "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/"
+    ampWebUrl: "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 48
   - title: "Microsoft acquires clinical voice-to-text company Nuance for $19.7B"
     excerpt: "Microsoft is acquiring clinical documentation and artificial intelligence company Nuance Communications for $19.7 billion, two years after first inking an R&D partnership with the speech-to-text market leader. The Redmond, Washington-based tech giant ..."
     publishedDateTime: 2021-04-12T15:29:00Z
@@ -1450,6 +1475,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "omE5NIDw6xpkbzGmT/VvLGO8NUuk1awOmU38IWlnbR0xsDLVKqPFAvwAPlCeLg9jh1brDc5VymOLXEA7dumTZkyFQkigSQvFfUzBvys72kcX9KOBr3SU1dwMOHkOybWdsU/lx6ldQpkq0ELrb2HUwk0lTiq1ElWvpXdjstW2S3CdIGQLRYgrOiVfg67uwtjgMMmvVZ7iVDXjKgmOHnzb4QMgF4n6NVQqHB67CZMUurDjHbR5dia9vf8E4yKrQK4H+LvaiK79c5S0yYJWvYnQ6PtuG1zBBTZWyk2DEX75H8mxS+WE9yG3Ep3lWbMOE7Hw1IPf4Gq0djgvMsQwefvHQL3TutYb3cH8ygKVQ+WxJPU=;zuz3/RA+fH45KTjgelVyLg=="
+secured: "bE21AOJUfXCQ2wseknD7Ep49ypKx7htt6ovZD3x4msUY6qtG+eGkcjWu9hjopVqUxo4VDD8a+2/g1WE9OCAiJdtiW1oNTbl2cB0e0Id2/h9vg2tA9xaelplRSv2SNODJcsrMDAprbSdV0vrkzmgz3cPEK0qgekSOUwvltMF2bDd02re/MnakVP8YP39mPIEwNkRMRLulQai/1wValJK/oo61e74bOcREBDXttTvHXCoveQrQ6KaUa1xsY1EhNjnFPaUdktT3D6nm/wgBtGOxxRAh39UeDQGcJtTgJVUwcvt5RZTZwJLI5OGPxAAw2gRPeMfDpoPrCoVYb+lmt9fSImZjkAbsf2Xfq7DhUzMK8dNOlePysI3MlU1ke2fZQJ60zbOPwumGvtDv5071O4a4I+kZAyaIbtx4lxBxND1/RTbEpBjc/wvoV0z0e/1KG2MlNSiTHW/ctlb54nHbvkKLwooUn9Jj7kC3FC8QZ90BfnOSZzXGM+eqgxc0cYL3BhoJeYDVzCHfjGjimQDcLRAtaw==;kAKQhmqAgiu1U8GcL+XNLA=="
 ---
 

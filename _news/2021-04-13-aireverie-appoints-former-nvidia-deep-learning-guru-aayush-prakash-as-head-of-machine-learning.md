@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AI.Reverie Appoints Former NVIDIA Deep Learning Guru Aayush Prakash as Head of Machine Learning"
-excerpt: "Aayush Prakash joins AI.Reverie from NVIDIA to lead Machine Learning. (Photo: Business Wire) AI.Reverie is the leading synthetic data company for computer vision, and it serves a rapidly growing global client base of top enterprises,"
+excerpt: "\"He brings incredible experience, unparalleled expertise and deep industry knowledge to AI.Reverie and our clients.” Prakash is renowned in the field of machine learning and recognized as one of the foremost synthetic data researchers in the world."
 publishedDateTime: 2021-04-13T15:15:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-executive-changes-corporate-news-personnel-corporate-management-6aec6713c6854f90b718dfa1d32ca755"
-webUrl: "https://apnews.com/press-release/business-wire/business-executive-changes-corporate-news-personnel-corporate-management-6aec6713c6854f90b718dfa1d32ca755"
+originalUrl: "https://www.businesswire.com/news/home/20210413005853/en/AI.Reverie-Appoints-Former-NVIDIA-Deep-Learning-Guru-Aayush-Prakash-as-Head-of-Machine-Learning"
+webUrl: "https://www.businesswire.com/news/home/20210413005853/en/AI.Reverie-Appoints-Former-NVIDIA-Deep-Learning-Guru-Aayush-Prakash-as-Head-of-Machine-Learning"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "M4c8SaDlkHd1ygFGMx0P7gXKqzyIk4/qoBi1Uild6CfCBBib3F9g4NC9jnOv9ipGoVRFYCqt95l0RoXNmEYYkbjRcNf4SixiWrAidL3jveOcvI3nR1XGpHDLQgANh5JcnUrdwFZLnMVgp76vJX/rlyZOjQ/Gv6OI3S3M+4xPpP08P8d0avJrjZhEciQcP/zXoF6uVfY/93IEbFW71G+Jr31gtx/uOlTD/dGnoWQ/EN0MGrjY5TMv5c3zs7OZVXu0FiK8BPLG4oo8/sS6wR5f4FF2jJUUwGvMVSl+Jn4pUNT8OJZA/bFQCfLT6BgcRTiuMAEHT4UuiF5BKAxufo10BRAs6XrAz+3I2gsQk3uEHaQ=;mwzG/vobAGu2RRkRb+mwzw=="
+secured: "IO6cjoNaNA35fpM9R8YwPn5kL8hWTfZMJoYwH128xER37Pukxz0hbhRX0DFoXPaZipR9fI2noBkK6xRh4zzZbBu7D4gl8xfDNmDV99TXNtxNMwc3JnaHRoVCKayfInVaQuwD9OuXfSpwKs2Sjilq6GdI4wo4lSxXM3sqwCfZASUgeKYYGcYe9LfU1LBg4M1kNvJD5YT0mtz86jmbgvIb/RGWFkOd3rF9Ac8NNOkcU6yMz2qZytmTTda2aP/tSLjj4iF79sxuWRBx9G5rdu3rB+h0xpWFcubKPWt+MwV5ccHBuBJ7jYBXwYZq8GQzc7X3P72FdiZ/3BwKdQUxL6EHIP3a1wf0nZt/HqsmxoFyeRJCNtrm65SF2pd0ZV1jnfRBe2dzlZteqMyPOpCq8QEL5HOH9gUumK1AI/99yAMILubHZ25KmV7RPkrEuE1eBPtuJ+OQqeYb4zH5d9ARvEZk+65/3067fP/qewk/bvtORwY3p2svk0eoB0j0zG7eSXBPmv3vvxw2cJXmdnAMp2liQw==;NYXbXyVl85jK02E7qtMvHA=="
 ---
 

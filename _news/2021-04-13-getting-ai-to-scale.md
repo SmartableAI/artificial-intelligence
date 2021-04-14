@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Why these doctors are embracing AI to make triage decisions"
-    excerpt: "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ..."
-    publishedDateTime: 2021-04-13T11:20:00Z
-    webUrl: "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
+  - title: "Big Tech’s guide to talking about AI ethics"
+    excerpt: "If they challenge the status quo, fire them. efficiency (n) - The use of less data, memory, staff, or energy to build an AI system. ethics board (ph) - A group of advisors without real power, convened to create the appearance that your company is actively ..."
+    publishedDateTime: 2021-04-13T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 176
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/11/8c3289a0-2079-42f7-b8fb-ac6f44614965/radiology.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "What a bleak AI future tells us about how to work now"
+    excerpt: "What is it that I’m hanging on to?” “Goodwins. Your law department. This whole . . . world of work. Your every waking moment determined by some contract you once signed.” Kazuo Ishiguro sets his new novel Klara and the Sun,"
+    publishedDateTime: 2021-04-12T03:00:00Z
+    webUrl: "https://www.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
+    ampWebUrl: "https://amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28fe7e89-8dd3-4315-a4f2-5061de79be7f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
+    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
+    publishedDateTime: 2021-04-12T12:57:00Z
+    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 39
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
         isCached: true
 
 secured: "XS5+Njklo1rlu0Wi0RoKzZSA2Tspl9B3NvzxTsQcJEQUJ0nQjbUq1SltBln7Hm/4GlpViu0XOqG86pG7emPwoGsERShKyMrb3+O2sUGeEUUx8Y7A3tIfn0qP+MHjWGDNCkCSVtBWiylrKrUKew9JmZDookwaYiItlAX3umcFvVRElwcUmQ4AgypyjbXAiYTZRXBQcLnhdDFUfmxwsXpS5iyD38Vz6Y6zLECFeaWy7mbWrfYyZr5GwyqE07lYqaI5Jl2kVwHzn90niZud85o1ijO1Gvki1q99Pxc4jpkonKs2f7lKeJiAEebXNOin+aX2tdIQte9ZIUZ3qdvwXRQTVSe7y0dy32pb+IFnXWTM7KiFZaeQ7oUV7t/p+bYyEyx4zjvNZTu8tdwKUXEx742qbFOc+L/CFAZQui1wznJANDshg1bZyFSBAyicdZuASd+Zked7crbh3tulxyFyFfPg8+ipiiQPBLsFNKJ3of2lNPsYS/C1jWNIX62lLFkORRWDPQYxiFHk/+97ZLAhJuqd1Q==;SJjH5DLPUb2tZmDVR1DzRg=="

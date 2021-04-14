@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
   - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
     excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
     publishedDateTime: 2021-04-12T10:42:00Z

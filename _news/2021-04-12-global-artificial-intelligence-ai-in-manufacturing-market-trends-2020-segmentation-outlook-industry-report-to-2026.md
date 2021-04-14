@@ -22,43 +22,29 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
-    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
-    publishedDateTime: 2021-04-10T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
+  - title: "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others"
+    excerpt: "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ..."
+    publishedDateTime: 2021-04-14T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
-    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
-    publishedDateTime: 2021-04-10T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-application-analysis-regional-outlook-competitive-strategies-and-forecasts-2020-2028-2021-04-10"
+  - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
+    excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
+    publishedDateTime: 2021-04-12T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-report-analysis-2021-2026-top-keyplayers-ibm-intel-nuance-communications-etc-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
-    publishedDateTime: 2021-04-10T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

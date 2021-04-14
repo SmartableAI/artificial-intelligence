@@ -36,22 +36,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Civil rights organizations call for ban on corporate use of facial recognition"
-    excerpt: "at the start of this year. The Portland ordinance bans private entities from using facial recognition technology in places of public accommodation. “We believe this ordinance should be used as a ..."
-    publishedDateTime: 2021-04-14T10:00:00Z
-    webUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial"
-    ampWebUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_113017getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
     excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
     publishedDateTime: 2021-04-12T06:00:00Z

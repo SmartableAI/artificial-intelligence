@@ -21,33 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "The promise of artificial intelligence and machine learning for higher education"
-    excerpt: "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning"
-    publishedDateTime: 2021-04-12T07:43:00Z
-    webUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/"
-    ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
+  - title: "Leveraging AI tools to drive operational efficiency and promote brand"
+    excerpt: "“In the past, the only information a computer had about an image was text-based,” she explained, “but in recent years, AI has begun to analyze and understand the image content. Because of that, we can start to embed related concepts, related ..."
+    publishedDateTime: 2021-04-11T14:46:00Z
+    webUrl: "https://www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773"
+    ampWebUrl: "https://www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773?amp=1"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 86
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 57
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
-        width: 816
-        height: 400
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/04/GettyImages-1176067266-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
-  - title: "AI, automation the only option for SA"
-    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
-    publishedDateTime: 2021-04-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 41
 
 secured: "EekfEssquoop2rcpMJP+MQ2Fm4Moy4r2svupvb36zCOupr3fGHMGi8wdyJtL1i47Xk5ZrxQ8vWsXRzQP+7jdvh1K4LR54znZOhaCzn4FuXgdzVMG/S5GaiyY0QgtfcONiQ6+vig/SHDkaPamOYMViUimeac9HvmN7a6Pq1juLwEAapL4isbdKFVBleH33xyfAnC2OE48D+CEvs6zSoxZRBg6i57yITycQH+ByNdZ19PtwN0jW4p9FRsl+6XoEs/NYj4AglVB937w/Wf5PWKEwEErOhv+Y6gfzWJ8Kt2EKP1aZ2ePaFEC+6m/W7rxVzaxLs1UuKb8Ri8e88oXFGIxU+mdFWvUSA5t6FZLSWeTy0s=;MIO4iIZaTp5Vc5Yy6zJbwQ=="
 ---
