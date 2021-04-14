@@ -3,16 +3,16 @@ category: news
 title: "Simplifying Security in Multi-Cloud Environments"
 excerpt: "In doing so, they have adopted three Cloud Service Providers (CSPs): Microsoft Azure, Amazon AWS ... The platform provides predefined policies, advanced automation and machine learning, enabling generalists to manage security across cloud environments."
 publishedDateTime: 2021-04-13T18:28:00Z
-originalUrl: "https://www.navytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
-webUrl: "https://www.navytimes.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
+originalUrl: "https://www.defensenews.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
+webUrl: "https://www.defensenews.com/native/palo-alto-networks/2021/04/13/simplifying-security-in-multi-cloud-environments/"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Navy Times
-  domain: navytimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - Microsoft AI
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "trJru9DYlhZzN8vmzteJu9nHTizBgu6HfOqO8D3Fb6MJ+7a7AQELA9ckqYIEFX21wDagkqeYSC4yVuU1J45DtZkzO2/hCxZFZ5FPHN12Zrckpz3t/WM52aZ7FjP3vIPra5ALdHt6qkc28QUW8hdXZKhLjhgDty1tzHTSuhuNFJ0Y5YNWEvRIqDZ73Q0/DPtLnR4kCzOEoBL8lmVUwfnOCHrhRVQgV6SvcL0F9A33eICYECxauZpr64wZmZrd4QKfajwQdZJBeeERL+60UC12nNVka+Rmtpl9zfzm8EM5KJ+fc5ksoaCOoDRAfA6KBUduI5zKsOeKpWmPrs6P2ucaP/h7JbicrGe8dRpbgNHOFbM=;EhrWTYo170wqJ4pm7AVNAw=="
+secured: "RXLqMGuqDNnL6xQmGZjqYPb0ZGt0I/loJJirDcrvb8cSLOjQLxUaBRf+PWFrILI1XSItY2fnfh2maiBvheQuAEE3inijg1w/eGfhHo4Iy1xRaqPGzl0NSdzZGEIwfq/O+fSFCw2ydqVKiSZ1TbU4uAhoD3MCX3hq9ZIvsD2ryCJJrBibRVQfrStBeX00Ipq0pHEnY4Llaaj2Tly3L2qbzmkTIBacinO+XHtZs6+Q6jnc/SoOu5neDH9v6l+WhsyZD8H7W4xn7+6AJ3jOIZ+0wDyQrYJS7H+wpptHmfFR6giNYnKD7KB1v+SHpnfUKYefebrbOosY1Hy5t4BQkWf5Fciiq8/2MtnhaGbn0GztVp4=;346pOiF1uRGGJPmgzI/RKg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22382398/robert-will
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
 type: article
 quality: 84
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Man Falsely Arrested Because of Facial Recognition Software Error Sues Detroit"
+    excerpt: "A Michigan man Tuesday filed a federal lawsuit against the City of Detroit over his a wrongful arrest, which he says was caused by faulty facial recognition technology."
+    publishedDateTime: 2021-04-14T02:00:00Z
+    webUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/"
+    ampWebUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2021/04/monitoring-1305045_1920.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Man mistaken for shoplifter through facial recognition technology sues Detroit"
     excerpt: "DETROIT (AP) — A Black man who was arrested when facial recognition technology mistakenly identified him as a suspected shoplifter is suing Detroit police. Robert Williams of Farmington Hills is seeking compensation for the humiliating incident and ..."

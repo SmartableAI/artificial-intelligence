@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-02-26-volvo-and-geely-call-off-merger.md",
+      "title": "Volvo and Geely call off merger",
+      "excerpt": "Both firms agree to more collaboration on electric and self-driving vehicles The Volvo 360c ... pacts with search-engine heavyweight Baidu Inc., Apple Inc.'s Taiwanese manufacturing partner ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "originalUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/02/25/auto-volvo_177d9e2e491_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "publishedDateTime": "2021-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
       "title": "Setting up Amazon Personalize with AWS Glue",
       "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
@@ -1122,58 +1165,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
-      "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
-      "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
-      "publishedDateTime": "2021-02-25T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

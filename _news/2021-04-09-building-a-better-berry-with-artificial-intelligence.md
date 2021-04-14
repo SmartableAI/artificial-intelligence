@@ -38,6 +38,20 @@ related:
         width: 776
         height: 831
         isCached: true
+  - title: "Giant Oak brings security screening into the age of AI"
+    excerpt: "Company’s GOST technology enables organizations to screen individuals for a wide range of illicit activities Giant Oak's software-as-as-service security screening platform, known as GOST, was borne out of the need that arose for large-scale,"
+    publishedDateTime: 2021-04-13T21:29:00Z
+    webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 56
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nifp38pw/cy2fSigWX8uQITwmCrTlkl28JyTMeaITaYF+cX5PsLEy8kv+KBwE/g6OS4pI+FeHi4ITI+jmT0Z4KyP+Ag6f3PPU120VW329O8LGHXXKjirw3mhpQADiyLg69qtjagTp4e9Ji4r0JWkCTEWRU+F3ejjurXhwsW2DUJHeyTWYJcHmmslH9lIZfk0LT+mSkWI5QMZu7pFp7ycixaZ9ItbNT92LgHu0fKaxQkcVEwZTQ2wB+1DWdc0B5bSKgND+U7pQZsgy70Edyfad4RefwgqM+S33wTbeJs23gUftZ3D9gxtBQjvUFCVQxLkAdttM/4RBNpChopvBjiGpYPpHRKflbYl6eF89LV4Migp0KWvWRUwRSx+jqnPFPNSKOfJkifN8F/YCj1NS96BsMpO5EyrY/VKJ+j8eEfXIRo4YiTpqFWMVaY0AbsSXptINvv3VFBR5oJOnLHN+HHtTWQYjZFDu7swlIM+1awFdpTTBWC4yOPaT4s5D7lPfSDX/A7p40iHUoawwdzJbL9yVA==;KkErmYq1VdWgvDKUIdd4RA=="
 ---

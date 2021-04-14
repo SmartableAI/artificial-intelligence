@@ -492,7 +492,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -544,7 +544,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1239,10 +1239,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1275,7 +1275,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI chip maker SambaNova raises $676 million, valued at over $5 billion"
+    excerpt: "(Reuters) – SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial ... Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee."
+    publishedDateTime: 2021-04-14T02:44:00Z
+    webUrl: "https://www.metro.us/ai-chip-maker-sambanova/"
+    ampWebUrl: "https://www.metro.us/ai-chip-maker-sambanova/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ai-chip-maker-sambanova/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 74
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3C0TL-BASEIMAGE.jpg"
+        width: 533
+        height: 800
+        isCached: true
   - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
     excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
     publishedDateTime: 2021-04-13T13:00:00Z
@@ -73,6 +89,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
+        width: 877
+        height: 583
+        isCached: true
+  - title: "AI platform startup SambaNova Systems raises $676M in massive late-stage round"
+    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
+    publishedDateTime: 2021-04-14T03:11:00Z
+    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
         width: 877

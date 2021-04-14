@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Voice Recognition Market : Emerging Economies Expected to Influence Growth until 2026"
+    excerpt: "The global Voice Recognition Market is anticipated to recoup from the effects of COVID-19 starting from the year 2021 and will grow at a modest CAGR during the forecast period of 2021-2026. Voice Recognition Market is likely to witness an impressive CAGR of 17."
+    publishedDateTime: 2021-04-09T11:35:00Z
+    webUrl: "https://ksusentinel.com/2021/04/09/voice-recognition-market-emerging-economies-expected-to-influence-growth-until-2026-2/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
   - title: "Automotive Voice Recognition Market May Set New Growth Story | VoiceBox, Nuance, Google"
     excerpt: "The Latest Released Automotive Voice Recognition market study has evaluated the future growth potential of Global Automotive Voice Recognition market and provides information and useful stats on market structure, size and trends. The report is intended ..."
     publishedDateTime: 2021-04-10T09:45:00Z

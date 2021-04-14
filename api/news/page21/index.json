@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
+      "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/monsterhunterswitch.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
+      "publishedDateTime": "2021-03-26T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment.md",
       "title": "Is Art Made by an AI Robot Speech Protected by the First Amendment?",
       "excerpt": "the robot becomes a medium for a person's expression, assisting (inspiring?) the decision-making process of what to design. I'll admit. In 2014, I didn't think AI artists would soon start selling ...",
@@ -1119,49 +1171,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-committed-to-accelerating-malaysias-digital-transformation.md",
-      "title": "AWS Committed to Accelerating Malaysia’s Digital Transformation",
-      "excerpt": "In August-September 2020, AWS held the ASEAN DeepRacer Women’s League to encourage young women in higher education institutions to acquire skills in artificial intelligence (AI) and machine learning (ML), and discover how technology can be used to create ...",
-      "sourceUrl": null,
-      "webUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
-      "originalUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mluuru4eusyz.i.optimole.com/vpqnqHQ.UqFF~5efcf/w:1880/h:1253/q:90/https://techent.tv/wp-content/uploads/2021/03/pexels-photo-1538177.jpeg",
-          "width": 1880,
-          "height": 1253,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
-      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
-      "publishedDateTime": "2021-03-26T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techent.tv",
-        "domain": "techent.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

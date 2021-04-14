@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-05-artificial-intelligence-has-advanced-so-much-it-wrote-this-article.md",
+      "title": "Artificial intelligence has advanced so much, it wrote this article",
+      "excerpt": "I did not write this article. In fact, it wasn’t written by any person. Every sentence you see after this introduction is the work of OpenAI’s GPT-3, a powerful language-prediction model capable of composing sequences of coherent text. The only thing I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
+      "originalUrl": "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-319335/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
+      "publishedDateTime": "2021-04-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
       "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. SambaNova Systems, a startup developing chips for AI workloads, today announced it has raised $650 million ...",
@@ -1164,58 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
-      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
-      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
-          "width": 1199,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Designing Embedded AI PCBs Made Easy with Coral from Google and Upverter"
-excerpt: "Altium LLC, a global electronics software company, is announcing that Upverter, Altium’s browser-based electronics design environment, is now officially a part of the Coral Partnership Program. Engineers and product designers can harness Upverter to create and manufacture hardware accelerated AI boards quickly and easily."
-publishedDateTime: 2021-04-13T23:46:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-san-diego-fc6746e95d3043cbbdd36344b1d7dae8"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-san-diego-fc6746e95d3043cbbdd36344b1d7dae8"
+excerpt: "Engineers and product designers can harness Upverter to create and manufacture hardware accelerated AI boards quickly and easily. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20210413006207/en ..."
+publishedDateTime: 2021-04-14T02:30:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-san-diego-80f84953c8ee4639ae7ff6c7648738e3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-san-diego-80f84953c8ee4639ae7ff6c7648738e3"
 type: article
 quality: 36
 heat: 36
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "m7hdHGyTr3F5TyISPzuSIkdyui3l3nq7RhqmwTAHJtWBvwAILbx8VsVO5v0GEXkStIjDBm9okpyatVWyveXG6fpMZ1PGtWso66aNAW7E28EYWox80gEqkOZqTD4LaZJep5m/fdUALPwxE/eWB+U+6ZImYreT214+IW8ZCXxjdckRAXPTCE+N2qQqVkGNfKi8hBjalNy5uSd4Mb9IvG1wBqf/J6gHdCLit+SQWcagL5XqKG+QyFqZ6+UDi9hMikT9AAXuc23NpkzHBXTZnLLdW/9U8ADTv5I9YHongZtWidOx0yEGlqK4hguhT3TUBpqhCeMUwJIjI6yxBm06saIg79JwnktF+kUTBBKJ+h50k0Y=;qKr4A4eoB+JeUeAIudx5Jw=="
+secured: "SWkfIw/jrqIzbGKuBkW0J9j0fazcZ/Wqak79JDqzNcceeqDtfAYvQeou7Q5SsOKMpQMYW50OjGHggiwm++m5UPZGXX/utlRlNHgRNyoQpfn1nz2G2jFqoFfrImXgiGEliCGltLvbi4wPfjCdD00ZESUb7tPtQdvIf546riFRTtI8o+lk0sD+X0ZrBcqpxDKGsf/zWBBE7fENhFS60G2XtlzexnMb6FeCka18f4USTPnq8oBUbGsedQ7EDxFyZfAnx34pGcrKJ7dkZDA7REeq6wguTNLr80hj4eCJoajO+ln1XXfDZUEIXir6cNcm8OR+RFkxqcj/sILtOACaj9+KwKbWOyYONMgHc0LbPG5idCs=;OfU62Hr1H/+mY+ZpE6PhGg=="
 ---
 

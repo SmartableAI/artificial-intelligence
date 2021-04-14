@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-19-40-women-leading-the-way-in-ai-innovation.md",
+      "title": "40 women leading the way in AI innovation",
+      "excerpt": "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/06/05/a80a4f1a-e4aa-467a-b85e-0802f7169f61/resize/1200x/83b223eeaad78cde0d4502b429298252/women.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/",
+      "publishedDateTime": "2021-03-19T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-artificial-consciousness-how-to-give-a-robot-a-soul.md",
       "title": "Artificial Consciousness: How To Give A Robot A Soul",
       "excerpt": "But when artificial intelligence first started, no one could have predicted the things it can do today. Sure, people imagined robot helpers à la the Jetsons or advanced transportation à la Epcot ...",
@@ -1112,57 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
-      "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
-      "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "originalUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01GLmQdpOWHrCSJ4Kbtv5EQ-1.1616081048.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "publishedDateTime": "2021-03-18T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

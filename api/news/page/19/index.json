@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-30-americans-think-ai-has-the-most-potential-to-cause-harm-over-next-decade.md",
+      "title": "Americans think AI has the most potential to cause harm over next decade",
+      "excerpt": "Americans fear more than just AI taking their jobs and believe that the least trusted technologies are AI or AI-related.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/",
+      "originalUrl": "https://www.zdnet.com/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/e93273a7-0ea8-42b6-9aeb-794b82fb8a0e/least-trusted-tech-hyland-eileen-brown-zdnet.png",
+          "width": 811,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/",
+      "publishedDateTime": "2021-03-29T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-bright-machines-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
       "title": "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards",
       "excerpt": "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ...",
@@ -1044,49 +1095,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
-      "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
-      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "publishedDateTime": "2021-03-28T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

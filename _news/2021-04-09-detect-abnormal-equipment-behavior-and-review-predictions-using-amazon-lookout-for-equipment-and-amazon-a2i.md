@@ -57,20 +57,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Artificial neural network model for predicting changes in ion channel conductance based on cardiac action potential shapes generated via simulation"
-    excerpt: "Many studies have revealed changes in specific protein channels due to physiological causes such as mutation and their effects on action potential duration changes. However, no studies have been conducted to predict the type of protein channel abnormalities that occur through an action potential (AP) shape."
-    publishedDateTime: 2021-04-09T10:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87578-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 1
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87578-0/MediaObjects/41598_2021_87578_Fig1_HTML.png"
-        width: 685
-        height: 258
-        isCached: true
 
 secured: "fga+SwdPzL8hTFmZtLbXE40Kc0wAEzXct6y3mx3kYz9gTAu0Nf1aLXfM7nx2HPKcMu2heuQyRe7BijFoSW7cv6zc12Rs3+96vX3BUbUoL3yLYRrqoliBK9XfwXRQYJ7ubtKaBRlgOrdRpaysjMSsByBqt1rk2rQI4gZDhMxF3Sb3u/yivU4DPCXnWgI23/Sni6I5tQCqjLoflSX0UfkDkW+WZ2bqS1zE/r+iIoHsFLzfZxQd92UWq1IlE1EL4teyddSnF9KqTjpDYaa7CIT+UJUU9YdeX8wD2j4bweCdlXLVRnR/QgnIlGyKUjSgbJ4/Ww1AqQn8noVJB8SIdsn3bS93BK1TxPLr8iNK8kH8Rfs=;igQ2AKfEaiGHMTAyuAHcQg=="
 ---

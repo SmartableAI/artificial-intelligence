@@ -1189,9 +1189,9 @@ related:
         height: 593
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
+    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
     publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
     type: article
     provider:
       name: CRN
@@ -1397,6 +1397,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "MN4YvUW2Y8C9Df/ppLhYf9pjs6FxeDhFOIMytdtYgIYIYObE1UKW9VoViabhJMnIt3/6naL4iCzS/F8sVGt1eRej+s0ow2jeb2y9l5oBnaLa6Rpe4KgrQLXSPl7I5zPTSjJaHeu97XA6+lfhl4j+yRUTJkOkJHkyAxXOJ3i5TlGuKdynrBb+xeq7bOcmQj5QV5JLMeNx19OCp+/uohh4O3Bxo5dWPtHzHR0soynJqIvJQmAB8+VPupZ9VirQ9kTA6K50UGm+fePB8YJM4YDi0W4Evh/0bSK6R6UNlRK/r4WgTWwUWe9JnKNV0g88wfYsZiYw0m2jxKyMGg9eXaYbmrcSLIUVYSKoGn579oKH3JA=;sUlluJ0AAiM9NbNjI+iKpw=="
+secured: "20nurStEHIxtet6LdaE2cV2bQ7MXvWGbBVTU4kw41M61Xn6ZLB1D/CP7OaEFrUM+7Mq8BWHfpOONcP15KwhzlAii/2eZ1yV9Qd0cczDvoTiR6wBKl12M9YX7CUgbP+p50m33blxUb4hkeMcUqy0+LSrKrQIfdTf0Rj/1UVkwrlAK7gIIw9+K2rt/kN/P38mdbiGXWysXwN/RvlDaCkV53Co+DiZAZ2v21Cu1AGdu6dK0vPT5JBT70EW55ob9sLW/l5py5i1D4ue/ztTRznJ1sXI0/ZU/JG1fcbxUdWMn7nn5+Ma+zzhqVQ3tzRK1PZp7NFypqAqeOGhuakN5BC1H48uEmEfxU3wkXR8Jyf9OryZ6EIPxYFAu22qR+iPIlqHVCUegfteUMdcveLrLPaBmmfYxbqUwRTqwVWo804LYYok6zpebtB5hjUU/PShmoio1g1h7FDOyKtTJgkCvS6M4yKJUsJhLI9s4dhwN6NoOagDQx393DLWil9cLs68L+zNMES6BTybJtxLfbMZW6V2BbQ==;8dm6la4lbWo1zrgbqxshoA=="
 ---
 

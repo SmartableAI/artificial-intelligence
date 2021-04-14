@@ -7,8 +7,8 @@ originalUrl: "https://www.design-reuse.com/articles/49783/building-security-into
 webUrl: "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Design-Reuse
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Giant Oak brings security screening into the age of AI"
+    excerpt: "Company’s GOST technology enables organizations to screen individuals for a wide range of illicit activities Giant Oak's software-as-as-service security screening platform, known as GOST, was borne out of the need that arose for large-scale,"
+    publishedDateTime: 2021-04-13T21:29:00Z
+    webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 56
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Building a Better Berry with Artificial Intelligence"
     excerpt: "Artificial intelligence is now helping identify cultivars most likely to produce a berry consumers will love. Already having collected data from hundreds and hundreds of volunteer tasters ..."
     publishedDateTime: 2021-04-09T13:35:00Z

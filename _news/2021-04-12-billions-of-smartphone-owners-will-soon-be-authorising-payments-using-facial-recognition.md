@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
 type: article
 quality: 80
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
-    excerpt: "Clearview AI carved out a market niche for itself as a provider of facial recognition tools for law enforcement agencies that find the technology challenging to implement on their own. The company ..."
-    publishedDateTime: 2021-04-09T11:00:00Z
-    webUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/"
-    ampWebUrl: "https://reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/04/09/cops-are-using-facial-recognition-technology-more-than-previously-revealed/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 37
   - title: "Solution House Software expands Smart Cities offering with facial recognition"
     excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
     publishedDateTime: 2021-04-12T06:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Ffarinessflow.jpg&signature=c76856d8d026d8610cb1d9574bc71736"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Facebook launches free AI bias programme"
-    excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
-    publishedDateTime: 2021-04-09T10:21:00Z
-    webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
         isCached: true
   - title: "Study flags gender bias in Facebook's ads tools"
     excerpt: "A leading-edge research firm focused on digital transformation ... But researchers remain concerned about bias in artificial intelligence (AI) software choosing which users see an ad. Facebook and LinkedIn both said they study their AI for what the ..."

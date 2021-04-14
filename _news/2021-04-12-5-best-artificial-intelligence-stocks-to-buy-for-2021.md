@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
+excerpt: "The firm has increased ad prices by 30% since March. Research firm eMarketer expects that Facebook ad revenue will cross $42.6B this year. The company is ranked first on our list of top 10 artificial intelligence stocks for 2021."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
 
 images:
@@ -72,6 +72,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "JmrluU/y9hm+p+RFniTHbhF3tIndUvhWSl38dh4+yWWPoYx7PWSLxoKFovslbrA8wbzNS2PJjFjjpNdEAwF7ame3ISAYt+8yzK3CMeNePqmer2FwQcay+Zl581abnndc0iALS+8XWS+32laJVkJ7XkXPFg92uSrEmvrsNjAZemGdhkMTCwbWBpo/u/g1MlaxnSErnIAArC/dIk2YodYLNt7pmqfqH0CNX1lICsjYrNYSjFe988FP3HSK0QVfoLcX1G2wakCymz4mRDTwIt9P/LOxqWRNlvR5kDea9S17zg2qqn4nPGKJsEe2haRs7afXPSi6GxIEmrCMzo1G+5Z+0L/J2PdPUfG4NuoTTJ/JStI=;zpqAZlYNsvx/b2Kfv+Jyjg=="
+secured: "d+Mu/Kl5vnxuTDiRuBE1GzBpimz0Iu61P03NuubzQeIdUx7LzcfS+/2dBwgncbVpBy7oKe7l7f1BgKuJsqV7gJdhdjMLMq56bj+YJa6X3ULhMacmDs5hNwVpg8SEgNMqROb6YqQ9vn9gwg0RuBzGW7YqlxLa+BFpxx8JamICHqmhW3QTTOz4cXSmXG8ARShHqo7JaR5jIRlu9NiGoiwOzoXXRbcyX8Hw/4AWxA3hqBvd4D/uxm4j4NidXyTp0OXgK6GuFpMnKvyJNpb5fKfRsyxUt4HDyWGrXqKCPWMnlk0YPR0MYucXr0CJQl3rq3OFc1NMjXEedHmWfyL6wF6DtT7xKZHvZ2zkKP+RzktB+cY=;cuImxWpbExxfX60iKQgJdw=="
 ---
 

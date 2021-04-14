@@ -2,6 +2,50 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-03-08-nxp-semiconductors-takes-machine-learning-to-the-edge.md",
+      "title": "NXP Semiconductors Takes Machine Learning to the Edge",
+      "excerpt": "Only two years ago, NXP Semiconductors seemed behind in the artificial intelligence race ... compete with Nvidia in supplying the brains of driverless car prototypes. The Eindhoven, Netherlands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2019/04/electronicdesign_22809_gettyimages_616252540_0.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ethics-by-design-salesforces-approach-for-positive-ai-and-product-development.md",
       "title": "Ethics by Design: Salesforce's approach for positive AI and product development",
       "excerpt": "Paula Goldman, Chief Ethical and Humane Use Officer for Salesforce, talks with ZDNet about how companies can develop technology, specifically AI, with ethical use and privacy in mind.",
@@ -1184,49 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
-      "title": "Microsoft Adds Ways for Customers on AI with Azure",
-      "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "publishedDateTime": "2021-03-05T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

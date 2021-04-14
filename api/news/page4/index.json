@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-12-the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry.md",
+      "title": "The Amazing Ways VR And AR Are Transforming The Travel Industry",
+      "excerpt": "Augmented reality and virtual reality make it possible to enjoy the adventures of travel from our couch while we're still under pandemic restrictions. VR and AR technology is also reshaping the travel industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073ca8507bbca6e73608580%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
+      "publishedDateTime": "2021-04-11T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-why-kubernetes-developer-ecosystem-needs-a-paas.md",
       "title": "Why Kubernetes Developer Ecosystem Needs A PaaS?",
       "excerpt": "Windows Azure, the initial avatar of Microsoft’s public cloud ... Once the developer tested the app in his local machine, he would simply invoke the command-line tool to deploy the application and the associated configuration. Behind the scenes, Cloud ...",
@@ -612,7 +664,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -664,7 +716,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/09/ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -767,7 +819,7 @@
       "originalUrl": "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -924,7 +976,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1189,57 +1241,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models.md",
-      "title": "Tableau adds support to Einstein Discovery for user control over AI models",
-      "excerpt": "Register for a free or VIP pass today. Salesforce’s Tableau arm is making a case for employing AI to drive a new era of business science using analytics applications infused with machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Tableau-prediction-simulator-general.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
-      "publishedDateTime": "2021-04-09T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

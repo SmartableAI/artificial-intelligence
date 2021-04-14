@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
+      "title": "Guard Digital Identity With Artificial Intelligence",
+      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
       "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
       "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
@@ -1169,57 +1220,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-artificial-intelligence-has-advanced-so-much-it-wrote-this-article.md",
-      "title": "Artificial intelligence has advanced so much, it wrote this article",
-      "excerpt": "I did not write this article. In fact, it wasn’t written by any person. Every sentence you see after this introduction is the work of OpenAI’s GPT-3, a powerful language-prediction model capable of composing sequences of coherent text. The only thing I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
-      "originalUrl": "https://www.marketwatch.com/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-319335/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/artificial-intelligence-has-advanced-so-much-it-wrote-this-article-11617639437",
-      "publishedDateTime": "2021-04-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

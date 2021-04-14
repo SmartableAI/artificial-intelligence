@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-07-sidewalk-robots-are-on-the-way-but-probably-later.md",
+      "title": "Sidewalk Robots Are On The Way (But Probably Later)",
+      "excerpt": "Albertsons, for example, is working on a sidewalk-ready robot that will bring deliveries to Safeway customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "originalUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606cb3011b65095ebafc88f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "publishedDateTime": "2021-04-06T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-another-prominent-google-scientist-is-leaving-the-company-amid-fallout-from-fired-ai-researcher.md",
       "title": "Another prominent Google scientist is leaving the company amid fallout from fired AI researcher",
       "excerpt": "\"I also stand by the rest of my team who, like me, was stunned and is trying to make sense of all this. In particular the Ethical AI team, but also the broader Brain Research team.\" Gebru was the technical co-lead of the Ethical AI Team at Google and ...",
@@ -470,10 +522,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -506,7 +558,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -1130,57 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
-      "title": "Guard Digital Identity With Artificial Intelligence",
-      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-det
 webUrl: "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.automation.com/getmedia/2bc64dcf-1dea-4101-a0ce-27cc0c159084/AWS-prod-April-9-2021-ewb.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
-        isCached: true
-  - title: "Artificial neural network model for predicting changes in ion channel conductance based on cardiac action potential shapes generated via simulation"
-    excerpt: "Many studies have revealed changes in specific protein channels due to physiological causes such as mutation and their effects on action potential duration changes. However, no studies have been conducted to predict the type of protein channel abnormalities that occur through an action potential (AP) shape."
-    publishedDateTime: 2021-04-09T10:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87578-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 1
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87578-0/MediaObjects/41598_2021_87578_Fig1_HTML.png"
-        width: 685
-        height: 258
         isCached: true
 
 secured: "qy45OslawRr8uE3IBKXnMlQqI5B7eiEpSz7y2HjuK/Tl6eeAfiGTvovPIe1V7SUjcJW7QoZVBLVbtqip1EGeLjcge3kn7Oph/Eo20lU8sdVWQgJeLaGbeb08wGhtSb6z07SFI61gKVEe0+60VDiUM2MIywUK4IJxqj9CH+KhuRk7faDj6T20U110SbW1akERkZL/Qip7m0qhoWurd1IMlih8KYLY17a0QWe32vS1xHl82SivR2Be3WNhm/Nd1FaLfcorMtdPva5UFCLMFsNspR5QxCFhcsb3+DpJppHHp1Zmy5pBrV0xCpun1rIwGbt5wc3MndrFxzV9k3a34AG2M+rOhaMpIe1X6LCMD1IgfMI=;p2EOZ69MmfPHjl2CrmrKDQ=="

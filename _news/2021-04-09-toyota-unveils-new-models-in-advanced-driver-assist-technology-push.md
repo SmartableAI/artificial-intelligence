@@ -7,7 +7,7 @@ originalUrl: "https://www.investing.com/news/stock-market-news/toyota-unveils-ne
 webUrl: "https://www.investing.com/news/stock-market-news/toyota-unveils-new-cars-with-advanced-driving-assist-technology-2468834"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-Toyota unveils new models in advanced driver-assist technology push"
-    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ..."
-    publishedDateTime: 2021-04-09T09:15:00Z
-    webUrl: "https://cn.reuters.com/article/toyota-autonomous-idCNL1N2M107Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2M107Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2M107Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
     publishedDateTime: 2021-04-10T01:20:00Z

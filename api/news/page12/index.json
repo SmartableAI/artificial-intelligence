@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-03-relishing-the-joys-of-a-demolition-derby-for-self-driving-cars.md",
+      "title": "Relishing The Joys Of A Demolition Derby For Self-Driving Cars",
+      "excerpt": "Human-driven cars crashing at a demolition derby, which someday could readily instead be those ... [+] vaunted AI-driven self-driving cars. Makes one hark back to visiting local county fairs and doing all the usual things that one does at such events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F477838937%2F0x0.jpg",
+          "width": 1199,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/03/relishing-the-joys-of-a-demolition-derby-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-these-are-the-ai-risks-we-should-be-focusing-on.md",
       "title": "These are the AI risks we should be focusing on",
       "excerpt": "We’re a long way from Terminator-like AI threats, but there is work happening today that merits equally serious consideration.",
@@ -1173,58 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-power-grab-warehouse-robots-take-materials-handling-to-next-level.md",
-      "title": "Power Grab: Warehouse Robots Take Materials Handling To Next Level",
-      "excerpt": "No longer content to just release hard-to-believe videos of humanoid robots doing back-flips, Boston Dynamics this week unveiled something logistically incredible: a box-moving machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/?sh=741426b96d40",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064e99ffb14fb0430d02af7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D376%26cropY2%3D2644",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "publishedDateTime": "2021-04-01T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "aTnhHGdzW7o5xfz5u0Qp/728sAOSE/7MGbIoDdZkSQMLaarIJyNBbwXpIYMkxAegJzyu6htkG1ImS9teJV1XXDqI63+fSIF6rxqgSJsnZnuFYHASO4Dcd0c++bmIbpv1+//ENCDqb6bCzVJ5W1Nuj9fy18SqmncxseJ9XfoVDIroMweSMbNBN4LkfC9+hzDpufDNcoUPteqguJJSjjKOb0/ouB5HPzvvrfFXfWJ579NLPHqoAa4PzvswhcINDF2Rzwd8H25227BGZNZ5MoHTX+JJQfpDCPO55q33/PFxyItIr+WW0iaLO/saU6e+sj/OTzZfJzMliermd+WCtciYXlualxP1FAXi556+tO+QMNs=;qG4mPBHjkzmUIak2Xpb2zQ=="
+secured: "rr09Pb4Wy35NcnyxaJwp991NiJ5Uz4l9Nqgh9cDxBGBEm0VEAOWGDpa58nmkbnXoPx4Kku/NIWE4qDYUeLinQf6DbIMOj60z7T7t6JtahLFlLFgKeQUxAprb/yHjhqurbU3tQpGUzy/eiqT5q07E08AkSZgAqOmjcGeNT51E7vD/3gswJkUjeDFTSgeh38vfxjR+Pjs8vH+ZOalinORNQLZ2Noqiz3m9Ymmv4DaDUXBucUceYTXA2AEy2N5IMDPmZNiaAsN3rBy5PJs30TtMddMPJH4Ce08fFEw0PeSIm787GY/amwJpAUoqgIJQ/TrWMkc4nJ0JBpLtlGCTILsZovPfLTNgmCCF0NzFD56cjss=;8aQRHLKGiGYeT1CbSr29lw=="
 ---
 

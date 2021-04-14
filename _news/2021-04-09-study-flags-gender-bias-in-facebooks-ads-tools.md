@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facebook launches free AI bias programme"
-    excerpt: "Facebook has built and made freely available a tool based on videos of conversations with people to help artificial intelligence (AI) developers evaluate whether their products are biased."
-    publishedDateTime: 2021-04-09T10:21:00Z
-    webUrl: "https://www.research-live.com/article/news/facebook-launches-free-ai-bias-programme/id/5082312"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5082312&name=facebook-launches-free-ai-bias-programme"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
 
 secured: "aNkcuW0KvuIlD1h5TPQWudL4Ww3EOtX01nnOO58g7RBYbWoy5JoEYj37Eut7NJIescnnHl1Xb5w4xDJ88KCUNWdPTgAFR1AXB8VSSrkI2/rvCyEj+9ZB0AfaFW9fdmDIAPdoDX55B9YyjUuPW3+9fKfkioqCBKC897KV6rdPWtbtwSRXbNcA/IOwe+lhL47D/Un+u45b6biw7wamIGlakMSWU53ElaRUghaVB/iQfI8mRGY+sGZv0vrhOWSpFGpa6E/NuYYeyLlMIP1RbhLyKUzYDF2fbQ6CrRtAlj1n1UnYZT/coe4wGQzDex4rLBA5sP2XdUfscozLQGtU4LirVvvFDDsyGo+yzBEkKUMqx+I=;m8ik3X0l10LPf/Y/Ll/LEQ=="
 ---

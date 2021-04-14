@@ -75,6 +75,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Man Falsely Arrested Because of Facial Recognition Software Error Sues Detroit"
+    excerpt: "A Michigan man Tuesday filed a federal lawsuit against the City of Detroit over his a wrongful arrest, which he says was caused by faulty facial recognition technology."
+    publishedDateTime: 2021-04-14T02:00:00Z
+    webUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/"
+    ampWebUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2021/04/monitoring-1305045_1920.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Man mistaken for shoplifter through facial recognition technology sues Detroit"
     excerpt: "DETROIT (AP) — A Black man who was arrested when facial recognition technology mistakenly identified him as a suspected shoplifter is suing Detroit police. Robert Williams of Farmington Hills is seeking compensation for the humiliating incident and ..."
     publishedDateTime: 2021-04-13T22:26:00Z
@@ -214,6 +230,6 @@ related:
         height: 628
         isCached: true
 
-secured: "7u1A/i7bjUK/757+HTSsg5GHlyNYeMjybud9/xnUCM0L1CTETpwZTy78k/caHTD0tAzqzRFJJE4O8HnxFj+3JAWeFXp+Ow+y9ovChqZYsPuk2tnbzC/hyYBPnAbG62QRSveZYnYuFoxokKodTqcuBE/noK13UsXlLphZuCodxdCQ+1w3wBTf7dVF4e5m/uK+lIyCiYkDqTpy/eJg0mO6sCpSLG8Su5L1xZiFiZWF9sDrkOxEaIeQ8nDRoejlrlSHGtGauSZuCpbXhaY1z4QFCviqJ2pJXGR9wGEiFtpWevDRPjauxKO65C5j698N2cz+pNLtpVLZqvnFylFT3f9rWWC3MIXK6vteuSz7Pbi+e5s=;aLdZy8prsSqZNxt2rpC3Zg=="
+secured: "36k5aR4kQU6Bh9a32IPcSc4e3akOWRBAzY6DuAKN/bwrA8Lt3WX1LuHGYkQD9SvWUOYoxSBq15WCW2Rc233fkwf8mx7Pavs35e230VKZbqAMC+p2bcmqLqkAjgV5uPs1OH8KxDBSiFs8gr8u/XH8z6sTBKOq+tR6IaT0UOMY8FYD8CnePFaV5BCgp5+Z9HKoXWerPrahXaL7KPxFCV/qLs5YERNdNycJI4Lei3iGq8qOmPOMtNshCbkDcRHer33Us0XIMgFsVAY5YPN96ylyWwVGP2Ovf4Vnkkt0ZkHOcxGR8kolOtS/HYPHbMOgMj9cWa00F1wQJcz5NcmMnQ5CoZaDHGn7b+ptUh0YdW2/OdBNAS2OV8JDxojQn5nDFnTgYYFBJXfrgR7pty2aTuBr9ceMLJeoJbxSOzeL/ZdTloWp8DY0oTdVp4hD+afHUGPzJeWZIErwpUQVQm3UI8RgNwTc6TgHc+fi3A+UyxsEpbudbcrAIOV0W5Tb8oFrCkzYjrK3V0OY7LeElluSdYtRhQ==;LrbBdloqb1xuPeT1btutog=="
 ---
 

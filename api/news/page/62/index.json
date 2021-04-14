@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
+      "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
+      "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "publishedDateTime": "2021-02-25T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
       "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
       "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
@@ -1132,49 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
-      "title": "Researchers use machine learning to identify autism blood biomarkers",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "publishedDateTime": "2021-02-24T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
