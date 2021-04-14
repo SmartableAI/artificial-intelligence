@@ -161,6 +161,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 27
+  - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
+    excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
+    publishedDateTime: 2021-04-13T10:43:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 27
   - title: "Nvidia announces new GPU collaborations"
     excerpt: "The devkit runs the Nvidia HPC SDK, a suite of compilers, libraries and tools that will enable engineers, scientists and developers to create and migrate HPC and AI applications to a GPU-accelerated Arm computing system. Initial computing centres deploying ..."
     publishedDateTime: 2021-04-13T09:47:00Z

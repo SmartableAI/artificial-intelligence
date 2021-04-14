@@ -179,6 +179,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Dominos is Delivering Pizzas in Houston Using Small Autonomous Vehicles Built by Silicon Valley Startup Nuro"
+    excerpt: "One company working on autonomous delivery is Silicon Valley startup Nuro. The company announced this week ... Nuro's team includes experts in robotics, AI and autonomous vehicles. Many of Nuro's employees previously worked on autonomous driving projects ..."
+    publishedDateTime: 2021-04-13T21:35:00Z
+    webUrl: "https://www.futurecar.com/4547/Dominos-is-Delivering-Pizzas-in-Houston-With-Tiny-Autonomous-Vehicles-Built-by-Silicon-Valley-Startup-Nuro"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 5
+    images:
+      - url: "https://img.futurecar.com/202104/13/l_6076124527aa7.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "LaWO7Nbv6r0XzKW50ISo73Ur5mHaqbl6U+AZ+0TD40raXmjbWk8M5jcbeLNG0MVmNxxIa2VhZSNj0k8j940gWJJoQGvB2swrJSzRM6Ggct1HYU2sKt9UJHmcZXXGBQ7DuM1T3yzlml+CrKNcG45DnDUqAJNrPz7qns2355VYKQ2ljGugYkUj9EhcjDn+qJKfAMz8NbzC0T9DaEHgZZm9wpNDbNfln3ha/dliSZ0ENcvnw9WK2lg9dljGH7j2ZaCXy6AAPRqQ2yHtiri5qqc2ygJfWlLPNHF5rRWOShXfhvnk99v5DhnMN1TPZ9IwaxVpOrG1XcNsFKJvOijZqzd7crF8CVERW5Qy7psRSfR6Y285fLW7hq8p+wGaykxseX8Z7REzkLoHWICSU5+H0wY8WEQnTQ2wRUAFhuu0P0UMQWaxj+QFiCM2aRpHK0I8a/yXY2q5lKrexgxUj6C+jeLd7sp7fyXqwI4LShCQxML9bPt389ooi5RZrdeT6cMcMcM3yJ8BKQIbkGgexRvHk3ZkTw==;7e8U9yGLP8cVnEJQGyIbYQ=="
 ---

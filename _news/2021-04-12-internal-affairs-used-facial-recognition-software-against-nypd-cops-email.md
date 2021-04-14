@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recogniti
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
 type: article
 quality: 72
-heat: 113
+heat: 112
 published: true
 
 provider:

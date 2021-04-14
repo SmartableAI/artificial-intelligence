@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U413327692_g.jpg"
         width: 800
         height: 445
-        isCached: true
-  - title: "Cognitive Systems Spending Market is Going to Boom | IBM, Microsoft, Intel"
-    excerpt: "Cognitive Systems Spending Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.The report ... HP Inc. (United States), Microsoft Corp. (United States), Intel ..."
-    publishedDateTime: 2021-04-09T06:52:00Z
-    webUrl: "https://www.openpr.com/news/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268127/cognitive-systems-spending-market-is-going-to-boom-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/4/U409410843_g.jpg"
-        width: 800
-        height: 531
         isCached: true
   - title: "Deep Learning Chipset Market to Witness an Outstanding Growth during 2019 - 2027 - IBM Corp, Graphcore"
     excerpt: "Evolving from neural networks to present-day deep learning architectures, AI has come a long way. Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is ..."

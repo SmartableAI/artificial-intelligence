@@ -277,8 +277,8 @@ related:
         isCached: true
   - title: "Microsoft buys speech recognition company Nuance in $16B deal, second biggest since LinkedIn"
     excerpt: "Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $16 billion, the tech giant's largest acquisition since it bought LinkedIn for more than $26 billion in 2016. The deal is the latest sign Microsoft is hunting ..."
-    publishedDateTime: 2021-04-12T12:54:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810"
+    publishedDateTime: 2021-04-12T12:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?via=indexdotco"
     ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263810"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263810"
     type: article
@@ -1380,6 +1380,20 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 36
+  - title: "6 most recent interoperability initiatives from Google, Apple, Amazon and Microsoft"
+    excerpt: "The six most recent interoperability initiatives published by Becker's Hospital Review: Google is in the early stages of a new project that aims to explore and develop a new consumer-facing health records tool for Android users,"
+    publishedDateTime: 2021-04-13T20:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/6-most-recent-interoperability-initiatives-from-google-apple-amazon-and-microsoft.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "ERMyIOTVZP+JXxMzhpNdQ+WdC33AYPGSZt+WGwKHLJ9cFQJGquSELLww7hqr/I64Cawnig9n+5amwCRQ8sEiMRn4VccUEKi6gWOpPcss+kt+kA/oE40NbnUZdeMqXy5FBiMt2iSP29D9OxFWY/VBPx0nbHFIHTes1WQp2UtFSCV+WOLxh0g9gsX+6r2neVkVAI/jQ+y1gqk5TeeVtyqC04eGKGNmHQrGqvU77sMkfl+8+Ne1kj5byR4s8DLH+yKf6pUVK+/+fel3jSKlAZVFeHd7sWfVMBgbKjqGPgfqUW9l+yJJLc+B+OFHrh6iky2VjIOXzUnSbb5CnWBkdHdfPODCFgCh/q/5xE0dkChOo08XQuh4XpbwdjDBdH9w9mE8KKU0QIAdGk6ZOZIftX03dDQPGPEhG0Jckna5AYafV2p7cpbx21YKwm6v7z+eMgS+xfldzMcAO7A2dU1aiTGQRUpor8V+xT+vOQNe4cGLrtJRAshOBQLoQsrDehb0P0SOPjxd2+Aj5Kh8DBu3axY4wA==;zuxD4PFmKE+2MFdOIjdFCw=="
 ---

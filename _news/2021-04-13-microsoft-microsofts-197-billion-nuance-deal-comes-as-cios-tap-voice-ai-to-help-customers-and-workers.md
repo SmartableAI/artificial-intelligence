@@ -284,8 +284,8 @@ related:
         isCached: true
   - title: "Microsoft buys speech recognition company Nuance in $16B deal, second biggest since LinkedIn"
     excerpt: "Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $16 billion, the tech giant's largest acquisition since it bought LinkedIn for more than $26 billion in 2016. The deal is the latest sign Microsoft is hunting ..."
-    publishedDateTime: 2021-04-12T12:54:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810"
+    publishedDateTime: 2021-04-12T12:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?via=indexdotco"
     ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263810"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263810"
     type: article
@@ -1373,6 +1373,20 @@ related:
       name: The Journal Gazette
       domain: journalgazette.net
     quality: 36
+  - title: "6 most recent interoperability initiatives from Google, Apple, Amazon and Microsoft"
+    excerpt: "The six most recent interoperability initiatives published by Becker's Hospital Review: Google is in the early stages of a new project that aims to explore and develop a new consumer-facing health records tool for Android users,"
+    publishedDateTime: 2021-04-13T20:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/6-most-recent-interoperability-initiatives-from-google-apple-amazon-and-microsoft.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft to acquire Nuance, an AI and cloud voice company, for nearly $20B"
     excerpt: "Microsoft Corp. has agreed to acquire Nuance Communications, Inc., an AI and cloud voice recognition company that ... fits-all approach to persuading those businesses to choose its Azure cloud service over AWS, Microsoft’s main cloud competitor."
     publishedDateTime: 2021-04-12T21:59:00Z

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Facial recognition tech being tested for US flights"
-excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic ..."
-publishedDateTime: 2021-04-13T20:01:00Z
-originalUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
-webUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
-ampWebUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
+publishedDateTime: 2021-04-13T18:15:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Narita airport starts facial recognition trial run for faster travel"
@@ -77,6 +81,6 @@ related:
       domain: japantoday.com
     quality: 34
 
-secured: "4VHisejthSPU/QQLfzwRSRcGjuU9jbqYYHWvNRo7N+YYVgkyUNV0SbfyTY20kDeZLSxmVrBMChrhMLXN2ihjnMY99xO0LOXytQa/N5i8et4tPjJue0PZ0ZPoa0Skcu4U1+pkStF8th7LaSAC4MiIZVFZRFey8ypUJ3TnObyO0vRXqn5CXlfYYY61MvLDYjQYFcN0Wo+/PMnJPGgPoXen5kKKXuC7mIZ21Le3AZemlVEGVRzqLJ0u9/cH8BdMB2dwe2VeQTsJVcQEFq41ypJrpl/RuOH3smqTRbcA/z/wUlMLAYUEgVCAU/jZBH3POrUnuiDsSluockFMbMXDdy3MiAXR9SKIjQeixRNFtVRa/OxapQJOkuZIa+CsP9CSGSMNcD8q9vdpxv67aLILzN41uZ/08Avc+Jf2EoS8RowAhx91hji3wv2/YviMovtzY3JArxXcOrdCqgTPh/YXu7sWJuTDULt4cbeKjqDmjH3MjK/x9bxJe/hEu/Jc+Z8I3eg5y/N2IrCR8Ss4QZMz4yVwfg==;47T9QsM/Lp3LwDOxaJMVsQ=="
+secured: "+VCITXw1Cs1/lkbwxTzKXgHQDWEaDEEY5vm+CMhT2eAPpRZEO5NJAy0wsUprBug6orO8zhHZNyZEEet/3Ms6MAtb91dbbpGDZKQtP+oWm+dHNfeHQwHOCgLVZOqDh5xXSdhQyzwqazebnsYJ4Mqz/nQ+5ch4eBwtM9FpNRrpO9pJn/0YDKti+AQJOOWaSw3WAp974v8gmo7FKsUSa/r2Idt3butnW6FAgqlTVZx4Kqq5LP5TVcDTdJ2dqdkuE3nzYVlXL3RO2T7I8ysuaOIc3gLrbQwcrP3P1rlk8F3OAHKfQUHrrDMxqV4DJf6KExxiD2uOk0wIcH+g0/CAWagHetyh6wWiIIWknARwA3Nw55Q=;DrV8hSCd568QBHGjVPxwrQ=="
 ---
 

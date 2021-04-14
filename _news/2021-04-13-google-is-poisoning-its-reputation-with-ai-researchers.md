@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-e
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
         width: 750
         height: 500
-        isCached: true
-  - title: "UCLA researchers develop artificial intelligence to analyze cells without killing them"
-    excerpt: "UCLA researchers developed an artificial intelligence model that allows them to analyze the appearance of a cell and determine its protein content without killing the cell. Before cells are ..."
-    publishedDateTime: 2021-04-09T07:00:00Z
-    webUrl: "https://dailybruin.com/2021/04/09/ucla-researchers-develop-artificial-intelligence-to-analyze-cells-without-killing-them"
-    type: article
-    provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 29
-    images:
-      - url: "https://wp.dailybruin.com/images/2021/04/web.news_.aicells.JJ_.jpg"
-        width: 1400
-        height: 933
         isCached: true
 
 secured: "zy6BY3nCew82x+ESxO/BTny9KJDUzZAk3QI6jsGgmMTr18JNCE4TM3ElT3C1U8SLT8yN3xb5XsYEpSLcEeGMxf+N8kC6PpJlPwhVgitgoR2zYPeExDiXTIgfh0IK04G74Xa9qiLf1zjZRnJYB7qxziLUOyUujnEU1g3VXZW5960Uomq3Ibnt71UrPo6F0ADI+yWV1a209mGdKhN3WFdy5DOZX0I6bLpadRvqUzSXuSklAu4kmSOOT+HtPjJQARvbuZrnHNFb4EcwpUUc1ls1Q1GUVTbAKYcGIPquKP/2UssfK1Tqzsz+1/q9YlHSU5ieewUzpebffTcdfD2673bgbbS6CVUzDnhHwgmbcfe1VU9WesMmOQz/ISib+1ftAT6fr4tt5zc7afPAhfIQnBwCLbJzzpbva3ieP4Y2L06bF90z+X9+cR6FTQCCIcYx8Z54k4KaziSATH7p5gPEP5tdxd038f3yGIaoRdapBe+NuDeEatXPu9NHH8jRKNO5aea1YoYjMuObWLdzZKUG6lAdzw==;X/ACZYcUhIwYODe2WycXKw=="

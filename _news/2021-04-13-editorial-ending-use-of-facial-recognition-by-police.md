@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "East Bay police used facial recognition technology despite ban"
-    excerpt: "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,"
-    publishedDateTime: 2021-04-10T04:30:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412"
-        width: 600
-        height: 412
-        isCached: true
   - title: "Opinion: Time to End Police Use of Facial Recognition Tech"
     excerpt: "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,"
     publishedDateTime: 2021-04-13T16:17:00Z
@@ -57,70 +41,49 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "Michigan man sues police for wrongful arrest based on facial recognition technology"
-    excerpt: "Williams thought the call was a prank. He was arrested later that day. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to reports. “I came home from work ..."
-    publishedDateTime: 2021-04-13T19:26:00Z
-    webUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
+  - title: "Report: 20+ RI PDs tried facial recognition tech; civil liberties advocate alarmed"
+    excerpt: "PROVIDENCE — Nearly two dozen Rhode Island police departments were apparently among 1,800 public agencies nationwide that used or tested a particular facial recognition technology, according to an online news outlet, and civil libertarians ..."
+    publishedDateTime: 2021-04-09T21:59:00Z
+    webUrl: "https://www.providencejournal.com/story/news/local/2021/04/09/departments-were-testing-technology-supplied-clearview-ai/7162730002/"
+    ampWebUrl: "https://amp.providencejournal.com/amp/7162730002"
+    cdnAmpWebUrl: "https://amp-providencejournal-com.cdn.ampproject.org/c/s/amp.providencejournal.com/amp/7162730002"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Providence Journal
+      domain: providencejournal.com
     quality: 53
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2TZT7C2WHBCQHOH7TAUSA45JYE.jpg"
-        width: 4611
-        height: 2708
-        isCached: true
-  - title: "Facial recognition technology is needed to help with backlog of abuse cases, panel told"
-    excerpt: "A Senate panel has backed a bill to allow law enforcement to use facial recognition technology to help solve a backlog of child exploitation cases. The bill, H.195, would create an exception to a ..."
-    publishedDateTime: 2021-04-09T20:46:00Z
-    webUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/"
-    ampWebUrl: "https://vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
-    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/04/09/facial-recognition-technology-is-needed-to-help-with-backlog-of-abuse-cases-panel-told/amp/"
-    type: article
-    provider:
-      name: VTDigger
-      domain: vtdigger.org
-    quality: 51
-    images:
-      - url: "https://vtdigger.org/wp-content/uploads/2015/11/David-Scherr.jpg"
-        width: 1024
-        height: 732
-        isCached: true
-  - title: "Lawsuit: Man suffered 'great harm' after wrongful arrest based on Detroit's facial recognition technology"
-    excerpt: "An ACLU press release Tuesday claimed: \"Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States.\" The suit says Williams' Fourth Amendment rights were violated and that ..."
-    publishedDateTime: 2021-04-13T18:21:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2021/04/13/michigan-man-sues-over-arrest-based-facial-recognition-software/7203369002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7203369002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7203369002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTN/a595e4a3-a66f-4d87-8b48-6fc501a90f92-williams.jpg?auto=webp&crop=1319,742,x0,y67&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NLED/e15211f7-caf9-4353-8de1-0ebaa72b7462-stock_FL_Syn_crime9.jpeg?auto=webp&crop=3226,1814,x403,y437&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T19:51:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
+    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
+    publishedDateTime: 2021-04-13T22:23:00Z
+    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
+    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 40
+      name: WLRN
+      domain: wlrn.org
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
+        width: 880
+        height: 542
         isCached: true
+  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
+    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
+    publishedDateTime: 2021-04-13T23:12:00Z
+    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 38
 
 secured: "35DDGm9I3jG8ltpXAAmqjZy5SUgj0bWUueBEtcZkEAo7VqKbXkrYR2O37JyytfbesBcvGYmDkXgfdisTJYkH1U5ppWGt5XnSksmecdZ9a0BcNJJ3mydClN6P/4i6qqh9IHWcyWdAXua4lyORwpPGOYOsGj2SyQQV92U/VGUsoOXMcXSFjeBpXV+aUSLQjqD7uc8brrthgwbFaVN4u2nC7jDGuplCXvbShUCUq8v7i23F5vL08UJzv2TAecUB9warcHa833aDoqFnHeaA9n1JMDLxshtaAMgdYbvHOWB7Hr3raOuFR4DZAYfqubhzwuF8CyAxrwr2M0h0VKYDfPKAP1P6Rnhg5UF962osooiquZVriNXMl36c4nBXvgLcorp2/EmtZzIDqnlAB/19XxcKWKUMB/0HUXIUpDYF+Udpzm8hxw2xJK51ceMe9fflSZq3X00d5vLrtLFTtYPMw2nXQZHyr3c4sUpl7vnqKuEB9HgH8LlbGK6rqSXrPPJRHXHlMVXUweQClX9dVYg5NgbrXg==;2j+duKkc3wpC7H7fPODxDw=="
 ---

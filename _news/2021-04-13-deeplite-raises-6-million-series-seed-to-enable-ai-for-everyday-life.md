@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-see
 ampWebUrl: "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://i2.wp.com/mms.businesswire.com/media/20210413005850/en/870815/4/Deeplite_team_-_main.jpg?strip=all&ssl=1"

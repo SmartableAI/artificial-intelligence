@@ -41,20 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Toyota adds autonomous driving tech to sedans"
-    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Honda Motor Co, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new ..."
-    publishedDateTime: 2021-04-09T06:06:00Z
-    webUrl: "https://www.bangkokpost.com/auto/news/2097271/toyota-adds-autonomous-driving-tech-to-sedans"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2021/04/09/3942875_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Toyota unveils new models in advanced driver-assist technology push"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell ..."
     publishedDateTime: 2021-04-10T01:20:00Z

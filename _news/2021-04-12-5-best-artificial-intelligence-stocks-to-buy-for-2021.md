@@ -1,12 +1,12 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
+excerpt: "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -72,6 +73,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "RmvMJYtn9j7EWydkliYIOBbGW7Zoa4ngsvcnjKONW2AHXe56jvkEqaNKmIrI5HNP2mbh0TFY+2xP6rlceQImmNldA33tVFfTftISLamZHE4FKRjzkUqJcmImeyT+qtlAhs2F45vNgFqrJEsXkvMt3qQ8a71VaaSvSUDsIbg+OrE0lKTy2ZxHBVHb83Yf/UCEE46KMDiVo1FqTWr/Urmkx1NrtDbrPtKY5PyAWHorjopkclXJqHreeowy+CsO1IVvNv7HyBsr76FtLY10FqjO9ArriyOE8vL+k2Bk/3Y29CEJSJc82p73iSLf6x//XXBD+ANJD8pQnmKGDCBC55J2tJb6wItHPR1L8PCRJE/9Afc=;HEEbKBiMrEAKuKvqK2RdhQ=="
+secured: "if4e5kfN8f69TMF1L1ddNl+1RnskfYOrJ+o8jzz8ZHGizfcAs+jITtNJ3xRLvx9Iw37qwcev2XCotYD0CxXfNVT1tN6mnfbnhhQflppniULhgixBqhyxnHFmilyFgKIudjKZ+r1QsCBq57xEGj8LsGwuFwkRewg7mZGxEj1rh3V9Zluv3idaTVKHI/H9Kx48RulAtDY33jIrhqRaP9hcYA/zG4RYN5lUymPdpsXdWvr26dZfqqmFwmBIuu/Ka7iMern1Z87HlSQ0euQ2V0I+YgpsXihaYvIUJD7t2zCyKEnhr/qBH76/V4J6Gt9SjdTC6DMU0vZGlRJpQUfjaCVV0kqKuBVqgZZ5dGYJs12HvLQ=;Emp2TI/JXUu7FGM/sgw8yQ=="
 ---
 

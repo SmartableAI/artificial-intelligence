@@ -152,6 +152,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 27
+  - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
+    excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
+    publishedDateTime: 2021-04-13T10:43:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 27
   - title: "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud"
     excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP ... they need to better understand their data and realize the true transformational potential of AI,” said Arun Murthy, Chief Product Officer, Cloudera. “CDP analytic experiences are purpose ..."
     publishedDateTime: 2021-04-12T15:31:00Z

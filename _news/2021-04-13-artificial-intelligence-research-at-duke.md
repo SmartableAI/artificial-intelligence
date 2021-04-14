@@ -58,20 +58,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "UCLA researchers develop artificial intelligence to analyze cells without killing them"
-    excerpt: "UCLA researchers developed an artificial intelligence model that allows them to analyze the appearance of a cell and determine its protein content without killing the cell. Before cells are ..."
-    publishedDateTime: 2021-04-09T07:00:00Z
-    webUrl: "https://dailybruin.com/2021/04/09/ucla-researchers-develop-artificial-intelligence-to-analyze-cells-without-killing-them"
-    type: article
-    provider:
-      name: Daily Bruin
-      domain: dailybruin.com
-    quality: 29
-    images:
-      - url: "https://wp.dailybruin.com/images/2021/04/web.news_.aicells.JJ_.jpg"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "fl7EFU200S+bc+OU+Ab4m6GNJhjFadfAySwPr/xWvidxTzdQNU+1oNQ9pHFsSaQbpWn2Od620OvQPl/ywUJmKxsXvawhEzCzlIUNrwPVtRwVyAikz90Ba7bvPdvk4bhdq0N1i+L494CZCS5s0nSDcblU8AKDASsHp3oT+30hkbFoga3CLcAetKwtHTYfev+xPdAK7YLsZMLuEiHNglPIELwOarXpUikqAzn6cvCAWWz5LX2zG/RsdPMpm5v0WmImJY+r5BC0dc681KnU7yVQJbplvpqhJFsPeo2i3ymM+CxDHA6umoJZBE9RTgzv+DjiilRcypkro8Mpj3kTY5bz9Hy5yDXr3U37Az676YM/t9MHfUaMoi2zrUguE72xRaNk3sAL84UCUAC76QMcYM85isVda55QIF+vzXqcbgmPpQTqrBDohhnNcfbJwZuHokCsbNm7cDjZ+DxISD/UzTgQ1y/aXs0XPdsZYGnkfFS6zaqobN+9az56YoOnnxgPKr/u+CAmSYNHqZOmJCv9DOumIg==;+aEB0oby9EKUlQXsosDORw=="
 ---

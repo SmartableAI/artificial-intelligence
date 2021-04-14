@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
 type: article
 quality: 80
-heat: 100
+heat: 101
 published: true
 
 provider:

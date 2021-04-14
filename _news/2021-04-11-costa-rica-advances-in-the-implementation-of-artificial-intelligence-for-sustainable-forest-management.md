@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
-    excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
-    publishedDateTime: 2021-04-09T06:31:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-asset-management-a-secretly-developing-field-of-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
     excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
     publishedDateTime: 2021-04-13T11:00:00Z

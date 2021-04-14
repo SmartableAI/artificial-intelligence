@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
         width: 765
         height: 446
+        isCached: true
+  - title: "Dominos is Delivering Pizzas in Houston Using Small Autonomous Vehicles Built by Silicon Valley Startup Nuro"
+    excerpt: "One company working on autonomous delivery is Silicon Valley startup Nuro. The company announced this week ... Nuro's team includes experts in robotics, AI and autonomous vehicles. Many of Nuro's employees previously worked on autonomous driving projects ..."
+    publishedDateTime: 2021-04-13T21:35:00Z
+    webUrl: "https://www.futurecar.com/4547/Dominos-is-Delivering-Pizzas-in-Houston-With-Tiny-Autonomous-Vehicles-Built-by-Silicon-Valley-Startup-Nuro"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 5
+    images:
+      - url: "https://img.futurecar.com/202104/13/l_6076124527aa7.jpeg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "HpK1W5qn9WKudCbh0kvtWKRlNbtROcQZqATbA3SBvYSzh4ULs7V/4nr7FV5uPBkxgXUNaVIA9xKL2kXmN/IFlr3buXO/CbIK3Z3l21w0nfdDvTgGsXrZlsoB4yjkLnt3O16tFu0EQr8rkwFjPiP6irLNhFP9zxi+qq50aYs5dgqDoK2udHGZHuywK+W9SS4d7woKUgZrCO2JvuxlgqSuBRxgkgUT4HLvEg2/98LnACmO2TdOdSmbPy98PGhnrxOpcnOIg1lxK9nednHKIOZNfMY4CC9VFque50G+TIcDht3U4vtavQAwxgDmMlR9PEzI8+hAC2j3szs9xuyl+Ambbge3iNBjv/2IjGVSJHvy8FMr/sHh/x6uNA8mhwoGwx/sUk1jSwEM61+zZHSvLJYepsmkh6mb84EzPDaJ7uwcUUcE6Zm1DBg7cWETp5D/v8HKB3w348PL33Pug2qeLTkE87rARB7wnamwAndTN3M8L43/m3bMnQUoPFCYwupB/OEGARCh/9Rfp8YQDJpMungkQQ==;FNMECZVQjFFLMOMmrFRzSg=="

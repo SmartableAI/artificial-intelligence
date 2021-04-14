@@ -111,20 +111,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Inside the self-driving car of the future"
-    excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
-    publishedDateTime: 2021-04-09T05:06:00Z
-    webUrl: "https://www.cbsnews.com/video/inside-the-self-driving-car-of-the-future-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sTOtPxdFdfvRwfpimraz8Fd9ysm8LcEHlmJku2ryN1mChvx9DVnj0dvlkLP4pGQPEQxM98ALgecfS+Yx78NmPEiUwDj22uU8ErxjOolfns4fMOVFSdn1hVMZ2of+7Gd1K0B69s42d15P8saDncJapfUHdji7wGd/7997ZfYmZNb3gEuvr0wfwtzrIY6iLOGzoJdtndptj6scmqIqutg6fGA9NzZldOqsMUsruNWdDXVxICpD4g8NMP0SjbFjS2k+vQ+CUisz0tZlcSCfF9UFl8n+iGmwu152QdsQk+zX5oPHbF9aaP8vWcM0VSONWclk/sKg07yrNOH4MXOwWdROwC/GmevSYlX6tXCJYklL4m4=;SBHiysurS5Rh0B7+jC5Q9w=="
 ---

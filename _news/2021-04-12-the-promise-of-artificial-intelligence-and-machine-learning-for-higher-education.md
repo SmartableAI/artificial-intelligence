@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-lear
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
 type: article
 quality: 86
-heat: 107
+heat: 106
 published: true
 
 provider:

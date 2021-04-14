@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-detroit-man-sues-police-for-wrongfully-arresting-him-based-on-facial-recognition.md",
+      "title": "Detroit man sues police for wrongfully arresting him based on facial recognition",
+      "excerpt": "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
+      "originalUrl": "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/wCFXwvsznnVpAgTx6vphHBWds9w=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69121480/acastro_180730_1777_facial_recognition_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
+      "publishedDateTime": "2021-04-13T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-protecting-people-from-hazardous-areas-through-virtual-boundaries-with-computer-vision.md",
       "title": "Protecting people from hazardous areas through virtual boundaries with Computer Vision",
       "excerpt": "As companies welcome more autonomous robots and other heavy equipment into the workplace, we need to ensure equipment can operate safely around human teammates. In this post, we will show you how to build a virtual boundary with computer vision and AWS DeepLens, the AWS deep learning-enabled video camera",
@@ -55,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-lawsuit-filed-against-detroit-police-after-controversial-facial-recognition-leads-to-arrest-of-wrong-person.md",
-      "title": "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person",
-      "excerpt": "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ...",
+      "path": "_news/2021-04-13-opinion-time-to-end-police-use-of-facial-recognition-tech.md",
+      "title": "Opinion: Time to End Police Use of Facial Recognition Tech",
+      "excerpt": "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,",
       "sourceUrl": null,
-      "webUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
-      "originalUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person",
+      "webUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html",
+      "originalUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
+          "url": "https://media2.govtech.com/images/Shutterstock_Facial+Recognition_Header.jpg",
+          "width": 770,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,13 +129,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp",
-      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp",
-      "publishedDateTime": "2021-04-13T09:21:00-07:00",
+      "ampWebUrl": "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP",
+      "publishedDateTime": "2021-04-13T09:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WJBK",
-        "domain": "fox2detroit.com",
+        "name": "Government Technology",
+        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -245,7 +297,7 @@
       "originalUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -349,7 +401,7 @@
       "originalUrl": "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -423,49 +475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-east-bay-police-used-facial-recognition-technology-despite-ban.md",
-      "title": "East Bay police used facial recognition technology despite ban",
-      "excerpt": "Alameda police have been using facial recognition technology, despite the City Council barring the software more than a year ago. This marks the second time recently that police have ignored a council directive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2016/07/20131214__ssjm12XXprivacy1.jpg?w=600&h=412",
-          "width": 600,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/04/09/east-bay-police-used-facial-recognition-technology-despite-ban/amp/",
-      "publishedDateTime": "2021-04-09T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

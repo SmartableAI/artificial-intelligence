@@ -58,16 +58,19 @@ related:
         height: 576
         isCached: true
   - title: "Facial recognition tech being tested for US flights"
-    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic ..."
-    publishedDateTime: 2021-04-13T20:01:00Z
-    webUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
-    ampWebUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: USA Today
+      domain: usatoday.com
     quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Narita airport starts facial recognition trial for faster travel"
     excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
     publishedDateTime: 2021-04-13T21:40:00Z

@@ -66,16 +66,19 @@ related:
         height: 630
         isCached: true
   - title: "Facial recognition tech being tested for US flights"
-    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic ..."
-    publishedDateTime: 2021-04-13T20:01:00Z
-    webUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.html"
-    ampWebUrl: "https://tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/facial-recognition-tech-being-tested-for-us-flights/video_17bd3d59-708d-528b-b838-c73fe7c318f5.amp.html"
+    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: USA Today
+      domain: usatoday.com
     quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "lEp1luctItsI8HigiHpMAn5EtLk0eNO8sOwu6cXQ0x3YVzJ1nDguROEMJ3ucROUaxXY5X2NKrV6YGm3e7t7HHCQVEUz9py5oyd9/jmajw+aqMi3Ks91SfbeVFimv+XsOohzdeY+zv4Rlgb3j29bgAbfeIMvLA+5vS1qdNdCpyrjV4z4o0t2Q+/I54nIsjwuW5VuKJAxc7kaQSzyWJO3/rQdwTnbbZIMPwMRX8oMrzEVBdVGZ/loBMNfYE8SOo8VBCbB8D/gLfsvASminrUZQd19sUKEiR4cJE9D3qi7e3fsz44w7BcwAiu+lHBrSWD2BX1ynkp4FtepTApYYrp9Jb2kW3IQQ55rpxpVAqx9qens=;liw3iXUeu8ztdA8yKKEJUw=="
 ---

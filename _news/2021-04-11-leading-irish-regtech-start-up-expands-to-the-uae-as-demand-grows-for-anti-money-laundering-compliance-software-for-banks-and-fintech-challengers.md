@@ -54,20 +54,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "How Lendingkart Uses Machine Learning"
-    excerpt: "Lendingkart couples the available data with a machine learning algorithm to equip lenders with an advanced system that assesses risks and approves loans at a much larger scale and lower costs. MSMEs (Micro, Small and Medium Enterprises) has been a ..."
-    publishedDateTime: 2021-04-09T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-lendingkart-uses-machine-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/2021-04-07.jpg"
-        width: 512
-        height: 268
-        isCached: true
 
 secured: "0QsbLgHCgJnWUNqVR+oJs0AWAV9y8WW8BqjKVewYIrQB071urn28dDKz/fpF72Q67tPp0UK98Nr82/SZKn/brJ+xDUHQdGwb0REhrvHpmNL7MZSgA10BVuxkWh9jy0x4CUi8PpzJffS1zuN299vYHH4xYTX2Vrv91j2eI3mmufZlLX9d2n0U6ZrDhjMn/xV5m4DOZIq9Dy3Ybm2bFIzn+IrgIHS/gyc0mZewcDd+wt3VYcHursPCSHyx4qA61Vef2LPWqR6jN2LKGCgG7bG/VoZN5FhHFXScvBQ/I3m+n/ZAQq/QRXkQZ91dJnav4Rg0oGndP88XuSOdjM3EZbki35LzF5gml1XVB9WPM7zoEX7HML15Ug1uHOaffBbq4mrE75Diqd9u6sM+/QY2OcRRDMxfUBwd+C4UBFeTlvpB0dFhUjgEiBPhTWIiPuJG5YfwCZ7oeH0dXZHteAX/bkKa9ZcLxOuUag8Rp5Pd62KCqbwAkvxkd5yXJuweFSAXzMk+V05ZzTakOy2DAAIekDtOrw==;Su6J4xXQMdIm1oUuhZW7xQ=="
 ---

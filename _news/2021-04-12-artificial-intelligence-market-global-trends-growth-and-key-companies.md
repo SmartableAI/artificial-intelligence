@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
-    excerpt: "Global “Neural Network Market\" 2021-2026 Research Report provides key analysis on the market status of the Neural"
-    publishedDateTime: 2021-04-09T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

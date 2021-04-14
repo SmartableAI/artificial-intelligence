@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369125"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "How Lendingkart Uses Machine Learning"
-    excerpt: "Lendingkart couples the available data with a machine learning algorithm to equip lenders with an advanced system that assesses risks and approves loans at a much larger scale and lower costs. MSMEs (Micro, Small and Medium Enterprises) has been a ..."
-    publishedDateTime: 2021-04-09T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-lendingkart-uses-machine-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/2021-04-07.jpg"
-        width: 512
-        height: 268
-        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z

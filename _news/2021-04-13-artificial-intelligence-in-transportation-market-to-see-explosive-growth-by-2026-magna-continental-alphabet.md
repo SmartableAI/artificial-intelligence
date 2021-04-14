@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Market 2021 : Top countries Data, Market Size, In-Depth Analysis with Booming Trends and Segmentation Forecast to 2026"
-    excerpt: "Global “Neural Network Market\" 2021-2026 Research Report provides key analysis on the market status of the Neural"
-    publishedDateTime: 2021-04-09T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2021-top-countries-data-market-size-in-depth-analysis-with-booming-trends-and-segmentation-forecast-to-2026-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AbHyu0haK1dYwcngH+EkRkwtwk4hHOrj6hVLqujYKNG9cwHxVD2+yBpRwx+YTNxCxDtHHSgSUWmMAtZ3GVEzJ4vVoHttB8uiKtBFgulGrK0C7hQH4AiRS7jMfRmGvtibvWeuUYy0/m3JkHt6A40C+rWDutyJGv71c/jl5iYhaLyrlZq+pb4UjQ8kbfX4mOeb9r0CBWGjyAR5d1GLKlkwaRvKv5Rtc6a/FZ0dxpdYAtH3PIZayl/myzlpQp4O8TFGsWnfIPZjALC6MtQ3P0c0df0IDLXmEkA0+P98wJA83IXEAIq1ZOmOaWf1AcBo9rR0c3IsxfbA0mAr66a2ZBKHy4FjfW6XxFg6O744xv0x0b8=;zBN7lNYU2T5eml3N0RTFow=="
 ---

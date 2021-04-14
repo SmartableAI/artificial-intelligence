@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
 type: article
 quality: 80
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Inside the self-driving car of the future"
-    excerpt: "Driverless cars are moving off the drawing boards and onto the roads. In a report for \"60 Minutes,\" Bill Whitaker took a spin in a Mercedes concept car, and explored the growing hands-off relationship between people and their automobiles."
-    publishedDateTime: 2021-04-09T05:06:00Z
-    webUrl: "https://www.cbsnews.com/video/inside-the-self-driving-car-of-the-future-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/a6efce17-cfff-48ec-a7cb-60745ed1de44/thumbnail/1200x630/cc9721d66a8db1dc57ae6246f48a4e58/en-100515-whitaker-driverless-car-451760-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "exIZGaeezS8ZGTSsB2VOcsMm3rSmQA8xxCbq1qXz0ADFez/FsadNej6MLlY+2Ixd9ioYxYr9WjLZ44sV9Cp5+/KlxbaTV8lMe7aveouTm9nboi/WX9pDt1O+ZvUl2n+4PeFv63AX3vbXqJyDQtVyjulFzGcRF3zuRroxmH68wAXPt5qQjsk5cZXlffKgXfG8ZcM/C74urkuRVsThSBANDuzDUgtgWSzFZpla92pCabdZ5TFGF8J5Edz0n69YYTtCJfEqNE5QjCZ1xrecCP0sytUMz4nZo9EDEiTiYB9P0HPvPEif/vZI7NxQkWQOovbyfZUToyt5fkAd0BwlWB06u+ZLEihFIHCkpPdvbsGec770lOc1/57KnsIOEHSZgHYM9xYE70pVR4ZDgW1XsV8kSyaPBxFzFc7vcQS9KB8M4Tpn2gmvJeCjlY10E9DcOqeM9m8I3PucxBJXAW71urf1ALKZ8DUUAdHLMiGszPW5ofHi9n/F8h/2QohZiB6EnNOK3TZ6vKiHAWwEKuILj6XcmA==;la3HCJVIts6doubkGems6g=="
