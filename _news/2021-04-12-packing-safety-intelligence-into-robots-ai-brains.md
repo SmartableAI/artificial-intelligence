@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3614748/packing-safety-intelligenc
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 777
     isCached: true
-
-related:
-  - title: "The 3 Most Interesting AI and Robotics Stocks Today"
-    excerpt: "It’s difficult to find a sector where artificial intelligence and robots will not see increased applications in the coming years. Agriculture, retail, shopping, manufacturing and gaming, are just some examples. One thing that touches each one of them is ..."
-    publishedDateTime: 2021-04-09T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-3-most-interesting-ai-and-robotics-stocks-today-2021-04-09"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 79
 
 secured: "ftr8jd7QpUUSi71ObiWS4WXxihBLTWURsT2KPA1H//jzzX+v9mAHS/M3yP++YAh8o0FWUrbMvYG2z9qcwvFsqtil7fjyVfCuPeQTmJkJZZM388ZaYH1Q3OfIadoFVKausob/k3cQfezrgzcd9te5BMusyIorBtFEJjIsddyEJdZaPkNCGfhneyw9BFsxmY1OehOij3n5gi0DW20mvp/F0lMh8bLALYkfyDxCqywpQL2ONA8gY7JfYp0zIiDRj2tXlSNsY5f47RWFIbUcIj6vVgLTrxL9tcQZgx3DjAenUINNYCvjZKVTx5rBLl/05apLs+1qlu3yHWizR3xSYyhJeE/hRfhJBNVFbjyHml8WGovwKZVmiBWjb4H44VzJ8ylr20QP7QeBnkiTTeAazRRkd5vHZ25g1vROin7njkqZawplk+55NSiupxtj+iVv6Ve4DTBHJjVRH6VCaq18EN2rlaoOkTr+aHkE/Smr/fu1nURiIzrjqxwZ8iYfASbyLAMKKTegmbIR3PlAot0348RekA==;CesXLFkVXuud8kxYiffDtA=="
 ---

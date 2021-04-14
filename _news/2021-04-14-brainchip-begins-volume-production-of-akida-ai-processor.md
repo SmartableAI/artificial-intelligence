@@ -3,31 +3,27 @@ category: news
 title: "BrainChip Begins Volume Production of Akida AI Processor"
 excerpt: "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced today that it has begun volume manufacturing of its Akida™ AKD1000 neuromorphic processor chip for edge AI devices. The engineering ..."
 publishedDateTime: 2021-04-13T23:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13"
-webUrl: "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-86b88732fcac4161b46d38217ce39d21"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-industrial-products-and-services-electronic-parts-manufacturing-artificial-intelligence-86b88732fcac4161b46d38217ce39d21"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "+iRRtW0nsnoDQtfq3mV+RheuUTiHoLoDa1ScNyS9eMJU6lwanN1qyIXeS9V97KpAq8DxQzX2jltsQNcVp9m8JaAgMQa3VcBSWT9eT5z0tKXU/3RJSRyLdcDZ+r4NH0CWIpLcddjkck6WWLVs1ssxGsdcscen1+P5aFqwjQXneeFKot7ZECNerVwY48w4KJPJHpt+viEH9KxE/kUSoUqcELInJyJNYLH6woOs4XOTQqRhB5WmTaDXsLjwQ3SGnxxzGob8U7frOH3+xae+cdBEfKBQh6ntHZkuBg/5DqA1JgNrHwp7MGWYu+Lk8TtZUiU/IlTeUssBsyuGey6d9Afjc11C6vWN9mxt3O4OANXnwJ0=;yMXzLsyyius7kz+8sJNjYA=="
+secured: "cLFZ5A6EKHo3p6ngTQlTBavThjTPg/lHy1ek01jg2Jk4A+aUCVGNLwiMS9EDdQeKfv+WhD8DsTl7cTI/wkDIKKP+gBNWpg+iOzn5d2RigWhqBzwFFoAUg1qrRvJBonaDkZNNhOODF9iJ1xXrAtuWPdRT82W7C8LdEKboCv2+T7WzhPaioiXSHv/x+Pg5OdhCAaWcTp9D5RzjHDkaDpumMkPkYcJA9m6zyExkw3mKG/SbteBu4dJ6aQ9uelgXRXHDWiMoroQec8s6vye/k4Ev5cEk+LBeXz5Au0+baLyupldx77kSEBBUShuvYbLTWftGAuWU0BWTnyh0nO8DdA5L3qevzWphgx4G02KuO0ifkhc=;dywjMwEybsqulpf3KtasPQ=="
 ---
 

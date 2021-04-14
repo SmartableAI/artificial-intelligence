@@ -1,29 +1,33 @@
 ---
 category: news
 title: "AI chip maker SambaNova raises $676 million, valued at over $5 billion"
-excerpt: "(Reuters) – SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial ... Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee."
-publishedDateTime: 2021-04-14T02:44:00Z
-originalUrl: "https://www.metro.us/ai-chip-maker-sambanova/"
-webUrl: "https://www.metro.us/ai-chip-maker-sambanova/"
-ampWebUrl: "https://www.metro.us/ai-chip-maker-sambanova/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ai-chip-maker-sambanova/amp/"
+excerpt: "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ..."
+publishedDateTime: 2021-04-14T01:45:00Z
+originalUrl: "https://www.reuters.com/article/us-semiconductors-sambanova-funding-idUKKBN2C01MU"
+webUrl: "https://www.reuters.com/article/us-semiconductors-sambanova-funding-idUKKBN2C01MU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C01MU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C01MU"
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3C0TL-BASEIMAGE.jpg"
-    width: 533
-    height: 800
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
+    width: 363
+    height: 545
     isCached: true
 
 related:
@@ -89,6 +93,20 @@ related:
         width: 877
         height: 583
         isCached: true
+  - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
+    excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
+    publishedDateTime: 2021-04-14T08:27:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/ai-startup-sambanova-raises-us676m-from-investors-including-temasek-gic"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/14/ak_sn_1404.jpg?itok=XgC819DT"
+        width: 763
+        height: 509
+        isCached: true
   - title: "AI platform startup SambaNova Systems raises $676M in massive late-stage round"
     excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
     publishedDateTime: 2021-04-14T03:11:00Z
@@ -122,6 +140,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ccfroR4lfrdR87O8img3z+hDQRZC5NMIuVNZAn9hsXFJ0PgVNfjusLgvxzlWhJOcId1Zxnea7wIcFLGstgVoMbiOf+IRLR1Q54eNvk2r/vFuXgONx8vBe2x6OwV9r8isXfCfx41/MJRTqvBPl5uFMiOvvZgBP8mgO44wu5rSaca/+xgZQkO0PJMz64GOtUe6uWShDLowcTvFXoaI2RCnX+rbFf25/x13ezczVkFdF9B7AqzxFDISHc618Eudb2Sfjz5Ktpem9se4wakTonvX/tZek5a7SlQxR/eAVZaEwQ8KJXjS+YxSg4QtvkPY5Ehg2+cIOAtALkcG90rjY06Z04TrFhtInvWiQV3uqZTDTq5xqimySFYpYr+45N8RzJK4nAc2t7E9dB/WTXsCaA0BDhKtg4uwqN3d6AhaWx6kPIziLxFDxX1JHjBagHR29Ql2/7twWDfMCIapx3CrvNRHNfFeEL/zc853E4bej+A/sYMbrzc9aoudom/rntY8rvsYK4JJcHpsqV57JOocYWzRMw==;OXAEBe2YH29YqbLmP2StRA=="
+secured: "4CiDvsMu4FI61GAKj0emSsjd/A2bL8GvIC1i8sEYZi9V8GYtdw9O5zgt4ElnHODi2wgBzPq5O+2M6LgcSck1m44r5SEcADF90wJd/nnfwzUXGK/U1uZHbygtcQe+G3WHnlrLUSJOhPIfAf7j1cLiWzfS/WBE2Oafeh3mbe0SzeFobCht8loNBAjf+oRhXRvjg9iecppwJOFn20smFSFTLcD7hDkwfDsLyumzc+rxPTIHz9P7lAQUCjA2O/WP/FFPm89PKMR7BQx1IunBaYacT7BFAoISLhiEjAbw+RXRdzOIhggVTEjhY0GlQBdAhlwJHlMeZ8B4cN1fyzMw4NFxgMEN1AyuWvis4IZrHGe8akc=;AzyOhQTFudeZYVZtoeFFtg=="
 ---
 

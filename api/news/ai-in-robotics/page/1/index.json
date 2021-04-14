@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-10-best-robotics-stocks-for-2021.md",
+      "title": "10 Best Robotics Stocks For 2021",
+      "excerpt": "In this article we will take a look at the 10 best robotics stocks for 2021. You can skip our detailed analysis of the robotics industry’s outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/10-best-robotics-stocks-for-2021-931947/",
+      "originalUrl": "https://www.insidermonkey.com/blog/10-best-robotics-stocks-for-2021-931947/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/13070035/andy-kelly-0E_vhMVqL9g-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-robot-police-dog-patrolling-nyc-in-video-sparks-black-mirror-robocop-comparisons.md",
       "title": "Robot Police Dog Patrolling NYC in Video Sparks 'Black Mirror,' 'Robocop' Comparisons",
       "excerpt": "Robotic dogs called Spot and built by Boston Dynamics are demonstrated during the Amazon Re:MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada on June 4, 2019. New Yorkers compared the city to Robocop after ...",
@@ -506,7 +549,7 @@
       "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1385,58 +1428,6 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
-      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
-      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/JaMCCSTvVZzVovh0hCSRNWARiIM=/1200x630/2020/09/24/f6041c84-3000-42ca-810a-2d32e4ea5543/lg-wing-phone-7868.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
-      "publishedDateTime": "2021-04-05T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,172 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
+      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
+      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
+      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.worldfinanceinforms.com/wp-content/uploads/2020/01/Digital_banking-1.jpg",
+          "width": 700,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-how-blockchain-and-machine-learning-can-deliver-the-promise-of-omnichannel-marketing.md",
+      "title": "How blockchain and machine learning can deliver the promise of omnichannel marketing",
+      "excerpt": "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
+      "originalUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
+          "width": 1920,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
+      "publishedDateTime": "2021-03-24T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services.md",
+      "title": "Artificial Intelligence As A Service Market Key Factor Is Increasing Adoption of Advanced Commodity Services",
+      "excerpt": "Ltd : The New Report Artificial Intelligence as a Service Market posted through ... Segmentation by Industrial Vertical: Healthcare and Defense, Government and Utilities, IT and Telecommunications, Media Communication Services, Banking, Financial Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
+      "originalUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cadillacnews.com/app/image/ownlocal.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cadillac Evening News",
+        "domain": "cadillacnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
+      "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
+      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20312454",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454",
+      "publishedDateTime": "2021-03-23T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-realnetworks-launches-ai-robocall-blocker-aims-to-lead-the-charge-in-battle-against-spam-calls.md",
       "title": "RealNetworks launches AI robocall blocker, aims to ‘lead the charge’ in battle against spam calls",
       "excerpt": "The tech: Called KONTXT for VOICE, the software uses AI models that are trained to predict whether an inbound call is spam based on an analysis of voice and intent. Two “major” telecom companies are using early versions of the product. It builds off ...",
@@ -974,188 +1140,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-hes-fintech-and-ondato-are-now-partners-to-promote-digital-onboarding-in-banking-and-finance.md",
-      "title": "HES FinTech and Ondato are Now Partners to Promote Digital Onboarding in Banking and Finance",
-      "excerpt": "and Co-Founder of HES FinTech. “We are looking forward to discovering new opportunities together with HES. They are experts in lending software and AI/ML-based decision-making solutions. Our major goal is to help lenders scale up their activities and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
-      "originalUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
-      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
-      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "publishedDateTime": "2021-03-23T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-truenorth-and-boostai-enter-partnership-to-supercharge-digital-customer-experience-with-conversational-ai.md",
-      "title": "TrueNorth and Boost.ai Enter Partnership to Supercharge Digital Customer Experience With Conversational AI",
-      "excerpt": "TrueNorth, a global fintech software development company, and Boost.ai, a global leader in conversational artificial intelligence for Fortune 1000 companies, today announced a new partnership. This partnership streamlines the process of developing and implementing Boost.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
-      "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
-      "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T08:04:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

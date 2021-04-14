@@ -1203,9 +1203,9 @@ related:
         height: 593
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+    excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
     publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
     type: article
     provider:
       name: CRN
@@ -1215,6 +1215,20 @@ related:
       - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
+    excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to grow Microsoft’s presence in the rapidly-blooming speech to text software space. The company ..."
+    publishedDateTime: 2021-04-14T09:22:00Z
+    webUrl: "https://techhq.com/2021/04/microsoft-flexes-speech-recognition-muscle-with-us19-7b-nuance-acquisition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
+        width: 1024
+        height: 666
         isCached: true
   - title: "Microsoft acquires clinical voice-to-text company Nuance for $19.7B"
     excerpt: "Microsoft is acquiring clinical documentation and artificial intelligence company Nuance Communications for $19.7 billion, two years after first inking an R&D partnership with the speech-to-text market leader. The Redmond, Washington-based tech giant ..."

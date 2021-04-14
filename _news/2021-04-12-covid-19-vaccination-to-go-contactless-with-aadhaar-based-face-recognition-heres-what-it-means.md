@@ -26,6 +26,24 @@ images:
     height: 367
     isCached: true
 
+related:
+  - title: "COVID-19 impact: It’s a rough ride ahead for Cognitive Cloud Computing Market"
+    excerpt: "Recent Advances in the Market According to a recent report by Research Dive, the most significant players of the global cognitive cloud computing market players include SparkCognition, CognitiveScale, Microsoft ... its managed services portfolio and ..."
+    publishedDateTime: 2021-04-14T09:55:00Z
+    webUrl: "https://www.openpr.com/news/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+    ampWebUrl: "https://www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414987465_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
+
 secured: "NXf8L0PtuS63FhlJqpa0rlQJIwbJ00osI+FBDvZLmjBLw017mV9xKW8niPI0Hz2ZV9qubbyD68BCD2g387Rm0E3HlICBiQSCvEY+fjLnxbqrfRBVamd5dcjl5dU7ib/gV8dwOY7ZboKl/rALTPavKblVkAcgC4bH4avmsW5jvq3M4E5VBFkCwjyB2k06Jq/v9yckyW0m61GhPqMeBqh1YHTYg1oo2hFygnA1o2f8Gwb8u5TDMQz450twqs79C3TmH1TeJ9uedLHeAU6NyK9ko8m3L7fTW5vnr6yQcLteZ2ZepxmqdQ6p7n8CKj4tKN2HaFKBo9SvvlYT3YCLkdAUo1jbqjIlI0ebnWY3xZj4910=;pnM4ccU4GmQpAXOIHs0KXg=="
 ---
 

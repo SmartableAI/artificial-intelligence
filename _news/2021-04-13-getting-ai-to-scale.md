@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-    excerpt: "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),"
-    publishedDateTime: 2021-04-09T16:30:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/09/3-top-artificial-intelligence-stocks-to-buy-right/"
+  - title: "Why these doctors are embracing AI to make triage decisions"
+    excerpt: "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ..."
+    publishedDateTime: 2021-04-13T11:20:00Z
+    webUrl: "https://www.zdnet.com/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-these-doctors-are-embracing-ai-to-make-triage-decisions/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F620885%2Fartificial-intelligence.jpg&w=1200&op=resize"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "10 Best Artificial Intelligence Stocks to Buy for 2021"
-    excerpt: "In this article we will take a look at the 10 best artificial intelligence stocks for 2021. You can skip our detailed analysis of the AI"
-    publishedDateTime: 2021-04-12T15:42:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-to-buy-for-2021-931806/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/12052842/neonbrand-5afenxnLDjs-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-    excerpt: "The firm has increased ad prices by 30% since March. Research firm eMarketer expects that Facebook ad revenue will cross $42.6B this year. The company is ranked first on our list of top 10 artificial intelligence stocks for 2021."
-    publishedDateTime: 2021-04-12T15:41:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
-        width: 1920
-        height: 1044
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/11/8c3289a0-2079-42f7-b8fb-ac6f44614965/radiology.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "XS5+Njklo1rlu0Wi0RoKzZSA2Tspl9B3NvzxTsQcJEQUJ0nQjbUq1SltBln7Hm/4GlpViu0XOqG86pG7emPwoGsERShKyMrb3+O2sUGeEUUx8Y7A3tIfn0qP+MHjWGDNCkCSVtBWiylrKrUKew9JmZDookwaYiItlAX3umcFvVRElwcUmQ4AgypyjbXAiYTZRXBQcLnhdDFUfmxwsXpS5iyD38Vz6Y6zLECFeaWy7mbWrfYyZr5GwyqE07lYqaI5Jl2kVwHzn90niZud85o1ijO1Gvki1q99Pxc4jpkonKs2f7lKeJiAEebXNOin+aX2tdIQte9ZIUZ3qdvwXRQTVSe7y0dy32pb+IFnXWTM7KiFZaeQ7oUV7t/p+bYyEyx4zjvNZTu8tdwKUXEx742qbFOc+L/CFAZQui1wznJANDshg1bZyFSBAyicdZuASd+Zked7crbh3tulxyFyFfPg8+ipiiQPBLsFNKJ3of2lNPsYS/C1jWNIX62lLFkORRWDPQYxiFHk/+97ZLAhJuqd1Q==;SJjH5DLPUb2tZmDVR1DzRg=="

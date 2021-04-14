@@ -3,8 +3,8 @@ category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
 excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
 type: article
 
 provider:
@@ -12,8 +12,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -21,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "4tzPlrf1Yb4S4KL2SMpee80Pm2RU3MLDu3iQA/fDOgLqFXRGUagLYCh4+CmTUNh/Z6iYk2YB8jQiMDPd59DdPEOjxRmMkr+gHfhHORFObcawj7m7J5T42te7S3c+xZpL7wFkLmIysMj/SYrxGlz1ZcULIdCP26G92p2g+H9Er80QHV+nOglxzYaU9tRxMlXLL/VVJR6EWrUcVyzCGAyrooaZEtKTq2MmoUCO32JA7iIWSKIIoOOdmAx18f5kQcJRAQC3vXLwqUBzsJmL9wbrkqMumbPVZW7v5gu+JqOu/2GMT80YbA6E/ggFiWKCHDogCTVIZ0cY0Kyt01hfdAEMYpkBcR8cx+jSg3TmB7a3rkQ=;zyE4Odp/a8OMbDMGuIz8Jg=="
+secured: "HdhZrPmm1ibz5mEa1bhnQEl5ms+z0Ln6Eyka6HYgm3/EkdHyd2kB8CA4AQJQuSokyMhDsGiia0vPoEisiyyxPHPKgIBR1SvCb6cRObmMdcQewvVne97Ac7M81F3UVXHNrAZHD5be4ZybyA9838r3kVMeLI3M85kjHqRudNKPfuDHjz0yTwGURAIxrz5JkbtYOGnUnnlPPcA/Rli8mYquI7swGpNOltK9QuWfqJcyjrsKsI2tW96AHIekeUpcCLC3pykAb5dQP5IVvL4+7tydFyKcIEa3mC3ZsPvIUIAlDVpDkWt7SSnVhm3BUDe3nKU/wNxhkSEerrcLmICuIUOv/MgcrhX8B+PzbxpGXXKSUKc=;s3JoTMg/g0q0MqvbWN3+Fg=="
 ---
 

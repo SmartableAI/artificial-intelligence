@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
+      "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
+      "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
+      "originalUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
+          "width": 444,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
       "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
       "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
@@ -1371,49 +1414,6 @@
       "provider": {
         "name": "Recycling International",
         "domain": "recyclinginternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-robots-to-the-fore-at-new-national-centre-for-artificial-intelligence-in-scotland.md",
-      "title": "Robots to the fore at new national centre for artificial intelligence in Scotland",
-      "excerpt": "Construction has started on a new Scottish research facility to drive early-stage product development in the fields of robotics and artificial intelligence. The National Robotarium on the Edinburgh campus of Heriot-Watt University is scheduled to open in the spring of next year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/",
-      "originalUrl": "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/12374270/",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland.com",
-        "domain": "heraldscotland.com",
         "images": null,
         "publishers": null,
         "authors": null

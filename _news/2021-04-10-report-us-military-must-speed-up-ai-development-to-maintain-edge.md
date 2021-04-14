@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentag
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/09/AI-work-grown-pentagon/4741617998029/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: UPI.com
@@ -40,6 +40,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
+    excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
+    publishedDateTime: 2021-04-14T08:26:00Z
+    webUrl: "https://www.openpr.com/news/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    ampWebUrl: "https://www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "W0A0Tuf++eE8Xvt3+F9nleHPnTdf+1xWkQoCkfDJjOjm66JZ0PJZ7Mya3X6fP4Pl5Fu7Qe4nBDVNBUlkeiovYDgEHopyJfibGCTqQ4WSBLTB0eK2ZYVZBpnXB/nBHS3C+SSyLQPR7yAdMw4e2JmOGItIJoKbwmhF2Zbz40IWLY5U70XL4GsWF/uxy32OzpbcSSXoIFA0IRUcqhUy661nOztdaIfUmIRm917acf2AMPS94nghTRnXYWQu9MOV1MjRre3VcL7WPxpSXQX47j4olVT4Pnu1mAk7MWbHsSRfAc/qgVQWMhRZuwHsivjaNzCvY7IL6ArKRcnyBRNJEo17j8ryQPjbaIXpKowXMK5/w51J7ZEcRCjq5L8knYq7m6mNlioSO3NPAEY+HS8c7SacJ7Ccbpqh5LGTZKOAy5PbbqSoFo2fcDanaRoOZyVqCTnTSl+9hLmH9i0BGIaAq9fi73YqNtVzSXI7dSyvQYwOLLT8+gxaQHdmcpF4EbCrtidwANAqw6KuoBkD5u60nUXYDQ==;5Sq9zESua3osA4r+Oe9zLQ=="
 ---

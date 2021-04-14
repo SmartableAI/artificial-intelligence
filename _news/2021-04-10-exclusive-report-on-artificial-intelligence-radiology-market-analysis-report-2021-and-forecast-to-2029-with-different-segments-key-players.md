@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
-    excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
-    publishedDateTime: 2021-04-12T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-report-analysis-2021-2026-top-keyplayers-ibm-intel-nuance-communications-etc-2021-04-12"
+  - title: "Natural Language Processing Market Size, Growth, Manufacturers Segments and Forecast 2025 | Says Kenneth Research"
+    excerpt: "Apr 14, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Natural Language Processing Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-growth-manufacturers-segments-and-forecast-2025-says-kenneth-research-2021-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
-    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
-    publishedDateTime: 2021-04-12T08:36:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 27
 
 secured: "IMPALfgWrg2dXbJPFRE15pz4x5x0naNpVSj+cfT2z2yBNXNsAd6T3zsO7gBMmODYYcyptfigBavEfOKf70Jyl90Jk8lkBz6Lnt0/xVBlx9JUmjp0nUUKyoDfD+AzpfBWQdJ3rEXhdE3+rd/0YpMPVfQlkPlLe0y8WN0ulm3latgIGQ+h9Jv42A/+jgRB+iQb/ILxjIkyvi93jtmmZuQghgu0iB9bgx3NK6AYt31mnLqhFmVHi9DHfj/qHO1CFAq/N/XzFWSU32JHDYJ2e1mlVb29k96i+ExlpRgYGoAy56+pipnfgHoSpeXU2PlkUGddjugAS3sT5TtCuzhXCw/kHHkJ6nO4116igIFSNEAT3tkVN17y/4CnHouWl6qs308rWkjACtO2xEWoSVFGbEAXBpQb8xjIn33VDQyjoOFWDlWIEIDOzut8TQ3djNZPkEriKGPeXN3/F9z3qQ9C1Cx+g/LmNdQiPgnZTb6AKnp9DdUB8mu6Z2t4OeHfVQOFJ/QhE+XmHhGLWPlz5i7bUWTVxw==;z5okjnaBeRpbwRf0+n1giQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
 publishedDateTime: 2021-04-13T17:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
+webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
 type: article
 quality: 54
 heat: -1
@@ -1201,6 +1201,20 @@ related:
         width: 1054
         height: 593
         isCached: true
+  - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
+    excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to grow Microsoft’s presence in the rapidly-blooming speech to text software space. The company ..."
+    publishedDateTime: 2021-04-14T09:22:00Z
+    webUrl: "https://techhq.com/2021/04/microsoft-flexes-speech-recognition-muscle-with-us19-7b-nuance-acquisition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
+        width: 1024
+        height: 666
+        isCached: true
   - title: "Tech & Science Daily| Microsoft’s $16bn takeover of AI firm behind Apple’s Siri"
     excerpt: "Having moved on from offering voice assistant tech, the firm now focuses on building software and AI for healthcare companies. New research suggests the Kent ... to such large volumes of water is unknown. Facebook News is adding a local news section ..."
     publishedDateTime: 2021-04-13T13:24:00Z
@@ -1396,6 +1410,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "BmiYmhqTCsX4mSkUI0iI14jXHrGzXXNpJhIEo6WJJc31BV/0mI/IpgC0EusRj+/NZXnrvCqijATewr16HAze5Ud4uylBXdSKp5Xw/tjySRuP5i2yhnW7/Lk6J/bZaGegz4n2w8/2zUzlQHj6GLb2Tbo7fG3SyP0/QKCyMtUZUuHxhI9aOicteZ9GZs395i3diMF8bVIFTuCyyHF/vuZ9JiJOGpViMaWBqxH3+XZ2KkCLCvhoZT72yTZ87D4n8LXqiTF25SW0jiKjBxS+1KrK6Ib6C1xT4wWxCeITVuFtjNEYueFG5mojrV1EMzIlwgMY6VU181nvkeuRZEEZXUr0+fPUJtYPqky06eSrEnHdgX4=;/WuBVmGm0APFLl+VbFKr5g=="
+secured: "H3ZEwrEAc3pwWeph4Xsq/3/IH/erp6kDBOjW8Nnus3xYYHgBk0Vpd8ojNI5yGQDO0SvAYzbHN1CFDwgldbD0XHVQJrJio5M0LkjRVsKUvpDmlOjKDKoc2PytQ59h68DKUfXK6EDpVPJQbbzFtfvjJI6bwGNSfBMIll8R5E7j99STuNfexamb2+iiIItqzEm5PYfUWvDsUVrId5kNY9ArXnEwbvijNPDNvxz5YKPyPlco2PeFZ9ZNH2DQOEwCqYLh3qThv4SNayj5Lr/+V0/jLSN8XooowzqPoThZLWXHQX85IAOzgeGOx5xEFHVWX9bg3ONikVnMlWwcNLGx1u+Qyxt23cqVpQ9HWu/Xvy2FSJI=;W4N7Qww+3pJRnawd5Yk8Hg=="
 ---
 

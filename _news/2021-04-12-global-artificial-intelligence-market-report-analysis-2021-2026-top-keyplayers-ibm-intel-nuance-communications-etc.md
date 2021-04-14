@@ -37,20 +37,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 27
-  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
-    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
-    publishedDateTime: 2021-04-10T12:55:00Z
-    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 3
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
-        width: 750
-        height: 420
-        isCached: true
 
 secured: "gV//twYLR6waQcMyLnscLUFJlkZzsNUatURvIr5dO0hN2GxIOIm7Vl02MLXOxjryxMQirqheMtKUdIyYzBSbMxrTnQBgiQ5Axjnm18W02V/a9Gv5UzwOzEQwNQNbxrGIUhtoUw8HR5H+N/ap6xejt+Pfka+uLZeQqzIeFGjqsUixfwO3qQVOdxKe+tTsUKOleENOsB/4UTmqGWwDYEGaldAdY/jhcD8nGuLaSbNPwBbOUlnL0zs1Is4bjJmreLPTQDoB4zfLYKKOOLS+sFaMpZ43aAdtUesQkrAJK4IxEEUHx1G5UlUwLbQbLirK5531zNznnARER102dVBF1KJfPWmNd+FG4RNJmkqVUy+nq4c=;OTAzwq7OkG9bhbL94H4fRA=="
 ---

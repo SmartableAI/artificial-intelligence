@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
+      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
+      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/JaMCCSTvVZzVovh0hCSRNWARiIM=/1200x630/2020/09/24/f6041c84-3000-42ca-810a-2d32e4ea5543/lg-wing-phone-7868.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "publishedDateTime": "2021-04-05T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
       "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
       "excerpt": "Participants utilized Amazon SageMaker – a service used to build, train and deploy ML models for use cases – to build and train models for the event. During the finale, racers watched via livestream as their models, which were downloaded to AWS ...",
@@ -1328,49 +1380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment.md",
-      "title": "Is Art Made by an AI Robot Speech Protected by the First Amendment?",
-      "excerpt": "the robot becomes a medium for a person's expression, assisting (inspiring?) the decision-making process of what to design. I'll admit. In 2014, I didn't think AI artists would soon start selling ...",
-      "sourceUrl": null,
-      "webUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "originalUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dn750GALzbo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "cdnAmpWebUrl": "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "publishedDateTime": "2021-03-26T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reason",
-        "domain": "reason.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

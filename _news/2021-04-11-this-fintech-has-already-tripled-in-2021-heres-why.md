@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Top 5 female-fronted fintech firms"
+    excerpt: "Canadian fintech firm Borrowell is on a mission to help those struggling ... as well as pioneering the country’s first AI-powered ‘credit coach.’ Eva Wong, the firm’s co-founder and COO, has long been a vocal advocate of diversity and inclusion ..."
+    publishedDateTime: 2021-04-14T08:00:00Z
+    webUrl: "https://www.worldfinance.com/markets/technology/top-5-female-fronted-fintech-firms"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 24
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/04/K094-600x423.gif"
+        width: 600
+        height: 423
+        isCached: true
   - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
     excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
     publishedDateTime: 2021-04-11T08:11:00Z

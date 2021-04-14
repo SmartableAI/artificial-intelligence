@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI and the future of gaming"
+    excerpt: "Charlotte Murphy is a freelance writer who loves writing about all things AI and how it's revolutionising the world in unexpected ways. There are few industries that cut as close to the edge in"
+    publishedDateTime: 2021-04-14T09:40:00Z
+    webUrl: "https://www.pocketgamer.biz/comment-and-opinion/76274/ai-future-gaming/"
+    type: article
+    provider:
+      name: Pocket Gamer.Biz
+      domain: pocketgamer.biz
+    quality: 37
+    images:
+      - url: "https://resource.steelmedia.co.uk/skins/25041616150133desktop.jpg"
+        width: 1600
+        height: 930
+        isCached: true
 
 secured: "fWPBtHWMTgbgeGAKvlzjSiHH1N6kTnPR7DctZdw7BvLhn4w04ygtoeIWhPYWaw+D6n4/1I4QjCj1/z6oNnPa5+mBrGc/P3U9H7ggjZoIX3+Y4mNcTjkRMwN8lRJwpagy6vDee5tG3Svnw6qMxoU2PYY4f4bY5WdutyPcQDSNG+UWW+e+q4kwOT54/2oKfAtg43hmja9UJNtFEH5gXs0YtvnQm0PjRXQpY/U1dgFklyveX4C4vfJiYvYCZwMi5YK+ZEqzV+N8D7wsJPgS2jEEZc2CaehscDiWPooyI9ffpioHbGZNUteYir8Zv5BT/s42mYQnjWXSkaRvws65jFy6Hr4MO//NDK8lp35K4tH4X5k=;k+H0P3xDCRxAYKpQIQyLGA=="
 ---

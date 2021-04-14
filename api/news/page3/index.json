@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-lays-out-its-three-chip-data-center-roadmap.md",
+      "title": "Nvidia lays out its three-chip data center roadmap",
+      "excerpt": "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "publishedDateTime": "2021-04-12T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai.md",
+      "title": "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI",
+      "excerpt": "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
+      "publishedDateTime": "2021-04-12T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ai-startup-uipath-looks-to-raise-11-billion-in-us-ipo.md",
+      "title": "AI startup UiPath looks to raise $1.1 billion in US IPO",
+      "excerpt": "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... a gifted Peloton » SHARE THIS POST C3.ai NewsMORE Related Stocks Find News",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60747fad2cc1ef0018da140e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp",
+      "publishedDateTime": "2021-04-12T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says.md",
       "title": "Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says",
       "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Some AI-powered medical devices approved by the U.S. Food and Drug Administration (FDA) are vulnerable to data ...",
@@ -1010,7 +1164,7 @@
       "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1103,153 +1257,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-artificial-intelligence-market-global-trends-growth-and-key-companies.md",
-      "title": "Artificial Intelligence Market | Global Trends, Growth and Key Companies",
-      "excerpt": "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-the-promise-of-artificial-intelligence-and-machine-learning-for-higher-education.md",
-      "title": "The promise of artificial intelligence and machine learning for higher education",
-      "excerpt": "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
-      "originalUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg",
-          "width": 816,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/",
-      "publishedDateTime": "2021-04-12T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-fintech-unsecured-lending-challenges-and-myths.md",
-      "title": "Fintech Unsecured Lending: Challenges And Myths",
-      "excerpt": "Fintech adoption in borrowing space is 61 per cent as per this ... Availability of many data points of the customers to feed AI/ML models to underwrite and mitigate the risks since portfolio is unsecured in nature and such players do not operate on brick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369125",
-      "originalUrl": "https://www.entrepreneur.com/article/369125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618209459-money-transfer-3588301-1920.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369125",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125",
-      "publishedDateTime": "2021-04-11T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

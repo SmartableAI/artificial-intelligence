@@ -23,17 +23,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "AI Startup Shubu.ai led by IITian raises USD 1 mn"
-    excerpt: "After that, I worked on various ideas, none of which actually took off but in hindsight, the failures laid the foundation for building Shubu.ai.\"''I have always worked in start-ups and I felt that start-ups were always a great avenue to explore the ..."
-    publishedDateTime: 2021-04-09T16:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/268573362/ai-startup-shubuai-led-by-iitian-raises-usd-1-mn"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
-
 secured: "IkWezU5YJSfn6aZLLDBVlr2d7rpmwyJwHE1rUUmrH6zjw1CIqXJRU423IZ8HipMDrY5q5naqbUAptf/yhQt14s9Zzi/wv1tvFYPIlSre4ENlbA0yfb2odAn2J4iKWcpYOVxBhBESiOyLkhDitmdKs+KvBZCKwJPSjHUKcvea0fA/1amwOwPGbP5JhgnC7kOeD2eYK80bdIvehowYE/iQwxkURGT/CHgs2NvQgcs5N7vH8RXtlFnYPp2uc3Yw+SAQQoABKKfH2boMFkR9jcAIiPiLV9myjUVk4bIShveyl8p4qxg9JKLXlS/6MDisINAOZ7SSl8WYeEnr4whTxMkNiU4M5MoPV/4qlhtbimUg4aE=;YXGc/S5MLNJKWO0ZfdLaEg=="
 ---
 

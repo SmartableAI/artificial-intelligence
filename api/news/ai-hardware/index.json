@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-14-brainchip-begins-volume-production-of-akida-ai-processor.md",
-      "title": "BrainChip Begins Volume Production of Akida AI Processor",
-      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced today that it has begun volume manufacturing of its Akida™ AKD1000 neuromorphic processor chip for edge AI devices. The engineering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-14-video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations.md",
       "title": "Video conferencing company Touchcast uses AI to add context to conversations",
       "excerpt": "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ...",
@@ -219,7 +167,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1519,6 +1467,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
+      "title": "Nvidia's fastest GPU has gone on sale",
+      "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "originalUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nd5ssQsrfZLY2eYoqhGNbD-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "publishedDateTime": "2021-04-01T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],
