@@ -27,85 +27,106 @@ images:
     isCached: true
 
 related:
-  - title: "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows"
-    excerpt: "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint."
-    publishedDateTime: 2021-04-13T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
+  - title: "Huawei invests in self-driving and electric car tech it says surpasses Tesla"
+    excerpt: "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman."
+    publishedDateTime: 2021-04-14T02:05:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767"
-        width: 1168
-        height: 657
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "DJI could be bringing its drone tech to self-driving cars"
-    excerpt: "DJI has established itself as the biggest name in drone technology in recent years – but it could be about to lend its expertise to a very different industry. As reported by Drone DJ, potentially leaked promotional material seems to imply the Chinese ..."
-    publishedDateTime: 2021-04-13T15:33:00Z
-    webUrl: "https://www.techradar.com/au/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
+  - title: "Huawei to invest $1 billion on car tech it claims can surpass Tesla's"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T13:00:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas-41618229075573.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: hindustantimes.com
+      domain: hindustantimes.com
     quality: 74
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/chrxwaAV9euDLtLoynjTjb-480-80.jpg"
-        width: 480
-        height: 270
+      - url: "https://images.hindustantimes.com/auto/img/2021/04/12/600x338/airport-huawei-company-shenzhen-shenzhen-pictured-international_d784b2c2-f4cb-11e9-800c-f2f87dfa36aa_1618229210545.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
-    excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
-    publishedDateTime: 2021-04-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/"
+  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T10:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg"
         width: 1200
-        height: 833
+        height: 800
         isCached: true
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
+  - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
+    excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
+    publishedDateTime: 2021-04-12T22:51:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
-    publishedDateTime: 2021-04-10T18:01:00Z
-    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+  - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
+    excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
+    publishedDateTime: 2021-04-13T12:48:00Z
+    webUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html"
+    ampWebUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
     type: article
     provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 36
+      name: Firstpost
+      domain: firstpost.com
+    quality: 32
     images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Huawei to invest $1 billion on auto technology"
+    excerpt: "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T12:22:00Z
+    webUrl: "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
         isCached: true
 
 secured: "G3u8H4Q/Ui54yeNLipuljjHBZbVZxrRsVNaAwICBi5/8wcdNQzHDctrGbCzPf4f3VOQdSjYi8m9eoif+uqpwmVryvMrtK53g3vV60YqCkqIV8T9O6JuahA4y9e36NkwLuhbXbUYC1MeIhwZMSvRvT69NsU4W9x+dvugrKBqYNisNL63oZCpw4dST3pOg1KvbQJkCtAaP9wLo5UMZmnVg1Hdg7CNgZ+BoNlw8A94kzdbCSH7khdu8mWYVC81FpCYJtGzFtJ0FSoGJpktscv8NJd2lr9ddMa14gUt7eyrbndPmfzvMndeyPzL9/cO7Lx0CsjE0qAPkJMnQJr4ohXl7Lk8xrscGv5cWTbZU8OMsV2b3sXbms4FPbLll1wtNEdgeBK55OSqMZshBh3CsuB0+DLNYOPBFrdBlTGoqNCLioQ6deJxehaf8HswtEcqZU8avycyGk+ALej/nT484UuH9LnYS389OdKLvXaFHxreXjHWZqk+uLV8dMS1ejz5d4DcCkL5EOPFygLhbFKfp8IVRBg==;we47Br5USrLD2m7p8r0cEw=="

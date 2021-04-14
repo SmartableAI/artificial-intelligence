@@ -47,6 +47,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Welsh Fintech Delio Selected for FinTech Innovation Lab New York"
+    excerpt: "The Cardiff-based fintech company, which develops investment platforms for ... Safekeep (New York) – whose award-winning AI-driven claims solution increases recovery potential and reduces effort by as much as 90%. SPIN Analytics (London / New York ..."
+    publishedDateTime: 2021-04-14T04:55:00Z
+    webUrl: "https://businessnewswales.com/welsh-fintech-delio-selected-for-fintech-innovation-lab-new-york/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/delio-logo-white-transparent-e1565698398697.png"
+        width: 710
+        height: 429
+        isCached: true
 
 secured: "tNgvT6yPqNwHNu2JwJHp9UV2Lr7KDLHRj20D+lXAZx05LKNMT2aeuDCzatsZXBa6A8JOqdNpjPupqRU2Vh/MPcHPDyeZM71rWJIapBadCvXAA53bNzkkUbW0raio1zOWv5e2pDg/o1AhcKbDRIOVpHdT+rB5+9j84A2UmCDHtTiRFRtWD/TPIFeiCj7D/EphsMXSXL4byfiRBldT3uNWbiKUmymLnlRB0p4HiEStw6xrDCVfxYH55V8d1baPrgXgJYXPTT1fzBMSvArzkXX4ThUUIRCZXuRcY348Ipk/mUZMP29SVLNyHI7p5sVqU81ftPrDzGgR//CKzWV58OXYWZ6zxT31RPKfPxlKb/L/7io=;YFqW64rH0jFczhi1hf8jcw=="
 ---

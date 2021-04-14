@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-13/eu-poised-to-se
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/eu-poised-to-set-ai-rules-that-would-ban-surveillance-scoring"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 736
     isCached: true
+
+related:
+  - title: "Ursula von der Leyen News – Commission to ban ‘indiscriminate surveillance’ in leaked AI plans – EURACTIV.com"
+    excerpt: "As part of the draft regulation on a ‘European approach for artificial intelligence,’ seen by EURACTIV, the EU executive proposes to ban AI technologies that are used for “indiscriminate surveillance applied in a generalised manner to all natural ..."
+    publishedDateTime: 2021-04-14T05:47:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_ursula-von-der-leyen/ursula-von-der-leyen-news-commission-to-ban-indiscriminate-surveillance-in-leaked-ai-plans-euractiv-com/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 0
 
 secured: "F3JehuJ36Ecsi8v2WPgULzAsnlpKE4Pi+kALBYmh1zjIdfQ4ZfKSTlm0t1MkR3hND+9M/RjXZ2rNQPByjUDcmKhH5H84tKpUUaQkoszXj6FqHXwT7LQ01SbUWrDS9336rPyO/8DH2Tk9la2SkAOBYhlyMbF4IxmDt723DDJ4Tcj+zF7apeXv1BXCBvlx65ZDDwBgQ5GbIL027tEDvvansIXctiLpZCc1vaSc4kJgde7c2I8vbl98sxSL1OuL/9t6wg4YYGk8YkOBzizKNVPpf2yiUEsC9bhhV6MzeC8r0RAeeMP+DpV+0QKCgiiQ8ey730uC3FtzfkS4OVMzJs3xGeNp6rEdBhccPYK+G80odO9579ynXV4aY7sqFU25Lxys2UsuRSCTUEJdFq05g1DMK7CLqGbRd7MiZrf05ekOXURcCI8V8sGQO2BIOpRbsDE35RtcbLTEBgfO64EH4KqYltUk5iydOLuBlPA1seDwjrpOe7MXy89UCPI80k3F7x9zbSdqwfDkd6Nii9nTuql/xw==;2gqV89MkQsxAbLe6S1/W9w=="
 ---

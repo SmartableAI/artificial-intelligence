@@ -24,36 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
-    excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
-    publishedDateTime: 2021-04-09T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09"
+  - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
+    excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
+    publishedDateTime: 2021-04-12T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-report-analysis-2021-2026-top-keyplayers-ibm-intel-nuance-communications-etc-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
-    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
-    publishedDateTime: 2021-04-12T04:02:00Z
-    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
+    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
+    publishedDateTime: 2021-04-12T08:36:00Z
+    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
-        width: 683
-        height: 419
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 27
 
 secured: "IMPALfgWrg2dXbJPFRE15pz4x5x0naNpVSj+cfT2z2yBNXNsAd6T3zsO7gBMmODYYcyptfigBavEfOKf70Jyl90Jk8lkBz6Lnt0/xVBlx9JUmjp0nUUKyoDfD+AzpfBWQdJ3rEXhdE3+rd/0YpMPVfQlkPlLe0y8WN0ulm3latgIGQ+h9Jv42A/+jgRB+iQb/ILxjIkyvi93jtmmZuQghgu0iB9bgx3NK6AYt31mnLqhFmVHi9DHfj/qHO1CFAq/N/XzFWSU32JHDYJ2e1mlVb29k96i+ExlpRgYGoAy56+pipnfgHoSpeXU2PlkUGddjugAS3sT5TtCuzhXCw/kHHkJ6nO4116igIFSNEAT3tkVN17y/4CnHouWl6qs308rWkjACtO2xEWoSVFGbEAXBpQb8xjIn33VDQyjoOFWDlWIEIDOzut8TQ3djNZPkEriKGPeXN3/F9z3qQ9C1Cx+g/LmNdQiPgnZTb6AKnp9DdUB8mu6Z2t4OeHfVQOFJ/QhE+XmHhGLWPlz5i7bUWTVxw==;z5okjnaBeRpbwRf0+n1giQ=="
 ---

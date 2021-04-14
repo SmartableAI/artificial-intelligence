@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Study flags gender bias in Facebook's ads tools"
-    excerpt: "A leading-edge research firm focused on digital transformation ... But researchers remain concerned about bias in artificial intelligence (AI) software choosing which users see an ad. Facebook and LinkedIn both said they study their AI for what the ..."
-    publishedDateTime: 2021-04-09T12:13:00Z
-    webUrl: "https://www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/study-flags-gender-bias-in-facebooks-ads-tools-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "TGWdhe7yVbPSKcfEmcq9mA87ES8lqnIZBVV6+zWstbjqGgYKwQ1ocHGqvYI6cKx2hQcX5scKpYm2ZClnpN4HALFNMBa0kZKx1hb6iSu+dldDuULj7yCd/P5SCewwFXnvJBkxcfhYDBGUHtYR/dL9IGv7STQbH43F7luve2y8RqMvsBIxBLip68Lh9NFqCnub/j7+jS23HW24l8OUn0T42hTqTmxKsFSVMZTzCdvslqvFIFZAWK5wUv3pDaIm8Ox6PLL/oNJU0mmddaaaG9Sye9c2tLDhW0Bhu78qx6efnpcCnVixyIbbejYC3bgqErZgTCSzJitT/rxEP28VMaZzQ1jzQa/ulRMHN+qE4AnxLpcOWwqNPrG+iEUCHCNgVKjKsKHOKtMLWK3ZXREiDViPXhgUFB1cmoxTfiByjlu4HXXKUQYGz/dlCEqbnKNDa+DcPRmds4daT1cNNbWmz7DvT+9ddLS3bUmPaBTRtLy/VXGzgeD8tLDW/CdJezQVko2/wy7KL/KRVv/GzeR2Dsaemw==;wVQK1hDuml0Lhwgr5n5vLg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
+excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "rr09Pb4Wy35NcnyxaJwp991NiJ5Uz4l9Nqgh9cDxBGBEm0VEAOWGDpa58nmkbnXoPx4Kku/NIWE4qDYUeLinQf6DbIMOj60z7T7t6JtahLFlLFgKeQUxAprb/yHjhqurbU3tQpGUzy/eiqT5q07E08AkSZgAqOmjcGeNT51E7vD/3gswJkUjeDFTSgeh38vfxjR+Pjs8vH+ZOalinORNQLZ2Noqiz3m9Ymmv4DaDUXBucUceYTXA2AEy2N5IMDPmZNiaAsN3rBy5PJs30TtMddMPJH4Ce08fFEw0PeSIm787GY/amwJpAUoqgIJQ/TrWMkc4nJ0JBpLtlGCTILsZovPfLTNgmCCF0NzFD56cjss=;8aQRHLKGiGYeT1CbSr29lw=="
+secured: "toE80S7bJDs0vHP8oL/eSjghSlb1l2G7VlG5eknoe8sHRnwfs/1Rm5DeXmKyrtB5WOWeGzb3e29Zu69i3lzKdgGuQHEr8yGdjYUTi+F937wedLmegAi8yQDWuuTD3NgeJsfVqupewwDxTSdeTD0a51zwo2yA0TK2MNbXLR22eF1CGS7Ll0agW6UZ2ssJ9AzmUjElTngevtqaBYIKoWnRf4r9hssEkziclNvDsHxJlxV+i4hiBWsrwrQ8RE0BYuoVB9nLRlX0qzhURyJ5L/m2nUYU+86be0Qn1PJ1E1K5s/68pqW/5hYY0lYluxk0YQVikxi3Mq2tS2dFB5vZffopTJ7pT7OGJC+jcSC4nVXe14o=;ExQu0QEQoSjwsK6U+JWueA=="
 ---
 

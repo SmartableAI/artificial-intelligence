@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei invests in self-driving and electric car tech it says surpasses Tesla"
+    excerpt: "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman."
+    publishedDateTime: 2021-04-14T02:05:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 86
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
+    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
+    publishedDateTime: 2021-04-09T20:27:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 74
+    images:
+      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
+        width: 1360
+        height: 765
+        isCached: true
   - title: "Huawei to invest $1 billion on car tech it claims can surpass Tesla's"
     excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
     publishedDateTime: 2021-04-12T13:00:00Z

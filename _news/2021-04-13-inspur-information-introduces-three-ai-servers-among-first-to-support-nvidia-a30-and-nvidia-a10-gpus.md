@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs"
-excerpt: "Inspur AI servers are among the first in the industry to fully support NVIDIA Ampere architecture-based GPUs and has obtained NVIDIA-Certified System status for these servers, which support the NVIDIA EGX platform for next-generation AI. “Inspur is ..."
-publishedDateTime: 2021-04-12T17:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05"
+excerpt: "“With our high-speed data pipes and the Inspur GPU server(with 8x NVIDIA HGX A100 GPUs), we can quickly iterate and use the state-of-the-art in AI to help our patients,” said Dr. Mozziyar Etemadi, anesthesiologist and Chief Data Engineer of the ..."
+publishedDateTime: 2021-04-12T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210412005383/en/Inspur-Information-Introduces-Three-AI-Servers-Among-First-to-Support-NVIDIA-A30-and-NVIDIA-A10-GPUs"
+webUrl: "https://www.businesswire.com/news/home/20210412005383/en/Inspur-Information-Introduces-Three-AI-Servers-Among-First-to-Support-NVIDIA-A30-and-NVIDIA-A10-GPUs"
 type: article
-quality: 22
-heat: 22
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "/DjWx12YH//J26LhXKSdFOzrBSV9PvGYmznZLZnjEG0YcXUQF4LB1maGUswPQVS8geNpZ3tTxOd43+j9bZU0a1yMlRlpMU9WMa/kMS7JTGaLZD2rMGSKKTaU9T89l3NGeJ2sPLZg9vzWZhLpOWFlSnd/X4L1yqaWLAOpiDQA4NlCzWOpwdIVVOjkTR1D0zhAc6rkIfTfz1dQ7HSmEUfM6gHXnI1psBFabGg1BCf+gS6VyBUPrYIW5CTth6VFTaA5Ma9ImZblFpQkge/A/7aDhtcRJbXf2/BbDfddq6xDcS6d5aSgu6aaQxU1xnbN+RFSW9pLTshprCLcpvTvR5ZcPNFYpeGMkUZZXk7o+krD3yY=;mloJ4EWccV0z/YbNo9/SuQ=="
+secured: "bK4ijfgqLy3vjei2IMso55H/fWOcq/EDFJZOrogT7JLnnk7wW2mulh0gRRqgY0jfjY/7NCAqtugqRJau0iG8urj/3mP/wn36GQJ8viouHhVjo5S/R7ZFZ0/rCCBe7yr24olpJ4xWi6D4obKV0SuhsuqixPCaDc82dvhkRNPClFoWN6BF+aKLWC1GlJhwFl0kpoJpLkgWJ0BHdW8RoeKailVc7Qp8mJtNzPbjkpna9hCvnTQAGGDik1T2XiCekDWATRq7UQoK3t+KfjQLPFE75EVM8U2qZxV2CwxNlU8sjYNe2MY0/7kXsXXHbKkUzCO2f0iFhpNDx4hBP9ytvCCluWYuWr98qpO3J4yZI0i2mAQ=;rp3obz2ciotACTDnBEafCw=="
 ---
 

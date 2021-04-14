@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The firm has increased ad prices by 30% since March. Research firm eMarketer expects that Facebook ad revenue will cross $42.6B this year. The company is ranked first on our list of top 10 artificial intelligence stocks for 2021."
+excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Facebook AI
+  - AI in Robotics
   - AI
 
 images:
@@ -72,6 +72,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "d+Mu/Kl5vnxuTDiRuBE1GzBpimz0Iu61P03NuubzQeIdUx7LzcfS+/2dBwgncbVpBy7oKe7l7f1BgKuJsqV7gJdhdjMLMq56bj+YJa6X3ULhMacmDs5hNwVpg8SEgNMqROb6YqQ9vn9gwg0RuBzGW7YqlxLa+BFpxx8JamICHqmhW3QTTOz4cXSmXG8ARShHqo7JaR5jIRlu9NiGoiwOzoXXRbcyX8Hw/4AWxA3hqBvd4D/uxm4j4NidXyTp0OXgK6GuFpMnKvyJNpb5fKfRsyxUt4HDyWGrXqKCPWMnlk0YPR0MYucXr0CJQl3rq3OFc1NMjXEedHmWfyL6wF6DtT7xKZHvZ2zkKP+RzktB+cY=;cuImxWpbExxfX60iKQgJdw=="
+secured: "gs7mJh+odAVTTBAE30UToOcuJA2LQft7spLFIvzj4KIYuGXS/5msFcBL5WXsV5fLgzQT1VLeCra++8nJJL7Td26qX5Gm4DMmEsF18cQmVVQ7lHywU4Crg88P4DkkmT2p/EKx5gKxBehEpX1uTuiLxKjbc50TcfvMqt7XD9R1tS1tcMV077GyydEiQ9VJwyX2ImH3IdYf3tajYxzGZhrc23z4A64B3ytHJW+qZ0tCcz+LxDLpKR964Mq3osUsne0JYzlP/Ty8stVUrXnWRL/1hRaTFpQ+/1uCUMTmr1CtUcNJAVI0/2XCVrFr7B4wy9DfMDyUsfA2Srsglrjde5jbn91vhpYg9h4N5vhwP7f4dfs=;O1Fs6HKvT7BFXLYhSdyKPQ=="
 ---
 

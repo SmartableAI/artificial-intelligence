@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna633"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
-    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
-    publishedDateTime: 2021-04-09T11:48:00Z
-    webUrl: "https://www.cnbc.com/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104780745-monkey_diet_study09_5657.jpg?v=1612183919"
-        width: 3639
-        height: 2421
-        isCached: true
   - title: "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind"
     excerpt: "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted"
     publishedDateTime: 2021-04-09T15:41:00Z

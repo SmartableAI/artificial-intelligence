@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
+    excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
+    publishedDateTime: 2021-04-14T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "NDZJrnwDWI7fRCh8tIqi8XZr50nv1MHRGbdOTZHsOuf3BNKlOBmvF08u1rbWiawuYsq0a8x36jMBJXwoM28I/P4kG3+DHQDT/uvjkYVIzvQgF0MfTMmOR+dJ2rN9DZl6an0eg3SnnykG1rHX+SemHrQJkZiSI7ZkL9p205fOhepsdtlY9CTf+eKUZW3Jrd30PyEszzF/zYc/nnnpsUMAlQStmJwwDRow+mv8Jl5cy3eBQMAHYF28fLPMMMh/MLzODityLSTnFCpePRHF20Nm03AZkV2H8Kk8oKxHCA12u8oGK1IFyJhuEIz/opXUAFt8nreLdBOQ6ZcIF+9PXZ4oF/2OJTuTVNwsmASRQBbU1SA=;u0aNEqvR7uxsmJ3KzKl7pQ=="
 ---

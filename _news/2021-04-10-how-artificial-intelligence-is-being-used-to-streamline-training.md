@@ -7,8 +7,8 @@ originalUrl: "https://www.automationworld.com/factory/workforce/article/21366877
 webUrl: "https://www.automationworld.com/factory/workforce/article/21366877/deephow-ai-provides-digital-workforce-training-platform"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Automation World
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creating better strawberries using Artificial Intelligence"
-    excerpt: "For decades, taste groups and breeding for better taste have existed, being relied upon to guide decisions on which strawberries taste and smell best. This would help steer the"
-    publishedDateTime: 2021-04-09T12:56:00Z
-    webUrl: "https://www.freshplaza.com/article/9310319/creating-better-strawberries-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 37
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/Stock_photos/Strawberry/Strawberry_043.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI, gaming supercharge training to boost its long-term effects"
     excerpt: "That is an opportunity to figure out what pushes the right buttons with the customer, and to use that information to start building a relationship, he says. Instead of reading from a menu or reciting a script, O'Brien wants service advisers to listen to ..."
     publishedDateTime: 2021-04-11T21:00:00Z

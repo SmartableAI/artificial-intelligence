@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369332"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369332"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Facebook’s ad algorithms are still excluding women from seeing jobs"
-    excerpt: "Its ad-delivery system is showing different job postings to men, excluding women from opportunities without regard to their qualifications. That’s illegal."
-    publishedDateTime: 2021-04-09T12:04:00Z
-    webUrl: "https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/"
-    ampWebUrl: "https://www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/09/1022217/facebook-ad-algorithm-sex-discrimination/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/paper-female-crop-v2.jpeg?w=2249"
-        width: 2249
-        height: 1265
         isCached: true
 
 secured: "vjsytqeQDc1lOWREzEGPX7fpho4L/Xs7XeC0aLhxSRtCMMvgp6Y4u5xjxEHe8Hls2JSTVR+j52CuQPxfaopZ9/H4n2Lh5eKXfGWW5pEvRqfZ6S2MD9hL8f8VgFKUaYU5rarfxqICBcKVgem1NUs4QBq1WxAfY8cHXzc/XckuambKwUbvW2SxBywDoDumWpTef3YvV4xmeuZeG3jX0CBB6K2nA3PubFP/VDmc1c11jzjwD3FltZGg3s0XOGcyekp+HJXxaWBrJXyU2cc7gORNwritXkzd1+eJN28liGbBwXiZ4or/aEndPRsrJRnohDi2tK0GqmBn3/BZqDbsKjaKqmoOqBDBCcGuHtjRFx+z4sfSwXFCm+PhGfpYatVTX+r9CJbNSRhQeEY61QpL4iHwwCBuv+FzZlEYyWlxCFo33xs3Dd42kJLCx7DaW+Yu44O1+x2N0sJnX3agvNu6sESu2/r0PMnROG9Fr4IOzTReWv5w7ooHdlylQ2hrms2ewKz60vh1MJ8jRgbfMmH1C0JJxw==;OXGLEyyX+0Gt6R2ywWKnzA=="

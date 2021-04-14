@@ -47,22 +47,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Elon Musk’s Neuralink explains how a monkey used its brain-computer tech to play Pong"
-    excerpt: "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ..."
-    publishedDateTime: 2021-04-09T11:48:00Z
-    webUrl: "https://www.cnbc.com/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/09/elon-musks-neuralink-shows-video-of-monkey-using-mind-to-play-pong.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104780745-monkey_diet_study09_5657.jpg?v=1612183919"
-        width: 3639
-        height: 2421
-        isCached: true
 
 secured: "AnPwH4wyUC5a1cnyl5X8hCvDtzSIdDA2N23dedj49Wi7797jOYzj6nFuvkU6zgqf2yqvPkP64eS1Z9qqh+rE9EkE8CNj8tbmiNqjHUFV9K6DH81ET0MLznjgtC6NcNDlpJ8Ly/EchDxMm9ZBy4Ls5NNR2MCF+h7Ksub4mZ0VpuIGg6vq2erqNrUQWprOJShP7uGzF3AKIRXvrcTYzgUMMx/PKnaCjfYs63iyA1U9rtuAhOv8zNo/zuTxiBz7VuYRiBWUtVd6uca8KMRPeybD1TZPZev7iHm/2sjuc2TJmOLTxKshdYGb6tVuCFIiylo9PV/J7d9Yk6DGV0D+bkscP92S59Y8dSyH5wdScwqDSVasy/ELeJyzYMOp1mIFiu0hKZvGhyDcNpqeFjcznBCCzNlrbric6qYPAdj22AYtwTKds0Wvez4gkLF7M29OEustPnz/EbLnRSjO5pCnbPelCn91NNPzWVMSQGAV01RXThxjurAExIZs328V5HqyGsUNevkgJKYaSbVkvseiRRszbQ==;2IiCchAnfXdxB69Gmtk5yw=="
 ---

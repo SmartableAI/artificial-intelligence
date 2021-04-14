@@ -48,15 +48,6 @@ related:
       name: futurefarming
       domain: futurefarming.com
     quality: 49
-  - title: "AppHarvest acquires artificial intelligence farming start-up Root AI"
-    excerpt: "Agtech company AppHarvest has acquired agricultural robotics and artificial intelligence (AI) company, Root AI, in a deal valued at $60m."
-    publishedDateTime: 2021-04-09T12:00:00Z
-    webUrl: "https://www.foodbev.com/news/appharvest-acquires-artificial-intelligence-farming-start-up-root-ai/"
-    type: article
-    provider:
-      name: FoodBev Media
-      domain: foodbev.com
-    quality: 34
 
 secured: "P/N2cFv0De55fYy04uxjtKR1xuY8X+R/SJ6BC0UjjjPdDFEw4UE6C0nRgU2WqeHa8FftBECkLKj2Jay6WYUc24PTZ/oS3ji482wk4iZ2jsTbTsNa0NgPfZkf1eHV6UbRvyN5TjNQFJKCzx3RASdCMxiWCKXNikGOkoXIcmoVMQ9e9J6Y1pWWR8ZkzDTe41jTx9A7CSmjHsqLKGZbhMYTpI1H8oP4SlVrXm/u01WbGP+6oclX2WQA4bALZ12oHGKZ7B9+eLbsGqDLy3PxZm0GAGF+Ofgnbw/clFfhT729iPiy8Y9Porr49WfdMfcm6dCux8j1UT0DRGPcxIh05MazbsqqtJLcNkNqyRvCtam57e6QxhYmFOnYcryKU/XB/0E1YWSTSGbWDvMa0CFz+DxuWf0oVMzU9lt2yuTA71/TARRXWrPySZrgfdcclUngfDxASNi5ylSXOEtMGhx8ojC9wOzYqeu3arR+cVzSZqYNL54yBeVRUO1obkrOWybCPYEJhVj5yeC2+/OdxqrY6v747w==;W46rQ8kSKeWqiqa2lwPCeA=="
 ---

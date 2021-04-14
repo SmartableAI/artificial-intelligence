@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Varian partners with Google Cloud to build AI models to streamline cancer treatment"
-    excerpt: "Using the Google Cloud AI Platform’s Neural Architecture Search technology, Varian will input its own repository of imaging data to create and “train” models that can automatically perform organ segmentation on diagnostic images."
-    publishedDateTime: 2021-04-09T11:48:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/varian-partners-google-cloud-to-build-ai-models-to-streamline-cancer-treatment"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 33
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1617969555/anatomy-3003099_1920.jpg/anatomy-3003099_1920.jpg?PVgfLueju75OcerqRALUTcWGINrRcMR_"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "zdtnkiDiDESUug5Ai4vpchSM5JTDwOa9LVWMOcxbbd1ORXhvENywaRw+FviTAdnQPm9jr8WM3yrjCDESPLMf7i8HoYvmkloqlHbyXyuh92u3g0jT6LwkI0WjO5cD7MxUCETiVa2JjCu1RLkJQdRV9RYuthWNJ9qk/1WlNU2SttK6DdndSd4J9lT9INrtUtZ1Vnq4e9s3vc8vaCBhTNMsO7idHjEVyRuPCTGkhAJ4klvhLAbEKkrMy88EhYuddpIw5/M7M15aWJDg9WUxoMzlS9ExijRg6wm4isK49zt2xetq/LROx6aDtbJCoQMW3MhgNiWcmJivhCVksZzus+sJpHRv+TWpvyE1B8uTcvbNMmU=;yJyc/3xQvqoCHDTK7V3V4g=="
 ---

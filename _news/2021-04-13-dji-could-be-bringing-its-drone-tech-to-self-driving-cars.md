@@ -47,22 +47,6 @@ related:
         width: 1168
         height: 657
         isCached: true
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
   - title: "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars"
     excerpt: "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment."
     publishedDateTime: 2021-04-10T15:30:00Z

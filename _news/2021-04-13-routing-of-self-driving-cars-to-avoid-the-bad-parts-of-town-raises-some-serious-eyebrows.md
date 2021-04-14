@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
 type: article
 quality: 80
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Kicking Inattentive Drivers Off \"Full Self Driving\" Beta Testing"
-    excerpt: "Tesla owners, are you getting excited to try the much-hyped FSD (Full Self-Driving) autonomous driving feature in Beta testing form? You had better make and keep a habit of keeping your eyes on the road. On March 6, Elon Musk tweeted about adding a ..."
-    publishedDateTime: 2021-04-09T20:27:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-beta-testers-being-rejected-inattention/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 74
-    images:
-      - url: "https://st.motortrend.com/uploads/sites/5/2020/07/2018-Tesla-Model-3-7.jpg"
-        width: 1360
-        height: 765
-        isCached: true
   - title: "DJI could be bringing its drone tech to self-driving cars"
     excerpt: "DJI has established itself as the biggest name in drone technology in recent years – but it could be about to lend its expertise to a very different industry. As reported by Drone DJ, potentially leaked promotional material seems to imply the Chinese ..."
     publishedDateTime: 2021-04-13T15:33:00Z

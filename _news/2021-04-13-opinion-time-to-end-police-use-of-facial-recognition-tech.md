@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Fa
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/14/NLED/e15211f7-caf9-4353-8de1-0ebaa72b7462-stock_FL_Syn_crime9.jpeg?auto=webp&crop=3226,1814,x403,y437&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
+    excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."
+    publishedDateTime: 2021-04-14T05:34:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-get-advice-around-use-facial-recognition-technology-two-leading-researchers"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 46
+    images:
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/12/07/CCTV_is.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
         isCached: true
   - title: "Editorial: Ending use of facial recognition by police"
     excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."

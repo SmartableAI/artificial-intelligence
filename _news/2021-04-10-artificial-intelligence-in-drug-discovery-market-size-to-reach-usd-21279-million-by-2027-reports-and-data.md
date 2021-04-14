@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
+    excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
+    publishedDateTime: 2021-04-14T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "O5jj8guBgk3nXbkSx+7xB9l0c3tFo5JAfaExVNxKmYbiluS9ZWaV0/zyWMx7qOkx+30aeslHpO+zSZ9ZDktaU5mnxkiUSDPr6Rmhh1ASj0GnfO65B9ptqFKF9zICeNC64nnNA7G631OUYlO0Zxa9ZaHAKbhGk0JwqQGEiBSmaJ/74zFZUJ5NImnAOlDPYLlG/Mpwrw/SzH2NtC3z/ktt4/OdIfP0mtzf25LLdeIVg3qxidmyhzaqPZM5QQLrloc0sviMxhrpTo4QBP31z4UPq8VshCz5vpFEtVFx0TVKhTfBeqewMgbD+TjPGQXO/8yJRbdGSIEknUQ6+RVT9Vk2ZZwcOgXEWac4b8G134vvvhA=;AjmjfADWvg3ys/8ek+S8JA=="
 ---
