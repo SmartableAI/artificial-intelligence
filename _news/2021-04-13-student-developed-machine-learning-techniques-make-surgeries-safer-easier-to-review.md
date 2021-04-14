@@ -26,24 +26,6 @@ images:
     height: 1238
     isCached: true
 
-related:
-  - title: "Student-developed machine-learning techniques make surgeries safer and easier to review"
-    excerpt: "An interdisciplinary fellowship with the Data Science Institute has resulted in a promising machine-learning technology that can effectively track complex surgical activity, having the potential to improve patient outcomes,"
-    publishedDateTime: 2021-04-09T14:00:00Z
-    webUrl: "https://news.vanderbilt.edu/2021/04/09/student-developed-machine-learning-techniques-make-surgeries-safer-and-easier-to-review/"
-    ampWebUrl: "https://news.vanderbilt.edu/2021/04/09/student-developed-machine-learning-techniques-make-surgeries-safer-and-easier-to-review/amp/"
-    cdnAmpWebUrl: "https://news-vanderbilt-edu.cdn.ampproject.org/c/s/news.vanderbilt.edu/2021/04/09/student-developed-machine-learning-techniques-make-surgeries-safer-and-easier-to-review/amp/"
-    type: article
-    provider:
-      name: Vanderbilt University News
-      domain: vanderbilt.edu
-    quality: 36
-    images:
-      - url: "https://cdn.vanderbilt.edu/vu-news/files/20210409102450/GettyImages-1212792262.png"
-        width: 685
-        height: 350
-        isCached: true
-
 secured: "XHyI2LggmcnNooKubJpgzQixA9AcIOH0eodr4K42oKtHAs3BCuLny/Rc7V9f9+fF8GIQNgBFxsi4LHmjE1wHW2RpC1yhSb0k58h8R2XjgFXFLY70H86kCC7zKRknIuQPcSirHA0eWL4CP1Kh2gAtV18z9Wa/JaY3iY9iPbZb4iMGCDScIkatEQgekddVSPQwWvse6xFLzh9XogAnqs7T+PqDGpXFJl5AvMzKsuRUfj7T7r85qm1wZdtATQZ6qkSx5wL2gXhCXGKF1i9pKRSWRawbuUoByeJSkr2ZxHOZjB6KPzY0xFGhxpSHE+tyPzTDKrnU6+s11SIIhk2zkPe1OEVgM9Wp+ktaDWFZgSomJUP0UCXLmD2BxG+9ivRwvp7YmyNIoxICQSR9azP7dkoVb5IIyJ1Xw5i98o9yT9GMv11EKIO7PsZ+ick3V/SOjEPvwYa+8SIiFspqWI5T22fxvWV48TN3ZVYBeShJK3xaIV2amX1EbgePET8Gy2pRFLYjt6as+0Cbj+VZsC3V87uLIQ==;SwwsdD1G+dSzMmfiuxirkw=="
 ---
 

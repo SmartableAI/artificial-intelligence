@@ -185,21 +185,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T19:51:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+  - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
+    excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
+    publishedDateTime: 2021-04-14T06:39:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: RepublicWorld
+      domain: republicworld.com
     quality: 40
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
   - title: "China's first lawsuit on facial recognition made verdict"
     excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
@@ -229,6 +229,17 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department's facial recognition software, one of the first lawsuits of its kind to call into question the technology's"
+    publishedDateTime: 2021-04-13T21:06:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "lCBjoG7pyPwsAKQg29MVvd9Wk06t9GdFE8vvav99uqDMZeFa1UVm/RCtLx+zOCfj59R1tOnb2Exn3PpIPaKSD0FFuFHr36JqFzRGtPM2LuAZJ5ZeKF9/EkGGka9HGPum2N3pW33TVswa5YL2iDeKtabaffuGMxklmjh69XJc+Tf9Zs0QvHhbOPnLh3NWQNLqXq8onH2GtPs1VG3Zi6HhwxG8OdOtyIT57DM8P33hHZtbGHMy3ZDZvDJVorv25L6rBMX5piOgfSeLuyoDTOC1kh8FIIWsOPsZivfZmzdK/T1lVA59/iXmXUyQXt/HTUjPl0Xoyu/C5XQXbW6KJMyNIjz+MOkyrpuCTNun1gcWBjM=;h6dRqmQ4q8rfphvZkPAovQ=="
 ---

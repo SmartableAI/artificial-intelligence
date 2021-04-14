@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the controversial ..."
-publishedDateTime: 2021-04-13T19:51:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department's facial recognition software, one of the first lawsuits of its kind to call into question the technology's"
+publishedDateTime: 2021-04-13T21:06:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
@@ -187,6 +181,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
+    excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
+    publishedDateTime: 2021-04-14T06:39:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 40
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
   - title: "China's first lawsuit on facial recognition made verdict"
     excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
     publishedDateTime: 2021-04-10T09:34:00Z
@@ -230,6 +240,6 @@ related:
         height: 628
         isCached: true
 
-secured: "Cf1Y1IC37Hli5Dw61CMkB6U5OYj40UbRmwsfWb6+HNQeb0NEqAPTkRY1pVTcTdF/sZ4MtCDmNGtWCYavTU87NkxoLLeN1GLxkuNo6e+CnzGHIj5FkYMzbwELEUb7FOehuFm3kKAw5Yx+7RRoJJLy99zNAUSRTKBneAqbadhE8FZbuk6X3vHS42p5qX8qdUeyIgOrZqrBcDcjd4iQ9ITUlr9B1MPZMNHoFKYvXBzLw/OBq7SfBS8J3jbZ9TMAE3YY/Eim23vBXcWeG9A7OsA6qAs80dLxsY2Uv2J3JWjmOp7dXpCUhrkiSwmBKgzwdgOH8OAO9vUGRfay5qkcWoLRr7bvTwDJgtS4+4Ro1qKKjLF7SjOYccaXw+cYtXBz8T2qu4PcS+entGVcvfrFQNjPsH/OzaRCsSAH/za+OrHgcltDaG7NH9edTlHzQd4NUvqXWtAtDq40qw9BI08+VbO/E9ck+WEBNbM2Zu+TTctrKnyFIU7LhmZXHEYrRX7/kThrCkyVqyG/kiwpr0EDSClAUQ==;Gx1a9l8PBft8RVW74Yq+Pg=="
+secured: "L+Xvw0ghS1iiByEOm7bVcSok2Djg0SyN5KOAkna1PT67wB4n0n3DXcwapIcl5ZcNt5Zo7KKVrlfDtxY+B3wUQpMjKtDJhvMAAs+UoushFnD4diVb4+XUYu8cCoFjO1jL0rr4Lo13Y3B7ApyNROBknkh8HWXwvd9yuG4rEV5u/RiL7Eb6OcNCjHlfihaVehOWvnbD+f/JgBpOceQ2/COIhU+z33++rKTZ5uuNkLPgpZWiHENiA6/AkbeWvgu9gLtuC8Xac2wazFAG8pLeTuaJO4t8XRgOENlaQ3AQMCzpD5aKQdVWXdD5vHuXSifMVPIoBJl4BpTK3ZuemZWDsa4Z3hraFs2Vs2C0heGmwfupb/WtnpsuHoifH7r40Bs3YL9AvDk/FYGhs909jL/7M0VCc/XgEFpHw+WXnCR1ZiqYMM/cfTCL+vwx55n3cGQvBsP4bJcnBvtU3kmJpeH0pN5iGZ9vEGbkwmaIFPRKynsWo3btPCr8J7L41xSACbaVzUCIEjdNwI+/Kt57ny4cq8XRuA==;bvbLjdhrgC0MaGBpUruEcw=="
 ---
 

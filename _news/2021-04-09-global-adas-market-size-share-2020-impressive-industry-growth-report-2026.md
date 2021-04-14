@@ -82,20 +82,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Outlook on the Text Analytics Global Market to 2025 - Continuous Improvements in the Language Processing Algorithms are Driving Growth - ResearchAndMa"
-    excerpt: "The report provides an overview of the global market for text analytics and analyzes market trends. Using 2019 as the base year, the report provides estimated market data for the forecast period 2020 through 2025."
-    publishedDateTime: 2021-04-09T14:25:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=450053"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "/WJY1Mv2neOQrNi6FPp2e4M7VGT/nN6CjTxkXbR/4cl7txofxtntjkv0J29yv03qFD+ghHTTtUHJcwY49mt9xVdLBZ+/Ec5xXgaYvnauzbSL/S7uadzpZe6hE/ngvVqhKlvfe/DGV9CeZidBHDPFwXykixXbM2yZZTu6grUZNLyjNrIqBwy350G30t9kp8TriazMZRpCQIEhektBuVfHhPxuy/dG74kTGMHG1Hx3YpDGDKVzfybI3gwzyL3HnQNMYhp2wHfdv629nvjknGuJeykpUj87LV2Z3sptGBmUk8VR/k4sgrvJFnaGSwRORRQZFY+YxH8jsmJR+O1jYBVblVE9IGxZ4C5xDsOsNfnKlTw=;ecJFmMNZlnoVq74WWMjoAw=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
+    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE:GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
+    publishedDateTime: 2021-04-12T14:40:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621218%2Fcruise_origin_dubai_041221.jpg&w=1200&op=resize"
+        width: 1200
+        height: 664
+        isCached: true
   - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
     excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
     publishedDateTime: 2021-04-12T23:24:00Z
@@ -123,15 +139,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
-    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
-    publishedDateTime: 2021-04-12T14:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-2021-04-12"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
     excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
     publishedDateTime: 2021-04-12T14:54:00Z

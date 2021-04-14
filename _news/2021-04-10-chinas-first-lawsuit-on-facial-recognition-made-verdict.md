@@ -185,21 +185,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T19:51:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+  - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
+    excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
+    publishedDateTime: 2021-04-14T06:39:00Z
+    webUrl: "https://www.republicworld.com/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: RepublicWorld
+      domain: republicworld.com
     quality: 40
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
   - title: "Man Sues Detroit Police for Arrest After Faulty Face Recognition"
     excerpt: "A man is suing Detroit police for wrongfully arresting him based on a faulty match by facial recognition technology."
@@ -215,6 +215,17 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department's facial recognition software, one of the first lawsuits of its kind to call into question the technology's"
+    publishedDateTime: 2021-04-13T21:06:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
   - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
     excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
     publishedDateTime: 2021-04-13T22:08:00Z

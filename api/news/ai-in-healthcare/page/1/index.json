@@ -150,7 +150,7 @@
       "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -182,49 +182,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-artificial-intelligence-can-accelerate-clinical-diagnosis-of-fragile-x-syndrome.md",
-      "title": "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome",
-      "excerpt": "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile X syndrome, the most common inherited cause of intellectual disability and autism,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/chromosome.jpg",
-          "width": 1920,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
-      "publishedDateTime": "2021-04-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -1447,6 +1404,50 @@
       "topics": [
         "AI",
         "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-ready-for-duty-healthcare-robots-get-good-prognosis-for-next-pandemic.md",
+      "title": "Ready for duty: Healthcare robots get good prognosis for next pandemic",
+      "excerpt": "Spanish flu pandemic, Czech writer Karel Čapek first introduced the term \"robot\" to describe artificial people in his 1921 sci-fi play R.U.R. While we have not yet created the highly intelligent humanoid robots imagined by Čapek,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
+          "width": 1920,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "publishedDateTime": "2021-03-30T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
         "AI in Healthcare"
       ]
     }

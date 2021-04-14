@@ -98,6 +98,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 39
+  - title: "Taiwan starts self-driving open road test"
+    excerpt: "Taiwan has started testing self-driving vehicles on open roads, accrding to the Ministry of Economic Affairs (MOEA). The first case of trial on open roads, which began on April 12, sees autonomous electric shuttle buses running between a downtown area in a ..."
+    publishedDateTime: 2021-04-14T01:52:00Z
+    webUrl: "https://www.digitimes.com/news/a20210413PD216.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210413PD216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
     publishedDateTime: 2021-04-13T12:48:00Z

@@ -1,22 +1,34 @@
 ---
 category: news
 title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
-excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
+excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE:GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
 publishedDateTime: 2021-04-12T14:40:00Z
-originalUrl: "https://www.nasdaq.com/articles/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-2021-04-12"
-webUrl: "https://www.nasdaq.com/articles/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-2021-04-12"
+originalUrl: "https://www.fool.com/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+webUrl: "https://www.fool.com/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621218%2Fcruise_origin_dubai_041221.jpg&w=1200&op=resize"
+    width: 1200
+    height: 664
+    isCached: true
 
 related:
   - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
@@ -155,6 +167,6 @@ related:
       domain: nasdaq.com
     quality: 28
 
-secured: "KP0zLVvzPuH9NGajRPtXegI+EVE10C1jDRLD46d0nfe8N9G9cW6r+IPIsOyxi1f3qmtBGdGl6jyVFVMsDCS5yyEWc7q5bk3RGxm/5XfhPHGiAUvYuJD3LKOoqhRyFaDP8/8uvA/2fsBNp+2k0PbtDc9/JEhL5PIQPoNIMztN1mz3zKQfs77JwdX8gLlR3ZiWfy9BcTVyBueR9InmC1YVq/GG4voioM253hJMnoqgN44gNT8XYUh+aSyBYYDN77+lL6rUZSQ8r9xw9QdxarqO7DzzdMomYBUWPt3/VYC5z/qEZRF/DbaQGzlbi/Fc8nJDnw3ADkcrs8Mz5Q2ryUWgsdDxn9fUQGzZA0VnKxpXT3k=;J6WC/57V5GqUGV2WlrV+Ng=="
+secured: "x0jTNcpAXvS+T7sUGR9QDz9/BUlCu/jk3orqF2IzcAMou7b9B9Qepy69XCsRV6NHxdzlrRY8z2WtJxJMQtfIBtCyJC9uSUTJJo5WpFLcav3/1AIBzxq+JKCEDbCfrXmpfGFsdQLowKRrDRqUHXyyTGJdYJ9BsDqhEShSsC7kFlJiAryyhN1w34sMKmUcSJnrk5J41uU9hKs8vbZESUK7PeeWi4r5p3nUV6GTycU+Xx4vff6b0dd/iHkeKVffU9uhByhffQ+q0NjGvZnIQApn2KqRK1i9F7N1dWIiWA+WmN89ZuHRsaIA/l6bWL6Dw2uxtguxOH2An27RtdREIv/kcEEqAoetvOM8Sb5ArT07hJ4=;eCIDVFeKNLuxfzsCLu4ppw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changin
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-04-09T13:34:00Z
-    webUrl: "https://www.benzinga.com/news/21/04/20556236/biosig-technologies-says-invited-to-join-alliance-for-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "YB0fUU8I4bPW4TjuXhJ2O357XdiMfLyoi4CeW5sCacpGzbu5R2gg1BjSbcw9fs2wM4rAAaWPECT1XPpsyYk44WsO1D9euz6dzwAqHiaZRClcdy8xKlF/r46fxVOwngn5Ra1hs8drrlbUougCpRcgzZMyAXO97nVmX5t+zxSg6hASy8naI0956TOeMCxIUW31ujjQcXqhfZ9j22PmW9R2+xq9kmbY1FBkR7kRNnPHJ6mMGEEjMujcRHDhA9OPIlrgYR9NrSAmtE0gaE10BmLKo42DS1MvoqxhlSDX6scCYrJUrm9BaCDsaAM04vHkXZlblo+tzSDlw0d0Z4zDM1KbDd7LDz5v9XKdgg++1U3cZDc=;0QEnJ5ReCemP1S9tBRY6BQ=="

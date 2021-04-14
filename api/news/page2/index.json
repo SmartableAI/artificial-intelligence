@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-robot-police-dog-patrolling-nyc-in-video-sparks-black-mirror-robocop-comparisons.md",
+      "title": "Robot Police Dog Patrolling NYC in Video Sparks 'Black Mirror,' 'Robocop' Comparisons",
+      "excerpt": "Robotic dogs called Spot and built by Boston Dynamics are demonstrated during the Amazon Re:MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada on June 4, 2019. New Yorkers compared the city to Robocop after ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "originalUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776950/robotic-dog-built-boston-dynamics.jpg",
+          "width": 2500,
+          "height": 1851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "publishedDateTime": "2021-04-13T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
       "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
       "excerpt": "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ...",
@@ -884,7 +936,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -935,7 +987,7 @@
       "originalUrl": "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1157,57 +1209,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says.md",
-      "title": "Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says",
-      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Some AI-powered medical devices approved by the U.S. Food and Drug Administration (FDA) are vulnerable to data ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
-      "publishedDateTime": "2021-04-12T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

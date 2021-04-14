@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-publishes-national-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.somagnews.com/wp-content/uploads/2021/04/Robo-Laura.jpg"
         width: 1120
         height: 420
+        isCached: true
+  - title: "Strategy in the Artificial Age: Observations From Teaching an AI to Write a U.S. National Security Strategy"
+    excerpt: "In every iteration of the artificial strategy, the neural network deep writes that the strategic environment will have changed “significantly,” “markedly,” or “dramatically.” Likewise, prior national security strategies have had high levels of ..."
+    publishedDateTime: 2021-04-14T07:45:00Z
+    webUrl: "https://warontherocks.com/2021/04/strategy-in-the-artificial-age-observations-from-teaching-an-ai-to-write-a-u-s-national-security-strategy/"
+    type: article
+    provider:
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 38
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2021/04/210404-N-YA628-2309.jpg"
+        width: 1330
+        height: 850
         isCached: true
 
 secured: "DjuLn03OWhDJ2Vsx5qnRt9NfPMkXsosVW0afHSu5K57t1cWg8cUDDr0WVfiJeuV9O5WgNyon+YU6f1DJZ7IiWl7ZjQf+Leaf46uoAk21SM3X4Zu9WIWgWPvy+oywXLMK+k/WvqgypN8XQmTIIeJtP0x+doQdRUgYczinfFJUDR9CRe5kmNeo69X55H3yhQXpPOZrXj+bjaI3Sso8hRkynMJ9BJIbrAGtRfQBywV01g6mrf3D12oHyNdG7HAr4kiBWe1F7XhmBUKPzCnj268WRnrG6bcWBA2RJCoChJ09Pd8Men6pILtJm19quyD5i4IUYKPo1sTQ0xWQ+q9UnRo42+5ZjmQh9IYTMaeXy/3DR/60yRBkAzErsl1J4yGbdM58HVUU8Qrx1c2nmbMIPRXzxNe9UBmbLE+XNFeM6+V8DRAfZzxtAKrE3IkX9vNdd7qYn9lsGpbymHNUV7zJcClqt3ckcWxfvKPNKng7s2E/pE1PHoy8u7qUq1+rptblLrLjEdNLCEx8wdbFU8ohND4PLA==;fmHL01ckfWgMl9Hfn+FJPg=="

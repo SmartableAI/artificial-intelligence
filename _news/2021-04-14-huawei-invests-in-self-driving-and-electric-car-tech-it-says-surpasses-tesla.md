@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-se
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 39
+  - title: "Taiwan starts self-driving open road test"
+    excerpt: "Taiwan has started testing self-driving vehicles on open roads, accrding to the Ministry of Economic Affairs (MOEA). The first case of trial on open roads, which began on April 12, sees autonomous electric shuttle buses running between a downtown area in a ..."
+    publishedDateTime: 2021-04-14T01:52:00Z
+    webUrl: "https://www.digitimes.com/news/a20210413PD216.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210413PD216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
     publishedDateTime: 2021-04-13T12:48:00Z
@@ -133,6 +147,6 @@ related:
         height: 764
         isCached: true
 
-secured: "KoEpkj8rMfiJ5njGzJrpFkgucRd4A1h8WnyOYYQmm6/OCfmG4Yw2P3HaVf5mJrB7bgL7STY63j7p6XjbC8R/2Q0fePZMhb/Qj2kWc8iwcO5krKSPrLCN1tuRClA4hOEfRibvHB1XTeVsxqm0aTPjzRVrNnyOvAtI6sawj7bKCfiSfgIzueTZ+nK+vkdWZtQswJarVGuUxBgzWQ52gAMESv+92wN3dYxs4UhyqhLjqTNOAtgX9eGueaCktHXq3yxz3Pyb/Sh/lSpe43bRJdj5aHv2XzB/PjmiUAu6D7fVMHFDkts/965vh/Ye12LE9t0pyThVb1Qy2HkaVudhlHzBzIPrbo+t5AkcgwpXUYKe5OA=;3I/tyAlmUoBc9Ors30eKxA=="
+secured: "TmVM7YEACdiC3hun5WGY6+s7TWk9KhHETDD6Gd8izOcK29/K4I5cNJMy8JdBoPqv/ic3QZHwNuJCWm0J4VvncuKLKD7or/QxkqcnqQpiq33JZabArMG7DeTOCnawgiKlRcSSz9/FGhwoJ0Q18NuqXxkKQzsQFmgiSge0zg3peb3cDhTRR4vMMb9L6p9e1nzGUJKZmfkpCl1CI35DBHlghYHNF3WtSFP4SJvBr4iVEtue0EOJUi5bbtMZUpLB/KN7L3SlnUf95uMRrm9JQOiBZLt/WHjivAhGL1TDdH5isV5yZMvARevg4QqAw4FG8tEJR6/5jQBGHV6saxE4mOdYfelsaeHJWCUzloWPMx1xn5wsCi74n1poySKpk3SuRNdnziwQtNkb1s3T7OCG/PBCeHDGU6pDKrysAGaBVEt64fKUSS38maoYNYPe8RCBIgnOoegJ93wgPrT1efWVAWmBupdYS6IhEyEP8035PAJkyIH4ZNhMgQBaG1OGXtfldvrWfr7hL7J3VpoSH27WByZf/w==;lU555Vt9G7h0qzEuQLIHkg=="
 ---
 

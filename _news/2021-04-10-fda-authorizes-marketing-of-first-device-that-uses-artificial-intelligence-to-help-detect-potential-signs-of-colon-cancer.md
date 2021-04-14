@@ -26,28 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Approves First AI Tool to Boost Colonoscopy Accuracy"
-    excerpt: "The first device that uses artificial intelligence (AI) to help detect possible signs of colon cancer during colonoscopy has been approved by the U.S. Food and Drug Administration. The GI Genius uses AI-based machine learning to help identify lesions such as polyps or suspected tumors in real time during a colonoscopy,"
-    publishedDateTime: 2021-04-13T12:38:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/fda-approves-first-ai-tool-to-boost-colonoscopy-accuracy"
+  - title: "This AI Could Help Wipe Out Colon Cancer"
+    excerpt: "To “teach” the AI to distinguish potentially dangerous growths, the images were labeled by gastroenterologists as either normal or unhealthy tissue. Then the AI was tested on progressively harder-to-recognize polyps, starting with colonoscopies that ..."
+    publishedDateTime: 2021-04-12T13:27:00Z
+    webUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/"
+    ampWebUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "FDA clears its first plug-in AI video system for spotting polyps during colonoscopy"
-    excerpt: "The FDA has cleared its first artificial intelligence-based device that uses machine learning to spot polyps or suspected tumors in real-time during a colonoscopy."
-    publishedDateTime: 2021-04-12T14:45:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/fda-clears-its-first-plug-ai-video-system-for-spotting-polyps-during-colonoscopy"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 33
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1618233292/fda-COURTESYOF-Andrew%20Harnik-Associated%20Press.jpg/fda-COURTESYOF-Andrew%20Harnik-Associated%20Press.jpg?kVH_tDe9zMdWUHItT9oRk1jDL.HNFgYM"
-        width: 1274
-        height: 850
+      - url: "https://media.wired.com/photos/6036c4fa5176c254b6bc21fa/master/pass/business_colonscopy_595720076.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "UhzAADn2VbenAE3qBtuCYIL3khflyZwzEYZrDsbBGDV/QyaT8Nu8FeIUZ1h5HIwZbVVenaumwlXWizc4kNv2uXL5Ro+TcWkCPBVlgE3pQgODeTJ2LJqoKHhhs39MKufiD85/d+rp5NcVfmc7T7f/FUbl+wNYECShUwh+y/JZjAot5f7PIasoxgbMYnW6ZqulnipEWRi4WQY2D42V/GFcAwtZPmizESqWkjQiAcRs/KyjVjYB1tWccQO+tlB93pr1HhMW6NhDOtgCrdbYQk/639abp6SShJCv45VOv5E/J2jQqOhiTlgH8/F5xqMx/PgUAxYabJJUuIN/ovDU54xaSO+aGlEMUwijvo07qVX5ADQ=;7R4ElBOzrV2BfkWHjLZXwg=="

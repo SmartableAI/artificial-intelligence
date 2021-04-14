@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-brainchip-begins-volume-production-of-akida-ai-processor.md",
+      "title": "BrainChip Begins Volume Production of Akida AI Processor",
+      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, announced today that it has begun volume manufacturing of its Akida™ AKD1000 neuromorphic processor chip for edge AI devices. The engineering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-begins-volume-production-of-akida-ai-processor-2021-04-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations.md",
       "title": "Video conferencing company Touchcast uses AI to add context to conversations",
       "excerpt": "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ...",
@@ -417,50 +469,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-building-security-into-an-ai-soc-using-cpu-features-with-extensions.md",
-      "title": "Building security into an AI SoC using CPU features with extensions",
-      "excerpt": "With the rapid deployment of artificial intelligence (AI), the focus of AI system on chip (SoC) design has been on building smarter, faster and cheaper",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html",
-      "originalUrl": "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage49783/Figure-2-Andes-custom-extensions-Andes-Dover.jpg",
-          "width": 776,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     },
     {

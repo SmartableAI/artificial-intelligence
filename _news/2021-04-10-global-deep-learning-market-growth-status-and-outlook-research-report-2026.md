@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Outlook on the Text Analytics Global Market to 2025 - Continuous Improvements in the Language Processing Algorithms are Driving Growth - ResearchAndMa"
-    excerpt: "The report provides an overview of the global market for text analytics and analyzes market trends. Using 2019 as the base year, the report provides estimated market data for the forecast period 2020 through 2025."
-    publishedDateTime: 2021-04-09T14:25:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=450053"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "x8erpr0vzyXWUO5fB291YLsYeKDFfaFVxnvbKdcx7iy6ElYfpm7RHKMX0+A3TRZavrPnh7kiaM9uInJg5iJzgtBCoXFc1dJJbps0olui/luBzZuPdSykJyjXoJCa3FsJEZPqLRuS0ID4G1DObw0rlyKDdCOMLQUmTeuRLJV5YKvEXS0/zlrKR0SGWeQNv38y90VtdDecpa0Y8ddadzPGZ95lZe7HtyXOffWIiEP1iqk4gf4Ik/8t+MIMjembAdskjgG2sYkelgtepAKSb+qtOr5LkC6GD/jSft2AOieUKjMpktQ5gac/JzMrsO9nSQQVX1tx+yTCPBvuWrrV7waum9919kM3uzVJwEKdSfeq7UI=;MYOWYdok1HnT8jRpov52ZQ=="
 ---

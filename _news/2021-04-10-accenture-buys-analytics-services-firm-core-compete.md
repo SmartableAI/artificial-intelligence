@@ -7,7 +7,7 @@ originalUrl: "https://www.mrweb.com/drno/news31280.htm"
 webUrl: "https://www.mrweb.com/drno/news31280.htm"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Accenture AI expert on how first principles prevent problems"
-    excerpt: "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ..."
-    publishedDateTime: 2021-04-09T14:09:00Z
-    webUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/"
-    ampWebUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
 
 secured: "lLnSgMeiSzoo/gMp/+2Svm4UWcE9SaTaraSRWoF2ZzHZe8U7CZAVBR28TC7CtDdLF0nW6gjj/Fnb0myEJeluaSdEcL6v67RrPBi6I/ZAXU32vDPp8UrNxhS3Tpcauz3Jc4qMWrn4oChG5pGxbkSpFaJERG4EpwU7vqvAeyGYaXYrx7eMq2SC+vLJ+hBwrzxrGqeTuwrLdew+DQsZ/CCNoTZPGoJrYKaTCgPbZMYyKtslPhvSZnDLyhipZ7mKL7JVkYFv/REzzJCM9xvGwtEHiMsvxUfEeNRSyMFwxzlxeK0ZJhKleEEPuK6+VTLPEGsN08deFL97r0rM3K3D1/lrJN/eSNwN6OveA6s8iwAWPUoK0jdU53fjc3W7dmth0chiDSb95I+EOKnEMWNbaHC2GRk9dmvHBC4NSNffUfrzPXOTswMMkriTxH4Tjfq/5dp6Bg/Ck/U9BeRe5wFTXJ0EVamEUnTxJQKt1KrsgbU4krn/2yuCJCr95sogYoiyVsMktJGJQkBcFhybZI7qH3bghA==;CSSm34RZKWxOj4ZXnMaRAA=="
 ---

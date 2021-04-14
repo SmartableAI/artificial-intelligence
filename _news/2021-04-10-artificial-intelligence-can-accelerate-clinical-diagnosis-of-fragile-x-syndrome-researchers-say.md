@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1056
         isCached: true
-  - title: "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome"
-    excerpt: "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile"
-    publishedDateTime: 2021-04-09T14:32:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-can-accelerate-clinical-542141/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://news.wisc.edu/content/uploads/2020/10/Waisman-Center-Exterior600x400.jpg"
-        width: 600
-        height: 397
-        isCached: true
 
 secured: "kzjXLuoG5DKIEyXWuB+2Ck3sw7pL0LToO8KnbeDjHeSaw0Ty3/sKqDJWRhTGQe4LigMZmngAv3QC4lINzlxFbSwBGqPu3tTaqG2Ep7qB6H+aUpx9Q3JG/AgM9FvZu9tFKf5rc04G5+p0LSm50NpfaqrcpHuK6DV51fmPsXvib7B1v4SxE5DEKCVTHmbF8ADq6mWd4YS2cfuV7viW5spFfouwEYIGofZL0DFvNApyJkg/OVh9lEVaR3fFKEjjOh0PL3XexXf7eHGjaaim2k8Vym0N8NZJ4CV4gNmrl2PFlWk/kZbOdTTT5O5yfx0Br3Ffhx0mDMlnLEeJVp4oUUoe7enboTwL4uF7xuPWRDuNPW4zqptGdjGJQqBpNBjFuA2R6pRdXUUt3MGXtc7qo/PA1yiyn5TwZrK/F6S7B1Hx2wAm0sOamQIdIyKJtSIJS1dmmsTKKWazl6fKHQyK3tAKypngZdlArW+tg/OksVsKCEKx8x/D3utP4mk+HuI+Nb5Ir0wOWjt5opHW4U3M29mfiw==;uQ1Pf4y+ZE8plCbwb1iB7w=="
 ---

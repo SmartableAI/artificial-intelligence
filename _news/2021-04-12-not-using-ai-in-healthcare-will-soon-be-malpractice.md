@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "BioSig Technologies Says Invited To Join Alliance For Artificial Intelligence In Healthcare"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-04-09T13:34:00Z
-    webUrl: "https://www.benzinga.com/news/21/04/20556236/biosig-technologies-says-invited-to-join-alliance-for-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kEGHoZ+bJ0Z7gA1XC2n+vKkBCIDsHk7MaosT7rUd1Gr3TPNSFQ7wfT+7ekxrw60Wmygsxs/0T4Tsub5xT0Bzhryu8/N0oM0CVHfZFKr4h4267im7xGA0WhUCPV1XLzND+h+cPiohOj0/Qbsw1JUStJE/YuIrXO2M1yYwhpdy4sN2sGEFvja6kyY6cX2zWBxy4HNBHZYMvWNHBAeBOTBWjP5aEoZ25CPxNE+C8e7ay6avs7N1Z+Xeb3e2zgAG6IPsm1PYGLwgfyjPQ8e5LUpqh5pJmxlAFcRjI+kRwobxLZrfHB6naLGGVb7C0oATWqucK/kFtxMtL9F+/bwrx79qxp1kKQ0/y2iEX6ir8XU+aX8=;1UegiFg/PJk3XWp2b14GYw=="
 ---

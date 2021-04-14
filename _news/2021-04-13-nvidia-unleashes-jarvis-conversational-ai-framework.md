@@ -109,6 +109,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia triples revenue forecast for crypto mining GPU sales"
+    excerpt: "Amazon's AI-powered cameras are a double-edged sword that could make drivers safer, but also force the company to sacrifice productivity, a transportation expert says » SHARE THIS POST NVIDIA ..."
+    publishedDateTime: 2021-04-13T17:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-triples-revenue-forecast-for-crypto-mining-gpu-sales-10012313"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
     excerpt: "NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta, SVP of the company’s telecom business unit, the AI-on-5G concept is ..."
     publishedDateTime: 2021-04-12T16:53:00Z
@@ -372,6 +381,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 17
+  - title: "Nvidia announces availability of Jarvis interactive conversational AI framework"
+    excerpt: "Nvidia Jarvis models provide accurate automatic speech recognition, language understanding, real-time translations for multiple languages, and new text-to-speech functionalities, to create expressive conversational AI agents. Using GPU acceleration ..."
+    publishedDateTime: 2021-04-14T07:28:00Z
+    webUrl: "https://www.telecompaper.com/news/nvidia-announces-availability-of-jarvis-interactive-conversational-ai-framework--1379327"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
   - title: "NVIDIA Announced A New CPU, NVIDIA Grace Which Is Capable To Take Massive AI Calculations & High Performing Computing Workload"
     excerpt: "“NVIDIA has developed Grace as a CPU especially for giant-scale AI and HPC using licensed Arm IP. Grace, when combined with the GPU and DPU, has the third fundamental computing infrastructure, as well as the potential to re-architect the data center to ..."
     publishedDateTime: 2021-04-13T19:40:00Z

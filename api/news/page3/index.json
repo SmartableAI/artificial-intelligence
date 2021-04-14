@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-13-some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says.md",
+      "title": "Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Some AI-powered medical devices approved by the U.S. Food and Drug Administration (FDA) are vulnerable to data ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
+      "publishedDateTime": "2021-04-12T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
       "title": "Mozilla winds down DeepSpeech development, announces grant program",
       "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
@@ -271,7 +322,7 @@
       "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -495,49 +546,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-artificial-intelligence-can-accelerate-clinical-diagnosis-of-fragile-x-syndrome.md",
-      "title": "Artificial intelligence can accelerate clinical diagnosis of fragile X syndrome",
-      "excerpt": "An analysis of electronic health records for 1.7 million Wisconsin patients revealed a variety of health problems newly associated with fragile X syndrome, the most common inherited cause of intellectual disability and autism,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/chromosome.jpg",
-          "width": 1920,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-clinical-diagnosis-fragile.amp",
-      "publishedDateTime": "2021-04-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-meet-the-xenobots-living-biological-machines-that-could-revolutionize-robotics.md",
       "title": "Meet the Xenobots: Living, biological machines that could revolutionize robotics",
       "excerpt": "“We could program the living robots to sense pollutants, and hopefully to seek them out and destroy them. Once they finish their job, they [could then] break down harmlessly in the environment, [without leaving] any artificial waste behind.” The longer ...",
@@ -633,21 +641,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-building-security-into-an-ai-soc-using-cpu-features-with-extensions.md",
-      "title": "Building security into an AI SoC using CPU features with extensions",
-      "excerpt": "With the rapid deployment of artificial intelligence (AI), the focus of AI system on chip (SoC) design has been on building smarter, faster and cheaper",
+      "path": "_news/2021-04-12-this-ai-could-help-wipe-out-colon-cancer.md",
+      "title": "This AI Could Help Wipe Out Colon Cancer",
+      "excerpt": "To “teach” the AI to distinguish potentially dangerous growths, the images were labeled by gastroenterologists as either normal or unhealthy tissue. Then the AI was tested on progressively harder-to-recognize polyps, starting with colonoscopies that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html",
-      "originalUrl": "https://www.design-reuse.com/articles/49783/building-security-into-an-ai-soc-using-cpu-features-with-extensions.html",
+      "webUrl": "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/",
+      "originalUrl": "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://www.design-reuse.com/news_img2/homepage49783/Figure-2-Andes-custom-extensions-Andes-Dover.jpg",
-          "width": 776,
-          "height": 831,
+          "url": "https://media.wired.com/photos/6036c4fa5176c254b6bc21fa/master/pass/business_colonscopy_595720076.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -655,14 +663,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T06:44:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-wipe-out-colon-cancer/amp",
+      "publishedDateTime": "2021-04-12T06:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -671,9 +688,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
@@ -995,7 +1010,7 @@
       "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1100,7 +1115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
