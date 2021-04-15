@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "Lenovo Accelerates Artificial Intelligence with Ready-to-Deploy AI Solutions"
-    excerpt: "Infrastructure Solutions Group (ISG) announces the expansion of its partner ecosystem and launches five new ready-to-deploy artificial Intelligence (AI) solutions. This growing global ecosystem of industry-leading independent software vendors (ISVs) enables Lenovo to bring to market AI solutions for a wide range of applications and industries,"
-    publishedDateTime: 2021-04-15T10:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
+    excerpt: "Lenovo announces 5 new ready-to-deploy AI solutions across multiple industries to accelerate customer value from AI adoption"
+    publishedDateTime: 2021-04-15T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210415005285/en/Lenovo-Accelerates-Artificial-Intelligence-with-Ready-to-Deploy-AI-Solutions"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
 
 secured: "pATpkERIIpl4N+rKI3S/katWn9njtSFHZi2li2LPlrM7UspOq/kz2nQeX4jiuP7YUgLcegXi3l2YKn4LhQJwojxrwsMqeMRUk6pT6ZE2bjkvlb2EZzZhzlbGrspGhCZtBZME3dNSAyi5lXfyRFB9IeFJS3IG6fz3ZRpP+x53LayRe5J4HUIo9Tw2hYQLpFxL8GBAuiWoerVEzeiBETsRrhlhyqdTA48AUpLe93wK+RfGUHNGM/zV354Br8aPEMDyeE2T+InI6HkmuYSZZdPBSLMgzb2xrG+nRIsP0weAtMCpRaMNJwC0HTHdYB+iNkwDoGhUHQGKT/PFgvVCL/aM6Okg/hAjPQu2wIAOGiBzEOw=;Ry+g7B6zdAKTpdcKhlFAag=="
 ---

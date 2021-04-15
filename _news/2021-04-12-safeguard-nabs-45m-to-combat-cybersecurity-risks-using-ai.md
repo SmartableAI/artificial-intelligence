@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Chambers Talks AI, Cybersecurity, Architectures and Market Transitions"
+    excerpt: "Industry visionary John Chambers talks about what gets him excited as he looks ahead at an increasingly digital world."
+    publishedDateTime: 2021-04-15T18:59:00Z
+    webUrl: "https://www.eweek.com/development/chambers-talks-ai-cybersecurity-architectures-and-market-transitions/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/John.Chambers2020.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "H3C Semiconductor and Ansys Innovate Next-Generation Network Processor Chip for High-end Routing, 5G Backhaul, AI and Cybersecurity Applications"
     excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."

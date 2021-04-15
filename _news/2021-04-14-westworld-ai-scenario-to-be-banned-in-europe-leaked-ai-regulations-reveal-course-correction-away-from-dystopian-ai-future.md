@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "MEPs call for European AI rules to ban biometric surveillance in public"
+    excerpt: "A cross-party group of 40 MEPs in the European parliament has called on the Commission to strengthen an incoming legislative proposal on artificial intelligence to include an outright ban on the use of facial recognition and other forms of biometric surveillance in public places."
+    publishedDateTime: 2021-04-15T20:12:00Z
+    webUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/"
+    ampWebUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Europe Is Already Policing Privacy. AI Could Be Next"
     excerpt: "Europe is already the world’s tech privacy cop. Now it might become the AI cop too. Companies using artificial intelligence in the EU could soon be required to get audited first, under new rules set to be proposed by the European Union as soon as next week."
     publishedDateTime: 2021-04-13T10:45:00Z

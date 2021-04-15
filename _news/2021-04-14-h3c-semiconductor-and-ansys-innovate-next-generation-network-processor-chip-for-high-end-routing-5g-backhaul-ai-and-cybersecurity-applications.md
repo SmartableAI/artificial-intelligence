@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chambers Talks AI, Cybersecurity, Architectures and Market Transitions"
+    excerpt: "Industry visionary John Chambers talks about what gets him excited as he looks ahead at an increasingly digital world."
+    publishedDateTime: 2021-04-15T18:59:00Z
+    webUrl: "https://www.eweek.com/development/chambers-talks-ai-cybersecurity-architectures-and-market-transitions/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/John.Chambers2020.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Santander and IBM to award 1,000 Digital Experience scholarships in AI and cybersecurity"
     excerpt: "The 1,000 Santander Technology Scholarships | Digital Experience IBM participants will receive training that bolsters digital capabilities and knowledge of artificial intelligence and ... cybersecurity and Watson. This content is provided by an external ..."
     publishedDateTime: 2021-04-14T11:12:00Z

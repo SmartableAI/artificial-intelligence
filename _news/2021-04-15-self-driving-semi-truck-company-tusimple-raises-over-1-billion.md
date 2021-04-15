@@ -95,6 +95,15 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 38
+  - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
+    publishedDateTime: 2021-04-15T18:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-7-things-to-know-as-self-driving-truck-startup-tusimple-starts-trading-1030310316"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
     excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
     publishedDateTime: 2021-04-12T18:15:00Z
@@ -119,6 +128,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "T/8xT6dVf18uQl+qK2DoLtugvcsNVWpKvwxZ0m922JzJvMNcbWkMsCfS/D+nyIF/g+mizdtBLHfM6NZh/CsdwJg4KXjyQAMH0L/ciYrJQpCNemOZDJkLB+GEYna1VinyvcqtRq7v20ytEBpt057zwxWN2Lai8U86o/dK4hFCrRMaz8sGt3NoH0fJ+PpU6mEvjxm+TpjJXYBbvOdkHNoaeYZf5KmYsBPB/KyQEGS9H2NXPRAGuIs8zrA0VUXMga1ZGUeFwObUZnjKvpgEmhT2GrMjOeVFB6hcS49M4Ih+Fb1RPj3qNvIvpgFNyMiZaC2w1MP+RamJmPBhADNruVM1dm1ycLMHfARJkzwsP0n0nYA=;Yrn2Bs3LoCUfvleeYXRYoA=="
+secured: "Uiau8YJWLnBBFL3UYLwd1B/bk/nM3IE9TnOq1DThvY/LUaDq62wRFkKokF2i9ZXW2oJyObJCw2aNB8v2609/bxqq0/IdINuq/i81GWexuSXFnK/Bm/53Q54UnnUCE+05Rukar/hl2XFSVptVu5ZFcCO6TeICe3SRxOKBjjW94CxZBDerIvXzFR2pXxrFWQ+sKgk3u+gTZes96SSBFOabfe8sq4sYYn+9sa3KV1VeJAwlYPO9i5AV6DKamv5dSsOMCB/uVmj5/CZg5vV09s6znHpHmGV/Tf7Lu1v/Fp38XECZamlWo2q7508h6fOGsUL567+QwIik1LE/qvs3UYp58xf3Wh+BfHQSD5Su3laIWy8k2cUJPg16B8ROOvcTHNcaSs35H5/PTowOlI0I7w7KZi2Olpav+H9ZjuesEpQIdLCyIWwU0V5zS63JbD6lB+nlNnF4EMTXH1tgZhajpM01DLCOkEvrhbzL/FkIcG0N2E7v/17tW7ol5YS+BVQITTc7GQZ+Q0fKDi6/5/czA6MzxA==;bOl/a7CjkjKd57rNisslYA=="
 ---
 

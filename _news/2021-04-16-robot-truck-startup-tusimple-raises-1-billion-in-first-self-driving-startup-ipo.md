@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 38
+  - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
+    publishedDateTime: 2021-04-15T18:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-7-things-to-know-as-self-driving-truck-startup-tusimple-starts-trading-1030310316"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
     excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
     publishedDateTime: 2021-04-12T18:15:00Z
@@ -124,6 +133,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "E+4jbahCQKpzKZSM1hufu17BAXrJDIEFcHnVxsQeUcOPvvxo3oBuIl48bIN3aOwgWEkgKXyMQVVcTohOiX30Nn6Dm5rNVcUKCS24ezSrhMFGEu47i174/71J0ahqw57nWcvPEjHMoHRqOs79Btx27GBhRiSLN8fgCBzDZUBLV2oHyvYiN04qNZTOTUQ6DbDIdrK1M3AYOiOYw5uhZY/PGbWkaNraTRH2Uc6AwQmDT/HdTyDlnIgPS4+cR8bdQ/J04t6Ipd/MRMbRBDcO+HebMYEDQOJz3iXgnmgi2flvcI81Ym3vkUatMp0D20+HKep0e8C5HdWFwsQGPtkTQwDOaYVyLGZ5RvwamQdki+wLr5s=;EE9ebqXQ5qAD32viidYcVQ=="
+secured: "zdDcgNARBGrlM8WdTTUvDPw6wihge/3K6SSqBqSiys7qy1ac2KBB94TCHFL8+C1WxNMU2GXR5fOLIB8CGXwdv0sM97xqjVu32bVS4EzMCAE6o9T6BxDTwLsCHYBwhODLgWpTONqsiMsWZZ/O2+F6AyNPNJeEUd8iiif5rexpRuvOOeBYiHmVLbaiGxNOymHBiO7falutqIDc+VwG4qQ97agrzig4sNoJFWuwESnNXTWB4OX20baR5ehzZhPE5vLGXxc1sA3sJMNIVqHm+LO7xXCH39k2uL+CZtqK4PxUJ+wpSmWAVX/hqcJP0y2+XT1nqk+Tn9SMGxiifg4W9aKKNFdH89XcRIJELyDGtn9xokRLC+xstNXI0ZJzAPFQoc4SGRj3fWyIwip6EW9SfgrCswKVwuEP6uL7oM126Kqxgk+O+Ui51pymWlYkw+vu3n5clnVF75sYcgXr6cZnKI5ADXFgj/3G9ni2/BRxQkCeZlOPOkILJjssoRHb+4hhE+AzvAKH9tD8BvZT6gOHjh2MUw==;/FOH9Uz6P4qmF7+bvzJlMA=="
 ---
 

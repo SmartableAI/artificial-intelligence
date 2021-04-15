@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion"
-excerpt: "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to ..."
+title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
+excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events"
 publishedDateTime: 2021-04-12T12:36:00Z
-originalUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion"
-webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+webUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
 
 related:
   - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
@@ -568,22 +572,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion On Location: April 13, 2021 NEW YORK -- Microsoft, on an accelerated growth ..."
-    publishedDateTime: 2021-04-12T21:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 76
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
     publishedDateTime: 2021-04-12T12:49:00Z
@@ -1077,6 +1065,20 @@ related:
         width: 1100
         height: 817
         isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation ..."
+    publishedDateTime: 2021-04-12T22:39:00Z
+    webUrl: "https://apnews.com/3d0298725cd320fdbc321ba9c1d432f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/211b41a5959f4f41a651c82c36bcfe06/2000.jpeg"
+        width: 2000
+        height: 1486
+        isCached: true
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
     publishedDateTime: 2021-04-13T10:00:00Z
@@ -1527,6 +1529,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "Efr8catPl9+AW5YGcaPDUAthe2KqnMB6DG+gJzR0FXfao7exHxjQaTHBiF4WBcLzc8LDA1EeMHwcK8o/0SluvIAShuiFg2V2yrKmOuyuYzgtmUhvvomQtsrKqGLGu9VFVpqGheZmU6XIGMuOZwly1MUjnLtcUreACWgBteoGLEtCK4Ok68sgFB40W/zeG73dRLAYibvXhnQEBzWy0V1+/VN7jtb5mAINwQg62ENG9r/+guYKxwePd66tt+bpPU2B0LEjZAt0f5nS4Ja8xubfqdCyz86t/hvHk3gcJeYrI7tI+h2R9kVRFINX9FO2djspc3qhvvvoIwT2UJJCZ0OnSCzRI3O3mgMc5oXPoxQ+f/A=;4oRXzFb0NDdvfK/v2coI2A=="
+secured: "gR1iwjWY8efFqHUBbWoHlN03paUv2BUsQWT0yKyR4PdwyKSYxc18JdTY5OgUXX4+H/xV1R4ZO5psrEiVbFRygvOjvR9a7Zc1KtxJ/EWHOnCBGksZrsdAIBAaH+PFmyhSBgfpcgZmrTBVfktoHYwWZ3H1AaNYPCBNhC2ZanNeFU1eeAWtvVcV2Vll7GwcqOFOAiYfNVErgaL+NjixuvQ6k5UKic/l9qzuAknag9ZBDFVDlBk3SxzJ3O1XWOSn2+p+ukCvAk+OCa423GLjiPimYy32uqRdEV5/rFG9TdpUXTmFnk73kOMJlTTns8MlQTVsmHrNHZCspyY36uPNMBP/PMfPX8GG41kBwrDnmJtJquA=;fQ/u2L3zhT/el3ZFkS7aRg=="
 ---
 

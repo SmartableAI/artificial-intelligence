@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-15T18:20:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/best-machine-learning-software-in-2021/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/best-machine-learning-software-in-2021/"
 type: article
-quality: 41
-heat: 41
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,8 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Google AI
+  - IBM AI
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
