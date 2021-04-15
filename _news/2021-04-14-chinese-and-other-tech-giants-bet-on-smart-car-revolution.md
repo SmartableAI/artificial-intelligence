@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NexMind AI launches Machine Learning SEO Platform in Chinese version"
+    excerpt: "NexMind AI recently announced the newest version of one of its AI-Technology, the world’s-first Artificial Intelligence (AI) Machine-Learning SEO Platform as a Service (PaaS) named NexODN in Chinese Version."
+    publishedDateTime: 2021-04-15T04:18:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 54
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
     excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
     publishedDateTime: 2021-04-12T11:37:00Z

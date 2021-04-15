@@ -68,9 +68,9 @@ related:
         height: 364
         isCached: true
   - title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
-    excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
-    publishedDateTime: 2021-04-14T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
+    excerpt: "K Health and funds managed by Blackstone Growth (“Blackstone Growth”) today announced the formation of Hydrogen Health, LLC to help create innovative, digital-first healthcare solutions. This joint venture is also backed by an investment from Anthem,"
+    publishedDateTime: 2021-04-14T13:10:00Z
+    webUrl: "https://apnews.com/article/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
     type: article
     provider:
       name: Associated Press

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369332"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369332"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
-    excerpt: "LeCun’s tirade began with a tweet announcing new research on fairness from the Facebook Artificial Intelligence Team (FAIR). According to Hao, Facebook coordinated the release of the paper to ..."
-    publishedDateTime: 2021-04-10T12:47:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 62
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Students looking for summer internships can make up to $9,000 a MONTH at Facebook and Amazon"
     excerpt: "The 25 highest paying internships for 2021 were revealed in a Glassdoor report, showing Silicon Valley giants are willing to pay up to $8,800 per month to interns."
     publishedDateTime: 2021-04-14T21:09:00Z

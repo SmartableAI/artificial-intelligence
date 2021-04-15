@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NexMind AI launches Machine Learning SEO Platform in Chinese version"
+    excerpt: "NexMind AI recently announced the newest version of one of its AI-Technology, the world’s-first Artificial Intelligence (AI) Machine-Learning SEO Platform as a Service (PaaS) named NexODN in Chinese Version."
+    publishedDateTime: 2021-04-15T04:18:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 54
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
   - title: "Chinese and other tech giants bet on smart car revolution"
     excerpt: "Chinese smartphone giant Xiaomi is the latest newcomer in the electric vehicle, race with a plan to invest $10 billion over the next decade. At a March event unveiling the company's plans, billionaire founder and CEO Lei Jun called the new initiative \"the most significant decision in Xiaomi's history\" and said it will require \"full efforts for at least five to 10 years."
     publishedDateTime: 2021-04-14T12:52:00Z

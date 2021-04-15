@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20589111"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20589111"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AWS AI
 
 related:
+  - title: "Even Financial Launches Product For Financial Advisors On Salesforce"
+    excerpt: "Even Financial has launched Financial Products for Salesforce, a new app available on the Salesforce AppExchange for financial advisors."
+    publishedDateTime: 2021-04-15T04:51:00Z
+    webUrl: "https://www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/"
+    ampWebUrl: "https://www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Salesforce-Even-Financial-app-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."
     publishedDateTime: 2021-04-14T14:01:00Z

@@ -54,16 +54,19 @@ related:
         height: 800
         isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
-    excerpt: "Many regions, such as the UAE, are now demanding Microsoft Azure for the hosting of all their data requirements ... for managing critical data through the use of the latest AI and machine learning technologies. In addition, we have developed new and ..."
-    publishedDateTime: 2021-04-14T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20614220/smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20614220"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20614220"
+    excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
+    publishedDateTime: 2021-04-14T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VKcf45+gx771l3octUwfmEpMRjYzdoYZYZO7Kl60NExogHbwQhvzgao+pn3rxHJDWAMfUCocpP/asbh67fUgwOs5hvm7B7ANrLuRFPvKBoX/UE810M2G3r5lF6a4ZC5+sQVjCt8Eeyeu0qPjCro6GSC+WtENIQ3LMHxJgvQVfs3KCKWnwPLbWz3jdsLBbwwupoZduhHiNas1y8e0lblIecB6qJ77T7cXO+X8e6gUVKRfdXpctPKwOLjqSy5tfJ5gEGL1EKSMTrzxMhCrQmQZRWULbh4+cdje7SV5SbN2P5I3TqD1Ev8umauWcf8/kY9cUdXKwaI/UzxdThDV5guVWS5wT3l/Ieaxzogd0RkG0kPl7Z6B4f/Ey4gaIlKSulIZwASQTCzzWyiKuPQF0tccfei2VvPztQBlqRTRS60IyDKumD8UxmqVG+v1JA1T7tspr0P1HyFJpqfyQ/j+UUXXSQZKi5EE7olHoZ2W+5kHO7LyeFJInFkL5RhXDdP/qr7DtiigIxNVMDK+H168tNWEYQ==;tWBtJSHnadYes2WpVg6GPQ=="
 ---

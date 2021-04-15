@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Even Financial Launches Product For Financial Advisors On Salesforce"
+    excerpt: "Even Financial has launched Financial Products for Salesforce, a new app available on the Salesforce AppExchange for financial advisors."
+    publishedDateTime: 2021-04-15T04:51:00Z
+    webUrl: "https://www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/"
+    ampWebUrl: "https://www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Salesforce-Even-Financial-app-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica"
     excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
     publishedDateTime: 2021-04-12T22:10:00Z

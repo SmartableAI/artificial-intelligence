@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-lea
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
-    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
-    publishedDateTime: 2021-04-10T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
+  - title: "Global Deep Learning Chipset Market Pin-Point Analysis and USD 30,559.2 Mn Return On Investment (ROI) Report 2022-2031"
+    excerpt: "Pune, India, April 14, 2021 (Wiredrelease) Prudour Pvt. Ltd: Market.us research recently promoted a report on Deep Learning Chipset Market Application Statistics 2021| Structure Forecast 2031. The worldwide market for Deep Learning Chipset Market is ..."
+    publishedDateTime: 2021-04-14T11:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/global-deep-learning-chipset-market-pin-point-analysis-and-usd-30-559-2-mn-return/article_08526f72-9ae6-5553-af6c-362632ac542b.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 15
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
-    excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
-    publishedDateTime: 2021-04-14T17:06:00Z
-    webUrl: "https://www.openpr.com/news/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
-    ampWebUrl: "https://www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
-        width: 628
-        height: 385
         isCached: true
 
 secured: "YTL95uKYLTYLyKC2+kdBqbBZVSE9WpHug4dfpkbzChSrk9NJShM2DROsmMSEDcTkPDkyDo+ZGLVXf7nrueb8A5Qpg9LKYJivSbKIAN+zeXiJMepwTZC6M0g28ZYCkabu5JBxXV9YZsUQk0gePUPqC2Vizuj0Tv4WINkp12piTVGQTE5cjGRpxs4HiQn5JoZzrNhnOlma/vUC9s5nfNtkNgy8NSA27Ca5YgeBhsxB63nSl/dZ9FWNgrehZs+jon9Pv/LKzEQFCjhWjB1juCbtGGYGdI36qQNCKeBfRMWu0TQLWNxFFNj0f11WNBMEPG/6UPw1PmdgI+raZUhVuPdCqzfzQau6SIA3nKaI9Oe7XSA=;nHn+rvZDw+s+zuHZsNZwZg=="

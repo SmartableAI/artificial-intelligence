@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-15T01:52:00Z
 originalUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
 webUrl: "https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/4RkTgGmDgot59FI9y2wlk5/73ae102e4b65b6b0d3ac8e4bd5046870/technotemay2.jpg?w=650&h=433&fit=fill"

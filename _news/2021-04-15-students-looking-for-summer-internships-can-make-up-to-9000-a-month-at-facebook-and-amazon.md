@@ -43,20 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
-    excerpt: "LeCun’s tirade began with a tweet announcing new research on fairness from the Facebook Artificial Intelligence Team (FAIR). According to Hao, Facebook coordinated the release of the paper to ..."
-    publishedDateTime: 2021-04-10T12:47:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 62
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F11%2Ffacebook.jpg&signature=eab7e86928dca3fdd55e5faba338bb97"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "3AvCArSp8rWK0faLpMdkJMsEqWGbM4afHizLQ0ZoRV4mCOUcoWMV0riRgaxlhy4k02hs9nzV6rVSQzzd1lu7zA2Vb7mrXoCIr82DNoZATqFgUCyx3qudZchbCJwB/c9ZrkTX0pXuQEQcT/53AqHp14hIzL3mNXVSZHlp5/eJjGvavTGtA/iF2+xvKSNqIOKg+nOQpEIN43626TNRCKTch1naNLjl7CJHlaYm2fFEVJi39hzwVBgaqzWUr6FFS8TJ4NopSSHhvAqRAbEihmHBfHnTlR39t9Mv8EGuctS+Qr+dMeaOINQotAp6uxSxoGcPo3BvKqlBABgDFPMZVwZ8nezsg0t3BFZ0P2cyQTftU9eZ9dcpWxDghAqOXHtAENsTKsY+y8tzijne/GLBgAsDgV3fbOY/NyGaCMamA2aNSZMzUwlXhuMDYhWsxOCz6XCbm330Xi1IxgEwHkIyYLGlhpzxbwo+pMOtkj+6BCtHuBJjx8WEEyVyH6/gyKDPPGcPnW6VrloIX+jESKwocSFd+Q==;wHm+OHFgJZwuNWa50mJ8gQ=="
 ---
