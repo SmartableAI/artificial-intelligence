@@ -20,6 +20,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "AWS and F1 add six Insights graphics"
+    excerpt: "Amazon Web Services (AWS) and Formula 1 have announced the addition of six new F1 Insights for the upcoming season. The real-time racing statistics, which display as on-screen graphics, will become available throughout the campaign."
+    publishedDateTime: 2021-04-15T10:12:00Z
+    webUrl: "https://www.broadcastnow.co.uk/broadcasting/aws-and-f1-add-six-insights-graphics/5158870.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/1/3/1344013_brakingperformance_1_679584.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "AWS powers new F1 insights"
     excerpt: "Cloud platform Amazon Web Services and F1 are introducing six new F1 Insights powered by AWS that will roll out through the 2021 racing season. The new addition"
     publishedDateTime: 2021-04-15T08:24:00Z

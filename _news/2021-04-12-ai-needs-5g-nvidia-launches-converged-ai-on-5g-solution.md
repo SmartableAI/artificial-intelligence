@@ -1,12 +1,12 @@
 ---
 category: news
 title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
-excerpt: "NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta, SVP of the company’s telecom business unit, the AI-on-5G concept is ..."
-publishedDateTime: 2021-04-12T16:53:00Z
-originalUrl: "https://www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
-webUrl: "https://www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
-ampWebUrl: "https://www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
-cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210412/5g/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
+excerpt: "This is a 5G-connected data center on a card’ NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta,"
+publishedDateTime: 2021-04-12T14:55:00Z
+originalUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
+webUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
+ampWebUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
+cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
 type: article
 quality: 59
 heat: -1
@@ -429,6 +429,6 @@ related:
         height: 393
         isCached: true
 
-secured: "c2VnkCwBTcRHYqS21bep/lM1PSEnwzi92J5FcRE1nOTxxmiZmULvv14uz7tl3V9TUqJvpvrJVD2JP1Wm07f2nuCSHA4JcFnWR3/92Y/maSb5tlNq4+3rcrqDUc0b/M5CMtlxhpXwvrLRlym6hE55erIe6Rp4j6ltYNb+fTibdyrUR5OxDTmR6BC2/lkfOxl/RvFMYJw+IOIMRpifPoQSTOOBJbFN1xK48T1k0lN4Pv4uSzzUfpFxtjlJtYyhzPm247yF6QCt8RcQfxzhpsTz1MxBkqkVUeSQNuwODmiro6hRY1GSHunq2OXw3sQKjBAB41Lhfz+Kd8tvak0vGSnKz37DGimgl3KD5iiAf5UScOv84gVSCV07VR21IIv3msZ7AOa3atXPih3Nu56L8zaQmbRQFNjPXghHXLLT6rkCUKXgPtz+tva3x/olI/iCtmUTod//Y48TzduJPncNR6WEBfzZN3TBDgujIwYc8Setj/XZm7Ej21ZKJQJ/TbMk3P+RqGVaaTdSsPriVzZx91c1UA==;JApmdjdvMMLOKA7X2jErZQ=="
+secured: "sqcUnW0Z7/HNQKMMc9ShzCQQ3K8nEdJlSDZotsDbIbX6wSFbTI5giKV7IWGJPGwNim9iurm2Dbd5MvSgbrNCza0WNK0HZQg0oB0+mEtCN70+G0KC2ItmxGzqUy6GLR7tmeOLurvgAS5gfv1WaJz+i7WpsDTCXvsZ0Kmc7A+/+AKc+c68fRBokvK0EyA0n7F4wiZNSqvlGJs8DhEM8WqFUZFK13zRgFZPPZqstM2tUSEFOcJ81biIrJYuw8qciS00DHVum5ZF+bSe14x5Gc0zWZ4smmsgb8pTBu/pYsJTOJLlroMnYqnTq1uOIXTyzHpSgJGB6EuemBTeuCmPjFb2uKDFRZpMWlMVCWtGg3oem34=;nNLljpCm9XicOTx9/XCXHw=="
 ---
 

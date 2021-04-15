@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-03-22-why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021.md",
+      "title": "Why Pinterest Is a Great Artificial Intelligence Stock to Buy in 2021",
+      "excerpt": "A rtificial intelligence has the potential to dramatically change the world. As many as 70% of companies will adopt some type of AI technology by 2030, potentially boosting economic output by $13 trillion per year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
+      "originalUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
+      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
+      "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
+      "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60587e6d99cc7add52892f71%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
+      "publishedDateTime": "2021-03-22T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-ai-could-enable-swarm-warfare-for-tomorrows-fighter-jets.md",
       "title": "AI Could Enable 'Swarm Warfare' for Tomorrow's Fighter Jets",
       "excerpt": "A Pentagon project is testing scenarios involving multiple aircraft that could change the dynamics of air combat.",
@@ -1073,94 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-healthcare-providers-globally-are-applying-aws-ml-services-to-store-data.md",
-      "title": "'Healthcare providers globally are applying AWS ML services to store data'",
-      "excerpt": "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
-      "originalUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg",
-          "width": 575,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
-      "publishedDateTime": "2021-03-21T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-soon-ai-based-robots-to-replace-financial-advisers-oracle-study.md",
-      "title": "Soon, AI-based robots to replace financial advisers: Oracle study",
-      "excerpt": "But, over the extended global lockdown, humans seem to have discovered greater faith in technology and machines, according to Oracle's Money and Machines: 2020 Global Study that was conducted across 9,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
-      "originalUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/artificial_intelligence_505_121517094749_210321030928.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
-      "publishedDateTime": "2021-03-21T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in BFSI Market Outlook, Industry Analysis and Prospect 2021-2026"
+    excerpt: "The Artificial Intelligence (AI) in BFSI market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2021-04-15T09:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
     excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
     publishedDateTime: 2021-04-12T09:10:00Z
@@ -229,6 +243,17 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
+    publishedDateTime: 2021-04-15T11:29:00Z
+    webUrl: "https://www.openpr.com/news/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "AbHyu0haK1dYwcngH+EkRkwtwk4hHOrj6hVLqujYKNG9cwHxVD2+yBpRwx+YTNxCxDtHHSgSUWmMAtZ3GVEzJ4vVoHttB8uiKtBFgulGrK0C7hQH4AiRS7jMfRmGvtibvWeuUYy0/m3JkHt6A40C+rWDutyJGv71c/jl5iYhaLyrlZq+pb4UjQ8kbfX4mOeb9r0CBWGjyAR5d1GLKlkwaRvKv5Rtc6a/FZ0dxpdYAtH3PIZayl/myzlpQp4O8TFGsWnfIPZjALC6MtQ3P0c0df0IDLXmEkA0+P98wJA83IXEAIq1ZOmOaWf1AcBo9rR0c3IsxfbA0mAr66a2ZBKHy4FjfW6XxFg6O744xv0x0b8=;zBN7lNYU2T5eml3N0RTFow=="
 ---

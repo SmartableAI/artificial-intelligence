@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Zawya
@@ -31,6 +31,20 @@ related:
     excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
     publishedDateTime: 2021-04-13T10:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
+    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
+    publishedDateTime: 2021-04-13T19:42:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
     type: article
     provider:
       name: PR Newswire

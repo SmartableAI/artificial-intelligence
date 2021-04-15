@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-lays-out-its-three-chip-data-center-roadmap.md",
+      "title": "Nvidia lays out its three-chip data center roadmap",
+      "excerpt": "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "publishedDateTime": "2021-04-12T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
       "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
       "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
@@ -560,7 +612,7 @@
       "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1052,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1197,58 +1249,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-general-motors-backed-cruise-is-set-to-expand-self-driving-operations-to-dubai-in-2023.md",
-      "title": "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023",
-      "excerpt": "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969",
-          "width": 4000,
-          "height": 2670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "publishedDateTime": "2021-04-12T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

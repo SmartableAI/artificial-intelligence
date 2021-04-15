@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Security: How Human Bias Limits Artificial Intelligence"
+    excerpt: "Looking at AI security from a social sciences side shows that it still has a long way to go. Sometimes, it needs to learn from humans. An expert weighs in."
+    publishedDateTime: 2021-04-15T11:00:00Z
+    webUrl: "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 69
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Santander and IBM to award 1,000 Digital Experience scholarships in AI and cybersecurity"
     excerpt: "The 1,000 Santander Technology Scholarships | Digital Experience IBM participants will receive training that bolsters digital capabilities and knowledge of artificial intelligence and ... cybersecurity and Watson. This content is provided by an external ..."
     publishedDateTime: 2021-04-14T11:12:00Z

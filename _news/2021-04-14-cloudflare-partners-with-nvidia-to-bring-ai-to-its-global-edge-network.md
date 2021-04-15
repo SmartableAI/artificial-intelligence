@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
-excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering"
-publishedDateTime: 2021-04-13T17:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cloudflare-partners-with-nvidia-to-bring-ai-to-its-global-edge-network-2021-04-13"
-webUrl: "https://www.marketwatch.com/press-release/cloudflare-partners-with-nvidia-to-bring-ai-to-its-global-edge-network-2021-04-13"
+excerpt: "(NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering with NVIDIA to bring AI to the edge at scale. Today’s applications use AI for a variety of tasks from translating text on webpages to object recognition in images,"
+publishedDateTime: 2021-04-13T17:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -267,6 +263,6 @@ related:
       domain: insidehpc.com
     quality: 16
 
-secured: "U7cbiIQvvikyWWlUxvxzzOyaQdbCt44qrGS0/H5Nv8530UPuUHO0hHD5wGr33rR5olnsbP9C0TcbD9+5vtUAI++Pv0UkKyrCU8vqxe9KXfbkketsE00s3lkCWtEj7fqgoZMgsFrxyZXddSCklIwocExyh6kJHqnAJ9SmBkCJ2S7KPOvM8GDSf6Iu0EaYfI2Wqgclx2tKlW/4HNiF+81LEO+SLfm8IMDLNb3hTGuXEwS6TYiKf1UAew3HTOqsbOgmI4CJF/jPsL7rxeF/KFMD/FmZPZbLkU7NKfa+2P++fkdGhXNByfwlsG7hVWtoCfjBhG857yTjjBQJo/H5R1Alyzj/a+5Zop9Mbcdet3Gn/pQ=;5vez+1Up8ghZ9ccWqpU8oQ=="
+secured: "OEbudMEHVHm3uoPzG8H0BjWuTdbWscs2OfZd0cAUkX30od4SWQ+SVfm2DmovOTUcdijhyH6wJsWe8fJkJFkfCeIU6w+uu+DV14J2yJY5irXPtkCmC7BW4So6dVofhlfkD4VY7vL+VQeGp7o/BtY5JwxHsIjdu4nIsjK2AlZLysXKwmXo/J4yv+347UV0kGyeNL3vWon31glYeAc12tcnpesW6xOfhEy9pX3zT6rjW6kbt5PZY/Re3BnGAD/IG63UI0CFn3tvrZqRkmpHeYa+K49KgYONt0km+gCmOqizlgKlrYwcemTX4+J17P7DZaCFQ1xBk2sxiDzv9adcuYueakxLcpfF3uos4ZCFXk0ysfM=;iZgHf5C5Utr+MBDtkcPM/A=="
 ---
 

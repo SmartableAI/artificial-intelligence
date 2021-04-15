@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-09-ab-inbev-werner-enterprises-to-test-embark-driverless-truck-technology.md",
+      "title": "AB InBev, Werner Enterprises to test Embark driverless truck technology",
+      "excerpt": "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "publishedDateTime": "2021-04-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-researchers-say-ai-will-greatly-impact-the-future-of-education.md",
       "title": "Researchers say AI will ‘greatly impact’ the future of education",
       "excerpt": "AllHere isn’t the only AI-powered technology startup that expanded last year. According to Stanford University’s 2021 AI Index, more than $40 billion was invested in all AI startups in 2020. Researchers at the Digital Promise-led Center for Integrative ...",
@@ -522,6 +574,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-global-artificial-intelligence-as-a-service-market-is-expected-to-reach-7704-billion-by-2025-says-amr.md",
+      "title": "Global Artificial Intelligence as a Service Market Is Expected to Reach $77.04 Billion by 2025: Says AMR",
+      "excerpt": "Moreover, rise in adoption of cloud-based solutions in end-user industries and surge in requirements for cognitive computing ... such as Google, IBM, Microsoft, and other leading players have actively implemented AI services as an important part of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/g20541304/global-artificial-intelligence-as-a-service-market-is-expected-to-reach-77-04-billion-by-2025-says",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/g20541304/global-artificial-intelligence-as-a-service-market-is-expected-to-reach-77-04-billion-by-2025-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20541304",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20541304",
+      "publishedDateTime": "2021-04-08T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1082,101 +1168,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
-      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
-      "excerpt": "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg",
-          "width": 278,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
-      "publishedDateTime": "2021-04-08T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-firm-level-e-research-raises-funds-to-scale-up.md",
-      "title": "AI firm Level E Research raises funds to scale up",
-      "excerpt": "Level E Research, the Edinburgh-based company focused on artificial intelligence investment solutions, has closed a seed funding round raising £1.2m. The finance is from a group of undisclosed private investors,",
-      "sourceUrl": null,
-      "webUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/",
-      "originalUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/04/Dr-Sonia-Schulenburg-300x213.png",
-          "width": 300,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/",
-      "cdnAmpWebUrl": "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/04/ai-firm-level-e-research-raises-funds-to-scale-up/amp/",
-      "publishedDateTime": "2021-04-08T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailybusinessgroup.co.uk",
-        "domain": "dailybusinessgroup.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

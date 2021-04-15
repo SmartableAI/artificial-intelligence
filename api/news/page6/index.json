@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
+      "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
+      "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/",
+      "originalUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/04/17447102w.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape/amp/",
+      "publishedDateTime": "2021-04-09T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "The developments surrounding artificial intelligence (AI) are likely to have a similar impact. And enterprises that use AI effectively could gain a meaningful advantage over their peers. In fact, companies like Coupa Software (NASDAQ:COUP),",
@@ -1191,58 +1234,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-ab-inbev-werner-enterprises-to-test-embark-driverless-truck-technology.md",
-      "title": "AB InBev, Werner Enterprises to test Embark driverless truck technology",
-      "excerpt": "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
-      "publishedDateTime": "2021-04-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

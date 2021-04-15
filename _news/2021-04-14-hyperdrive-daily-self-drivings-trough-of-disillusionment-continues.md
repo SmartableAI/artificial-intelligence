@@ -77,22 +77,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Self-driving cars have not progressed beyond the testing stage for years. Why is that?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle."
-    publishedDateTime: 2021-04-10T18:01:00Z
-    webUrl: "https://scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    ampWebUrl: "https://amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/991677/self-driving-cars-have-not-progressed-beyond-the-testing-stage-for-years-why-is-that"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 36
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/157286-udeeohpqio-1617815255.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "pUXkOO773+SJsU6PFzOXcwEMQ9ggVmdyQZYoKrHkiyiB1OI33d1VN6rxIR3cJH6Jqj10bNt+x6OiCo9BJpZicHzSiZ/7Rb7HVo0jOaxtcg1oyjITFaKzIFc/y4e17QsHQsXukRqrmREtnmetbVnKPzRHa9ZuN0NvZZ83xIyoIXrOYjqL2Who5FsoKJsJ7StDxk/ld/Zf+yCEDAJ4WWKfFOS+UG1MLLgyw23ej3VV2WkR4zpEq14Bs3JAjcIsNJ30yNsy/Ek/obufCU/lm9yhwSKg8Euza2ejj9RodG5dkbVJtuYwVO58LZ/tnjvr/nNcezrQwz6JaJ5wSZv+vFIDq30Hy++LJV4sq+kENk24+44wHXRj0JxI/eIm7IRnjWpiIddcMksRsXUDMfSXR5OfYW9AJkV3YK+Q2dSWNWFdYrz7UCtrvrfm+0qNeQREUBWGA4/HFkBi2UIqPnaCu8E3g7bKTpeeuvSLFahMGew3tfoqViQm0fh7hgZs34YGPunJE6LrEyfXuewwyGS8bFF5ww==;8co+93YdgjNJMq288dZOvg=="
 ---

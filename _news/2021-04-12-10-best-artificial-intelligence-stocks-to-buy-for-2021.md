@@ -47,7 +47,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920

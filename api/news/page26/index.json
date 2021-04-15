@@ -2,6 +2,92 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-25-the-trevor-project-enlists-googles-ai-to-help-combat-the-lgbtq-suicide-crisis.md",
+      "title": "The Trevor Project enlists Google’s AI to help combat the LGBTQ suicide crisis",
+      "excerpt": "To accomplish this, the group’s AI division turned to the experts at Google.org to help with funding and know-how. Their combined efforts produced a novel training system called the “Crisis ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/trevorsplash-796x396.jpg",
+          "width": 796,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "publishedDateTime": "2021-03-24T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-trueblue-designs-the-future-of-artificial-intelligence-and-analytics-for-healthcare-with-aidea-integrated-with-microsoft-dynamics-365.md",
+      "title": "Trueblue Designs the Future of Artificial Intelligence and Analytics for Healthcare With Aidea Integrated With Microsoft Dynamics 365",
+      "excerpt": "VERONA, Italy--(BUSINESS WIRE)--Trueblue, after having announced the integration of its Artificial Intelligence Relationship ... Managing Director, HealthCare and Life Sciences, EMEA Regional Lead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210324005610/en/Trueblue-Designs-the-Future-of-Artificial-Intelligence-and-Analytics-for-Healthcare-With-Aidea-Integrated-With-Microsoft-Dynamics-365",
+      "originalUrl": "https://www.businesswire.com/news/home/20210324005610/en/Trueblue-Designs-the-Future-of-Artificial-Intelligence-and-Analytics-for-Healthcare-With-Aidea-Integrated-With-Microsoft-Dynamics-365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts.md",
       "title": "Artificial Intelligence Could Have Helped Alleviate Suffering From Texas Blackouts",
       "excerpt": "While debates as to the root causes of the recent failure of the Texas power grid are likely to go on for months, energy experts contend that the introduction of artificial intelligence (AI) into the management of the grid could have alleviated some of the worst effects of the power shutdown.",
@@ -1035,101 +1121,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-orange-forms-ai-data-ethics-council.md",
-      "title": "Orange forms AI, data ethics council",
-      "excerpt": "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg?fit=600%2C375&#038;ssl=1",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "publishedDateTime": "2021-03-24T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up.md",
-      "title": "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up",
-      "excerpt": "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-kodiak-hesai-idUSKBN2BG1I6",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6",
-      "publishedDateTime": "2021-03-24T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

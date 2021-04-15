@@ -123,6 +123,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
+    publishedDateTime: 2021-04-13T23:25:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
     excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."
     publishedDateTime: 2021-04-14T09:00:00Z
@@ -310,17 +326,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the technology’s risk ..."
-    publishedDateTime: 2021-04-13T22:00:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 20
   - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
     excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
     publishedDateTime: 2021-04-14T15:43:00Z

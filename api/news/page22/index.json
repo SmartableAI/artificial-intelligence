@@ -2,6 +2,144 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
+      "title": "Can artificial intelligence replace human therapists?",
+      "excerpt": "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "publishedDateTime": "2021-03-28T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
+      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific's Plexus software stack is being used by AiDANT to reduce the time needed for their AI models to get up and running by 75%. \"Many people are skeptical when they consider the use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301255815.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301255815.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
+          "width": 648,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-what-ai-can-teach-us-about-the-myth-of-human-genius.md",
       "title": "What AI Can Teach Us About the Myth of Human Genius",
       "excerpt": "Because AI does see things in a different way.” Ishiguro’s book is fiction, but his suggestion that a new type of literature may be on the horizon is not. In May 2020, the San Francisco–based start-up OpenAI first publicly described its new language ...",
@@ -239,58 +377,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can Artificial Intelligence Replace Human Therapists?",
-      "excerpt": "Could artificial intelligence reduce the need for human ... often for less money than traditional therapy. The algorithms underpinning these endeavors learn by combing through large amounts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200?mod=rss_Technology",
-      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200?mod=rss_Technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-317459/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "publishedDateTime": "2021-03-27T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1095,101 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-of-industry-partnerships.md",
-      "title": "Broad Institute launches $300M Schmidt Center to merge AI, biology and a slew of industry partnerships",
-      "excerpt": "DeepMind, Google Research and Microsoft. “Learning the programs of life will require new and collaborative approaches to creating data platforms, analytical tools and biotechnologies,” Philippakis said. “By bringing them together, we can nucleate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1616769970/Broad08-017.png/Broad08-017.png?whguB914xejZxPvx93rU79qUiLEAa93q",
-          "width": 2210,
-          "height": 1244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-ai-could-make-the-new-nintendo-switch-a-powerhouse-overnight.md",
-      "title": "How AI could make the new Nintendo Switch a powerhouse overnight",
-      "excerpt": "The AI-driven feature that’s used in Nvidia’s RTX-series graphics cards and possibly the new Switch You’ve probably seen the acronym “DLSS” appearing in more gaming and tech stories recently. You might know that it’s an Nvidia graphics thing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "originalUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/QSmJqItREIvE1BPhcch_adVHDls=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19086567/akrales_190820_3597_0355.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

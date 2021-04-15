@@ -41,6 +41,20 @@ related:
         width: 450
         height: 334
         isCached: true
+  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
+    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
+    publishedDateTime: 2021-04-13T19:42:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "YC9LqL0ff+JypM+lO+X5z7cn8a1Zrg0bMNj57O3woAM5gtQtG36Z3EMrSQM5JUN7QuXHFBtdwYpsalGigI9o66vLPhtIZMgMJMIuLJkxJmrfV8ch978qxj61PmZwf16DeY7FL7gSNAkhbsD3c/mT7yYscpUqe3mnz4kGXpMNGrEd3JoRvHDHY9eBLCCfMl+bK2Ii1C3VmtA8GItyFsslZ9k3PJ2yEAMjo05HrWBDLnzzIJe6QEXuag4KflGSyPC/sMaCpVXGlfToqNQLbukW1Hmzui58K7Fpp93jFIfF7xG3fx0xAwSe15iziV9xEtxjJQP93bdklysy/3i9L+9iKM7n+5a+EeERObHDCGoAPXE=;4KlKqsDbOGe222hCnaQRyQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210412005107/en/Axiom-Con
 webUrl: "https://www.businesswire.com/news/home/20210412005107/en/Axiom-Consulting-Partners-to-Present-Competition-Winning-Machine-Learning-Solution-at-36th-Annual-SIOP-Conference"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AWS Premier Consulting Partner, HeleCloud, Strengthens Position as Leading AWS Consultancy by Appointing a Chief Technology Officer"
+    excerpt: "HeleCloud, an AWS Premier Consulting Partner based in the UK, Bulgaria and the Netherlands, today announces the appointment of Walter Heck as Group Chief Technology Officer. Hec"
+    publishedDateTime: 2021-04-15T10:43:00Z
+    webUrl: "https://www.realwire.com/releases/AWS-Premier-Consulting-Partner-HeleCloud-Strengthens-Position"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 9
+    images:
+      - url: "https://www.realwire.com/twitter_writeitfiles/Walter3.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "4bjT41UP2nluIW3armDnS1PQ+T8e/bMeDYsXA0dMEe3alKYuvcSSdQJ2NA4ONaVO1GGFileTzT6JxKmhZZVq6AuRWFoBCGCs4Ue955W4BEA7RWxMFpA013FAiYWwUTcx8W10pwmIm4U5wQO054ap8TFs2aDA2R/5IAk+veE6sFOL5Z3EgCr4MBwiKwFtMD7Ja9Y0c2Aws7hWXBG/cgTd1pLwvbuegc/Oqj4gL9lwM899lL1YlOwsXTr3ecBk3d47eQWo+6z1aeOpZz2xdDL6522ugju7Bmg9I0nWYA/mMCpMRe0ipY54h9p00r9nhzkqVpjUgwNJiEVp2I21FkYXqOfHZoG83AuQuu1LaEI1lRg=;/24HF0e5rxmsmXaxY/RMPA=="
 ---

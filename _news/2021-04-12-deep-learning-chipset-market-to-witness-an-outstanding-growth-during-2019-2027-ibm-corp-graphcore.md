@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
+    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
+    publishedDateTime: 2021-04-15T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AYp/awHyy1mq9sPykOfR7TA0ajdC6kjMl4werH3KNaYavsOVu6mIv8/RbqeQ3oT/0B1vUY47pDP1KIFNqn+3lRkf8bLJpczWlE9VLPeLDsjYrYzE64L1acd6vUdoUK3XUyFdozio/ro79Csibgt4gp+1pggDR0zMwB1iR1NkgGVNSs3iH0O4e8k4ArnxiQeDmGXgCB3VsmOqP/esQoZ3xtzmvjG+gjfOKCUvznZ7ggfc8o/fc/vl2msA/HeOykG9WKOSaoHPEGU7ipHTdRC/D+W83hNvBd9mbwOFhIuNkwExs/jHJBGybu2hK5MxszoeUSsLPuefNWvZK5/KEtKQVxpHQQUDXfbzzTPeWYW0EOk=;6nz30pqcttnP1xtvCDap6g=="
 ---

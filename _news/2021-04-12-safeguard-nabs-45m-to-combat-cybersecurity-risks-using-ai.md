@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Security: How Human Bias Limits Artificial Intelligence"
+    excerpt: "Looking at AI security from a social sciences side shows that it still has a long way to go. Sometimes, it needs to learn from humans. An expert weighs in."
+    publishedDateTime: 2021-04-15T11:00:00Z
+    webUrl: "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 69
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "H3C Semiconductor and Ansys Innovate Next-Generation Network Processor Chip for High-end Routing, 5G Backhaul, AI and Cybersecurity Applications"
     excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
     publishedDateTime: 2021-04-14T11:11:00Z

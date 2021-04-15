@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/climate-change-california-indoor-farming-vertic
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
 type: article
 quality: 55
-heat: 75
+heat: 76
 published: true
 
 provider:

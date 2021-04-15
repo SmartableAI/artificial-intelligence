@@ -8,8 +8,8 @@ webUrl: "https://timesofindia.indiatimes.com/home/education/news/ai-learning-wha
 ampWebUrl: "https://m.timesofindia.com/home/education/news/ai-learning-whats-the-right-age-and-skills-required-to-start-exploring-artificial-intelligence/amp_articleshow/82081858.cms"
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/ai-learning-whats-the-right-age-and-skills-required-to-start-exploring-artificial-intelligence/amp_articleshow/82081858.cms"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.toiimg.com/photo/msid-82081847/82081847.jpg"

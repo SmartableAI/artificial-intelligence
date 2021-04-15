@@ -1466,6 +1466,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "Why Did Microsoft Acquire Nuance?"
+    excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
+    publishedDateTime: 2021-04-15T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-did-microsoft-acquire-nuance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-13.jpg"
+        width: 2240
+        height: 1261
+        isCached: true
   - title: "Microsoft adds speech recognition"
     excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ..."
     publishedDateTime: 2021-04-13T04:59:00Z

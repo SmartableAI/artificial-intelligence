@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
+    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
+    publishedDateTime: 2021-04-15T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Chipset Market to Witness an Outstanding Growth during 2019 - 2027 - IBM Corp, Graphcore"
     excerpt: "Evolving from neural networks to present-day deep learning architectures, AI has come a long way. Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is ..."
     publishedDateTime: 2021-04-12T14:36:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-12T15:41:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -54,6 +55,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "znEVrZfqia+oZ0p24LFxGgKoUZS2uuRh6mcwHAy0i+Xy6eJkI9W6E4banx1sNlojZQbBHRLxCm3P0cnnBQQBQMBhxZa6za34xKfyL/MzoCFdmlFDt00dVV1/wFi8rbpc6oI2lb82pqv8fk446yUbdfPoKSTyA14DirAVnz/ltOAHZQ0SuhSP495Z2AJs5EZf/Omyv10pXo+VmyP0/HcEeEPefD8LIgUkGRrn/dQqNk06iz5z94ghEaybirM0VBiX9f0SOs68VE22FWtKg5xPNPuTplgjQSXPTpniZhCPR4U1lg/LSzgC9ERgcX0Ie3cvk8Xjtoy4gFzxerxvRPMmokeK4szlc5a17qKbfDkC/mc=;qM7/TvGU8F9172dVMbCXaA=="
+secured: "V5rsFxZifDUaN805pacaGLmZPHShgJZ3xRlc1+ADxi888nxQp2Grul20dAV7cCnwOqmnrDkXHQuNxUwKWafZTSLYWafOnUR2kOVVpLx21r8xzyjgWD3SBq2V0HLs+3HfQNm1NNSkhAr3aSZRXTVhoq7tOQNwcMx/4mtqqgBfq1NC7CAfgtEyHNEuGRl+hPMIXQXinpCZntl+E7WyLQjs4oseFTRPEiCiEcHy5UcoI0O3vjyWsgNuSd7vGbCejEUaY91qcUKWtP1xI1JDRwWcE50eDsZ0QtZvv1iEAR/JiyP1W3y2lamG9yCcmTmD3pqHq9BsxcDiGkyHkWDA0XRgmcg6G+ACmuMB3jipvVpsnhQ7iXGLJ5NqVM14UAI+h9LRsk6OeBPEUhXtw1TG5CFLh6hmJl8qwjIu3CozYXE2tiADMcnxi5ip4kZIqYxJJUxAhD383O8ChOiXciek4EoYCDubSlur31KKGtb4lFMFLm0lisF1cJSCMvLL6sx4ULrUfSXDxh/TjJFDdHhkmeFuQw==;ymDJ128E292gqvvizR4y5Q=="
 ---
 

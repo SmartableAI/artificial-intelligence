@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
+  - title: "AWS and F1 add six Insights graphics"
+    excerpt: "Amazon Web Services (AWS) and Formula 1 have announced the addition of six new F1 Insights for the upcoming season. The real-time racing statistics, which display as on-screen graphics, will become available throughout the campaign."
+    publishedDateTime: 2021-04-15T10:12:00Z
+    webUrl: "https://www.broadcastnow.co.uk/broadcasting/aws-and-f1-add-six-insights-graphics/5158870.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/1/3/1344013_brakingperformance_1_679584.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "New F1 Insights Powered by AWS Will Help FORMULA 1 Fans Make Sense of Split-Second Decisions on the Track"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and FORMULA 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new F1 Ins"
     publishedDateTime: 2021-04-15T07:30:00Z
