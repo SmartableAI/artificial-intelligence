@@ -312,6 +312,20 @@ related:
       name: WION
       domain: wionews.com
     quality: 39
+  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
+    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
+    publishedDateTime: 2021-04-15T15:33:00Z
+    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 30
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "ACLU seeks to make facial recognition use by police a civil rights issue with wrongful arrest suit"
     excerpt: "The suit alleges violations of civil rights law by Detroit Police, which the ACLU has consistently blamed on the use of face biometrics."
     publishedDateTime: 2021-04-14T20:43:00Z

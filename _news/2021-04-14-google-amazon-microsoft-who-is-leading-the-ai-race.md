@@ -1459,20 +1459,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1533,6 +1519,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "bE21AOJUfXCQ2wseknD7Ep49ypKx7htt6ovZD3x4msUY6qtG+eGkcjWu9hjopVqUxo4VDD8a+2/g1WE9OCAiJdtiW1oNTbl2cB0e0Id2/h9vg2tA9xaelplRSv2SNODJcsrMDAprbSdV0vrkzmgz3cPEK0qgekSOUwvltMF2bDd02re/MnakVP8YP39mPIEwNkRMRLulQai/1wValJK/oo61e74bOcREBDXttTvHXCoveQrQ6KaUa1xsY1EhNjnFPaUdktT3D6nm/wgBtGOxxRAh39UeDQGcJtTgJVUwcvt5RZTZwJLI5OGPxAAw2gRPeMfDpoPrCoVYb+lmt9fSImZjkAbsf2Xfq7DhUzMK8dNOlePysI3MlU1ke2fZQJ60zbOPwumGvtDv5071O4a4I+kZAyaIbtx4lxBxND1/RTbEpBjc/wvoV0z0e/1KG2MlNSiTHW/ctlb54nHbvkKLwooUn9Jj7kC3FC8QZ90BfnOSZzXGM+eqgxc0cYL3BhoJeYDVzCHfjGjimQDcLRAtaw==;kAKQhmqAgiu1U8GcL+XNLA=="
 ---

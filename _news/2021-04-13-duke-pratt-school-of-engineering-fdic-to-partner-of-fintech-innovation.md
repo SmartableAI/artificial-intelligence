@@ -41,20 +41,6 @@ related:
         width: 600
         height: 468
         isCached: true
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Welsh Fintech Delio Selected for FinTech Innovation Lab New York"
     excerpt: "The Cardiff-based fintech company, which develops investment platforms for ... Safekeep (New York) – whose award-winning AI-driven claims solution increases recovery potential and reduces effort by as much as 90%. SPIN Analytics (London / New York ..."
     publishedDateTime: 2021-04-14T04:55:00Z

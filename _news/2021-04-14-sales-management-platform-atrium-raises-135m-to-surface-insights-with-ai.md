@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/14/sales-management-platform-atrium-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/sales-management-platform-atrium-raises-13-5m-to-surface-insights-with-ai/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Kleene.ai Raises $1.5M in First Funding"
-    excerpt: "kleene.ai, a London, UK-based data processing platform provider ... deliver the product road map (including support for Microsoft’s Azure Synapse Analytics and Google’s BigQuery), and to grow its wide array of data connectors. Led by CEO Andrew ..."
-    publishedDateTime: 2021-04-10T22:44:00Z
-    webUrl: "https://www.finsmes.com/2021/04/kleene-ai-raises-1-5m-in-first-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2019/07/supplycompass-400x293.jpg"
-        width: 400
-        height: 293
-        isCached: true
 
 secured: "P+JTeQZAMt0u1+FOKBR+Lvq87iJ1AXg9gLJ8kRcyO5pork9DWenu3o7YnRgysvCsmphm3QHT3LYp+ijXcWS4KF1ywmxliXTCHjmYOgc+GfsU52jUzw5jIEXBtE4096I0kRkGuHBnKOZIM0YIDz7/hnaE5fvSUOwg4A6+1iIAdQNIva5o6yBf/fnuHz9DQfTyVrzUEEwpHP4YQWACIn+2Lffe050uHsAazsM5yciI/NP8rQxexHTWejzyiFQ2MfqRR/BwbWBtqhrKUOpCWvXPvZC1Ub4vnn99oTah4pQRV8n2xOq6955Cg/rfD309Pr92myfd08J6d48GI+/qUf0OWboiOaQes+C7n4Z27DaK02w0PNnQEILtP1iS1m7h/oGDme+7g4D3gcRLYDY7MTJvd64HATIOikO/clbmWCtOmfDGQc9Ko1gGRz3wXKrEhmRR1+u4XiEqdjbAlxLsPHXQSWlthK1P9lpLCLHHg5GCpLnGzxkWgmvazZoNspe5kkqD7UL8nlLhI3UwZoRiDSpPIg==;Sz/aZfdZ3DS5OHgOB8ptNw=="
 ---

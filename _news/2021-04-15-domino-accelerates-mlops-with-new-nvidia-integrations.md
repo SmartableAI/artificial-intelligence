@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Harness gets more cloud integrations for its continuous software delivery platform"
+    excerpt: "Harness Inc.’s continuous software delivery tools became a lot more useful today as the company announced new integrations with the three major cloud infrastructure providers that it says will make multicloud software deployment much easier than before."
+    publishedDateTime: 2021-04-15T13:50:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/harness-gets-cloud-integrations-continuous-software-delivery-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Harness.jpg"
+        width: 712
+        height: 377
+        isCached: true
 
 secured: "v7vjUUEyXGtvWfOToNO0QzIDU7fiI2gEWBCu/tBqL34abEQf2RAVro3w8S28mJSXiPgfK5S/9YbOCH4ttZ7oeUTQkZAMzW6xSu+o6CKvRTSluGy+Mh8Ap1tP+jE/6+WwkanSpIBgzYjTrNGO1jSceQUc6PZbQvT2Boye81KIpR7ltBLw1MTLUgl2UwHfxHCtcqjV8Xczq8MFdiTTiwnHz5+Dto8HO35NqdrsxRJXJGuPyWnUB9/R1l+QUFrOnDROT6ilW0TUqo63kGfJ0ayCsX7KGlEBYigpqMBjyR24XgE221EgsLepGst2rjqMbwEdMhDT4UOBhzfsdBIxgG1sQZI93+8Aewa57NDngZBzvWAnWvSKeGgL3rO8D+VsHzqyqj1I1zj4t9fnOeVt0p4nvF+TOjTaYoeCeyNQYpUhKVdu+PHWWnvt9LGnk4dck4AQExxHX/1fw0zIQEtIrvMvGryey+grsWj7Up3R2S9oMQ6CVMWhinhehdCuPSlsbR2aIVBMGyyJK2MAZwLoRR//sw==;8e/tGhsLI9iIqxbPPOFDMQ=="
 ---

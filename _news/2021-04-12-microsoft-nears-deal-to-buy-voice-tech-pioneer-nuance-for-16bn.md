@@ -1459,20 +1459,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1533,6 +1519,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "mGn2J706tB44cK/oPsRQT2OT1v/8u/B7pF5h6/JEBTacV5MMtfU/zH9WzqeTRWJeABxip7RxyWDKT8JeG4tDMzJe08S6sgDrVesmC5XPc7A2WQ59uZbrepIn1/gg8ZJNQT8PHF7Nx5aR9nMeciDS+v0Jsh4saf1VICGb44/ZIiQn0Le+MWJRuiGULA7C27oLVQzkjS9azZ7Cp+Q/5hXEvlwn73anyRFzwoJCafnMgCaxhfj0gup0SidVDHavx9isXGxzZmXRkBgUawfM/ITdJzyEM46dnF9I8tCTgHyHuk1VmeZNi7ghAoLkIKk61xLfC2fHKYqUYxHBO76NYAIQ1lkzTOYZasaMSHXjGs4DqiY=;KpR5P017vFYkTNNPU9N8cg=="
 ---

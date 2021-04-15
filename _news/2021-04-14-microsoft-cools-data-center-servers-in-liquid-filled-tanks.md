@@ -1458,20 +1458,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1532,6 +1518,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "z9f5QTBY/NhX/kc3MXefAgyVUaOQzCT2lotir+w6F822pOz4fovo1ts8Zbp7Z7zpm2LPjarAz116Mflrwzqez0RJD+pHsAk7TdmjAWI+TZFAPqpTFfUHF19R44ly+TFhOf61o/lNiRy3K/ViRbEkyqWe3KYi0OTITA7jUEDmjmsANjAEkPcWFQa8BykIYNb7N5IJGIor6iZ7FnfYmcwCMQlIIRnN513F3gbHgr/qntCHSCbUb5jkuSCCJmPv1b89yeD7doQP4v2BCxU5fEnGEW406ZJWCDcvCjioW7P9pFlyyk3RtzsbV3BtFVbigutFiN4WFcymJlNTT9V2HAYJpIfkdYYOd7TCZR7nQyt4adY=;/xZ8jEWDoNoFMDCHSCTbVQ=="
 ---

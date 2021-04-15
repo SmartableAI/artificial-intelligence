@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Research on GPU Database Market Size, By Component, Region and New Business Opportunities and Investment Research Report 2028"
-    excerpt: "The global GPU database market size is projected to reach nearly USD 1,484.1 Million by 2028. Besides, it is projected to gather a CAGR of above 21% over the forecast years 2021-2028."
-    publishedDateTime: 2021-04-15T07:04:00Z
-    webUrl: "https://www.wicz.com/story/43673387/latest-research-on-gpu-database-market-size-by-component-region-and-new-business-opportunities-and-investment-research-report-2028"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 8
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "NDZJrnwDWI7fRCh8tIqi8XZr50nv1MHRGbdOTZHsOuf3BNKlOBmvF08u1rbWiawuYsq0a8x36jMBJXwoM28I/P4kG3+DHQDT/uvjkYVIzvQgF0MfTMmOR+dJ2rN9DZl6an0eg3SnnykG1rHX+SemHrQJkZiSI7ZkL9p205fOhepsdtlY9CTf+eKUZW3Jrd30PyEszzF/zYc/nnnpsUMAlQStmJwwDRow+mv8Jl5cy3eBQMAHYF28fLPMMMh/MLzODityLSTnFCpePRHF20Nm03AZkV2H8Kk8oKxHCA12u8oGK1IFyJhuEIz/opXUAFt8nreLdBOQ6ZcIF+9PXZ4oF/2OJTuTVNwsmASRQBbU1SA=;u0aNEqvR7uxsmJ3KzKl7pQ=="
 ---

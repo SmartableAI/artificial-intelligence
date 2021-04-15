@@ -1459,20 +1459,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1533,6 +1519,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "qiyc6Ryjmkb+d4Y3pFMkXUAkVF2b2Wt6XJyC2N7/VWZsm5Bucoe5quU5mQIFkGhKyYXuwg8VMYmu8gca7vsl1IEEvTQkqk2f2rLDSWZcVxIJuV/XntH95mHiXvL4w7frtiBipI+fyIghkB33fS9l0MdwrjOZYKk8CzvvCF/TcT8qwWPoc5t4/l3zPdCPfE1e6hK9d5aenipXa5P1oFpys/HO9SSXj0Uyvm6CK92r515L7VEKng92Tzf3tcqZ6NQkTvUV4bMz+D2U3lPUPMm/iyD41+RbNPg7f9vY1YLLpj/D1/rw13KaZHwJX6mHbuuNaBWuJmkYmyGNjbN9aSwXvkm5x4b3Wihrz8aMEnoSzO4=;PbIkXHaJbhcJiaHuTFGCTQ=="
 ---

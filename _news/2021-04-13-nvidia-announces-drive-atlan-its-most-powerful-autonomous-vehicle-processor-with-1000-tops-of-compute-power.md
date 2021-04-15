@@ -224,18 +224,18 @@ related:
         height: 419
         isCached: true
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
-    excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of"
-    publishedDateTime: 2021-04-15T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
+    excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
+    publishedDateTime: 2021-04-15T12:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-new-products-and-services-products-and-services-7a0f87067a3d0ff7e7f043004978618e"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 42
+      name: Associated Press
+      domain: apnews.com
+    quality: 44
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
     excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"

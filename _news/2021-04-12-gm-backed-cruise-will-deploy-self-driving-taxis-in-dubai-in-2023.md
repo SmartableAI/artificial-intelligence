@@ -1,34 +1,26 @@
 ---
 category: news
 title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
-excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE:GM), has signed a deal to bring autonomous taxis to Dubai in 2023. The deal between Cruise and the Dubai Roads and Transport Authority (RTA), announced at an ..."
-publishedDateTime: 2021-04-12T14:40:00Z
-originalUrl: "https://www.fool.com/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
-webUrl: "https://www.fool.com/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/gm-backed-cruise-will-deploy-self-driving-taxis-in/"
+excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous"
+publishedDateTime: 2021-04-12T16:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-10007367"
+webUrl: "https://markets.businessinsider.com/news/stocks/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-10007367"
 type: article
-quality: 89
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621218%2Fcruise_origin_dubai_041221.jpg&w=1200&op=resize"
-    width: 1200
-    height: 664
-    isCached: true
 
 related:
   - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
@@ -167,6 +159,6 @@ related:
       domain: nasdaq.com
     quality: 28
 
-secured: "qfJpcbvOS+nqVXr3+cghZnMML/bX5kaOTxHk94YGLM8iFNlMIQ16+hqagNSxeMQcCYTh0H0TWT0ISSamrK/m0b85TfsPblL1Z0XOdQ20xNea2JcPjXgZH1jkV88KvjP5uCZPwWUbs3HJlgIewoS/z7miNQzskTaCXNTu46Zv9fjJ+cC6/vlKlGnCsHgzrns9uSnpU4hgkJfO4+faNWvFr/jAtJCnXg3prwTB4c9EOTcUx/Vd4NnlVKtZmmOReM4qaPue7ZG/rilSyeDkr7efdYH8vHUC+S0FY+qH6OpvzR3ja0fzFV4bdkixMJPm33M3illFevyS5AwKE/GFKaqBJgf1H3RLltmBQzgvCz0Yu00E9kutqhArzurgutpLCRfNtfsQZEy66CCZnuMhFHEUQO+ZGEAAWwAWDo7WfrtD4PCvBifRna9l9z0vQUB9GgVJ+mdFCCoAjF+eY053p9CEpx/kPii8ih8hB0dhyvJElUKDs/eXToWkfl1LumcTN1b4rg9PVypHC285EEbe+Ohjiw==;0HBKUM9IJ0+L0XXWxoEm3w=="
+secured: "/jWm01Fgcp3Rfx5/KxHbpKDBs2zozxQKYEMPVgg7eQM1nHO74Bd3TRwQfiCC3uzMIYL5N2450xInJfvp1O0Xu5G7BwbgWwseKVjl6v8Ay6RJJOpqVMU3ppRhDElcaLVcjb8pbVCXKRURB5TTAEeugGXl7so16v83qCGHgYQttdHX1Q3gZLVMGgbbxqJAOIegUVqshuqmTvqiMgsasEFG/h9/b4i68I2XUBsTZELAIYxY7ksgeMfoq9KRfAVAP1+3z4ri1g/zkkdx+xe6ROVH1KTQOWyF34qkbkGinqLp3se8uBl39dIYQUmYPpjO5mwnx1cRsV4EpKtsUAo2u+yZEQ3C/TMK24k9+vnU8uLAYIg=;tttoMS6gTlg9sRckggoS7g=="
 ---
 

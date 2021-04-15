@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
     excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
     publishedDateTime: 2021-04-13T16:41:00Z

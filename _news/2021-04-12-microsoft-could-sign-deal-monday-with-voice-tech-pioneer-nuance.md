@@ -1459,20 +1459,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1533,6 +1519,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "Ll1GTKvGM2PcJWhUWybTTYqgZs3NdijrW6t9ylO9pTSczO3vB3+4mQEwl49x8cQS22Md/aOIjbtsHg6YuTkeJpwA3v7kp5jHeDAQHmT6ky7tTpbul9k9iRzjeRZiZWR6li8V/Hpb6/ZZfXrVawF+XARnEF8ftlekrUYSfydeUm74PrYZU5tAn0O47Gin/ORlRY5KCOLrw/A5V1D0f2aTkpCD89yw2fXu87Nt6Hurifbm+AqmHzuWKMIuQ/htOlZv8go1F9nSVUlpXENNKehRulgkoCnqX3muhMYkYYPWHMH/yvlApmRvfVmburoZqTnRRTxbeR+/l5DI+bHOSDNTINRiBp4/7TXtgAxLn8O1lgTLAz/wHWlNSpVkCRwbhB/rWFwvU8G9ewa1KyrvyYdf0unhJzt2gy72huRgZnin0hOOw8QuGLxUEkgojc/Kl0RCDwTCUMQM/c1eiF2IuMGK+oRXgkWFzZGzWCbfeJwWrnQCxsFBdYtRJXWf2yT0v1uhaj4hdxFl+gEw+e9a1eGE1g==;0fG6UQiPDHCLODGhgUft3g=="
 ---

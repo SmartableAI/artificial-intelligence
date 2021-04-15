@@ -39,7 +39,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Crate.io Launches Edge Database with the Power of CrateDB"
+    excerpt: "Crate.io, developer and supplier of CrateDB, is releasing CrateDB Edge, allowing Crate.io customers to capture and analyze data at the data source, regardless of geographical location or whether there is cloud or internet accessibility."
+    publishedDateTime: 2021-04-15T15:42:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Crateio-Launches-Edge-Database-with-the-Power-of-CrateDB-146340.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "BdhLoi7bzdKZVCLSvAWhTYBgMRzj9QEWRjDN8tVdxug6RMAEs1d2PUCmk/wZmadYY6dVqHLo7PTINLw2Wox+KHjU6pAu/S3NkP+1/fdPVWaTenhP1YHPZWov0pPpWfV1s6u3rDpAbpGrYPPtyg4lhWTXJAWUXLC2YKXy/nM2aIOBBtYYHDaLVype8I3W3x/CAbjdsqvqv8pMaEUSeqYob6tZPIG0O43xA0fl0nVUYQ3evzoyQxar+6t5/Bhz0TP4srkEqDjapXj9dk/Y8cui52sO3pPe5DGB6G/QBTdagJ0zgWInOKN7THf/93K6bBy/Q1FWTgVbw4U2WHu9hq2tIc4Q0LXpcor1WSZn5gnbN8M=;fOeGOzFugrTr9Bxogsv/mQ=="
+secured: "7wKswEFuXy5pevXqLWQOR0AemhpUC06eAIOd0t5tuH9Jr5yfA4deCdbSFeks5rlVVhLjPlmv45mM8VSKt+JbTZAI4OI6exsMQ9DRNPeBRpF88f/2UhKUJusVuXrLxtTcqBbpv7xhQDRP2g+xbjHf/Ckw9+DvUm3+knMHLBOCEvAH7ioY6E84QOpTLzFR5tY/lojoyYzYvNOMF4bsdDehJf3z+Qwf3X0Wq5h2RquWPTzKSTUe19um0a6mtx7mWZl28ouprvtJhZf0iZDxbokMCLq38eoislVIHR8qg0/Wndack4p2f0+nD3gMiAiDIJA215d68F4kG9TUVrZsGn9cZB6VDJZkI1cGSIjjMQHP2PI++gqGmDlea74IrWw3Z91OiAas43NhEfiZTzS1Z8Ikb5DzmFaqq+5A/+czLYshebHEmHwHzebf8gBcFPu4iEXEWOyrxl+aNTqOiBzsi82c5UNTuZP8df5VjaBcqohA4lACg3Ere2j+zlUv4isSLA1ncVaK71jTWkZX+qpEMaGhag==;m79TiZp378HtyS50m1HUmQ=="
 ---
 

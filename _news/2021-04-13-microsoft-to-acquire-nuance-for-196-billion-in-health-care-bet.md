@@ -1459,20 +1459,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1533,6 +1519,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "AM6vYKOBtiLaLSAHvMPJNn0ZxA2NQfIqQ8jnDtw24eeW8OUWdw0NMdxa0AZoPoujlf0ZDB0TbMOnzm0LHzMG9w4Tv3BigbtvW1N6TIB7MEB3oYZmgSd040H2i+5H0uvg/nJPzZrUImelOKbLMRdxCn1iKTRrum+uPDlZfZ9wAT5Se2bLUut+bbDrtLcAk6VHobDe8lZHvu3kp0ET7yTz16mVhv2KL5yLBtfVoZpfDwZmXO/8+2Pidqle6HrG1DKM4drkswdTEQn9i2nn8JKPgDseRo9gN7MCNlq0WvGZ3AuWzx5AyBDehwl4b/3uXQ2hHtiw2IANKnBORpy4qdy5XhPKm9mGdcZPuj7Rt7v2q5k=;MWkA9u5CIjDLfjb68kvQnA=="
 ---

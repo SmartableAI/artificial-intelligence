@@ -326,6 +326,20 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
+    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
+    publishedDateTime: 2021-04-15T15:33:00Z
+    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 30
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
     excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
     publishedDateTime: 2021-04-14T15:43:00Z

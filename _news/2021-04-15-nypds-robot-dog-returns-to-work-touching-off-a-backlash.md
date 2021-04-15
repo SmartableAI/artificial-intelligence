@@ -1,31 +1,35 @@
 ---
 category: news
-title: "NYPD’s Robot Dog Returns to Work, Touching Off a Backlash"
-excerpt: "The introduction of the robotic dog comes as law enforcement agencies across the country face intense scrutiny over their policies and practices, especially with the murder trial of the former Minneapolis police officer charged with killing George Floyd underway."
-publishedDateTime: 2021-04-15T12:27:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/nypds-robot-dog-returns-to-work-touching-off-a-backlash-6774111.html"
-webUrl: "https://www.moneycontrol.com/news/world/nypds-robot-dog-returns-to-work-touching-off-a-backlash-6774111.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/nypds-robot-dog-returns-to-work-touching-off-a-backlash-6774111.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/nypds-robot-dog-returns-to-work-touching-off-a-backlash-6774111.html/amp"
+title: "N.Y.P.D.’s Robot Dog Returns to Work, Touching Off a Backlash"
+excerpt: "Deployed at a public housing building, the device drew condemnation as a stark example of police power and misplaced priorities."
+publishedDateTime: 2021-04-14T23:12:00Z
+originalUrl: "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html"
+webUrl: "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2018/01/RTX472X6-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
+  - url: "https://static01.nyt.com/images/2021/04/14/nyregion/14nyrobotdog/14nyrobotdog-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
-secured: "H8GZjuJZytDFIwEEUkArN7pL+uEzSxc/wVbpEPyivt20sCqSWFdUj5kfzdeTwe5r2Wur0saGXL4VzVxiDXdIM86kb2LTDTD82CY/HIhWdAfd7hEXMob/WX9JRHJkKLRvlmFTH8ji35eKInomqtxHZ0wJjPCdGhh7bUR6X+SDlj5J3q6HVxEtX38yvyB65p9VT55uXb4AS9F4VlUNkJIZZabalhYz03AfrKVwOxFrCiRwR+IGsbh+wteplARUdcHDyR64OZ+GxvByqxzwEfziugycfKlSvkN6djOMSmc/wdM6TjLTUM9xbKuiVNr7P6sfD3jJGWeSvAV6K/lvhilm3hFqOqnG5PRpISJlcaRjpUc=;LtTzjbPNu1hzyA+nXxdnpQ=="
+secured: "bEXdTPwxqM9t2lf6LdaWY/k+UW3jdkW0201sgeGGSsJhJVuh4XOhBuoiKE5WsMHQPY3a/SwvriUDC9c1GS2I/bkqLmZliSzq44c6+axe8H8wR/+UJEapr9pxZjpylZn6EK+IFrT5z/czZi9l366O//HD/28ZuObbyGLYLCVMS3/j8ge1MjrDEuN+YWy9ne6MwjjhM4RJmPb8MEyFkSmm3J/4Vl3MCQYI/Y1Npkl6h7ZPlzUJl0rfUhJW6zi6xEgZGFXs/+1d3T/3RiLMmWhcqoTo1Uj/lL45C9WSmF9/CfwCujXP+leEmlQyp2OSxCIV+vTTWt8jNiJcZsSjbXam0A7osgsu4t/cuPaa6C8O2zA=;YnfG8yOXMcJT/Jr1pKL/Jw=="
 ---
 

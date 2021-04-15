@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
-excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of"
-publishedDateTime: 2021-04-15T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
-webUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
+excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
+publishedDateTime: 2021-04-15T12:08:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-new-products-and-services-products-and-services-7a0f87067a3d0ff7e7f043004978618e"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-new-products-and-services-products-and-services-7a0f87067a3d0ff7e7f043004978618e"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -443,6 +444,6 @@ related:
         height: 393
         isCached: true
 
-secured: "SWvPirO/2bOPnIwJYArIYuFvGNOilflgDz0BDaKlKRpv3tZGDh9UwErEEMB45hdNHaRh0Y1ehk/Wfp0l9KfaDOr3bgL3NwrkY1RCSPOQdcqnV6+1ZE/vSVxWztrVavH4ajAwDVLJjMtSf8RZc2rnPUq+0MflTMJ4ySyVNUTAXw2r9ds4dXJbGyLHseN3t4EYDVAtUpSJDsf8oaTtHdpLOugWyqsnfYwT4OVvrpFcJM7n1SatZdmOz23eNguZiEoOJ5ADmNom7ihJGr27TUcJPHA3PkXkMz7JsZHHwElIr9fU8EPlG5YHY+P1T5Gwg1m5kET4GlJeJeF5Z5bUUdImQOzcUCyBI76XQD2N5zfAKRU=;tKT240RbWDCl213dmAWzmg=="
+secured: "9Ui+X8bigk8qsl+9zoDu49siDUsrPCV09vkJkXTHzo7/VgnnFg8GAORTb7d4xlFq9vnp1ujWwN7v9netJjmPp+wRH4/vV3tZLPxgA79C1/YTOKaRdmeJs8Th0u8Ot0uMsU3yFWDSq4eq673RmXwXpOtYl9hMQ9L4hw3lCVSSSEVazYaEErDIkP/pbS4DllDYKP+SINxQ/R60bOtSUrFILZfmXlV18xNapMx6zG1iZdHy7R+/Eso0NBQLW2GLwg//PA/2UPT/QPhS/F3jQSmMrejegHcdlAtfEo1L0cAi41ZmYGiGLoWyFmSwBCT6eFgGDmGHBQ79LIbkRv2+Z7gdLT+BuxAMbnhs/5LPZADPS7w=;rlSjZCKRW17J6NtcHz/3Qw=="
 ---
 

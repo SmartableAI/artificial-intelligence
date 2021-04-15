@@ -1472,20 +1472,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft – Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Another area where conversational AI is gaining traction is in sales management ... too. Speaking at a recent Fintech Zoom CIO Summit, Harry Moseley, the global CIO of Zoom, noted that the pandemic will inevitably have made workers much more wary of ..."
     publishedDateTime: 2021-04-12T22:07:00Z
@@ -1532,6 +1518,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "56gju+TGLRFeYNR6T7M5OO5LrND+R/ZA+0YVcVjHPscDdMroWUQJbrRuVb/9S0Pbxbh7Ip1y6e5I6DgbGpZrG7LJ+gMIBSe6U15vel5+QjaTDwmgwoPm9xFSmCtDHRFgdRRAml6AQC5L3ZYnX9onpHIdWgV5K2jNInbA91ArG7TjwEha9XHcZfcBHsNgZDhB6KD37u8byr/cwcRdexsh15nsVJhNZdOuhbHwamHnFBC56nstB3tcL98dqdmrWAcSkx52MpSgm2+CiLP50z6xen7v2qIDD4FjW891ElQPQKs4XQzgsO7nNRreyhAPFLlEqfQQ0AVtBEUUaoB/607oPSJY4H0wyQeC1LBNm5LCSNY=;Ooitcca4WcrcsX3GHxRwzQ=="
 ---

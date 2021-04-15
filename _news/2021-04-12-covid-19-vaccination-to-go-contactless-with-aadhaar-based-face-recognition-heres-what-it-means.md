@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/india-news-covid-19-vaccina
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/india-news-covid-19-vaccination-to-go-contactless-with-aadhaar-based-face-recognition-heres-what-it-means/380031"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 impact: It’s a rough ride ahead for Cognitive Cloud Computing Market"
-    excerpt: "Recent Advances in the Market According to a recent report by Research Dive, the most significant players of the global cognitive cloud computing market players include SparkCognition, CognitiveScale, Microsoft ... its managed services portfolio and ..."
-    publishedDateTime: 2021-04-14T09:55:00Z
-    webUrl: "https://www.openpr.com/news/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
-    ampWebUrl: "https://www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+  - title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
+    excerpt: "Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres,"
+    publishedDateTime: 2021-04-15T14:06:00Z
+    webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+  - title: "Social wasps lose face recognition abilities in isolation"
+    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
+    publishedDateTime: 2021-04-14T17:29:00Z
+    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
+    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/4/U414987465_g.jpg"
-        width: 720
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
+        width: 900
+        height: 1035
+        isCached: true
+  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
+    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
+    publishedDateTime: 2021-04-15T12:46:00Z
+    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
+    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
+    publishedDateTime: 2021-04-13T22:23:00Z
+    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
+    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
+        width: 880
+        height: 542
         isCached: true
 
 secured: "NXf8L0PtuS63FhlJqpa0rlQJIwbJ00osI+FBDvZLmjBLw017mV9xKW8niPI0Hz2ZV9qubbyD68BCD2g387Rm0E3HlICBiQSCvEY+fjLnxbqrfRBVamd5dcjl5dU7ib/gV8dwOY7ZboKl/rALTPavKblVkAcgC4bH4avmsW5jvq3M4E5VBFkCwjyB2k06Jq/v9yckyW0m61GhPqMeBqh1YHTYg1oo2hFygnA1o2f8Gwb8u5TDMQz450twqs79C3TmH1TeJ9uedLHeAU6NyK9ko8m3L7fTW5vnr6yQcLteZ2ZepxmqdQ6p7n8CKj4tKN2HaFKBo9SvvlYT3YCLkdAUo1jbqjIlI0ebnWY3xZj4910=;pnM4ccU4GmQpAXOIHs0KXg=="

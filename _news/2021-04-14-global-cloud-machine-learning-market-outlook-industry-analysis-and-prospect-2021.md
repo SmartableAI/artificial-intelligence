@@ -29,17 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Chipset Market Pin-Point Analysis and USD 30,559.2 Mn Return On Investment (ROI) Report 2022-2031"
-    excerpt: "Pune, India, April 14, 2021 (Wiredrelease) Prudour Pvt. Ltd: Market.us research recently promoted a report on Deep Learning Chipset Market Application Statistics 2021| Structure Forecast 2031. The worldwide market for Deep Learning Chipset Market is ..."
-    publishedDateTime: 2021-04-14T11:43:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/global-deep-learning-chipset-market-pin-point-analysis-and-usd-30-559-2-mn-return/article_08526f72-9ae6-5553-af6c-362632ac542b.html"
+  - title: "Asia-Pacific Machine Learning Market Strategy, Applications Analysis and Growth Forecast to 2021 -2023"
+    excerpt: "The value of the machine learning market in Asia-Pacific is expected to reach USD 10.00 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 51.3% during 2018-2023 .Machine learning the ability of computers to learn through experiences to improve their performance."
+    publishedDateTime: 2021-04-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-strategy-applications-analysis-and-growth-forecast-to-2021--2023-2021-04-15"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

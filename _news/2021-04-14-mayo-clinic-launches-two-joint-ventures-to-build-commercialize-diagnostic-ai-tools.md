@@ -38,6 +38,20 @@ related:
         width: 625
         height: 350
         isCached: true
+  - title: "Heralding a 'societal transformation' in health care, Mayo Clinic launches two companies to harness patient data"
+    excerpt: "Mayo Clinic is forming a pair of companies to collect and analyze data from remote monitoring devices and diagnostic tools, a move that comes as part of a broader bid to harness patient data to deliver continuous care guided by artificial intelligence."
+    publishedDateTime: 2021-04-15T15:34:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/heralding-societal-transformation-health-care-mayo-clinic-launches-two-companies-harness"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 3
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo-1.png"
+        width: 1310
+        height: 538
+        isCached: true
 
 secured: "SxC2/UVbOLznhBZY/CGs25Sn1jBfNBMgNTAHYAsJkd0gyLsCAAtG0u3nuMhCg1NipQTQ9gLO07s1y2cSQeyPSDQTSx1HE6UxsaqdhlIG1SHIAAr+pRXOAVzF7YDIQBeK7INozJQg+2YFF3FFrfvny6ARVSOkUgk0+/BHNSq2Oxyo4Ja5zRsg/oybeOWM4uwor6ri9Uz98mvugfo4vYJydXgUT3iUyj+/7eSNSZPkIrHKz9bI/Y+dERJMbw8aftYXakFNMLHzPphMo92V1NAO18QgMktDFcrwUOKYOAoFNCsyGpt7OrpZNrIHhoWvtk0Dorx+ObZrEAe6UMiR+mfIBrvqJyVGXGeoRL6RKYE4H/s=;2vUjKwN/C6nWnqJRt9GUIw=="
 ---

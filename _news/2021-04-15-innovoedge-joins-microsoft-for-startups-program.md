@@ -1,28 +1,22 @@
 ---
 category: news
 title: "InnovoEdge Joins Microsoft for Startups Program"
-excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
+excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
 publishedDateTime: 2021-04-15T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
@@ -1533,6 +1527,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "XF+4sW6XDVQkPTDklvlJmXdwTabiwdIfyOuIBvOO+LgIFm8wTTz1BHhgoxhT5AGieGPCCjGvK8m47QZ1gLqbSQUHTzlqycFJum26aj1Xh9LMYF9ODP3Kto4+QvhEtgIT0siiKihjspuZASkd+zK8zBDIkqVZU9Rdm3LOw9qhKzLvKBPS0tgap1bUBhspFum0gFh+gK/Ekjkk8uSeMYBQXGKZYKpSo7pmDBct77McTSamsR04NwSTly2RzACfibJZw4+f3XIbsnAwbqXZ1KMMEC6w1ltAzpzoY/C+MsxzQa/kStujR0VZWEYGmyKS2I+ryhrLUe0ZlaMI2PplVZdmlJGsu51l5YIyZecP9Vfa/uI=;xyYm5WCIcsbpgtnT6zgX9w=="
+secured: "jpC5l4oACw2h0YYSA8nDwkS25VBJ4PfjBlCokNIaiykHUta6ffvEjyKPCH6TE0+4JGr6xLR6m8ivSSde/wcTEPrBoVAIGs53u5CCHDEZSJGySIDTyQC1wgg94EOuy9f5PTIDCIChNFMGQ5woLNR1sXvwQDnwpbvd0UO87xYPvA8DmrmP0OR+7XeU5bKaaj34ONoSH9lSGu/d4V9nYX8ZjzjljYTaly5f3iSskML3TqtfNYRNTtyUCpcWrVaaN43hxWp09PhWQWcSTVEUqdipwKtOF4nV+rvRXkrO+Z3WRyMHzuuc2DjPXcBGPFnTam263CovujOwaewKYnsNYVN+2DIm+3idJJJC16v5ebCVlN4=;h/wHIljcinscm2c3v6uAjg=="
 ---
 

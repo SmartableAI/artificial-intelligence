@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Synopsys AI-Driven Design System Enables Renesas to Achieve Breakthrough in Productivity"
-excerpt: "Synopsys collaborates with Renesas to introduce DSO.ai design system to advanced automotive chip design Innovative"
-publishedDateTime: 2021-04-15T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-301269870.html"
-webUrl: "https://www.prnewswire.com/news-releases/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-301269870.html"
+excerpt: "Highlights: Synopsys collaborates with Renesas to introduce DSO.ai design system to advanced automotive chip design ; Innovati"
+publishedDateTime: 2021-04-15T13:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-1030308580"
+webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-1030308580"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "syA5gZ+eCtAEvoa8kUJgOqSMyWiWVe2q4RWCjCyAaDweEe8juOKuv/zdlPROWGkG+sn2AYCm/ggWeY/7vcnYbVlUl4HnR/gVGRD9jd15YEemn2DGNxoDzcnJC6rSIsaM41jv+5WbOjsHGNbqCxFyOffrxIygx5NK0O23SLhMsruz4n++k/TkzQjVzbfiQJzswmr2q8YGtJbaRdNqvYrfSxXyvwy0sda9UgdjxaYvaganBPAAS+WOKu7q+mKf6gGVAvapivIp+7+9UAx6RtC9RRF1CDyBw3pQvgYdwLNlj2xE75+1lnzakYFENoOPzSSoa7oyjmJjYlg0C16+PY/4ek7KOj9AJiQQrY/OqN3A9iY=;OwueL9DuKPVrZEvJOd1a3w=="
+secured: "rHcF3WFhSCVcNCpoU5h3q3T1fDnN+M1KYn2/q5OSvwd0o860aEeMELWbbNa2O3GomHyS2A86axpAtpg03FywRgyp+MfybyuEhIerAf+x/6L7tADmjDRdrpVoOVL3bPrJytIuXQYiqOQWCXZUg+HwhVyUmAnOlyA+5EYFvKb1wT4yzeqg9dS9JAYz/cZg0mj3d4LGTQprRO9QN+hxDhqIBL8whr+Lv2Kn1Jj2BwoGYFIce5pCAzNN+4szR5UOeAwM7SoEzZOIBfOYJfD6aq3cA+0w1IkYV7dzW+634DCZoPja1opGiclurYtIvG7SjQxaYL82avCdpSS+iucWxl7alJYNMyVPE9mwKJtzcXJft1E=;XvBZDiQ5UuriBlMRVq3W8Q=="
 ---
 
