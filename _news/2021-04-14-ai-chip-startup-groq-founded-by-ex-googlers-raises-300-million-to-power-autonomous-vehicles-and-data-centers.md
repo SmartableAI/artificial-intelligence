@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq"
+    excerpt: "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ..."
+    publishedDateTime: 2021-04-14T22:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI chipmaker Groq raises $300M in Series C round"
     excerpt: "Artificial intelligence and machine learning chip startup Groq Inc. said today it has raised $300 million in a new round of funding that brings its total amount raised to $367 million. The Series C round was co-led by Tiger Global Management and D1 Capital,"
     publishedDateTime: 2021-04-14T13:00:00Z

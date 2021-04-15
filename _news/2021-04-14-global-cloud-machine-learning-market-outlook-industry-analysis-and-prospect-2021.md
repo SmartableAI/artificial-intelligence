@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning System Market Size, Application, Analysis, Regional Outlook, Competitive Strategies and Forecasts 2020 – 2028"
-    excerpt: "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost."
-    publishedDateTime: 2021-04-10T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-application-analysis-regional-outlook-competitive-strategies-and-forecasts-2020-2028-2021-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
     excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
     publishedDateTime: 2021-04-14T17:06:00Z

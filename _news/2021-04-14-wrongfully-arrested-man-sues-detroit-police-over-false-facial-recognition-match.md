@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
-excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
-publishedDateTime: 2021-04-13T23:25:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
+title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the technology’s risk ..."
+publishedDateTime: 2021-04-13T22:00:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
 type: article
-quality: 55
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
@@ -367,6 +361,6 @@ related:
         height: 628
         isCached: true
 
-secured: "nuBot51VHkes1+IVDF9x4HLyNc7C2CJD2kIFDYJS877rE7SrTXR0oJx3oDEQZZ+M3y68EGDEWoojeThiiOUFYg8AnouQ3msYgwJAxn2KzCUFooBdQBqZDza9SLEZJoi9IReLIW3LoU7twHL2NWNmNyxOJDxbpXYiDTp9YsB4BSgS3KzcMkpqvtzB8kCgiAQCAjI8vHn2dlaHMjBq1bP8XiMS5I6oD6qefYWoMlnsIOGXmYgEJTMr+7XbpsbKvgl3kshR7LvugxCHNSgqKvkgVWVelS5AGnYUakpUPXjL9Bh6/8npYj8OOSqKD1z8ExuC6ci4JRrh6dbf+miV+ONF8a2IlWOH1FM1p2rJpMlWiYE=;wS2HzoIpMUuaQ8SIgJEMOA=="
+secured: "KK1susG2KMsz4QvagwzDOQXNDRZfEUWjpHKsN+9Eykr5MDRqBjnjRracdcDp5wL7EQAoSqli01wdl0Io/Xv8XOrCie1CAd+8y5wda3gnGmHB28mXztLbh30FhUooljThfcpKQLb3QVqCA3ryXX5c4vKwp0t5XDea7+sNFumEV9iDjMcrWaWsQx8MT8BBD2at/zxD7I9xMvg0YdDuHzD6BiK9QIg6xMP9K2L/dic6RY09esdHNZ3ZsdkAeOg9tNzW5qpXHtNjkxkQF3dA2YixxuRzwX9+4opli3F/jiZhezuTJI2ucZ+O9oWXwCdubXdYLBZWALKmErEvg+VbbUrOiIGWGQKKBLg5uNFcf1aU3GJ5mmhHulHtmUo1ERon20Hmk0k3KMAycQsvUTlEwmo45PiiXdN66R9/TrSDMZpHbLaVA4yLVyYYdBt/9XR9YInCRJSoDF4vxBryICeNHqJ5zI+m5rPkcsMd3s919tMJ64aM4GoGgUwgeio3hj9eWlaSVMqtp2Y9FdzMe9bcr4C7Kw==;hMYRB+p+Lrp94E3kyDV6Yw=="
 ---
 

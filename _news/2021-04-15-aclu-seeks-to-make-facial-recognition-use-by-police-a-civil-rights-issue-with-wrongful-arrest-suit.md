@@ -121,22 +121,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T23:25:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Black Michigan man sues police after grainy facial recognition system mistakenly identified him as a shoplifter"
     excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
     publishedDateTime: 2021-04-13T21:35:00Z
@@ -329,6 +313,17 @@ related:
         width: 720
         height: 360
         isCached: true
+  - title: "Wrongfully arrested man sues Detroit police over false facial-recognition match"
+    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software, one of the first lawsuits of its kind to call into question the technology’s risk ..."
+    publishedDateTime: 2021-04-13T22:00:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
   - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
     excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
     publishedDateTime: 2021-04-14T15:43:00Z
@@ -367,6 +362,6 @@ related:
         height: 628
         isCached: true
 
-secured: "so95Sfhb8AWuDCMsIly57B/5YWkTkuGmirrKD0rE/GarHuyIZIoiNmmV5uj1tBHWowmKl/SHhepNYkRbp/PPb+fmu0FLDuXCvJ53XnIkmukLvGN6QicbURO6YtCmtCmuKqMv937bQe47oxdjnHVFtuT9o3834/kuXwxkKi6XKlC582osfAkViJyU+Ja9gQDFoqTEa7dzeznRs0dP+3CRzazzzH4VlM8xgTMukXe97kHQzt99MvlcVh4zGvuTN5lgaDO2/F+TN3tpOK6YpEZMcDiceyy5Hcy6Dg+EceuOX261O8jsPcAsd+Y6SvDyC1xUsb6bS+mk3f3kMO87uqy2i8usg2w60LEMtDoXV3iOzFo=;eSOjUYeKVbGkz4T4WbEe6Q=="
+secured: "8QGBZRe+mFy0OaOfmkpZnTxoX6BO9HWOi73d7fVs+S1ThrHNdlCsF8uS4wOsG2MTboQRjI6mbEBXg2EJ9RxccodrOzhrhgGhlc1g7E0WHG7RIeKKp4eF4ip9GcnQ7GJGyUd0zrP7ZktXMXBBQEcKtFM2apswTuYXopyqpQkShc970y0OYiTpl24tDfRRZseJQ3TKIn6AI5JDPGnfHnsRI/dfJQskWm0Lm36XS8EWE9otlo6FmGtmBkDrpd7bVrawXeotK1Sdp4Sh6N4JU1XK8+gly7g2fGtI/58sAxUub2FHXP8V+sjDR+heudT0a6SdLoF8zB5HEwSBhovWcIp6x/R5r83CmOzGsGoAFkCwcLkwc+fwoqTvoxsaEhSekVEpqHxBEMpaROAZbWPIK9llX6GsmQ9qln0eQaVSoura+6Agd33G1IeHQSv9Pdmt/pNHWzdNG8QUFF3bbCGBlXKYMqpQbU4llLmJ6nsntdkaMAgImWD8pLvAGLPo+j5MLr/Ot06Wzz+B2e5gtgatgup8wQ==;xVCqANezFy5OaSelwy1ggg=="
 ---
 

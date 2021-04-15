@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Leveraging AI tools to drive operational efficiency and promote brand"
-    excerpt: "“In the past, the only information a computer had about an image was text-based,” she explained, “but in recent years, AI has begun to analyze and understand the image content. Because of that, we can start to embed related concepts, related ..."
-    publishedDateTime: 2021-04-11T14:46:00Z
-    webUrl: "https://www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773"
-    ampWebUrl: "https://www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/leveraging-ai-tools-to-drive-operational-efficiency-and-promote-brand-2/117773?amp=1"
+  - title: "New Deep Learning AI Tool Can Revolutionize Microscopy"
+    excerpt: "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,"
+    publishedDateTime: 2021-04-14T23:26:00Z
+    webUrl: "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/"
+    ampWebUrl: "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 57
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 74
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/04/GettyImages-1176067266-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://scitechdaily.com/images/Neural-Network-Used-to-Retrieve-Information-From-Microscope-Image-777x777.jpg"
+        width: 777
+        height: 777
         isCached: true
 
 secured: "EekfEssquoop2rcpMJP+MQ2Fm4Moy4r2svupvb36zCOupr3fGHMGi8wdyJtL1i47Xk5ZrxQ8vWsXRzQP+7jdvh1K4LR54znZOhaCzn4FuXgdzVMG/S5GaiyY0QgtfcONiQ6+vig/SHDkaPamOYMViUimeac9HvmN7a6Pq1juLwEAapL4isbdKFVBleH33xyfAnC2OE48D+CEvs6zSoxZRBg6i57yITycQH+ByNdZ19PtwN0jW4p9FRsl+6XoEs/NYj4AglVB937w/Wf5PWKEwEErOhv+Y6gfzWJ8Kt2EKP1aZ2ePaFEC+6m/W7rxVzaxLs1UuKb8Ri8e88oXFGIxU+mdFWvUSA5t6FZLSWeTy0s=;MIO4iIZaTp5Vc5Yy6zJbwQ=="

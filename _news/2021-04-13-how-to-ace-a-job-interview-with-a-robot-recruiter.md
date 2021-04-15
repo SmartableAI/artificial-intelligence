@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

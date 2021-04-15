@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
 type: article
 quality: 89
-heat: 111
+heat: 109
 published: true
 
 provider:

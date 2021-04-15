@@ -41,6 +41,20 @@ related:
         width: 841
         height: 641
         isCached: true
+  - title: "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq"
+    excerpt: "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ..."
+    publishedDateTime: 2021-04-14T22:52:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI Computer Chip Biz Groq Closes $300M Series C"
     excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
     publishedDateTime: 2021-04-14T18:15:00Z
