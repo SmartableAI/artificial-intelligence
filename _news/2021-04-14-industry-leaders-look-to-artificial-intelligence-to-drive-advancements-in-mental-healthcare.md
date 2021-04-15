@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-publishedDateTime: 2021-04-14T05:57:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+excerpt: "One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI). Artificial Intelligence (AI) is a powerful and disruptive force driving introduction and deployment of more ..."
+publishedDateTime: 2021-04-14T13:00:00Z
+originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+    width: 845
+    height: 396
+    isCached: true
 
 related:
   - title: "New Advancements in AI are Changing Healthcare as We Know It"
@@ -49,7 +55,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Produce and the advancement of AI in the Roaring 20s"
+    excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
+    publishedDateTime: 2021-04-15T16:27:00Z
+    webUrl: "https://www.thepacker.com/news/industry/produce-and-advancement-ai-roaring-20s"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 17
 
-secured: "Z7QmhiajA+mB/VhMddJYei0MkTvIZX7qSBBsjDXfsIosoalQ0BDB0gv2u5dwRZc5B3ndLD3d4AB/28h7xQJRwH/X8KxTJ8hgxM7rEcmk5Q8TmOHeEUle51ewtLgCuHREpPBXJz6WOzlrY4VzVQodX3WefTNUTQ0nZcC8EBGH+DOxFFETE05TLykQdVrRb8Ky+/7irnu4tprQkWFyti+MxbiBl6PrQA6KUM0e9yPMRsltom7ZAX9j1h5cKNIodRsBM8XKasfltsMVXLKwJyP3D79iZCPZR4OhLWj9tPpcbmMdx7IWlGz8v+auqsaVLYK80PDDnXkTKtBwvJBP2ePRJcnxqCYp3Bvdwy5ZnT5cziE=;Ue45SQNPPHPBq/1uOlwZIQ=="
+secured: "/RaUZHAFErTyCb0wFpTFfrEtEDQXXW4mJKV3TVMkBWeTmXWQpnOaiU16E1ImSHjC8EuZoyec8cTjepwC9CUsAS4355wRzSdrUI+wGJSvWWxIvIpAlkWv6DzSLu2LSfZ9RhaHYSzYXnn1hIp99+bsOBLHHDOQjaAS5hKLUvJE3z7SINAmY980r8RGlzXcLG/6DQqn6uq6fesxXH4M4Xo4BtiwKXghM9DzbcKSEtv32kgV4JatixQnZzZIFhNFrjblDQxl2SaoKNBu5JJcj6ZTNPfbfBaW5B5VimA8l09skxHRSz7CwGGoQs54sEj3h2TCG7A4Kc/cZV2lq8JriZIbL1MbJkVtrq7F0XWdq8VkyN0=;fMxTghPh8sFJpGC1J1MskA=="
 ---
 

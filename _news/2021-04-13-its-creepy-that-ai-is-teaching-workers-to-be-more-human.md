@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This startup wants to use AI to boost Black-owned businesses, and it’s raising money to do it."
-    excerpt: "The local entrepreneur behind Woodbridge startup Minwo, which works to meet the needs of Black-owned businesses, is setting out to raise new funding. The long game? Help close the racial wealth gap."
-    publishedDateTime: 2021-04-12T19:16:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/04/12/minwo-wants-to-boost-black-businesses-with-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "BCuDm1+GKiZ11B3+F5nX2BGTk0K3ZWrjIrwtvf8hy5VrQ6Qkig0bTlgSJjIsbiq2fG/jSc1vf80ymtCxH65UzFfYmgJWobX3YG37NTPanE1SuYefimOuc/cX9Ov+G/o41mEjAsQ7RpdiLg69OiP5zsRQ7QOXYOrHTJnicXa6yP3p6VRmoBdHBF+tIjsL7tq7hwMm+ZNcs8SKOqOSLkL+UVll5OEOJXn1MqNnpUso3jjZfAK+G/sCIr4Fr+VclZCqwLvYX/urK6h7qjGi2vfo5VVte2oWbKj2/U6U+TKuazdAoPi/3RYZ3xlK4lCw7x+DL5GkcHUNzGp13Qpz8x0AwsW7CY+u4UeAtHGlyBSpjiaC1apsYtKlTQFYNus+i1lvVGL+Vsjk/5bpLliNZStn/ZMxzrPOH+WSWxR3b1Y1EwuCKWpJEPlT11mjfT1yUymvG6jqjqdsQ6VMDUZcnZWrr6Fk3Xo2CZ7Zo+no0s15pxk8hgOboUoUjawjev3vrhjIN+mhKYCJCGok8S9OyavAFQ==;LNpSRtJDhlCVLwrSyZXSUw=="
 ---

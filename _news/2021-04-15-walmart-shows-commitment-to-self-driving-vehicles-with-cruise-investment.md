@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart invests in self-driving startup Cruise"
+    excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
     excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
     publishedDateTime: 2021-04-15T14:56:00Z

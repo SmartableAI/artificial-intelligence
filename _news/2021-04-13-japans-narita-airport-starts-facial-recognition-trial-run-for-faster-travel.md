@@ -41,22 +41,6 @@ related:
         width: 747
         height: 412
         isCached: true
-  - title: "EDITORIAL: Facial recognition ban is a good start"
-    excerpt: "The General Assembly overwhelmingly passed a bipartisan bill patroned by Del. Lashrecse Aird, D-Petersburg, that bans the use of facial recognition software by law enforcement and campus police agenci"
-    publishedDateTime: 2021-04-11T01:05:00Z
-    webUrl: "https://fredericksburg.com/opinion/editorial-facial-recognition-ban-is-a-good-start/article_bcfa93bb-c5a8-5a58-9b7c-0f751b9c1abf.html"
-    ampWebUrl: "https://fredericksburg.com/opinion/editorial-facial-recognition-ban-is-a-good-start/article_bcfa93bb-c5a8-5a58-9b7c-0f751b9c1abf.amp.html"
-    cdnAmpWebUrl: "https://fredericksburg-com.cdn.ampproject.org/c/s/fredericksburg.com/opinion/editorial-facial-recognition-ban-is-a-good-start/article_bcfa93bb-c5a8-5a58-9b7c-0f751b9c1abf.amp.html"
-    type: article
-    provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/0/b9/0b97a8aa-d12b-5a1f-99f8-87804f5bd249/6070d92adac3f.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facial recognition tech being tested for US flights"
     excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
     publishedDateTime: 2021-04-13T18:15:00Z

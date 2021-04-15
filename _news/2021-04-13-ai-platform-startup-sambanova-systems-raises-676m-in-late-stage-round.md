@@ -119,6 +119,20 @@ related:
         width: 1365
         height: 768
         isCached: true
+  - title: "AI chip companies SambaNova and Groq raise $676m and $300m respectively"
+    excerpt: "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn."
+    publishedDateTime: 2021-04-15T18:32:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg"
+        width: 877
+        height: 461
+        isCached: true
   - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
     excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
     publishedDateTime: 2021-04-14T08:27:00Z

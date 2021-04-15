@@ -71,19 +71,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
-    excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
-    publishedDateTime: 2021-04-14T10:42:00Z
-    webUrl: "https://www.gizmochina.com/2021/04/14/huawei-invest-1-billion-electric-vehicle-self-driving-tech/"
+  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
+    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
+    publishedDateTime: 2021-04-15T18:57:00Z
+    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
+    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 44
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/Huawei-Logo-MWC-2019.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
+        width: 652
+        height: 367
         isCached: true
   - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
     excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
@@ -110,6 +112,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
+    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/walmart-invests-in-gm-s-self-driving-car-co-cruise-1030310058"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
     publishedDateTime: 2021-04-13T12:48:00Z
@@ -125,20 +136,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
         isCached: true
 
 secured: "qA6FQaj6j9yGT6dQiuTZXtCFGwJcp+RLok5+6gAu8Q3agltVtxyLrtIuCMOY3gO0HUhSwGbFdX6MjnjOXFverX+VhGcaSSzzz7hm0J8wcd8dvtmDtTHWgEbKEvTygXdbAU39cfdV4qiCthozBepUFFCH1z5lvnDDJh7n7jhsQsAcfkNx1YuHOivGHyPG1x+xVMnn5/Vzo+pHvCISN2zBPKl/JIoVMll8PXAdSynuqikUmIjgzsbCktU/QJ47e/dEpfvtiChIBdTFDGY44CNGTccd3UbEKqwJ14Q9cs3KC0j+utC33hkEAHc13tAYD3C18tzN+hHS6HGTP3ehWiqt3TvTfflFJ1q5QTnn54GOHruUe72Av6TOoNHWKdCU2DGX1i8zrdXVp66Cbdydw3Fq3yLPekMod/tF/pibVJgzYgTrqQt66eLp2zJxv8TZFJwQG6CLEQTkrViJJM8rECcbItsN4lglOvZWFYmIluli2ps4OzcELK2rrnhRrm53Dd1LVz2eu4rdLgVv7UfV7EKrjA==;Bze5XtPvZuQs5oBwZ5qCMw=="

@@ -4,34 +4,34 @@
     {
       "path": "_news/2021-04-15-fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition.md",
       "title": "Fears of vaccine exclusion as India uses digital ID, facial recognition",
-      "excerpt": "Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres,",
+      "excerpt": "(Thomson Reuters Foundation) - Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres, rights groups and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/",
-      "originalUrl": "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/",
+      "webUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
+      "originalUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/2021-04-15T101154Z_1_LYNXMPEH3E0KY_RTROPTP_4_HEALTH-CORONAVIRUS-INDIA-VACCINE.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/",
-      "publishedDateTime": "2021-04-15T09:36:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C217V",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V",
+      "publishedDateTime": "2021-04-15T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -359,7 +359,7 @@
       "originalUrl": "https://www.thejakartapost.com/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

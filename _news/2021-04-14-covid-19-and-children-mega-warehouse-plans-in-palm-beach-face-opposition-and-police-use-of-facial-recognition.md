@@ -28,21 +28,16 @@ images:
 
 related:
   - title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
-    excerpt: "Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres,"
-    publishedDateTime: 2021-04-15T16:36:00Z
-    webUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+    excerpt: "(Thomson Reuters Foundation) - Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres, rights groups and ..."
+    publishedDateTime: 2021-04-15T14:06:00Z
+    webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/2021-04-15T101154Z_1_LYNXMPEH3E0KY_RTROPTP_4_HEALTH-CORONAVIRUS-INDIA-VACCINE.jpg"
-        width: 750
-        height: 500
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "Social wasps lose face recognition abilities in isolation"
     excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
     publishedDateTime: 2021-04-14T17:29:00Z

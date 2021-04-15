@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/unders
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "This startup wants to use AI to boost Black-owned businesses, and it’s raising money to do it."
-    excerpt: "The local entrepreneur behind Woodbridge startup Minwo, which works to meet the needs of Black-owned businesses, is setting out to raise new funding. The long game? Help close the racial wealth gap."
-    publishedDateTime: 2021-04-12T19:16:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/04/12/minwo-wants-to-boost-black-businesses-with-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "AKxGCRRZngGFhpWs3BUoB4Lx3uE9XWHatcwdvYmc5vJCaxMQz2e2tiHy4zPT7DDgteAz/XGr+ujgxgJsHs8WJ0F98iTPG+viqW4Wk6NbbWq6xs+5m6Gz/jNrxQvH/yc7/ZnVF3yxZXqrKW9L5SfluupR0T4mwhu/8kRWEYebvaLFjN7TuAQ9Wznkc0XERTzU2iOPKYwcFh1G86b2NmDsEXh0iIV7Zc5kCbpRPT40+WcGip3hqYoHjVSkOjQbi3MtGn8OjhJu8oI4JSw64rfHrxGz00AUPvD7g62KQm69BBThxa8AEtCfV3ysKxI7fbk7o3BJKE2KudTMwNf/IH0H/M4U0QAVx5W+3Bl3Kz6An0Y=;UpQqAPVnbEkfe5/tpxjM5A=="
 ---

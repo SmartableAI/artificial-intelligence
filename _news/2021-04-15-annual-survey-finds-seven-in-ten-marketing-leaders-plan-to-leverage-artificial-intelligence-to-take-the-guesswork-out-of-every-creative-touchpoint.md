@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Annual Survey Finds Seven in Ten Marketing Leaders Plan to Leverage Artificial Intelligence to Take the Guesswork out of Every Creative Touchpoint"
+    excerpt: "More than 400 chief marketing officers and senior marketing leaders were asked to provide input on their company’s readiness, and on best practices for applying AI to an area of business that receives significant time,"
+    publishedDateTime: 2021-04-15T19:58:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210415005805/en/Annual-Survey-Finds-Seven-in-Ten-Marketing-Leaders-Plan-to-Leverage-Artificial-Intelligence-to-Take-the-Guesswork-out-of-Every-Creative-Touchpoint"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "u+3GhhisKnhOLcVho4WEvaqgF+7uRspDm+HHQf/ZX3764WdsC731xG++PhLRHgqw/ibrgBiyljsjSToE4E0ufHUB2D1uV9mRNxxOk4lPcqCcatuuvJbJPgPgpuMmjMaB9ny6K8rRB0djc3apBiINQOtAbsRSc23S3Zuc8lNizXtBMhRBZITZ5jqS2jLa8FowkZoszOiaK3hX68QAp5S6BbcninBjVT2rBU/bKRLOG204RwX94182BVPJzO7d0RRXgPrroC1ummsuLwrpE5wUHoJwK0j10dYIjsA16GtzWvytPj4CgP0sFI9pU7LZmVSjv9nC/vrT3f7KIDt2foS842NMU9n/XWAzkCZ8JG8yMFU=;MA4Oj6uYNu/tRCtp8b+vzw=="
 ---
 

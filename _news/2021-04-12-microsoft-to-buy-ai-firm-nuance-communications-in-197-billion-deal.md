@@ -494,22 +494,6 @@ related:
         width: 616
         height: 372
         isCached: true
-  - title: "AI in IoT Market may See Big Move with IBM, Microsoft , Google"
-    excerpt: "Latest released the research study on AI in IoT Market offers a detailed overview of the factors influencing the global business scope AI in IoT Market research report shows the latest market insights current situation analysis with upcoming trends and"
-    publishedDateTime: 2021-04-11T02:45:00Z
-    webUrl: "https://www.openpr.com/news/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
-    ampWebUrl: "https://www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268679/ai-in-iot-market-may-see-big-move-with-ibm-microsoft-google"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/4/U411279994_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
     excerpt: "Now, the company has added yet another major name to its arsenal, as Microsoft has announced that it’s acquiring speech recognition company Nuance Communications for a whopping $16 billion. Microsoft announced the acquisition via its webstite on April 12 ..."
     publishedDateTime: 2021-04-12T16:05:00Z

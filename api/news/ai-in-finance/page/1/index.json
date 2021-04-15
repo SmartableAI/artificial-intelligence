@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
+      "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
+      "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "publishedDateTime": "2021-04-14T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-how-coca-cola-european-partners-consolidated-their-shared-services.md",
       "title": "How Coca-Cola European Partners Consolidated Their Shared Services",
       "excerpt": "Consolidating shared services across a multinational company requires thought ... First, 90% of all requests arrived via email, whose unstructured text has potential for machine learning solutions. Second, the scope of most queries was limited to certain ...",
@@ -1319,40 +1362,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-hes-fintech-and-ondato-are-now-partners-to-promote-digital-onboarding-in-banking-and-finance.md",
-      "title": "HES FinTech and Ondato are Now Partners to Promote Digital Onboarding in Banking and Finance",
-      "excerpt": "and Co-Founder of HES FinTech. “We are looking forward to discovering new opportunities together with HES. They are experts in lending software and AI/ML-based decision-making solutions. Our major goal is to help lenders scale up their activities and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
-      "originalUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
