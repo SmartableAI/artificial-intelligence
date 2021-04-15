@@ -44,17 +44,6 @@ related:
         width: 1396
         height: 794
         isCached: true
-  - title: "SoftBank Vision Fund 2 accelerates its AI startup investments after rocky start"
-    excerpt: "But SoftBank struggled to find outside investors for the AI-focused Vision Fund 2 due to the fund's chaotic management and SoftBank's growing problems, including losses on its WeWork and Uber ..."
-    publishedDateTime: 2021-04-10T15:51:00Z
-    webUrl: "https://seekingalpha.com/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
 
 secured: "byuVgUOO0QVgSvNRhZnkq/To2OhZwBPsHLTg2Sqxt7FB8vD0Y1O5hDnnjN5BSQ5rWMNHZ9SLNtaOa5phl+bjVV9LMx+45iXOMXMerAOlb1amlTnenPi8PhVVLrTX/594KMoPxFWLstHDaUO5B8ZwIkQmSRHau872OWOo18H7SVQZNidZ5o2BcTWvjNuEJDae0VGFH7opqmQB9c9sxKj6PvY849o0mC9HitDQ/5GkIbJ+EwDq4kGsrMr+oyIojEtoFnoqHavKeYPRwCzNzEwt0srb6a1Egi2LARoiPrQ8F6gwy8XdMtCJRoj0zosPVcspeLoZhf+Q9aXLYrC3FGj6HDGPIrQejkY4UcHxOiocGk0=;SSCyL3BX+TC1CzVU5aB7nQ=="
 ---

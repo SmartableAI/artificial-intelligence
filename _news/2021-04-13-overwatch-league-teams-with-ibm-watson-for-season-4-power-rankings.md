@@ -71,6 +71,20 @@ related:
         width: 1781
         height: 906
         isCached: true
+  - title: "Overwatch League partners with IBM AI for Power Rankings"
+    excerpt: "Overwatch League, the game’s main world league, is about to return to its 2021 season, and this year’s edition has some good news thanks to a partnership"
+    publishedDateTime: 2021-04-15T08:13:00Z
+    webUrl: "https://www.somagnews.com/overwatch-league-partners-with-ibm-ai-for-power-rankings/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 39
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2021/04/Overwatch-League.jpg"
+        width: 704
+        height: 264
+        isCached: true
 
 secured: "jwDhhuKFm96rZSoQjFMMCvnohdTt62mbdu1bprX51zdSzohtVlcfyTZke+BXfmCQJdlc35nLqUe9Kb9IZDLC3R+3mNlr4b6LU8sWzB+zVd9B08GVZ6IpBi8jYTUahpupT/tNoP5RKDS2sHoqNln34co2ubWf+++SNepXHH41yi7SbNczmwrOG98h6xLOzDaInC7O5C9FqxkLo/SmyB4l+DppE4gfNowk0a53sn53kH3QBHvopVyzCJsrplLVW9u5gBjdkqIbDqCkbBO9CQuxdrf2nraFwxlk3Mmm+LASBA5Q3Nd7dCzkJqhKD/voW8x3u5o+UZ3QsUJUXswLURW1Huq2IakZ1Kvf+MZsKVMIW21dzrLmEDUKktonmD9bnliVUjqzSApG5EtA2iSc1qAwX3bt7hOqbH4joWHhtIoIQzqL8PswZzsg1xJAMUuRw+waWlFaf6trDmSvzkvjTALN3ZNB43Oenj24FXE4kKgM1mx6Q4yQLS6r0FLHj+6VPNy6HtuBACEnQX91Q0EcM6D4EQ==;UMVHHufAxJvBKufXaZ/CVg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg"
         width: 1781
         height: 906
+        isCached: true
+  - title: "Overwatch League partners with IBM AI for Power Rankings"
+    excerpt: "Overwatch League, the game’s main world league, is about to return to its 2021 season, and this year’s edition has some good news thanks to a partnership"
+    publishedDateTime: 2021-04-15T08:13:00Z
+    webUrl: "https://www.somagnews.com/overwatch-league-partners-with-ibm-ai-for-power-rankings/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 39
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2021/04/Overwatch-League.jpg"
+        width: 704
+        height: 264
         isCached: true
 
 secured: "hWVb69XhZ3I7ttRCzpQpgJewhdny0XQQLb93d1R3k8myrRnZFcAYSXjrsAStGWKlzzCAZBBUugjWnFZo4HK9VFopL4uT9Zu95E3cKDGwWmGtt9YuLSE7Fgr9wocCROqa0Vt0nl2nyg87z7boSGpiFSiB5jntFVRHrBJIhNaDzdMUju5szEVRrDJSZrVTiFe1mhotndeIddDmajvLG3qIInIgdK05qVf/Q1kx8RMiM3+FMt7xRVukEnYBR6bKEOLA2Lzes1U6AgW5sfPd7UkP2oFUF+7iTg7ZWeoMPRYQ0BrXlGuIot1cq4lf+yIceY28hw2Cugg6+asdCBnFR65xg7B+z2kYmGopw1dtY5je2jwnj3aw8tkFzLklyVpZSC+WQx4+484QJ6nH5IYJe+3vV/MOqA/5FtjkGKdnUP+HJM2TG2aCOP/Xbdqh72UKNGLLXycPX6x8dpljdxeLLlzzMY1BcM69ey4gGVEzb9OQp2QHJfu5BiUu3ZuG+W25SyUJnyhL7KtqT49ARj8FqNfLDg==;QUWUsMOoALRNas9ToT78JQ=="

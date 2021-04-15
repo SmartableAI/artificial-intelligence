@@ -1,29 +1,48 @@
 ---
 category: news
 title: "New F1 Insights Powered by AWS Will Help FORMULA 1 Fans Make Sense of Split-Second Decisions on the Track"
-excerpt: "(NASDAQ: AMZN), and FORMULA 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new F1 Insights powered by AWS that will roll out through the 2021 racing season. The new additions mean a total of 18 AWS-powered stats will be available to fans by the end of the season."
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and FORMULA 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new F1 Ins"
 publishedDateTime: 2021-04-15T07:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-sports-amazoncom-inc-46f18536205449f0ad5ba25e494f85d8"
-webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-sports-amazoncom-inc-46f18536205449f0ad5ba25e494f85d8"
+originalUrl: "https://www.businesswire.com/news/home/20210415005326/en/New-F1-Insights-Powered-by-AWS-Will-Help-FORMULA-1-Fans-Make-Sense-of-Split-Second-Decisions-on-the-Track"
+webUrl: "https://www.businesswire.com/news/home/20210415005326/en/New-F1-Insights-Powered-by-AWS-Will-Help-FORMULA-1-Fans-Make-Sense-of-Split-Second-Decisions-on-the-Track"
 type: article
-quality: 22
-heat: 22
+quality: 2
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+related:
+  - title: "Amazon Web Services, FORMULA 1 Launch Six New F1 Insights For 2021 Racing Season"
+    excerpt: "(AMZN) announced Thursday that Amazon Web Services or AWS is teaming with FORMULA 1 or F1 (FWONA, FWONK) to introduce six new F1 Insights powered by AWS that will roll out through the 2021 racing season."
+    publishedDateTime: 2021-04-15T07:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-web-services-formula-1-launch-six-new-f1-insights-for-2021-racing-season-2021-04-15"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
+  - title: "AWS powers new F1 insights"
+    excerpt: "Cloud platform Amazon Web Services and F1 are introducing six new F1 Insights powered by AWS that will roll out through the 2021 racing season. The new addition"
+    publishedDateTime: 2021-04-15T08:24:00Z
+    webUrl: "https://advanced-television.com/2021/04/15/aws-powers-new-f1-insights/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2021/04/Braking-Performance_1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "c1eID7v1yNauSLM5tDZKKATRxMK89y+pjWJL3wLNml9ZyYyc6SL6C4Qe3aGEd+/XKvt1vcm/t0iyRJew6+SJHuKYBbtULeHc2mclHToiK3i8WF4H/WydfBVd51R59qJeCBJbnIgUEuF9GBTqRX7fFDvFGtGp8WxBorCnYLKiu93d3RncZnr3AZKG4HUZ/0aRFCWLmB39a5J4lJakzmkjkDcZPHHFkDA307ZPQShhzbwGPn624X6ilApY0UoxlhuD0Sxt5+CI+Lzw7O6FMNhakwrGq+g5+Qsav7UL+f8jPa0IJGTsFT6kG0B8Ed1YgsM1SO9WUR1202ofvXJ95dazs5cpvge34zEqw9BTjCzaX4w=;0Ha6T5TuO31DWjOOxNkMlg=="
+secured: "w9WdYVx2CRYtQ+9JoWPw+vgZHSDwmUgYgoZDyWzfSc86MVjkeC0w/ej4AZOrIsc+QfIGjghwwhICahMRiEBTFsmQgXy9vbGmcavzRQU8x5zZv+ooWov75m0MH27YI+WUEfl2VGDGCmvBhoq9F3vpH+UGav/SCFB5WeD4BuOQGllQRDBnFR148MsEugIxAsck9CXkWW4PYiKWx50ldoIbvEIczL68vb9m/1NbQcdooeYWIs/oOZnkOTfe+vsSWCL5W8uqHF1CwxTaYNfEhercdGVFPQ7fHTzb7AqUpwUshUESLwgWgvWXkryJx+wgPrnWXlnqCH26d9gZHD2JCUCPzxyly/ijayH3WEiKyOSkdPc=;BfuvA7I+tzfOACgzTkQBHA=="
 ---
 

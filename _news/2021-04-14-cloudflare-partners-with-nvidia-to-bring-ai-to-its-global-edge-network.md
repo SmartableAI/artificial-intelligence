@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
-excerpt: "By leveraging the TensorFlow platform developers can use familiar tools to build and test machine learning models, and then deploy them globally onto Cloudflare’s edge network. “Cloudflare Workers is one of the fastest and most widely adopted edge ..."
-publishedDateTime: 2021-04-13T17:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering"
+publishedDateTime: 2021-04-13T17:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cloudflare-partners-with-nvidia-to-bring-ai-to-its-global-edge-network-2021-04-13"
+webUrl: "https://www.marketwatch.com/press-release/cloudflare-partners-with-nvidia-to-bring-ai-to-its-global-edge-network-2021-04-13"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -118,6 +122,22 @@ related:
       - url: "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg"
         width: 2000
         height: 1250
+        isCached: true
+  - title: "Nvidia says AI, 5G ingredients for success"
+    excerpt: "AI and 5G are the ingredients needed to kick-start the fourth industrial revolution where robotics and automation can be deployed to the far edges of the world.” He said, however, that there was one missing element,"
+    publishedDateTime: 2021-04-15T09:16:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenMjVk5wMZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenMjVk5wMZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenMjVk5wMZd2r"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 61
+    images:
+      - url: "https://lh3.googleusercontent.com/XfjZTUtQ62j7IZS11nPIe6FWOqe4bP7uLCfkrTpGxEVICyLVgiCLay7exF2JZz6Vb1Zb5rBZ5zQjMXsesammDn-KTZvEIFU2U1_gfw=w816-h428"
+        width: 816
+        height: 400
         isCached: true
   - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
     excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
@@ -247,6 +267,6 @@ related:
       domain: insidehpc.com
     quality: 16
 
-secured: "BtsJq/35lImduAIe+EgoXW3KOfWqsp8WsqYScaxl8nQOfSA+Zk63aNeViFEWn0Un3FlG8YRaWiuL5DV9o8yfDiWoXALFDevmMok+DNRynoBVK+AsooGSNRUmUkomN13QvdMcNorNsMHL1iH3UvgGG6JNxGPmceeNbmultpgQDFt0TocqoZmdD8bP5YUnBCoAdy9N3ghT23PWO7VFWjfKfa1THIsZrVcGKmIVy6T84cmf46oG7zYp+fTwPAm1swmhMivJfsuxPWJ1ZdH2Ii0z9JPW0G7REtA/qqoZRrnUtkOFv6eThY+MMVPOuqUCKoB+0zGxXt03KTIMFOL0kCBxYvLuAt4nOEoQYXTXHK4tVD0=;ek35AAh77VYAbxdAvUJBLg=="
+secured: "U7cbiIQvvikyWWlUxvxzzOyaQdbCt44qrGS0/H5Nv8530UPuUHO0hHD5wGr33rR5olnsbP9C0TcbD9+5vtUAI++Pv0UkKyrCU8vqxe9KXfbkketsE00s3lkCWtEj7fqgoZMgsFrxyZXddSCklIwocExyh6kJHqnAJ9SmBkCJ2S7KPOvM8GDSf6Iu0EaYfI2Wqgclx2tKlW/4HNiF+81LEO+SLfm8IMDLNb3hTGuXEwS6TYiKf1UAew3HTOqsbOgmI4CJF/jPsL7rxeF/KFMD/FmZPZbLkU7NKfa+2P++fkdGhXNByfwlsG7hVWtoCfjBhG857yTjjBQJo/H5R1Alyzj/a+5Zop9Mbcdet3Gn/pQ=;5vez+1Up8ghZ9ccWqpU8oQ=="
 ---
 

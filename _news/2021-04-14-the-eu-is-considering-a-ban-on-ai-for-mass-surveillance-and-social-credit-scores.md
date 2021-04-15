@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regul
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i47EMK4WYX7Y/v0/1200x736.jpg"
         width: 1200
         height: 736
+        isCached: true
+  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
+    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
+    publishedDateTime: 2021-04-15T08:00:00Z
+    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
+    type: article
+    provider:
+      name: Moneylife
+      domain: moneylife.in
+    quality: 46
+    images:
+      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
+        width: 810
+        height: 350
         isCached: true
 
 secured: "XHvNDqAyGE1V9KZWleUnFBAz0MBQR/KrQK5HD5mfxTqnXLWcEsJdPEMPyqXMCS9EsblIeEuZc9sDLvvDxSTSdQwJvsm0+ose5jGmQxVHByNdmsl6nu+N6YUIy7xQ2ne32ZHQzulg05NzlaNgy4MfixlgUtxUeaHiX8+1qPEdSe79f0nlpogDJS22dxQnolcCjAsWj5euNtOk5y/el5tUxZVbuqPTMZmy1ceDmBQ2ku6MWDAo/5NBfVOdEeHscwdv4PtdPsAA8QdEfUxowYm2GiN60dmxiPLJj8lC1n0ZV5w/2kqiFF63CjiA5A7Ydj2EciOpxnl7366Q0y13w9PVB4oiBK85uCZdsqd7ff3C0YSyLhD7BvWV8nKgBUYAAshsM9ZmXovcMcqGQ4IEbucLdRrAaodkksjvBfLOWMKo/yftyiIavXwdsFUAgr9fFF2HVHLFWwPBXGlh02Fk5SNwmMzS6QQuSOdK1h4Cupf8PKCYBf9qDbeGyHhfx6F5W/WuUETglsvd2vZ4Votoqad0zQ==;2eYguE22JgCY5reriI7M9w=="

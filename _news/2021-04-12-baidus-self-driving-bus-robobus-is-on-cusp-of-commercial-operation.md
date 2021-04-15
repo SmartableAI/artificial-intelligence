@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Netizens hail China’s first self-driving bus in Chongqing"
+    excerpt: "Netizens are hailing China's first self-driving bus service, which has started in Yongchuan, Southwest China's Chongqing Municipality."
+    publishedDateTime: 2021-04-15T09:04:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/15/netizens-hail-chinas-first-self-driving-bus-in-chongqing"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114800.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "dXSC9N/YDn7WjXiN38vkVQRXSucpheSL21Gq1kK4PmDiQOsoN+JrY85sIDsoVXM5KuD9P8SQaQY3CB1s1Of9CIc9AXdWNlmagjOwX3158B0H1k4aamwbU1YypW78eibAY/LXFdhRm2o4JghN6puYr+Qg/iXLceuj4ecnsAPeJSstPpY50vGDCukMZluvF8LN67II/xicJEBW4EBy35IwcURs37Tfw/dOUA8Fdv6Gi06Jnu/foWyFDQIQpmFB5WQ6StzWTXN6H322CO7izpS6cRaEJvqIfNur0hjs02UqiOcM0cFhwtLJRRsUJjsbJbEiaeUbhAGw8jeC28Lhr/1qW6chWKacssuaXe9WZCAReoaatPJrojvJHPslteizCdXl3fzDmWirJB4s8qJU51jwK/IXQOZzoG1FzV1jemEsQYa3CGz+NQ1R2KRik1Gspa1zM8goLVZhc/n1Fr9KmS744V5GCeVUWjsw6XLhonMKO2/V/7M0RDZnKVkTGXyVg2o+Zctryw+0cxwX/qFGAkR77Q==;oorT3XWFXWaS9p9AtwvZcg=="
 ---

@@ -903,8 +903,8 @@
       "title": "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry",
       "excerpt": "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -914,12 +914,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T06:44:00-07:00",
+      "publishedDateTime": "2021-03-29T08:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

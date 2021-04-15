@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SoftBank Vision Fund 2 accelerates its AI startup investments after rocky start"
-    excerpt: "But SoftBank struggled to find outside investors for the AI-focused Vision Fund 2 due to the fund's chaotic management and SoftBank's growing problems, including losses on its WeWork and Uber ..."
-    publishedDateTime: 2021-04-10T15:51:00Z
-    webUrl: "https://seekingalpha.com/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3680842-softbank-vision-fund-2-accelerates-its-ai-startup-investments-after-rocky-start"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 33
 
 secured: "/4rXznYfDyUNhsau7b6/RlOjW2KUq9ySN3Ttw7JNnz6Vlfa3GUq43TsT//AhfX2UAVG1k7zyk3DowFfyKcoNg2vsh5cXhe6HOnW+nPwBRkQp7sofAxeiozwmPwDb1d8tW7KMDFEPfYvA2LSMxwmWGVAJpLJ7aykrqhwtUHAlsWbCgVC/JGBijTkIP5fvUjNk4nAxPkPqXe1dghxeB1iKB0APrkRfwc++a1PIuVgMlLjWfe06rg8imeEQ0p1DIZmlf8wYBtds6IY+cmEJ+RCG0GgmKwWy8bnmYs9e1TbjI76l8FsfMKZvKtv1L+U9ALWynNgfRvXIfDuC7YMBf6g0933PIz9gAOM8itOrrHiMqy6hRnZKNfJl0THJktKOMiLAwv5oxdVqxa9cFelkPTVNAnNfFzGhVDZhbZQOf+3owY83BYWnjDl686LZuelN/XLXhMOI4IMcU5cifG3YpanFXnGKcJkH+ABOH15PSXI4a3qzHapCjPBK0gnInJmnn2P+YRBRHoCynkL5plPqG5lwXQ==;4THzfhVcc4m4q6fyZZB26w=="
 ---
