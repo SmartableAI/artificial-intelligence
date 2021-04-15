@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
+    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 0
 
 secured: "v7vjUUEyXGtvWfOToNO0QzIDU7fiI2gEWBCu/tBqL34abEQf2RAVro3w8S28mJSXiPgfK5S/9YbOCH4ttZ7oeUTQkZAMzW6xSu+o6CKvRTSluGy+Mh8Ap1tP+jE/6+WwkanSpIBgzYjTrNGO1jSceQUc6PZbQvT2Boye81KIpR7ltBLw1MTLUgl2UwHfxHCtcqjV8Xczq8MFdiTTiwnHz5+Dto8HO35NqdrsxRJXJGuPyWnUB9/R1l+QUFrOnDROT6ilW0TUqo63kGfJ0ayCsX7KGlEBYigpqMBjyR24XgE221EgsLepGst2rjqMbwEdMhDT4UOBhzfsdBIxgG1sQZI93+8Aewa57NDngZBzvWAnWvSKeGgL3rO8D+VsHzqyqj1I1zj4t9fnOeVt0p4nvF+TOjTaYoeCeyNQYpUhKVdu+PHWWnvt9LGnk4dck4AQExxHX/1fw0zIQEtIrvMvGryey+grsWj7Up3R2S9oMQ6CVMWhinhehdCuPSlsbR2aIVBMGyyJK2MAZwLoRR//sw==;8e/tGhsLI9iIqxbPPOFDMQ=="

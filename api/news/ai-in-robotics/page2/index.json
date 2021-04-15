@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
+      "title": "Robot artist sells art for $688,888, now eyeing music career",
+      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
+      "originalUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
+      "publishedDateTime": "2021-04-06T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTXL ABC 27",
+        "domain": "wtxl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-softbank-snaps-up-28-billion-stake-in-norway-robotics-firm.md",
       "title": "SoftBank snaps up $2.8 billion stake in Norway robotics firm",
       "excerpt": "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ...",
@@ -1345,49 +1388,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
-      "title": "Robotics and coding to be introduced in Grade R classrooms",
-      "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "originalUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesouthafrican.com/wp-content/uploads/2021/03/Untitled-design-21-16.jpg.optimal.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "publishedDateTime": "2021-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
         "images": null,
         "publishers": null,
         "authors": null

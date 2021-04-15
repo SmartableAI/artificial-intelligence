@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
+      "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -1170,57 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ai-champions-driving-new-industry-solutions-for-climate-change.md",
-      "title": "AI Champions Driving New Industry Solutions For Climate Change",
-      "excerpt": "Moreover, with Climate AI Champions in the picture, these innovators could provide the right solutions we need in the fight for survival and growth. The climate change crisis is real, finding quick and affordable solutions is an urgency, and AI can play a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606498925b677d282a0db79e%2F0x0.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/",
-      "publishedDateTime": "2021-03-31T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

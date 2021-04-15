@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-korean-workers-need-to-make-space-for-robots-minister-says.md",
+      "title": "Korean Workers Need to Make Space for Robots, Minister Says",
+      "excerpt": "South Koreans must learn how to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots, according to the country’s labor minister.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLtgk_ik7v5c/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization.md",
       "title": "Utilizing AI And Big Data To Reduce Costs And Increase Profits In Departments Across An Organization",
       "excerpt": "Research reveals that the combination of AI and Big Data technologies can automate almost 80% of all physical work, 70% of data processing, and 64% of data collection tasks. In this article, we explore the major indirect cost origins in departments that ...",
@@ -1202,50 +1254,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
-      "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
-      "excerpt": "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "originalUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/758247/artificial-intelligence.jpg?w=570&h=380",
-          "width": 570,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "publishedDateTime": "2021-04-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

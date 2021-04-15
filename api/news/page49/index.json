@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-08-nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna.md",
+      "title": "Nvidia, Harvard researchers use AI to find active areas in cell DNA",
+      "excerpt": "Using a new deep learning toolkit called AtacWorks, researchers are studying how diseases and genomic variation influence specific types of cells in the human body.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/0e0d1f1c-d00c-4ad2-a2d0-7dd775d328e3/embargo-atacworks-image.png",
+          "width": 1190,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "publishedDateTime": "2021-03-08T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-natural-language-processing-nlp-market-size-industry-trends-outlook-opportunity-till-2027-by-kenneth-research.md",
       "title": "Natural Language Processing (NLP) Market Size, industry Trends, Outlook, Opportunity Till 2027 | By Kenneth Research",
       "excerpt": "(MENAFN - America News Hour) The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from ...",
@@ -1169,49 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade.md",
-      "title": "Deep learning: The way forward with significant value unlocking during the next decade",
-      "excerpt": "The global deep learning market, currently priced at $4.4 billion in 2020, has been projected to expand at a staggering 39.2 per cent CAGR between 2020 and 2027, to reach $44.3 billion by 2027 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "originalUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210307/ARTICLE/210309353/AR/0/AR-210309353.jpg&NCS_modified=20210319110230&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "publishedDateTime": "2021-03-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

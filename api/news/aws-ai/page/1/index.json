@@ -64,7 +64,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -679,50 +679,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
-      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
-          "width": 609,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1501,6 +1457,50 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
+      "title": "AWS launches machine learning service to monitor business performance",
+      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
+      "publishedDateTime": "2021-03-26T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

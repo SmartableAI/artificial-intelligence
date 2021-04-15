@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-03-23-onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise.md",
+      "title": "OneTrust acquires Convercent to drive ethics and compliance in the enterprise",
+      "excerpt": "OneTrust has acquired Convercent, an ethics and compliance software platform with major enterprise clients, including Hain Celestial.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ECP-Product-Banner.jpg?w=1200&strip=all",
+          "width": 809,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-boom-in-innovation-for-overcoming-disabilities-un.md",
       "title": "Boom In Innovation For Overcoming Disabilities – UN",
       "excerpt": "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said Tuesday.",
@@ -1065,49 +1117,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-a-look-into-the-future-of-robotics.md",
-      "title": "A look into the future of robotics",
-      "excerpt": "The robotics industry of the past 30 years will be much different ... hardware that respects the fulfillment center density requirements together with AI (artificial intelligence) software that can predict what items need to be occupying that very valuable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics",
-      "originalUrl": "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/images/articles/2021/202103/20210322_primer_warehouse_robots.jpg?height=635&t=1616436866&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null

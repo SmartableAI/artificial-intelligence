@@ -2,6 +2,57 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-02-26-spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions.md",
+      "title": "Spy agency: Artificial intelligence is already a vital part of our missions",
+      "excerpt": "The UK's top intelligence and security body, GCHQ, is betting big on artificial intelligence: the organization has revealed how it wants to use AI to boost national security. In a new paper titled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions/",
+      "originalUrl": "https://www.zdnet.com/article/spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2019/04/24/8b33fbde-56ea-476d-b252-befbf19b85d3/istock-507473994.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions/",
+      "publishedDateTime": "2021-02-25T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast.md",
       "title": "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated",
@@ -1113,52 +1164,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
-      "title": "Changes Go Far Beyond Just AI, Machine Learning",
-      "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
-      "originalUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Untitled-design-5.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/",
-      "publishedDateTime": "2021-02-25T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

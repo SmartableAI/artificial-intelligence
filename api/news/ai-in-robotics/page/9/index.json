@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-12-the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car.md",
+      "title": "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car",
+      "excerpt": "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6024c713431d57f28c582277%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3976%26cropY1%3D71%26cropY2%3D2062",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/11/the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car/amp/",
+      "publishedDateTime": "2021-02-11T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
       "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
       "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
@@ -1243,49 +1296,6 @@
       "provider": {
         "name": "Diginomica",
         "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
-      "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
-      "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
-      "originalUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.movieweb.com/i/article/oz8EStU1MM2Zwnlo9gHSNdvz9LURWD/1200:100/Dustin-Diamond-Dead-Screech-Robot-Commercials.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
-      "cdnAmpWebUrl": "https://movieweb-com.cdn.ampproject.org/c/s/movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
-      "publishedDateTime": "2021-02-03T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MovieWeb",
-        "domain": "movieweb.com",
         "images": null,
         "publishers": null,
         "authors": null

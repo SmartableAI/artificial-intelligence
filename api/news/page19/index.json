@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-30-nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies.md",
+      "title": "NAFCU Services Announces Persistent Systems as Preferred Partner for Digital Transformation including Cloud-Based Technologies",
+      "excerpt": "“Adoption of cloud and other cutting edge technologies including machine learning, automation ... enterprise modernization and next-generation product engineering to financial services institutions for 20+ years, as well as other industry verticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "originalUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
       "title": "Three AI Apps making waves in the insurance industry",
       "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
@@ -1147,51 +1181,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

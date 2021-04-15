@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-wor
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Korean Workers Need to Make Space for Robots, Minister Says"
+    excerpt: "South Koreans must learn how to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots, according to the country’s labor minister."
+    publishedDateTime: 2021-04-13T21:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLtgk_ik7v5c/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lQyPmHuv0IulhEXZ8nDoT8FYUAX4UJp6bBNwYtQnvPzKliARZgdEq6oUiUTOXfa9ARjCvV5b1mT76LhGdHjHtbj0D/8/eNq9c17MaUU4XJ+boKq1LXIcNfIC3wPJPLzOc2BeyERRub1BI7YqGFipWVFq+PJx7gLQCriz4XNBqg+PYZuCnvX1KseQrCOx1T2eWmVQVhI0od5bERrsCZXTOorEMghlAEzI69DXAYyk+8niK9+ylwTNa78pRfuVgIml/lTXFYRKKnkQZ6NGROVLJSEDr7kJj/XJsqGNkpK7oVqArFrmfDoddNsG+HoiQqOJE3vY8SeLoUc09ML6/711Jiqas49Ml2HxEgwv3xrJnL+pEPXa6b98AL2M2XBxd7YllLft3CFVHc/JGtYPQJvFIydVjJWmTFn9pmjw6xL3naw5VqdGK7cfONPxEP3r6ENBlLVFlJwwL6Pz9iwN16lAlCT586hwQLvCjJ/QwTaEu40cd7HAXa5X/PIbabbOpEfp4hH9rHSeI0JDOgP3nhTeKQ==;LenuyDYifEGBE3OW9gB9ow=="
 ---

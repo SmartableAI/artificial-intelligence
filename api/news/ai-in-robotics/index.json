@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-korean-workers-need-to-make-space-for-robots-minister-says.md",
+      "title": "Korean Workers Need to Make Space for Robots, Minister Says",
+      "excerpt": "South Koreans must learn how to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots, according to the country’s labor minister.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLtgk_ik7v5c/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
       "title": "Modular mobile robot can take on multiple roles at construction site",
       "excerpt": "Modular mobile robot can take ... Austrian startup Printstones has been developing ... The development team aims to work on AI simulations of work environments in the future, so that the robot ...",
@@ -1117,8 +1169,8 @@
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
       "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1386,49 +1438,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "originalUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "publishedDateTime": "2021-04-06T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTXL ABC 27",
-        "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

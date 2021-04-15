@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
+    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "/E9OavrS/WffG+E3JnZdm58AklAcbYYR7MMSgf/lF0edQHEII7V0HRDYbIAmy0tRvTJ2X8jJlYPi3KP4hUoAEeq9V2Gqpl5V8evA68vviJQnR/EPLVsFtS0akVchwUo+wRq9l2WiQAy9N224eC58ZVIkWlHOyuJ8cvqN2xI2vROU/R2LQ14AXrDihUgOBkseODxRJPU+9it64A/XzdhjhZ62bMVPWGCF7pi86vwJ6miVX/Bo9NdUEqlpc3q5a0VuA/C8ctJB0nwxHL6aw8yO04Ca0L8FrxZTmcoUcoI+dkD33EBw9GaJICuXumJjGQbVaJ6Kbd1pi/7FJJkcwLZ+4LVXyx/MR0i3RyO/Qc+S6IU=;MFbAdiU/r/9HXtCNhop9Iw=="
 ---
