@@ -38,7 +38,7 @@ related:
     provider:
       name: Hack
       domain: securityintelligence.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg"
         width: 1200

@@ -2,6 +2,478 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-03-17-proven-arabia-launches-ai-and-robotics-centered-new-tech-start-up.md",
+      "title": "Proven Arabia launches AI and robotics-centered new tech start-up",
+      "excerpt": "Proven Arabia’s technology solution start-up will cement the success ... as service providers for their humanoid robots. Proven Solution focuses on creating tailor-made applications for specific industries, which includes AI conversational, retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Proven_Arabia_launches_AI_and_roboticscentered_new_tech_startup-SNG_204512885/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Proven_Arabia_launches_AI_and_roboticscentered_new_tech_startup-SNG_204512885/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_204512885/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_204512885/",
+      "publishedDateTime": "2021-03-17T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-octoml-raises-28m-for-machine-learning-deployment-optimization.md",
+      "title": "OctoML raises $28M for machine learning deployment optimization",
+      "excerpt": "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "publishedDateTime": "2021-03-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021.md",
+      "title": "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021",
+      "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-creo-unveils-ai-based-biobulb-for-indoor-plant-walls.md",
+      "title": "Creo unveils AI-based BioBulb for indoor plant walls",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Creo unveiled its BioBulb technology platform that allows businesses to create appealing indoor plant walls ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/biobulb-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/",
+      "publishedDateTime": "2021-03-17T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-the-fundamentals-of-facial-recognition.md",
+      "title": "The fundamentals of facial recognition",
+      "excerpt": "Face recognition can be done from a photo, video, or live capture. Face recognition is a broad term given to the process of identifying or verifying people in photographs and videos. The method comprises detection, alignment, feature extraction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/the-fundamentals-of-facial-recognition/",
+      "originalUrl": "https://www.embedded.com/the-fundamentals-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/03/PathPartner-Facial-Recognition-featured-image.jpg",
+          "width": 1379,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-nses-buying-spree-continues-with-investment-in-machine-learning-start-up.md",
+      "title": "NSE’s buying spree continues with investment in machine learning start-up",
+      "excerpt": "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
+      "publishedDateTime": "2021-03-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-startup-vizai-raises-71-million-in-new-funding.md",
+      "title": "Startup Viz.ai Raises $71 Million in New Funding",
+      "excerpt": "Viz.ai has raised $71 million in new venture-capital funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601",
+      "originalUrl": "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-312633/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-vmware-and-nvidia-team-to-deliver-virtualized-ai-workloads.md",
+      "title": "VMware and Nvidia team to deliver virtualized AI workloads",
+      "excerpt": "“AI is a full-stack computing problem ... of features in the latest generation of Nvidia GPUs like multi-instance GPU, which allows GPU cycles to be shared across multiple users.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
+      "originalUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/NVIDIAEnterpriseAI-UseCasesGraphic.jpg",
+          "width": 8000,
+          "height": 4500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-ai-hearing-aids-optimize-sound-in-real-time.md",
+      "title": "AI hearing aids optimize sound in real time",
+      "excerpt": "A software update is coming to an ear near you. Whisper, which develops AI-enabled hearing aids, just announced that they've rolled out the first software upgrade to their Whisper Hearing System, AI-powered hearing aids that improve over time. If you don't ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-hearing-aid-optimizes-sound-in-real-time/",
+      "originalUrl": "https://www.zdnet.com/article/ai-hearing-aid-optimizes-sound-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/15/521621f4-61a1-4479-9daa-cc786773b096/whisper.jpg",
+          "width": 4800,
+          "height": 2700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/",
+      "publishedDateTime": "2021-03-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-top-questions-to-ask-ai-vendors-in-2021-part-two.md",
+      "title": "Top Questions To Ask AI Vendors In 2021: Part Two",
+      "excerpt": "Sticking to a few hard-hitting questions can help you weed out fake AI solutions and help you refine your own requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
+      "publishedDateTime": "2021-03-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-torchai-raises-30m-for-ai-that-unifies-disparate-enterprise-data.md",
       "title": "Torch.AI raises $30M for AI that unifies disparate enterprise data",
       "excerpt": "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding.",
@@ -662,473 +1134,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-empathetic-robots-are-killing-off-the-worlds-call-center-industry.md",
-      "title": "Empathetic Robots Are Killing Off the World’s Call-Center Industry",
-      "excerpt": "Some local industry executives insist the situation isn’t as dire as many predict. AI is a long way from replacing humans for more complicated voice calls or chats, says Jonatha",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVvrWAi0HgA/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms.md",
-      "title": "Microsoft’s Percept Precept: Industrial IoT Shifts From Solutions To Platforms",
-      "excerpt": "I’ve often said that developing industrial IoT solutions is like building Ikea furniture with some parts missing and without instructions. Roanne Sones confirmed this view in her “AI to the Edge” Ignite presentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605105b7b442462894296780%2F0x0.png",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "publishedDateTime": "2021-03-16T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington-dc-in-2021.md",
-      "title": "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021",
-      "excerpt": "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
-      "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
-      "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
-      "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
-      "publishedDateTime": "2021-03-16T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
-      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
-      "excerpt": "Chinese search engine giant Baidu has completed a round of financing for its Kunlun AI chip unit, which values the unit at around $2 billion, Reuters reported on Monday Baidu is also considering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/oxgt3b/article33738456.ece/ALTERNATES/LANDSCAPE_615/Bytedance-AFPjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance/article34083690.ece/amp/",
-      "publishedDateTime": "2021-03-16T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
-      "title": "Microsoft, Amazon must face facial recognition data suits",
-      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
-      "publishedDateTime": "2021-03-16T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-artificial-intelligence-is-predicting-future-covid-19-strains-developing-treatments.md",
-      "title": "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments",
-      "excerpt": "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ...",
-      "sourceUrl": null,
-      "webUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
-      "originalUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2021/03/GettyImages-1303550836.jpg?quality=80&strip",
-          "width": 5878,
-          "height": 3927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
-      "publishedDateTime": "2021-03-16T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-instagrams-new-ai-feature-stops-adults-from-messaging-kids-who-dont-follow-them.md",
-      "title": "Instagram’s new AI feature stops adults from messaging kids who don’t follow them",
-      "excerpt": "The machine-learning feature is one of a range of new tools Instagram is introducing to protect young people on the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/16/instagram-ai-feature-stops-adults-messaging-children-machine-learning/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/16/instagram-ai-feature-stops-adults-messaging-children-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-11-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/16/instagram-ai-feature-stops-adults-messaging-children-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/16/instagram-ai-feature-stops-adults-messaging-children-machine-learning/amp/",
-      "publishedDateTime": "2021-03-16T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cachengo-announces-edge-ai-solution-for-local-computer-vision.md",
-      "title": "Cachengo Announces Edge AI Solution for Local Computer Vision",
-      "excerpt": "March 16, 2021 /PRNewswire/ -- Computer Vision applications such as facial recognition are best done where the data is captured. This can be difficult when depending on data center or cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cachengo-announces-edge-ai-solution-for-local-computer-vision-1030216166",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cachengo-announces-edge-ai-solution-for-local-computer-vision-1030216166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
-      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
-      "excerpt": "“Experiments show that one can use the face-blurred version for benchmarking object recognition and for transfer learning with only marginal loss of accuracy,” the team wrote in an update ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/imagenet.png?w=1200&strip=all",
-          "width": 998,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "publishedDateTime": "2021-03-16T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

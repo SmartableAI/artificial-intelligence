@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Life Inside The Self-Optimizing AI Automated Company"
+    excerpt: "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis."
+    publishedDateTime: 2021-04-15T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60782b57f405c4c5b83c4b8b%2F0x0.jpg"
+        width: 1200
+        height: 789
+        isCached: true
   - title: "AI, automation the only option for SA"
     excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
     publishedDateTime: 2021-04-12T09:02:00Z
@@ -35,19 +51,19 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 41
-  - title: "Artificial intelligence for space"
-    excerpt: "Building a satellite with artificial intelligence on board that is trained in space: For this project, Professor Hakan Kayal from Würzburg is receiving 2.6 million euros from the German Federal Ministry for Economic Affairs and Energy."
-    publishedDateTime: 2021-04-14T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uow-aif041421.php"
+  - title: "Artificial intelligence could be adding to the bias at your company"
+    excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
+    publishedDateTime: 2021-04-13T15:02:00Z
+    webUrl: "https://www.benefitnews.com/news/heres-how-your-ai-could-be-introducing-racial-bias"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Employee Benefit News
+      domain: benefitnews.com
     quality: 37
     images:
-      - url: "https://eurekalert.org/multimedia/pub/web/261978_web.jpg"
-        width: 1440
-        height: 810
+      - url: "https://arizent.brightspotcdn.com/dims4/default/2c88ebf/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc0%2F4e%2F0f683dac49d39661f753f551c22b%2Fcybersecurity-problem.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vhMN0PDS3GCL4tRWrdAIS7mYKxhTJ22Fl9Wov7x1JYBf9XLiV1Hl7U4AMThrkf4xLyq+KeSljN0JRIKfmBCGGFwHoCg4H8qLf7CHQT8PkYS/0O0tIZUA9XJKpgUhm0aoe7zeZKYCa4fkNfQSeR7W1pYDL8BWqu3CFEACBW6ZCvTF9vyC7eGR6qtF/bbAS7Hv89IkRsc9btJFayBP+30DLsu1+wsHhl1HjJ5lUO8BIpYaoH/xnbeh/z4KMOXJ+8mbpJLuqekHB7W9zTeWu1BzAg+Yh8KCzAkmnN0THvyXP6t3yIbIlzNj20YJ2D0zjTMTCWH4a2q2odrYd8zUfVJYoXJA38T8lIzqPPCZRyeQHNQ=;2bTf7N+O8f9TOzCnitwhBg=="

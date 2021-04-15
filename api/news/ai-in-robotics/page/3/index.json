@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-30-bright-machines-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "originalUrl": "https://www.businesswire.com/news/home/20210329005006/en/Bright-Machines-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
       "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
       "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
@@ -1319,6 +1285,49 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-a-look-into-the-future-of-robotics.md",
+      "title": "A look into the future of robotics",
+      "excerpt": "The robotics industry of the past 30 years will be much different ... hardware that respects the fulfillment center density requirements together with AI (artificial intelligence) software that can predict what items need to be occupying that very valuable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics",
+      "originalUrl": "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/images/articles/2021/202103/20210322_primer_warehouse_robots.jpg?height=635&t=1616436866&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null

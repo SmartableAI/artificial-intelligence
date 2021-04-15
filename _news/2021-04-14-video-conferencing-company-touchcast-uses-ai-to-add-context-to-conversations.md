@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/13/video-conferencing-company-touchc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Artificial intelligence could be adding to the bias at your company"
-    excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
-    publishedDateTime: 2021-04-13T15:02:00Z
-    webUrl: "https://www.benefitnews.com/news/heres-how-your-ai-could-be-introducing-racial-bias"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/2c88ebf/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc0%2F4e%2F0f683dac49d39661f753f551c22b%2Fcybersecurity-problem.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IFZzV1X/5TOUTS/hKbq2pDDd1RL/29v5ZLbVNMO0fYNN6x9/Y03xVeRpIzMhtGj7xW/bDagtxgaUoVletdPtEUeUXvpf0Fw0ahveKlmCwi2uiar+gvkdK48laGzFMLQxc2TGxJiROU/wHL5rr7KZ75aHN0ZphBj9y/IgWm2DvvrenC2DqnUQb/bFtARxqd1ogAM9b6jp2WUerh126j28j+qXpaSQskp5iLMjBREYirdECJLnFE/xeti1fjsvsdUJutq64jcppudxWIra2SiPT80FdU46vYKLNRxl4RLyVP/mj5PIOktB8QLaw/+RRgrJ4CsLdRcelVlTZEskB4RhkK2a5vJLui7bHeegl7oNKSahnImHLfyz2rnEZ6Q97y5LLYV9yiTEl2o0jynV7fNoRMKDmGCYuFkkAW20Xl+Sx6GDPfuF1x1hu0rOSklzqmCypx1ITKbmfuOFIxqpwn+FWIWYuJqbRgdB1J4ecG0g3RoTWV087DZJJAHRw4sn295yG5W7fTWVxcNl4N5/kLpPMQ==;NyuBoEBDyefrEmKHrgnMKg=="
 ---

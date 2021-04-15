@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-e
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google researchers boost speech recognition accuracy with more datasets"
+    excerpt: "Google researchers propose a simple solution for improving speech recognition accuracy: training one large model on many datasets."
+    publishedDateTime: 2021-04-15T13:41:00Z
+    webUrl: "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/"
+    ampWebUrl: "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all"
+        width: 1200
+        height: 809
+        isCached: true
   - title: "High-ranking researcher resigns from Google AI team"
     excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
     publishedDateTime: 2021-04-11T17:05:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-15T10:00:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
 webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

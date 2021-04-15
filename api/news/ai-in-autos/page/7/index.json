@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
+      "title": "Why driverless cars are paradise on wheels for some",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-301724/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-driverless-cars-and-the-quest-for-true-artificial-intelligence.md",
       "title": "Driverless Cars And The Quest For True Artificial Intelligence",
       "excerpt": "Autonomous driverless cars are the most important and fundamental ... But what if cars possessed true artificial generalized intelligence? A car could have something akin to an immune system. It would know when it’s being attacked, and would initiate ...",
@@ -1343,58 +1395,6 @@
         "name": "CMC Markets",
         "domain": "cmcmarkets.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-7-stocks-bringing-autonomous-vehicles-to-roads-and-reality.md",
-      "title": "7 Stocks Bringing Autonomous Vehicles To Roads and Reality",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous vehicles have been the future for some time. Only now that future",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-stocks-bringing-autonomous-vehicles-to-life-1030086035",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-stocks-bringing-autonomous-vehicles-to-life-1030086035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/02/7-stocks-bringing-autonomous-vehicles-to-life/?amp",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/02/7-stocks-bringing-autonomous-vehicles-to-life/?amp",
-      "publishedDateTime": "2021-02-16T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-nypds-robot-dog-returns-to-work-touching-off-a-backlash.md",
-      "title": "N.Y.P.D.’s Robot Dog Returns to Work, Touching Off a Backlash",
-      "excerpt": "Deployed at a public housing building, the device drew condemnation as a stark example of police power and misplaced priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/14/nyregion/14nyrobotdog/14nyrobotdog-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "publishedDateTime": "2021-04-14T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space.md",
       "title": "LOUNGE LAB Barista Robot joined Hyundai Motor's IONIQ 5 Experience Space",
       "excerpt": "One can experience various things with robot hand drip coffee for an 18-minute charging time. Cloud technology delivers the same taste of coffee as in-store in catering",
@@ -1264,8 +1212,8 @@
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
       "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1437,6 +1385,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-gnarlywood-chooses-invia-robotics-for-fulfilment-operations.md",
+      "title": "Gnarlywood chooses inVia Robotics for fulfilment operations",
+      "excerpt": "will deploy inVia’s Logic artificial intelligence-powered warehouse execution system (WES) at its Carlsbad, California, warehouse. Gnarlywood will eventually add inVia’s Picker autonomous mobile robots as part of efforts to modernize and automate its f ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "originalUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/Gnarlywood_Group_1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "publishedDateTime": "2021-04-06T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

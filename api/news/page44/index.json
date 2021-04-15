@@ -2,6 +2,488 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-11-photoshops-new-ai-feature-quadruples-the-amount-of-pixels-in-your-photos-wow.md",
+      "title": "Photoshop’s new AI feature quadruples the amount of pixels in your photos — WOW!",
+      "excerpt": "Adobe Photoshop's new Super Resolution feature uses machine learning to upscale photos while maintaining the details.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-11T121955.771-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/amp/",
+      "publishedDateTime": "2021-03-11T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-five-reasons-why-aiml-should-be-top-of-mind-in-2021.md",
+      "title": "Five Reasons Why AI/ML Should Be Top Of Mind In 2021",
+      "excerpt": "AI/ML applications bring about the convergence of analytics, data science and automation that accelerate successful digital transformations and fuel business outcomes. This has also led to indirect benefits like improving customer or citizen services and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reasons-why-aiml-should-be-top-of-mind-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reasons-why-aiml-should-be-top-of-mind-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049320a6efcb28d45029f3c%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reasons-why-aiml-should-be-top-of-mind-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reasons-why-aiml-should-be-top-of-mind-in-2021/amp/",
+      "publishedDateTime": "2021-03-11T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers.md",
+      "title": "Luminar strikes software deal to offer self-driving systems to automakers",
+      "excerpt": "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
+      "originalUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
+      "publishedDateTime": "2021-03-11T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
+      "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
+      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026.md",
+      "title": "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026",
+      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
+      "title": "Robots learn faster with quantum technology",
+      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
+      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
+          "width": 817,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
+      "publishedDateTime": "2021-03-11T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
+      "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
+      "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049395129a5e7b7b537ae0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "publishedDateTime": "2021-03-11T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-nimble-robotics-scores-50m-for-its-fulfillment-automation-tech.md",
+      "title": "Nimble Robotics scores $50M for its fulfillment automation tech",
+      "excerpt": "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
+      "originalUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/unnamed-8.png?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
+      "publishedDateTime": "2021-03-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-robots-and-bees-high-tech-vertical-strawberry-farm-in-nj-raises-50-million-in-series-a-round.md",
+      "title": "Robots And Bees: High-Tech, Vertical Strawberry Farm In N.J. Raises $50 Million In Series A Round",
+      "excerpt": "When Oishii, a high-tech, vertical farm in New Jersey, introduced its $50-a-box Omakase strawberry in 2018, the fruit quickly became the darling of New York's Michelin star chefs. Today, March 11, the company is announcing it has raised $50 million in a Series A round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
+      "originalUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049476501afb1330c558c46%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
+      "publishedDateTime": "2021-03-11T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
+      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
+      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
+      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
       "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
       "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
@@ -678,479 +1160,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-using-artificial-intelligence-to-generate-3d-holograms-in-real-time.md",
-      "title": "Using artificial intelligence to generate 3D holograms in real-time",
-      "excerpt": "Researchers have developed a way to produce holograms almost instantly. The deep learning-based method is so efficient, it could run on a smartphone, they say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210310121953.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210310121953.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-optibus-launches-new-ai-platform-to-help-cities-plan-transit-routes.md",
-      "title": "Optibus launches new AI platform to help cities plan transit routes",
-      "excerpt": "The startup, which emerged from stealth in 2014, spent three years developing the AI that powers its software-as-a-service transit operations product designed to help plot and schedule the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/10/optibus-launches-new-ai-platform-to-help-cities-plan-transit-routes/",
-      "originalUrl": "https://venturebeat.com/2021/03/10/optibus-launches-new-ai-platform-to-help-cities-plan-transit-routes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/avs-and-society-e1572293868810.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/10/optibus-launches-new-ai-platform-to-help-cities-plan-transit-routes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/10/optibus-launches-new-ai-platform-to-help-cities-plan-transit-routes/amp/",
-      "publishedDateTime": "2021-03-10T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-if-you-love-ai-do-not-miss-nvidia-gtc-this-year.md",
-      "title": "If You Love AI, Do Not Miss NVIDIA GTC This Year!",
-      "excerpt": "I just got an email from NVIDIA touting this year’s GTC event (April 12-16) and have to share this with you, in case you haven’t already heard. The virtual graphics, AI, and HPC event will headline AI pioneers Yoshua Bengio (University of Montreal),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/290x0:2204x713/fit-in/711x264/smart/https://specials-images.forbesimg.com/imageserve/604929829ed0424aeb7e9fb6/0x0.jpg",
-          "width": 709,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
-      "publishedDateTime": "2021-03-10T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours.md",
-      "title": "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)",
-      "excerpt": "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
-      "publishedDateTime": "2021-03-10T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-this-ai-robot-will-paint-a-canvas-at-sxsw-2021.md",
-      "title": "This AI Robot Will Paint A Canvas At SXSW 2021",
-      "excerpt": "At the upcoming all digital SXSW March 16-20, 2021 in Austin, Texas, a group from Tokyo, Japan will show an artificial intelligence-based (AI) robot that creates art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604920bd6de4926cfe37ae0c%2F0x0.png%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D0%26cropY2%3D450",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-why-people-should-get-paid-to-let-ai-do-their-jobs-for-them.md",
-      "title": "Why people should get paid to let AI do their jobs for them",
-      "excerpt": "The idea of a universal minimum/basic income (UBI) isn’t new or nearly as radical as those both in favor and opposed to it would have you believe. Dozens of cities across the globe are either currently running or have run UBI test programs.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/amp/",
-      "publishedDateTime": "2021-03-10T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fintech-e-banche-mai-cosi-integrate.md",
-      "title": "Fintech e banche mai così integrate",
-      "excerpt": "La sua attività negli Stati Uniti aggiunge un milione di nuovi clienti al mese ai 90 milioni che già contano in tutto il mondo. Ci sono anche banche tradizionali che hanno sposato l’innovazione: secondo lo sguardo delle fintech, in primis c’è Bbva ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "originalUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2021/03/202103101818141568/fintech5-714836.jpeg",
-          "width": 1920,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "cdnAmpWebUrl": "https://www-milanofinanza-it.cdn.ampproject.org/c/s/www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "publishedDateTime": "2021-03-10T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MilanoFinanza",
-        "domain": "milanofinanza.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california.md",
-      "title": "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California",
-      "excerpt": "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "originalUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-309733/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "publishedDateTime": "2021-03-10T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars.md",
-      "title": "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars",
-      "excerpt": "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i98wzZk3KFYk/v5/-1x-1.jpg",
-          "width": 2342,
-          "height": 1318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
-      "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
-      "excerpt": "and Mental Health (including Pain), Rare Diseases and Consumer Healthcare. Angelini's new digital vision is to reposition and elevate its Customer Engagement capabilities using Artificial Intelligence by implementing an innovative AI-Driven CRM system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "originalUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

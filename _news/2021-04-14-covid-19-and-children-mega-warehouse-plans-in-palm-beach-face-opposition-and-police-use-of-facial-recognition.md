@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
+    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
+    publishedDateTime: 2021-04-15T12:46:00Z
+    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "China’s first facial-recognition lawsuit comes to an end with new ruling and new questions about the fate of individuals’ data"
     excerpt: "SCMP A court in Hangzhou made its final judgment in China’s first-ever lawsuit over the use of facial recognition after both parties filed for appeal, upholding its original judgment and ordering additional data to be deleted."
     publishedDateTime: 2021-04-13T05:39:00Z

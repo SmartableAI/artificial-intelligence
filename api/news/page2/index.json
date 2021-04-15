@@ -2,6 +2,360 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-14-the-eu-is-considering-a-ban-on-ai-for-mass-surveillance-and-social-credit-scores.md",
+      "title": "The EU is considering a ban on AI for mass surveillance and social credit scores",
+      "excerpt": "If the draft proposal is adopted, it would see the EU take a strong stance on certain applications of AI, setting it apart from the US and China. Some use cases would be policed in a manner similar to the EU’s regulation of digital privacy under GDPR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "originalUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/QnQ780uD0M26Ro6g1aj9cPbNG8Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69124124/acastro_181017_1777_brain_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "publishedDateTime": "2021-04-14T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021.md",
+      "title": "Global Cloud Machine Learning Market Outlook, Industry Analysis and Prospect 2021",
+      "excerpt": "Global Cloud Machine Learning Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows and sizes. The report also calculates present and past market values to forecast potential market management through the forecast period between 2020-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-global-ai-in-healthcare-market-2020-to-2025-featuring-intel-ibm-google-among-others.md",
+      "title": "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others",
+      "excerpt": "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai.md",
+      "title": "This startup is working on a chip to save traders precious microseconds using AI",
+      "excerpt": "In the unfathomably fast realm of high-frequency trading, a South Korean startup’s plan to build a microchip that speeds markets up by a few microseconds is bound to get some attention.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/04/14/1600x900/brian-kostiuk-S4jSvcHYcOs-unsplash_1618400044418_1618400075568.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
+      "publishedDateTime": "2021-04-14T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-understanding-what-artificial-intelligence-is-and-what-its-not.md",
+      "title": "Understanding What Artificial Intelligence Is, And What It's Not",
+      "excerpt": "Jody Glidden is the Co-Founder and CEO of Introhive the fastest-growing B2B relationship intelligence service and data management platform. “It doesn’t look like anything to me.” So goes the classic line from HBO’s dystopian television series Westworld.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
+      "publishedDateTime": "2021-04-14T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
+      "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
+      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.md",
+      "title": "Ahana Cloud for Presto review: Fast SQL queries against data lakes",
+      "excerpt": "Ahana Cloud for Presto turns a data lake on Amazon S3 into what is effectively a data warehouse, without moving any data. SQL queries run quickly even when joining multiple heterogeneous data sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html",
+      "originalUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/09/fabio-ballasina-385482-unsplash-100770692-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.amp.html",
+      "publishedDateTime": "2021-04-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-sales-management-platform-atrium-raises-135m-to-surface-insights-with-ai.md",
       "title": "Sales management platform Atrium raises $13.5M to surface insights with AI",
       "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Atrium today revealed it has raised $13.5 million in seed funding to drive the adoption of a sales management ...",
@@ -518,7 +872,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -898,351 +1252,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
-      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
-      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324318/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "publishedDateTime": "2021-04-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-go-beyond-traditional-data-to-feed-next-gen-ai.md",
-      "title": "Go Beyond Traditional Data To Feed Next-Gen AI",
-      "excerpt": "When AI was introduced to the business community, visions of how we could use it to meet customers’ needs came clearly into focus. And, with those visions, came the promise for AI to revolutionize customer experience. The acquisition and successful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075b5229baf302bb5901b2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
-      "publishedDateTime": "2021-04-13T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows.md",
-      "title": "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows",
-      "excerpt": "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767",
-          "width": 1168,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
-      "publishedDateTime": "2021-04-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-informatica-modernizes-ipaas-platform-using-microservices-and-ai.md",
-      "title": "Informatica modernizes iPaaS platform using microservices and AI",
-      "excerpt": "In addition to making IDMC available on the Microsoft Azure cloud, Informatica is adding ... Ghai noted. The CLAIRE AI engine, meanwhile, provides the algorithms required to ensure data quality ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Informatica-Intelligent-Data-Management-Cloud.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "publishedDateTime": "2021-04-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help.md",
-      "title": "Customer Service As A Revenue Generator: How AI And Other Tools Can Help",
-      "excerpt": "Companies that don't take a revenue-oriented approach to their customer services teams fail to unlock a lot of sales opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075ac3cd4e1226cba901b30%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/13/customer-service-as-a-revenue-generator-how-ai-and-other-tools-can-help/amp/",
-      "publishedDateTime": "2021-04-13T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-bahrain-fintech-bay-to-drive-kingdoms-real-estate-ecosystem.md",
-      "title": "Bahrain FinTech Bay to drive kingdom's real estate ecosystem",
-      "excerpt": "Bahrain FinTech Bay said it has signed a partnership deal with the Real Estate Regulatory Authority (Rera) to bolster Proptech within the kingdom and make it a pioneer in the Middle East and North Africa region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Bahrain_FinTech_Bay_to_drive_kingdoms_real_estate_ecosystem-SNG_207820597/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Bahrain_FinTech_Bay_to_drive_kingdoms_real_estate_ecosystem-SNG_207820597/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/180320114447AFDG.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_207820597/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_207820597/",
-      "publishedDateTime": "2021-04-13T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-3-customer-trends-ai-can-spot-before-marketing.md",
-      "title": "3 Customer Trends AI Can Spot Before Marketing",
-      "excerpt": "especially when trends start in one location and spread to other locations over time. ML algorithms can spot these phenomena as they develop, so marketers can leap on the trend. Retail is one industry where this kind of AI-enabled trend-spotting is valuable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/92ab9c0cbdb04ac7b897dac42a4474c0.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
-      "publishedDateTime": "2021-04-13T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

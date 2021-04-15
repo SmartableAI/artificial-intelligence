@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -32,24 +32,20 @@ images:
     isCached: true
 
 related:
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Today, Domino enables customers to create framework-specific custom work environments based on NGC containers, including RAPIDS, TensorFlow, PyTorch, CUDA, and more. “Domino’s expertise in managing and scaling data science with discipline and maturity ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210412005204/en/Domino-Data-Lab-Debuts-New-Solutions-with-NVIDIA-to-Enhance-the-Productivity-of-Data-Scientists"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
+  - title: "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers"
+    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in"
     publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
+    webUrl: "https://www.samsara.com/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 108
+    images:
+      - url: "https://images.ctfassets.net/bx9krvy0u3sx/2pEohyAk9wWMH5ChIl7RLf/edc6dce57b13e4190a32257b9986dee8/og-image.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "v7vjUUEyXGtvWfOToNO0QzIDU7fiI2gEWBCu/tBqL34abEQf2RAVro3w8S28mJSXiPgfK5S/9YbOCH4ttZ7oeUTQkZAMzW6xSu+o6CKvRTSluGy+Mh8Ap1tP+jE/6+WwkanSpIBgzYjTrNGO1jSceQUc6PZbQvT2Boye81KIpR7ltBLw1MTLUgl2UwHfxHCtcqjV8Xczq8MFdiTTiwnHz5+Dto8HO35NqdrsxRJXJGuPyWnUB9/R1l+QUFrOnDROT6ilW0TUqo63kGfJ0ayCsX7KGlEBYigpqMBjyR24XgE221EgsLepGst2rjqMbwEdMhDT4UOBhzfsdBIxgG1sQZI93+8Aewa57NDngZBzvWAnWvSKeGgL3rO8D+VsHzqyqj1I1zj4t9fnOeVt0p4nvF+TOjTaYoeCeyNQYpUhKVdu+PHWWnvt9LGnk4dck4AQExxHX/1fw0zIQEtIrvMvGryey+grsWj7Up3R2S9oMQ6CVMWhinhehdCuPSlsbR2aIVBMGyyJK2MAZwLoRR//sw==;8e/tGhsLI9iIqxbPPOFDMQ=="
 ---

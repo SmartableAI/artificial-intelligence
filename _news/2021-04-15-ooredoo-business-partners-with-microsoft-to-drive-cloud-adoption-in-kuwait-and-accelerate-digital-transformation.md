@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 53
+published: false
 
 provider:
   name: Zawya
@@ -26,36 +26,6 @@ images:
     height: 334
     isCached: true
 
-related:
-  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
-    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
-    publishedDateTime: 2021-04-13T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
-    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
-    publishedDateTime: 2021-04-13T19:42:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
-secured: "pKoJo1qMgvFsXuUMHaa/ryDa+stPig911Jsfwp0fflqdEvYSOPQ7OQNJswXPrtK/va1WjwcY7Wfo0hEHarRBdZd4efxLrB0W8YR59IbFaU5yXz+bwtdw2VpXbXV4Ld+BaQnxWyZvb91T/Lnr9j0LcBA0uaNSiW+cWj9G+cACYPfp2vTDUW4rKseARcp76JtsYElnlaQGALjlbXgXi5fV0lgGCTN0vhCM6EfdYdp0miJOHwjvu2XGVu7rmhl06USSO6Dg/zKITTNNS5v4NUXXadVOTGezNWWrobcUeKMFWf5sZAxiJFNw0GWe3LiZgV35crDOtGLkDleuKemfoSin633RLdKE8ALpt2GG3E7Ullk=;m+pMQbiAGkjcCm5Z6nIBmg=="
+secured: "AeXU2TPQYPvaGGGHl/gKoR4XoIwiSc7FTA74teMz8GFEb/WOkbBGmYuhsoaU3yoAa7x7mub0OV+G9Iu5WnhEOE4UB4Z1Q5zVI2W5w4dCOVt0iTG00rLxvOUQbM6d1qruElDMbP15SYaQvGi76c+b4BWBTuxrMvZcKazUnmUe18QGFlBBLrkTrcLBamoqe/w+d8r0A6hShrJBuhZsAJJBh15B2uegrKN000DmvTnJpnbppT+geyd7/xxtaeRJifEvasSJDGe8KV+/GsV+Cq3cClFkjIyrwI9cfUcCMUvbO+2G5V2z8xwwsFVtXIK9zM/zcVLG7gag6ifqaf4sLXsLsrlNeBneHT7SstbcJwykCLY=;Doog5lFwn6k0ExUqkICJTw=="
 ---
 

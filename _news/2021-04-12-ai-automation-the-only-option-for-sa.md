@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Life Inside The Self-Optimizing AI Automated Company"
+    excerpt: "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis."
+    publishedDateTime: 2021-04-15T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60782b57f405c4c5b83c4b8b%2F0x0.jpg"
+        width: 1200
+        height: 789
+        isCached: true
+  - title: "Artificial intelligence could be adding to the bias at your company"
+    excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
+    publishedDateTime: 2021-04-13T15:02:00Z
+    webUrl: "https://www.benefitnews.com/news/heres-how-your-ai-could-be-introducing-racial-bias"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/2c88ebf/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc0%2F4e%2F0f683dac49d39661f753f551c22b%2Fcybersecurity-problem.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pega Process AI Delivers Self-Optimizing Process Automation"
     excerpt: "CAMBRIDGE, Mass., April 13, 2021 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company that crushes business complexity, today announced Pega Process AI – a new set of Pega Platform™ capabilities that help organizations optimize their ..."
     publishedDateTime: 2021-04-13T13:42:00Z
@@ -35,20 +65,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Artificial intelligence for space"
-    excerpt: "Building a satellite with artificial intelligence on board that is trained in space: For this project, Professor Hakan Kayal from Würzburg is receiving 2.6 million euros from the German Federal Ministry for Economic Affairs and Energy."
-    publishedDateTime: 2021-04-14T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uow-aif041421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/261978_web.jpg"
-        width: 1440
-        height: 810
         isCached: true
 
 secured: "e71dEMNb7TeLkncN9tXUF3aiPWP1alGODYE4/OqhmMx2QVDCuI+wG8U73MtTuTa24ELvmEpWgbZyWseq536S57Ajts/uOtC5YFM+NfXb3Oyj27FXUfNqDWiKaEP53rOtuG5gBTBtJZbasuw4vi0qrMzWs46Xa/+jtOSDEZ6uzMMCsNXyv2EpIanxIvNyEQ+ywDw6qkqEU/al4WOpCki9kSlPjSv1bitJ2NMJn8bRTCGlzL31E8FYecXO5ewdm1RCAoUsxjnPLDj7PVvm+ZGvots/3dKWiGPdGNxzLrckMGyvRGzs84uWqALgbcFiTxIxPiCay+3JXU+Y34E19L9Q8iopsF/io4BXzcVNxD3paeI=;3MLNyeoyYYtJ9WQfAN6TrA=="

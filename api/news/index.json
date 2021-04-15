@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-15-ooredoo-business-partners-with-microsoft-to-drive-cloud-adoption-in-kuwait-and-accelerate-digital-transformation.md",
-      "title": "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation",
-      "excerpt": "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang",
+      "path": "_news/2021-04-15-how-keystonemab-is-using-watson-to-revolutionize-drug-discovery.md",
+      "title": "How Keystonemab is using Watson to revolutionize drug discovery",
+      "excerpt": "Tushar Satav was about to supplement his career in pharmaceutical research with an MBA in data analytics when he was diagnosed with a massive brain tumor. Using his relevant experience, he began to research every available treatment option for the relatively rare type of brain tumor, a vestibular schwannoma.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/",
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg",
-          "width": 450,
-          "height": 334,
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-72_DesignCS_Keystone_Leadspace_v1.png",
+          "width": 2000,
+          "height": 1006,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,168 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/",
-      "publishedDateTime": "2021-04-15T00:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:36:02-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-your-companys-ai-initiative-needs-to-be-a-model-implementation.md",
+      "title": "Your Company’s AI Initiative Needs To Be A Model Implementation",
+      "excerpt": "The models need to be kept in sync with reality and with the changing conditions so that real-time operations and the model reflect a changing reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6077aa43839ff3e9a5834d1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3138%26cropY1%3D113%26cropY2%3D1558",
+          "width": 1200,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/amp/",
+      "publishedDateTime": "2021-04-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge.md",
+      "title": "AWS launches free digital training courses to empower business leaders with ML knowledge",
+      "excerpt": "Today, we’re pleased to launch Machine Learning Essentials for Business and Technical Decision Makers—a series of three free, on-demand, digital-training courses from AWS Training and Certification. These courses are intended to empower business leaders and technical decision makers with the foundational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact.md",
+      "title": "Latana Uses Machine Learning to Help Retailers Track Their Marketing’s Impact",
+      "excerpt": "Latana offers AI-powered brand tracking designed to help retailers make better marketing decisions with scalable insights. The solution provider’s machine learning technology can accurately track retailers’ brands to provides deep audience segmentation.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "originalUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/04/latana_dashboard-1.png",
+          "width": 937,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "publishedDateTime": "2021-04-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +195,204 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-galileo-sunspot-sketches-versus-modern-deep-learning-ai.md",
+      "title": "Galileo sunspot sketches versus modern 'deep learning' AI",
+      "excerpt": "What would we see, if astronomers back in the time of Kepler and Galileo had modern technology monitoring the Sun across the electromagnetic spectrum, available to them? Thanks to modern artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
+      "originalUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/galileosunsp.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
+      "publishedDateTime": "2021-04-15T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-life-inside-the-self-optimizing-ai-automated-company.md",
+      "title": "Life Inside The Self-Optimizing AI Automated Company",
+      "excerpt": "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60782b57f405c4c5b83c4b8b%2F0x0.jpg",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/",
+      "publishedDateTime": "2021-04-15T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-ibm-acquires-business-process-automation-startup-myinvenio.md",
+      "title": "IBM acquires business process automation startup MyInvenio",
+      "excerpt": "IBM has acquired MyInvenio, an enterprise process automation startup based in Reggio Emilia, Italy, for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
+      "originalUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
+      "publishedDateTime": "2021-04-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-ais-social-justice-problem-it-can-amplify-human-bias.md",
+      "title": "AI's social justice problem: It can amplify human bias",
+      "excerpt": "Coded Bias director Shalini Kantayya talked to CNET about the algorithms that are making life's most important decisions for us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "originalUrl": "https://www.cnet.com/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/VbjvB2utOmh0nP_oeFXDzMZPetk=/1200x630/2019/12/11/30df0346-f55d-472b-a4cd-6a5816555b09/code-for-bias-sundance.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "publishedDateTime": "2021-04-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -179,58 +531,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-nypds-robot-dog-returns-to-work-touching-off-a-backlash.md",
-      "title": "N.Y.P.D.’s Robot Dog Returns to Work, Touching Off a Backlash",
-      "excerpt": "Deployed at a public housing building, the device drew condemnation as a stark example of police power and misplaced priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/14/nyregion/14nyrobotdog/14nyrobotdog-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "publishedDateTime": "2021-04-14T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -478,59 +778,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
-      "title": "Domino accelerates MLOps with new Nvidia integrations",
-      "excerpt": "It also allows organizations to standardize on these containers. NGC currently supports RAPIDS, TensorFlow, PyTorch, and CUDA. Domino additionally supports containers for SAS, MATLAB, Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "publishedDateTime": "2021-04-14T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-pickles-new-robot-works-with-people-to-get-your-online-orders-delivered-sooner.md",
       "title": "Pickle's new robot works with people to get your online orders delivered sooner.",
       "excerpt": "After spending months inside warehouses observing operations, the engineers at Pickle realized that if you try to completely replace people with robots, the operation would quickly grind to a halt. With that insight,",
@@ -684,6 +931,48 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-europe-eyes-strict-rules-for-artificial-intelligence.md",
+      "title": "Europe eyes strict rules for artificial intelligence",
+      "excerpt": "The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost its potential for the economy in general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
+      "originalUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/14/iStock-1058701042-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -841,6 +1130,48 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-samsara-unveils-new-app-marketplace-integrations-to-streamline-and-automate-workflows-for-customers.md",
+      "title": "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers",
+      "excerpt": "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in",
+      "sourceUrl": null,
+      "webUrl": "https://www.samsara.com/",
+      "originalUrl": "https://www.prnewswire.com/news-releases/samsara-unveils-new-app-marketplace-integrations-to-streamline-and-automate-workflows-for-customers-301268410.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/bx9krvy0u3sx/2pEohyAk9wWMH5ChIl7RLf/edc6dce57b13e4190a32257b9986dee8/og-image.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
       "title": "The future of facial recognition blends AI and IR",
       "excerpt": "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ...",
@@ -849,7 +1180,7 @@
       "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -889,360 +1220,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-the-eu-is-considering-a-ban-on-ai-for-mass-surveillance-and-social-credit-scores.md",
-      "title": "The EU is considering a ban on AI for mass surveillance and social credit scores",
-      "excerpt": "If the draft proposal is adopted, it would see the EU take a strong stance on certain applications of AI, setting it apart from the US and China. Some use cases would be policed in a manner similar to the EU’s regulation of digital privacy under GDPR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
-      "originalUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/QnQ780uD0M26Ro6g1aj9cPbNG8Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69124124/acastro_181017_1777_brain_ai_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
-      "publishedDateTime": "2021-04-14T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021.md",
-      "title": "Global Cloud Machine Learning Market Outlook, Industry Analysis and Prospect 2021",
-      "excerpt": "Global Cloud Machine Learning Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows and sizes. The report also calculates present and past market values to forecast potential market management through the forecast period between 2020-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-global-ai-in-healthcare-market-2020-to-2025-featuring-intel-ibm-google-among-others.md",
-      "title": "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others",
-      "excerpt": "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai.md",
-      "title": "This startup is working on a chip to save traders precious microseconds using AI",
-      "excerpt": "In the unfathomably fast realm of high-frequency trading, a South Korean startup’s plan to build a microchip that speeds markets up by a few microseconds is bound to get some attention.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2021/04/14/1600x900/brian-kostiuk-S4jSvcHYcOs-unsplash_1618400044418_1618400075568.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html",
-      "publishedDateTime": "2021-04-14T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-understanding-what-artificial-intelligence-is-and-what-its-not.md",
-      "title": "Understanding What Artificial Intelligence Is, And What It's Not",
-      "excerpt": "Jody Glidden is the Co-Founder and CEO of Introhive the fastest-growing B2B relationship intelligence service and data management platform. “It doesn’t look like anything to me.” So goes the classic line from HBO’s dystopian television series Westworld.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
-      "publishedDateTime": "2021-04-14T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
-      "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
-      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.md",
-      "title": "Ahana Cloud for Presto review: Fast SQL queries against data lakes",
-      "excerpt": "Ahana Cloud for Presto turns a data lake on Amazon S3 into what is effectively a data warehouse, without moving any data. SQL queries run quickly even when joining multiple heterogeneous data sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html",
-      "originalUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/09/fabio-ballasina-385482-unsplash-100770692-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614864/ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.amp.html",
-      "publishedDateTime": "2021-04-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

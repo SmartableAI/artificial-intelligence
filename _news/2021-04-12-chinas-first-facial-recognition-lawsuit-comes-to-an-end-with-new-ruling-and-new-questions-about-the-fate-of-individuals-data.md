@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
+    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
+    publishedDateTime: 2021-04-15T12:46:00Z
+    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
     excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
     publishedDateTime: 2021-04-13T22:23:00Z

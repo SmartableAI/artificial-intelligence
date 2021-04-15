@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roundup Of AI & Supercomputing Products Unveiled At NVIDIA GTC 2021"
+    excerpt: "Softwares will be written by software running on AI computers” Jensen Huang, CEO, NVIDIA. Dubbed as the first kitchen keynote, last year NVIDIA CEO announced DLSS, which revo"
+    publishedDateTime: 2021-04-15T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/roundup-of-ai-supercomputing-products-unveiled-at-nvidia-gtc-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/image1-2.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Nvidia Unveils ‘Grace’ Deep-Learning CPU for Supercomputing Applications"
     excerpt: "Nvidia is already capitalizing on its ARM acquisition with a massively-powerful new CPU plus GPU combination that it claims will speed up the training of very-large machine learning models by a factor of 10."
     publishedDateTime: 2021-04-12T17:00:00Z

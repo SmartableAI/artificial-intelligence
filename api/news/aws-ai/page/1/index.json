@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-15-aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge.md",
+      "title": "AWS launches free digital training courses to empower business leaders with ML knowledge",
+      "excerpt": "Today, we’re pleased to launch Machine Learning Essentials for Business and Technical Decision Makers—a series of three free, on-demand, digital-training courses from AWS Training and Certification. These courses are intended to empower business leaders and technical decision makers with the foundational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training.md",
       "title": "Implement checkpointing with TensorFlow for Amazon SageMaker Managed Spot Training",
       "excerpt": "Customers often ask us how can they lower their costs when conducting deep learning training on AWS. Training deep learning models with libraries such as TensorFlow, PyTorch, and Apache MXNet usually requires access to GPU instances, which are AWS instances types that provide access to NVIDIA GPUs with",
@@ -53,59 +106,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
-      "title": "Domino accelerates MLOps with new Nvidia integrations",
-      "excerpt": "It also allows organizations to standardize on these containers. NGC currently supports RAPIDS, TensorFlow, PyTorch, and CUDA. Domino additionally supports containers for SAS, MATLAB, Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "publishedDateTime": "2021-04-14T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -626,50 +626,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
-      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
-          "width": 609,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1492,6 +1448,49 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-committed-to-accelerating-malaysias-digital-transformation.md",
+      "title": "AWS Committed to Accelerating Malaysia’s Digital Transformation",
+      "excerpt": "In August-September 2020, AWS held the ASEAN DeepRacer Women’s League to encourage young women in higher education institutions to acquire skills in artificial intelligence (AI) and machine learning (ML), and discover how technology can be used to create ...",
+      "sourceUrl": null,
+      "webUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
+      "originalUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mluuru4eusyz.i.optimole.com/vpqnqHQ.UqFF~5efcf/w:1880/h:1253/q:90/https://techent.tv/wp-content/uploads/2021/03/pexels-photo-1538177.jpeg",
+          "width": 1880,
+          "height": 1253,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
+      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2021/03/26/aws-accelerating-malaysia/?amp",
+      "publishedDateTime": "2021-03-26T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techent.tv",
+        "domain": "techent.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 795
         isCached: true
-  - title: "NVIDIA DRIVE Atlan promises driverless cars sooner than you’d think"
-    excerpt: "NVIDIA has revealed its newest chipset for smart cars and autonomous vehicles, with DRIVE Atlan promising to be “an AI data center on wheels” with an exponential uptick in processing"
-    publishedDateTime: 2021-04-12T16:59:00Z
-    webUrl: "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/"
-    ampWebUrl: "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/NEW_NVIDIA-DRIVE-Atlan-SoC.jpg"
-        width: 1440
-        height: 900
-        isCached: true
   - title: "Toyota taps Apex.AI for its autonomous vehicle operating system"
     excerpt: "Apex.AI, a startup founded by Bosch veterans and automated systems engineers Jan Becker and Dejan Pangercic, has spent four years rewriting the robot operating system that will give automakers the ..."
     publishedDateTime: 2021-04-14T16:08:00Z

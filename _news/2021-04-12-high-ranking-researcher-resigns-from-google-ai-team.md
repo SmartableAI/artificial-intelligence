@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google researchers boost speech recognition accuracy with more datasets"
+    excerpt: "Google researchers propose a simple solution for improving speech recognition accuracy: training one large model on many datasets."
+    publishedDateTime: 2021-04-15T13:41:00Z
+    webUrl: "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/"
+    ampWebUrl: "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all"
+        width: 1200
+        height: 809
+        isCached: true
   - title: "Artificial Intelligence Research at Duke"
     excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
     publishedDateTime: 2021-04-12T19:29:00Z

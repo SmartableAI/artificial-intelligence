@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
 type: article
 quality: 99
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -212,6 +212,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54794/content/small_nvidia_grace.jpg"
         width: 708
         height: 419
+        isCached: true
+  - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
+    excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of"
+    publishedDateTime: 2021-04-15T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
     excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"

@@ -869,22 +869,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
-    excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2021-04-12T12:36:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 67
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities"
     excerpt: "Nuance, based in Burlington, Mass., is considered a pioneer in speech recognition and artificial intelligence technology used in healthcare. The company's technology is used by more than 55% of physicians and 75% of radiologists in the U.S., and used in ..."
     publishedDateTime: 2021-04-12T14:16:00Z
@@ -1043,6 +1027,15 @@ related:
         width: 647
         height: 363
         isCached: true
+  - title: "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion"
+    excerpt: "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to ..."
+    publishedDateTime: 2021-04-12T12:36:00Z
+    webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Microsoft buys artificial intelligence firm Nuance for USD19.7 billion"
     excerpt: "(Alliance News) - Microsoft Corp will acquire artificial intelligence and cloud computing company Nuance for USD19.7 billion, the company announced on Monday. Nuance's technology is used extensively in medical records, and the transaction will bolster ..."
     publishedDateTime: 2021-04-12T13:11:00Z
@@ -1281,6 +1274,20 @@ related:
         width: 1024
         height: 666
         isCached: true
+  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
+    excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."
+    publishedDateTime: 2021-04-15T07:15:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2021/04/15/commentary/world-commentary/microsoft-ai-nuance-communications-dax/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/04/np_file_81319-1-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
   - title: "Tech & Science Daily| Microsoft’s $16bn takeover of AI firm behind Apple’s Siri"
     excerpt: "Having moved on from offering voice assistant tech, the firm now focuses on building software and AI for healthcare companies. New research suggests the Kent ... to such large volumes of water is unknown. Facebook News is adding a local news section ..."
     publishedDateTime: 2021-04-13T13:24:00Z
@@ -1451,6 +1458,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for"
+    publishedDateTime: 2021-04-15T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovoedge-joins-microsoft-for-startups-program-301269124.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1487059/MSFT_STARTUP_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z

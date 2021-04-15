@@ -24,21 +24,46 @@ images:
     isCached: true
 
 related:
-  - title: "Video conferencing company Touchcast uses AI to add context to conversations"
-    excerpt: "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ..."
-    publishedDateTime: 2021-04-13T19:35:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/"
+  - title: "Life Inside The Self-Optimizing AI Automated Company"
+    excerpt: "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis."
+    publishedDateTime: 2021-04-15T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/touchcast_inspirehall_venue_3.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60782b57f405c4c5b83c4b8b%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 789
+        isCached: true
+  - title: "AI, automation the only option for SA"
+    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
+    publishedDateTime: 2021-04-12T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 41
+  - title: "Pega Process AI Delivers Self-Optimizing Process Automation"
+    excerpt: "CAMBRIDGE, Mass., April 13, 2021 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company that crushes business complexity, today announced Pega Process AI – a new set of Pega Platform™ capabilities that help organizations optimize their ..."
+    publishedDateTime: 2021-04-13T13:42:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42d0fef72ab2e738b12453f9e9f7844d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "pi3g+wWmk4CrMAsgnIgU9T3Zv8Ixs10GW1/GBrkG7TWBIMr5IxS51Y1smryEqYhhlhj8oN/51o6vAqsJ6bvwzaSUpErcDt91At+77kp8HYHcWm3kXGbP6W1t2vcEcDw+6Xj4SSH35V/slItEH4XdCggpaeJiQ+17+stp8aOqqlimlZ/9nR0fTSLyjXb2Ktcr0LQUiPUuiGA8b0DSlzZ185IgB+r7zOEMpSxaQOpy6iSX9BVtx+7WrirTehBcFBFJoPVR7WD3cbRKeKLOZEYVRsAboCYVqs268FMPZyAdV8rCFMrLc6/WcK6sjFMQIWfVMGQNrsHjcEEg8dtQjmbVvCrT0dkgv7L3tcsoHz6WCoAXilECovKaqvZfRhWUrngwceNrWbLTyHHyUM3w6LY1ZPaSmfSIQ5kcpFcs4CXHP3pbDmwG91gQh+eRYKNbdpKW89Zc6nzSoUguibaUTayAzOpsIVCEaeMsAOXQ/XUG8r51eWdpPc5GOXoeJ8CvAXDc+rs8CdKFpb2lkdzOGSj+3A==;hQWG6IWX+MQK034O3o+PZQ=="

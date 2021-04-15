@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-publishedDateTime: 2021-04-14T05:57:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+excerpt: "One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI). Artificial Intelligence (AI) is a powerful and disruptive force driving introduction and deployment of more ..."
+publishedDateTime: 2021-04-14T13:00:00Z
+originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
 type: article
-quality: 26
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+    width: 845
+    height: 396
+    isCached: true
 
 related:
   - title: "New Advancements in AI are Changing Healthcare as We Know It"
@@ -51,6 +56,6 @@ related:
         height: 768
         isCached: true
 
-secured: "cDqqX7QNgoUpjY7fMh6hFOzr12cj9eF6C6cap+KgOUPFQWlzmHfROg4IZqgLym2XvzjPPuvggdS+J/qWaLuOgnVW5IyFrssAFyvlkxo4I5wf7PEnkTD3cjudMBVkeZqv4JyGqwGjqz2mEQIE+pTF0IzY9mq47gF27qrDynGC5ZZkPTPHjXWvwSpNUBuELVx3YhudjTGPLGSWh2N/9ccc8fRKmRJVYQpfxqPfmJczda4Q//M30j+BNqt1A6q6qEhayG0FlkvHPQBMwqLZqCDYEmqNOSHtRXFAxoXMgVVoyNKUteyRiHlBlLQEPUgOu6O2Q5pANyhpcsDho3WxjgCETvRtyHfDY7EQheXPRUKzZpA=;R2ub7XY5zKizfIK4YfdM0w=="
+secured: "sGNv+jgkFBal+I2frNstEwh89CMGGpYULZ9S7eCKdcYDNy0WYEwR/FgCZNb9o8nucqkXbuboaqK/S1SDO/ORnQL6uAdKaUhkCrU4zxxOEsgQN1QsAx6Um/0tu1+3kzh0ZDAJc8z54/cwnn5x8xjHMnw7/mPDC8wvn3irfwPHlqnacmGUmVKL++kYNAcmGf+Kx8vcuAb+r2YHftH7VRrfoFfcIbBO+eLJk6Ijv4kXmplTHelXwWFJKMCjNBvcD2WcqpMOej3Rnq0W3W5Dn8KLE5wXlNrLUYY1kUQAO2f1DnY43qZj3LA1wq10but+1f0fH9SgpBrTAYiqGCWoqGA73ng5HABMy0yh6KAzvKd08rg=;RqibIg2dxqkvG3oUpQ32Xg=="
 ---
 

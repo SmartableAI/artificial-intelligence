@@ -36,6 +36,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
+    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 36
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
     excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
     publishedDateTime: 2021-04-12T06:00:00Z

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Chinese autonomous vehicle startup WeRide scores permit to test driverless cars in San Jose"
+excerpt: "WeRide, the Chinese autonomous vehicle startup that recently raised $310 million, has received a permit to test driverless vehicles on public roads in San Jose, California. WeRide is the seventh company,"
+publishedDateTime: 2021-04-12T19:49:00Z
+originalUrl: "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/"
+webUrl: "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/"
+ampWebUrl: "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/"
+type: article
+quality: 179
+heat: 189
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-12-at-12.34.41-PM.png?w=995"
+    width: 995
+    height: 636
+    isCached: true
+
+related:
+  - title: "NVIDIA DRIVE Atlan promises driverless cars sooner than you’d think"
+    excerpt: "NVIDIA has revealed its newest chipset for smart cars and autonomous vehicles, with DRIVE Atlan promising to be “an AI data center on wheels” with an exponential uptick in processing"
+    publishedDateTime: 2021-04-12T16:59:00Z
+    webUrl: "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/04/NEW_NVIDIA-DRIVE-Atlan-SoC.jpg"
+        width: 1440
+        height: 900
+        isCached: true
+
+secured: "pQLZ55slm01ZZ2kZViaSC5UzDCrkKc7wMH/k5idAuDiQEKL+eCXoqhDG07iNAtOoWGm9AxNXwbKY/oSsj7nMzkXuLwpXxjTmLYcJGv5joJh9FOVNLx0+4jbPB2yfvSQYlY1LzmITfSr2n3nn5upKuh3KCsQJQqkdYOcW++1v1IJAdpiefovAjpv6THs6ApcGtrEIUwREf14O0T6+yPwTWAVwx6BKmrBiMN2y7efeoZXBLeQ724OmDUsziBQfWcSlNl3p+yq88s9EBaEbsmzghiJqLDHU/jgQAmn6VI73Pu27TlXCA3/B5Or0ti05PK9CMdsKLMx9TgEGTMkVa8MjhqpLO0CHGQ0/MKAy08gOpq4=;Sa5q9TLt7gw9Ql4BtF74Mw=="
+---
+

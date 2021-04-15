@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
-    excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
-    publishedDateTime: 2021-04-15T07:15:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+  - title: "AWS launches free digital training courses to empower business leaders with ML knowledge"
+    excerpt: "Today, we’re pleased to launch Machine Learning Essentials for Business and Technical Decision Makers—a series of three free, on-demand, digital-training courses from AWS Training and Certification. These courses are intended to empower business leaders and technical decision makers with the foundational"
+    publishedDateTime: 2021-04-15T13:02:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
+      name: AWS
+      domain: aws.amazon.com
+    quality: 112
     images:
-      - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
-        width: 450
-        height: 334
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
   - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
     excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"

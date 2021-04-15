@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Domino accelerates MLOps with new Nvidia integrations"
-    excerpt: "It also allows organizations to standardize on these containers. NGC currently supports RAPIDS, TensorFlow, PyTorch, and CUDA. Domino additionally supports containers for SAS, MATLAB, Amazon ..."
-    publishedDateTime: 2021-04-14T17:20:00Z
-    webUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/"
-    ampWebUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
+  - title: "NVIDIA’s New Grace ARM/GPU Solution Puts X86 On Defense"
+    excerpt: "Toned image double exposure mock up This week is NVIDIA’s GTC, or GPU Technology Conference, and they likely should have changed the name to ATC because this year – it is all about AI. To say this show was rich in big announcements and technology would ..."
+    publishedDateTime: 2021-04-14T17:31:00Z
+    webUrl: "https://www.datamation.com/data-center/nvidias-new-grace-arm-gpu-solution-puts-x86-on-defense/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
+      name: Datamation
+      domain: datamation.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/edge-computing-1-scaled.jpeg"
+        width: 2560
+        height: 1681
         isCached: true
   - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
     excerpt: "Today, Domino enables customers to create framework-specific custom work environments based on NGC containers, including RAPIDS, TensorFlow, PyTorch, CUDA, and more. “Domino’s expertise in managing and scaling data science with discipline and maturity ..."

@@ -2,6 +2,476 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
+      "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
+      "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gtc21-spring-sm-4-topics-collage-2-1200x600-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
+      "publishedDateTime": "2021-03-31T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-announces-its-next-gen-armv9-architecture-focus-on-security-ai-and-vector-processing.md",
+      "title": "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing",
+      "excerpt": "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
+      "originalUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/21/03/arm-v9-announced/inline/-1200/gsmarena_001.jpg",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
+      "publishedDateTime": "2021-03-31T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-digitate-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "Digitate Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "Digitate today announced it has been named a winner in the Artificial Intelligence Excellence Awards program presented by the Business Intelligence Group. Digitate was selected for its excellence in AI-driven products that create exponential value across enterprise business and IT functions.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
+      "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
+      "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-33_WA-Cardinal-Health-Post_2000x1006.jpg",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient.md",
+      "title": "AI experts warn Facebook’s anti-bias tool is ‘completely insufficient’",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today published a blog post detailing Fairness Flow, an internal toolkit the company claims enables ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dataikus-new-ai-tools-reduce-dependency-on-data-science-teams.md",
+      "title": "Dataiku’s new AI tools reduce dependency on data science teams",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Dataiku today expanded its effort to make AI accessible to the average business user with an update that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Dataiku.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-edge-computing-orchestration-startup-zededa-raises-125m.md",
+      "title": "Edge computing orchestration startup Zededa raises $12.5M",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Zededa, an edge virtualization startup, today announced that it raised $12.5 million in an oversubscribed ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/ZEDEDA_Logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising.md",
+      "title": "Windfall nabs $21M for AI that aids nonprofit fundraising",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Windfall, a startup developing an AI platform to help nonprofits engage donors, today raised $21 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arm-announces-new-chip-architecture-with-focus-on-security-and-ai.md",
+      "title": "Arm announces new chip architecture with focus on security and AI",
+      "excerpt": "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "originalUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem.md",
+      "title": "Deepfake “Amazon workers” are sowing confusion on Twitter. That’s not the problem.",
+      "excerpt": "Ahead of a landmark vote that could form the first-ever labor union at a US-based Amazon warehouse, new Twitter accounts purporting to be Amazon employees started appearing, sowing confusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
+      "originalUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/AP_21089718039308.jpg?w=1990",
+          "width": 1990,
+          "height": 1343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
+      "publishedDateTime": "2021-03-31T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
       "title": "Self-driving truck startup Plus raises extra $220 million",
       "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
@@ -707,461 +1177,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-central-taiwan-city-becomes-cloud-talent-incubator-with-help-from-amazon.md",
-      "title": "Central Taiwan city becomes cloud talent incubator with help from Amazon",
-      "excerpt": "Educators will incorporate curricula that meet the needs of the job market. The program's organizers will hold workshops and competitions such as the AWS GameDay and AWS DeepRacer where students can put their newly acquired techniques to test. The demand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.taiwannews.com.tw/en/news/4164984",
-      "originalUrl": "https://www.taiwannews.com.tw/en/news/4164984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tnimage.s3.hicloud.net.tw/photos/2021/03/31/1617164238-6063f7ce50fb0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Taiwan News",
-        "domain": "taiwannews.com.tw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
-      "title": "DALL-E: OpenAI's new neural network wonder",
-      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
-          "width": 1134,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "publishedDateTime": "2021-03-30T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-v9-sets-its-sights-on-ai-and-specialized-computing.md",
-      "title": "Arm v9 sets its sights on AI and specialized computing",
-      "excerpt": "AI, and what it calls specialized computing. The UK-based Arm, now under the ownership of Japan’s SoftBank Group, doesn’t make its own processors. It instead licenses designs and IP to the likes of Qualcomm and Apple who then make actual chips for use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
-      "originalUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/arm-chip.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/",
-      "publishedDateTime": "2021-03-30T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-please-dont-make-me-eat-the-google-ai-cake.md",
-      "title": "Please Don't Make Me Eat the Google AI Cake",
-      "excerpt": "Friends, I’m not typically a picky eater. But there’s something about Google’s new AI-generated cake recipe that... makes my skin crawl just a bit.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
-      "originalUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/x6mrcedvgrv2yg76fdlv.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp",
-      "publishedDateTime": "2021-03-30T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-as-big-tech-enters-the-race-pe-vcs-look-for-next-big-thing-in-chinas-growing-ev-market.md",
-      "title": "As big tech enters the race, PE-VCs look for next big thing in China’s growing EV market",
-      "excerpt": "Lightspeed China also invested in self-driving truck startup PlusAI ... On January 11, internet search giant Baidu also announced its plan to build a new venture for intelligent passenger EVs. It entered into a strategic partnership with auto maker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
-      "originalUrl": "https://www.dealstreetasia.com/stories/whats-next-in-chinas-ev-market-233759/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/electric-vehicle.jpeg",
-          "width": 1618,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dealstreetasia",
-        "domain": "dealstreetasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance.md",
-      "title": "Dystopia Prime: Amazon subjects its drivers to biometric surveillance",
-      "excerpt": "Amazon, the company that brought you Ring doorbell cameras and Rekognition face surveillance, has a tenuous understanding of both privacy and consent.",
-      "sourceUrl": null,
-      "webUrl": "https://ifex.org/dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance/",
-      "originalUrl": "https://ifex.org/dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ifex.org/wp-content/uploads/2021/03/international-amazon-drivers-biometric-surveillance-protest-strike-getty.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFEX",
-        "domain": "ifex.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-buy-the-dip-in-c3ai-stock-as-artificial-intelligence-takes-over.md",
-      "title": "Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over",
-      "excerpt": "Stock Advice & Trading Tips The post Buy the Dip in C3.ai Stock as Artificial Intelligence Takes Over appeared first on InvestorPlace. SEE ALSO: Deliveroo cuts its IPO listing price to the bottom ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/buy-the-dip-in-c3-ai-stock-as-artificial-intelligence-takes-over-1030261001",
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-google-is-bringing-ai-to-healthcare.md",
-      "title": "How Google Is Bringing AI to Healthcare",
-      "excerpt": "or AI, is finding useful applications in healthcare--via such programs as IBM's Watson Health--for processing patient data, suggesting potential diagnoses, making individualized treatment recommendations, and assisting physicians with planning and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/how-google-bringing-ai-healthcare",
-      "originalUrl": "https://www.mddionline.com/how-google-bringing-ai-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
-      "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
-      "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063b82a81208ca49f790c50%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "publishedDateTime": "2021-03-30T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

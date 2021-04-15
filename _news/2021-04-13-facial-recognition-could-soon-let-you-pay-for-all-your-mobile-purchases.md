@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
+    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 36
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Over 1.4 bln to use facial recognition for payments by 2025"
     excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
     publishedDateTime: 2021-04-12T09:38:00Z

@@ -210,6 +210,20 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
+    excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of"
+    publishedDateTime: 2021-04-15T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
     excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"
     publishedDateTime: 2021-04-12T16:22:00Z
@@ -429,6 +443,6 @@ related:
         height: 393
         isCached: true
 
-secured: "sqcUnW0Z7/HNQKMMc9ShzCQQ3K8nEdJlSDZotsDbIbX6wSFbTI5giKV7IWGJPGwNim9iurm2Dbd5MvSgbrNCza0WNK0HZQg0oB0+mEtCN70+G0KC2ItmxGzqUy6GLR7tmeOLurvgAS5gfv1WaJz+i7WpsDTCXvsZ0Kmc7A+/+AKc+c68fRBokvK0EyA0n7F4wiZNSqvlGJs8DhEM8WqFUZFK13zRgFZPPZqstM2tUSEFOcJ81biIrJYuw8qciS00DHVum5ZF+bSe14x5Gc0zWZ4smmsgb8pTBu/pYsJTOJLlroMnYqnTq1uOIXTyzHpSgJGB6EuemBTeuCmPjFb2uKDFRZpMWlMVCWtGg3oem34=;nNLljpCm9XicOTx9/XCXHw=="
+secured: "7j32Bebb4LX6hyxiJPx0CIywwAkQTXBQxFPC20LOHASbvDbp9MqEsf7fQITI87e/+3ywRVzYyeS3C1HzjWT3KhISE5W4qCe3XyE3KRmj/dTRqPd7BvS4o4WgNqwM6Ly8UcD0qqO9iBLLlEAohXSXaZMf0wdq4p4uyCcUfK6uK8981No4l2bxCKaTXj/8jtf8XeQXV8hoQgWQbg/ohMrd9hKPrZFzjpyob+3za0BwyF+Zs6q/4KYx48bubDi11I8pnlCrWTPnGBTeMtm6GFklGzb503KPFJ5DSRO/bQGgJxHxim9relDwQmxbkte1GN2Q/0thJSr/Y4tC4N/5Wcyi5Lt4rxU4HPih1+ds/nrdULzxDWaaAYmsYkJP7rTO+DpVYADdnv2qqCYTPREuKs94kSEFkUJnEi/+CIn2i1K+XphLFMyVntAlUv3D19lAbR8AAVZc5WHboFIbxt8n/gtpM61EH3dIkfK5TVI4WHxDBwRcE/Olu8hYnPD5u31SaQNcuwkNh/31wzCpg0LtaFeZDQ==;nF+DK9fdZmGiCfC9NY12yA=="
 ---
 

@@ -2,6 +2,489 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-02-25-artificial-intelligence-leveling-the-business-playing-field.md",
+      "title": "Artificial Intelligence: Leveling The Business Playing Field",
+      "excerpt": "Covid-19 has catalyzed the accelerated adoption of AI-based business analytics, workflow and process automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/25/artificial-intelligence-leveling-the-business-playing-field/amp/",
+      "publishedDateTime": "2021-02-25T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts.md",
+      "title": "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts",
+      "excerpt": "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine.md",
+      "title": "This Startup Just Raised $123 Million To Develop A New Way To Find Medicine",
+      "excerpt": "The traditional approach to developing new drugs is to focus on a single target - a molecule within the body that is essential for a disease to take hold. Hitting this target - by either helping or hindering how it works - is one of the main ways that new medicines are discovered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60374eb5c51a277e807acf9c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1268%26cropY1%3D65%26cropY2%3D779",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/amp/",
+      "publishedDateTime": "2021-02-25T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-smart-new-features-and-capabilities-added-to-sdl-machine-translation.md",
+      "title": "Smart New Features and Capabilities Added to SDL Machine Translation",
+      "excerpt": "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, includi",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation",
+      "originalUrl": "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
+      "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
+      "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "publishedDateTime": "2021-02-25T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
+      "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
+      "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg",
+          "width": 400,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "publishedDateTime": "2021-02-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles.md",
+      "title": "Mobileye partners with Lohr and Transdev to develop self-driving shuttles",
+      "excerpt": "Mobileye announced that it's partnering with Lohr and Transdev to develop self-driving shuttles for public transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Mobileye-Transdev-Lohr-iCristal-shuttle_image1-e1614042008523.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
+      "publishedDateTime": "2021-02-25T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-dont-rely-on-data-scientists-to-do-ai-heavy-lifting-former-ibm-exec-warns.md",
+      "title": "Don't rely on data scientists to do AI heavy lifting, former IBM exec warns",
+      "excerpt": "Ex-IBM Watson lead Phil Westcott says he has witnessed “a lot of overspending and wasted resources” during his career",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1614244316/shutterstock_business_analytics.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns?amp",
+      "publishedDateTime": "2021-02-25T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock.md",
+      "title": "Robot vacuums: the 5 best robot vacuums in the UK 2021, from iRobot, Eufy, and Robotrock",
+      "excerpt": "If you don’t fancy the thought of having to use an app to control some facets of operation then this is the robot vac to go for ... be able to use the app. Mind, that’s not necessarily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunderlandecho.com/local-buys/robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock-3094991",
+      "originalUrl": "https://www.sunderlandecho.com/local-buys/robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock-3094991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sunderlandecho.com/jpim-static/image/2021/02/16/21/shutterstock_250773361.jpg?width=2048&enable=upscale",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sunderland Echo",
+        "domain": "sunderlandecho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-09-higher.md",
+      "title": "iShares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO) Trading 0.9% Higher",
+      "excerpt": "Shares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO)’s stock price traded up 0.9% during trading on Wednesday . The company traded as high as $48.11 and last traded at $48.03. 118,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html/amp",
+      "publishedDateTime": "2021-02-25T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators.md",
       "title": "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators",
       "excerpt": "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo",
@@ -701,481 +1184,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-britains-gchq-cyber-spies-embrace-the-ai-revolution.md",
-      "title": "Britain's GCHQ Cyber Spies Embrace the AI Revolution",
-      "excerpt": "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
-      "originalUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
-      "publishedDateTime": "2021-02-24T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-why-driverless-cars-are-paradise-on-wheels-for-some.md",
-      "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-301724/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-deepcube-unveils-deep-learning-suite.md",
-      "title": "DeepCube Unveils Deep Learning Suite",
-      "excerpt": "DeepCube is launching a new suite of products and services, including a software-based deep learning accelerator which runs on a range of current and next-generation hardware. The suite targets neural network training and inference while the accelerator is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/02/24/deepcube-unveils-amd-powered-tools-for-deep-learning/",
-      "originalUrl": "https://www.datanami.com/2021/02/24/deepcube-unveils-amd-powered-tools-for-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/deeplearning_shutterstock_Connect-world.jpg",
-          "width": 1000,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T13:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027",
-      "excerpt": "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
-      "title": "Researchers use machine learning to identify autism blood biomarkers",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "publishedDateTime": "2021-02-24T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-is-there-a-more-environmentally-friendly-way-to-train-ai.md",
-      "title": "Is there a more environmentally friendly way to train AI?",
-      "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/robothand_flowerandbees-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
-      "publishedDateTime": "2021-02-24T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-the-cambrian-ai-landscape-cerebras-systems.md",
-      "title": "The Cambrian AI Landscape: Cerebras Systems",
-      "excerpt": "The unique approach has gained the US DOE supercomputing centers' attention, first at Argonne National Labs, which has purchased at least one of the ~$2M systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6036a6e6253479e213a47cad%2F0x0.png",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
-      "publishedDateTime": "2021-02-24T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-5-data-issues-limiting-ais-potential-in-healthcare.md",
-      "title": "5 data issues limiting AI's potential in healthcare",
-      "excerpt": "Technology is increasingly interloping with efforts to make healthcare more efficient. Still, experts are finding it difficult to apply artificial intelligence to medical treatment, according to a Feb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-see-spot-gun-art-installation-controls-robot-dog-to-warn-public-of-its-murderous-military-capabilities.md",
-      "title": "See Spot Gun? Art installation controls robot 'dog' to warn public of its 'murderous' military capabilities",
-      "excerpt": "It is also a robot that can operate machinery and possesses ... Visitors to Spot's Rampage can use their phones to temporarily control the cybertronic canine, firing the paintball gun strapped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theartnewspaper.com/news/artist-collective-strap-paintball-gun-to-robot-dog-to-warn-public-of-its-military-capability",
-      "originalUrl": "https://www.theartnewspaper.com/news/artist-collective-strap-paintball-gun-to-robot-dog-to-warn-public-of-its-military-capability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmdlnu87i51n1.cloudfront.net/v1/uk/ckljp046h000j3h5pcxh0re42/0x76:1696x890/1200x630/screenshot_2021_02_24_at_170156_copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Art Newspaper",
-        "domain": "theartnewspaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026.md",
-      "title": "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026",
-      "excerpt": "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

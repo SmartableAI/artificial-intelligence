@@ -42,14 +42,19 @@ related:
         height: 768
         isCached: true
   - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-    excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-    publishedDateTime: 2021-04-14T05:57:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+    excerpt: "One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI). Artificial Intelligence (AI) is a powerful and disruptive force driving introduction and deployment of more ..."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 26
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 44
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+        width: 845
+        height: 396
+        isCached: true
 
 secured: "YB0fUU8I4bPW4TjuXhJ2O357XdiMfLyoi4CeW5sCacpGzbu5R2gg1BjSbcw9fs2wM4rAAaWPECT1XPpsyYk44WsO1D9euz6dzwAqHiaZRClcdy8xKlF/r46fxVOwngn5Ra1hs8drrlbUougCpRcgzZMyAXO97nVmX5t+zxSg6hASy8naI0956TOeMCxIUW31ujjQcXqhfZ9j22PmW9R2+xq9kmbY1FBkR7kRNnPHJ6mMGEEjMujcRHDhA9OPIlrgYR9NrSAmtE0gaE10BmLKo42DS1MvoqxhlSDX6scCYrJUrm9BaCDsaAM04vHkXZlblo+tzSDlw0d0Z4zDM1KbDd7LDz5v9XKdgg++1U3cZDc=;0QEnJ5ReCemP1S9tBRY6BQ=="
 ---

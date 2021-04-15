@@ -225,6 +225,20 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
+    excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of"
+    publishedDateTime: 2021-04-15T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edge-impulse-democratizes-machine-learning-for-all-developers-on-nvidia-jetson-edge-ai-platform-301269308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Nvidia Is Designing an Arm Data Center CPU for Beyond-x86 AI Models"
     excerpt: "Tightly integrated with Nvidia GPUs, the company’s first CPU is meant for the near future when AI models reach trillions of parameters."
     publishedDateTime: 2021-04-12T16:41:00Z

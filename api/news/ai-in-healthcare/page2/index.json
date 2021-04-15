@@ -293,20 +293,20 @@
     },
     {
       "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can artificial intelligence replace human therapists?",
-      "excerpt": "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ...",
+      "title": "Can Artificial Intelligence Replace Human Therapists?",
+      "excerpt": "Could artificial intelligence reduce the need for human ... often for less money than traditional therapy. The algorithms underpinning these endeavors learn by combing through large amounts ...",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200?mod=rss_Technology",
+      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200?mod=rss_Technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://images.wsj.net/im-317459/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -314,14 +314,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
-      "publishedDateTime": "2021-03-28T08:08:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "publishedDateTime": "2021-03-27T11:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-15T11:00:00Z
 originalUrl: "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/"
 webUrl: "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI Ethics
 
 images:
   - url: "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg"
