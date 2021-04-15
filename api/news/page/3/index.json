@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-13-robot-police-dog-patrolling-nyc-in-video-sparks-black-mirror-robocop-comparisons.md",
+      "title": "Robot Police Dog Patrolling NYC in Video Sparks 'Black Mirror,' 'Robocop' Comparisons",
+      "excerpt": "Robotic dogs called Spot and built by Boston Dynamics are demonstrated during the Amazon Re:MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada on June 4, 2019. New Yorkers compared the city to Robocop after ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "originalUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776950/robotic-dog-built-boston-dynamics.jpg",
+          "width": 2500,
+          "height": 1851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "publishedDateTime": "2021-04-13T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
       "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
       "excerpt": "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ...",
@@ -924,59 +976,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica.md",
-      "title": "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica",
-      "excerpt": "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects such as AI Fairness 360 (AIF360), Adversarial Robustness 360 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {

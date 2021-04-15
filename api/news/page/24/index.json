@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-26-navigating-the-hype-around-artificial-intelligence.md",
+      "title": "Navigating the hype around artificial intelligence",
+      "excerpt": "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
+      "originalUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-4-robotics-stocks-to-buy-to-invest-in-innovation.md",
       "title": "4 Robotics Stocks to Buy to Invest in Innovation",
       "excerpt": "Often, investing in robotics is connected to investing in artificial intelligence. Robots can learn, adapt to new data and become more productive and efficient. There are multiple uses of robotics ...",
@@ -1109,58 +1160,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard.md",
-      "title": "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard",
-      "excerpt": "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg",
-          "width": 1200,
-          "height": 1169,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "publishedDateTime": "2021-03-25T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

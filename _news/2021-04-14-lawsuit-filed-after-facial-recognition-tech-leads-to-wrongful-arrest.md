@@ -243,20 +243,6 @@ related:
         width: 1242
         height: 709
         isCached: true
-  - title: "China's first lawsuit on facial recognition made verdict"
-    excerpt: "A university lecturer in eastern China filed a lawsuit against Hangzhou safari park, which was suspected of requiring the collection of facial data without asking for permission from customers. Hangzhou Intermediate People's Court just made the verdict of the second trial on Friday."
-    publishedDateTime: 2021-04-10T09:34:00Z
-    webUrl: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-04-10/China-s-first-lawsuit-on-facial-recognition-made-verdict-ZlvYRrL2la/img/612a29a9deb34cb69efe82f488567343/612a29a9deb34cb69efe82f488567343-750.jpeg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Man Sues Detroit Police for Arrest After Faulty Face Recognition"
     excerpt: "A man is suing Detroit police for wrongfully arresting him based on a faulty match by facial recognition technology."
     publishedDateTime: 2021-04-13T17:39:00Z
@@ -281,6 +267,17 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
+    quality: 39
+  - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
+    excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
+    publishedDateTime: 2021-04-15T02:02:00Z
+    webUrl: "https://www.law360.com/articles/1374707/detroit-pd-sued-over-false-arrest-using-facial-recognition"
+    ampWebUrl: "https://www.law360.com/amp/articles/1374707"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1374707"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
     quality: 39
   - title: "US man sues police for wrongful facial recognition-based arrest"
     excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."

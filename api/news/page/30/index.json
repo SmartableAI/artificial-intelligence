@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
+      "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
+      "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
+          "width": 968,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "publishedDateTime": "2021-03-22T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-a-look-into-the-future-of-robotics.md",
       "title": "A look into the future of robotics",
       "excerpt": "The robotics industry of the past 30 years will be much different ... hardware that respects the fulfillment center density requirements together with AI (artificial intelligence) software that can predict what items need to be occupying that very valuable ...",
@@ -1150,50 +1193,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-face-recognition-with-smiles-winks-could-increase-phone-security-heres-how.md",
-      "title": "Face Recognition with smiles, winks could increase phone security: Here's how",
-      "excerpt": "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "publishedDateTime": "2021-03-22T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

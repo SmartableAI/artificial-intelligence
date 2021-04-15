@@ -1,28 +1,24 @@
 ---
 category: news
 title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
-excerpt: "designed to support global clients on the Microsoft Azure platform, allowing more countries to meet local regulatory requirements and access improved AI capabilities for managing critical data across the enterprise. Many regions, such as the UAE ..."
+excerpt: "Many regions, such as the UAE, are now demanding Microsoft Azure for the hosting of all their data requirements ... for managing critical data through the use of the latest AI and machine learning technologies. In addition, we have developed new and ..."
 publishedDateTime: 2021-04-14T08:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20614220/smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20614220/smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20614220"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20614220"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SmartStream introduces data management AI on Microsoft Azure"
@@ -68,6 +64,6 @@ related:
         height: 800
         isCached: true
 
-secured: "lBAtDRP2b1K4BfdTvejzej77A2xLGvq+w+RLcTi1kp5aBU3BZ5ub9mtb7beyv1LlA9CNkpNY0X6E3zclp9pgpZcB2q7yND8dKOs/XwD3zl+N0QKpV8E4GHzfbmnJBnkPVRi+GctbQRQOlsDd/d6hdSDwOreVoNKD47SpBZczwcgKg8cOHf+4lNQwKdOKywPmtf/SC1sMhknSNV0ccVKDLB9RtpS4tFOB4rtdI1FxHOnX3iQz8XY+uPp79oOyaHFeyd7TsKIWr6p7u7G9Bg4WrOpLFomdF+mhLksp+UrNxbdxe8xjF6geg1J3BI1cRByy8SHUxHQHsPOulhPeKEXHBPGGUbzNDXDNBphuWyqmER0=;s07Fx9KlYmWXdI5OaH1G3A=="
+secured: "npLyH5X8B7Z1jfSZZFDHYvqVF2+Sdq4yDsaYOO4Dy7M+CRP5xK5K1MEvKqYawxNrbnkNq16vJt0lkp0eUV17t5v4T624nm4H55JTkDibcDE7wtjim6/KqkyyEUcKycJRTTMIVTifmtgO41lk87sJqg+jmtTHJ77m0kTpvP0/flx2wYIF4NbQgaofk/M3WZTunsWfgx6+E2hw0jOyQJC+jaSsqNiD5aJB5f6+c2LEYr5V8GqHK2Pu+DRxbDJCEnN8nVgk9qTWFByODy34eVs6CjiIF0lFLIGFAFeqtLbNmoZKcd8zYLLkzIQgL9tSPDJF8jbIaUih3c+h14u/Dz1XlxXJ+BBpB8KfI9GLwxqt5IQ=;dWG6frw4LzwntORmEmgkOw=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-15-california-dreaming-artificial-intelligence-and-robots-are-helping-farmers-prepare-for-climate-change-crisis.md",
+      "title": "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis",
+      "excerpt": "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "originalUrl": "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "publishedDateTime": "2021-04-14T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-tesla-next-gen-full-self-driving-is-delayed-to-may-june-subscription-coming-next-month.md",
+      "title": "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month",
+      "excerpt": "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
+      "originalUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
+      "publishedDateTime": "2021-04-14T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-new-deep-learning-ai-tool-can-revolutionize-microscopy.md",
       "title": "New Deep Learning AI Tool Can Revolutionize Microscopy",
       "excerpt": "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,",
@@ -198,49 +293,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space.md",
-      "title": "LOUNGE LAB Barista Robot joined Hyundai Motor's IONIQ 5 Experience Space",
-      "excerpt": "One can experience various things with robot hand drip coffee for an 18-minute charging time. Cloud technology delivers the same taste of coffee as in-store in catering",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/16e6dd091e0c037c0fe5874b61d80544.png",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20627997",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20627997",
-      "publishedDateTime": "2021-04-14T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1198,49 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-smartstream-introduces-data-management-ai-on-microsoft-azure.md",
-      "title": "SmartStream introduces data management AI on Microsoft Azure",
-      "excerpt": "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure",
-      "originalUrl": "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

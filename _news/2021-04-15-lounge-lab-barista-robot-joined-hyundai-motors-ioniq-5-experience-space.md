@@ -1,31 +1,29 @@
 ---
 category: news
 title: "LOUNGE LAB Barista Robot joined Hyundai Motor's IONIQ 5 Experience Space"
-excerpt: "One can experience various things with robot hand drip coffee for an 18-minute charging time. Cloud technology delivers the same taste of coffee as in-store in catering"
-publishedDateTime: 2021-04-14T19:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20627997"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20627997"
+excerpt: "One can experience various things with robot hand drip coffee for an 18-minute charging time. Cloud technology delivers the same taste of coffee as in-store in catering . Korea's first robot and barista collaboration café,"
+publishedDateTime: 2021-04-15T03:44:00Z
+originalUrl: "https://menafn.com/1101916926/LOUNGE-LAB-Barista-Robot-joined-Hyundai-Motors-IONIQ-5-Experience-Space"
+webUrl: "https://menafn.com/1101916926/LOUNGE-LAB-Barista-Robot-joined-Hyundai-Motors-IONIQ-5-Experience-Space"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.getnews.info/uploads/16e6dd091e0c037c0fe5874b61d80544.png"
-    width: 600
-    height: 401
+  - url: "https://menafn.com/updates/pr/2021-04/14/G_bd75bd4a-6_Image_In_Body.png"
+    width: 361
+    height: 480
     isCached: true
 
-secured: "7k3ew7HTa3APq9ukJNbWgEDr2povZSkUjlmANLmqCTbOaXbguvngs0lpDMvFk7U7KlMg4XJCidwpss64yePWpbvJ16uJdVbRydK5J95crb+e/qmFveaA1C0AVSDvxP9gnzFs8K39gCD2hlgflBJM3wIvwVFvO3JiE6IoYU5BdzPuHHM5VaHOvPuTwnBZIHCdTnrhWKk8Bb3WqJQQqtzeat/zp6HEt/CAy4CxnHSSZoSSkt8YzGOXslWpC8LOVpzuWfdyhIYSTzq1crJAp4jI5ic2bdJxwoKG3+CZ/wDvsuQrEJN1vJQx6MZktcX8X0iNuFv9qzfs/lm4XoYCGRUXUwZc+6PZS2uyMdPDTI/PwiupCHhuEk2LSStXyoLV63vJNO6V25rX99DXA7Ogk9wrtCMB3zDng5BZdvR0GHuG1LBssvQ3dBhb7cBgWEcH90vLKM7AY+sELt3i4PMWOxExYgqgmmjIkGrp/qHg8jXvHRixciiTdFqKrtjatdtUU5uHxAlkhHzJZAXI29/UvSOP+w==;Ofd/ANfGlr6q8HkWyKk+AA=="
+secured: "ecZ0NIWmdAdFBc5RJmrrfDf2YRkWu+8nVLwwSguJHCSS8YRUeHEzxrV3pWWAISp8RwuekJV6uSYIps6jWypPrqZ51haTmMtXzvp3GjLkhlnWsEtLs0k5+HFVXlT5mtTPfvPGLh9Aob5m4YNZ0QXEIbD24qTUr+FPnYKuqWpg4y45CXb+gmLJz4GXW+C/PsszZQFumBVEOML8KnqA01ftCpaboSWhxS1WGno8moUDW2ZKXg4rQ4ZRKeixdcMbJoDvUGjH6/A9BNkGqBfURBCj0z813F+nbHV2trZ5TTpiUZbop6eHyxmYHMLdre8znzSBlNuD8wk7CPWr812Z45s3IC/ETo2+gQkjMgWpiDhQjJ4=;c1ebeZjazT/m9rAXcYzuMQ=="
 ---
 

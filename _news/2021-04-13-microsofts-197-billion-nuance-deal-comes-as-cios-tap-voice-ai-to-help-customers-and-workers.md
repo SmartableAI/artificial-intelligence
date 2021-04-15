@@ -1187,17 +1187,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "Microsoft Researchers Claim Entire Universe Is a Machine-Learning Algorithm"
-    excerpt: "Researchers working with Microsoft published a preprint paper on Friday describing our universe as an algorithm that’s continuously learning about itself."
-    publishedDateTime: 2021-04-10T10:58:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm"
-    ampWebUrl: "https://futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/microsoft-researchers-claim-entire-universe-is-a-machine-learning-algorithm/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
   - title: "Microsoft Buying Nuance In $19.7B Voice Recognition, AI Blockbuster"
     excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
     publishedDateTime: 2021-04-11T23:54:00Z

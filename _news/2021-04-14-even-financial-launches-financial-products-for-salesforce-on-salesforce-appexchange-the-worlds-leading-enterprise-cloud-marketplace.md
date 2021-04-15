@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica"
-    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects such as AI Fairness 360 (AIF360), Adversarial Robustness 360 ..."
-    publishedDateTime: 2021-04-12T21:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12"
+    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
+    publishedDateTime: 2021-04-12T22:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20589111/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-pymetrics-informatic"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20589111"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20589111"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "7GawyZxd/HaiGdwMzkxD7KQVyDD7vdPdZTtJolrJwgkgyAnXFN3qkzR8F+7sD5teY3pCFcMIt6ATaP5A2ItffzLiLgcSopaTK0P3SQa/wRBswT85FQbknXIlJ0o2I97ok2DfIK9huLl5K+k0/X+g0CjH2WwC7B3WQgEQHWk2SsjapV+hPzsPnYqEUn8sI8B2HMID0lAwxlofQG5NITR5tLkRkrmBskCIclMxcVaDaOgSkGPzIN/j4heOfF+wKdaWB9/ecOBAqWrJl3K7Do4e95ka2vazYwKc14lCGQB3giYRapYFVa33SBnEzcpJtSNx+cWDoymChR4aGH64iHvx9HI4abeCVzaI2O9KiYOmYxI=;krroHEfNmc6lHyxllrO71w=="
 ---

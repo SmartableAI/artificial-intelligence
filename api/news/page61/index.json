@@ -2,6 +2,48 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
+      "title": "Fast-food drive-thrus are getting smarter. Here's how",
+      "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/fast-food-drive-thrus-are-getting-smarter-heres-how/ar-BB1e2Apw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152154-restricted-01-fast-food-drive-thru-technology-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "publishedDateTime": "2021-02-26T12:15:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "domain": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-ai-conquers-challenge-of-1980s-platform-games.md",
       "title": "AI conquers challenge of 1980s platform games",
       "excerpt": "Scientists have come up with a computer program that can master a variety of 1980s exploration games, paving the way for more self-sufficient robots. They created a family of algorithms (software-based instructions for solving a problem) able to complete classic Atari games,",
@@ -1165,58 +1207,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
-      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
-      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
-          "width": 3105,
-          "height": 2070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
-      "publishedDateTime": "2021-02-25T22:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

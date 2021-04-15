@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-25-microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard.md",
+      "title": "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard",
+      "excerpt": "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg",
+          "width": 1200,
+          "height": 1169,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
+      "publishedDateTime": "2021-03-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-will-self-driving-cars-disrupt-the-insurance-industry.md",
       "title": "Will Self-Driving Cars Disrupt The Insurance Industry?",
       "excerpt": "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry.",
@@ -1090,58 +1142,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers.md",
-      "title": "Apple reportedly bans facial scans of employees, but not factory workers",
-      "excerpt": "Apple's new security guidelines reportedly increase surveillance camera use and require background checks on factory workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
-      "originalUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
-      "publishedDateTime": "2021-03-24T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

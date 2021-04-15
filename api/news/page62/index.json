@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-spy-agency-artificial-intelligence-is-already-a-vital-part-of-our-missions.md",
       "title": "Spy agency: Artificial intelligence is already a vital part of our missions",
       "excerpt": "The UK's top intelligence and security body, GCHQ, is betting big on artificial intelligence: the organization has revealed how it wants to use AI to boost national security. In a new paper titled ...",
@@ -1129,40 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-huawei-uganda-offers-free-ai-training.md",
-      "title": "Huawei Uganda offers free AI training",
-      "excerpt": "The HCNA-AI course uses a mainstream TensorFlow framework and supports Keras, a neural network API and deep learning framework written in Python. Learning material from the course involves basic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
-      "originalUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

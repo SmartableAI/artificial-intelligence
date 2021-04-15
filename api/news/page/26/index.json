@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-24-apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers.md",
+      "title": "Apple reportedly bans facial scans of employees, but not factory workers",
+      "excerpt": "Apple's new security guidelines reportedly increase surveillance camera use and require background checks on factory workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "originalUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "publishedDateTime": "2021-03-24T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
@@ -1103,50 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-computer-vision-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "ZMR analysts forecast the latest report on AI In Computer Vision Market Size continues to grow from 2020 to 2026, according to their latest report. The report on the global “Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthcarecmi.files.wordpress.com/2020/07/analysis.gif?w=800",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.nrn.com/quick-service/chick-fil-tests-robot-delivery-s
 webUrl: "https://www.nrn.com/quick-service/chick-fil-tests-robot-delivery-southern-california"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis"
+    excerpt: "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors."
+    publishedDateTime: 2021-04-15T02:14:00Z
+    webUrl: "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
+    ampWebUrl: "https://abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 55
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "University of Southern California Information Sciences Institute researchers using AI to decode unique cultures"
     excerpt: "Following a $2.2 million DARPA grant, researchers at USC Viterbi’s Information Sciences Institute (ISI) will use AI to disambiguate these cultural codes to better understand the social science that drives group behavior."
     publishedDateTime: 2021-04-14T19:14:00Z

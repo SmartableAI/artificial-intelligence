@@ -54,19 +54,16 @@ related:
         height: 800
         isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
-    excerpt: "designed to support global clients on the Microsoft Azure platform, allowing more countries to meet local regulatory requirements and access improved AI capabilities for managing critical data across the enterprise. Many regions, such as the UAE ..."
+    excerpt: "Many regions, such as the UAE, are now demanding Microsoft Azure for the hosting of all their data requirements ... for managing critical data through the use of the latest AI and machine learning technologies. In addition, we have developed new and ..."
     publishedDateTime: 2021-04-14T08:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20614220/smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20614220"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20614220"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "luP5T4kQUqlAjQICxcJpbzOBwPaThYj/IW+XpxejuP4jCgOICephHI82jJ9zn3+2pyOhvPEGmC+3bXGYxjm7AKUBfn6BuFy3WebA1ikGjYTX7KNsiht7q7pN4cBpgSKchNMZVEIe5o6ySpjvPO9/lncAPlE5rVZYGeEi64XZ4NxgJE/Gb3jpP9+KdkXGQt0FQuS29OmgjN1v5l2viGdmG9Xsff1QT3Yy4XQwZk2Pw29VMIc3R4R9aZ9DAHUPOYxy3Gx4ubs+OxjuynTs+/sHynCZh7VkQxZGmWRnWQM1T+bOGFKBUlDbxFfCSkGMe5iVWmc5dA0+jbu1jgL9aj3+qekv+BCdRlAKhGvROiBG1KU=;svYSC+pNaUpnC6yXdCwjrw=="
 ---
