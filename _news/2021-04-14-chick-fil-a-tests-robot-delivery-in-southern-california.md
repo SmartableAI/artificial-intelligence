@@ -28,13 +28,13 @@ related:
   - title: "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis"
     excerpt: "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors."
     publishedDateTime: 2021-04-15T02:14:00Z
-    webUrl: "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
-    ampWebUrl: "https://abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+    webUrl: "https://abc7.com/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+    ampWebUrl: "https://abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: ABC7
+      domain: abc7.com
     quality: 55
     images:
       - url: "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg"

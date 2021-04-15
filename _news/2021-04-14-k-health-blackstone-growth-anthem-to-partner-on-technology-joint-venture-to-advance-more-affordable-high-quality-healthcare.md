@@ -1,10 +1,10 @@
 ---
 category: news
 title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
-excerpt: "K Health and funds managed by Blackstone Growth (“Blackstone Growth”) today announced the formation of Hydrogen Health, LLC to help create innovative, digital-first healthcare solutions. This joint venture is also backed by an investment from Anthem,"
-publishedDateTime: 2021-04-14T13:10:00Z
-originalUrl: "https://apnews.com/article/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
-webUrl: "https://apnews.com/article/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
+excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
+publishedDateTime: 2021-04-14T13:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
 type: article
 quality: 11
 heat: -1
@@ -82,6 +82,6 @@ related:
         height: 364
         isCached: true
 
-secured: "169U2owNlgWQFG9mCmzoUq/mhM8etJpI6r68kUYjse6EOz/roZD1eBG/UnhTEcjtJTApGS31R0gv8wlozUrm22S5ZVgPNS5OBSSmFmx3h6EmiqKkRb0lRYMOu2Fia2YR10tciGpkuLGLvRXCYfOV26Dkyr7IpsOLuyeOAFY0iJViwoZf0C5WiKFR0y/guEcDd7Xop2ksjLTfid8OFV+9p9EWb8AO38PazA5G1b4PLFOs2nURns0ujWEbPnjD/T/pN0h2wyNtl9Azh/MZZ3w0PQDO7mIEvLI5Ctp0bupo+nV28umoP6YAtQDqzQ0Hjf3/u51UpdWSbv6Dif7BxUwJLaB+bQwSdMsvhF/cHOgEgXw=;GOsyXroUq1Cr/yk2df1zCg=="
+secured: "jKC3MMR3wbdQ0hPBBtpHQ3I8zCy9J/37qUWoQQ+E8qTIYByVs2Le87PDh9aZRLT8FJskLZ4mr1jkiC6GmZCLkSmOkjJZkOjKS+TzrOOB+rOeemFyOWdSHuGdRb1ZjeVIGxoS4Q0ykZKz9H3VqWBBnncjwjUO+tnIqRd63mzR6QOpPE9EwBG1Y0r+4/84lazICP03ZwQ0wm/ZpnwpYZ7WO+ryy2/pd7PewBvemHHwHIdLxYMCjtBiWM+oMJAVFuBNADtcUHjf6mE6hAduwxX2b/EOEDCWHc2n25FdhOMNCRgx+TKnvMIWzUZAOKirNMcW9UVtoZse+c6ZO/vqAy3RAR8qwDXetQB0EnrGnuH1C3E=;sytydgRG1J3A1lBU28fB6w=="
 ---
 

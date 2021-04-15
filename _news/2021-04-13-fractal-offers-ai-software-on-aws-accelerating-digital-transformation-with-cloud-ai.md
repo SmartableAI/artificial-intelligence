@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-soft
 webUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Olive AI software enters operating room through acquisition"
-    excerpt: "Olive AI Inc. is extending its artificial intelligence to the operating room with its second acquisition in five months. The Columbus health IT company has acquired Empiric Health, a Salt Lake City startup whose software hunts for patterns to improve ..."
-    publishedDateTime: 2021-04-13T18:04:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2021/04/13/olive-acquires-intermountain-ai-spinoff-empiric.html"
+  - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
+    excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
+    publishedDateTime: 2021-04-15T07:15:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
+        width: 450
+        height: 334
+        isCached: true
 
 secured: "B2l0V2Wcf5v8SwG6V6RNdTx8cxjve2PBgBo5sSFpo4gy+KgWa/FbUIeQrsZIY+6b0BKPXYSdOnWWdPq4Pc7wfBxRU/V8g9HZHMolBf4NhpgfjKMjRc56QF8L+1hrXT6pItEojcrYPUS5gF45HafTf6fO0b2CGPMtoUH1Z0DA3PDgh89XXNxoT2TVQ0SiaIi4VhgubYzD0MWFypj5zbsazHSqzcEaJCHhsPh4v6f7ji+C0BS/eMV4K9w1ZrroysA+om2CMrBzGFr8lZy87bXgDJNwVWgIqy7otBcDoYXcYhXLn+1kkF/23ZeeeKLxo8fHBJspBcoGpf+OCd4Lpl+9Q5OAkhRyRz5Zq7lxcZnJRls=;/7YRUtPzEbwN5tvT5gpbxg=="
 ---

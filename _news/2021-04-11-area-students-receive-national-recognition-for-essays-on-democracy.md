@@ -25,49 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Social wasps lose face recognition abilities in isolation"
-    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
-    publishedDateTime: 2021-04-14T17:29:00Z
-    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
-    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+  - title: "Why women's basketball still fights for equal recognition"
+    excerpt: "“Upon the men’s coach’s hiring, all of a sudden the entire facility got a face lift on the men's side.” Williams noted. “They got a brand new weight room, they updated their offices, they updated their practice gym, they updated everything."
+    publishedDateTime: 2021-04-12T22:36:00Z
+    webUrl: "https://www.nationalgeographic.com/culture/article/why-womens-basketball-still-fights-for-equal-recognition"
+    ampWebUrl: "https://api.nationalgeographic.com/distribution/public/amp/culture/article/why-womens-basketball-still-fights-for-equal-recognition"
+    cdnAmpWebUrl: "https://api-nationalgeographic-com.cdn.ampproject.org/c/s/api.nationalgeographic.com/distribution/public/amp/culture/article/why-womens-basketball-still-fights-for-equal-recognition"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: National Geographic news
+      domain: nationalgeographic.com
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
-        width: 900
-        height: 1035
+      - url: "https://i.natgeofe.com/n/89f21244-b67c-42fb-9860-883ac90703d7/ncaa-women-basketball-1308280156.jpg"
+        width: 3072
+        height: 2048
         isCached: true
-  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
-    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
-    publishedDateTime: 2021-04-13T22:23:00Z
-    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
-    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 39
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
-        width: 880
-        height: 542
-        isCached: true
-  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
-    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
-    publishedDateTime: 2021-04-13T23:12:00Z
-    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 38
 
 secured: "wIGD+6rjFK/WRkLK8DkPNvwUwruP0rPnOAIBbxhSG7U4vOo8pto4sOcgwyj/xYzfAbCnFmgOn+ncMhmh0q7CuFSDYpt3bk9Tz+ubLgvFdqbsvM2mY2d6Oj6MN+uX5NpZA4vWhUBksLjNrxocP+YANhVhTTOelLZkmU1CQnU0dr311If5wD3epNrGb2lT4aBAeUNVa0h4C8GEIK6OnzgP5D6OcYWvVqKZAkPN7O8utV1n5aZB84qVW5sxHKAsIrMMPIOV/3wzrG/6Nkr5+wDVsbWOt2sesOkU0che72aQhB8cjnpzW3LgMNONr7TqElbaickpqtGupis2UOUMuE0bRkOl2EKuaxZPoxVGohlkQmY=;udbMY83EwKj8LMMLfHzn9A=="
 ---

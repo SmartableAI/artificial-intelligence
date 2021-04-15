@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-publishes-national-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Robot Laura: an AI is helping to fight covid-19 in Brazil"
-    excerpt: "An example of this is Robot Laura, an artificial intelligence that already worked in Brazilian hospitals originally to prevent cases of generalized infections, the so-called sepsis. However, with the start of the pandemic, startup Laura, owner of the ..."
-    publishedDateTime: 2021-04-10T13:59:00Z
-    webUrl: "https://www.somagnews.com/robot-laura-an-ai-is-helping-to-fight-covid-19-in-brazil/"
-    type: article
-    provider:
-      name: Somag News
-      domain: somagnews.com
-    quality: 54
-    images:
-      - url: "https://www.somagnews.com/wp-content/uploads/2021/04/Robo-Laura.jpg"
-        width: 1120
-        height: 420
-        isCached: true
   - title: "Strategy in the Artificial Age: Observations From Teaching an AI to Write a U.S. National Security Strategy"
     excerpt: "In every iteration of the artificial strategy, the neural network deep writes that the strategic environment will have changed “significantly,” “markedly,” or “dramatically.” Likewise, prior national security strategies have had high levels of ..."
     publishedDateTime: 2021-04-14T07:45:00Z

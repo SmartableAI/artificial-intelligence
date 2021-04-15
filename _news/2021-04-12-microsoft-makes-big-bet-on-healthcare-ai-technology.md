@@ -873,20 +873,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Physicists working with Microsoft think the universe is a self-learning computer"
-    excerpt: "Per the researchers: For instance, when we see structures that resemble deep learning architectures emerge in simple autodidactic systems might we imagine that the operative matrix architecture ..."
-    publishedDateTime: 2021-04-10T14:00:00Z
-    webUrl: "https://thenextweb.com/news/physicists-working-with-microsoft-think-the-universe-is-a-self-learning-computer"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbrokenbrain.jpg&signature=7e074ff08d2083ba04f55ad1bc4bbcf5"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities"
     excerpt: "Nuance, based in Burlington, Mass., is considered a pioneer in speech recognition and artificial intelligence technology used in healthcare. The company's technology is used by more than 55% of physicians and 75% of radiologists in the U.S., and used in ..."
     publishedDateTime: 2021-04-12T14:16:00Z
@@ -1156,6 +1142,20 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2018/02/microsoft-1.jpg.jpg"
         width: 1920
         height: 1440
+        isCached: true
+  - title: "Microsoft's healthcare partnerships in the last 6 months: A timeline"
+    excerpt: "Microsoft has continued its push into healthcare by pursuing strategic partnerships to improve the nation's COVID-19 vaccine rollout, conduct clinical research and help hospitals manage their data. Below is a timeline outlining key moves Microsoft has recently made with other organizations: Oct."
+    publishedDateTime: 2021-04-14T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-s-partnerships-in-the-last-6-months-a-timeline.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft buys Nuance for $16 billion in a major push into health care AI"
     excerpt: "In a bold acquisition that could solidify Microsoft’s growing influence in the health care industry, the tech company agreed to buy artificial intelligence developer Nuance in a deal worth $16 ..."

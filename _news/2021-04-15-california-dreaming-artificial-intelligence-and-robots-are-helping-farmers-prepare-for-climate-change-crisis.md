@@ -3,22 +3,22 @@ category: news
 title: "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis"
 excerpt: "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors."
 publishedDateTime: 2021-04-15T02:14:00Z
-originalUrl: "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
-webUrl: "https://abc7news.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
-ampWebUrl: "https://abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
-cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+originalUrl: "https://abc7.com/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+webUrl: "https://abc7.com/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+ampWebUrl: "https://abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
 type: article
 quality: 55
 heat: 75
 published: true
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg"
@@ -56,6 +56,6 @@ related:
         height: 420
         isCached: true
 
-secured: "uVjpqeo5h4vGq+48FcA+n9HXYGbDg/I96qIHoE1uVtgBUI/F5DXybpwg1tGwcCYukkKUGSO48FAqgO/eCVGq7+DdmciTA3O8wMEI801ek6rUwlZK6nvOEcTGZDoxxGYRHCKrV3NgSE/YeGYzgqEtvsvkURSeNZj+qwtLvJCkut0QFb3Sz5L7khEENK6VKj8GRXbcTtzDQHprOc3h8PqW6gbpEwh0dgT0R1w39Iq2qAxACwN+q+oSstoLu4Xg7vrJ5U376SMaYq2fn3Cnl9RObgjZO1EbzLSXY5eBmK0zqGpdwCdZyw3TpnySjeu7xbH2K3dBvUfYs7KKhCv94VgxNsvOOnR0pHalCdlMxBV1fEK8eGe8Yrlizu0YNzNj0DsZ2iKr0aK/LrO/A8bw19hwvyoxtB3RFAHstyeppUtS1UlLr9VSc9JNgSAjaSHY2erVI9aZmb7tpHxoQ/mALj9NwSjlL9CQmRpOLosVK0W1Kp/YUjh3lznxgBLB56ah2s+JP29PgL8WsrH7KHifirKBjw==;ytRmzhh5K6wm7zLPX1b0gg=="
+secured: "nlmH0VpLv2eCQfUvGFoshxn4NM79+CQcVXwmbMX+w0welniCLxJfkVJqZz0Xh81ykBo/zzycuebfD84zgVKgB4qOpViOdC6B2601thKz1/IkSq3trZXtTnxaYui3YqlzyXXRH26nsLFQ6DYuK333kht2wG5XaJf2LQZqDKkOUr1oXFDYtIaianeIyE5+NtVWqVNHivwQjgqtIUHNBYYsP8b9+NpfpTCjyZCzqCGeDU2Y9UU8CILXkCSVBW2n4qGn3XfjXv2zUKLLwYCVdfOfl3G2oTN+Zq8FQ0HKg76/ucqPbWemwqdTG0KK7iNidh7e8c9sUyzfSsM+tnJqVkeU9MiI/yLZEBVDZAsxj0UF3qo=;Jl597fKnbn4UciOIdbxVew=="
 ---
 
