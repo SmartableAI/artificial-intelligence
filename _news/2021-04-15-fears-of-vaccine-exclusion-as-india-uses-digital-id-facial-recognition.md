@@ -2,27 +2,29 @@
 category: news
 title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
 excerpt: "Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres,"
-publishedDateTime: 2021-04-15T14:06:00Z
-originalUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
-webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
+publishedDateTime: 2021-04-15T16:36:00Z
+originalUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+webUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+ampWebUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
 type: article
-quality: 69
-heat: 109
+quality: 59
+heat: 99
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/2021-04-15T101154Z_1_LYNXMPEH3E0KY_RTROPTP_4_HEALTH-CORONAVIRUS-INDIA-VACCINE.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Social wasps lose face recognition abilities in isolation"
@@ -88,6 +90,6 @@ related:
         height: 542
         isCached: true
 
-secured: "yEv76VD2kmoD52hF8GBgowh9T/Q3sW96q2EtRQBQO9yhmOuFOagjdINexyLVRaCImDrrwIszJ1yoLNwO7ywCvACGcvW/+FKus2lwzd3TZm9s2L+RA7W17uyexw8In8IN5P+XVUVDsHS85oOm0xYPVK5pjJfZAvvUZaOVbkc5ynMpVJxlGJPvXhf2DUX66SaSWXCc8VZD0jbVVI3XaX8oluNSFeTGCis1kmkGeyud7GzDk/B+UR+aKNE2KrSc8KeqGunOchdAWK9SQtISgbKob9OBXjvLNKa8NkCSMUXzyAgfHxKt7cuMjZ/OgWfovUx0MIDRvlUOgGAfbYPyef1wtRCrBea7/kGNIJ9RXiyPbBY=;29ejJg6nrYcLgyI/uIbjWA=="
+secured: "KfN8JNMd9CP8SsO4jqrcKXRatfG7+DbKXV7mlzHj3zKo30GukUo5K6P0bMhZJQa056IGJ+MAMrV/lNz+S4ZvC2ee0H4Ccs91aaduuQ/T7bshpsnx22lYOgTQlumP7UBdA4Cwf8w/bkJAv4VNILnUPQef0wN0Z6tHXElAJsEFhf6fINSTFtxQAW1MkBWqmQSQyiFTokz5Gk7+qnHqi9pFalGjroZKVAYd0Ougz1oPE1T2UYh/qaRRv18OHihnkuXDJtTeaxsosghAVw4c91i0N6qLCx6GPYYlO1/vnYTxCFvtK4/VobRJu207jBmQOC/5Wr/eUPtEsjxebikLcduj/37YcNJ7Ax363JrP44d6Yow=;5UcAteSI1RCUidWAe9CiMg=="
 ---
 

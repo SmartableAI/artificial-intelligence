@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/cruise-self-driving-cars-artificial-int
 ampWebUrl: "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/6070b4644943790018bb1bc4?width=1200&format=jpeg"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+p4XwLCgMbO7MXA/uRXNdCcHDBc29IkDR3hxrU8KGD/jBptlkprl09Eg7OSS6MBAL7udNpoz1zd965d7JOkKpS+aWz/txfo/GosAocFL2IayqVvxyBahF8OKxBtBhxjS0A8BXG7ejQ+P36uReIhmgmL5w9GBNdRo8J+8YK10p+uQ7fIplVESfX+TonnYk63bZ7WTWb9VcHLsQBrvg0obnTyQx/F4yK+8Tru9JDJEDWVLPtSWxA/DX9GFkZ6qKq7iWcn/wA8OBzBoHdrAiRaXvWXLQMdfJdYy3pqAwUYu1mvFnO73urRxoGi5kq9Mv7+/MpNxBujCqsxHppKsI9ahFUTUdXVBAhY8j3YDjfQW3Vo=;ksvwWDSmPzJ56uqOTEVa7g=="
+secured: "7QfGKzin3rIw0WBtjwl0PR6FVwU8dtJdUrMykDYoLdxh/0WCJ2Q9xlgBNEk8o3jjRwS5ngVF/ioerjvN9cEpdNWBwaXrq3hqrZ2MNq15lwQ3Vcdliz3t0Yo32Km/JLaBouVhzZgr3li5JVyw5pT1lTY9utVj8UxbzzbX8H2cFkteik2sb4SYcPDHeg+tq0bpZUmBRNyzhKHgAnZ0Iltd5+F0qmeH+kBiMuBDvzCG/JJ3zVPLD6TiDyw72FlyibQToVlfLesvdpz/7f8IdA+qwJ52eudwLrQ9MPhtUhPPwAYEXVS5hlgQCAKvx5lLin8XdCU+1cp5gua+EgfTwIgPyY3L4zeIWhmrprMvOvDRXvZS/cstO6m+LbGeCo7V1X8iVuxwDr6uwjiN1wrrNYku/0JuRMcO4b9ivZ2JFKbT37d2PrMtDu/13cF5zCa/Vlk1Kvq7FjWsJ09zcd1kQNmTNadtmdkn9MW5Qw/gjYKuXmgzPL9Y4KggFb0TM9gREGGOOKPD7uM67uzv5XjgOzXRag==;EOylNkrW5W9RwGZ4ZuckVg=="
 ---
 

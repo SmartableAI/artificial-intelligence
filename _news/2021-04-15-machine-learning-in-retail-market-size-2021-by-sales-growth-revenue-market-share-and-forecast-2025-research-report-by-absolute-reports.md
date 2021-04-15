@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-reta
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-2021-by-sales-growth-revenue-market-share-and-forecast-2025-research-report-by-absolute-reports-2021-04-15"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Machines Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
+    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Machines"
+    publishedDateTime: 2021-04-15T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -287,6 +287,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Microsoft doubles down on healthcare and conversational AI with purchase of Nuance"
+    excerpt: "Nuance has been the largest independent speech recognition vendor servicing healthcare and enterprise customer service markets. With this acquisition, Microsoft gets serious healthcare chops, an arsenal of conversational AI assets (including voice biometrics),"
+    publishedDateTime: 2021-04-15T09:42:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
   - title: "Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Some tech forecasters have been predicting for years that voice commands will become the dominant way in which people interact with all kinds of devices and voice AI has scored notable successes in the consumer world. The explosion in use of personal ..."
     publishedDateTime: 2021-04-12T22:15:00Z

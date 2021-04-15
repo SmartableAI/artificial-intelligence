@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "Autonomous trucking company Plus will use AI and billions of miles of data to train self-driving semis"
+    excerpt: "By this time next year, hundreds of automated trucks powered by PlusDrive will be on the road, hauling commercial cargo."
+    publishedDateTime: 2021-04-15T16:15:00Z
+    webUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/"
+    ampWebUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Pluss-Autonomous-Truck-Powered-by-PlusDrive-4.jpg?w=1200&strip=all"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "AI, automation the only option for SA"
     excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
     publishedDateTime: 2021-04-12T09:02:00Z

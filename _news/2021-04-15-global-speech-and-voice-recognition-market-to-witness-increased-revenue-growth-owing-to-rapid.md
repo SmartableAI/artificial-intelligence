@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Machines Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
+    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Machines"
+    publishedDateTime: 2021-04-15T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
     excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
     publishedDateTime: 2021-04-14T05:57:00Z

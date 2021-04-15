@@ -37,6 +37,22 @@ related:
         width: 1000
         height: 400
         isCached: true
+  - title: "Machine Learning Slows Down Future Pandemics"
+    excerpt: "During epidemic outbreaks, machine learning (ML) is used to find effective testing methods, thereby helping to better control the outbreaks."
+    publishedDateTime: 2021-04-15T17:11:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "fhVYHoGwJ9apm6bax8N9GRK367Pw9wY8FZaysLtbLV5SMi0lNnxPMddPKpBPiejN5LG3lGG7dO2BkF7r+RVlmYBWgDvl/+IEW9eEJOOtGU9oRN5wPzUVEy1sKOjavb1PSIHkBpr+JGDOZmQmHrq7ZdkdqoFn0Fusm9fHbOsWQNsCiQg6puzxhYSboRAfp8QTwDbhexpCiahp8/b4R5ztlvLelDpuI1GkCq8a2IibfGo5PW7yrJFHZ9pmkgfEV4Wrdug3b4yw8fLRzHKDVBFX3/6twiVbTGfe8fHg/hgZB4SmxSbAj+gPEbwj/Qxr8ouOfqt4iZwtq/hZACIEWOoOz7HnahzuIypjOpmLZhnKBo4=;Rm/mGTcbKR/iuSE5YYgCrw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Slows Down Future Pandemics"
+    excerpt: "During epidemic outbreaks, machine learning (ML) is used to find effective testing methods, thereby helping to better control the outbreaks."
+    publishedDateTime: 2021-04-15T17:11:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Machine Learning can help slow down future pandemics: Study"
     excerpt: "Machine Learning (ML) can be used to find effective testing methods during epidemic outbreaks, thereby helping to better control the outbreaks, a new study said."
     publishedDateTime: 2021-04-14T14:31:00Z

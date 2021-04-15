@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Wynden Stark Group Acquires NYC Venture-backed Tech Startup, untapt"
-excerpt: "For several years, GQR, a Wynden Stark company, has been working in stealth mode in partnership with untapt, a pioneering venture-backed tech startup"
-publishedDateTime: 2021-04-15T14:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/wynden-stark-group-acquires-nyc-venture-backed-tech-startup-untapt/article_00d01359-865c-5e60-8e93-30b7eb195e54.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/wynden-stark-group-acquires-nyc-venture-backed-tech-startup-untapt/article_00d01359-865c-5e60-8e93-30b7eb195e54.html"
+excerpt: "NEW YORK, April 15, 2021 /PRNewswire/ -- For several years, GQR, a Wynden Stark company, has been working in stealth mode in partnership with untapt, a pioneering venture-backed tech startup in New York City at the intersection of Artificial Intelligence and Human Capital Management."
+publishedDateTime: 2021-04-15T15:20:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-north-america-702353e5add6bd3c6ce048b28a8a9ec6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-north-america-702353e5add6bd3c6ce048b28a8a9ec6"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/1a/81a54e47-e720-55c6-a30e-9260ef4662c7/60784ae7f1270.image.jpg?resize=840%2C630"
-    width: 840
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "+uhZVE9udh/v8Wn5ssRPcsM/dRNXQtniOLo/0KOw9fSu6X9HH9vdSa9LFHOcpkdGd1Lp7GO9LccZlwe/hl5uWQAoX2pa7kNY6v76fImStMBokZCUvmYLiKdVqYFfA0Ffzt8gCH2l6Mi69PA8xqtr0cR5q1irNkRxv442SV+BGnjMZohF9fiWoMyUmBSke6kXt5fHTNH6DueBMDmFaxkLvK7CZI74osaeT4t3iAbZbL+z5JvXthYX5gJha3M9wQn+LnNXLqdgm0MvRbcNG7RwzOADm6LT1Yd5FDZ9HoU50x2Gj5Jiyyr5O+tbGizZmZmDTuikDMn+cc/+rmlcvErcmkG8zEke4rAcDwlgS1a7bdM=;QYQoaUA0VfHff5qoULqCxw=="
+secured: "Vv8iV/NxrGsmuZyrK/fj2jy4nOMAsqoXr3UGqx8/D945W2+nZnNx0TUxZDmmvwfxAgB2Nxcki/B4eRy6ux8r+YdlNP4wGIyaNGOXscQA9XuiUmS2fMAvbmW+0nH8s+bZVzdHOz9ZHa74ouUIVaCMLcak3Ix8stqjVu5jfTst0U84tfMRtwZVNdge1CtAwJRnVllNOZWNERBTvm49S5iUaaA5M277/flGViRpzsGBRysVlMlBfHiFXeKFkfRxvTOyEjFw7QyZjvl1jWb5UOXu2lVhVH/g5VmHULhDqEMIooH7evS8C7yakTJYqlT+GpJuMKrWVAthbXkWQVD5Jezor6aSeTpwotBuravI19N/k6Q=;SwI6NPpyp5p/FIbmLmR97Q=="
 ---
 

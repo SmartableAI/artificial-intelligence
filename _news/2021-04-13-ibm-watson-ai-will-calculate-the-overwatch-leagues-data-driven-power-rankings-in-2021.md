@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/"
 type: article
 quality: 96
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.twst.com/wp-content/uploads/2021/04/ChrisNatividad-1.jpg"
         width: 1200
         height: 1800
+        isCached: true
+  - title: "Evonik Becomes a Member of the MIT-IBM Watson AI Lab to Accelerate Innovation with AI"
+    excerpt: "Evonik expands cooperation with IBM in the field of digitization. The two companies extend their strategic partnership ahead of schedule until 2025. Taking this decision early creates more opportunities for longer-term projects."
+    publishedDateTime: 2021-04-15T16:45:00Z
+    webUrl: "https://www.automation.com/en-us/articles/april-2021/evonik-member-mit-ibm-watson-ai-lab-innovation"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 47
+    images:
+      - url: "https://www.automation.com/getmedia/c7aefd6b-e49e-4e6b-b058-87f839b96a12/Evonik-news-April-15-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "IBM introduces AI-driven Overwatch League Power Rankings"
     excerpt: "Global technology and data services firm IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating player and team performances in the Overwatch League. According to the release, the solution will provide a weekly automated ..."

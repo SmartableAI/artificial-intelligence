@@ -2,6 +2,135 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-02-26-tensorflow-a-cheat-sheet.md",
+      "title": "TensorFlow: A cheat sheet",
+      "excerpt": "TensorFlow was originally a deep learning research project of the Google Brain Team that has since become--by way of collaboration with 50 teams at Google--an open source library deployed across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/13/99aff292-46c4-4950-85d2-6e4cd750f51d/thumbnail/1200x675/8558ea8e682f0896a037fc60f2c2bb0e/2fnltensorflow.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "publishedDateTime": "2021-02-26T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-artificial-intelligence-the-latest-architecture-and-news.md",
+      "title": "Artificial Intelligence: The Latest Architecture and News",
+      "excerpt": "Though a persistent question, it is one that increasingly accompanies discussions on architecture and the future of artificial intelligence. But what exactly is AI today? As we discover more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey.md",
+      "title": "Hundreds of Amazon Drivers Agree That They Deserve a Union in an Informal Driver-Led Survey",
+      "excerpt": "In just a few short years, Amazon’s warehouse workers have gone from suffering in silence to jobsite walkouts in Minnesota and more recently a full-blown union vote in Alabama. Now it seems another segment of Amazon’s workforce is taking its first steps towards advocating for better conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
+      "originalUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/02/27/hdce8azbuzg6vylz5imx-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/02/hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey/amp/",
+      "publishedDateTime": "2021-02-25T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
       "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
       "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
@@ -1044,143 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-ataccama-acquires-data-visualization-startup-tellstory.md",
-      "title": "Ataccama acquires data visualization startup Tellstory",
-      "excerpt": "Ataccama acquired TellStory to add data vizualization tools to an expert systems platform for managing large amounts of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Ataccama-Editor-story.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
-      "publishedDateTime": "2021-02-25T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-ey-unveils-expansion-of-technology-initiative-with-launch-of-cloud-enablement-center-for-financial-services-in-phoenix.md",
-      "title": "EY unveils expansion of technology initiative with launch of cloud enablement center for financial services in Phoenix",
-      "excerpt": "The EY Cloud Enablement Center, the first of which will be based in Phoenix, will provide clients with a range of services and ... intelligence (AI), machine learning, data, cybersecurity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ey-unveils-expansion-of-technology-initiative-with-launch-of-cloud-enablement-center-for-financial-services-in-phoenix-301235703.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ey-unveils-expansion-of-technology-initiative-with-launch-of-cloud-enablement-center-for-financial-services-in-phoenix-301235703.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/155992/ey_logo.jpg?p=facebook",
-          "width": 5156,
-          "height": 2700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-measuring-hemoglobin-levels-with-ai-microscope-microfluidic-chips.md",
-      "title": "Measuring hemoglobin levels with AI microscope, microfluidic chips",
-      "excerpt": "Researchers describe a AI-powered imaging-based tool to estimate hemoglobin levels. The setup was developed in conjunction with a microfluidic chip and an AI-powered automated microscope that was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

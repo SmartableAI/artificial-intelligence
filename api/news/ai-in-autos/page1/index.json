@@ -2,38 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-15-tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-85-billion.md",
-      "title": "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion",
-      "excerpt": "TuSimple raised more than $1 billion after the autonomous trucking rival to Tesla and Google priced shares above range ahead of the group’s market debut",
+      "path": "_news/2021-04-15-tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source.md",
+      "title": "TuSimple to demo self-driving trucks in fourth quarter: source",
+      "excerpt": "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-8-5-billion-11618495532",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-8-5-billion-11618495532",
+      "webUrl": "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4",
+      "originalUrl": "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-325418/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-8-5-billion-11618495532",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-8-5-billion-11618495532",
-      "publishedDateTime": "2021-04-15T08:18:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp",
+      "publishedDateTime": "2021-04-15T07:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -102,7 +93,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {

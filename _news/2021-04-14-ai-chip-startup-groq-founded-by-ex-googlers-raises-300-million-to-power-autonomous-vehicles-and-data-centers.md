@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
+  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
+    excerpt: "Groq CEO Jonathan Ross previously co-founded the project that engineered Google's TPU, which was specifically designed to run machine learning software in Google's data centers."
+    publishedDateTime: 2021-04-15T17:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21161146/electronic-design-ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/Groq_Board.60771b94b0ac0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 722
+        isCached: true
 
 secured: "KnHlOoBVrlH4y6VXVdisOo/EnxND+50x2H2/Z+f7TMDfmIuB4hSAq5dDgB+/S7XYdb4YwUPno5h2s+r3DiDH2oJqUJEfA6yG46+x6+e7O4ftsaveZdafrxBew/vCGYD9V26OAt+lhJb9G9DHi8VyFsDeCquwLsfxIQDGi1ZNOUxgKeBrPC3VMNzNgFjTfOqLWl3KKYXIK0Bm7znFY4uHWDkFRVLdJklmlmJ89QKLuulkoe+MYspcnD7dzKgqriZ7iBNsMBMlzgk3fHQqQME/5Kjxa3sTpvr6gZ/ldz8Dqa2DHC3+YZecGOnwfsU7iTbn4w0TMPVIZ8hh2sCBlu0Pl9wzWEOFKTtzNMGkqSvRVcwL64KLtw2laknt+T6lbRZQdH2hQnOMyZwyLJTqUiB6UIeawYN1bTuQfyMxpHZE1HyZu12x5KrY+xIK00FsEPwwd+Uq0YroiZrMj4N5JcbIB5NK7GA87OQyOmo99Ixyo7vDYapZzonnLU2JmxR4u9NTH16H8c5qBWYgAwaNPM52+A==;hxqWnzZcyMKutJjQ1VbcKQ=="
 ---

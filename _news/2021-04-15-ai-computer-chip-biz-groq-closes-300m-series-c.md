@@ -65,6 +65,20 @@ related:
         width: 980
         height: 587
         isCached: true
+  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
+    excerpt: "Groq CEO Jonathan Ross previously co-founded the project that engineered Google's TPU, which was specifically designed to run machine learning software in Google's data centers."
+    publishedDateTime: 2021-04-15T17:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21161146/electronic-design-ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/Groq_Board.60771b94b0ac0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 722
+        isCached: true
 
 secured: "dDpTRvVPb52Kx/vvjMpc9b1ipnXIB0D4hbgtPmNuBcBlpbHY/zj8CXMKLf1usHfm3MbfGzm0k8KWdMm4TAfZW9MdEbohcMyq5WUAGBWZGkQLSftviS/fPqQOw/K6I04+cBsaJCe5Hlid7dKIUT76iXdKleQj1ETWb+nxf9KpMsQ3ySlmQ3hLep8C/kD86YxHR7tLy0ojq2meVgW9LBeISY13kYRK6yPLikoifWp5iWMoxRlGiQargAYIzsgqdVexchrP2RNFuAtdJXIMvKCdF5oWL1sMP2UyR/0Tqy0AqKYKWRrWgh/2ph+wqu7QOoTh6T6hCBuZm/fGGVihz0ZYFquY/usVOg4BuFxHQyZrEm0=;01URoQvXSh5iuQBQQJ8Zdg=="
 ---

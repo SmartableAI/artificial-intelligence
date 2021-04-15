@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "Autonomous trucking company Plus will use AI and billions of miles of data to train self-driving semis"
+    excerpt: "By this time next year, hundreds of automated trucks powered by PlusDrive will be on the road, hauling commercial cargo."
+    publishedDateTime: 2021-04-15T16:15:00Z
+    webUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/"
+    ampWebUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Pluss-Autonomous-Truck-Powered-by-PlusDrive-4.jpg?w=1200&strip=all"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Artificial intelligence could be adding to the bias at your company"
     excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
     publishedDateTime: 2021-04-13T15:02:00Z

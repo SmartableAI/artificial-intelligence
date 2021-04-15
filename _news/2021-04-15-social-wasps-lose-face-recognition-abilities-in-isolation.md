@@ -29,15 +29,20 @@ images:
 related:
   - title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
     excerpt: "Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres,"
-    publishedDateTime: 2021-04-15T14:06:00Z
-    webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
+    publishedDateTime: 2021-04-15T16:36:00Z
+    webUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/2021-04-15T101154Z_1_LYNXMPEH3E0KY_RTROPTP_4_HEALTH-CORONAVIRUS-INDIA-VACCINE.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Covid-19 Vaccination To Go Contactless With Aadhaar-Based Face Recognition: Here’s What It Means"
     excerpt: "In a bid to make the process go contactless, India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma, the ..."
     publishedDateTime: 2021-04-12T11:06:00Z
