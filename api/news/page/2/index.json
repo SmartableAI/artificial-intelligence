@@ -2,6 +2,250 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
+      "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
+      "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "publishedDateTime": "2021-04-14T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-tesla-next-gen-full-self-driving-is-delayed-to-may-june-subscription-coming-next-month.md",
+      "title": "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month",
+      "excerpt": "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
+      "originalUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
+      "publishedDateTime": "2021-04-14T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-new-deep-learning-ai-tool-can-revolutionize-microscopy.md",
+      "title": "New Deep Learning AI Tool Can Revolutionize Microscopy",
+      "excerpt": "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/",
+      "originalUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Neural-Network-Used-to-Retrieve-Information-From-Microscope-Image-777x777.jpg",
+          "width": 777,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/",
+      "publishedDateTime": "2021-04-14T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-nypds-robot-dog-returns-to-work-touching-off-a-backlash.md",
+      "title": "N.Y.P.D.’s Robot Dog Returns to Work, Touching Off a Backlash",
+      "excerpt": "Deployed at a public housing building, the device drew condemnation as a stark example of police power and misplaced priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/14/nyregion/14nyrobotdog/14nyrobotdog-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
+      "publishedDateTime": "2021-04-14T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training.md",
+      "title": "Implement checkpointing with TensorFlow for Amazon SageMaker Managed Spot Training",
+      "excerpt": "Customers often ask us how can they lower their costs when conducting deep learning training on AWS. Training deep learning models with libraries such as TensorFlow, PyTorch, and Apache MXNet usually requires access to GPU instances, which are AWS instances types that provide access to NVIDIA GPUs with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T15:44:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-5-powerful-business-intelligence-tools-that-are-reshaping-pmos.md",
       "title": "5 powerful business intelligence tools that are reshaping PMOs",
       "excerpt": "More project management offices are seeing the benefits of business intelligence tools like these to improve how they execute projects and to increase their value to stakeholders.",
@@ -355,7 +599,7 @@
       "originalUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -987,255 +1231,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-sales-management-platform-atrium-raises-135m-to-surface-insights-with-ai.md",
-      "title": "Sales management platform Atrium raises $13.5M to surface insights with AI",
-      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Atrium today revealed it has raised $13.5 million in seed funding to drive the adoption of a sales management ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/14/sales-management-platform-atrium-raises-13-5m-to-surface-insights-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/14/sales-management-platform-atrium-raises-13-5m-to-surface-insights-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Atrium-Product-Image-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/14/sales-management-platform-atrium-raises-13-5m-to-surface-insights-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/sales-management-platform-atrium-raises-13-5m-to-surface-insights-with-ai/amp/",
-      "publishedDateTime": "2021-04-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-capturing-biases-in-the-age-of-ai-the-interview-with-the-founder-of-wikipedia-founder-jimmy-wales.md",
-      "title": "Capturing Biases In the Age Of AI - The Interview With The Founder Of Wikipedia Founder Jimmy Wales",
-      "excerpt": "Some AI’s though can capture misinformation and sentiment to the ... So, it was quite clearly going to be something where one person would write, start their little KNOL, on some pseudo-scientific topic and invite others who believe the same thing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2021/04/14/capturing-biases-in-the-age-of-aithe-interview-with-the-founder-of-wikipedia-founder-jimmy-wales/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2021/04/14/capturing-biases-in-the-age-of-aithe-interview-with-the-founder-of-wikipedia-founder-jimmy-wales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f6b315674d71ae4e48139%2F0x0.jpg",
-          "width": 1200,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2021/04/14/capturing-biases-in-the-age-of-aithe-interview-with-the-founder-of-wikipedia-founder-jimmy-wales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2021/04/14/capturing-biases-in-the-age-of-aithe-interview-with-the-founder-of-wikipedia-founder-jimmy-wales/amp/",
-      "publishedDateTime": "2021-04-14T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-venture-capital-firms-use-ai-to-invest-better.md",
-      "title": "Venture Capital Firms Use AI To Invest Better",
-      "excerpt": "Venture capital firms were early investors in artificial intelligence (AI). Now some venture capital firms use AI algorithms to help give them an edge with their own investment decisions. In evaluating prospective investments, an astounding amount of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital-firms-use-ai-to-invest-better/",
-      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital-firms-use-ai-to-invest-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60763ef647e6d6ee5fe81427%2F0x0.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital-firms-use-ai-to-invest-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital-firms-use-ai-to-invest-better/amp/",
-      "publishedDateTime": "2021-04-14T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-smartstream-introduces-data-management-ai-on-microsoft-azure.md",
-      "title": "SmartStream introduces data management AI on Microsoft Azure",
-      "excerpt": "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure",
-      "originalUrl": "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-graphic-processing-unit-market-gpu-market-expects-cagr-of-close-to-334-by-2027.md",
-      "title": "Graphic Processing Unit Market, GPU Market Expects CAGR of Close to 33.4% By 2027",
-      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- The Graphic Processing Unit (GPU) Market size is forecast to exceed US$ ... trending Artificial Intelligence (AI), traction in Virtual Reality (VR) & Augmented Reality (AR), and increasing adoption of gaming laptops ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-market-gpu-market-expects-cagr-of-close-to-334-by-2027-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-market-gpu-market-expects-cagr-of-close-to-334-by-2027-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-a-budding-leader-of-automation-and-robotics.md",
+      "title": "A Budding Leader of Automation and Robotics",
+      "excerpt": "Thailand’s automation and intelligent robotics industry has gone from strength to strength in recent years, driven by increasing demand from both domestic and overseas industries along with its well-established ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
+      "originalUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khaosodenglish.com/wp-content/uploads/2021/04/1.png",
+          "width": 939,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-khaosodenglish-com.cdn.ampproject.org/c/s/www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
+      "publishedDateTime": "2021-04-15T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaosod English",
+        "domain": "khaosodenglish.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robotics-open-door-to-bring-it-to-me-economy.md",
+      "title": "Robotics Open Door To ‘Bring It To Me’ Economy",
+      "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/dominos-pizza-bot-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/amp/",
+      "publishedDateTime": "2021-04-15T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -1347,101 +1433,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025.md",
-      "title": "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025",
-      "excerpt": "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-workshop-on-robotics-for-kids-teens-from-monday.md",
-      "title": "Workshop on robotics for kids & teens from Monday",
-      "excerpt": "“Technology is constantly changing the way we do things today. Artificial intelligence, machine learning and robotics are crucial. Most schools worldwide have already included robotics in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "publishedDateTime": "2021-04-08T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

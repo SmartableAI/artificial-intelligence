@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-13-datagen-emerges-from-stealth-to-create-synthetic-datasets-for-computer-vision-models.md",
+      "title": "Datagen emerges from stealth to create synthetic datasets for computer vision models",
+      "excerpt": "Datagen, which taps AI to create synthetic training datasets for computer vision systems, emerged from stealth with $18.5 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
+      "publishedDateTime": "2021-03-12T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
+      "title": "The Army Is Teaching Facial Recognition to See In The Dark",
+      "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center",
+          "width": 1792,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "publishedDateTime": "2021-03-12T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-image-recognition-market-outlook-regional-growth-analysis-by-2025-with-predominant-players-honeywell-ltu-technologies-catchoom-panasonic.md",
       "title": "Image Recognition Market Outlook, Regional Growth Analysis By 2025 With Predominant Players: Honeywell, LTU Technologies, Catchoom, Panasonic, Toshiba",
       "excerpt": "QR/Barcode Recognition, Object Recognition, Optical Character Recognition, and Pattern Recognition. The 'object recognition segment dominated the market in 2016 and it is anticipated to lead the ...",
@@ -1293,111 +1397,6 @@
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-hunting-sexual-predators-a-political-fight-in-facial-recognition-legislation.md",
-      "title": "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation",
-      "excerpt": "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "originalUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg",
-          "width": 2500,
-          "height": 1569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "publishedDateTime": "2021-03-02T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
-      "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
-      "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "originalUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/603d34e458f56d0096504362/lede/1614628311772-gettyimages-1218336354.jpeg?crop=1xw:0.8419xh;0xw,0.1065xh",
-          "width": 3897,
-          "height": 2188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "publishedDateTime": "2021-03-02T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

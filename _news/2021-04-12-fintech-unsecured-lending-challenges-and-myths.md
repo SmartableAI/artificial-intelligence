@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369125"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Fintech Has Already Tripled in 2021 -- Here's Why"
-    excerpt: "Not a lot of competition in the Fintech space. There aren't many companies trying to do auto-lending better than the establishment. That's really what the market is so excited about here. This really gets their proprietary AI-based lending technology into ..."
-    publishedDateTime: 2021-04-11T11:04:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
   - title: "PwC unveils fintech marketplace"
     excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
     publishedDateTime: 2021-04-14T10:41:00Z

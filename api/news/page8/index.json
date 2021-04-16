@@ -2,6 +2,256 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-09-ai-helps-recreate-painting-hidden-under-a-picasso-masterpiece.md",
+      "title": "AI helps recreate painting hidden under a Picasso masterpiece",
+      "excerpt": "AI has helped recreate an artwork that had been hidden under a Pablo Picasso painting for nearly 120 years. The mysterious landscape lurks beneath the visible surface of Picasso’s La Miséreuse ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/",
+      "originalUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Untitled-design-2021-04-08T165459.602-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/ai-recreates-painting-under-picasso-masterpiece-crouching-beggar-rusinol-barcelona-oxia-palus/amp/",
+      "publishedDateTime": "2021-04-08T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-appharvest-buys-ag-robotics-firm-root-ai.md",
+      "title": "AppHarvest buys ag-robotics firm, Root AI",
+      "excerpt": "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "publishedDateTime": "2021-04-08T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-habana-labs-chosen-to-ai-train-the-voyager-supercomputer.md",
+      "title": "Habana Labs chosen to AI train the Voyager supercomputer",
+      "excerpt": "Artificial intelligence (AI) chip maker Habana Labs has announced San Diego Supercomputer Center (SDSC) selected it to provide high-performance inference accelerators and AI training for its Voyager supercomputer. SDSC’s Voyager, scheduled for release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
+      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1591268911/itpro/Supercomputer1.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/high-performance-computing-hpc/359156/habana-labs-chosen-to-ai-train-the-voyager?amp",
+      "publishedDateTime": "2021-04-08T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-ab-inbev-werner-enterprises-to-test-embark-driverless-truck-technology.md",
+      "title": "AB InBev, Werner Enterprises to test Embark driverless truck technology",
+      "excerpt": "San Francisco start-up Embark is partnering with AB InBev, Werner Enterprises, Mesilla Valley Transportation and Bison Transport to test its autonomous trucking systems. Embark has raised at least $117 million in venture funding from prominent firms including Tiger Global,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/08/ab-inbev-werner-enterprises-to-test-embark-autonomous-trucks.html",
+      "publishedDateTime": "2021-04-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-researchers-say-ai-will-greatly-impact-the-future-of-education.md",
+      "title": "Researchers say AI will ‘greatly impact’ the future of education",
+      "excerpt": "AllHere isn’t the only AI-powered technology startup that expanded last year. According to Stanford University’s 2021 AI Index, more than $40 billion was invested in all AI startups in 2020. Researchers at the Digital Promise-led Center for Integrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "originalUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Salman-fol-tease-april-7.jpg?fit=2000%2C1333&ssl=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "cdnAmpWebUrl": "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/researchers-say-ai-will-greatly-impact-the-future-of-education/",
+      "publishedDateTime": "2021-04-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hechinger Report",
+        "domain": "hechingerreport.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-improve-operational-efficiency-with-integrated-equipment-monitoring-with-tensoriot-powered-by-aws.md",
       "title": "Improve operational efficiency with integrated equipment monitoring with TensorIoT powered by AWS",
       "excerpt": "Machine downtime has a dramatic impact on your operational efficiency. Unexpected machine downtime is even worse. Detecting industrial equipment issues at an early stage and using that data to inform proper maintenance can give your company a significant increase in operational efficiency. Customers",
@@ -928,256 +1178,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-israeli-startups-precision-robots-poised-to-transform-brain-surgery.md",
-      "title": "Israeli startup’s precision robots poised to transform brain surgery",
-      "excerpt": "Shoham include Mazor Robotics, a surgical robotic startup acquired by Medtronic for $1.64 billion in 2018; Diagnostic Robotics, an artificial intelligence-based triage and clinical predictions platform; and Microbot Medical, a Nasdaq-traded company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/04/Tamar-Robotics-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/israeli-startups-precision-robots-poised-to-transform-brain-surgery/amp/",
-      "publishedDateTime": "2021-04-08T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data.md",
-      "title": "Facebook is trying to make AI fairer by paying people to give it data",
-      "excerpt": "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
-      "publishedDateTime": "2021-04-08T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m.md",
-      "title": "Alyce, an AI-based personalised corporate gifting startup, raises $30M",
-      "excerpt": "Alyce, a Boston startup that has built an AI platform that plugs into various other apps that you might use to interact and track your relationships with others in your working life — sales ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/",
-      "originalUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2013/12/gift.jpg?w=849",
-          "width": 849,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m/amp/",
-      "publishedDateTime": "2021-04-08T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-how-to-become-a-fintech-market-participant.md",
-      "title": "How To Become A Fintech Market Participant",
-      "excerpt": "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
-      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
-      "excerpt": "The Luminar team has said it will be moving to use more processing to GPU, which would make sense for AI-based image processing. We'll look forward to seeing the results. Microsoft's upcoming support for OpenCL to Direct Compute mappings may speed this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/ca89f6d3-3be7-4264-b347-98f9cad79068/luminarai-skyai.jpg",
-          "width": 278,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
-      "publishedDateTime": "2021-04-08T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

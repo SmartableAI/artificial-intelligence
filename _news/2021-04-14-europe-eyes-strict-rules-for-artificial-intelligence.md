@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intel
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
 type: article
 quality: 157
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076b3a61dc4ab0469643cc0%2F0x0.jpg"
         width: 1200
         height: 778
+        isCached: true
+  - title: "Europe seeks to limit use of AI in society"
+    excerpt: "The use of AI in the military is exempt, as are systems used by authorities in order to safeguard public security. The suggested list of banned AI systems includes: those designed or used in a manner that manipulates human behaviour,"
+    publishedDateTime: 2021-04-14T14:55:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-56745730.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17BD3/production/_118053279_aiec.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "B5acTYPchYUXMROdrSWN6FHTEMgg3hhxy7b4g+x5SJdSw2IGqry20gDLqEkki2hyUQmR+p5gJCeeiZnT8UIZlt+q/pv32PJ0HCIRKObpHRHcV7kUjcb0LYO0CfJc0EAYHctjlYnv5nc2H64ka+TmYG5SgbPhP0ak9GKykOOOmZDY0fwG1EHUnEWXupggcfksQPqzXF5hJqrmCNOK/bkXwQtwtjC6l8od43fC4m8tj6K3uzfnLhpehP1DMPJUhJcoezdkBKNXYQpGdyoRgorAbPtHFN/Zj70gSLVsyakyru0pgpvPg7JJ6U9dkK1bMN07slRJJVlf5CHAxoBLPkGHGNPETXjLbNJcHaXL73VB5x7SKZJtXGbAuMXFzHqbUJI3axuyWYA97bhq6CBJqeu7CQ7iARYFVrZNYKv1PQRmIJFCtEZFSi9aUI22ioOyeAfxEv/o/gcT2WkchNQGZhjXAVmKr+hEPideRZpoZ10zVv93VydbZNTrk1BG1GzN2rjHKKdyWEuPeJl1q0Zr2vuNiHd21+Gq4OhuUSFyKhYpvFY=;yFkjGwI8bMRCYwz0su0z6w=="

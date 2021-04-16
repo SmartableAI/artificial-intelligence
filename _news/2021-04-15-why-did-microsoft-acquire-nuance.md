@@ -217,6 +217,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
+    excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/"
+    ampWebUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 104
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Why Nuance? Microsoft is making a $19.7 billion bet on ambient digital healthcare"
     excerpt: "The deal for Nuance comes as the enterprise and healthcare artificial intelligence company is just hitting its stride. Not only does Microsoft's purchase of Nuance make more sense than rumored talks for TikTok, Pinterest, and Discord, but the two companies ..."
     publishedDateTime: 2021-04-12T14:38:00Z
@@ -1494,6 +1510,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft – Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Another area where conversational AI is gaining traction is in sales management ... too. Speaking at a recent Fintech Zoom CIO Summit, Harry Moseley, the global CIO of Zoom, noted that the pandemic will inevitably have made workers much more wary of ..."
     publishedDateTime: 2021-04-12T22:07:00Z
@@ -1540,15 +1570,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "56gju+TGLRFeYNR6T7M5OO5LrND+R/ZA+0YVcVjHPscDdMroWUQJbrRuVb/9S0Pbxbh7Ip1y6e5I6DgbGpZrG7LJ+gMIBSe6U15vel5+QjaTDwmgwoPm9xFSmCtDHRFgdRRAml6AQC5L3ZYnX9onpHIdWgV5K2jNInbA91ArG7TjwEha9XHcZfcBHsNgZDhB6KD37u8byr/cwcRdexsh15nsVJhNZdOuhbHwamHnFBC56nstB3tcL98dqdmrWAcSkx52MpSgm2+CiLP50z6xen7v2qIDD4FjW891ElQPQKs4XQzgsO7nNRreyhAPFLlEqfQQ0AVtBEUUaoB/607oPSJY4H0wyQeC1LBNm5LCSNY=;Ooitcca4WcrcsX3GHxRwzQ=="
 ---

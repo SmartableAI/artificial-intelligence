@@ -2,6 +2,309 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-03-23-lgn-which-helps-companies-deploy-ai-at-scale-raises-2m.md",
+      "title": "LGN, which helps companies deploy AI at scale, raises $2M",
+      "excerpt": "LGN, a startup specializing in technologies that help companies to deploy AI and machine learning at scale, has raised $2 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/",
+      "publishedDateTime": "2021-03-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025.md",
+      "title": "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025",
+      "excerpt": "(MENAFN - America News Hour)Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as well as growth indicators, and further ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025",
+      "originalUrl": "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?771856",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025.md",
+      "title": "Artificial Intelligence in Education Market Outlook By Share, Size, Trends and Forecasts 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Education Market, which has been",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-helping-newsrooms-experiment-together-with-ai.md",
+      "title": "Helping newsrooms experiment together with AI",
+      "excerpt": "In our JournalismAI report, journalists around the world told researchers they are eager to collaborate and explore the benefits of AI, especially as it applies to newsgathering, production and distribution. To facilitate their collaboration, the Google News Initiative and Polis – the journalism think",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-jumio-raises-150m-to-secure-onboarding-with-image-verification-ai.md",
+      "title": "Jumio raises $150M to secure onboarding with image verification AI",
+      "excerpt": "Jumio, an AI-powered platform for identity verification, has raised $150 million in venture capital from new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-marketing-campaign-analytics-startup-sellforte-raises-478m.md",
+      "title": "Marketing campaign analytics startup Sellforte raises $4.78M",
+      "excerpt": "Sellforte, a startup developing AI technology that predicts the impact of marketing campaigns, has raised €4 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/5fff665fc52da858839a8898_Sellforte__-e1616447073344.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026.md",
       "title": "Data and AI Ethics Market Report Gives Industry Size, Growth, Production, Types, Applications, Growing Rapidly with Recent Trends 2021 to 2026",
       "excerpt": "The Data and AI Ethics market size analysis is provided for the international market including development history, competitive landscape analysis, major regions’ development status, manufacturing processes and cost structures. Also, the research gives ...",
@@ -847,300 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai.md",
-      "title": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
-      "excerpt": "Twenty-eight years ago, Tate helped create a chip company called Rambus. Its technology is in every DRAM memory part that ships today. Tate thinks AI can be an even bigger market over time. Tate's personal investment vehicle, the Tate Family Trust ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/22/6809777c-9d67-473c-a4d5-fbf5115e4c50/2020-10-linley-fall-1-inferx-x1-chip-final-slide-4.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "publishedDateTime": "2021-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
-      "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
-      "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prio.org/News/Item/?x=2690",
-      "originalUrl": "https://www.prio.org/News/Item/?x=2690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.prio.org/cdn_image/14e76b4ea704480c872484b174430a48.png",
-          "width": 1654,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prio.org",
-        "domain": "prio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
-      "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
-      "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2019/09/Blog-leadspace-Gartner-MQ-990x448.png",
-          "width": 991,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:36:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-what-drives-nithya-sambasivans-fight-for-fairness.md",
-      "title": "What drives Nithya Sambasivan’s fight for fairness",
-      "excerpt": "When Nithya Sambasivan was finishing her undergraduate degree in engineering, she felt slightly unsatisfied. “I wanted to know, ‘how will the technology I build impact people?’” she says. Luckily, she would soon discover the field of Human Computer Interaction (HCI) and pursue her graduate degrees. She",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "originalUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_rgk6ZzT.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "publishedDateTime": "2021-03-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies.md",
-      "title": "DeepMind Proposes Manipulation-Independent Representations for Imitation of Behaviours Demonstrated by Previously Unseen Manipulator Morphologies",
-      "excerpt": "A research team from DeepMind proposes manipulation-independent representations (MIR) that can support successful imitation of behaviours demonstrated by previously unseen manipulator morphologies using only visual observations.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
-      "originalUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/03/image-13-1.png?fit=460%2C288&ssl=1",
-          "width": 460,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/amp/",
-      "publishedDateTime": "2021-03-22T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-fda-clears-first-ai-device-to-spot-hidden-signs-of-covid-19.md",
-      "title": "FDA clears first AI device to spot hidden signs of COVID-19",
-      "excerpt": "The latest tool to gain clearance is the first AI-based screening device designed to pinpoint lurking ... Once strapped to a person's arm, the monitor's onboard sensors start collecting pulse signals from blood flow over a period of three to five minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "originalUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/a7c72da0-8b13-11eb-9f6e-e37be8002944",
-          "width": 1119,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "publishedDateTime": "2021-03-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

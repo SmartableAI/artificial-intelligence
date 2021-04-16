@@ -2,6 +2,188 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai.md",
+      "title": "Twitter's 'Responsible Machine Learning' Initiative to Analyse Harms Caused by AI",
+      "excerpt": "In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "originalUrl": "https://www.news18.com/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/02/1613010110_twitter.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "publishedDateTime": "2021-04-15T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-a-budding-leader-of-automation-and-robotics.md",
+      "title": "A Budding Leader of Automation and Robotics",
+      "excerpt": "Thailand’s automation and intelligent robotics industry has gone from strength to strength in recent years, driven by increasing demand from both domestic and overseas industries along with its well-established ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
+      "originalUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khaosodenglish.com/wp-content/uploads/2021/04/1.png",
+          "width": 939,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-khaosodenglish-com.cdn.ampproject.org/c/s/www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
+      "publishedDateTime": "2021-04-15T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaosod English",
+        "domain": "khaosodenglish.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-artificial-intelligence-and-whisky-making-the-perfect-blend.md",
+      "title": "Artificial Intelligence And Whisky Making: The Perfect Blend?",
+      "excerpt": "Find out how Mackmyra, a Swedish whisky distillery, used AI to analyze 70 million possible combinations and create an innovative new whiskey recipe that customers love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607910368e6e3822f9bc7cc1%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
+      "publishedDateTime": "2021-04-15T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robotics-open-door-to-bring-it-to-me-economy.md",
+      "title": "Robotics Open Door To ‘Bring It To Me’ Economy",
+      "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/dominos-pizza-bot-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/robotics-open-door-to-bring-it-to-me-economy/amp/",
+      "publishedDateTime": "2021-04-15T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -927,6 +1109,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-15-social-isolation-may-reduce-face-recognition-ability-study.md",
+      "title": "Social isolation may reduce face recognition ability: Study",
+      "excerpt": "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "originalUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1594299345.jpg",
+          "width": 660,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "publishedDateTime": "2021-04-14T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-california-dreaming-artificial-intelligence-and-robots-are-helping-farmers-prepare-for-climate-change-crisis.md",
       "title": "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis",
       "excerpt": "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors.",
@@ -967,250 +1192,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
-      "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
-      "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
-      "publishedDateTime": "2021-04-14T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-tesla-next-gen-full-self-driving-is-delayed-to-may-june-subscription-coming-next-month.md",
-      "title": "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month",
-      "excerpt": "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
-      "originalUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/",
-      "publishedDateTime": "2021-04-14T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-new-deep-learning-ai-tool-can-revolutionize-microscopy.md",
-      "title": "New Deep Learning AI Tool Can Revolutionize Microscopy",
-      "excerpt": "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/",
-      "originalUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Neural-Network-Used-to-Retrieve-Information-From-Microscope-Image-777x777.jpg",
-          "width": 777,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/",
-      "publishedDateTime": "2021-04-14T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-nypds-robot-dog-returns-to-work-touching-off-a-backlash.md",
-      "title": "N.Y.P.D.’s Robot Dog Returns to Work, Touching Off a Backlash",
-      "excerpt": "Deployed at a public housing building, the device drew condemnation as a stark example of police power and misplaced priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/14/nyregion/14nyrobotdog/14nyrobotdog-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html",
-      "publishedDateTime": "2021-04-14T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training.md",
-      "title": "Implement checkpointing with TensorFlow for Amazon SageMaker Managed Spot Training",
-      "excerpt": "Customers often ask us how can they lower their costs when conducting deep learning training on AWS. Training deep learning models with libraries such as TensorFlow, PyTorch, and Apache MXNet usually requires access to GPU instances, which are AWS instances types that provide access to NVIDIA GPUs with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T15:44:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

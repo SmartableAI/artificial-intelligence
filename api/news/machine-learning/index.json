@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai.md",
+      "title": "Twitter's 'Responsible Machine Learning' Initiative to Analyse Harms Caused by AI",
+      "excerpt": "In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "originalUrl": "https://www.news18.com/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/02/1613010110_twitter.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html",
+      "publishedDateTime": "2021-04-15T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store.md",
       "title": "Tecton teams with founder of Feast open source machine learning feature store",
       "excerpt": "Tecton, the company that pioneered the notion of the machine learning feature store, has teamed up with the founder of the open source feature store project called Feast. Today the company announced the release of version 0.",
@@ -1421,49 +1465,6 @@
       "provider": {
         "name": "The Irish Times",
         "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-predicting-regional-coastal-sea-level-changes-with-machine-learning.md",
-      "title": "Predicting regional coastal sea level changes with machine learning",
-      "excerpt": "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87460-z/MediaObjects/41598_2021_87460_Fig1_HTML.png",
-          "width": 685,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

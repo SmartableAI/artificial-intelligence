@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning"
-    excerpt: "Scientists at Cambridge Quantum Computing (CQC) have developed methods and demonstrated that quantum machines can learn to infer hidden information from very general probabilistic reasoning models. These methods could improve a broad range of applications,"
-    publishedDateTime: 2021-04-11T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/04/11/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning/"
+  - title: "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence"
+    excerpt: "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual ..."
+    publishedDateTime: 2021-04-12T07:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 33
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "S2a2CqnK3HGKhAD0p4iAI+TSTUOXybqBHyng2eoFnGCtxekYhWxUJF5qPV3aalz33PRM23qBKcW02CI4Kwh2MqjbfWSCxely7Gx1Ixzw6bcJtLpIw5ZJozrjXmVM3UxJdi9vUaDYAea2GIca0u0Ddq+k9xX3QsAZLSrfodcX+EWJ5JNMnnwAy3O58QeZYKeZiB5o/iBGxaW3VlFT+4nn9ku3GyyJWXDWmdjFs5qLHMtcT3nYC4GfUX/uCaoejLaox/W0Ccgrtg9R0zUc33i9fCDnfBYFLoK/ErYJX/qeiCBfrUIRfawz7D3iBjOGE1VhDimGK4Qo4RPXjHiAhKQsXq4LoQGJKoPblUNRxM3rjKE=;OKGEd80w0rAEyJO55q4NmQ=="

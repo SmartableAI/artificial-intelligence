@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
-secured: "FDOb2cJVbdVj0QV4bkju2jBuSTZmOokeYtCgaQocz7NZTsp1xmvtf2A2vUWAY3auWcT5tSpJRTjpZuXFt1GsAK+YVb+Zoervzz7hAeo35Ec7yDw4AeC/gbaknRDKDUiFZS/H80EnLuXLDtfdnB61wFp+v5PgSwNR2oNEHnZGi367qINFyH8gSllALIRUZtc88Q+vSZQQYQtdmsiZx7icIYT+n9kNP/jbrx2IHm6F1ztXClvpEvkBxnc87CAyulPvrIjw8c1abrA2FeaxBUNhP6pEK4Kg/8KuwB1m9gThYdycUcaiQQ4CMN3JibzAZImZUs0IGU7C4wnJsOpcJXOsl/RpXHPM7bpnOiW+7BvwqqE=;vQr976HxfWXBCqY3wVIssw=="
+related:
+  - title: "Cambridge Quantum Names Prof. Stephen Clark Head of AI"
+    excerpt: "Cambridge Quantum Computing (CQC) is pleased to announce the appointment of Prof. Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual environments."
+    publishedDateTime: 2021-04-14T12:20:00Z
+    webUrl: "https://insidehpc.com/2021/04/cambridge-quantum-names-prof-stephen-clark-head-of-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+
+secured: "ApEkwZtEpyr96KWLUpDQqnLZo7ikW/EAjHJDT/CwwMgzDTQ77eR1bF8WVp+cMaBOFe6ixSPLg40Bk0iTSgbqdtDshBVurc+0hZ0XjgjERn//Ues9SZpCx8t0IvN9qiBUp+Wk+TgVVcxvYNdTgYbVObFi9nDnNi3a0pNodpMcJNk9VNkQiUlTC+JhF9beyxCFow9c7RTvXLE7tNTXerNzTDdAYuodP2qpJSl9XcASzWGCAoK5kxbasEATnt8EaufQ5bHTKxRZcC2BgujXqOPVIwz6iMeRMP0vwZ0RSmNLS9Db1gx+mslcSwOJFXqkLath/c/zLA1T9Yz1nqGC/oxZ59bfz66dO1uwgEOCot5pMPE=;to121kLAi01CXfjJuepdhA=="
 ---
 

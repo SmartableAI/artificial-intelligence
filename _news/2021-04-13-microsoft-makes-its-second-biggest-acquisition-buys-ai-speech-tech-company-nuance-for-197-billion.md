@@ -219,6 +219,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
+    excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/"
+    ampWebUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 104
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Why Nuance? Microsoft is making a $19.7 billion bet on ambient digital healthcare"
     excerpt: "The deal for Nuance comes as the enterprise and healthcare artificial intelligence company is just hitting its stride. Not only does Microsoft's purchase of Nuance make more sense than rumored talks for TikTok, Pinterest, and Discord, but the two companies ..."
     publishedDateTime: 2021-04-12T14:38:00Z
@@ -1480,6 +1496,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Why Did Microsoft Acquire Nuance?"
     excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
     publishedDateTime: 2021-04-15T10:30:00Z
@@ -1540,15 +1570,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
-    publishedDateTime: 2021-04-15T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "c10V7MJWT4u4sRJp+SaCAT/37pvxpJ/D0SmZrjXZbr0LM3c5glrjjnvxCsSkteRSfQYHBFRyICaCcW6CMF39UWI6HKc2GWWC8b/GZUeZEZepZRN5EPgjNaabAM+xyO4kRgNOJ6YsRjbpSzSUQw4BWvQqvOEaKmVUM6dzXxRxep1ctMYka963VT8hRE6j7QtId2maUIXJw158cCzozsBx0dK0qpH14wAvt/OetU4Lj5rmh8feiemWqSXZxz5GVmRP6gHIX1gjdYr/pAU/jQGXm6oDBzTGw7DGj1opvWPgW1nM8RVnNmQ7GwXFC+fu8hM4TEDnjPb9ju3CVv92Xk+nE9kT+adl1fRaQY/yOcHP0S7QLBPxj6akhAg/9hjp3OHofS3UquDOc+eIqF8TCAFvxvw4fGqGdQy+cSCgkDkA1uBvvJZz28WtmFU9fXviFwbAwZMynKM8XkHxYzUiFKEzd7uRgkvFOJgCk82ZwOlbZ8MuX44GPVo/Jed8hZOiA1L6cgrfGsmfENLygHZ/8NTq9Q==;YB4BXiyyQOrQl5krr5QK4A=="
 ---

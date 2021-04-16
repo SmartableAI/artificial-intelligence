@@ -115,13 +115,13 @@ related:
         height: 427
         isCached: true
   - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
-    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
-    publishedDateTime: 2021-04-15T18:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
+    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/walmart-invests-in-gm-s-self-driving-car-co-cruise-1030310058"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."

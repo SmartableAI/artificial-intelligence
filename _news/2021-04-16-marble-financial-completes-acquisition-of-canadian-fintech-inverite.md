@@ -26,6 +26,22 @@ images:
     height: 453
     isCached: true
 
+related:
+  - title: "OneTrust Completes Acquisition of Ethics and Compliance Leader Convercent"
+    excerpt: "Convercent. Join OneTrust CEO Kabir Barday and Convercent CEO Patrick Quinlan at CONVERGE 21: Workshop Edition as they lay out their joint vision for the future of ethics and compliance The Convercent technology,"
+    publishedDateTime: 2021-04-15T12:22:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-technology-issues-data-privacy-10f93ed3008e9cbc9d806c42a91e2ac5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "W2BMTE8R7pss6ceeoRnnxgxCMkzZi2mYTZ/yU4s+idBFs4usFoUwxaoV2vhGx1nFzu++LD1oYno3m0j9QWyawP4N5vHVAItrEXTIU7EmrV2YrNef+pnYKQB1mXfdabdae2jA1DVa+VXkJ7CvB7oD3ths2Q7rQhr0ge+ITQY90J7LFOxYRxErltX4Tklv1/TQfmBdX3EWwjl1Gygf5VBxiOE1Gk/YqN33TWVj40l/SXlKhwjIeL3+wEzk2HHlcYNyx5m/fr4QHMxdZZ52BzEDhqdK6Ieh1f9DESOxb14uIbMxodyBcxz1RHXWdGWsb/Od2Xmib0Hh+enoJ/MzSjSTPPAmFH4Xi4tF+L4prPa621FdCWShalxuSU0AR8PNw8HMkisKEsB1ca2xE+Xn41onESAapUsjvjTC/mCuxtow4esCNDzAduQc7cQ72hWZvQ8enDMaI2x8+6NKMmX8oHOUeiKpWunswSe0OxLDquwxqE5lNgdIPwcUBg5JgNWVCozmnS+Ttz/Ijntc50SKP3xNPQ==;xsnegUrdt9NeGHvHYzGJ5w=="
 ---
 

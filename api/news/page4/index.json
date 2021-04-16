@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-13-3-customer-trends-ai-can-spot-before-marketing.md",
+      "title": "3 Customer Trends AI Can Spot Before Marketing",
+      "excerpt": "especially when trends start in one location and spread to other locations over time. ML algorithms can spot these phenomena as they develop, so marketers can leap on the trend. Retail is one industry where this kind of AI-enabled trend-spotting is valuable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/92ab9c0cbdb04ac7b897dac42a4474c0.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
+      "publishedDateTime": "2021-04-13T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion.md",
+      "title": "'We are the best-funded AI startup,’ says SambaNova co-founder Olukotun following SoftBank, Intel infusion",
+      "excerpt": "and the Intel Capital arm of chip giant Intel. The new funding round brings the company's total investment to date to over $1 billion. The company is now valued at more than $5 billion. \"With this $676 million, we are the best-funded AI startup,\" said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/",
+      "originalUrl": "https://www.zdnet.com/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/13/1fabbe95-5e82-4d47-824c-55f6b881ad84/kunle-sambanova-april-2021.jpg",
+          "width": 1396,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/",
+      "publishedDateTime": "2021-04-13T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
+      "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
+      "excerpt": "... together to create Power Rankings with IBM Watson (to give its full name) in just two months. MORE FROM FORBESOverwatch League Fans Can Earn Free OWL Tokens By Watching 4K Streams On YouTubeBy Kris Holt The AI model analyzes more than 360 different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075a1d7c250de2567901b2e%2F0x0.jpg",
+          "width": 1102,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
+      "publishedDateTime": "2021-04-13T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-google-is-poisoning-its-reputation-with-ai-researchers.md",
+      "title": "Google is poisoning its reputation with AI researchers",
+      "excerpt": "Google has worked for years to position itself as a responsible steward of AI. Its research lab hires respected academics, publishes groundbreaking papers, and steers the agenda at the field’s biggest conferences. But now its reputation has been badly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
+      "originalUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-cJlGNIdcC3kFD8y7oT_322pRW8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69118193/acastro_210412_4523_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
+      "publishedDateTime": "2021-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-robot-police-dog-patrolling-nyc-in-video-sparks-black-mirror-robocop-comparisons.md",
+      "title": "Robot Police Dog Patrolling NYC in Video Sparks 'Black Mirror,' 'Robocop' Comparisons",
+      "excerpt": "Robotic dogs called Spot and built by Boston Dynamics are demonstrated during the Amazon Re:MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada on June 4, 2019. New Yorkers compared the city to Robocop after ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "originalUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776950/robotic-dog-built-boston-dynamics.jpg",
+          "width": 2500,
+          "height": 1851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "publishedDateTime": "2021-04-13T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
       "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
       "excerpt": "The ability of artificial intelligence (AI) and machine learning (ML ... \"The goal is to select the best therapy for each patient – that is, the most effective treatment with the fewest side effects. Additionally, we would be able to identify cancers ...",
@@ -966,257 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-brazil-publishes-national-artificial-intelligence-strategy.md",
-      "title": "Brazil publishes national artificial intelligence strategy",
-      "excerpt": "... the country's artificial intelligence (AI) strategy to guide actions around research, innovation and the development of related technologies to tackle the country's greatest challenges, as well as ethics. The publication of the strategy follows a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/",
-      "originalUrl": "https://www.zdnet.com/article/brazil-publishes-national-artificial-intelligence-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-publishes-national-artificial-intelligence-strategy/",
-      "publishedDateTime": "2021-04-12T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-cloudera-partners-with-nvidia-to-expand-gpu-usage-across-ai-applications.md",
-      "title": "Cloudera partners with Nvidia to expand GPU usage across AI applications",
-      "excerpt": "Integrating Cloudera Data Platform and Nvidia's Apache Spark 3.0 libraries will simplify adding machine learning workflows to processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GPUWorkloads.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
-      "publishedDateTime": "2021-04-12T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-lays-out-its-three-chip-data-center-roadmap.md",
-      "title": "Nvidia lays out its three-chip data center roadmap",
-      "excerpt": "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
-      "publishedDateTime": "2021-04-12T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose.md",
-      "title": "Chinese autonomous vehicle startup WeRide scores permit to test driverless cars in San Jose",
-      "excerpt": "WeRide, the Chinese autonomous vehicle startup that recently raised $310 million, has received a permit to test driverless vehicles on public roads in San Jose, California. WeRide is the seventh company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
-      "originalUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-12-at-12.34.41-PM.png?w=995",
-          "width": 995,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
-      "publishedDateTime": "2021-04-12T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
-      "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
-      "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621229%2Fudelv-driven-by-mobileye-night-75789135.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "publishedDateTime": "2021-04-12T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

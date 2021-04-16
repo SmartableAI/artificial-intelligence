@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 810
         isCached: true
+  - title: "Europe seeks to limit use of AI in society"
+    excerpt: "The use of AI in the military is exempt, as are systems used by authorities in order to safeguard public security. The suggested list of banned AI systems includes: those designed or used in a manner that manipulates human behaviour,"
+    publishedDateTime: 2021-04-14T14:55:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-56745730.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17BD3/production/_118053279_aiec.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ofe0Jq0jNZcb8iJ2vVIElg9/sfPpVAWt0yRfdmeGXDQDATZmwdNCRo2FMau8e/UoRB53dMplnY7XzDICC21v8Bnp+BEbAXkQ+coGqD46iZhTPAAi8vjAUOZJXPPLe/Oa/qkvOffUDajW6P9CDLHTPcMgSo3xtaIvUKhX8wlygl+NWnwk2BmY11Cty8AW2XGRUV+JASZZ+qxGH/i9OZzATu5NJdQNt4PhLN9DWGzPgRISK9X0hAYQhV1T7P5LkI3KMq4iIMHtpQPU8ey9Jc8G9oIPR3bPquYMdks5HeO2G9nlHuUKdz+uBlMsSZaXISwyuEY++g+wizOaLJe9sM5IHmBXuFb1wNTiJFQ8T5jXx1j2dPRyRtowUPlZ8jDQaxDkPbPNwLppeGv7plnrGqll8jCqwoeVsAJzJtCbFEr/OUWBTUVYKDvX1RYWu7Qrg1x7aMuKDOqH5kyB4ET3vZAw3b3tAnqEeHoxR3erS9k27p4HTrAaWaEZAnkA6qioVA62W6r1rh308rpGZhgEP6DZPg==;k4BzAkN4edpyVpczW8RPwA=="
 ---

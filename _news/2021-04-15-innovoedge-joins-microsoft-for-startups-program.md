@@ -1,22 +1,28 @@
 ---
 category: news
 title: "InnovoEdge Joins Microsoft for Startups Program"
-excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to"
-publishedDateTime: 2021-04-15T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/innovoedge-joins-microsoft-for-startups-program/article_29b42a0b-5e2d-557f-98fd-68450a6ac7f8.html"
+excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
+publishedDateTime: 2021-04-15T14:48:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
@@ -210,6 +216,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411185815-microsoft-nuance-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
+    excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/"
+    ampWebUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 104
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Why Nuance? Microsoft is making a $19.7 billion bet on ambient digital healthcare"
     excerpt: "The deal for Nuance comes as the enterprise and healthcare artificial intelligence company is just hitting its stride. Not only does Microsoft's purchase of Nuance make more sense than rumored talks for TikTok, Pinterest, and Discord, but the two companies ..."
@@ -1549,6 +1571,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "jpC5l4oACw2h0YYSA8nDwkS25VBJ4PfjBlCokNIaiykHUta6ffvEjyKPCH6TE0+4JGr6xLR6m8ivSSde/wcTEPrBoVAIGs53u5CCHDEZSJGySIDTyQC1wgg94EOuy9f5PTIDCIChNFMGQ5woLNR1sXvwQDnwpbvd0UO87xYPvA8DmrmP0OR+7XeU5bKaaj34ONoSH9lSGu/d4V9nYX8ZjzjljYTaly5f3iSskML3TqtfNYRNTtyUCpcWrVaaN43hxWp09PhWQWcSTVEUqdipwKtOF4nV+rvRXkrO+Z3WRyMHzuuc2DjPXcBGPFnTam263CovujOwaewKYnsNYVN+2DIm+3idJJJC16v5ebCVlN4=;h/wHIljcinscm2c3v6uAjg=="
+secured: "FQIvQwF9IE2vJsnecXaImLXVtqdusyEmfdSExviBci2Yfipu1DBeXBbsZhjOSrdWb2LNOMqHgwSJLU6w2KwMlGoYjw7Q1PrVr1ARJuMI/0M8c1/I/vMfg2kyccc7T/t7ESuuMdpVrJV6vIqlXeVPwfO/b9+vc0sqfECrCkdND5RUUqxESeFe1+C2DwrTG5W37d79NBG3I8Zz0APHDrj9Dnjidx998CD4Oy1YrdFBOJm6l/FQNqCseVtqEikyooMTkFwxfT1ReFof1mSkm+pTYWYL0IvXdmv+ckXlclBo0UecjmRG3S40I9ab5CroRAcJ5P2LFsmbMT8GSDEo+C/hfCFJiFR4jLQH0GFZkp/d1ss=;TC2DRQOPAISf28LDnLtHbQ=="
 ---
 
