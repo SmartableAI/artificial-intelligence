@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/lightspeed-greater-bay-area-fund-
 webUrl: "https://www.yicaiglobal.com/news/lightspeed-greater-bay-area-fund-pour-usd100-million-into-drug-ai-startup-stonewise"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Lightspeed backs AI startup Juefx and 16 more deal updates from Greater China"
+    excerpt: "Returning investors including Lightspeed Partners China, and Yunqi Capital made follow-on investments, per a company statement on Thursday. Yunqi along with Legend Star, ZhenFund, K2VC, and Next Capital together invested in Juefx’s pre-A round in 2019."
+    publishedDateTime: 2021-04-16T05:27:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/lightspeed-backs-ai-startup-juefx-and-16-more-deal-updates-from-greater-china-236688/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 34
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2019/10/china-deal-monitor.png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "E3dXtnaK43G64qo0YbWkHAzS6GKS3ln3G8tOp6w7I/av/KXxs2eF7/giVjwEXlAo+vzcqud0XM7A3WKfeo/YfwytPLXMuCZvCXnBLofhwlKyViUbIemaJzKJKWkLA6AORa2w+AN6qKB21ofhByxjYv//fGBCsLx33LWQDPW/Q2cnm+ju2h8hsWvda4sK2GlWjHfJnc2FFvBKNtGDwUiOMMqlK59qNjNW+EzprYERhOeJgMmgAYfDhS+jb1tI8BYO7JD/442XbdgSB2KyoRRk+Y0lo2Se0GDK7wcE8+ibIL7nFWvLSHcldH9T23OJYToPMRhitrw7OxaIXWObpbvDsOB0S89Vm7bun6d7s+ipOSsfJE8Bz8B1eCLheL5yJrurukuWI/+MXTaJicrP7fbUNaRTz8fwDU5Zhfd0es9vO9PzWTLhN4HaZXDbNzyJF5UTYzPUhdP5EEmCr3L1gDxW+0H3vwSgbDv7go3FoyYzpkKDH8xKylh9A+Ha8+f0W0PquOOFfE7IPf1gsDzUyk5Edw==;r3f0BWtLZN5D1wIOXWYdsQ=="
 ---

@@ -134,22 +134,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft in talks to buy AI firm Nuance Communications - Bloomberg"
-    excerpt: "(Reuters) - Microsoft Corp is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications Inc, Bloomberg News reported on Sunday. An agreement could be announced as soon as this week, Bloomberg said citing people ..."
-    publishedDateTime: 2021-04-11T14:59:00Z
-    webUrl: "https://www.reuters.com/article/us-nuance-commns-m-a-microsoft-idUSKBN2BY0JE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BY0JE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BY0JE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210411&t=2&i=1558045103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3A0BC"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Microsoft buys AI speech firm Nuance Communications"
     excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
     publishedDateTime: 2021-04-12T15:00:00Z

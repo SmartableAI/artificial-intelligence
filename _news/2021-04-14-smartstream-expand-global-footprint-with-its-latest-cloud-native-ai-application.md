@@ -2,27 +2,21 @@
 category: news
 title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
 excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
-publishedDateTime: 2021-04-14T08:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
+publishedDateTime: 2021-04-14T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210414005057/en/SmartStream-Expand-Global-Footprint-With-its-Latest-Cloud-Native-AI-Application"
+webUrl: "https://www.businesswire.com/news/home/20210414005057/en/SmartStream-Expand-Global-Footprint-With-its-Latest-Cloud-Native-AI-Application"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SmartStream introduces data management AI on Microsoft Azure"
@@ -68,6 +62,6 @@ related:
         height: 800
         isCached: true
 
-secured: "iXctwN3DVWLmU//Hb5NA/PhYtaenidnWixghoMXwXdO3hCRJINuWnTo4DcndGvIFDFj/n5xgtMhSOVcfRLi1HIPK9prsH1zfzEdRMKy5WWmeQQ/TsXztB5vjbL8RuCBeBYicka5S7obZvmyy4PkFcvvuHaToVpC3qGvreeUlznCz5V3GXK1uspjSJF5MPjfnSj2HkPfnUOid1DAm5vMCOCgzXbbwpj3eOKOdYj27L93jexgKjH2V5Au8w6PxjPMcVi+V+Q6rh7CIp4DIaWQ3pb5hr4VSh+iX7fh9z8oCE6wNU/4kwmoeCQ6eKkf9CFG3vmmHnN40bTDotLnG7P9k0m5gFYkf6LGKoR4E9aEEPpE=;XxfkhtXwr0mT7NKa2Xej7Q=="
+secured: "NndQKpYBlFAI0axf50T3YlP5WDO1sQtJWsPkRnE2Rlco5tc4xtPKvIDxJ48OJm9/SWWZ4GjRPfDKWU8MXYj0YD1EZSJFcmplDDF7seBhldYwFwQeuAarItRe6gUucELzDKCvLfczSG2+Gp1+JUGOMxBKn1q8Uyk3PoTyjVd/uvKRpI/8LVpStpznQdC4XesR6ij3eyqNBQ//sqd9FTkuA9/OHPb3U6iT191pkWV9gvY5ocwErqqOOowjH9uVgqolo81Lh7HPP3zOhjVRhvrSHirRCTRd4dOp7mf1vrV0gHov2Dm0SzIT5tVN11NYsyeJS+QzNrscoYKeONTl/Jgk00ea+PhEiFu0Vv4yXPWeq0Q=;6ndIJTtA/nE+XN3hszipXg=="
 ---
 

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Extreme Networks Schedules Third Quarter Fiscal 2021 Financial Results Conference Call"
-excerpt: "Stock quotes by finanzen.net SAN JOSE, Calif., April 14, 2021 /PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its third fiscal quarter,"
-publishedDateTime: 2021-04-14T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/extreme-networks-schedules-third-quarter-fiscal-2021-financial-results-conference-call-1030302864"
-webUrl: "https://markets.businessinsider.com/news/stocks/extreme-networks-schedules-third-quarter-fiscal-2021-financial-results-conference-call-1030302864"
+excerpt: "We push the boundaries of technology leveraging the powers of machine learning, artificial intelligence, analytics, and automation. Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services ..."
+publishedDateTime: 2021-04-14T06:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210414sf41831/extreme-networks-schedules-third-quarter-fiscal-2021-financial-results-conference-call"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210414sf41831/extreme-networks-schedules-third-quarter-fiscal-2021-financial-results-conference-call"
 type: article
-quality: 26
-heat: 26
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
@@ -35,6 +31,6 @@ related:
       domain: benzinga.com
     quality: 21
 
-secured: "I8/updsNORUrKRYhSt4Ark194oFVlviWISZqVD9xv3VKIth5sHya7Z6iMcddxtJGML2pBfs9FycL7adUPIntq/o5LGCLZ60uhcLcNyN4kQqI/Fr3pC4TDKvQBg6RochzsN2bzfHZW3EwLmfTYsAgLktMI4lUKzWI5JbX1gdWc/JbNQo2f+3nlGTEBMBhBj7m/nC4KOmucqOXZPBEDvujgQOGQP4ZXssTIbv4qYdDtKtD3vvu6xEicv16A9weumEZ914mjvyNL/ReDAEKbSbWJ6DE6fsDgS338KuBiYeUs0Bj7vG1f5b25UNRghtWC+ck8bStZFskNDmi830UHRTpgVRLI5lrFI22XYcscG+k2Ck=;NcSTcF97EE1Z79r6QPs9tQ=="
+secured: "KNYTA4BUmcKsgH7zFUemRpXMK7zyfLv7htpyWXv+xh7wpeEDNg9JElh/jX3ZQNJD17vAH7VgXFPSCB5ZkAFhQ59q7SzMztXVcbdtvP+9F6uvKx6ed25O2VFCiMI4AtCRm3eqZlLxD0m9UeJ1pRsppl1Qa31a5v6dP+3KLoHyf+ODtiFJSf+LzPnmQIyE3U8nCxFdSRH9c08KsytNzZCArL9gtQlsuLiVFxQBtT8gREzpaXTs7f8fSI7S2lUa0e1YDaZ8IVmlJ5iTUW4U15UbqxMBhZHxrm3FF5HCMz8fRW3iSCr1eB7zrWPcLgQl3457sNRwkqV4eAfzZSJ7hyNPa+7kf8YCWWaGfBXSKFl6ylA=;T6OxR52AGQmM8nTVRQ7eEQ=="
 ---
 

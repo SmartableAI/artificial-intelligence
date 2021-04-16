@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023"
+    excerpt: "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-04-16T05:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Retail Market Size 2021 by Sales Growth, Revenue, Market Share and Forecast 2025 Research Report by Absolute Reports"
     excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" In the retail sector, top competitors"
     publishedDateTime: 2021-04-15T13:35:00Z
@@ -37,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cloud Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Global Cloud Machine Learning Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows and sizes. The report also calculates present and past market values to forecast potential market management through the forecast period between 2020-2025."
+    publishedDateTime: 2021-04-14T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Asia-Pacific Machine Learning Market Strategy, Applications Analysis and Growth Forecast to 2021 -2023"
+    excerpt: "The value of the machine learning market in Asia-Pacific is expected to reach USD 10.00 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 51.3% during 2018-2023 .Machine learning the ability of computers to learn through experiences to improve their performance."
+    publishedDateTime: 2021-04-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-strategy-applications-analysis-and-growth-forecast-to-2021--2023-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Size, Growth, Manufacturers Segments and Forecast 2025 | Says Kenneth Research"
     excerpt: "Apr 14, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Natural Language Processing Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
     publishedDateTime: 2021-04-14T06:28:00Z
@@ -70,21 +112,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
-    excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
-    publishedDateTime: 2021-04-14T17:06:00Z
-    webUrl: "https://www.openpr.com/news/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
-    ampWebUrl: "https://www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+  - title: "Best Machine Learning Software in 2021"
+    excerpt: "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today."
+    publishedDateTime: 2021-04-15T18:20:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/best-machine-learning-software-in-2021/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 47
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
+        width: 1500
+        height: 840
+        isCached: true
+  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
+    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
+    publishedDateTime: 2021-04-12T04:02:00Z
+    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 33
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
-        width: 628
-        height: 385
+      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
+        width: 683
+        height: 419
+        isCached: true
+  - title: "Europe Machine Learning Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
+    excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 33.5% during 2018-2023.Machine learning the ability of computers to learn through experiences to improve their performance."
+    publishedDateTime: 2021-04-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
     excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
@@ -97,34 +167,54 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Global Deep Learning Chipset Market Pin-Point Analysis and USD 30,559.2 Mn Return On Investment (ROI) Report 2022-2031"
-    excerpt: "Pune, India, April 14, 2021 (Wiredrelease) Prudour Pvt. Ltd: Market.us research recently promoted a report on Deep Learning Chipset Market Application Statistics 2021| Structure Forecast 2031. The worldwide market for Deep Learning Chipset Market is ..."
-    publishedDateTime: 2021-04-14T11:43:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/global-deep-learning-chipset-market-pin-point-analysis-and-usd-30-559-2-mn-return/article_08526f72-9ae6-5553-af6c-362632ac542b.html"
+  - title: "Artificial Intelligence in Agriculture Market Size 2021-2025 on Going Trends By Development History, and Business Prospect, | Says Kenneth Research"
+    excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
+    publishedDateTime: 2021-04-16T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-2021-2025-on-going-trends-by-development-history-and-business-prospect-says-kenneth-research-2021-04-16"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Research on GPU Database Market Size, By Component, Region and New Business Opportunities and Investment Research Report 2028"
-    excerpt: "The global GPU database market size is projected to reach nearly USD 1,484.1 Million by 2028. Besides, it is projected to gather a CAGR of above 21% over the forecast years 2021-2028."
-    publishedDateTime: 2021-04-15T07:04:00Z
-    webUrl: "https://www.wicz.com/story/43673387/latest-research-on-gpu-database-market-size-by-component-region-and-new-business-opportunities-and-investment-research-report-2028"
+  - title: "North America Self-driving Car Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
+    excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
+    publishedDateTime: 2021-04-15T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
     images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
+  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
+    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
+    publishedDateTime: 2021-04-12T09:21:00Z
+    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
+  - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
+    excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
+    publishedDateTime: 2021-04-14T08:26:00Z
+    webUrl: "https://www.openpr.com/news/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    ampWebUrl: "https://www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
 
 secured: "p1uuvnDodSm8TViCsrghxwH4HWKTpJ7fxSIVnWQDmEMEY2Ijhz94G6f7+ul19f9s5EVv9OMcDkvzLJEdoFy6Mlv8yUxajefyyE2tZHKCYjLz/pIJ7BMwOsvnI7kkmXBcCDAJlVqAXctmLBgCpLcSlT+W28wKcROtR+Pc4xxWw087SJm8mPbQqDGcnKO1CGupNAby7v9G7uSmSVZFftyRU0KoYCt75ZKS43XRb7FTq9IZ+7fkPZN3jvNjDxdy5OX0iOtosuO8TRkQQts89cGPgZ5WgxaNrAuYE3jwmzue2XXj9qPC8wk+GRvHaSH482Trl52/VBaXARqEX0vHalpsCWyNLvYgtLVvnP9yjvf3Rzg=;1vHoQafnPpmznEdm/zr48g=="
 ---

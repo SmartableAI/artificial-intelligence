@@ -55,18 +55,13 @@ related:
         isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
     excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
-    publishedDateTime: 2021-04-14T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f"
+    publishedDateTime: 2021-04-14T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210414005057/en/SmartStream-Expand-Global-Footprint-With-its-Latest-Cloud-Native-AI-Application"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "bryrzb8fc1FofjkASp3io4SbSkv11NjzAXf44fqRCCI0Jc28xYDk8OldcpwT82mY8jETP8UyI8LNoMyMyK6tyfVnPntJRxoE5Xk/fBiShLhePt98izDE86sqUmouXp1Lux4EQCGy2Ss8CmDC0ssgbymcpraKOVSFghaiDQAZygeZ8oDBho+H3wdLAxg0gIT8LBBYm8AScwYSbXlSjafB4KjjaDi99f8WOep5QGYRWxYAE6YfyTVMCyS7YCUwVYrGcuy6HDeGUXeNX3Vcf8tuwpn1fk7U2DUrYrKHQn0+WTbmKq5r9fUQZhJTYoff1dRzKlyL8xn2t+L/kFTzUUERTGyU4xbRoyEsqncerqM79EE=;fJ4EGsAU4SYDwv0zKwpGTg=="
 ---
