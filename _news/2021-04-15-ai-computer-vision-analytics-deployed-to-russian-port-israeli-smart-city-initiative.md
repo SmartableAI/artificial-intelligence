@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $160 Million by 2025"
+    excerpt: "The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach 160 million by 2025 growing at a CAGR of 32 5 from 2020 to 2025 Geospatial Analytics Artificial Intelligence generally called geospatial AI GEOINT geospatial intelligence is the intersection"
+    publishedDateTime: 2021-04-16T14:01:00Z
+    webUrl: "https://www.openpr.com/news/2271468/geospatial-analytics-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/4/U416264889_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Evolv Technology Brings Data Analytics Capabilities to its AI-Enabled Touchless Security ..."
     excerpt: "Evolv Technology, the leader in AI touchless security screening, today announced Evolv Insights™, a powerful SaaS-based analytics dashboard that provides security and operations professionals the ability to comprehensively review,"
     publishedDateTime: 2021-04-13T12:02:00Z

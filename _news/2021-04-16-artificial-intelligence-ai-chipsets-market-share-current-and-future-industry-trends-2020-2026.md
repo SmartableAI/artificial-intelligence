@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Industry Analysis, Market Size, Trends, Share and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence (Ai) in Medical Diagnostics Market is estimated to value over USD 5.2 million"
+    publishedDateTime: 2021-04-16T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-industry-analysis-market-size-trends-share-and-forecast-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
     publishedDateTime: 2021-04-12T09:21:00Z
@@ -93,6 +107,6 @@ related:
       domain: finanznachrichten.de
     quality: 6
 
-secured: "NOiMXnNkjBW9/DnFp9f6JQbaxGyrsaMGQu98KaLm6eYVHDXFA2gOuZ+YGNtvMF2//nAtdXYXbxlCm29j8MzZUGp76x+w3y9xPKI0XPO6CXrfdncNEKVpzWcfYMSlDlX1mWJwf/0HzvBMJqh1lPWybZpvhXZj+sIv6qVZ5Ck+buL7qjdRZNmjMp4Qhrjz1wVG1GTXXE/Lni+u57wN6AXfr5H1gvTrhUvk1upu1x7JZHJNlL4OJbuRyLveQs6Q2jaoE48Lz4j2eeWzSSeVsKAP82Na1MHyGGQ7eXSSBuE5VYiRPaTyj14POSaIMN6ES7wkj7UprmkVIt2iYFsMliZJejjOIRcBvyG02i6T59Si5II=;0NVistNO6gG1mdEd23nbZQ=="
+secured: "6XOaBab4aoZVreVh5zUt9IN0ABcXiTix3icci4pFGezorDBREmh17oshCFu7lcwGzln04alFtvC55i//AvRfoyl13Frgbh4H6y3glJ87ODgOlTolVS4xRP+ewt1YscG8WTM0ETmB5O1U2De6xFY0uTaSay8wFrLGkhnAgON3F954FQKqxbLnLZTj6acG3Eirf5oNNX7di6IM2vionUSJoKsHURBG8lGwp6DEWUusG+SLZlSNNuV9G5ZH911lauMDv5LdxDPE4WeE69tzZOotOl47hZmI6VYXZIImrD8qVA71dmarfrI5hfHq4WILKsBoLRjGwelHhlWBH5AzGJ7iSIZ9/Z/t5YUvwbh1yZz1wuc=;HXySwIKSbHn/nDWiaXpHdQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ocado invests £10 million in self-driving firm Oxbotica"
+    excerpt: "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years."
+    publishedDateTime: 2021-04-16T10:36:00Z
+    webUrl: "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 54
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Ocado to pump £10mln into self-driving vehicle specialist Oxbotica"
     excerpt: "The companies plan to develop a wide range of autonomous solutions that have the potential to transform the warehouse and service delivery"
     publishedDateTime: 2021-04-16T07:08:00Z

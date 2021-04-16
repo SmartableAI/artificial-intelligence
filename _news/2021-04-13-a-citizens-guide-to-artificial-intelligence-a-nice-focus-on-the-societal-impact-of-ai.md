@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Impact of AI on B2B Payments"
+    excerpt: "The revolutionary movement of the digital payments landscape is well underway, with new entrants and technologies in the B2C"
+    publishedDateTime: 2021-04-16T15:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830"
+    ampWebUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/04/ezgif.com-gif-maker-26-900x600.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Financial Standards Setter To Focus On Use Of AI"
     excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that its main focus for the year ahead will be on the role of artificial intelligence in the sector."
     publishedDateTime: 2021-04-16T13:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
+    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
+    publishedDateTime: 2021-04-16T15:45:00Z
+    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
     excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
     publishedDateTime: 2021-04-16T01:47:00Z

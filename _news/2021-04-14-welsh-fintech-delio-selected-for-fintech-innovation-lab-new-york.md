@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
-    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
-    publishedDateTime: 2021-04-11T21:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
-        width: 600
-        height: 468
-        isCached: true
   - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
     excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
     publishedDateTime: 2021-04-13T16:41:00Z

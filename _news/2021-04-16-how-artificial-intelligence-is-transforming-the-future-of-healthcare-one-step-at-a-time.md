@@ -59,14 +59,19 @@ related:
         height: 768
         isCached: true
   - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-    excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-    publishedDateTime: 2021-04-14T05:57:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+    excerpt: "One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI). Artificial Intelligence (AI) is a powerful and disruptive force driving introduction and deployment of more ..."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 24
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 44
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "Produce and the advancement of AI in the Roaring 20s"
     excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
     publishedDateTime: 2021-04-15T16:27:00Z
@@ -77,6 +82,6 @@ related:
       domain: thepacker.com
     quality: 17
 
-secured: "VjPlkTRu6JFMynG7yO0CuhhvKispvgDY9UcH//qnmrqQNOH5NmodB24DZQCHXSYlPEvHfXxIM6Pdt9y0wYwbB8UGuQR5Ws51RCRy4J7dK9vvzTqj9kzfljWOVp2I78h44ezhTXiBCy6ZR4FkkUn6ToQYQcFhmlO7caC+wdFQYZ35jvrBJdq0oY2wqbNnEKpH3SBTjN25v4InkC05vhmMrrBm1rpPghe3cYp4CDhshoJES9kLOdWLfIF0OLW0enQ0xzzGkWS02PLkbc8mM+OEcbUbq+nOttNstByPxeDQGxY6q7LL1Mb+1H7GYUsrI1NvF32MNHdnKOraDMiZAwSSPR14MSYdqpxt9KfMRo5FshE=;2GmmInAVUS2nBHQ4Davg0A=="
+secured: "3jgH+u7RtxnEiibA0noRWY6rFR7RfWb8u3YBHFcS9KHyx6cblpr4t42Ae/uCjoidh54g4VEnZ1ryeZrkRO7ZjlXVxkGams5hxzr9f/Bd/+46HaAnyHMk/UoD9pief8VW9HuWAsXtmHvjIn+1ECRxy0EUY4aT+wP1EVZXuvtbjl/Q+hpr0SdJDUohRocZ6OMH3oK1yFPzXDDJoMBgHVgzWnjUqu1MoFsQGCgwGZ1hqB7oAmcVf6pZ4Xd23QdslSpJmcKbj3OLxg/Feth+ucuA1wIcsAQr+a6QEmL63L6rG+cKeC2uEKlXJqs/hu6DJ7KMI4L8bVmY97jwMfbPKO/SKKNuqGzomc/BmO4OAuPMJLZBX66m1V8MLxqrtFAuSDFiBIO5+v2cSFjGRWvCy7l5T8WT6VFIeCjJtgcfEiFfYAL+0vbBaDrIgPQDkQcuPDmPsDT/z/L9wMcH6RHsn6qCzCo0pZmbcLCjBnsEKkbG8Z4WNwXgnaTgbaLuOPsOnh+0SaSdBqKEp0rhyE+OhrxKGw==;qYDz89Ryu5dEtq/vli3elA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engin
 webUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engineering-fdic-to-partner-of-fintech-innovation/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
-    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
-    publishedDateTime: 2021-04-11T21:20:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
-        width: 600
-        height: 468
-        isCached: true
   - title: "Welsh Fintech Delio Selected for FinTech Innovation Lab New York"
     excerpt: "The Cardiff-based fintech company, which develops investment platforms for ... Safekeep (New York) – whose award-winning AI-driven claims solution increases recovery potential and reduces effort by as much as 90%. SPIN Analytics (London / New York ..."
     publishedDateTime: 2021-04-14T04:55:00Z

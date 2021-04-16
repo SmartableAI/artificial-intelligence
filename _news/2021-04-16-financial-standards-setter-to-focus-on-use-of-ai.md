@@ -37,6 +37,22 @@ related:
         width: 876
         height: 493
         isCached: true
+  - title: "The Impact of AI on B2B Payments"
+    excerpt: "The revolutionary movement of the digital payments landscape is well underway, with new entrants and technologies in the B2C"
+    publishedDateTime: 2021-04-16T15:00:00Z
+    webUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830"
+    ampWebUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/04/ezgif.com-gif-maker-26-900x600.png"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "yEEWdAnqF1ATjnvvH+ZZwxDOsPOqvo7+eXuQ5QQOTI4apnhdCHvNFM/l+OaXvFcp8yI8n7MGMwky3WXM2PSHSkD8Z4ThXlCnDizynE2Oltv2kMqpWi8cmhVLqnwQ+xzoruFGxgNoACuxY3H2FWM53FsXbcI8C2OMikaETUFPdthzW5tFNkFTkmWQFO0uXd0Ayaz60Hiz93vnk59xL7M+YafFFa5cSKjccLfZh1d6fNvz8RI63fNbBwW/9AbXWijeW24JKksN1o825IVzGO9AgmevINqkQdRf9aLi6DwhO0ep90kB02KB6hjhNoKP2RshVFRkZSlNTmvhNw3FkqTGzYh41CQL8Zg04yxMJQ9g5qI=;wazQ1jr2cMkma38Zx1h3eQ=="
 ---

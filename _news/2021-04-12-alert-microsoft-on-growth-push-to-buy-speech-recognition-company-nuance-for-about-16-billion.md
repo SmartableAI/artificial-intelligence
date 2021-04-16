@@ -263,22 +263,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 95
-  - title: "Microsoft Is Reportedly in Talks to Scoop Up AI Firm Nuance Communications for $16 Billion"
-    excerpt: "While not exactly a household name, Nuance’s AI and speech recognition software is used in a range of industries from healthcare to automotive and helped lay the groundwork for the tech powering ..."
-    publishedDateTime: 2021-04-11T21:53:00Z
-    webUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275"
-    ampWebUrl: "https://gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/microsoft-is-reportedly-in-talks-to-scoop-up-ai-firm-nu-1846662275/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 94
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lq6ftunuwuirkbvljfoh.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft’s $19.7 Billion Nuance Deal Comes As CIOs Tap Voice AI To Help Customers And Workers"
     excerpt: "Some tech forecasters have been predicting for years that voice commands will become the dominant way in which people interact with all kinds of devices and voice AI has scored notable successes in the consumer world. The explosion in use of personal ..."
     publishedDateTime: 2021-04-12T22:15:00Z
@@ -536,6 +520,22 @@ related:
       - url: "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/03/money-dollars-shutterstock-650.jpg?fit=650%2C400&#038;ssl=1"
         width: 650
         height: 400
+        isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion"
+    publishedDateTime: 2021-04-12T21:29:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 76
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Microsoft’s latest acquisition shows speech recognition is big business"
     excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
@@ -998,20 +998,6 @@ related:
         width: 1100
         height: 817
         isCached: true
-  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation ..."
-    publishedDateTime: 2021-04-12T22:39:00Z
-    webUrl: "https://apnews.com/3d0298725cd320fdbc321ba9c1d432f2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/211b41a5959f4f41a651c82c36bcfe06/2000.jpeg"
-        width: 2000
-        height: 1486
-        isCached: true
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
     publishedDateTime: 2021-04-13T10:00:00Z
@@ -1300,20 +1286,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $22.7bn"
-    excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about US$16bn ($22.7 billion), according to people briefed about the matter."
-    publishedDateTime: 2021-04-11T23:03:00Z
-    webUrl: "https://www.nzherald.co.nz/business/microsoft-nears-deal-to-buy-voice-tech-pioneer-nuance-for-227bn/TYLRUSF6CJOGNDEEQHBDR2LIEI/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 41
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/pFXo9QHEAJ51lumXquhMoYvVacE=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5DEZYLXIGWUGI2I7GOK3JI2AFA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft needs extra intelligence"
     excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
     publishedDateTime: 2021-04-12T10:19:00Z
@@ -1384,7 +1356,7 @@ related:
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/microsofts-share-price-pops-after-nuance-acquisition"
     type: article
     provider:
       name: CMC Markets

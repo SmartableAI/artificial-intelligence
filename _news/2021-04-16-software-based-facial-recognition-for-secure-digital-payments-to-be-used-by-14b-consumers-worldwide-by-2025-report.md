@@ -44,6 +44,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
+    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
+    publishedDateTime: 2021-04-16T15:45:00Z
+    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
     excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
     publishedDateTime: 2021-04-15T13:00:00Z

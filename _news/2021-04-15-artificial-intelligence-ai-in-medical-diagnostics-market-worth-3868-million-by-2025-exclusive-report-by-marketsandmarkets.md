@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Industry Analysis, Market Size, Trends, Share and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence (Ai) in Medical Diagnostics Market is estimated to value over USD 5.2 million"
+    publishedDateTime: 2021-04-16T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-industry-analysis-market-size-trends-share-and-forecast-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
     publishedDateTime: 2021-04-12T09:21:00Z

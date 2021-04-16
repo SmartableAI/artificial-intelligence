@@ -1,33 +1,31 @@
 ---
 category: news
 title: "Toward deep-learning models that can reason about code more like humans"
-excerpt: "A new framework built by MIT and IBM researchers finds and fixes weaknesses in automated programming tools that leave them open to attack. It’s part of a broader effort to harness artificial intelligence to make automated programming tools smarter and more secure."
-publishedDateTime: 2021-04-15T19:45:00Z
-originalUrl: "https://news.mit.edu/2021/toward-deep-learning-models-that-can-reason-about-code-like-humans-0415"
-webUrl: "https://news.mit.edu/2021/toward-deep-learning-models-that-can-reason-about-code-like-humans-0415"
+excerpt: "Whatever business a company may be in, software plays an increasingly vital role, from managing inventory to interfacing with customers. Software developers, as a result, are in greater demand than ever,"
+publishedDateTime: 2021-04-16T14:55:00Z
+originalUrl: "https://techxplore.com/news/2021-04-deep-learning-code-humans.html"
+webUrl: "https://techxplore.com/news/2021-04-deep-learning-code-humans.html"
+ampWebUrl: "https://techxplore.com/news/2021-04-deep-learning-code-humans.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deep-learning-code-humans.amp"
 type: article
-quality: 54
-heat: 54
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202104/coding-AI.png"
-    width: 1000
-    height: 667
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/towarddeeple.jpg"
+    width: 882
+    height: 600
     isCached: true
 
-secured: "vM7hODGYbsTl3q5aEajdUWCfcVvoOTgQ1Ztl81XkFd10F2tkjrZszxz+k+0xfYvIShy7miRjDcMRQaK+k5Ufa6cFmhPtdcsTHTAeuc+eIs8a7zd3q88oA5Lad5Z0ecv82a/HlJpEwaBXu+7/pFLLqGN8p6Kw21BSRYrDz300lL70wljYAYgC0cPhF12uwwtSoaj2YPZzUM84xNKSyfL392ShrFatpuZtJJbXeDUj+ww3LlIUQ97aCCtMg5XNZrE+GzcxPqVlm4j5lX/ogY1mjGM9rQmHcdGp6oFVhFJVVvDvKbi9qVRS514JMXePt56M2DclizXj6uFNJP7Z41/FsbU3jFysfxiZTmJGG5B81+LhM0p6WbAREArdg8YnPmKLiyrK8Sr6TkImHC3kMyLNN4oHR2iRzfYQ4DpRYPPPAKJ4QRlcMcfSfu8pLq5R2mcitrqJ7sqvYX9Nv/Kz8viljC2rZpulGblhBxBrBAtss3DIuW82aZ9/QVuy959kJVFiFdSiK/0dTC81km9BkXE6AQ==;CcsxJrslNeX2PfYR4PIRUQ=="
+secured: "rGFpmov2OuIPQHHZFj5SBlHpspqkdtG7uUdFz9U5KggjDId67+W//baMZBD5Zh5tdynaIOgeCvXQuYHx7Uk2QQdo6Tazs7sitBNgcBF3zulNGVU24cnWYgjthl9PH9Zc6n8gGDs3O/9KC9I7SgRtdNVf9cbecwWzlbp1ATgJ3AeMXgXzo8lBGCeoTAIN1KcD5EA1zcFgDAQ/L0WrLj2ayEiMgpLtH6f3La2/u6Y1K2Mx8h9Qm8mt42pL0xaYDY5bEpkwP0D/98g3k35Sx1FDuQgwfuEQEBNbSAxJTuLy0vfez/1RLfbVcx7JPfrx9+cCxrjNkj3QiUtFChQs0h8kA4ijndjn+UZX3GQuPTjqQBk=;zu5ETlSSWoNHF6v1G847hA=="
 ---
 

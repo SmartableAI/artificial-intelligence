@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -84,6 +84,49 @@
       "provider": {
         "name": "Khaosod English",
         "domain": "khaosodenglish.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robots-are-coming-for-your-job-5-jobs-in-india-in-which-robots-ai-have-already-replaced-humans.md",
+      "title": "Robots are coming for your job! 5 jobs in India in which robots, AI have already replaced humans",
+      "excerpt": "Robots, AI, and automation have already started replacing humans in jobs in manufacturing, warehousing, IT companies, online media, etc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/",
+      "originalUrl": "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.hub.91mobiles.com/wp-content/uploads/2019/06/deepnude-featured.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/",
+      "cdnAmpWebUrl": "https://www-91mobiles-com.cdn.ampproject.org/c/s/www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/",
+      "publishedDateTime": "2021-04-15T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "91mobiles",
+        "domain": "91mobiles.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -192,7 +235,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -213,7 +256,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Robotics"
       ]
@@ -1389,50 +1431,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
-      "title": "In an AI world we need to teach students how to work with robot writers",
-      "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
-      "publishedDateTime": "2021-04-09T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

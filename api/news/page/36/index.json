@@ -2,6 +2,110 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-03-19-right-wing-troll-chuck-johnson-claims-he-cofounded-facial-recognition-giant-clearview-ai.md",
+      "title": "Right-Wing 'Troll' Chuck Johnson Claims He Cofounded Facial Recognition Giant Clearview AI",
+      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of… Clearview, which has inspired controversy due to its high-powered facial recognition software ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
+      "originalUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lue5gnza5ewykbnt979o.png",
+          "width": 800,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
+      "publishedDateTime": "2021-03-18T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-competitive-landscape-excerpt-amd.md",
+      "title": "Competitive Landscape Excerpt: AMD",
+      "excerpt": "In AI, no.In HPC, yes. AMD’s new GPU is an excellent stepping stone to their exascale platform. I expect AMD will be selected by price-sensitive supercomputer installations which may not see a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/19/competitive-landscape-excerpt-amd/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/19/competitive-landscape-excerpt-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054c662e9cdbdcb83331252%2F0x0.jpg",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/19/competitive-landscape-excerpt-amd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/19/competitive-landscape-excerpt-amd/amp/",
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-how-natural-language-processing-makes-our-lives-easier-and-improves-your-business.md",
       "title": "How Natural Language Processing Makes Our Lives Easier and Improves Your Business",
       "excerpt": "Although some calls are indeed used for training purposes, more often they are used to improve natural language processing algorithms. We have all heard the sentence “This call may be recorded for quality and training purposes” when you call the call ...",
@@ -1069,91 +1173,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage.md",
-      "title": "ScaleFlux Delivers Computational Storage with Support for Nvidia Magnum IO GPUDirect Storage",
-      "excerpt": "“Modern AI and data science workloads are powered by vast amounts of data, which makes it critical to enable fast communications between GPU computing and data center storage systems,” said Kushal Datta, Senior Product Manager at NVIDIA. “ScaleFlux ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
-      "originalUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-fetcherai-nabs-65m-to-match-employees-with-open-roles-using-ai.md",
-      "title": "Fetcher.ai nabs $6.5M to match employees with open roles using AI",
-      "excerpt": "Fetcher.ai, a recruitment platform that combines AI with human teams, today announced it has raised $6.5 million in a round led by G20 Ventures. The company, whose latest funding round brings its total to $12 million,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/18/fetcher-ai-nabs-6-5m-to-match-employees-with-open-roles-using-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/18/fetcher-ai-nabs-6-5m-to-match-employees-with-open-roles-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/recruitment_hiring.shutterstock_454219495.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/18/fetcher-ai-nabs-6-5m-to-match-employees-with-open-roles-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/18/fetcher-ai-nabs-6-5m-to-match-employees-with-open-roles-using-ai/amp/",
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

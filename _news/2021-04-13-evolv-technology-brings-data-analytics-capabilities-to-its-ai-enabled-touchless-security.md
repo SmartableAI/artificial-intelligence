@@ -39,6 +39,22 @@ related:
         width: 877
         height: 432
         isCached: true
+  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $160 Million by 2025"
+    excerpt: "The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach 160 million by 2025 growing at a CAGR of 32 5 from 2020 to 2025 Geospatial Analytics Artificial Intelligence generally called geospatial AI GEOINT geospatial intelligence is the intersection"
+    publishedDateTime: 2021-04-16T14:01:00Z
+    webUrl: "https://www.openpr.com/news/2271468/geospatial-analytics-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/4/U416264889_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
     excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
     publishedDateTime: 2021-04-14T08:30:00Z

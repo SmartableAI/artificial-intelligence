@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top
 webUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top-firms-in-india/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2240
     height: 1261
     isCached: true
+
+related:
+  - title: "Robots are coming for your job! 5 jobs in India in which robots, AI have already replaced humans"
+    excerpt: "Robots, AI, and automation have already started replacing humans in jobs in manufacturing, warehousing, IT companies, online media, etc."
+    publishedDateTime: 2021-04-16T04:26:00Z
+    webUrl: "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/"
+    ampWebUrl: "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/"
+    cdnAmpWebUrl: "https://www-91mobiles-com.cdn.ampproject.org/c/s/www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/"
+    type: article
+    provider:
+      name: 91mobiles
+      domain: 91mobiles.com
+    quality: 61
+    images:
+      - url: "https://static.hub.91mobiles.com/wp-content/uploads/2019/06/deepnude-featured.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "1W0xkou9UbQR3ZhKYy3wQEv3ytSUQkdPIh9smqG+qe2YfeD8rHk662qsd23IzSV9cia4vJGx6IH72Oi/X9IO3bgAKl9BqJOetfPb/bVWpM4r47dNGqhyb2dcJAoKUYGbraeKsbntkzNIFQv0pqPMrp550FHtpWEUILInGkySJNHeV4vPBAeMMipQWoW9JBnmZRXRJ27gHdFb988O/1L4C3Qivsp5Isud2NXaVEHBJ8oXAT1QEMtFTPEG+UxgJCakEABKmB0t4bP5W9t/PsjCAmJgJTUZT5mQg3/sGm6Dcz1kGVFrsNmhWddPoC+P7n3QOGOg4mrBG/oFblVYcg9cKg2W1OBWD5qd4jnhAq9z80wCeiSdOZR+z+fZiVu/LTOWbCJes7/w0vz10cR/ldvVNZrOHR9lRjsNJWvZu1w1I+TOz5FKr84xht3TI83H87iw24PpZSBrBEorq7qOf9N/z88DjV5lPZhhukhesECXatN8lpRCJJozGO6JXqgpb4nHrEU2tf6P/O3JQWIaqH49fg==;xIapYxDx9bRcPBfVF9/m8A=="
 ---
