@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "Five ways artificial intelligence can help space exploration"
+    excerpt: "From designing missions to clearing Earth's orbit of junk, here are a few ways artificial intelligence can help us venture further in space. Do you remember Tars and Case, the assistant robots from the film \"Interstellar?"
+    publishedDateTime: 2021-04-16T10:59:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-for-space-exploration"
+    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-for-space-exploration"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-for-space-exploration"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ts5989TpfZsackr5UkteY8-480-80.jpg"
+        width: 480
+        height: 480
+        isCached: true
 
 secured: "n8scM6ak5COQeccnMva44tIkyHvkkDZL3XoH/qtHgejuNCdtKilsK96u7IP+3b98b9pnYI8Uk6HDsn7zUR1jg7RTxk8PtaNtlAj/c6pfpTaToxms9FyQPnsuTJ2TGxXA/GzwfUSdjk+09ypfngWr125WKWnRDy+xrmiq7iaFJxAPXaWH2L6FbmF0OByywcK4XcaAGjAyrsh7aT4Cz6X3LnEze56eRGaMydcoy2aqVOEAU+RFXc6LmaIgtVcFRJH93DP/r9QL8JK6gNU7oPR88EUam6Xs1P5p8FkwXPCK5L7W5yp1K5WWGVZelyzcsDdd3vGr91XP4ftLUSwoRaSTwAUXoyOpZR8uRMghGJOaUwrnL28rfZsOJmIXk7eJkB+VcMaXnkE0FhuRoZT5EDmMREomnFfASEgU0jJ9MuypktimvI9LZb39LlAPmpLRE6Ngyv+wi+kd0rN2Qljp+iz9yJ+lNqquW6HypqozaXBw2Dbwwm6LMIV3ZPHnVW8tZxITo4Dbh6R6X3Wd+IX1GLcBkw==;isOws9rxSMVjn1iFt5up1g=="
 ---

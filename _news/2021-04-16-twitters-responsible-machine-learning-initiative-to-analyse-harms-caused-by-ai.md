@@ -44,6 +44,22 @@ related:
         width: 696
         height: 465
         isCached: true
+  - title: "Why Is Twitter Analysing Its Artificial Intelligence Algorithms Suddenly?"
+    excerpt: "Twitter is analyzing its artificial intelligence and machine learning algorithms and checking for AI, racial, ethical and cultural bias."
+    publishedDateTime: 2021-04-16T09:41:00Z
+    webUrl: "https://www.analyticsinsight.net/why-is-twitter-analysing-its-artificial-intelligence-algorithms-suddenly/"
+    ampWebUrl: "https://www.analyticsinsight.net/why-is-twitter-analysing-its-artificial-intelligence-algorithms-suddenly/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-is-twitter-analysing-its-artificial-intelligence-algorithms-suddenly/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Twitter-Analysing.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "nqE2PJbQaZ4fhiQFBlVTXYi0ldeBQbhHF/3xqZf9z3CxgUrdMtHMoj0JEASxIn9Rk37SczYInpf8CtH8OxiDzfIG/JSZc/bizzk+P61yLHgTRfKw5jHAcqUFoqyAC53oFvDSV8mMtVrU2UfzHdUTKS1H3RCsyO7KbOF1sf8lOW73qiunb9z6APUrT89GVSYwQ75hjiK1nHZpUlwGckFfJ5Q8maB3rGpnz5jMIaPHfIXOwy3kaLFpg9WtTivF9GvXztvDp+jSLPDy0MpD9hFTqufb2Dltvdam0+ZLxwGDaaFTAs2BnfrRjsPo72IaGOrbtUpvVQL6QYsG8TjaPPAIZJ1ItjFQCMKWSOxmOCnd8+ieaHAhZcCkLYJGqyGkFISZvflM13tC0N1XyNBJekQYSZdSi2Z0Wix7hF661x03gWYx5aSPT+2zzWchls7ek/L6XRBiABOfTu7GN6RnefxT5pNO7EcBvzz3elUxhBV9yXnQrMtDZ3phgxy/vu926eENO/hZVwdkA8qm4/faroh9pA==;4ZqEvLTHIPakXpJ06As6SA=="
 ---

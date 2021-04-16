@@ -219,6 +219,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
+    excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
+    publishedDateTime: 2021-04-16T10:52:00Z
+    webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 49
+    images:
+      - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lawsuit: Man suffered 'great harm' after wrongful arrest based on Detroit's facial recognition technology"
     excerpt: "An ACLU press release Tuesday claimed: \"Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States.\" The suit says Williams' Fourth Amendment rights were violated and that ..."
     publishedDateTime: 2021-04-13T18:21:00Z

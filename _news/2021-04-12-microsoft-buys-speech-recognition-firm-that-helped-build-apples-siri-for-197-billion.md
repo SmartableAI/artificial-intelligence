@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/"
 type: article
 quality: 98
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -76,17 +76,6 @@ related:
         width: 1242
         height: 709
         isCached: true
-  - title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
-    excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
-    publishedDateTime: 2021-04-11T17:20:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 42
 
 secured: "0ExIWJawOQ7ThGDLZWVaaEz57aKLGn5eVRnVDuNG9hLLoaU/HDJW79Z5xV+pX5QaVCpi3sSohzl9kcnaKKz+wbr/tvd/Kztv+gN879nTOezTaNVDQHU+Lj+VkiNKrH0Hn1+REmB9qLtU4zQMQrXSRWik8+e0hWgKkbQQiajYQjO9hZCNQsQ40pob01LN7hWMhduj3X3gPh2UD/uU3P0Pc2KTGKKHOkMeyKHoSeV+WDhSm31N6jOZz10nXj4NzDPgS/rYiU9IgIrk7Dh+Mt1tiV0JwocfY67FbYmt7tGHmEp1kN4ZqW84IJRyWEcHasT4QBQtuoVC9hoBvuWRF9992lPflkQwwYTzRAdJ3zTD52BnitRuLcFDOdEtNhJ4wjyxJnzqtBwqq5QvjAGQUM3LJQmSzZZq43rAAyv9RIYVQqJAjBVFDtA9/csrK0dKjeIsn/lbYJ/o8KNA9fkL2rdTSLy1HAntjj8IrCkD1UvybfdbzC+sSNI96pKdqRM9tpqQzJv7a8dcglpkIg6VN02XJA==;6AEMpeuiMdig9MtdnX1EIA=="
 ---

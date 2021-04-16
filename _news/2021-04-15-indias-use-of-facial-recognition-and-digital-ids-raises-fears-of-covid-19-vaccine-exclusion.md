@@ -52,6 +52,38 @@ related:
         width: 900
         height: 1035
         isCached: true
+  - title: "AWS launches Amazon Digital Suite to help SMBs in India go digital"
+    excerpt: "The suite provides a broad selection of business software focused on SMBs from seven AWS Partner Network technology partners in areas such as accounting, customer support, and human resources"
+    publishedDateTime: 2021-04-16T09:23:00Z
+    webUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital-11618564585058.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/04/16/600x338/AFP_8QN2MT_1600991712241_1618564906958.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AWS launches Amazon Digital Suite to accelerate digital adoption for SMBs in India"
+    excerpt: "SMB spend on public cloud services is expected to contribute more than 29% of the $7.9 billion public cloud services market in India in 2024."
+    publishedDateTime: 2021-04-16T09:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/articleshow/82100388.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-94899,msid-82100523/amazonap.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Covid-19 Vaccination To Go Contactless With Aadhaar-Based Face Recognition: Here’s What It Means"
     excerpt: "In a bid to make the process go contactless, India’s Covid-19 vaccination efforts are seemingly set to add Aadhaar based facial recognition. According to a report by The Print, citing an interview with National Health Authority head R.S. Sharma, the ..."
     publishedDateTime: 2021-04-12T11:06:00Z

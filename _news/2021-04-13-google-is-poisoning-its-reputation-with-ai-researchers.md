@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-e
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all"
         width: 1200
         height: 809
-        isCached: true
-  - title: "High-ranking researcher resigns from Google AI team"
-    excerpt: "Bengio expressed solidarity with Gebru in a message shared on Facebook that remained up on Tuesday. \"I have always been and will remain a strong supporter of her scientific work to make sure that AI becomes ... one director in the research org who was ..."
-    publishedDateTime: 2021-04-11T17:05:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/high-ranking-researcher-resigns-google-ai-team-2076037?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
-        width: 560
-        height: 292
         isCached: true
   - title: "On Artificial Intelligence in Education"
     excerpt: "Rarely a day goes by that does not bring some news about Artificial Intelligence (AI). While it can seem that this is an entirely new field for exploration as to how it might impact education, the research into those possibilities and limitations has been going on for decades."

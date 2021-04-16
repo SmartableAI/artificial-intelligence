@@ -151,6 +151,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
+    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
+    publishedDateTime: 2021-04-16T02:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/shares-self-driving-truck-company-tusimple-flat-raising-1-35b-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
     excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
     publishedDateTime: 2021-04-12T18:15:00Z

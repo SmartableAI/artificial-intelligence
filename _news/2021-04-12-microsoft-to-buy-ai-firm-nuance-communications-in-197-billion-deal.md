@@ -249,22 +249,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft reportedly in talks to purchase AI and speech technology firm Nuance Communications"
-    excerpt: "Nuance, the firm that built the technology that underlies Apple's Siri, would be valued at roughly $16 billion in the deal, a 23% premium to the market."
-    publishedDateTime: 2021-04-11T18:23:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reportedly-in-talks-to-buy-ai-firm-nuance-communications-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/603f4b7fb46d720018b0482e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft buys speech recognition company Nuance in $16B deal, second biggest since LinkedIn"
     excerpt: "Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $16 billion, the tech giant's largest acquisition since it bought LinkedIn for more than $26 billion in 2016. The deal is the latest sign Microsoft is hunting ..."
     publishedDateTime: 2021-04-12T12:55:00Z
@@ -401,20 +385,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607553e0a328a435c3742dce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1942%26cropY1%3D225%26cropY2%3D1135"
         width: 1199
         height: 562
-        isCached: true
-  - title: "Microsoft in Talks to Buy AI Firm Nuance Communications"
-    excerpt: "The company views AI as a key driver of future sales of cloud services. Microsoft faces fierce competition in the space with rivals such as Alphabet Inc.’s Google and Amazon.com Inc. also investing heavily in the field."
-    publishedDateTime: 2021-04-11T17:51:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-11/microsoft-is-said-to-be-in-talks-to-buy-nuance-communications"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW6h3oPyclNU/v0/1200x804.jpg"
-        width: 1200
-        height: 804
         isCached: true
   - title: "Microsoft’s $20 Billion AI Deal Will Shake Up How We Work"
     excerpt: "The technology giant’s purchase of voice-recognition and AI specialist Nuance Communications puts it at the forefront of the next big wave of workplace innovation."
@@ -569,6 +539,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Microsoft’s latest acquisition shows speech recognition is big business"
+    excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
+    publishedDateTime: 2021-04-16T03:20:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
+        width: 740
+        height: 420
+        isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
     publishedDateTime: 2021-04-12T12:49:00Z
@@ -671,22 +657,6 @@ related:
       - url: "https://images.livemint.com/img/2021/04/12/600x338/2021-04-12T142330Z_487134973_RC2EUM9B03Z5_RTRMADP_3_NUANCE-COMMNS-M-A-MICROSOFT_1618246557413_1618246736680.JPG"
         width: 600
         height: 337
-        isCached: true
-  - title: "Microsoft in talks to acquire Siri speech recognition partner Nuance for $16B"
-    excerpt: "Nuance Communications is allegedly in discussions with Microsoft over a potential acquisition of the voice recognition company, one that could value a technology provider behind voice analysis for ..."
-    publishedDateTime: 2021-04-11T17:20:00Z
-    webUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b"
-    ampWebUrl: "https://appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/04/11/microsoft-in-talks-to-acquire-siri-speech-recognition-partner-nuance-for-16b/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 73
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/41317-80119-siri-xl.jpg"
-        width: 1312
-        height: 731
         isCached: true
   - title: "Microsoft makes big bet on healthcare AI technology"
     excerpt: "Microsoft Corp is making a massive bet on healthcare artificial intelligence (AI). The software giant is set to buy Nuance Communications Inc, tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
@@ -893,22 +863,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Microsoft nears deal to buy voice tech pioneer Nuance for $16bn"
-    excerpt: "Microsoft is nearing a deal to buy voice recognition pioneer Nuance Communications that would value the artificial intelligence company at about $16bn, according to people briefed about the matter. The deal would be the second-largest acquisition ever by ..."
-    publishedDateTime: 2021-04-11T18:27:00Z
-    webUrl: "https://www.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
-    ampWebUrl: "https://amp.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a36dd469-e521-4ce7-9351-ddc8f6b5cb42"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 61
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53c548b9-d9ae-45d5-bbe3-f46fcc33c5eb.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
     excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."

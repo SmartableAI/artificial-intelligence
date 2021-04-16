@@ -71,17 +71,6 @@ related:
         width: 1242
         height: 709
         isCached: true
-  - title: "Microsoft in talks to buy Burlington AI and technology firm Nuance Communications, sources say"
-    excerpt: "(Bloomberg) -- Microsoft Corp. is in advanced talks to buy artificial intelligence and speech technology company Nuance Communications, according to people familiar with the matter. An agreement could be announced as soon as this week, said the people, who ..."
-    publishedDateTime: 2021-04-11T17:20:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/11/business/microsoft-talks-buy-burlington-ai-technology-firm-nuance-communications/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 42
 
 secured: "7YGyL/nO/m7Pka7HYQi7dUWRbWNanDVI4WVvrqRhsk7T940MSEvYA4Je4zZUJ8mNdh/CQgqbT4UwylArDh9mxrZUKELD+RQ8e/f60AWL/DpvqHsCGqJCd3HVZTOoDOySkxM5tLAzo57y3ZsMT2s1ia9+C/tcutnPYOETiN/XujcicBD/hzWqmDEyJDGt3gR2AHX37Ym6PLZfmRj6zzK/Z/6Kbo4n8GMSYgUsDeFrda7SJLjFVz5LwBKLN5PVFyGsBsNFTyE4T8rqBjuiamEH7NWLcLZAgD9/Qu0bZxMlCjBpjQ677YZgWh/I59YUayPdPN0xZeD6gerz9U5tNDOKbjN1yuKFL2+5SfEEPQEALtA=;qagj+HDwo8YK6FhRaNGglw=="
 ---

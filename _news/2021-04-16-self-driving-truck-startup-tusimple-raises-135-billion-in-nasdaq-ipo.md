@@ -139,6 +139,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
+    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
+    publishedDateTime: 2021-04-16T02:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/shares-self-driving-truck-company-tusimple-flat-raising-1-35b-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
     publishedDateTime: 2021-04-15T18:55:00Z
@@ -172,6 +186,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "2KSVBSPCp3hf73zaY9PuBuQhgg+pDPjzL8X09tWBwusRTVqIo+kcLQfXhwhEEVWbhy6Qa5bVujCrGr33y6oArJmz8FICGvEznUpElXD8P6yXn2Vc2JTa3y2oZ7FPc0wA8Y+UdEFayXdpsiwWHmayXHu0Nkr5CUY598PgRdIyVpGsYSzY0uwgcctyZpp7x8GdMmsNb4oTeZgmDy8Omxyzxvhs6e8jf59B1noJNu9xHwDDcH2OvYHVWVC+7zH/BtJkGpjNTmtIFpLCXHpeQB2z844Ua9HclYCi3giKiv7+pGCMqkIU5vKyRfMtlP4zUmFWn3WO8Na74CnIMiAVIL/fZFBnPT3s9E+UJLiiYqc6AfA=;IcC4IFY0tXlRiWSFy/f9rQ=="
+secured: "w+t9iYENEEPnI0kI+AXLBcdhSNERSmarQomysDr11rz8ZvIG+0uRH1Teeni+PSB7e/lKlXJhelGzLetLbaL/rZMpn2/BvuRxan5JwIEk7uLX7BIFHdtuN67ovNliouD1JupzMkJ0M6Su0eXNMb66ZgyPC/w1zLah28/ZTxGTVRWn1ncfMJ3+LUqsHE3D0H2QGALwi9N/OHMoafgqNjOLNsRXiTsOXoi5w7pviTzN0aDedxl8yTSJla1qsS+LL+40ALvHTn7NrYhreiG2nqK47W6kCuVstnmhHdRaVDB4uo0PjzfvBF/3rr/DahRn/1fXarYV+sRFltcK9/Wr/1h8qf3rdMBRtfzSsztuoO21O+Lfwh2F4B7UECht6n/HkblOmP1WH/0r/1f11btY6BXijb4G4caMk6YTMTR6ahxONrZbu90PcIP0P17QDkFCGBPSZsgDgYBgS7Cs9Mv8cp4x6wK/4c4SpHvDTITSqwYi3j524snnXiV/Z83X6NIgJlYEA2GeDBQ+B9BAM/rhIdFpFg==;iO9+o2thad+sjR1LMyL/bg=="
 ---
 

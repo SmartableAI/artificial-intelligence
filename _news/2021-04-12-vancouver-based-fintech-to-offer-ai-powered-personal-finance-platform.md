@@ -7,8 +7,8 @@ originalUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-f
 webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mortgage Broker News
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
+    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
+    publishedDateTime: 2021-04-16T04:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
+        width: 600
+        height: 512
+        isCached: true
   - title: "Marble Financial closes acquisition of leading Canadian fintech company, Inverite Verification"
     excerpt: "Marble told investors that Inverite’s data aggregator combined with Marble’s personal finance platform MyMarble will create a faster,"
     publishedDateTime: 2021-04-12T15:35:00Z

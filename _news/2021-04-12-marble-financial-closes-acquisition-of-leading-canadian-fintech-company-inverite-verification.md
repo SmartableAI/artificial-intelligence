@@ -35,6 +35,22 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
+    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
+    publishedDateTime: 2021-04-16T04:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
+        width: 600
+        height: 512
+        isCached: true
 
 secured: "29MK1TCX7a/cd3chqpeSNzGg+4GjeQO5xRZI9LMtB/LPdnSVVfXyvN2PKn+MLsifINLIh9sOpy30UPpVl03yw04pJntnUaLTTgP1JO6WDweutG1AN7Y1ahb1hHYk17hcAEHueKeEY0O2IjGj6Apr7a1CX6n9s0inb3/LuxlRDPEYXfFWSA6fbGQeYVGqmtrmxJ18Pt+FSDwDPcpV1G6kiV8JzXRAGhHsdcVVPnzkA1E+SDnmbxbIC/O7Yj17r05Q620MfVG1UVcWHmoze3MGBL2SBr+6clG71CbvVD7TCn1u5P0w2iC5JIuJ/P9yDHshkL+ItAgS68r9DaiqaCtQ6s5ZFjjP7VyAH4bIqqBFmLU5R5faWQ51a8D68eQGdY1OytB2IlY0/sAunrkO5nDtYGmbv36Wyjr8wMuuUV5HNZtg0Wz9CLpNnpsdIlJwKRs06c+KAGBHGknZ2BNGzhsfubNTPUn2OR7QnZ6MTb3dJgiZbT+eOvR81YVqhit3PB0uFAokV8fT80e5/dK9wxYDKQ==;lYn+m+QibF4YOkjFwKpuUg=="
 ---

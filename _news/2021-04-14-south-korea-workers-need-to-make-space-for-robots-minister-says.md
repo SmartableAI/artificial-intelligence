@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Koreans must work alongside robots"
+    excerpt: "According to South Korea's labour minister, humans are going to have to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots. Minister of Employment and Labor Lee Jae ..."
+    publishedDateTime: 2021-04-16T10:51:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52709-koreans-must-work-alongside-robots"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/499cf59db9d5197859d51bc6bf6b9e53_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "lQyPmHuv0IulhEXZ8nDoT8FYUAX4UJp6bBNwYtQnvPzKliARZgdEq6oUiUTOXfa9ARjCvV5b1mT76LhGdHjHtbj0D/8/eNq9c17MaUU4XJ+boKq1LXIcNfIC3wPJPLzOc2BeyERRub1BI7YqGFipWVFq+PJx7gLQCriz4XNBqg+PYZuCnvX1KseQrCOx1T2eWmVQVhI0od5bERrsCZXTOorEMghlAEzI69DXAYyk+8niK9+ylwTNa78pRfuVgIml/lTXFYRKKnkQZ6NGROVLJSEDr7kJj/XJsqGNkpK7oVqArFrmfDoddNsG+HoiQqOJE3vY8SeLoUc09ML6/711Jiqas49Ml2HxEgwv3xrJnL+pEPXa6b98AL2M2XBxd7YllLft3CFVHc/JGtYPQJvFIydVjJWmTFn9pmjw6xL3naw5VqdGK7cfONPxEP3r6ENBlLVFlJwwL6Pz9iwN16lAlCT586hwQLvCjJ/QwTaEu40cd7HAXa5X/PIbabbOpEfp4hH9rHSeI0JDOgP3nhTeKQ==;LenuyDYifEGBE3OW9gB9ow=="
 ---

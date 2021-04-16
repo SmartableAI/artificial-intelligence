@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-wor
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLtgk_ik7v5c/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Koreans must work alongside robots"
+    excerpt: "According to South Korea's labour minister, humans are going to have to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots. Minister of Employment and Labor Lee Jae ..."
+    publishedDateTime: 2021-04-16T10:51:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52709-koreans-must-work-alongside-robots"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/499cf59db9d5197859d51bc6bf6b9e53_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "HxjTdfPgHEG8Fi01PX9tv9mVwbpjRUOcUwF82OlZisNw7sO2sxHX0ahzWCV3o044h+Dje2/+tGCoLM+rBsHCRJHY4b3N3QYWfhPr+xgOgv4oWv+gNAgUZ4yOB84Lbp83qbCEzNv8GPJRJvWVJXeCTAev2ZjTMNZ/uhtjHb2uayQm4JDj6xTS6sjXtas/E6+CSzVX2RNKp4OGoMSLb2G6TzXh2rcpNgy0hdDpj/ocFYRuPGOI+FdZLGt6XhIOUBLvZ0Tu+6VFNfZb3Micptj02ndEqzZEspryOgVvx1hJB8gT0DWJIrta9prHqgx0CRqPJsyD6kflm+uX/lpVsGh90831sCD6FCorilx26jpMcYs=;HnaXXl+1c1USyAdXi7MtuQ=="

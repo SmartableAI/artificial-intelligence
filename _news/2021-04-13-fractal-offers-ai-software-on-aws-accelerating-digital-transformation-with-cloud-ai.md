@@ -39,6 +39,22 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "AWS launches Amazon Digital Suite for small business in India"
+    excerpt: "Amazon Digital Suite will provide a selection of software from AWS seven local partners—Razorpay, Freshworks, ClearTax, Zoho, etc.—to help small businesses to digitise their operations."
+    publishedDateTime: 2021-04-16T09:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/articleshow/82100667.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-697397,msid-82100654/amazon-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
     excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
     publishedDateTime: 2021-04-13T19:42:00Z
