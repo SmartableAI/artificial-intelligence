@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook leaning into medical research in its quest to advance AI"
+    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
+    publishedDateTime: 2021-04-16T17:27:00Z
+    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
     excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."
     publishedDateTime: 2021-04-16T13:00:00Z

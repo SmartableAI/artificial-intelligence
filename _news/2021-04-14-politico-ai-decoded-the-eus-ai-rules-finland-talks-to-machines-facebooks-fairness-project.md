@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook leaning into medical research in its quest to advance AI"
+    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
+    publishedDateTime: 2021-04-16T17:27:00Z
+    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
     excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
     publishedDateTime: 2021-04-15T18:33:00Z

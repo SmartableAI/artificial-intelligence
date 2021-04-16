@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Rise of Artificial intelligence Tools for the Automated Journalism"
+    excerpt: "The rise of artificial intelligence has reshaped the ramifications of technology across the journalism fields. In this area, the growth of the robot reporter and automated journalism has developed rapidly."
+    publishedDateTime: 2021-04-16T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/"
+    ampWebUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 57
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "AI, automation the only option for SA"
     excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
     publishedDateTime: 2021-04-12T09:02:00Z

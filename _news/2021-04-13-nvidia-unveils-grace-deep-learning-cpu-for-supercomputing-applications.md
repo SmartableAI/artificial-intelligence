@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Shares Up 11% This Week On New Supercomputing Chip"
+    excerpt: "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers."
+    publishedDateTime: 2021-04-16T16:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/369592"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI, Supercomputing And More: NVIDIA Kickstarts GTC Spring 2021"
     excerpt: "NVIDIA claimed that their Jarvis models offer highly accurate ASR, as well as superhuman language understanding, real-time translations for multiple languages."
     publishedDateTime: 2021-04-12T17:15:00Z
@@ -53,6 +69,15 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "ETFs to Buy on Nvidia's Growth Story"
+    excerpt: "Nvidia NVDA delighted investors following its Investor Day, wherein it projected better-than-expected revenues for fiscal Q1 and announced a host of advancements in artificial intelligence, computer graphics, robotics and data centers. The graphic maker ..."
+    publishedDateTime: 2021-04-14T14:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/etfs-to-buy-on-nvidias-growth-story-2021-04-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "kI3HFDBTiJiTPuGRLSYugSYmDEpYf+Y+8Yf1JMVNmOuXdfaPEgdMfDXDLWaATfWxRhP8MGzQZ1BYC3aqpJGYN5hjrdYnjHUzaie8DpDTnEg1ICcuFKuhob7YpZ7hc16HNmY17V2XZOVeyFs1OHisEeAqEBpBk0v1pAFhC772SEj+IbiCtrepNsgh80maYvMsVmJUJwWz1hEdz4HerXh5jWVPIlIe9LvElxxiZrq2QeeZiTKfNCpvLmQNIon+f1HDXron5LQww/92BroxIvY2ZYGJQexdKXdPTw9j3UBXJdsEHCWWbSFvD2cZcgIYQs084+FGm5WYMxxV8C/QDJ+rGZmax7uLdUoKdM+LZ716AcEIJTMTZtWf1KIQoKgmlEH0j14+uIJZlZGtpf2twgabKaNFWoYwDvdfcPGolSJ/qwtEIGQcsF3/W8ZriFGeamW3fF1V1SuiRGK7/LKs6Qw+IdI039Cm58qkiDVeWfvUywpTSxLYQRo7TTMdem4nLMXHhyweeUx5ib9z01MU02kk7A==;GrcAxRXhTrNQP0lSbp985Q=="
 ---

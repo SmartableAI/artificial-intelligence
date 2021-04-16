@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook leaning into medical research in its quest to advance AI"
+    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
+    publishedDateTime: 2021-04-16T17:27:00Z
+    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
     excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."

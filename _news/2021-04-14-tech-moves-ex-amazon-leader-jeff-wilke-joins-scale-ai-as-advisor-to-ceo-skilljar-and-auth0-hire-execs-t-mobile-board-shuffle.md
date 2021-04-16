@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/tech-moves-ex-amazon-leader-jeff-wilke
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/tech-moves-ex-amazon-leader-jeff-wilke-joins-scale-ai-advisor-ceo-skilljar-auth0-hire-execs-t-mobile-board-shuffle/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "Former Amazon No. 2 Jeff Wilke joins San Francisco AI startup"
+    excerpt: "Jeff Wilke, Amazon’s former second in command, has joined a San Francisco startup in the role of adviser to the CEO."
+    publishedDateTime: 2021-04-16T17:24:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/16/amazon-jeff-wilke-joins-ai-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ED3OWzlHHBAEqWmoLq6GSNqVlgcG84OotFqQ/W77wS5ARXbywA4Giw83F91uJzfm+xmCZoO62ZI8TnSLsNU2PhmSAwXkuaTKi2kfXrdp2YF3Pes0BmKDPj0U7g1jAaKhLMc70jHjBNcOuq4WJVkPNUawJzOITNp0m5dVsPK6wAmWjurrt5eO0NAg2jfAUrlMTptxrIfvGxMTAFOomPPqvk+pbzHnqD8YO1siBqqqwrmZHPHEWP+4x+IQthSuHD4b1Ea1Jqmv1jCbKN/Y5yJRxc2ImMih1yeQL+aZ8RTYXClhEjgD8L6FR1G0XORyiaz6DfbWXfHyTZ9mg5P760EHy1MRoScpcY2vXoLhWqrbXkDmKWXslf1UUmWNLMxflPKMdvXyTRGkEuZTMEAvvv7kR0fHhAW3mrhLGCG7JSyG+9mMAhv7G42DDN7y4fa3UMTuASUHaSaZTjCI4EwEHQbhdnmgjYvHrr10KGPtumWinSjp3Va7ErxwBgKUy1MP/LT14qQFsjmLBO81AtEd8WMytw==;mibxISvGnQ4aYdwMpW4+Hg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/financial-apps/2021/even-launches-financial-p
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/financial-apps/2021/even-launches-financial-product-for-salesforce/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -28,29 +28,18 @@ images:
 
 related:
   - title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica"
-    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
-    publishedDateTime: 2021-04-12T22:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20589111/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-pymetrics-informatic"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20589111"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20589111"
+    excerpt: "The global AI Governance Market size to grow from USD 50 million in 2020 to USD 1,016 million by 2026, at a Compound Annual Growth Rate (CAGR) of 65.5% during the forecast period. Various factors such as increase in government initiatives to leverage the AI technology,"
+    publishedDateTime: 2021-04-12T21:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Even Financial unveils ‘Financial Products for Salesforce’ on Salesforce AppExchange"
-    excerpt: "Even Financial has launched 'Financial Products for Salesforce\" powered by Even, a plug-and-play application on Salesforce AppExchange."
-    publishedDateTime: 2021-04-16T12:08:00Z
-    webUrl: "https://ibsintelligence.com/even-financial-unveils-financial-products-for-salesforce-on-salesforce-appexchange/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/04/Even-Financial.jpeg.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."

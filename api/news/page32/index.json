@@ -2,6 +2,83 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-23-artificial-neural-network-for-automatically-decoding-and-interpreting-cortical-signals.md",
+      "title": "Artificial neural network for automatically decoding and interpreting cortical signals",
+      "excerpt": "and developed an artificial neural network architecture that automates the extraction of interpretable features. As conceived by the scientists, the neural network algorithm should not be too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210323/Artificial-neural-network-for-automatically-decoding-and-interpreting-cortical-signals.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210323/Artificial-neural-network-for-automatically-decoding-and-interpreting-cortical-signals.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/91ddc6498ae046de959ddcfb662105d8-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210323/Artificial-neural-network-for-automatically-decoding-and-interpreting-cortical-signals.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210323/Artificial-neural-network-for-automatically-decoding-and-interpreting-cortical-signals.aspx",
+      "publishedDateTime": "2021-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-yes-ai-can-be-tricked-and-its-a-serious-problem.md",
+      "title": "Yes, AI Can Be Tricked, And it's a Serious Problem",
+      "excerpt": "(The Facebook AI researchers demonstrated this exact case in a 2017 ... human pose estimation (recognizing humans in a given space), and machine translation (translating language from one machine to another). A typical adversarial example is created ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "originalUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-how-to-disable-speech-recognition-feature-in-windows-10.md",
       "title": "How to disable Speech Recognition feature in Windows 10",
       "excerpt": "In this post, we will walk you through the process of disabling Speech Recognition in Windows 10. Speech Recognition is a technology that is used for controlling computers using voice commands.",
@@ -1055,109 +1132,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-ai-could-enable-swarm-warfare-for-tomorrows-fighter-jets.md",
-      "title": "AI Could Enable 'Swarm Warfare' for Tomorrow's Fighter Jets",
-      "excerpt": "A Pentagon project is testing scenarios involving multiple aircraft that could change the dynamics of air combat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/",
-      "originalUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/605543347d3068f6d196ea9b/master/pass/business_swarm_1164695326.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/amp",
-      "publishedDateTime": "2021-03-22T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix.md",
-      "title": "Mithril dives into chips again with a $55M infusion to Flex Logix",
-      "excerpt": "The once untouchable semiconductor sector continues to attract fervent attention from VCs. The latest news this morning is that Ajay Royan of Mithril Capital has led a $55 million Series D round of financing into Flex Logix,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/",
-      "originalUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-frederic-moll-ajay-royan-mithril-0819.jpg?w=1024",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/",
-      "publishedDateTime": "2021-03-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

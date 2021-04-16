@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AWS Announces General Availability of AQUA for Amazon Redshift"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AQUA for Amazon Redshift, an innovative new distributed and hardware-accelerated cache that delivers up to ten times better query performance than other enterprise cloud data warehouses."
+excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
 publishedDateTime: 2021-04-14T18:40:00Z
-originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/aws-announces-general-availability-of-aqua-for-amazon-redshift/article_53503b78-31ce-5dc3-8a24-2af8103a2580.html"
-webUrl: "https://www.northwestgeorgianews.com/associated_press/business/aws-announces-general-availability-of-aqua-for-amazon-redshift/article_53503b78-31ce-5dc3-8a24-2af8103a2580.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-marketing-and-advertising-corporate-news-9029fedf36214e6ca152f24233381ce5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-marketing-and-advertising-corporate-news-9029fedf36214e6ca152f24233381ce5"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "EgH7HRMOusQ8LlF/8eIqUUhrns5VXWBpVY1akS8YRpUMU1pUygkWpQGdqS3RjHonP6rnZpe3QrlGNe447ccSdZlx4517T6QJ680/u9SLpzAyx5mGzqyeM3kvwjnhgS3tpwdTudui2P7Aq7ZQIMLjgl5Zw4RvOImxv+unUPdb2SZ8G9ICYBJubtWmuRJTBR1eUxSi7cwcc+K2MW87HDXMSPhTA9mgTAZ9DP65QUEkfY65beAFBFaRESsN1GyGTxXx54dVV61pVYXmaCVapf8kRx2Qv0CstNQ4Ut/3yAKZPej1UHUYy2RtBtgdr1No9mxXxHVap/aGcbvipcgyGyQMq8ICbf8v6nYvuhmOLr60WEw=;URUQnvDAtW3uW7nOW0QzMQ=="
+secured: "gm/XzPEpJo7Q3d7lFfe8IYdKhdkakCkgmlCrCjkRzjo/eciZXALB645WziWPZniEaLVfOTusiyGmUfTxxuAlnXf89viCA+az97+3knKdmije7+cJKEMg9PMfYPLh4bKc0h6l0GhgeOWVqJrOyF/xQlnMLcy5jh72clodM233n+XagX7Se6IJQ2x9xl2Di0ypF4WVqkTY7isAUyCc7TPBkYGfQp53O2CVa+N1rK6i6Jd1nAFsQfbW2j38hBGl77TmG8a2LAalJV2MRc+4K3vP6Aj+uI9nbSknpeil8fi33NVFZVUsRrOcZiklgLMyFRf+CzPEIGUMaVZMwvix/wCwrNXSajl7wk16xjIB9Tw4tZY=;KbDe71qmP0rf3xsl2tjpfQ=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Shares Up 11% This Week On New Supercomputing Chip"
+    excerpt: "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers."
+    publishedDateTime: 2021-04-16T16:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/369592"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "AI, Supercomputing And More: NVIDIA Kickstarts GTC Spring 2021"
     excerpt: "NVIDIA claimed that their Jarvis models offer highly accurate ASR, as well as superhuman language understanding, real-time translations for multiple languages."
     publishedDateTime: 2021-04-12T17:15:00Z
@@ -39,6 +55,15 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "ETFs to Buy on Nvidia's Growth Story"
+    excerpt: "Nvidia NVDA delighted investors following its Investor Day, wherein it projected better-than-expected revenues for fiscal Q1 and announced a host of advancements in artificial intelligence, computer graphics, robotics and data centers. The graphic maker ..."
+    publishedDateTime: 2021-04-14T14:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/etfs-to-buy-on-nvidias-growth-story-2021-04-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Nvidia Unveils ‘Grace’ Deep-Learning CPU for Supercomputing Applications"
     excerpt: "Nvidia is already capitalizing on its ARM acquisition with a massively-powerful new CPU plus GPU combination that it claims will speed up the training of very-large machine learning models by a factor of 10."
     publishedDateTime: 2021-04-12T17:00:00Z

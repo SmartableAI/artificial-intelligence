@@ -97,6 +97,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
+    publishedDateTime: 2021-04-16T16:37:00Z
+    webUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html"
+    ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 108
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
   - title: "Microsoft buys speech recognition firm Nuance in a $16 billion deal"
     excerpt: "Nuance's technology will be used in Microsoft's health-care cloud products. Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $56 per share, about 23% above its closing price Friday. The deal is worth about $ ..."
     publishedDateTime: 2021-04-12T13:08:00Z
@@ -331,20 +347,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Microsoft Makes Big Bet on Health-Care AI Technology With Nuance"
-    excerpt: "Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to overhaul solutions that free doctors from note-taking and ..."
-    publishedDateTime: 2021-04-12T00:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 88
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia6Y6vIgW2TY/v0/1200x798.jpg"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 billion deal"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW -0.00% ..."
@@ -835,22 +837,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Microsoft Could Sign Deal Monday With Voice-Tech Pioneer Nuance"
-    excerpt: "Microsoft is in “advanced talks” to buy Nuance Communications, a leader in voice recognition technologies. A deal could be announced as early as this week."
-    publishedDateTime: 2021-04-11T23:55:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/microsoft-could-sign-deal-monday-with-voice-tech-pioneer-nuance/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Nuance-Communications-Microsoft-acquisitions-voice-recognition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
     excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
     publishedDateTime: 2021-04-12T06:39:00Z
@@ -1112,20 +1098,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "Microsoft Buying Nuance In $19.7B Voice Recognition, AI Blockbuster"
-    excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
-    publishedDateTime: 2021-04-11T23:54:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-buys-nuance-in-19-7b-voice-recognition-ai-blockbuster"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0267-11dbd4e35679-ae0c062583d5-1000/merger-400.jpg"
-        width: 399
-        height: 399
-        isCached: true
   - title: "Microsoft Buys Nuance In $19.7B Voice Recognition, AI Blockbuster"
     excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
     publishedDateTime: 2021-04-12T14:54:00Z
@@ -1139,6 +1111,20 @@ related:
       - url: "https://www.crn.com/resources/0266-119c091bad7c-5296a6b2b194-1000/merger-400.jpg"
         width: 399
         height: 399
+        isCached: true
+  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
+    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+    publishedDateTime: 2021-04-13T02:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
+        width: 610
+        height: 457
         isCached: true
   - title: "Doubling down on AI, Microsoft to acquire Nuance for $19.7B"
     excerpt: "“AI is technology’s most important priority ... closer integration between Nuance software and Microsoft Corp.’s Azure public cloud. Nuance already uses the platform to power its products."

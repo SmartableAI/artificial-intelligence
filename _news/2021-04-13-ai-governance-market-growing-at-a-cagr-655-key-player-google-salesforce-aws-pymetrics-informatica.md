@@ -1,25 +1,33 @@
 ---
 category: news
 title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica"
-excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
-publishedDateTime: 2021-04-12T22:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/ab20589111/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-pymetrics-informatic"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20589111/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-pymetrics-informatic"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20589111"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20589111"
+excerpt: "The global AI Governance Market size to grow from USD 50 million in 2020 to USD 1,016 million by 2026, at a Compound Annual Growth Rate (CAGR) of 65.5% during the forecast period. Various factors such as increase in government initiatives to leverage the AI technology,"
+publishedDateTime: 2021-04-12T21:49:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12"
+webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica-2021-04-12"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
   - AWS AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Even Financial Launches Product For Financial Advisors On Salesforce"
@@ -38,20 +46,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Even Financial unveils ‘Financial Products for Salesforce’ on Salesforce AppExchange"
-    excerpt: "Even Financial has launched 'Financial Products for Salesforce\" powered by Even, a plug-and-play application on Salesforce AppExchange."
-    publishedDateTime: 2021-04-16T12:08:00Z
-    webUrl: "https://ibsintelligence.com/even-financial-unveils-financial-products-for-salesforce-on-salesforce-appexchange/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 17
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/04/Even-Financial.jpeg.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."
     publishedDateTime: 2021-04-14T14:01:00Z
@@ -62,6 +56,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "cRj+TN3cxj3OEgfo05uxc6wRX52JB/nSmF7CYe75chgr83ry7Am6CuBfdj+vi65doIB9YQ5gpy2VBkpmPCNCOvUocH9rYC3DUS/LkOS7gD/nG4tW0sNwfL1NqgxTIr7ZGB0GYHS485mvr9na0XG5qQRykJZoc45sTSdZBf2mh6u/E6rLZgwLxM1XADhvTFSAlaPNNpqcGFXhARYkNNdr4hCB03k2myun7XcG93wF4SdrLRZQMGqvJJxBs+kzX4Be3pW4iJKOUDQn2smzR6UTUWF4FSHTZpUTcxD149CdTboU7YhY8WBaMB4u4FwYHvDjYRniVuVN1Xeqb3k/OukWmsmmwJqMYxenpSCwsdhy90g=;mA7DVBCY8qP67MC1FPkHRA=="
+secured: "JghgL/DJ635WqVUwp16f9o04nomVmCq0loPiyiDUYttpsvwd4DTDZ3B/UG5N0CwyhuH532f6UsHLd9iAieMrr/NPIoC+XkFpLF35VyrqLzF3g+sJF7tXubpPBTQ8JuWqFtZpGtRqm6MOA+kxkNKFdnOtsC6sr6+z4WpvAErYxeNnX2O1zD8kXGiCRjzBVWEb291/eX8JqyIQZVzNSo0N1fBGKxee00AC+8jR8SAD9xJe+pXYZuOs6bVZAOMCxf5G002pM5vHfeYN9MarChYIFZDDxDsdH3zHciArVDDI7ppXQWwpIxy418in8J4B0Z8XQ/bYjVvp1xzyy/BB+zhf4OYnszcx2LDefr/x/C2JD+8=;gS95vVahzCFX/qLZHTAEFg=="
 ---
 
