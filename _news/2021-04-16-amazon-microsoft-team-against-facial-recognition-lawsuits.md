@@ -1343,7 +1343,7 @@ related:
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en-gb/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
     type: article
     provider:
       name: CMC Markets
@@ -1465,6 +1465,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "U5/dwQPF1hRE6HfsCP6urFsPUWGHAiVA72lIQVjtF/lH0NJVB19vTD3zLt3jbU3m1fTXZEG460TbWfykJEL6DZUl2NGmXgeNuOJM6ogSE/a7r/YNA0nWj0AJrTI0Hy9teFGqRfmY8YpYKBhSUYw95B3C3X9EtXZCzZzPPyAt84O+OHSoOL1INqcz9BT8esWUQAwrNuatoeTjWLoHombxItqMygbc0WYYLPRxzpuv16r7pJSqLXeLUw2xY0hwHzTCnsfg/MkmmwMX94p8TimIPYJf/xGotpTzpmsK6HLPeMzV58dQ+0knnGcYoUcwRSaQ2hVzas1fvqeIicTpQXtI2iRW9ZqaY8ryv0C5ocu0dgU=;C3kQNju1rGnEYIq58rC+zg=="
+secured: "mA6wgXITfu2tlY4ORQicZuXeVsNjMUOU5+VLICfDGt4T2VlgIPho2gS/klnEJyDp4PIIT+FZoW5D6rw5nbamuoppwT9vndXp8LjiSUR/8sXAgDqrAaBuKGzcBHiS27PD6Hiu00+QGRWUkDbr7tFvVS1kykqrA6nkS8jbZsJq3POd6zTwMEAt1AddoHrK7J7NmIQq3zw5vza1jBKd+YdQ28kzl6lJPYcvIwFPvFvGdNh/qNj7Kqpz4QDsBrXkUhMNtKSNZa8DKkyQP56nlOPKKJE64a3e2BLo+NikXeJGjdVDENdaKB29b9M06zOarbcgllH/TEBCx94iCWP9k0UYzSByeJNjptWPiR9+qwbqAUpOCMJasMVndAMwCPqGB1IW9T2Zg2CpI4jPD4/ZpTm/sK1hjIthHTPIAilhmX6+dX4pKVMJFyX4ntOObf+1Iu16GwnZIJh99Fl2vaVh6bg9Agc7m9BBJycZHTnYL8eP6hNbwqKtIyUBu+pNeLda3a81ydJHgFGehOYnXZJPaQalwg==;dr1K8bXrQux/bcC37cz9DQ=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
+    excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
+    publishedDateTime: 2021-04-16T19:21:00Z
+    webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
+        width: 611
+        height: 343
+        isCached: true
 
 secured: "V/hf7B/1Aecjy/ygzmApL9h9OWdq31Czzqhu7d9Twg6hzLsyLYamzjqngCCMicnQr0rqsL2WZlySrnILSiK+a29/4cEYeU4X9vw5HyuPzwi25QYgV2LW12o95PttdkWgRFvKBbfwcTsYYgtM/qlPtZFJqvRpQ/3+OLKyWaFHEqZW+cW5y2h9AwIoJOzvnv/4cAeo5U9sxte9mPxETm8H4NhO0QzpUDJDF43bGv5pFvzD26oQhh8oYm9/0w8jyQKU+ojc0GLw7W5GW4f9CTE36UBd6WUUPFrrnIWdDORR2nlplTsoiqP1OwNhlSPeqraPrE+kC4eMCFmXQWB0SyOTW4UuPNMj0JZQ4MchLDx3DmyQoga03LFWJhVhXmlDKOG3/lRPljOuDGlH5tSZNDoR6QObJ8qtCHyGRCxDSWs4KFMkgy/iyNHveH5dSGXSxWG5lT5qchD6+1kLSVqMpBwqlRQjhmqIyBz3qdM/MS2MWJUlvvD/AMl2CkGR/6YLVV/gOWAJucDYE2y5Kt+IuP2KQQ==;0VviuLiJb7ZnRe2YOYB27g=="
 ---

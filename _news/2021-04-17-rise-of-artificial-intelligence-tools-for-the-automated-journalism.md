@@ -8,7 +8,7 @@ webUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-
 ampWebUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
@@ -98,6 +99,6 @@ related:
         height: 450
         isCached: true
 
-secured: "OBMNZZjZMfsE5NvEbpm3z6sZuj2NcZr7mvJ6ZSkhCJlHal+n7zItxDuRpwTjBx5PoznQglx1AQQHzUyw9UUgUk/hhQVCh/d4NgAfhEkwa8bH+OgASoedDYywut1Zn/04Q7lwHrF1xleD0M8NadFUReHbFZfPsja2BawR7XfgmcmBsp0HFCMDDJHjJDJ+CIkAUnTBGqjjKa9y7V7wJIMf8GJZq4E1Qp6owTjW+L6zYvQ5EUnHtT9IE7IJEggWMoIjZFaS/ly1JouZGJOD8Yj8TT8DgrMH6xWJuu6Z577kvKnWEPUfOYpKXA0bqfn+UuAGXIHI48bbqQWxNauN5ew+Qtz80oqbECIZXalIXtUdz/w=;iY3PQe0i7noa3s3yt12uyA=="
+secured: "BPt0zsuADEqp+/AM8TFLj/cI65vGftyFQNDRtMG7xBtfHMfotHIXmNRxjXzdK0TGM83B8DXJXleFSgmIZxr7F0lFkhZrK6EUYw1pctZWl/IXx9MfmyZR0mmGTKVC1pBvVm/mg4h3KsiYBVQ26T00IfAL+NXlHCWcI+OcQbpbA3CGxCJUDyGI9LTNJCHiATj7Tgcqlkbwz7VKKDEEGaADmoRxSK3oygZMLL5cB/judknNH3IaQlbnEbOGm+U+cNbzOxY7OTl/+Xe/JrDomvu0W4FqD7bcXs50AaFFP4C77n/jVMBopZbNjovGs9SSIvpFrPuNM7Ak7WrZQQvLH7t9aZrfFWXGZDlyvxlNI809D9GGUlSImOGbkIicyQFYDHwYVPG3uU1Vmi0kCQZela1FTtq9E0sahQcBBkqTzRtqw8x8EBOuqOwuhgrkolSpwb/QKFDnPz1Efv5wVE9uxeUa8GMJHfhoS3PNsFDRa41P2YZpvrPuroIc7SW+/hq0lfqvBG6T4M3xcb78+G97wGTipw==;cpDfmNvP/dw6Fjdq7mHsVQ=="
 ---
 

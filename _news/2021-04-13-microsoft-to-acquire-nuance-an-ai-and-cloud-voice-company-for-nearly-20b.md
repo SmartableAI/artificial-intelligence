@@ -1349,7 +1349,7 @@ related:
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en-gb/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
     type: article
     provider:
       name: CMC Markets

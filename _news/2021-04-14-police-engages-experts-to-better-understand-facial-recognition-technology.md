@@ -37,6 +37,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Voice Technology: From revolution to evolution"
+    excerpt: "Distribution centers no longer want voice for voice itself. Today it serves as one piece of an integrated solution for optimized operations."
+    publishedDateTime: 2021-04-16T19:42:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/voice_technology_from_revolution_to_evolution"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 24
+    images:
+      - url: "https://www.mmh.com/images/2021_article/MMH2104_Voice_Voxware_800px.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "BACT2kYk0hw1KxZoSKb75rIGEBBDABT+ou0p/2flYumNbj5DeO4mIQhx8PGbd4NsIsGAMtDQqjQpqyGIiZUCkAIEJVNEdAQ+O+s430gJ+wGOqyYRXEi710g9aIAZAEV1y5GQwa1dZTVnsrJ/3AUOVqGED9/Mav9aL9/h2Iuj58M6mtLtdyN/8xcexHYCmdD0MS21ExdxytdZHkfSk4/WvLL7Pj+jAET6byelZJ/gWhmeQWHox7USD8lQHkaMKgQMueeO8eVUdwfeeoDDdhIYPYJs4v6DXhF3MJM8Wt9gbAtWeV+qZUAu29HK4t7fQinzUX0/K8VCNf1FX1JwcUV1Bs+gNV9P1bTtARu6Pne6Reg=;rLHPiX7o+gDFxMR3ALVyDQ=="
 ---

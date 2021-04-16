@@ -38,6 +38,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 38
+  - title: "Voice Technology: From revolution to evolution"
+    excerpt: "Distribution centers no longer want voice for voice itself. Today it serves as one piece of an integrated solution for optimized operations."
+    publishedDateTime: 2021-04-16T19:42:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/voice_technology_from_revolution_to_evolution"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 24
+    images:
+      - url: "https://www.mmh.com/images/2021_article/MMH2104_Voice_Voxware_800px.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "CMaKLWUcHdRWJK4ihhqXb0o9id+ycMAMB1mzbO3bkepfKOjuvqOI2jwU1G2F1znDOZ5lK7QDX7/lYQUg713VcPsb+dRZf18vjbaKCsAHCn+xmYAbtRx88dZTkCagCXhmcoQG1PCX9B4ZUtwPaNJpAxcxI6oza1QGdj6mBs6eewzkcbZfhICm/hEaZKEzzSWlrdiq1sn/M3awRXifk2tXXlNuWc6ene5K6a69TPhXU0NWVP7SXnUU47JVpYnhTKb7KxrRpiS6kIQicxtb7FFV7GajdbkQy14zkR1ccdTtEhosRo2s+yalAu6AsuI617WDHRHRq4h3c9YGbEBkUSMwBKdSMDKUBMKrpomvO5SWG4s=;BzXEI4elR+I9dIeHAKs7Mw=="
 ---

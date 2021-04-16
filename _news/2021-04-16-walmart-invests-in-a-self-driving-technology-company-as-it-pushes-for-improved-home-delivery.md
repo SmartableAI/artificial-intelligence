@@ -160,6 +160,20 @@ related:
         width: 652
         height: 367
         isCached: true
+  - title: "Self-driving car firm Cruise raises $2.75 billion mainly from Walmart"
+    excerpt: "Self-driving car firm Cruise raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, raising its valuation to over $30 billion. As part of the deal, Cruise will provide"
+    publishedDateTime: 2021-04-16T09:12:00Z
+    webUrl: "https://www.econotimes.com/Self-driving-startup-Cruise-raises-275-bln-from-Walmart-others-1606558"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021041670cccd932927a8b32_th_1024x0.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
     publishedDateTime: 2021-04-16T03:10:00Z

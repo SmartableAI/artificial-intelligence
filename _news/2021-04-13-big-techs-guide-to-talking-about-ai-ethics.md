@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
 type: article
 quality: 176
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/03/R2103H_FRY.jpg"
         width: 3000
         height: 1410
-        isCached: true
-  - title: "What a bleak AI future tells us about how to work now"
-    excerpt: "What is it that I’m hanging on to?” “Goodwins. Your law department. This whole . . . world of work. Your every waking moment determined by some contract you once signed.” Kazuo Ishiguro sets his new novel Klara and the Sun,"
-    publishedDateTime: 2021-04-12T03:00:00Z
-    webUrl: "https://www.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
-    ampWebUrl: "https://amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/aac7d19c-8faf-49a3-9548-2ad80e922379"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28fe7e89-8dd3-4315-a4f2-5061de79be7f.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
     excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"

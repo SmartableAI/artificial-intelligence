@@ -158,6 +158,20 @@ related:
         width: 652
         height: 367
         isCached: true
+  - title: "Self-driving car firm Cruise raises $2.75 billion mainly from Walmart"
+    excerpt: "Self-driving car firm Cruise raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, raising its valuation to over $30 billion. As part of the deal, Cruise will provide"
+    publishedDateTime: 2021-04-16T09:12:00Z
+    webUrl: "https://www.econotimes.com/Self-driving-startup-Cruise-raises-275-bln-from-Walmart-others-1606558"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021041670cccd932927a8b32_th_1024x0.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
     excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
     publishedDateTime: 2021-04-15T18:14:00Z
