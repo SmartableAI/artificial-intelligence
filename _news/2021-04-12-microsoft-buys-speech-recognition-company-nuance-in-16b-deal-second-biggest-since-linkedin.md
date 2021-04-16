@@ -3,8 +3,8 @@ category: news
 title: "Microsoft buys speech recognition company Nuance in $16B deal, second biggest since LinkedIn"
 excerpt: "Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $16 billion, the tech giant's largest acquisition since it bought LinkedIn for more than $26 billion in 2016. The deal is the latest sign Microsoft is hunting ..."
 publishedDateTime: 2021-04-12T12:55:00Z
-originalUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?via=indexdotco"
-webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?via=indexdotco"
+originalUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?_hsenc=p2ANqtz-8r_MBjK83YrIyZ-bIjo2CQ50fbHUpPGDbGrSofQGC2Li4QXZPxmDrrvC5SSSCR0t8ioy7TUfjw25V07us2DlQaXcQhbw&_hsmi=120943769"
+webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?_hsenc=p2ANqtz-8r_MBjK83YrIyZ-bIjo2CQ50fbHUpPGDbGrSofQGC2Li4QXZPxmDrrvC5SSSCR0t8ioy7TUfjw25V07us2DlQaXcQhbw&_hsmi=120943769"
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263810"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263810"
 type: article
@@ -444,6 +444,17 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
+    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
+    publishedDateTime: 2021-04-16T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 83
   - title: "Microsoft is spending $19.7 billion to acquire Nuance, an AI & speech recognition company"
     excerpt: "Nuance, the company that makes the speech recognition software that powers Apple’s Siri voice assistant and the Dragon line of text-to-speech tools, is about to become a Microsoft subsidiary."
     publishedDateTime: 2021-04-12T16:12:00Z
@@ -1540,6 +1551,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "Us7Px0gdO0BoYw4wU1a3i7EsJmSqQa0r45LjKbrzg0dRtG6S28YAap0GMMKXRP6QMh52Yqi7WMCW+fuCAcOtrHdNH6g5g8YRbkbJhDkeH1aIxZaRy4C8ToZ3SY1TQjjQW0juF3zOlb2RXNg7SZpwtgQS7EpZOv4Xw6M7IHSEMRz/xS+Lqgntttsch8mnT04dpXbglXKCHlratPSyJPrSPi5ZsoBpEBpvmRls+amlESWLR67gVnTUckuF5Hp05c/ktCFvtcTrs2XQe+t0OP1YkNju4OkjKCTQgxgecKqcDcTVAbCVUJDeusMnJBOgU9EwrIp0ka/G/8T2cErFh20/OagBktjnnD8new89jkOOrsM=;jPoF6/b5Mx2uQ2hjmfP8UQ=="
+secured: "5E6ZVq5d111a+K9aj77ArxJknOuPTGxarRE4AM5EVvrKwNRpTgQ1H3rM37GNlbxKIilPXYot3pjaeG03GMo4eCH7fBYIFG2roiJCDaC6CK+xaxHjOFSLGCsr3aGccJTC0Sos+nnPxlwCLae09gulN4Ces/PIA2qOl1Qa+VIx6QY4qGIDVVFmISRIK6SMkib0N6exzSvRkaNbQe0sDNt9C6qk8M97APv/4rMW8VsdOcqvLSqgQNMZvXt7czvyvRlJ4IdgBP3kgYy2leAuzYtoO2l1Cfccw1qxgPS82GHC9FrG11sJVFmw0T7s2+DupGcbAyGgnBePUcLhjQtfNXxex/JnJmoEQrPxisDMAndU1cE=;GiWKCr1an4DELUlrI9VSAw=="
 ---
 

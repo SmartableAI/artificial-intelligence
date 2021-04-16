@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-drivi
 webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

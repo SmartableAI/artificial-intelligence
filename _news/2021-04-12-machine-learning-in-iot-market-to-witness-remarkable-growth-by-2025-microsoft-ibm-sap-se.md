@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -72,6 +72,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Federated Learning Solutions Market Growing at a CAGR 11.4% | Key Player Microsoft, Google, Intellegens, Edge Delta, Enveil"
+    excerpt: "Google (US), Owkin (US), Intellegens (UK), DataFleets (US), Edge Delta (US), Enveil (US), Lifebit (UK), Secure"
+    publishedDateTime: 2021-04-15T23:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20653738/federated-learning-solutions-market-growing-at-a-cagr-11-4-key-player-microsoft-google-intellegen"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20653738"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20653738"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "dWyf2gMIK7l6tU9Az5dkcUYEbphbq/5XOtO+ks9YMmepjDaWqGsFFc8lA+WEE2ToVsD1C5Gy335+3ocdTK+gtt1j77ENulsDnXa2F0lOvRWDDhytpiZ3B2uzsvAH0GUWcRMxg0lmM/8AcLGIC7FnDTgc40pzWDV8IpOOnyne6cAA5LMHEMnP8WN9q0OZEdg+6dmgO6pnWL0uz1BWuwunLrBFWCqkTRlbQ9w39Dlse6QZUWFlkbYGnTUCb7kE7RlBjXWoUMdSg2PCRcc+W+xk8BTaehdzG1ylH8hzyD2IfzZtk3+dn4FT3i63Yxbrv62WF//k44KHh5HH3PLuw6MYYbnAVQN7gmVcJoNQEKBlySM=;XS6IAnztsbYpEm3alMH9kg=="
 ---

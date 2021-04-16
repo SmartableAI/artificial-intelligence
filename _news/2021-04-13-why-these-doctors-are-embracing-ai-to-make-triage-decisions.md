@@ -38,7 +38,7 @@ related:
     provider:
       name: University of California, Davis
       domain: ucdavis.edu
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.ucdavis.edu/sites/default/files/styles/hero_ambient_2000_x_770/public/media/images/first-frame-AI-Driven-by-Curiosity-UC-Davis.jpg?h=8e58fdb5&itok=zY-xCZsQ"
         width: 2000

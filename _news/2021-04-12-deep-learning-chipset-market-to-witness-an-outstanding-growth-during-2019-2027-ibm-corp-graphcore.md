@@ -67,6 +67,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Federated Learning Solutions Market Growing at a CAGR 11.4% | Key Player Microsoft, Google, Intellegens, Edge Delta, Enveil"
+    excerpt: "Google (US), Owkin (US), Intellegens (UK), DataFleets (US), Edge Delta (US), Enveil (US), Lifebit (UK), Secure"
+    publishedDateTime: 2021-04-15T23:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20653738/federated-learning-solutions-market-growing-at-a-cagr-11-4-key-player-microsoft-google-intellegen"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20653738"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20653738"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "AYp/awHyy1mq9sPykOfR7TA0ajdC6kjMl4werH3KNaYavsOVu6mIv8/RbqeQ3oT/0B1vUY47pDP1KIFNqn+3lRkf8bLJpczWlE9VLPeLDsjYrYzE64L1acd6vUdoUK3XUyFdozio/ro79Csibgt4gp+1pggDR0zMwB1iR1NkgGVNSs3iH0O4e8k4ArnxiQeDmGXgCB3VsmOqP/esQoZ3xtzmvjG+gjfOKCUvznZ7ggfc8o/fc/vl2msA/HeOykG9WKOSaoHPEGU7ipHTdRC/D+W83hNvBd9mbwOFhIuNkwExs/jHJBGybu2hK5MxszoeUSsLPuefNWvZK5/KEtKQVxpHQQUDXfbzzTPeWYW0EOk=;6nz30pqcttnP1xtvCDap6g=="
 ---

@@ -80,22 +80,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Leading Irish RegTech Start-up expands to the UAE as demand grows for anti-money laundering compliance software for banks and FinTech challengers"
-    excerpt: "Working with banks and FinTech companies, they build AI-enabled anti-financial crime and compliance software solutions with easy to use features and top-of-the-line capabilities to effectively identify and manage regulatory and financial risks. As a sign ..."
-    publishedDateTime: 2021-04-11T08:11:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Leading_Irish_RegTech_Startup_expands_to_the_UAE_as_demand_grows_for_antimoney_laundering_compliance_software_for_banks_and_FinTech_challengers-ZAWYA20210411081141/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210411081141/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 22
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/Compliance_2021_04_11.jpg"
-        width: 450
-        height: 501
-        isCached: true
 
 secured: "Oma4H5Z4jDqFpGcHkzVXwzJaATE1Rivp2AA4BRdd4vmz79edtzmwrxWsJy6uTuxNfX7APr8gZ6w93/jujxCBr/dprN31xaqSbKFkLLcksLuylv9k6jUxTS7dTOJ7rPtBU4JdLYPLGqBYwR7Da2enL/v+xOML/tk/9/k6wOhiJiyJWzbxa+7kkcV3UA/epFbf6IvFheNUS1SIuu3zSEVVbjUW7Ts3xXMhZ8yn3VfT3lcWvk0FjVZTd8usZfjVTbsbjQSmzEyvJESuYK8Xwy23q77LwXLj2J6Ek8VdGEN8/Gpf2goDYQqR/aBjORoRkxK7/FZQu+wEVjZVyrNi+UnBi53fGxTHkkaUHYuweoQn2PY=;ecfHhlTBOTiOS820XdzRjw=="
 ---

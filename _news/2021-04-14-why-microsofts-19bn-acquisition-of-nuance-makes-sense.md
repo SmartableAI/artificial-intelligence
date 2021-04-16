@@ -264,7 +264,7 @@ related:
   - title: "Microsoft buys speech recognition company Nuance in $16B deal, second biggest since LinkedIn"
     excerpt: "Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $16 billion, the tech giant's largest acquisition since it bought LinkedIn for more than $26 billion in 2016. The deal is the latest sign Microsoft is hunting ..."
     publishedDateTime: 2021-04-12T12:55:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?via=indexdotco"
+    webUrl: "https://www.nbcnews.com/business/business-news/microsoft-buys-speech-recognition-company-nuance-16b-deal-second-biggest-n1263810?_hsenc=p2ANqtz-8r_MBjK83YrIyZ-bIjo2CQ50fbHUpPGDbGrSofQGC2Li4QXZPxmDrrvC5SSSCR0t8ioy7TUfjw25V07us2DlQaXcQhbw&_hsmi=120943769"
     ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263810"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263810"
     type: article
@@ -453,6 +453,17 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
+    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
+    publishedDateTime: 2021-04-16T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 83
   - title: "Microsoft is spending $19.7 billion to acquire Nuance, an AI & speech recognition company"
     excerpt: "Nuance, the company that makes the speech recognition software that powers Apple’s Siri voice assistant and the Dragon line of text-to-speech tools, is about to become a Microsoft subsidiary."
     publishedDateTime: 2021-04-12T16:12:00Z
