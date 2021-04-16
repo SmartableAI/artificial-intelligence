@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIoT manufacturer receives $50 million in funding"
+    excerpt: "Control Engineering - Seeq Corporation announced it has closed a $50 million Series C funding round, led by global venture capital and private equity firm Insight Partners. The"
+    publishedDateTime: 2021-04-16T12:51:00Z
+    webUrl: "https://www.controleng.com/articles/iiot-manufacturer-receives-50-million-in-funding/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 24
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/04/CTLx_WEB_IMG_Sayles_ComputerChips.jpeg"
+        width: 645
+        height: 350
+        isCached: true
   - title: "Seeq Announces $50 Million Series C Funding Round Led by Insight Partners"
     excerpt: "“By leveraging big data, machine learning, and computer science innovations ... Seeq is available in the AWS Marketplace and is an AWS Industrial Competency Partner. On Azure, Seeq has been available in the Azure Marketplace since 2019 and was recently ..."
     publishedDateTime: 2021-04-13T16:57:00Z

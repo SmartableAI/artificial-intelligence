@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
 type: article
 quality: 64
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -31,6 +31,77 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving startup Cruise raises $2.75 bln from Walmart, others"
+    excerpt: "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 167
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
+  - title: "AI chip maker SambaNova raises $676 mln, valued at over $5 bln"
+    excerpt: "April 13 (Reuters) - SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2."
+    publishedDateTime: 2021-04-13T12:01:00Z
+    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding-idUSL1N2M52MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M52MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
+        width: 363
+        height: 545
+        isCached: true
+  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
+    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
+    publishedDateTime: 2021-04-15T18:54:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 101
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
+    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
+    publishedDateTime: 2021-04-13T19:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
+    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
+    publishedDateTime: 2021-04-15T20:36:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Walmart invests in self-driving startup Cruise"
     excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
     publishedDateTime: 2021-04-15T18:19:00Z
@@ -60,6 +131,61 @@ related:
       - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/walmart%20cruise%20edited_1618498112.png?5ozX1A.PvpCc8tIsJE1Bb_Xm4y78mxMo"
         width: 400
         height: 210
+        isCached: true
+  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
+    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
+    publishedDateTime: 2021-04-15T18:57:00Z
+    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
+    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 44
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
+        width: 652
+        height: 367
+        isCached: true
+  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
+    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
+    publishedDateTime: 2021-04-16T03:10:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
+    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
+    publishedDateTime: 2021-04-15T18:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
+    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
+    publishedDateTime: 2021-04-15T19:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 33
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
     excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"

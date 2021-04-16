@@ -69,6 +69,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AWS launches Amazon Digital Suite to enable digital transformation for Indian SMBs"
+    excerpt: "Building on Amazon’s commitment to digitize 10 million Indian small and medium businesses (SMBs) by 2025, Amazon Web Services (AWS) has announced the launch of the Amazon Digital Suite, a curated set of software solutions aimed at enabling SMBs to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-16T13:04:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/announcements/aws-launches-amazon-digital-suite-to-enable-digital-transformation-for-indian-smbs/article34335809.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 33
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/announcements/onydwz/article34335808.ece/ALTERNATES/LANDSCAPE_615/amazonbl"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "3ocs/RVfoZ4OGsbeYtBmcXg5ZsNX96n/7h4XvHELU2dSB+DsgxmFkHlEimH0xh0HmmZDhp+PAEwbNPCt9I4/46xI4/7HtjVw2TNgJRQOvSVFkb1IY3YTKKFOhPK8q1IqzVOyKE8/OlpXRNdT45rYYDstDt85ppfpr5ZShN58pmikZWo8Op/fstfmb51B7OBLQCWFJ1j9ckKFDfT0IDWHmA8YL4S1GTLWSepzKixv7x7iDO+/kIk+HYg3VTNq1xnZfRF+fjilMlKjEkwgrXd8rkSH49TiIsPkwwSzynPS7LQgm5l2tWYNBgYb1fpXkFEUVCv9y5EqZIoCHPX86txIkrtfESQA6VjGzONn2Q2VwAM=;LzohZFTuIfQzQNysfthJcQ=="
 ---

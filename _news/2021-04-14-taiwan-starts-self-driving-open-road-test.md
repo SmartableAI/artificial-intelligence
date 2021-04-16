@@ -71,21 +71,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
-    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
-    publishedDateTime: 2021-04-15T18:57:00Z
-    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
-    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+  - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
+    excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
+    publishedDateTime: 2021-04-14T10:42:00Z
+    webUrl: "https://www.gizmochina.com/2021/04/14/huawei-invest-1-billion-electric-vehicle-self-driving-tech/"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 44
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 54
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
-        width: 652
-        height: 367
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/Huawei-Logo-MWC-2019.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
     excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
@@ -98,31 +96,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 39
-  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
-    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
-    publishedDateTime: 2021-04-15T18:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
-    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
-    publishedDateTime: 2021-04-15T19:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
     publishedDateTime: 2021-04-13T12:48:00Z
@@ -152,6 +125,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
+    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
+    publishedDateTime: 2021-04-12T18:15:00Z
+    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 22
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
+        width: 1280
+        height: 764
         isCached: true
 
 secured: "5eLW6V6drEVXe4Q7Gifujh58QCq2YxzwswN2EcVuFmQCn29/CWEaiO15SWGihlVZmFx0hu188PgWuQWwQWpOL8myR5TghuD+01CJNzw0wLKVJuKbgKQq/ukQIhS9Q+abXd6xq6NcsW/3KFCyKuqc9W2OqEsuG01+5Qo2IedASwZvB28VbPBobyaU17kVBAXcXUHnOdsnrKZLzmay4Z8IyRmvRq1SiGNCzKEKX02cyufD55MkXzYQUfgL7cVfvO1UOH7GomfJXRl5zuqeO2Yd5FzTiKe5LsnMF1/NLd7Jvz30iAGsEGtQJljzTAoFSH2qvOKluH3fpBODTI+CpLsfdeypcIpvsWDrIA1iR1ufm2Kwew7a8AHuuTw8YjrGFXrm2P8UlLTqs20k1Msrxv+o9Weq5Zzf5FYb22kF9n6MHKudVzd4TB2K8j8iqxvCBlNS618J7zXmdBhs0lXA7u1zaP7B8CfdWjVADAVVoKEHy9JdJJyl7GjCQTC8e/8MRzUl2WDTIm1tR2ZKypr4dij5BA==;u96PjVFWaAI/rwey5ZYArw=="

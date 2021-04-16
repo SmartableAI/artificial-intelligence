@@ -15,10 +15,10 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
+  - AI in Robotics
 
-secured: "asaORdYrTeaa1gJbkIJZaE4s9YXOkgivWuDpyTiCr/+/bPVMTjspfjCmE8i/wZ0gchNQLPq+6DYvMDmL4v6OgDRGHu6Rb+uy8Rn9PqP61Jnz5FjW6rpsMvRMeLmOhzagA7qABA8kHs6U8eWkcMYEn+7UCJ/hN84FjDgWBpxbmnMAyJ5fEfVEGnEa6D2btNc9PV8FBGI5Tqkz4rLSSNbRN/mDFBbpjWV4fjZHa1QoaYBqbMFPiwqQ5BO8pXx0o4PMYFsWc04u4HC/PeD2aAgLezeNnEbGRREYGDVXpr3HEusFJ3nnbb1U2+IgOF1vyzr2JAizPUwGphFM8V1tf/P/gO95Ixqp/xp/GE7nGjiy36s=;+PkUR34R15e8O3fgVk+wjw=="
+secured: "uQBsnnGlbT7DwCUMw9SJOtcXbQS0UEqan0ZhUVmJoUeWV00nrTb6/WkHWBFe3X5zcGP+QvrXDnOFPgxAF3cd54lsvZhIt2Gg8t6t7i6GgQioHNvAkrajTsHoWo4oqVyNHfOq+c4Ee4XcsFjB9jkvmVHIuzTrulflN39UmqV7edj+jDptUWzHWGuyR/nSkcPOYZMGfxXkj19jPqwgACwvOdtET36bJxK42URyHXEqLlusxhkA37J+fk5trByB1uSLaX6dzXg6g5F5c5XvWWWvhL/NwjiTBS+uDnF4ko9ZO7ZZdeaoRNyrSlXFc1IWoJmXKPsFEKj4hHK7wDam4KP38+z+s8zGFlvzB5eRtU+0BEg=;o9dTX9hFultgsu2/IueFCw=="
 ---
 

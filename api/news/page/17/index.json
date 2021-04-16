@@ -2,6 +2,228 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-01-breakingviews-chinese-ai-dragon-confronts-fiery-new-realities.md",
+      "title": "Breakingviews - Chinese AI dragon confronts fiery new realities",
+      "excerpt": "Its market share is second only to Sensetime in consultancy IDC’s rankings of the country’s four so-called AI dragons, which include Yitu and CloudWalk. In October 2019, Washington blocked Megvii and others from buying U.S. components without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
+      "originalUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1556974870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH30248",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BO427",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BO427",
+      "publishedDateTime": "2021-03-31T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-156-valuates-reports.md",
+      "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
+      "excerpt": "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
+          "width": 920,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe.md",
+      "title": "TCS named as Leader in 2021 Gartner Magic Quadrant for managed workplace services, Europe",
+      "excerpt": "Tata Consultancy Services has been named a Leader in the Gartner Magic ... immersive and collaborative,” said Ashok Pai, Global Head, Cognitive Business Operations, TCS. “We believe being positioned as a Leader in this report is a testament to our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2015-07/10/full/1436503039-9216.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-named-as-leader-in-2021-gartner-magic-quadrant-for-managed-workplace-services-europe-121040700264_1.html",
+      "publishedDateTime": "2021-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-remark-holdings-inc-mark-ceo-kai-shing-tao-on-q4-2020-results-earnings-call-transcript.md",
+      "title": "Remark Holdings, Inc. (MARK) CEO Kai-Shing Tao on Q4 2020 Results - Earnings Call Transcript",
+      "excerpt": "Our award-winning computer vision and object recognition algorithms, as recognized by the National Institute for Standards, otherwise known as NIST, and the European Conference on Computer Vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4417102-remark-holdings-inc-mark-ceo-kai-shing-tao-on-q4-2020-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4417102-remark-holdings-inc-mark-ceo-kai-shing-tao-on-q4-2020-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4417102-remark-holdings-inc-mark-ceo-kai-shing-tao-on-q4-2020-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4417102-remark-holdings-inc-mark-ceo-kai-shing-tao-on-q4-2020-results-earnings-call-transcript",
+      "publishedDateTime": "2021-03-31T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-businesses-take-a-hurry-up-and-wait-approach-to-ai.md",
+      "title": "Businesses Take a Hurry-Up-and-Wait Approach to AI",
+      "excerpt": "It can take decades for transformational technologies to yield real-world results, says Stanford’s Erik Brynjolfsson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "originalUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-319025/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "publishedDateTime": "2021-03-31T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-read-resist-observing-trans-day-of-visibility.md",
       "title": "Read & Resist: Observing Trans Day of Visibility",
       "excerpt": "You can read more about everyday ways to support the trans and nonbinary people in your life here. Strangio and Willis explain why they expanded Trans Day of Visibility to Trans Week of Visibility and Action,",
@@ -972,239 +1194,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-virginia-lawmakers-ban-police-use-of-facial-recognition-technology.md",
-      "title": "Virginia lawmakers ban police use of facial recognition technology",
-      "excerpt": "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
-      "originalUrl": "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.delmarvanow.com/amp/4819349001",
-      "cdnAmpWebUrl": "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001",
-      "publishedDateTime": "2021-03-31T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DelmarvaNow",
-        "domain": "delmarvanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-fact-checkers-and-googleorg-are-fighting-misinformation.md",
-      "title": "How fact checkers and Google.org are fighting misinformation",
-      "excerpt": "Misinformation can have dramatic consequences on people’s lives — from finding reliable information on everything from elections to vaccinations — and the pandemic has only exacerbated the problem as accurate information can save lives. To help fight the rise in minsformation, Full Fact, a nonprofit",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/full_fact_presentation.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/fullfact-and-google-fight-misinformation/amp/",
-      "publishedDateTime": "2021-03-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-autonomous-trucking-gains-steam-but-big-hurdles-remain.md",
-      "title": "Autonomous Trucking Gains Steam But Big Hurdles Remain",
-      "excerpt": "But robotic trucking has the potential to do all of that with artificial intelligence. Such services will still need ... its own self-driving Freightliner and also is working with Waymo. Autonomous technology startup TuSimple has deals with Navistar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/",
-      "originalUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.trucks.com/wp-content/uploads/2021/03/Volvo_Blog_Cover_1260x700-674x337.jpg",
-          "width": 674,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/amp/",
-      "cdnAmpWebUrl": "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/amp/",
-      "publishedDateTime": "2021-03-31T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "trucks.com",
-        "domain": "trucks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
-      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
-      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
-      "title": "Scientists turn to deep learning to improve air quality forecasts",
-      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
-      "originalUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/scientiststu.jpg",
-          "width": 730,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp",
-      "publishedDateTime": "2021-03-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

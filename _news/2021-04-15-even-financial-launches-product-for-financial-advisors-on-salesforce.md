@@ -38,6 +38,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Even Financial unveils ‘Financial Products for Salesforce’ on Salesforce AppExchange"
+    excerpt: "Even Financial has launched 'Financial Products for Salesforce\" powered by Even, a plug-and-play application on Salesforce AppExchange."
+    publishedDateTime: 2021-04-16T12:08:00Z
+    webUrl: "https://ibsintelligence.com/even-financial-unveils-financial-products-for-salesforce-on-salesforce-appexchange/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 17
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/04/Even-Financial.jpeg.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."
     publishedDateTime: 2021-04-14T14:01:00Z

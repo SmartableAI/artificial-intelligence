@@ -31,172 +31,176 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova raises $676M to mass-produce AI training and inference chips"
-    excerpt: "On the software side of the equation, SambaNova has its own graph optimizer and compiler, letting customers using machine learning frameworks like PyTorch and TensorFlow have their workloads ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
+  - title: "Self-driving startup Cruise raises $2.75 bln from Walmart, others"
+    excerpt: "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 167
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "AI chip maker SambaNova raises $676 million, valued at over $5 billion"
-    excerpt: "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ..."
-    publishedDateTime: 2021-04-14T01:45:00Z
-    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding/ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion-idUSKBN2C01MU?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C01MU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C01MU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
-        width: 363
-        height: 545
-        isCached: true
-  - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
-    excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
-    publishedDateTime: 2021-04-14T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
+  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
+    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
+    publishedDateTime: 2021-04-15T18:54:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 101
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg"
-        width: 538
-        height: 411
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "SambaNova raises $676M at a $5.1B valuation to double down on cloud-based AI software for enterprises"
-    excerpt: "SambaNova — an AI startup building hardware and integrated systems that run on it that only officially came out of three years in stealth last December — is announcing a huge round of funding ..."
-    publishedDateTime: 2021-04-13T13:13:00Z
-    webUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/"
-    ampWebUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
+  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
+    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
+    publishedDateTime: 2021-04-15T21:45:00Z
+    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"
-        width: 1000
-        height: 563
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
+        width: 1999
+        height: 1125
         isCached: true
-  - title: "AI chip maker SambaNova raises US$676 million"
-    excerpt: "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised US$676 million in a funding round led by SoftBank Group Corp's Vision Fund 2."
-    publishedDateTime: 2021-04-14T00:29:00Z
-    webUrl: "https://www.crn.com.au/news/ai-chip-maker-sambanova-raises-us676-million-563325"
+  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
+    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
+    publishedDateTime: 2021-04-13T19:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
+    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
+    publishedDateTime: 2021-04-15T20:36:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Walmart invests in self-driving startup Cruise"
+    excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 54
     images:
-      - url: "https://i.nextmedia.com.au/News/iStock-918508630.jpg"
-        width: 1365
-        height: 768
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png"
+        width: 760
+        height: 380
         isCached: true
-  - title: "AI chip companies SambaNova and Groq raise $676m and $300m respectively"
-    excerpt: "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn."
-    publishedDateTime: 2021-04-15T18:32:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/"
+  - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
+    excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
+    publishedDateTime: 2021-04-15T14:56:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/cruise-control-walmart-invests-self-driving-car-company"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 44
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg"
-        width: 877
-        height: 461
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/walmart%20cruise%20edited_1618498112.png?5ozX1A.PvpCc8tIsJE1Bb_Xm4y78mxMo"
+        width: 400
+        height: 210
         isCached: true
-  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
-    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
+    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
+    publishedDateTime: 2021-04-15T18:57:00Z
+    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
+    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 44
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
+        width: 652
+        height: 367
+        isCached: true
+  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
+    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
+    publishedDateTime: 2021-04-16T03:10:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
-        width: 877
-        height: 583
-        isCached: true
-  - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
-    excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
-    publishedDateTime: 2021-04-14T08:27:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/ai-startup-sambanova-raises-us676m-from-investors-including-temasek-gic"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/14/ak_sn_1404.jpg?itok=XgC819DT"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "SambaNova raises $676m as best funded AI startup"
-    excerpt: "SambaNova is now clearly the best funded AI startup even though multiple AI startups have achieved \"unicorn\" status, including Graphcore in the UK. The company said it will use the latest injection of money to increase AI performance, to challenge legacy ..."
-    publishedDateTime: 2021-04-14T15:55:00Z
-    webUrl: "https://www.eenewseurope.com/news/sambanova-raises-676m-best-funded-ai-startup"
-    type: article
-    provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
     quality: 37
     images:
-      - url: "https://www.eenewseurope.com/sites/default/files/styles/facebook/public/sites/default/files/images/unicorn630_2.jpg?itok=u42Iys-J"
-        width: 1200
-        height: 628
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "AI platform startup SambaNova Systems raises $676M in massive late-stage round"
-    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
-    publishedDateTime: 2021-04-14T03:11:00Z
-    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
+  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
+    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
+    publishedDateTime: 2021-04-15T18:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
+    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
+    publishedDateTime: 2021-04-15T19:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 33
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
-        width: 877
-        height: 583
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
-    excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."
-    publishedDateTime: 2021-04-13T12:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/13/sambanova-scores-676m-at-5b-valuation.html"
+  - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
+    excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
+    publishedDateTime: 2021-04-15T15:57:00Z
+    webUrl: "https://retailanalysis.igd.com/news/news-article/t/walmart-shows-commitment-to-self-driving-vehicles-with-cruise-investment/i/27995"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
-  - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
-    excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: IGD
+      domain: igd.com
+    quality: 23
+    images:
+      - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "hW5pIEtmwEStrrDcOQpVodTm9i82cHD+Zey6t8LwybGJ2NVG++/7Jnapu7HQ56kn7+8xDpLX0qk51AiUfOfr3LzyP/Z4VczjnYiS1mgJQD6iij41qfwi/hj/i1aDBo9K2JV7Ch1gn7lEwLjPDQshstof2ijiL1SnQM7maDT4zKy0cYyoAXTqEhBk/DlXFpwaTxtCyYGUS1LeVtYwKnoPJ4XgqM7t5SQJJPGCcvwJOJCBmIc71GND454g19uxFr5XVJ/Kqq0iAAB1Iex3UeBwvqmSXrd7Eq1wI8kS9a184lBsa7sc5O2+49gC0dfcfEIunN4SeWn9tW0eNBLpDUjE9C2y+/hg709Mqa0wKJRohPU=;DlsXSwVWl+fYrZJpMYcuXA=="
 ---

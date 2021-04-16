@@ -69,7 +69,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AWS launches Amazon Digital Suite to enable digital transformation for Indian SMBs"
+    excerpt: "Building on Amazon’s commitment to digitize 10 million Indian small and medium businesses (SMBs) by 2025, Amazon Web Services (AWS) has announced the launch of the Amazon Digital Suite, a curated set of software solutions aimed at enabling SMBs to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-16T13:04:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/announcements/aws-launches-amazon-digital-suite-to-enable-digital-transformation-for-indian-smbs/article34335809.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 33
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/announcements/onydwz/article34335808.ece/ALTERNATES/LANDSCAPE_615/amazonbl"
+        width: 615
+        height: 384
+        isCached: true
 
-secured: "Bnn/0PIf2TrGzIVtSDF5iNCcG+YTpzUjxsesoaQyfIPm4kTlmmM/cyYdFgBAFw0pyA8iRHYABlWpuhFhTFnOMzj033rCt48om6m66uMR+icXIX4l7MaNrjrkpwE/SyHhP/Phfsp1Q3MEdIu9EqtCV9vjqhXeqSt5xeIoTTuXd6f2hXWUK8HcLaoL2mxs85ezupmdl33Kk6xzCV7xvRtvVr5BUjqKOOszIgHkXjVx3tr6EesapJP8Fk2oX3mUPoOGtv6YIKhaBq3xnwDCTL/x1hBh8HgdDTGXqm9WIljLTlvwRUQDHdL+4FZKKdbdyZ6M40xBGCnCpPpjB+Jn5J5X2bdjVkXKEkMy8FstaZkiGrQ=;L1h2xAUtsKZEpEpZ1ph1Cg=="
+secured: "5qaUOBo6z2HIVoxHGF4B4gcEs2MvpXuAxMiAuy7kb8+xCp7IhWalys7LuNTEtIt+9R11VYOdtuJi92/UCNLZAH5cH6GCMrV0/MbLrSPpkH4CLXERD08oJhsfWxqEfh/eimeonosdKBEfT8P74NUAMvOyRpJkxD0jknD5k4RWnvKX8ZrmQ1hxE1Az8dFSTTpOUH3L2PXRsLOou37SQnWQJM3RTQv4YMAQfqvcty1Mm9nX+Aby7gaBYv8wY1CQjwXk6R34Z3IfgcKQqK4LbOXTVsRArAR1Z9j+WfefNMnPXFmj8Yi8X13IZflBzxmtwmJT34Hqgl0BhzGGmE2qJZmFJiNX5SdQ8p1V9Npjox0cVtTI7SoiqiQLXcyn7PjorbvxSkpShgm9PAIC7ntDLvnX6NZhL2JdidWVfA8PEvLlUPTZadkZBkv8VKdkfmFWEahmCBycyimbv5a0U72J01+z7iqqHLuOwp7rEZVta/0D3qXhv+KjHpYoqU5VUV5TXorQqyQR/ffJVU16tyZUWoDi1Q==;6NBMIApNHq7NOaN3PU5BXQ=="
 ---
 

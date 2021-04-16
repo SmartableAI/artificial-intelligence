@@ -159,22 +159,6 @@ related:
         width: 1020
         height: 676
         isCached: true
-  - title: "Microsoft reportedly in talks to buy AI company Nuance Communications"
-    excerpt: "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri."
-    publishedDateTime: 2021-04-11T19:24:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft to buy AI company Nuance"
     excerpt: "Microsoft agreed to buy artificial intelligence developer Nuance in a deal worth $19.7 billion, including debt. CNN's Clare Sebastian explains."
     publishedDateTime: 2021-04-12T15:00:00Z
@@ -1399,6 +1383,20 @@ related:
       - url: "https://aboutblaw.com/Q2V"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft’s share price pops after Nuance acquisition"
+    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
+    publishedDateTime: 2021-04-16T12:25:00Z
+    webUrl: "https://www.cmcmarkets.com/en/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 41
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
+        width: 768
+        height: 576
         isCached: true
   - title: "In $19.7 billion deal for Nuance, Microsoft sees big opportunity in health care and artificial intelligence"
     excerpt: "It’s a bold statement that Microsoft intends to be the dominant provider of speech-based artificial intelligence systems to the world’s biggest enterprises, particularly in health care. The Redmond, Wash., software giant will pay $56 a share for Nuance ..."

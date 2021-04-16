@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
 type: article
 quality: 101
-heat: 221
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,38 +32,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup UiPath looks to raise $1.1 billion in US IPO"
-    excerpt: "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... a gifted Peloton » SHARE THIS POST C3.ai NewsMORE Related Stocks Find News"
-    publishedDateTime: 2021-04-12T18:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185"
-    ampWebUrl: "https://www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp"
+  - title: "Self-driving startup Cruise raises $2.75 bln from Walmart, others"
+    excerpt: "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 167
     images:
-      - url: "https://i.insider.com/60747fad2cc1ef0018da140e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "Self-Driving Semi Truck Company TuSimple Raises Over $1 Billion"
-    excerpt: "TuSimple claims its self driving technology makes it possible for heavy trucks to see 1,000 meters away and react 15 times faster than a human. They are currently self driving on highways and going between truck depots outside of cities,"
-    publishedDateTime: 2021-04-15T16:27:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
+  - title: "AI chip maker SambaNova raises $676 mln, valued at over $5 bln"
+    excerpt: "April 13 (Reuters) - SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2."
+    publishedDateTime: 2021-04-13T12:01:00Z
+    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding-idUSL1N2M52MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M52MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52MG"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-15-at-9.18.49-AM.jpg"
-        width: 1184
-        height: 828
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
+        width: 363
+        height: 545
         isCached: true
+  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
+    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
+    publishedDateTime: 2021-04-15T21:45:00Z
+    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
+  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
+    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
+    publishedDateTime: 2021-04-13T19:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
   - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
     excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
     publishedDateTime: 2021-04-15T20:36:00Z
@@ -80,56 +103,52 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
-    excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
-    publishedDateTime: 2021-04-15T17:32:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+  - title: "Walmart invests in self-driving startup Cruise"
+    excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 58
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
-    excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
-    publishedDateTime: 2021-04-14T10:42:00Z
-    webUrl: "https://www.gizmochina.com/2021/04/14/huawei-invest-1-billion-electric-vehicle-self-driving-tech/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 54
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/Huawei-Logo-MWC-2019.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png"
+        width: 760
+        height: 380
         isCached: true
-  - title: "TuSimple to demo self-driving trucks in fourth quarter: source"
-    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
-    publishedDateTime: 2021-04-15T14:10:00Z
-    webUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
+  - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
+    excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
+    publishedDateTime: 2021-04-15T14:56:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/cruise-control-walmart-invests-self-driving-car-company"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
-    excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
-    publishedDateTime: 2021-04-16T08:32:00Z
-    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/walmart%20cruise%20edited_1618498112.png?5ozX1A.PvpCc8tIsJE1Bb_Xm4y78mxMo"
+        width: 400
+        height: 210
+        isCached: true
+  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
+    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
+    publishedDateTime: 2021-04-15T18:57:00Z
+    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
+    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
+      name: Adweek
+      domain: adweek.com
+    quality: 44
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
+        width: 652
+        height: 367
+        isCached: true
   - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
     publishedDateTime: 2021-04-16T03:10:00Z
@@ -144,52 +163,45 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
-    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
-    publishedDateTime: 2021-04-16T02:57:00Z
-    webUrl: "https://siliconangle.com/2021/04/15/shares-self-driving-truck-company-tusimple-flat-raising-1-35b-ipo/"
+  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
+    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
+    publishedDateTime: 2021-04-15T18:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
+    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
+    publishedDateTime: 2021-04-15T19:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 33
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
-        width: 718
-        height: 400
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
-    publishedDateTime: 2021-04-15T18:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-7-things-to-know-as-self-driving-truck-startup-tusimple-starts-trading-1030310316"
+  - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
+    excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
+    publishedDateTime: 2021-04-15T15:57:00Z
+    webUrl: "https://retailanalysis.igd.com/news/news-article/t/walmart-shows-commitment-to-self-driving-vehicles-with-cruise-investment/i/27995"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
+      name: IGD
+      domain: igd.com
+    quality: 23
     images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
+      - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
-    excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
-    publishedDateTime: 2021-04-15T10:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210415563/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-85-billion"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "zZmn+HplsMNUHvzGTPidVwxg/vm9YxqmsqG9IQtSUrvL/+eEI2JE5A57jxRCQNtLVzgmQqs2ahi592Rk6lLSCsuOfzmH3hP+5Z/slTw40FShmnevPCL8GbA0mG2qakTR4hUvU9cRdYwlcGd9OxNNqkNs86puyd8TeGdBlGAT4QPV7SCxiHjL/21ss2FoodgkgneLSQ8Nm2ukdPQoh8sAMVsc/Hpay2+9ISv3W5pauG8CjjV/XgFkwIzJSWcSLBIqfky4VduFsUxYkYmoEAL6b+XiDiQARsTGqc1dDo71ATcL3xVOxiWjHIm0tCdHLVg6Y+/hGYb5P0ainHRLY5SDpdcIYBXfVSTkr4qW+59KQam7Blnit2q7bTkqhYuSTeqmcnkJsMG/IAsD5Wr61eKNXy2BirPpnCQrJeWySqUMUoT0IhKe5DnA0QPsE04RklLX5q28iM2HRFum5YGOH4jPL0EPO+4UDwgB7SF4mmRS8EwAW5BvjZXOtruiR6tnV9BAQuvTmbY/HmJfjv6yoHYk6g==;5fSYf/JHwxLumdu5RuYAtw=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Speech and Voice Recognition Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62046/speech-and-voice-recognition-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 2
-
 secured: "LZprM+JCvJFxAdU0FdHWbKa385KZk/Cnax1UhKEHkftfKqsZR1UljZ0fJTmp0vOVTX63dZXuzbm+ZeAdX3BHMVKPQ9WVWXIxIKWKxQN16rJb3OO9KUZz+VkuRjugYf3EgU2qZNXRscRHgTD5QJu8PLz3LEvOgGqWpA2XwZxWxensm/gTWK+kN/ZhMz2hiDNtQwQdyv9UxEEaYpASxDcMEs4xh7qLve2ADjZsIToW22GCL0/MBOKOIrTbJJO43PVet7cYhYphSj8r9mx6NcEUZEdMIJs/bGxOqmC3gIGvALfAg4rbzSSU395OHDrgM3U7EzvRHwYIs+ekOIBbDoTU7JKWy5vTMi/OEthoPX8/3ZCAVV4D/5TNoF1EiPE36rMNW1xaf+lSeMREGdM54SSZehtKCuAPdOHANRSJlq7q8ZBlzHbFjGHOki0KfIXQvmUMeavYANqoPWWs7T06wB1jLZ2i3eXBqspix6BiE0xTpTgKbj855f3rIe0NpYtje4hRkCzoAG1rYm1oTxrKXb/keg==;G4taSX5rApfUTFGomnoiWg=="
 ---
 

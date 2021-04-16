@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/mediareleases/139412/deep-learning-chips
 webUrl: "https://www.arnnet.com.au/mediareleases/139412/deep-learning-chipset-market-to-witness-an/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,61 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,"
-    publishedDateTime: 2021-04-11T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market to witness high growth in near future to 2025"
-    excerpt: "This study elucidates how the Voice Recognition market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
-    publishedDateTime: 2021-04-15T15:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-to-witness-high-growth-in-near-future-to-2025-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
-    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
-    publishedDateTime: 2021-04-15T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Federated Learning Solutions Market Growing at a CAGR 11.4% | Key Player Microsoft, Google, Intellegens, Edge Delta, Enveil"
-    excerpt: "Google (US), Owkin (US), Intellegens (UK), DataFleets (US), Edge Delta (US), Enveil (US), Lifebit (UK), Secure"
-    publishedDateTime: 2021-04-15T23:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20653738/federated-learning-solutions-market-growing-at-a-cagr-11-4-key-player-microsoft-google-intellegen"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20653738"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20653738"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
 
 secured: "AYp/awHyy1mq9sPykOfR7TA0ajdC6kjMl4werH3KNaYavsOVu6mIv8/RbqeQ3oT/0B1vUY47pDP1KIFNqn+3lRkf8bLJpczWlE9VLPeLDsjYrYzE64L1acd6vUdoUK3XUyFdozio/ro79Csibgt4gp+1pggDR0zMwB1iR1NkgGVNSs3iH0O4e8k4ArnxiQeDmGXgCB3VsmOqP/esQoZ3xtzmvjG+gjfOKCUvznZ7ggfc8o/fc/vl2msA/HeOykG9WKOSaoHPEGU7ipHTdRC/D+W83hNvBd9mbwOFhIuNkwExs/jHJBGybu2hK5MxszoeUSsLPuefNWvZK5/KEtKQVxpHQQUDXfbzzTPeWYW0EOk=;6nz30pqcttnP1xtvCDap6g=="
 ---

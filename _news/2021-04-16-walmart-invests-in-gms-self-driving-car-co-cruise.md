@@ -19,51 +19,122 @@ topics:
   - AI
 
 related:
-  - title: "Huawei invests in self-driving and electric car tech it says surpasses Tesla"
-    excerpt: "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman."
-    publishedDateTime: 2021-04-14T02:05:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+  - title: "Self-driving startup Cruise raises $2.75 bln from Walmart, others"
+    excerpt: "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion."
+    publishedDateTime: 2021-04-15T13:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 86
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 167
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "Huawei to invest $1 billion on car tech it claims can surpass Tesla's"
-    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
-    publishedDateTime: 2021-04-12T13:00:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas-41618229075573.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
+  - title: "AI chip maker SambaNova raises $676 mln, valued at over $5 bln"
+    excerpt: "April 13 (Reuters) - SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2."
+    publishedDateTime: 2021-04-13T12:01:00Z
+    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding-idUSL1N2M52MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M52MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52MG"
     type: article
     provider:
-      name: hindustantimes.com
-      domain: hindustantimes.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/04/12/600x338/airport-huawei-company-shenzhen-shenzhen-pictured-international_d784b2c2-f4cb-11e9-800c-f2f87dfa36aa_1618229210545.jpg"
-        width: 600
-        height: 338
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
+        width: 363
+        height: 545
         isCached: true
-  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
-    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
-    publishedDateTime: 2021-04-12T10:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
+    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
+    publishedDateTime: 2021-04-15T18:54:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 101
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
+    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
+    publishedDateTime: 2021-04-15T21:45:00Z
+    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
+  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
+    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
+    publishedDateTime: 2021-04-13T19:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
+    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
+    publishedDateTime: 2021-04-15T20:36:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Walmart invests in self-driving startup Cruise"
+    excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
+    excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
+    publishedDateTime: 2021-04-15T14:56:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/cruise-control-walmart-invests-self-driving-car-company"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/walmart%20cruise%20edited_1618498112.png?5ozX1A.PvpCc8tIsJE1Bb_Xm4y78mxMo"
+        width: 400
+        height: 210
         isCached: true
   - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
     excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
@@ -81,30 +152,19 @@ related:
         width: 652
         height: 367
         isCached: true
-  - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
-    excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
-    publishedDateTime: 2021-04-12T22:51:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
+  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
+    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
+    publishedDateTime: 2021-04-16T03:10:00Z
+    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-  - title: "Taiwan starts self-driving open road test"
-    excerpt: "Taiwan has started testing self-driving vehicles on open roads, accrding to the Ministry of Economic Affairs (MOEA). The first case of trial on open roads, which began on April 12, sees autonomous electric shuttle buses running between a downtown area in a ..."
-    publishedDateTime: 2021-04-14T01:52:00Z
-    webUrl: "https://www.digitimes.com/news/a20210413PD216.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.digitimes.com/newsshow/20210413PD216_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+        width: 718
+        height: 400
         isCached: true
   - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
     excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
@@ -122,35 +182,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
-    excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
-    publishedDateTime: 2021-04-13T12:48:00Z
-    webUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html"
-    ampWebUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
+  - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
+    excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
+    publishedDateTime: 2021-04-15T15:57:00Z
+    webUrl: "https://retailanalysis.igd.com/news/news-article/t/walmart-shows-commitment-to-self-driving-vehicles-with-cruise-investment/i/27995"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 32
+      name: IGD
+      domain: igd.com
+    quality: 23
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Huawei to invest $1 billion on auto technology"
-    excerpt: "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
-    publishedDateTime: 2021-04-12T12:22:00Z
-    webUrl: "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg"
-        width: 800
-        height: 600
+      - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "3vDJkpohWkR8FMrednRbwAlSHhdWwwkqO5W+7vwJ50vg5QJP9/vlz73AmCCxVdfhSn4H+5HDcqzaJ6e3HG3S6RnRlbQVzFmCtjNmXqsH/RZ6yesfBerfjK3gmgCOp3ufpGJTkp7uP1YRLOsEmJ27MWan+kyRVdWePiiHPIERLDEVnfCUTU+EG1uIRLrLtgq7lY9JDvT6jGut5PtRsjQdQlKinF7MO147PJql3aCzaYZKDfK7pRUi+INx6QjOrpeJcPY1jiy8vNp7Kfxkg2fV9icbB4D+h8bPkz9MdrpxsfnkBbLyTuiTcjth3YClf1OkRxfCc3hL0mxOKELDRC3ZwjUnoG6Oh1YEhme0NEu82zc=;N+Kn7Pxe0h8izeqdD3CN8w=="

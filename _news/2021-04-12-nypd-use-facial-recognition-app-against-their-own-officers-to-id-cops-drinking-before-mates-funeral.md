@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Daily Mail
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internal Affairs used facial recognition software against NYPD cops: email"
-    excerpt: "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ..."
-    publishedDateTime: 2021-04-11T20:51:00Z
-    webUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/"
-    ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 72
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "NYPD used facial recognition to bust their own cops for drinking in uniform"
     excerpt: "The New York Post reports that the NYPD’s Internal Affairs Bureau ordered the use of Clearview AI’s facial recognition software on two cops who were drinking on the Long Island Railroad before the funeral of Detective Brian Simonsen in February 2019."
     publishedDateTime: 2021-04-12T16:14:00Z

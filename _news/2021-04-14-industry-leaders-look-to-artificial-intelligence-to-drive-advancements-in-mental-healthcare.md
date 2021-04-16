@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI). Artificial Intelligence (AI) is a powerful and disruptive force driving introduction and deployment of more ..."
-publishedDateTime: 2021-04-14T13:00:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
-webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
+publishedDateTime: 2021-04-14T05:57:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-    width: 845
-    height: 396
-    isCached: true
 
 related:
   - title: "New Advancements in AI are Changing Healthcare as We Know It"
@@ -38,6 +32,22 @@ related:
     quality: 74
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How artificial intelligence is transforming the future of healthcare one step at a time"
+    excerpt: "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost."
+    publishedDateTime: 2021-04-16T12:10:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 68
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg"
         width: 1600
         height: 900
         isCached: true
@@ -65,6 +75,6 @@ related:
       domain: thepacker.com
     quality: 17
 
-secured: "wQX1iETz9Fls8XvmIOSIMFgd+se9/ZhRNAX637AiXvRJcQaAsAhVx8d1/9l2zxvRWB6RtC9W9BidvIYgL0UPrzY0nAWr5Xq2hXsu8+kQKbavt7XSul4GuT0uA3MjVxTmOO5fiMHJtzP+Zv1vIJ6mmY5/JfZwup2yDaoZ7+jVan+6NQ1AeeHCt6zSBVvnrva4T6WEq2fz0ATF2Bsk1HWm8RhF8cRpoeJ1VMXfQyqkmc24Fm1ZAT2F6TVdnZDfch5v/dQ++2eczWwSNxm2k5X9fBDXXxJuEbl1qp34rPkrGCcvJVsnuSEG8f3tfdxKJ3HMTFJbtWY2XNgoTEsfU+sKWCc9wyl4VpK95SWEYUAwJC4=;ryyVUbu+08WGrbdkYMujag=="
+secured: "xeUm0g6w/q9laq70FgEG6c13QGEHKuT8NKgfMkIrJEoY6dn6Pt+HrE093VgvczCT1DnMe6HY/oQhIOqy1lTh6nhY7nw9fhGxJj4dWZEZ76ZBvuKXwslva7yN9iHnUBYvFEPsTiqO+m7R/wJJUG9v/Ab11arEqKTsgJ/1yLctfHDCA5mBkZCxJTWMYfjTnDScN/zDxIjbnK/IhB1ng033CCC6Ig8kVxf/CDUIfojUXW58WdRuobMnl0wfcIUbVjJI+72zwQDVdc9EHKs/RCJ4S5hRaaD7v999MCVBRPExrF8vzzGYdFsA90/fQOAvsq4d4WTPgS/2d2wSp2AyU1eAsB0M97cK0LXbw9eXaLI/wGo=;houkhyA8JTivlLTjZwaJgw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Ts5989TpfZsackr5UkteY8-480-80.jpg"
         width: 480
         height: 480
+        isCached: true
+  - title: "Facebook says its AI could help find drug combinations to treat cancer"
+    excerpt: "Facebook claims that its new artificial intelligence can predict the way drugs interact with each other inside cells, but other researchers say it may not translate into results that will be useful in"
+    publishedDateTime: 2021-04-16T13:38:00Z
+    webUrl: "https://www.newscientist.com/article/2274871-facebook-says-its-ai-could-help-find-drug-combinations-to-treat-cancer/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/16120342/16-april_facebook-ai.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "n8scM6ak5COQeccnMva44tIkyHvkkDZL3XoH/qtHgejuNCdtKilsK96u7IP+3b98b9pnYI8Uk6HDsn7zUR1jg7RTxk8PtaNtlAj/c6pfpTaToxms9FyQPnsuTJ2TGxXA/GzwfUSdjk+09ypfngWr125WKWnRDy+xrmiq7iaFJxAPXaWH2L6FbmF0OByywcK4XcaAGjAyrsh7aT4Cz6X3LnEze56eRGaMydcoy2aqVOEAU+RFXc6LmaIgtVcFRJH93DP/r9QL8JK6gNU7oPR88EUam6Xs1P5p8FkwXPCK5L7W5yp1K5WWGVZelyzcsDdd3vGr91XP4ftLUSwoRaSTwAUXoyOpZR8uRMghGJOaUwrnL28rfZsOJmIXk7eJkB+VcMaXnkE0FhuRoZT5EDmMREomnFfASEgU0jJ9MuypktimvI9LZb39LlAPmpLRE6Ngyv+wi+kd0rN2Qljp+iz9yJ+lNqquW6HypqozaXBw2Dbwwm6LMIV3ZPHnVW8tZxITo4Dbh6R6X3Wd+IX1GLcBkw==;isOws9rxSMVjn1iFt5up1g=="

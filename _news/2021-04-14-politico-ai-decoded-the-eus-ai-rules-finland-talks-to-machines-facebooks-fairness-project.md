@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-tr
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,52 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Facebook claims AI can predict drug combinations to treat complex diseases"
+    excerpt: "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/"
+    ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
+    excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
+    publishedDateTime: 2021-04-15T18:33:00Z
+    webUrl: "https://www.biometricupdate.com/202104/facebook-wants-to-build-trust-in-ai-with-its-casual-conversations-dataset"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
+    excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/16/facebook-debuts-ai-tool-predict-effective-disease-fighting-drug-cocktails/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/pills-4099841_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "unsvg74F4Eer9C5txCpaEQRWjJYwScxB0Yhwe/vqnGhNvv0/PStD9Z6OP70KDphYat+E+ud5XCbSaPoBB7lAFq5AWIeE40p+MWjrrehnykZ09oa59pu50lKs6o+7iT9t4Fmw35xA6bBVg0NiaiaTUhBSQIcuaDUzOdu6Hy13bHxGoIeq520M2mLJGjtlxVIlYwRFtq3pn8HbnQysC6mgaZqn4y06aRE4pNNPt1jnkAzK5wOB3yJzL5KnnPL/G4VCVJCA+Rnx4ivr5ToMqqYw+uefRwHQ8n244EoHIgBBeTogEDuqAKfEhIBb1ArU50jECDqhDEOSkHxUMsCFz2lYJyD5OjIA5B/Z9ZlSoBXxZRQn6grlVlnfQ3NyNZwdJF86oChUhvOA70BImHIQDh4bQju3AyU9sMZBhGSjpIMVvpn805CZkpOvuVgxVJq6QLK5xwGb0J0PRAFA+k19wSO49sJze7u2jU59sOk2nwGXvuzAvF/CLzzw6JoeU9QT9q6rtdvddhtyjejbgZqJPTBN2Q==;natm8vrmNV3/YU2T9dijNw=="
 ---

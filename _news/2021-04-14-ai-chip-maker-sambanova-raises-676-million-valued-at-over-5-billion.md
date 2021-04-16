@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI chip maker SambaNova raises $676 mln, valued at over $5 bln"
-    excerpt: "April 13 (Reuters) - SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2."
-    publishedDateTime: 2021-04-13T12:01:00Z
-    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding-idUSL1N2M52MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M52MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52MG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
-        width: 363
-        height: 545
-        isCached: true
   - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
     excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
     publishedDateTime: 2021-04-14T17:56:00Z

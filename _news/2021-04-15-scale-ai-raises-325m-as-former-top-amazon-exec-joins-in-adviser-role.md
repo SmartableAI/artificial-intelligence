@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/04/14/scale-ai-raises-325m-former-to
 webUrl: "https://siliconangle.com/2021/04/14/scale-ai-raises-325m-former-top-amazon-exec-joins-adviser-role/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 992
     height: 494
     isCached: true
-
-related:
-  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
-    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
-    publishedDateTime: 2021-04-13T19:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
 
 secured: "OyP41VfaTutVy3n5zOW2fhJJbx/kC5nsgGJWVCPhSCPQoNSNwH+REJCLMZxoNVBr46f4+76UNMrZmy2+YvIpwVXjXkmRj/oKJlkHp9IsZiXOI1l7VtqJyT4VzlseXwX0Sh5kkl0XqVteWe6RMcyAoLKaGbxM+QiqGPocgbjON+M6xn5p9s1i4xcen7UhkKj10acrhfPDkK+R1kaia5L8gtEjx32/E0t3rQ7qVZUPIATYOXOJB7jxAn6lcEYyDNrn9GGsdAVG0Z1Rti0qyhiT0Q6KdNmmquNS4ohqxF+IE3ud/ktM6L6mgWVgpW0OvvWrkAUaKHt3lhs+f6Lnwd+nE+DkOXj1OkayM+JvGD97SCFhDo0lrSawV33EWGu/iBL1qBIIfCdUzQZ4XcmcrhCeYb9J9i1yWfWzanvVZPaEKEMGcH2sFnvrh6+OOBiDQ3gyjhd5ryiSWkbK6B4SBOGnQCryFGqk9ye4up1WgM0vj6+Sa2ybCInif8e/HKGki6Ej4P+TmIf7mqNhPkTL+A6kUQ==;s6pKeJrrfajgYyLRrdpUfA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://insideevs.com/news/500502/tesla-artifical-intelligence-futur
 cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Ford And Tesla’s EV Rivalry Heats Up"
+    excerpt: "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech."
+    publishedDateTime: 2021-04-16T12:10:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/opto/ford-and-teslas-ev-rivalry-heats-up"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png"
+        width: 479
+        height: 271
+        isCached: true
 
 secured: "M0q71SbxedkSLdgPoE6mYJq7lX9GpBTrKuIdi8S5JUW41pKLaNpK6ORWhxaAKH+gMazZNLMDJDrUZ9pLZKOmFbtWfKaY2opHDpwlK0dWF73IUwakdiYZqZQFaCGXsEaIaykkmP76UvpxU1wjqF9ViRxWZSGVW4n4nceucgaq8N/HFDFTNfnTSaes0m5A96UWi61vFfWjNDpAslqSt86hwBsd4dXZplaKp63iPCQaoqSFeehrk6679EfjoDpdM0uJDojrcFoHj1MWCfKAoJdvJ/gw7yPAgaKJFq2Y8thvk3vYIJ85coerJF/YXEeKtJ0op6xVXRVXeLKDSRHx4x4vZ4Hepi5iYEIaCDZWe9+1byBDWjbNSa5abPlbeghlK5w4FSBJGsaz5I1JX9+ovV8d37zbTR7T3Jo4wpUtntloIiay9WG5+mghQorVZW23ysxQRyGQQYDeUlGJH6mMhaHD1eTckFEJyoQuEtRtafC3qPpKK2pe7hlQTXdbJRM+Ru9HufSKthF13SL64tbVV6yltQ==;IKe8QL96wPG7yOfyGnZWPw=="
 ---

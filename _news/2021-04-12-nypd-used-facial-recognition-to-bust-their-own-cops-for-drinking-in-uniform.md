@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internal Affairs used facial recognition software against NYPD cops: email"
-    excerpt: "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s ..."
-    publishedDateTime: 2021-04-11T20:51:00Z
-    webUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/"
-    ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 72
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral"
     excerpt: "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app."
     publishedDateTime: 2021-04-12T05:44:00Z

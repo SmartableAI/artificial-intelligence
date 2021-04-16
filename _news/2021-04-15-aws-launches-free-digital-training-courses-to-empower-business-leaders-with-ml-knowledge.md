@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-di
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/"
 type: article
 quality: 112
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "AWS launches Amazon Digital Suite to enable digital transformation for Indian SMBs"
+    excerpt: "Building on Amazon’s commitment to digitize 10 million Indian small and medium businesses (SMBs) by 2025, Amazon Web Services (AWS) has announced the launch of the Amazon Digital Suite, a curated set of software solutions aimed at enabling SMBs to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-16T13:04:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/announcements/aws-launches-amazon-digital-suite-to-enable-digital-transformation-for-indian-smbs/article34335809.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 33
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/announcements/onydwz/article34335808.ece/ALTERNATES/LANDSCAPE_615/amazonbl"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "keD7hspzU/JAtjOQAtotjY69MB7la3/e5IKxEa2ycEMOAHlZy59+pmFbf0Ct1PLrqeNZaR2QVsZG7jn7G4qU9gBO06ArK9h3P+E6srpquEk+kqYVA/oSFG6QgWW8fOWXe9glZqaIdpUKa1jVQqY07HkJxhE8bZca7LzPDrWuC87xMS2R1PvP0k635tCzBoSngOULRMCTva5aqhfnXiKueUqzYPV59ID2vfcJ/bj5RVcTs0Vjuxpj+YfTqIws38wXrEsvlbb1wqTLcP28JJQKMwXpHya+66SiFDWMyV9pLPwPzAAy1YqMMHYv2FR1EvqJyhuJruWpvuIFZrLxtMncC4Row7ESqoltVQby1eEVvbM=;rZUrY4pfr3heAe1h9AC/NQ=="

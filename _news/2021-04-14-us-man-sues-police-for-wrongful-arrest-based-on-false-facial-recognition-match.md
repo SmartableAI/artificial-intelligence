@@ -187,6 +187,22 @@ related:
         width: 4611
         height: 2708
         isCached: true
+  - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
+    excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
+    publishedDateTime: 2021-04-16T10:52:00Z
+    webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 51
+    images:
+      - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Black man wrongfully arrested based on false facial recognition match sues Detroit police"
     excerpt: "A 43-year-old Black man who was arrested after facial recognition technology incorrectly flagged him as a shoplifting suspect filed a federal lawsuit against Detroit"
     publishedDateTime: 2021-04-14T15:28:00Z
@@ -218,22 +234,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTF/f82b8daf-2cc4-411c-a019-f6f0687a9521-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y262&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
-    excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
-    publishedDateTime: 2021-04-16T10:52:00Z
-    webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 49
-    images:
-      - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
-        width: 720
-        height: 405
         isCached: true
   - title: "Black man sues police after facial recognition mistakenly identified him as a suspected shoplifter"
     excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."

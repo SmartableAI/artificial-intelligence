@@ -192,7 +192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -478,6 +478,49 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-nypd-use-facial-recognition-app-against-their-own-officers-to-id-cops-drinking-before-mates-funeral.md",
+      "title": "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral",
+      "excerpt": "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/12/06/41638292-0-image-a-92_1618205309826.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
+      "publishedDateTime": "2021-04-11T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -947,49 +990,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
-      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
-      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round led by SoftBank Vision Fund 2 1 and technology-focused funds managed by existing investor BlackRock, Inc. This round of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
-      "originalUrl": "https://www.cadillacnews.com/business/trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to/article_2007b0c1-df49-5114-82b7-8d7197337ef1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/1/22/122b21fd-cfb3-5211-8351-960cfa46236e/606dadc570063.image.jpg?resize=1003%2C630",
-          "width": 1003,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadillac Evening News",
-        "domain": "cadillacnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
       "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
       "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
@@ -1029,6 +1029,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
+      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1375,49 +1409,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
-      "title": "U.S. Army looks to facial recognition access at bases",
-      "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4261617642037/2021/1/16176424356296/v1.5/US-Army-looks-to-facial-recognition-access-at-bases.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/04/05/army-facialrecognition/4261617642037/",
-      "publishedDateTime": "2021-04-05T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

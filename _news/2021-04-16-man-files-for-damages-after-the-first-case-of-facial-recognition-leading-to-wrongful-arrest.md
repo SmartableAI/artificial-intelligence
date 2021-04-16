@@ -8,7 +8,7 @@ webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-f
 ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
@@ -394,6 +395,6 @@ related:
         height: 628
         isCached: true
 
-secured: "4rZHyMLrwMF9Ouo+k94cdIdy2cJFpZ0xRx1pdF2+AkcqARJmb73NvWpQYxIKRrHO2s+/Zjn6LRO3wyz2PpbnJcotLeGArq7Bq5Am2H+g8bx4MddYi3IjCwdeEPhBK2WbFUtxfGLewDtFUzVcs2BiZ4X5lSoVPhTfTGq9bCAJsdq0vMOs1k76wq1H469G72lQ25Qg+/0OdYHr9CvBNpvplzeyzAFhys2rjyFHPuh5H3Gi9G6QIrxGauNwIM6OJw1y0n996o7gkgSy6jTycyPykQJsAe/aG/QBpvVwaQJ36ZuIRS+PAUafErMtqFlPZCflwEQmOZU/OgDXyHkHFP27jE84x586xz+Ib8bKK77F1tU=;2IKhP+dTiugcUUQQHfIq4Q=="
+secured: "x+HI4QDExubJDwiD7ktFYEsk+QqaqYg58dP5xIoTPjb+qNzGupg/6JVfXAE71XYTEq9i8NgETE9z9l4IN2jv/nwK5oLdY9PLjEOTssyRiK87N92Giyoie2aV/FUYQm66Z5u5sCnG4yMtUwZNeugcJb6hBd/NVkafR/1pD7fHoZdBYDIYhkv7TJY3/Ysoim7ZKRcT3b32i99UBZv/q9ml5ZxcecqFH8loOuFl1aUh+LvNdEImRqa8PwAgXMAdCjsg7H1FCq/YTrzLcxYxFp+W40yPLTPfYW8uj19pcAAwfLRqs+NuqJx7slSxa8hfn+rceIMBNrAMaFYEpHnfNrYL8Orh2GvmF0PtVr118mzl+0/bEUKWdiYEfX7jz6Y2kFpnTUcotHwXyx6NVBEE+WF/o3HSXXrGuSqOEJpSUY5ESPvIYDGgDUieFvfS/heJoyavwclhFV0kEY2w4/lM7Weq5GAdN/rI4ktnd56t6ampqY8ThWR9fbo+Ik7RqlGzv2MvZabIa7MegSbfl7w+7cqC+w==;7qZx5n8KPf3l4xWvKTuRGg=="
 ---
 

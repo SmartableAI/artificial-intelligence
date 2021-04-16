@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 876
     height: 493
     isCached: true
+
+related:
+  - title: "Financial Standards Setter To Focus On Use Of AI"
+    excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that its main focus for the year ahead will be on the role of artificial intelligence in the sector."
+    publishedDateTime: 2021-04-16T13:42:00Z
+    webUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai"
+    ampWebUrl: "https://www.law360.com/amp/articles/1375927"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
 
 secured: "kBYp1sGHSqu2nvocnRof9ghG6jkCWdQ48D3U1ygrSDO8hhPyba8m+LhNnTGqQ/ELikQZ6KS6FmKc8Z3K8mzfE/gxymlHB0f3xYNKKRWgYkmjn4hDC41djiBPNym5gSMrFXiH1S3JUExoaSWAtIA91IGE/HRkKAQhTkJHmYeXUZF7Ztd+4+kqWiccI0bC/bKmLIDVMBZZMB3wreDQDnXFMonJMVpa/RoxWJSw35LL2n3e5gdSbbMAHRdU6J/TPFUGXpZGCoTAPg6OB5RcUvEHRuVnQ3WJs7bpmp92D82Ya4s1WqN4H97CtWhscUYr0hk6cZ3VaNTPJBjKsTLn/gq4Q7lYTbq7asoImMWxBHIG/MpZdzj7/n0b6jx/FuoiYX+c/BKI3/D9ozxXQS/J4bZMuXyZLil4G62Wfnof6l2SvVjckK64BebLrQkWC9uGwlAPTsifX3FCda7vCD8Rt+4xklmEpllhgWqNbADgUj6Zvu/RbTwCgEPYw4qurinxy/1QOoX396TT0KS1V2wvsvMpKg==;xcH8c85H127V7rFBL2CKKA=="
 ---

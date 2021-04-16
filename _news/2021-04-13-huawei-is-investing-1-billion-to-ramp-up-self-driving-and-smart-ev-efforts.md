@@ -25,85 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
-    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
-    publishedDateTime: 2021-04-15T18:54:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
+  - title: "Huawei invests in self-driving and electric car tech it says surpasses Tesla"
+    excerpt: "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman."
+    publishedDateTime: 2021-04-14T02:05:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Huawei to invest $1 billion on car tech it claims can surpass Tesla's"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T13:00:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas-41618229075573.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/huawei-to-invest-1-billion-on-car-tech-it-claims-can-surpass-teslas/amp-41618229075573.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/04/12/600x338/airport-huawei-company-shenzhen-shenzhen-pictured-international_d784b2c2-f4cb-11e9-800c-f2f87dfa36aa_1618229210545.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T10:42:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI startup UiPath looks to raise $1.1 billion in US IPO"
-    excerpt: "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... a gifted Peloton » SHARE THIS POST C3.ai NewsMORE Related Stocks Find News"
-    publishedDateTime: 2021-04-12T18:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning-1030295185"
-    ampWebUrl: "https://www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-uipath-ipo-raise11billion-26-valuation-machine-learning?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/60747fad2cc1ef0018da140e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-Driving Semi Truck Company TuSimple Raises Over $1 Billion"
-    excerpt: "TuSimple claims its self driving technology makes it possible for heavy trucks to see 1,000 meters away and react 15 times faster than a human. They are currently self driving on highways and going between truck depots outside of cities,"
-    publishedDateTime: 2021-04-15T16:27:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-15-at-9.18.49-AM.jpg"
-        width: 1184
-        height: 828
-        isCached: true
-  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
-    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
-    publishedDateTime: 2021-04-15T20:36:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
-    excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
-    publishedDateTime: 2021-04-15T17:32:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 58
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
     excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
@@ -119,72 +85,61 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "TuSimple to demo self-driving trucks in fourth quarter: source"
-    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
-    publishedDateTime: 2021-04-15T14:10:00Z
-    webUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
+  - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
+    excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
+    publishedDateTime: 2021-04-12T22:51:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
-    excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
-    publishedDateTime: 2021-04-16T08:32:00Z
-    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+  - title: "Taiwan starts self-driving open road test"
+    excerpt: "Taiwan has started testing self-driving vehicles on open roads, accrding to the Ministry of Economic Affairs (MOEA). The first case of trial on open roads, which began on April 12, sees autonomous electric shuttle buses running between a downtown area in a ..."
+    publishedDateTime: 2021-04-14T01:52:00Z
+    webUrl: "https://www.digitimes.com/news/a20210413PD216.html"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
-  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
-    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
-    publishedDateTime: 2021-04-16T03:10:00Z
-    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
-        width: 718
-        height: 400
+      - url: "https://www.digitimes.com/newsshow/20210413PD216_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
-    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
-    publishedDateTime: 2021-04-16T02:57:00Z
-    webUrl: "https://siliconangle.com/2021/04/15/shares-self-driving-truck-company-tusimple-flat-raising-1-35b-ipo/"
+  - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
+    excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
+    publishedDateTime: 2021-04-13T12:48:00Z
+    webUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html"
+    ampWebUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Firstpost
+      domain: firstpost.com
+    quality: 32
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
-        width: 718
-        height: 400
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
-    publishedDateTime: 2021-04-15T18:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-7-things-to-know-as-self-driving-truck-startup-tusimple-starts-trading-1030310316"
+  - title: "Huawei to invest $1 billion on auto technology"
+    excerpt: "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
+    publishedDateTime: 2021-04-12T12:22:00Z
+    webUrl: "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-  - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
-    excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
-    publishedDateTime: 2021-04-15T10:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210415563/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-85-billion"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Mn9kYvqSGDs9ztmitQnZ860F1ctfmf1fRRQahki9MkRYVDW7JMOdikrDlRvAO/+lZI1sX6DNVO6Lg9o9G6INEtg5V4CGbfa3YYv81Ygn8y0VmJCWwzDAO9/il1EPZlNGId/f0yVg1k3tSOdu1XX5NaIcvFpZC7h3XhwMPcgg0XcjnaZrxWmil8aAqPFD3w5mo2RjEvgzf+4wfmFwQYsEtI9B4NQcpJG7iz5LO43fPFH0V6gCbispcnXZbcIgky1hxh+wGp5giCjYpNfrFBQYuMZBtGfXJpgAseRQ47PphGTD3N0yh46P/nIoVck5Ym5G8edcH8FT9SJx0R9gTJcJlxM1dFhFdh/PU1dD2+FdrcM=;FzgZWHYoMoJnACsXpk6nxQ=="
 ---
