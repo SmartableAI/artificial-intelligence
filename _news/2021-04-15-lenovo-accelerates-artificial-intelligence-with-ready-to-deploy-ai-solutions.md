@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Lenovo Accelerates Artificial Intelligence with Ready-to-Deploy AI Solutions"
-excerpt: "Lenovo announces 5 new ready-to-deploy AI solutions across multiple industries to accelerate customer value from AI adoption"
-publishedDateTime: 2021-04-15T14:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210415005285/en/Lenovo-Accelerates-Artificial-Intelligence-with-Ready-to-Deploy-AI-Solutions"
-webUrl: "https://www.businesswire.com/news/home/20210415005285/en/Lenovo-Accelerates-Artificial-Intelligence-with-Ready-to-Deploy-AI-Solutions"
+excerpt: "Infrastructure Solutions Group (ISG) announces the expansion of its partner ecosystem and launches five new ready-to-deploy artificial Intelligence (AI) solutions. This growing global ecosystem of industry-leading independent software vendors (ISVs) enables Lenovo to bring to market AI solutions for a wide range of applications and industries,"
+publishedDateTime: 2021-04-15T10:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
 type: article
-quality: 29
-heat: 29
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Lenovo Announces Ready-to-Deploy AI Solutions"
@@ -28,6 +35,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "4Jr3Hi6dSd3w9ZvRqYbdUkXdQIxR1WJxBd9qAu9cQuyYkvU42imFDs5YKsYxro4DI5MUCllUWkJ4MijN1lWBIzvWjCAp45adERR1sDVgh11QVhCCtQHea4Bu/8RaiGp8ibNMqFZilox8rSjWm7NYp6P0xv85BOwxGyN1cEUQkQWqfey1A6un52kVzezvIaC2jJihNNJQOgOhzti1BSMQp21rscLa64z4AUpl8TVnYDsQ95RpuSrebbChnDfk2ung44yRvBQjcF7Z+mnkSYDQQZixBvgsztz9oLuhmWV6rpOgslAcZMxPIRzw0yZrJ68nKOUEgwWsKJzZIPK3xDXgaIqC79GxqicE/agguppeNU8=;lUXnJ3rQYblZXTqVdEu5aQ=="
+secured: "JkoaLUxIqmUz6lTkS8Iw8tQXPV/dQePyQkfkpPl5n2X17+ZLKojqn2uumvXT90PlLgiIzbBLQfH052v2u4mvffNfQKmbX+9u4vFAqQYPrsocwDFIG6ieCMHR6fQiPB7rj1Jsoj3Iu3Bo5EqnpwaJIMZNEgwvIdllWwoi6AOOm7YnD+hdQOzPpQCd/+/QBo6y+8miuXmvanJzB1SHe9N4vTtAKOhc4fCKFKgtkwjNxRoCx7y4O+GtDSiyfLFxFYv/CJxVIQbNUt04juQs4jEZqkHLas/dquuVH51jvV227WGW5zgcW7d+ZKaF7MHHJ0QO5pkUtN1U56kMm1m2Upd5JGP2I0b+AOu96LEml9tietQ=;peJs1ELchf+JrbJV+T63Sw=="
 ---
 

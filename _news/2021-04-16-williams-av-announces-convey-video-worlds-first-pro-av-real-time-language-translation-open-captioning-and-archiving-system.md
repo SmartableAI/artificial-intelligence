@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Williams AV Announces Convey Video - World’s First Pro-AV Real-Time Language Translation, Open Captioning, and Archiving System"
-excerpt: "Williams AV announces Convey Video - the world’s first real-time language translation, open captioning, and archiving system for the pro-AV industry. Powered by Google’s artificial intelligence platform,"
-publishedDateTime: 2021-04-15T18:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-communication-technology-social-affairs-higher-education-artificial-intelligence-0e143aa729e758094b13980525ac8415"
-webUrl: "https://apnews.com/press-release/newswire/technology-communication-technology-social-affairs-higher-education-artificial-intelligence-0e143aa729e758094b13980525ac8415"
+title: "Williams AV Announces Convey Video - World's First Pro-AV Real-Time Language Translation, Open Captioning, and Archiving System"
+excerpt: "Williams AV announces Convey Video - the world's first real-time language translation, open captioning, and archiving system for the"
+publishedDateTime: 2021-04-15T22:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
+webUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1489012/WilliamsAV.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "FTZwurh5ec4QmK6UfP40kah7RqfnXs7X2bH8qAXhcFBK4+jmVgFiCEJ+pqRad7qFt/QANXjjouPrJGxonnWszaqTMjl0frsQO0vREjn57qPLEDiTQ2HVSpGmPGHy2GqWUPxlmlbhrtGTTrsacObgKdUgLYFyMaHFpe90k/lDxi8+OPWlvJv+RpzRv3PNhDwb5/kLhXvSjRipMyTPrhW2w4TcFVEnvwntWoI05r8yTclmqu1PxJ5RMACUXmQOfRHxhyPExipLXIYy2gutakWUA+njvQAC6YJoylwc2Tyydu+Tsc3qgorS/NwxAdT2GPex1CzGFCAYyQqzjjvpTUhAkIo8o5X/LVE6bua+zeaHVYo=;KpqFh+ptCuioqxo9778QhQ=="
+secured: "CMDDBr/CgiQ2N9UtynCkBOHYZK340WRYfxfTZX10BbgMx1AXcssL91m7QVIlGU9ZFIzEhpcKJZmjGXhjybxpwClsarBwcwkYAOL6NUFR2Cqq9xyDf9xstZ6vTL19Lgi5fxqLSePCObAFPtXv9kvpLpFoRzEVdlbFtjMsNiWkrWR98CNRolAR0UMYzR+sgSJWsdeUI7KbndAOZT7RGzA4VRNAJTsmlU1DDOCwWALhP0pDfeqI9JZ2m1L7GVBVYTRFkznlloxWd1X31pcImYImxwPKTwlTALtUjhHAOjCHJCwCPQcg+TnVyfTyYHHKRx9gfNPmL0iMm9y1Jnlkba9rcYiCtKkVTtllRwuEL627IM8=;KE2Ji3b2IIiGQuSG7BQLsw=="
 ---
 

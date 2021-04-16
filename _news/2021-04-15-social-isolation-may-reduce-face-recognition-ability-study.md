@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/health/social-isolation-may-reduce
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 660
     height: 502
     isCached: true
+
+related:
+  - title: "State surveillance body cautions over police facial recognition technology"
+    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
+    publishedDateTime: 2021-04-15T22:42:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 37
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "Ma5S+NmFd1OMd1Lu9Fv1HGFC4Q7KOzS3u0lZoETXo2TQkp6rf/L2/QpD2oPAoiYceLASA/0BPjmz+pnkFI4nhOKx354GFMgiAQOhmX94Uu3zwyLpA9I3pYrThankm3BavZKS1TrzJjROWAJQ16yctGkG1gcUoD0FYT1JizmJISzO+TP/LTB6/MVUZGKlOSWFP7gC2TE+pV9/PnNWfuu0osquNZn/h50fZyJdPU3o8KGGy8awYYySqh2xcuDFxZ8o01hGOQia1bFzhL62wJJx0KaVjKmSstV05YFkISl+8n4r4piwFZFGf0fAy7rRd3brBU2vGcPHD/N3XjV1Q0kmgnSYxDILgEFQwd1Ovolz2dc=;7LrW0htAUxeVLxdWHNTFgg=="
 ---

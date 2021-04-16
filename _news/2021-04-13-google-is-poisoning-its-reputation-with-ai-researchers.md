@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-e
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/04/11/pawel-czerwinski-fpzzev0uqwa-unsplash.jpg?itok=MkgXA2yl"
         width: 560
         height: 292
+        isCached: true
+  - title: "On Artificial Intelligence in Education"
+    excerpt: "Rarely a day goes by that does not bring some news about Artificial Intelligence (AI). While it can seem that this is an entirely new field for exploration as to how it might impact education, the research into those possibilities and limitations has been going on for decades."
+    publishedDateTime: 2021-04-15T23:08:00Z
+    webUrl: "https://www.miamioh.edu/digital-learning/blog/2021/04/on-artificial-intelligence-in-education.html"
+    type: article
+    provider:
+      name: Miami University
+      domain: miamioh.edu
+    quality: 54
+    images:
+      - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Artificial Intelligence Research at Duke"
     excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"

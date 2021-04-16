@@ -36,6 +36,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface to Holographic AR Scenario, Making 5G+AI a Mainstream Technology"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface"
+    publishedDateTime: 2021-04-15T23:20:00Z
+    webUrl: "https://southeast.newschannelnebraska.com/story/43678786/wimi-hologram-cloud-tesla-and-facebook-apply-brain-computer-interface-to-holographic-ar-scenario-making-5gai-a-mainstream-technology"
+    type: article
+    provider:
+      name: News Channel Nebraska
+      domain: newschannelnebraska.com
+    quality: 24
+    images:
+      - url: "https://NCN.images.worldnow.com/images/18385183_G.png"
+        width: 500
+        height: 281
+        isCached: true
   - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
     excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
     publishedDateTime: 2021-04-13T02:02:00Z

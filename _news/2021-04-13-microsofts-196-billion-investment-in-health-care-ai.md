@@ -1136,6 +1136,17 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
+    publishedDateTime: 2021-04-15T04:11:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
   - title: "Microsoft's healthcare partnerships in the last 6 months: A timeline"
     excerpt: "Microsoft has continued its push into healthcare by pursuing strategic partnerships to improve the nation's COVID-19 vaccine rollout, conduct clinical research and help hospitals manage their data. Below is a timeline outlining key moves Microsoft has recently made with other organizations: Oct."
     publishedDateTime: 2021-04-14T21:34:00Z

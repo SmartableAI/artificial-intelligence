@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces
 webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
 type: article
 quality: 69
-heat: 100
+heat: 99
 published: true
 
 provider:

@@ -63,6 +63,20 @@ related:
         width: 560
         height: 292
         isCached: true
+  - title: "On Artificial Intelligence in Education"
+    excerpt: "Rarely a day goes by that does not bring some news about Artificial Intelligence (AI). While it can seem that this is an entirely new field for exploration as to how it might impact education, the research into those possibilities and limitations has been going on for decades."
+    publishedDateTime: 2021-04-15T23:08:00Z
+    webUrl: "https://www.miamioh.edu/digital-learning/blog/2021/04/on-artificial-intelligence-in-education.html"
+    type: article
+    provider:
+      name: Miami University
+      domain: miamioh.edu
+    quality: 54
+    images:
+      - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Artificial Intelligence Research at Duke"
     excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
     publishedDateTime: 2021-04-12T19:29:00Z
@@ -78,6 +92,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xkw3tLbMH7maSiJJqdNnP5nLIEHOe86e2Cd7Sr6g00vR6u/jEixtzqWmFUjEImm/reZ7yvvGCtkgidkdISlUYZPX+hWf0jK1LTQ3fc4WhRsdvUNAgcm9fx/D/TdxELZFvvldeX+kjMSi7TOwKWi4vQXI58V9j2ViO8/W/+TdQFmL086oy7l4tb5t3gQ3e4VoA0OdFHL2FY0E5Ihg9gfbtkBrvxj+gEvHXG9MmpvX6S9xiQX287DkWnRdck9NJtE6svnMw30PMPBkz7CcMbUrAaGAyUz5WOlyTXDNKJEh1DXRRRvSpSvFyts4CEuyFbu347Xrz4a1d8MQSQp6dM2Bg1ZPY6th6ZDe4FedJxvO0r8=;/HUS8nijsL7IHaN16P7Tnw=="
+secured: "BEwL4cvOhf2z58UPUTf3g/ru732HzGH0WRh98guCk0MIecDWFaVv6AQrQhHLv2E06oZYYOhSB/AF4y1iIJlK1OJtNnX2ekaPOpv5FoJLt5WvWP1VZQRg1VF8kVT5vjF6tpJolO12ydTTZdYqWIzczrCXg35zyzJEDvMc3TKl4h04n0iBabdVDD2e9wH0eVt57zK5L3BOFPreV0g/6JldS/1+j1qumWK/sKAReyr27gGTxqkKZXCvGPlHGhim4/mF6ZLhikDk9Z4b0tjGGBAz93j7oJ3Fmr58g5v8cI4YFskD+jbdkbe6yus6kcDDWwGAEs0RCAQxZGkGvsMlUtvoWYolUsBSFTUazDG0PkCEkdTwucZ0XQlwwzUC8svWbS4l8b4C9ZFInGL+ttdkdM2h7Km+CIURBMTYV5dhcUlhlF5KgN3i/3VSVxeyiJYTNyIV9D5yLlZ376h1U0X0dMTsLNHvibRaJJ613ZOWrIERMiabRhbIQlV2r6e+dKZuByS99d8KPLaxl5cKW3E32hVUOQ==;RC3JW71DxD8dv2MHaIpXCw=="
 ---
 

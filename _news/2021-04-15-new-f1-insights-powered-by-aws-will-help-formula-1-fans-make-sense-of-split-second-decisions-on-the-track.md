@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AWS adds to Formula 1 stats"
+    excerpt: "AWS is adding six new items to the array of statistics it generates for Formula 1 spectators. The first of the new statistics – braking performance – will be introduced at the Italian Grand Prix this weekend."
+    publishedDateTime: 2021-04-15T20:49:00Z
+    webUrl: "https://itwire.com/cloud/aws-adds-to-formula-1-stats.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/77d125bc29fedcad8ada21f82ca68bec_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "w9WdYVx2CRYtQ+9JoWPw+vgZHSDwmUgYgoZDyWzfSc86MVjkeC0w/ej4AZOrIsc+QfIGjghwwhICahMRiEBTFsmQgXy9vbGmcavzRQU8x5zZv+ooWov75m0MH27YI+WUEfl2VGDGCmvBhoq9F3vpH+UGav/SCFB5WeD4BuOQGllQRDBnFR148MsEugIxAsck9CXkWW4PYiKWx50ldoIbvEIczL68vb9m/1NbQcdooeYWIs/oOZnkOTfe+vsSWCL5W8uqHF1CwxTaYNfEhercdGVFPQ7fHTzb7AqUpwUshUESLwgWgvWXkryJx+wgPrnWXlnqCH26d9gZHD2JCUCPzxyly/ijayH3WEiKyOSkdPc=;BfuvA7I+tzfOACgzTkQBHA=="
 ---

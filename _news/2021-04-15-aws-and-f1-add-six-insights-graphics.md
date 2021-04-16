@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AWS adds to Formula 1 stats"
+    excerpt: "AWS is adding six new items to the array of statistics it generates for Formula 1 spectators. The first of the new statistics – braking performance – will be introduced at the Italian Grand Prix this weekend."
+    publishedDateTime: 2021-04-15T20:49:00Z
+    webUrl: "https://itwire.com/cloud/aws-adds-to-formula-1-stats.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/77d125bc29fedcad8ada21f82ca68bec_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "New F1 Insights Powered by AWS Will Help FORMULA 1 Fans Make Sense of Split-Second Decisions on the Track"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and FORMULA 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new F1 Ins"
     publishedDateTime: 2021-04-15T07:30:00Z

@@ -50,6 +50,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface to Holographic AR Scenario, Making 5G+AI a Mainstream Technology"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface"
+    publishedDateTime: 2021-04-15T23:20:00Z
+    webUrl: "https://southeast.newschannelnebraska.com/story/43678786/wimi-hologram-cloud-tesla-and-facebook-apply-brain-computer-interface-to-holographic-ar-scenario-making-5gai-a-mainstream-technology"
+    type: article
+    provider:
+      name: News Channel Nebraska
+      domain: newschannelnebraska.com
+    quality: 24
+    images:
+      - url: "https://NCN.images.worldnow.com/images/18385183_G.png"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "HKjnmq+3NUmR+OoafGTQewbosrBfTe1f25quhlNFbwF6o0ApmH8/k26svcpuVfQXDvHU22SdgV7zyztbeEFM8BE+QyWZ6HDOcHF19KFVI0B2Q1FuxOXsO6qLZ+x/IDsNOzieyZsniq8CMSqt/k1kiyWDdt22NYFsB9WSrTil2OhMn8mIv2Tv6y3bDW199yuKUcbOzrkP7zYPrOAUiF3lAxY/4ZymwvAkWB5AV8r2E/l/ijcxuCe6qspgnPZH0h7plZFwdoZku2sWjaLq+DAyAdbsDxEUm4aNDADAcVm6O2AnZArufkUPAJIv7edEU0GVJHjaU2BHmnDpMMBWRz0bl3s/UrYGwcA7JodlANQrfus=;1vL8c9+lhb5Cb/2Jxeegpg=="
 ---

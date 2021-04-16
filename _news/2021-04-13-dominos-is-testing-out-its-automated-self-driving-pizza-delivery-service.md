@@ -91,6 +91,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Walmart is investing in self-driving development with Cruise"
+    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
+    publishedDateTime: 2021-04-15T22:48:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dubai strikes deal with Cruise to roll out self-driving taxis"
     excerpt: "Dubai has become the first city to sign a contract with an autonomous taxi manufacturer, ordering up to 4,000 vehicles from the US driverless car group Cruise with a view to deploying them from 2023. The deal with Cruise, announced in a tweet from Crown ..."
     publishedDateTime: 2021-04-12T10:51:00Z
