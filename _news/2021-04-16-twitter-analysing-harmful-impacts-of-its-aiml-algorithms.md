@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Twitter analysing harmful impacts of its AI/ML algorithms"
-excerpt: "Twitter said it will research and understand the impact of ML decisions In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning."
-publishedDateTime: 2021-04-16T06:02:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
-webUrl: "https://www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
+excerpt: "Read Article In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,"
+publishedDateTime: 2021-04-16T08:50:00Z
+originalUrl: "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
+webUrl: "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
+ampWebUrl: "https://www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
+cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
 type: article
 quality: 76
 heat: 86
 published: true
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: CRN
+  domain: www.crn.in
 
 topics:
   - AI Ethics
@@ -22,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1828167481.jpg"
-    width: 724
-    height: 483
+  - url: "https://cdn.crn.in/wp-content/uploads/2019/05/13163815/Artificial-Intelligence.jpg"
+    width: 696
+    height: 465
     isCached: true
 
 related:
@@ -45,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "rSjvPhX7VFVpp1nC90m6Yfbj4l6he3D8dY9nyqNEW1G0dPh+G7Vh6KgpLXY/gvuUrJ+qFcjUVuf7l6PLOEwowWRKc0/DQ5XF4HfeT6KDX0QtFlS+AWrfK0tMlunC8WvTKVuY5xN9MC83nd5A/kFSb3RDuThqA4QdPqHIRhC69guPj6WoTadk5Cj0HP8Q1JEeOC8BaaBvuG4LEGryJuEpaaff/bOmlsQcjnuMJ1uL/zKCSzjfgazOwRaX+IUhY2VhKcibTIBzaCIpy+KJwx4rmb58Ih9BYJreyx3E1UvxAy6ydkSf5npMVdetW0kAfU+Xr6/6g30etkRDSvP3TLL147/gqWuFqmW7/z63Eq0Nu+o=;K3ykZT2Om8DO7mSzjhx1mg=="
+secured: "VZUXi2BSMPd0k5X/JoVsBI50Ms+HZbObUoB7yt1D5c94jYdLX575OkHsaYWKVOEjfDYt4b8Svw9OBWrDaSAy//8U2PZTdrvwRnylXPeCrxRFv50R3XQdyqy2GKfX2PjcPtZQDX6gIPbjbwBAdkaPe+7JHesD+SUtqEPtgTN6THgcFRlTsn8pUFA/EM1COcc/NPBnC9+emaUsTW8vbxLf/mzNxPSWRvBXvz4zIUeyT+CarqNTNqbNOu1CrxGfWdUKbaJxZfnR4qrUQL29yANYeTGTI4TNRvB2pf6hO8ufD2mlUvcwSpYRa3xbSHsDEy6vKyR9jNeJ3tvd67kmRLtRgC/6VadhgIoL32kYS5YbvZU=;LQs3nRghdGSiwp6I/C9lRw=="
 ---
 

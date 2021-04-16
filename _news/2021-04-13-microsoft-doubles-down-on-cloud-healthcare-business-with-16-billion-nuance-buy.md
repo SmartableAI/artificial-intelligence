@@ -716,22 +716,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Microsoft said to be in talks to buy AI startup Nuance in $16-billion deal"
-    excerpt: "The price being discussed for the Microsoft-Nuance deal could value the Burlington, Massachusetts-based AI startup at about $56 a share, but the terms of the deal could still change."
-    publishedDateTime: 2021-04-11T16:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/articleshow/82019423.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/microsoft-said-to-be-in-talks-to-buy-ai-startup-nuance-in-16-billion-deal/amp_articleshow/82019423.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25394,msid-82019448/file-photo-a-microsoft-logo-is-seen-in-los-angeles.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Microsoft Acquires Nuance to Enhance Healthcare AI, Cloud Strategy"
     excerpt: "The more than $19 billion acquisition will aim to expand artificial intelligence and cloud capabilities in healthcare."
     publishedDateTime: 2021-04-12T15:27:00Z
@@ -1282,6 +1266,20 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
         width: 1024
         height: 666
+        isCached: true
+  - title: "What to know about Microsoft’s Azure cloud strategy"
+    excerpt: "The global coronavirus pandemic has validated Microsoft’s hybrid go-to-market strategy that recognises the cloud is not a one-size-fits-all solution and providers must meet customers where they are on their digital transformation journeys,"
+    publishedDateTime: 2021-04-13T22:45:00Z
+    webUrl: "https://www.crn.com.au/news/what-to-know-about-microsofts-azure-cloud-strategy-563319"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210414094154_iStock-471179856.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Microsoft’s $20 billion AI deal will shake up how we work"
     excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."

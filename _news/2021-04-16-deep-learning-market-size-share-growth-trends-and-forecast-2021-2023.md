@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-siz
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
         width: 1500
         height: 840
+        isCached: true
+  - title: "Deep Neural Networks Market Share, Types, Applications, Products, Size, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-04-16T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-share-types-applications-products-size-growth-insights-and-forecasts-report-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
     excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."

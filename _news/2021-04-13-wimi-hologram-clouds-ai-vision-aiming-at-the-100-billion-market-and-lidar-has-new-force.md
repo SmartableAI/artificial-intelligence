@@ -36,7 +36,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 24
+    quality: 26
   - title: "WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface to Holographic AR Scenario, Making 5G+AI a Mainstream Technology"
     excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface"
     publishedDateTime: 2021-04-15T23:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-n
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Natural Language Processing Market Top Companies Data with COVID-19 Impact"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-16T07:48:00Z
+    webUrl: "https://industribune.net/uncategorised/62049/natural-language-processing-market-top-companies-data-with-covid-19-impact/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 17
 
 secured: "YHfr6SG/RrRwuHNV6qZLCnfLigZLb5Pi5WQrS9xcHa6s+GEoILNwo+0tHrzIBA5hd5mlNWjHnzPEbxgrDiczsVwAmalqZpDIT8N5i1pVqK03Ywvn3Pm5DoKAYVd+ZQ4pxKGqNlMkfyMQ2AERXJ4f9giPB/sKeYGpsxwYXfHQTDwlEiwmhJvVv/1bUnwzU8lUyATUZIEfr2MfML6zUYgw8yO1FSUDjRg4UXxiThkemjGawY7c5fvgtGMlMTmDIOJ4V5LjuY7Pb+qx56ImBFtDIoa2QROB/1RypiY42DCzJLpgu01PjB10fItZ997uzm7yAJ07CzUiOdoYQ1aweuQkoXSng9N2OxOGjeJ/BzRLXMPQjlW0UclwKqVDve//Aql2TTqkT2J48sHphzg0IuEZo+1rsA5pqNGrUvfEjkONtw60micS2UX6T+kIW4PVOoMfFaYGmIUJPlMZGGIkAYonyqLdjWsyGmTpjUOXDsMTQVbbPq6/hT7YDPzbQuPxtgVsfFCGC5XNLgpa85c4LAcVHA==;tdJdsA+nDg8btVsa5Fm1CA=="
 ---

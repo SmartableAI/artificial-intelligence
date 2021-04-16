@@ -125,6 +125,20 @@ related:
         width: 1500
         height: 840
         isCached: true
+  - title: "Deep Neural Networks Market Share, Types, Applications, Products, Size, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-04-16T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-share-types-applications-products-size-growth-insights-and-forecasts-report-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Machine Learning Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
     excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 33.5% during 2018-2023.Machine learning the ability of computers to learn through experiences to improve their performance."
     publishedDateTime: 2021-04-15T10:27:00Z

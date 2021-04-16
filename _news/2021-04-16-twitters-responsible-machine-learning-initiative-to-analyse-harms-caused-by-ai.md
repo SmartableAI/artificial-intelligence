@@ -29,20 +29,20 @@ images:
 
 related:
   - title: "Twitter analysing harmful impacts of its AI/ML algorithms"
-    excerpt: "Twitter said it will research and understand the impact of ML decisions In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning."
-    publishedDateTime: 2021-04-16T06:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms-239877"
+    excerpt: "Read Article In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,"
+    publishedDateTime: 2021-04-16T08:50:00Z
+    webUrl: "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
+    ampWebUrl: "https://www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: CRN
+      domain: www.crn.in
     quality: 76
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1828167481.jpg"
-        width: 724
-        height: 483
+      - url: "https://cdn.crn.in/wp-content/uploads/2019/05/13163815/Artificial-Intelligence.jpg"
+        width: 696
+        height: 465
         isCached: true
 
 secured: "nqE2PJbQaZ4fhiQFBlVTXYi0ldeBQbhHF/3xqZf9z3CxgUrdMtHMoj0JEASxIn9Rk37SczYInpf8CtH8OxiDzfIG/JSZc/bizzk+P61yLHgTRfKw5jHAcqUFoqyAC53oFvDSV8mMtVrU2UfzHdUTKS1H3RCsyO7KbOF1sf8lOW73qiunb9z6APUrT89GVSYwQ75hjiK1nHZpUlwGckFfJ5Q8maB3rGpnz5jMIaPHfIXOwy3kaLFpg9WtTivF9GvXztvDp+jSLPDy0MpD9hFTqufb2Dltvdam0+ZLxwGDaaFTAs2BnfrRjsPo72IaGOrbtUpvVQL6QYsG8TjaPPAIZJ1ItjFQCMKWSOxmOCnd8+ieaHAhZcCkLYJGqyGkFISZvflM13tC0N1XyNBJekQYSZdSi2Z0Wix7hF661x03gWYx5aSPT+2zzWchls7ek/L6XRBiABOfTu7GN6RnefxT5pNO7EcBvzz3elUxhBV9yXnQrMtDZ3phgxy/vu926eENO/hZVwdkA8qm4/faroh9pA==;4ZqEvLTHIPakXpJ06As6SA=="

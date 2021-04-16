@@ -41,6 +41,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Natural Language Processing Market Top Companies Data with COVID-19 Impact"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-16T07:48:00Z
+    webUrl: "https://industribune.net/uncategorised/62049/natural-language-processing-market-top-companies-data-with-covid-19-impact/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 17
 
 secured: "K1j5G7sVUjtF4t0mJAOevz2rfnYyCoYVq2nf4LkSPiBSTjQYu/gtBW7LeVvPSpTlxAGug3ypDETTgt0gcLhTtUWNIBebaJBS+daSYpbQMl6U4+Hrvk2tlHbXJby9HEJYLzRnYwsL5ktcgeF/RJy7vqdHS/02PDP0D3opj2CquYbiye/mhJ5kYq3n8bxbWlQLFdojT8IEn7ZYGr+yrqzUxaKm5p7xf42dZApgk8VnJZG3Ci1D8m12ZcG8EXacG3JkrY7c9BY/Su6HnNmAk13GN9eLYC+9TWZLatQ8Q0KrQb3kOCzgwSN6mgbeWIGHkcSIlyRfft1wb/aTxlEuGWsONyfq001JuywXr1Y84lEgosc=;EKxDK596nZfAiH5v23ZgpA=="
 ---

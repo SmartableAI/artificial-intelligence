@@ -130,6 +130,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
+    excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
+    publishedDateTime: 2021-04-16T08:32:00Z
+    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
     publishedDateTime: 2021-04-15T18:55:00Z

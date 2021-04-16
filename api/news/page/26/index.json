@@ -2,6 +2,143 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-26-when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live.md",
+      "title": "When AI flags the ruler, not the tumor — and other arguments for abolishing the black box (VB Live)",
+      "excerpt": "One of the big issues that exists within AI generally, but is particularly acute in health care settings, is the issue of transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
+      "originalUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-565782633.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
+      "publishedDateTime": "2021-03-25T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-self-driving-car-from-lawyer-frederick-penneys-perspective.md",
+      "title": "Self-driving Car From Lawyer Frederick Penney's Perspective",
+      "excerpt": "SACRAMENTO, Calif., March 25, 2021 /PRNewswire/ -- On March 18, 2018, the first known automobile accident death by a self-driving car occurred in Tempe, Arizona where a Volvo XC90 SUV struck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/self-driving-car-from-lawyer-frederick-penneys-perspective-301255886.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/self-driving-car-from-lawyer-frederick-penneys-perspective-301255886.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443473/Frederick_W_Penney.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-lightning-to-lightbulb-accelerating-canadas-ai-opportunity.md",
+      "title": "Lightning to lightbulb: accelerating Canada’s AI opportunity",
+      "excerpt": "From quantum neural networks and automated machine learning (AutoML), to AI for drug discovery and natural language processing, the path to future innovations and commercialization is charted by a small subset of the global technology talent pool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/YNREtAct2uvFmaer5Dezrd-yiMg=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X6IVKDUQCVEQXO2OXMQPBGZNQU.JPG",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "publishedDateTime": "2021-03-25T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-nutanix-recognized-as-a-gartner-peer-insights-customers-choice-vendor-for-distributed-file-systems-and-object-storage.md",
       "title": "Nutanix Recognized as a Gartner Peer Insights Customers’ Choice Vendor for Distributed File Systems and Object Storage",
       "excerpt": "“To us, being recognized as a Gartner Peer Insights Customers’ Choice for Distributed File Systems and Object Storage shows the strengths of our solutions and the value they provide to customers.” This Customers’ Choice recognition is based on ...",
@@ -1050,143 +1187,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?M_BT=463335478464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-25T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-disney-is-testing-facial-recognition-at-walt-disney-world.md",
-      "title": "Disney is testing facial recognition at Walt Disney World",
-      "excerpt": "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "originalUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/q45zCE4UrFXeuPy83ZOAi7TPFlo=/0x0:4116x2741/1400x1050/filters:focal(1729x1042:2387x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69023404/AP20332570049737.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "publishedDateTime": "2021-03-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret",
-        "domain": "deseret.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-blackskys-latest-satellite-delivers-first-pictures-and-ai-insights-just-hours-after-launch.md",
-      "title": "BlackSky’s latest satellite delivers first pictures (and AI insights) just hours after launch",
-      "excerpt": "BlackSky says the latest Earth observation satellite in its growing constellation delivered its first imagery less than a day after it was launched into orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "originalUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Perth-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "publishedDateTime": "2021-03-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

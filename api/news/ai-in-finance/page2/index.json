@@ -2,6 +2,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
+      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
+      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
+      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.worldfinanceinforms.com/wp-content/uploads/2020/01/Digital_banking-1.jpg",
+          "width": 700,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-atidot-appoints-valentina-isakina-as-senior-advisor.md",
+      "title": "Atidot Appoints Valentina Isakina as Senior Advisor",
+      "excerpt": "TEL AVIV, Israel--(BUSINESS WIRE)--Atidot, an innovative AI & Machine ... Director, Financial Institutions for JobsOhio, leading digital transformation for the Ohio financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210323005065/en/Atidot-Appoints-Valentina-Isakina-as-Senior-Advisor",
+      "originalUrl": "https://www.businesswire.com/news/home/20210323005065/en/Atidot-Appoints-Valentina-Isakina-as-Senior-Advisor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-hes-fintech-and-ondato-are-now-partners-to-promote-digital-onboarding-in-banking-and-finance.md",
       "title": "HES FinTech and Ondato are Now Partners to Promote Digital Onboarding in Banking and Finance",
       "excerpt": "and Co-Founder of HES FinTech. “We are looking forward to discovering new opportunities together with HES. They are experts in lending software and AI/ML-based decision-making solutions. Our major goal is to help lenders scale up their activities and ...",
@@ -1266,84 +1345,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-app-di-fintech-luso-dei-dati-personali-per-molti-e-un-mistero.md",
-      "title": "App di Fintech, l'uso dei dati personali per molti è un mistero",
-      "excerpt": "Che fine fanno i dati personali transitanti dalle applicazioni e piattaforme Fintech per i pagamenti digitali? Un fruitore su due di questi servizi non sa rispondere, ma ciononostante continua a usarl",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
-      "originalUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ictbusiness.it/files/2021/03/immagini_contenuti/45353/icona_t.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IctBusiness",
-        "domain": "ictbusiness.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
-      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
-      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

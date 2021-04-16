@@ -50,7 +50,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 24
+    quality: 26
   - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
     excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
     publishedDateTime: 2021-04-13T02:02:00Z

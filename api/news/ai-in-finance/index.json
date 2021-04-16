@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification.md",
+      "title": "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification",
+      "excerpt": "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
+      "originalUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
+      "publishedDateTime": "2021-04-16T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
       "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
       "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
@@ -455,6 +499,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-technologies-for-improved-banking-services.md",
+      "title": "MOYI Collaborates with China Construction Bank New York Branch for Research Effort Focused on New Technologies for Improved Banking Services",
+      "excerpt": "In addition, for the financial institution and its treasury services, MOYI will develop a machine learning engine that will allow the bank to better price its various products. To learn more about the innovative services of MOYI, visit them online at https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20499620/moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20499620/moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20499620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20499620",
+      "publishedDateTime": "2021-04-06T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1287,85 +1365,6 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
-      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
-      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.worldfinanceinforms.com/wp-content/uploads/2020/01/Digital_banking-1.jpg",
-          "width": 700,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-atidot-appoints-valentina-isakina-as-senior-advisor.md",
-      "title": "Atidot Appoints Valentina Isakina as Senior Advisor",
-      "excerpt": "TEL AVIV, Israel--(BUSINESS WIRE)--Atidot, an innovative AI & Machine ... Director, Financial Institutions for JobsOhio, leading digital transformation for the Ohio financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210323005065/en/Atidot-Appoints-Valentina-Isakina-as-Senior-Advisor",
-      "originalUrl": "https://www.businesswire.com/news/home/20210323005065/en/Atidot-Appoints-Valentina-Isakina-as-Senior-Advisor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

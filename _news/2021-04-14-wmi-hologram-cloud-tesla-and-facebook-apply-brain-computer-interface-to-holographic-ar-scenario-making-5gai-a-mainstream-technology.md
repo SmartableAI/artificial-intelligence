@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/04/g20623913/wmi-hologram-clo
 ampWebUrl: "https://amp.benzinga.com/amp/content/20623913"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20623913"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - AI in Autos
+  - Facebook AI
 
 related:
   - title: "WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has 'New Force'"

@@ -2,6 +2,151 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-01-computer-science-and-artificial-intelligence-laboratory-csail.md",
+      "title": "Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "excerpt": "Leveraging research done on campus, student-run MIT Driverless partners with industry collaborators to develop and test autonomous technologies in real-world racing scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/clp/csail",
+      "originalUrl": "https://news.mit.edu/clp/csail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
+      "title": "Supply Chain Strains Sharpen Focus on AI",
+      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "publishedDateTime": "2021-03-31T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-auditoria-raises-155m-to-expand-ai-platform-automating-repetitive-accounting-tasks.md",
+      "title": "Auditoria raises $15.5M to expand AI platform automating repetitive accounting tasks",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Auditoria, a startup offering AI-driven automation products for corporate finance teams, today announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "publishedDateTime": "2021-03-31T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
       "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
       "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
@@ -1054,145 +1199,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
-      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
-      "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
-      "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gtc21-spring-sm-4-topics-collage-2-1200x600-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
-      "publishedDateTime": "2021-03-31T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-announces-its-next-gen-armv9-architecture-focus-on-security-ai-and-vector-processing.md",
-      "title": "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing",
-      "excerpt": "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
-      "originalUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/03/arm-v9-announced/inline/-1200/gsmarena_001.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
-      "publishedDateTime": "2021-03-31T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

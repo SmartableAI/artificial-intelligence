@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-star
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
 type: article
 quality: 101
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
+    excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
+    publishedDateTime: 2021-04-16T08:32:00Z
+    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
     publishedDateTime: 2021-04-16T03:10:00Z

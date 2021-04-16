@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/chinese-court-upholds-face-
 webUrl: "https://www.biometricupdate.com/202104/chinese-court-upholds-face-biometric-data-collection-complaint-verdict"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification"
+    excerpt: "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them."
+    publishedDateTime: 2021-04-16T08:00:00Z
+    webUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/"
+    ampWebUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 69
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Society dictated your face, according to biometrics research and a patent"
     excerpt: "It seems that algorithms can identify someone's name solely by examining a photo and if accurate, the premise could be used in facial recognition algorithms."
     publishedDateTime: 2021-04-12T20:37:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/29144433/face-photos.jpg"
         width: 1140
         height: 760
-        isCached: true
-  - title: "Juniper predicts 1.4 billion software-based face biometric payments users by 2025"
-    excerpt: "While face biometrics use for payments is rising, in 2025 the technology will be in 17 percent of biometrically equipped phones compared to fingerprint sensors."
-    publishedDateTime: 2021-04-13T19:43:00Z
-    webUrl: "https://www.biometricupdate.com/202104/juniper-predicts-1-4-billion-software-based-face-biometric-payments-users-by-2025"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/03132543/46BCFF71-1A95-432B-A8E3-053985110F06.jpeg"
-        width: 800
-        height: 495
         isCached: true
 
 secured: "cPDEIJoJCq7w31r9dJ7EuCInUvb1KEsTqnP9UaDJZATkVAkvdyAcD5LdA/9PbRoPwv+bcqiTexUI5BzrTma23W1wesfkkfcujyWAD9ku6Uz41/ch97OpCnKuDJnMX00KfW/zAFLFHLigZSz4eHlkPE1AriMvmimUha0csT4TOOZkprLJ2lNtM0uZzGcCgQtTz9DawtihO2trom0HaJ94yLnyMaSKtzOltt6kwg1jdRmaF/Jr3H2b7SRzyqc6PHIIWCU6gu1hApOjQm4cUgVQem7mu158b1lDqHn7bXrbxDz5DTZJ82jzflJjRQAQFnReaUdxShH9i2/Rrcb4jLNeNwkLCkb7AD4DW+YrxLq3jpU=;LUdEouidm/mYadfIUmsKEA=="

@@ -47,6 +47,22 @@ related:
         width: 995
         height: 636
         isCached: true
+  - title: "Ocado to invest £10m in driverless vehicle start-up Oxbotica"
+    excerpt: "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries."
+    publishedDateTime: 2021-04-16T09:38:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 61
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "7DBRwEJi2pex40UTCvXMmPYBWkLgSYK9L2T76S/arNpvoYrSMmv5eQM4eNQaZdLV/0/aw93GoEG4KB97vP1R2IRHMd8opNKBqPgJje05JOgaJ3sFkmETl3BYuT+psv2LkhTu5auZv6Ydp1zOz+jG0SFX2xkw+RpnfsqJ3GVQjYunU6/9hTW3RMJaHbwz/x6n3jnB4ppvd8gS9SVxaadZYCKz4rfR4CzN6v84TG4qC8t2hHMzNk68i7MnJATLvcBt5bFDAIxDPWIfTOtFS9JWa734hRpAylve0DziD94bbmnkj10p+v/rBkuGqI3kSfiJifBnHh8Du63mebCjuah8h4eZX3ISNh03fFd3Dai2AXuJd25v7sWDWH+Rwa51qisOPiOm/dzTIGXP+CNxT9vtuDunfhZXQlyX+6uQYhSUFekFdqFiwWBPIyHAoqzC9pfJq+4L+rS3rykygGeQD5vyYpByULQXxOsWZ2THfrZ1ER9oR2pFGx+kQ2HZdGsVrXIPQEzrDoTML5P4+OZKiyVxjA==;trPaE/vw9JFRWqdZj3htNw=="
 ---
