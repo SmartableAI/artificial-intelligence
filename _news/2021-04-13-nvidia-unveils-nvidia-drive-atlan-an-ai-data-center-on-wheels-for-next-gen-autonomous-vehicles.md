@@ -86,6 +86,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Grid.ai launches platform for training AI models on the cloud at scale"
+    excerpt: "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure."
+    publishedDateTime: 2021-04-13T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/"
+    ampWebUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
     excerpt: "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. During its GTC 2021 virtual keynote this morning, Nvidia announced Morpheus, a “cloud-native” app framework ..."
     publishedDateTime: 2021-04-12T16:32:00Z

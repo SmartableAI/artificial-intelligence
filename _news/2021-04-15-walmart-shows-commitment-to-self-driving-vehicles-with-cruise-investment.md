@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
+    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
+    publishedDateTime: 2021-04-15T21:45:00Z
+    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
   - title: "Walmart invests in self-driving startup Cruise"
     excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
     publishedDateTime: 2021-04-15T18:19:00Z

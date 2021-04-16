@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-drivi
 webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
 type: article
 quality: 54
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
+    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
+    publishedDateTime: 2021-04-15T21:45:00Z
+    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
+        width: 1999
+        height: 1125
+        isCached: true
   - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
     excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
     publishedDateTime: 2021-04-15T14:56:00Z

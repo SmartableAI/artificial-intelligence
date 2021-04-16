@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
-excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
-publishedDateTime: 2021-04-15T17:32:00Z
-originalUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
+excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
+publishedDateTime: 2021-04-16T03:10:00Z
+originalUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
+webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
 type: article
-quality: 58
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
-    width: 1024
-    height: 576
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
+    width: 718
+    height: 400
     isCached: true
 
 related:
@@ -91,6 +89,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
+    excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
+    publishedDateTime: 2021-04-15T17:32:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
     excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
     publishedDateTime: 2021-04-14T10:42:00Z
@@ -116,20 +130,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
-    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
-    publishedDateTime: 2021-04-16T03:10:00Z
-    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
     publishedDateTime: 2021-04-15T18:55:00Z
@@ -163,6 +163,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "v7OOSMlKPfKW9GcidOFSorCNOBGl6VgyucuimmnKq7gPhJqJUXy8ylWM1AwKxtKlkq//6sBjit9LbIbrLPaQC2bSN7kOq86CRUxEKn2BlPOBArdy5/wbwtI63m1X5/l6gfyXyqsnkS8GIshUxw/0LGT+waAGxboejJcyXyyoMDiRa1o65n5w2IOk2mw+8/roZcCqhWAMmFA30xZKRW3WolHs+UY0yYcRNkr/FtN0Xaubnl1zU9snXpa41I4gBkHuHoKPRziPS1g6DwIofUOm5yPTeyuTVKe+VRF2wOjVqz2YA2lg2ZlQPKmn7uuEjNk6p/4MJYQ6aS82ZlzamORqtPnbYrJ9e/NEJgizmWVqIco=;5f9aE2trzruQQFJPiyrFng=="
+secured: "oQBsYhf1ZcEjyb5WAWg1qP41cjbqF+ITmXttBL/z/gC2vthajbm2GXMPNTOvCMJEaTuviwIDmFGNqM0IYw5tiz1mCNIcHzKka987F/41g/SXZvPimTrbEoWz2TAANbY1ZdyJkVlXsZWzP8xZDrC3YUfPM5FioijKUmWkWhSF1iisntqYGdp+w1AjlcAFYfKyh0rB+OeDV0xJPAgw8kw4M5bDpmPM0Ld47xClzrN1IqRxBn2XTgcXaI8vuCA0Jw++lui37HUaSdhaOfP/Ao4pEd+qIvIsVxGKK2Y+SmnYT5yVaxMPkHYS/q72MMv4XgKsGgcduk491TOr3sGNJfGZLyl/ofEtsQk/G7eGdinlUQI=;4UKMa5wnMUH1rA/zgHZWIg=="
 ---
 

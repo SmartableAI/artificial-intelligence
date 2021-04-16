@@ -35,6 +35,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
+    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
+    publishedDateTime: 2021-04-16T01:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
+        width: 300
+        height: 298
+        isCached: true
   - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
     excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
     publishedDateTime: 2021-04-15T13:00:00Z

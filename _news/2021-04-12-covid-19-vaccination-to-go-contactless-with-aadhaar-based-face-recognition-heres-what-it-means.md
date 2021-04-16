@@ -84,6 +84,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "We embody the idea of Make in India: IBM India MD"
+    excerpt: "In a candid conversation with Fortune India, IBM India’s MD, Sandip Patel opens up about the company’s business strategy, its R&D efforts, and how it plans to push the idea of Make in India forward."
+    publishedDateTime: 2021-04-12T17:18:00Z
+    webUrl: "https://www.fortuneindia.com/technology/we-embody-the-idea-of-make-in-india-ibm-india-md/105393"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2021-04/aa3fde62-d250-4c4f-b5b3-58b104713e03/DSC02994_copy.jpg?w=700"
+        width: 699
+        height: 406
+        isCached: true
 
 secured: "NXf8L0PtuS63FhlJqpa0rlQJIwbJ00osI+FBDvZLmjBLw017mV9xKW8niPI0Hz2ZV9qubbyD68BCD2g387Rm0E3HlICBiQSCvEY+fjLnxbqrfRBVamd5dcjl5dU7ib/gV8dwOY7ZboKl/rALTPavKblVkAcgC4bH4avmsW5jvq3M4E5VBFkCwjyB2k06Jq/v9yckyW0m61GhPqMeBqh1YHTYg1oo2hFygnA1o2f8Gwb8u5TDMQz450twqs79C3TmH1TeJ9uedLHeAU6NyK9ko8m3L7fTW5vnr6yQcLteZ2ZepxmqdQ6p7n8CKj4tKN2HaFKBo9SvvlYT3YCLkdAUo1jbqjIlI0ebnWY3xZj4910=;pnM4ccU4GmQpAXOIHs0KXg=="
 ---

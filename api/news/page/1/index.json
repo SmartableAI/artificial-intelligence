@@ -80,6 +80,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-walmart-invests-in-self-driving-car-start-up-cruise-to-expand-last-mile-delivery-ecosystem.md",
+      "title": "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem",
+      "excerpt": "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html",
+      "originalUrl": "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg",
+          "width": 1999,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html",
+      "publishedDateTime": "2021-04-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society.md",
       "title": "Coded Bias: An Insightful Look At AI, Algorithms And Their Risks To Society",
       "excerpt": "Coded Bias is Netflix’s deepest dive yet into the state of artificial intelligence, and the issues it confronts are uncomfortably relevant.",
@@ -139,7 +191,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -181,58 +233,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-walmart-invests-in-self-driving-startup-cruise.md",
-      "title": "Walmart invests in self-driving startup Cruise",
-      "excerpt": "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/",
-      "originalUrl": "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -390,7 +390,7 @@
       "originalUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",

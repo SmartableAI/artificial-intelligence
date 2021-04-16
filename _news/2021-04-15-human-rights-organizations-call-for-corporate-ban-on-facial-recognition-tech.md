@@ -41,6 +41,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
+    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
+    publishedDateTime: 2021-04-16T01:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
+        width: 300
+        height: 298
+        isCached: true
   - title: "Over 1.4 bln to use facial recognition for payments by 2025"
     excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
     publishedDateTime: 2021-04-12T09:38:00Z

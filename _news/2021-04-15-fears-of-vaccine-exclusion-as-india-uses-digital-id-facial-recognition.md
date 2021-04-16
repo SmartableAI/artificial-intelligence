@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
         width: 880
         height: 542
+        isCached: true
+  - title: "We embody the idea of Make in India: IBM India MD"
+    excerpt: "In a candid conversation with Fortune India, IBM India’s MD, Sandip Patel opens up about the company’s business strategy, its R&D efforts, and how it plans to push the idea of Make in India forward."
+    publishedDateTime: 2021-04-12T17:18:00Z
+    webUrl: "https://www.fortuneindia.com/technology/we-embody-the-idea-of-make-in-india-ibm-india-md/105393"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2021-04/aa3fde62-d250-4c4f-b5b3-58b104713e03/DSC02994_copy.jpg?w=700"
+        width: 699
+        height: 406
         isCached: true
 
 secured: "zkg3jZj5kxEOBRPgPvHqbBg/1PUiIQR52vH7pMdidH4eRHjigDJaPFrnnCu6uhhSdXQHQzPDboateJk5HHtXF3Ec72qwjv1N8AqXrmlhYCImuXPjKqCEhWgVohFywPN1FOA+qMQjmX78uM9XVGxkkQn4UvphLG5x2rLC7SNQ3H7baKFFU32FguakdnVhExS4e2cOpkRvFUpx9rlIut+NN0k88tHG3/kvSi0WxGO4Wvz29uAwnDp8EYpWO0DeJv2xD9URPOWLz25PB9hDndRDpo2vJ13dwRiURLiDW4MVuAlsqLtx3B1OCDtbXZxg8OUUl6WVfk+Duz80Uh93PnPuy+WT8/oOaPEZvVroTvHmu3c=;E/s/4r4/2MBQd1jaT8g7Yw=="

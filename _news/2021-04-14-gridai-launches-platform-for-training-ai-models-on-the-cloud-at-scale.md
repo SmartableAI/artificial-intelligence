@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
-excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
-publishedDateTime: 2021-04-13T16:32:00Z
-originalUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-rolls-out-slew-new-ai-hardware-data-centers"
-webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-rolls-out-slew-new-ai-hardware-data-centers"
+title: "Grid.ai launches platform for training AI models on the cloud at scale"
+excerpt: "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure."
+publishedDateTime: 2021-04-13T19:00:00Z
+originalUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/"
+webUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/"
+ampWebUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Data Center Knowledge
-  domain: datacenterknowledge.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx%20superpod%20supercomputer.jpg"
-    width: 1420
-    height: 747
+  - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -87,22 +92,6 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Grid.ai launches platform for training AI models on the cloud at scale"
-    excerpt: "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure."
-    publishedDateTime: 2021-04-13T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
-        width: 1000
         height: 600
         isCached: true
   - title: "Nvidia announces Morpheus, an AI-powered app framework for cybersecurity"
@@ -282,6 +271,20 @@ related:
         width: 2000
         height: 1250
         isCached: true
+  - title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
+    excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
+    publishedDateTime: 2021-04-13T16:32:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-rolls-out-slew-new-ai-hardware-data-centers"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 39
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx%20superpod%20supercomputer.jpg"
+        width: 1420
+        height: 747
+        isCached: true
   - title: "NVIDIA Launches Grace CPU to Bring Arm Efficiency to Massive AI Workloads"
     excerpt: "For now, the battle is being waged at the very top of the HPC market, as Grace is designed for AI supercomputing involving enormous ... we’ll be able to deliver advanced scientific research using high-fidelity 3D simulations and analytics with data ..."
     publishedDateTime: 2021-04-12T16:24:00Z
@@ -459,6 +462,6 @@ related:
         height: 393
         isCached: true
 
-secured: "bxotbK3Ql8Amd9oNVZg22CkYtcZOj1/ciT0M1NMCCOqBunsvo7Yu/8fsyjCECvuHzsfuEr1L6BGX8Viu1cH2ebtrTyDsOBIL5rQ/JsfrwCxvLwaZ0nsgFOvkZCii1I4mSN7TEXsyv6nqI2J5AberLS1v9syMhoQrML6uCsf5iidwPhpyAif5TnRX5C+POya0aixk06cXnWAUze3kk3rnUDsTvinVrq/LtqOhovOQ5eLMVi4dkYTmtBqSQwneDYNR3eA5EMWA3a/AydO4g6yQQiCEZ69Njk9H+NVG08HN4y5HFusUwLN+YGSADZHzg9ZjCiKxhbsUv2ya73jud5DyD6eqQuvQujfcO1fuX/Th3I2ewAtccwIOs7JHvvZ987z16OkwzOUKuYlATrmk+JkzzlVb9FRImkgkjoYGPtW6VoUs/NIkcdljy3+WdEqQFI902sfUmoenE/9K58AxrHRebFrA2UQdQHQr0SjG/iHRnqv9lESavPoYFjFd9IUsYnudRI70h4L9STxuqGIY/bnWaw==;yhma0Vv8MRN8s8vOjkGX1A=="
+secured: "iMUWc3BtexEU99g1KZ1jaCH0vIWPDxgX5pde0dKG2qYzOt/Zy3yH5kfOfQPNxh69MVYz2tosouFRWODo7dFgMIRXvFWtGpgWTrCUm//4MmVXJ7E3tI3IoWUwe95v5X6fje+EbMOl60THNn0lumrHwcNhPKkZqhaueulSqubR5wqM9y+uR3Z+1EEvWpvNqjOjVhj7zyBX64MT8POO2ntft17+tOi9LHRD4l+NrnO9zBMaQ7V87d1IKwKl1EkloxhwmT6qy/ItXSsIXDY+DBzJlv6lsQ7659Vx8HqBhWk05zT1dBmn4ckLMb3fczXTfPGhvethG5DoWTHIgkkTPNaE1oFLea7aRgBqXhfMZYoPlNU=;vndG7ko0or86WpvkIMV2nA=="
 ---
 

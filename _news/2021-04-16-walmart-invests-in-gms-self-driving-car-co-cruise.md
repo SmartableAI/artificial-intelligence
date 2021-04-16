@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
-excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This"
-publishedDateTime: 2021-04-15T18:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/walmart-invests-in-gm-s-self-driving-car-co-cruise-1030310058"
-webUrl: "https://markets.businessinsider.com/news/stocks/walmart-invests-in-gm-s-self-driving-car-co-cruise-1030310058"
+excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
+publishedDateTime: 2021-04-15T18:14:00Z
+originalUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
+webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -157,6 +153,6 @@ related:
         height: 600
         isCached: true
 
-secured: "M4Ocrv1yxiHb3uNVfIS1x4WJ96w/13B2zXgvuDK8a/zAYNsDGY2nrqFVXojm5M1i+oY88GyTCMUivZVGZdSBKfWzvNcbCiFZPHgkX3f1cjVLBgoKL3Lt5z2JmoNw61hoyfSn+smaA8D37ztrLsWolHrs7oFoLsZ12eHG/qpU2xitVTBf7Ee6h2W84dz3yobwT4Gk52HyAQPLpoLm8pfunUDeH5+BS03T8IgkbUmfMSGuqkl0dqx4Sm1jaXynC1Uv4RJ8UCOQ3us76Tmgg465Gz1anzG7Xjnch7m2U9zX2DbOUoLKqpsYzzysgecOdR2j7MkkX77plm/JTktsE8UaoyZ5/Ga80VXY9s9unEjyPyA=;P5QTO2Be6KTXNUO5VT+rkg=="
+secured: "Y79qJow8N6D0gnMQCCztMiDk5z0oWanyxtgRCKKegVKBvGQDo/R8q1vF2aciDLnWqItYybW04CpbzcNMaFKbiSy08WenyHtcHGfpWHsAmMQcPJzToDobLvw8MEBfdN9hpiCYWyowiNs6Ry9aZ7hgUH6GigCJQKzWh3fQ6qlZTDzxlMk4ZQRba9a/RmD+xZ+lgYcQ3uVXNhg97Ye8MWaikrZtMI3XGJnYkz0jQL1JtjydojGV9wDfcNQU2unfBA9rdZmgUd4ijcufZ+hg7XqAJyIq7ZtixqBMFvNmDJoxZ6nqr/6iNaSfkS5rcOX3L4WQ3XjfzhCKh/HcwKdw4JFVMcXkJQvr81ggeTha2HRO9Qs=;dtXdwdQFFr730+566AGlGw=="
 ---
 

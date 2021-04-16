@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Over 1.4 bln to use facial recognition for payments by 2025"
-excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
-publishedDateTime: 2021-04-12T09:38:00Z
-originalUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
-webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
+title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
+excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
+publishedDateTime: 2021-04-16T01:47:00Z
+originalUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
+webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
+ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
 type: article
-quality: 21
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
+    width: 300
+    height: 298
+    isCached: true
 
 related:
   - title: "Facial recognition could soon let you pay for all your mobile purchases"
@@ -36,22 +44,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
-    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
-    publishedDateTime: 2021-04-16T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
-        width: 300
-        height: 298
-        isCached: true
   - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
     excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
     publishedDateTime: 2021-04-15T13:00:00Z
@@ -66,6 +58,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Over 1.4 bln to use facial recognition for payments by 2025"
+    excerpt: "The number of users of software-based facial recognition to secure payments will top 1.4 billion globally by 2025, up from 671 million in 2020, according to a report from Juniper Research. The 120 percent growth will be fuelled by the low barriers to entry of the technology and the popularity of Apple's FaceID software,"
+    publishedDateTime: 2021-04-12T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/over-14-bln-to-use-facial-recognition-for-payments-by-2025--1379059"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 21
   - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
     excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
     publishedDateTime: 2021-04-12T06:00:00Z
@@ -76,6 +77,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VdH0MUTQaItiYj8bQLU3XXYlXFlvpuAO/qsaQFg3AA+l+6Heq2agS6IUYKnp+hDWj9HbBNusj2FSHDn7x8z7pvFvmu9xhCGMfsE59wu1jEH6WvKI8BVtJ+JI+RcYAszRVm3Ec/MboaaNJGGDIuiNw1DdA23aTgFOdZSJe1880Uw0z/hGFr/begle0e0V3glCpQy8IEzOzx9t4mNqvEpukp27qIJ/SAcPGPDigvz6U+biW0cXsBSZYpRf+lETCT1ejFZzTPCfGde9i8FWM4sI0gPqJqb32YaznT+sY49p+mw7l3OKxOPwKgaqE1Hl411CgLl+NqVP/SSxuut/gf3IURoPXNSB5tQDha5lJgkMJ9s=;tOema4QJIIBG+SIaHhEQbg=="
+secured: "CweAyqpweIoRhlbXHqhinOW191KN2oepa9stDEyNzelyPdtk4+rsvI0R03hPCcUebUoMmtrII2lcy8ivD2iznrGbPl2kVDz+lcCq/E+HCUhKF+WYZbEnm3GjyIIluRScAN6VZjR+7QoR98zdGlTgmDDnQeOLqCbrfBLI5AhodHl26m/53sIHDxJxU6yywa2mjNfl+DGfvLAPB4cu2wdPLzZvKk+ycLkSKIfuDD03+NCor6SBO8mdnAme2gANT9kND1dIs+SGsxIoFWnwCTapfexcewbBGtLXHmubdLgWvGGpAt+FbObipy7d/ZXGUwJYSB0q9y79icUvkog/7mWzQG8RmOKGUa/9otmo9nB/m1E=;MjPnT64s/ansWhMC8knjZw=="
 ---
 

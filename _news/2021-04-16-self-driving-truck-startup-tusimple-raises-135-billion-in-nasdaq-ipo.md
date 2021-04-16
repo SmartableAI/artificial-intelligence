@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
-excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
-publishedDateTime: 2021-04-15T17:32:00Z
-originalUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
+excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
+publishedDateTime: 2021-04-15T20:36:00Z
+originalUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
+webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
+ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
 type: article
-quality: 58
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
-    width: 1024
-    height: 576
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
+    width: 457
+    height: 274
     isCached: true
 
 related:
@@ -75,21 +75,21 @@ related:
         width: 1184
         height: 828
         isCached: true
-  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
-    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
-    publishedDateTime: 2021-04-15T20:36:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
+  - title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
+    excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
+    publishedDateTime: 2021-04-15T17:32:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 58
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
     excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
@@ -163,6 +163,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "v7OOSMlKPfKW9GcidOFSorCNOBGl6VgyucuimmnKq7gPhJqJUXy8ylWM1AwKxtKlkq//6sBjit9LbIbrLPaQC2bSN7kOq86CRUxEKn2BlPOBArdy5/wbwtI63m1X5/l6gfyXyqsnkS8GIshUxw/0LGT+waAGxboejJcyXyyoMDiRa1o65n5w2IOk2mw+8/roZcCqhWAMmFA30xZKRW3WolHs+UY0yYcRNkr/FtN0Xaubnl1zU9snXpa41I4gBkHuHoKPRziPS1g6DwIofUOm5yPTeyuTVKe+VRF2wOjVqz2YA2lg2ZlQPKmn7uuEjNk6p/4MJYQ6aS82ZlzamORqtPnbYrJ9e/NEJgizmWVqIco=;5f9aE2trzruQQFJPiyrFng=="
+secured: "2KSVBSPCp3hf73zaY9PuBuQhgg+pDPjzL8X09tWBwusRTVqIo+kcLQfXhwhEEVWbhy6Qa5bVujCrGr33y6oArJmz8FICGvEznUpElXD8P6yXn2Vc2JTa3y2oZ7FPc0wA8Y+UdEFayXdpsiwWHmayXHu0Nkr5CUY598PgRdIyVpGsYSzY0uwgcctyZpp7x8GdMmsNb4oTeZgmDy8Omxyzxvhs6e8jf59B1noJNu9xHwDDcH2OvYHVWVC+7zH/BtJkGpjNTmtIFpLCXHpeQB2z844Ua9HclYCi3giKiv7+pGCMqkIU5vKyRfMtlP4zUmFWn3WO8Na74CnIMiAVIL/fZFBnPT3s9E+UJLiiYqc6AfA=;IcC4IFY0tXlRiWSFy/f9rQ=="
 ---
 
