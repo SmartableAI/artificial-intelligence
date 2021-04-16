@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-16-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
+      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
+      "excerpt": "“Experiments show that one can use the face-blurred version for benchmarking object recognition and for transfer learning with only marginal loss of accuracy,” the team wrote in an update ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/imagenet.png?w=1200&strip=all",
+          "width": 998,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "publishedDateTime": "2021-03-16T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event.md",
       "title": "ValleyML is launching AI Expo 2021. The Premier AI and ML Industry Event!",
       "excerpt": "Valley Machine Learning and Artificial Intelligence (ValleyML.ai) is organizing \"AI Expo 2021\" as a three-day virtual event with nine program tracks on",
@@ -1135,58 +1187,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
-      "excerpt": "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

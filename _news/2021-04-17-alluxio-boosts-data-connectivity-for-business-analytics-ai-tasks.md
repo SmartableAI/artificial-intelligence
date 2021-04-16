@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-16T19:21:00Z
 originalUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
 webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"

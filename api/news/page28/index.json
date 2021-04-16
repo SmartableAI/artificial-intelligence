@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-25-you-have-the-most-beautiful-fangs-text-writing-ai-is-trained-on-thousands-of-pickup-lines-to-create-its-own-opener-are-they-any-worse-than.md",
+      "title": "'You have the most beautiful fangs': Text-writing AI is trained on thousands of pickup lines to create its own opener. Are they any worse than yours?!",
+      "excerpt": "GPT-3, a powerful language-modeling program, was trained to create unique pickup lines that include 'Do you like pancakes?' and 'I will summarize Back to the Future II for you.'",
+      "sourceUrl": null,
+      "webUrl": "https://janellecshane.substack.com/p/gpt-3-tries-pickup-lines",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9397979/AI-comes-original-pickup-lines-results-hilariously-awful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2c7c912-2468-4adf-b37c-57d1339a2153_489x489.png",
+          "width": 489,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-the-trevor-project-enlists-googles-ai-to-help-combat-the-lgbtq-suicide-crisis.md",
       "title": "The Trevor Project enlists Google’s AI to help combat the LGBTQ suicide crisis",
       "excerpt": "To accomplish this, the group’s AI division turned to the experts at Google.org to help with funding and know-how. Their combined efforts produced a novel training system called the “Crisis ...",
@@ -1069,58 +1112,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-salesforce-introduces-ai-powered-features-to-improve-meetings-and-identify-sales.md",
-      "title": "Salesforce introduces AI-powered features to improve meetings and identify sales",
-      "excerpt": "Salesforce introduced new features in Sales Cloud, including AI-powered meeting insights for video calls and models for opportunity scoring.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/",
-      "originalUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/amp/",
-      "publishedDateTime": "2021-03-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

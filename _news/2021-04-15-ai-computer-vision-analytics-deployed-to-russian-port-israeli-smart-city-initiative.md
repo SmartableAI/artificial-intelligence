@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
+    excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
+    publishedDateTime: 2021-04-16T19:21:00Z
+    webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
+        width: 611
+        height: 343
+        isCached: true
   - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
     excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
     publishedDateTime: 2021-04-14T08:30:00Z
@@ -68,20 +82,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art-11.jpg"
         width: 1004
         height: 591
-        isCached: true
-  - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
-    excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
-    publishedDateTime: 2021-04-16T19:21:00Z
-    webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
         isCached: true
 
 secured: "VwxgmMh+snmUTkwuOGs1kCQFiR2vUHsob2d1S53Mhnwd4eefkH45Ik8paTEM6j9Ijp6dHXv2DpD5auirHvXUlfoIIkgJaYCpVjA4nl6O5G780kW4asqg48RLYdcewW2RQcDHJfsVTwFT43Q/WL+f8FS1Zd18IfTU2g4XKiBpJDh40VAB9HQsTZi0/iF+5y4M8k5wESufdtaxHfBrmopf89eV3cP9dulysDiQ+GT1sgAt3Z3Ir7/ok99vXgL5LukWQSA6ckPRjX3FIZWP4OWEhDTmHpyNbYu/vx1Y6DfAM7JQ0uT20kIDAn9Q/0syeYv9uFVI+APl8j/M8oHPtPJPpCJnLo9Y8K2nw5hhHwYr1j1hzwj6WwHM2ny/vseTRqVKyLoi/Jmlw6+qkjX0veCQG6isOZUghNRg9oSd6oUnoy7jmxLVnoRKmYKoNjhWk7ypcjBBLs1DRH4DqODOeS62S1dTM4R6y/oVRYyTpamVmBqBI/Cs+bs+nTJ+96KcdI2miSyVRSgbgzLZMi9lV45kWQ==;kFBG6/z3WGOLQ/jkx8PhHA=="

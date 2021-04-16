@@ -167,6 +167,20 @@ related:
         width: 877
         height: 583
         isCached: true
+  - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
+    excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
+    publishedDateTime: 2021-04-16T20:24:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SambaNova-Systems-Secures-676-Million-in-Funding-Round-Vows-to-Shake-Up-the-AI-Space-146370.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 31
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
     excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
     publishedDateTime: 2021-04-13T13:00:00Z

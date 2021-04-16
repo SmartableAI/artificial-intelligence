@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://www.dailypress.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "State panel studies use of facial recognition technology"
+    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
+        width: 1088
+        height: 604
         isCached: true
   - title: "The Future of Artificial Intelligence Requires the Guidance of Sociology"
     excerpt: "In the race to out-compete other companies– artificial intelligence (AI ... the term with software that is able to learn and act on its own. For example, self-driving cars learn and identify routes and obstacles – just as robotic vacuums do the ..."

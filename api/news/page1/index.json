@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -50,6 +50,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-better-buy-baidu-vs-alibaba.md",
+      "title": "Better Buy: Baidu vs. Alibaba",
+      "excerpt": "Last September, I declared Alibaba ( NYSE:BABA) was a better buy than Baidu ( NASDAQ:BIDU). I claimed that the strength of Alibaba's core commerce business, the narrowing losses at its cloud division,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621359%2Fgettyimages-970600792-1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "publishedDateTime": "2021-04-16T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -556,7 +608,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -738,49 +790,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -821,6 +830,41 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1158,57 +1202,6 @@
         "AI in Autos",
         "AI in Robotics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-how-keystonemab-is-using-watson-to-revolutionize-drug-discovery.md",
-      "title": "How Keystonemab is using Watson to revolutionize drug discovery",
-      "excerpt": "Tushar Satav was about to supplement his career in pharmaceutical research with an MBA in data analytics when he was diagnosed with a massive brain tumor. Using his relevant experience, he began to research every available treatment option for the relatively rare type of brain tumor, a vestibular schwannoma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-72_DesignCS_Keystone_Leadspace_v1.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T06:36:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

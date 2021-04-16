@@ -77,7 +77,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
         width: 611

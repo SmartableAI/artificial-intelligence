@@ -2,6 +2,61 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-botz-the-future-is-autonomous.md",
       "title": "BOTZ: The Future Is Autonomous",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) offers an attractive opportunity to invest in artificial intelligence (AI) and robots while simultaneously diversifying risk.",
@@ -1086,40 +1141,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarketscom.md",
-      "title": "Global Application Release Automation Market (2021 to 2026) – Growth, Trends, COVID-19 Impact, and Forecasts – ResearchAndMarkets.com",
-      "excerpt": "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The application release automation market is expected to reach USD 4.47 billion by 2026 from the present estimate of USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

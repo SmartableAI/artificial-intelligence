@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
+      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
       "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
       "excerpt": "Core Scientific's Plexus software stack is being used by AiDANT to reduce the time needed for their AI models to get up and running by 75%. \"Many people are skeptical when they consider the use of ...",
@@ -1130,57 +1182,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-avvir-raises-10m-for-ai-that-spots-construction-site-errors.md",
-      "title": "Avvir raises $10M for AI that spots construction site errors",
-      "excerpt": "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/91e28747-bc1b-43dd-bf95-6650cec819f1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
-      "publishedDateTime": "2021-03-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

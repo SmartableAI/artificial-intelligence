@@ -132,6 +132,15 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
+    excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
+    publishedDateTime: 2021-04-16T21:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
     publishedDateTime: 2021-04-13T11:24:00Z

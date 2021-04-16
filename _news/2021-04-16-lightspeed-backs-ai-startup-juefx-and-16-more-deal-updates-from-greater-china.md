@@ -23,22 +23,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Lightspeed, Greater Bay Area Fund Pour USD100 Million Into Drug AI Startup StoneWise"
-    excerpt: "China is the world’s second-largest drug R&D market and using AI for novel medicine discovery is extremely eye-catching and the related market is expected to be worth trillions of US dollars, said Lightspeed's Founding Partner Han Yan. Innovative ..."
-    publishedDateTime: 2021-04-12T04:13:00Z
-    webUrl: "https://www.yicaiglobal.com/news/lightspeed-greater-bay-area-fund-pour-usd100-million-into-drug-ai-startup-stonewise"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 30
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/lightspeed-greater-bay-area-fund-pour-usd100-million-into-drug-ai-startup-stonewise/12664865538441216.jpg"
-        width: 720
-        height: 480
-        isCached: true
-
 secured: "kFc/ajbK9La9Auj859HxIiMpbih1xqd6zB0IcVhzJip2UQfweTLSvcnZ5I71VuaiJdckJPWLzyxEyTxIpKAcQMltmPuMUB0RkiGc4bOOjxEq1wPbt1da4dkIyzk3m0lCI0J0vCLXfPB/sZnOUcsGeUyG4dlRM4GQNxSM1VXfAEYT9PhtMcZn0ACP3iLPSRSTsOEI6oU2/QTu2xAhnpvXO4IZaJPo6lV+0dgQxwi90HVxh7NCRLk3Mn+hd0gGMmyjy3RDccJd/hoX/G21GUahSULjdkilgwcDudaic1iWMMEzrS19MrAEyndIJxGRnAo8/GuLcigFObgic+kjpJEO+TLBMgA84Klw3wKJ/iUb87g=;WE4Z+t33xq3SjXSGjUOjyA=="
 ---
 

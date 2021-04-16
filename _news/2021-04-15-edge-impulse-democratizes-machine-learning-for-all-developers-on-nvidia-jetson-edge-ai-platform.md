@@ -241,6 +241,15 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
+    excerpt: "Leading-edge AI and data science are pushing today’ s computer architecture beyond its limits– processing unthinkable amounts of data,” said Jensen Huang, founder and CEO of NVIDIA.“ Using licensed Arm IP,"
+    publishedDateTime: 2021-04-12T16:19:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-2021-04-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Nvidia debuts Grace, its first data center CPU for advanced AI workloads"
     excerpt: "Nvidia Corp. is targeting more demanding artificial intelligence workloads with the launch of its first-ever Arm-based central processing unit for the data center. Called “Grace,” the new CPU (pictured) launched today at the Nvidia GTC 2021 event is said to be the result of a combined 10,"
     publishedDateTime: 2021-04-12T16:22:00Z

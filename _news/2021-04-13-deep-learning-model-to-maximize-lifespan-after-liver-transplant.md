@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning model developed at UHN to maximize lifespan after liver transplant"
-    excerpt: "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant."
-    publishedDateTime: 2021-04-12T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uhn-dlm040921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Researchers discover deep learning model to maximise lifespan after liver transplant"
     excerpt: "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant. This model is the result of a collaboration between the Ajmera Transplant Centre and Peter Munk Cardiac Centre."
     publishedDateTime: 2021-04-13T02:13:00Z

@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-07-9-best-credit-monitoring-services-how-to-monitor-your-credit-in-2021.md",
+      "title": "9 Best Credit Monitoring Services: How to Monitor Your Credit in 2021",
+      "excerpt": "Choose one of the best credit monitoring services, and it’ll help you keep tabs on all credit activity and notify you should anything fishy happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hult.edu/blog/your-social-credit-score/",
+      "originalUrl": "https://observer.com/2021/04/9-best-credit-monitoring-services-how-to-monitor-your-credit-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hult.edu/blog/media/uploads/2018/05/Yoru-social-credit-score.jpg",
+          "width": 778,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-sidewalk-robots-are-on-the-way-but-probably-later.md",
       "title": "Sidewalk Robots Are On The Way (But Probably Later)",
       "excerpt": "Albertsons, for example, is working on a sidewalk-ready robot that will bring deliveries to Safeway customers.",
@@ -524,8 +566,8 @@
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
       "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -558,9 +600,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1130,49 +1171,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-acuant-joins-forces-with-microsoft-to-build-a-more-trustworthy-identity-ecosystem-with.md",
-      "title": "Acuant Joins Forces with Microsoft to Build a More Trustworthy Identity Ecosystem with ...",
-      "excerpt": "Azure AD verifiable credentials are now available in public ... Our Trusted Identity Platform is powered by AI and human assisted machine learning to deliver unparalleled results and operational efficiency. Omnichannel deployment delivers seamless ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

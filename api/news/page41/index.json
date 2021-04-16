@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-03-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.md",
       "title": "Use of artificial intelligence to tackle coronavirus must go through ethical checks, say experts",
       "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease.",
@@ -1159,57 +1211,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment.md",
-      "title": "Using cameras and AI to help exoskeletons adapt to their environment",
-      "excerpt": "Researchers at Canada’s University of Waterloo are showcasing work with prostheses and exoskeletons that utilizes cameras and AI to deliver more natural human movement. The ExoNet project leverages video captured by a wearable camera,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
-      "originalUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/exokeleton.jpg?w=1024",
-          "width": 1024,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
-      "publishedDateTime": "2021-03-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-03-15-using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment.md",
+      "title": "Using cameras and AI to help exoskeletons adapt to their environment",
+      "excerpt": "Researchers at Canada’s University of Waterloo are showcasing work with prostheses and exoskeletons that utilizes cameras and AI to deliver more natural human movement. The ExoNet project leverages video captured by a wearable camera,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
+      "originalUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/exokeleton.jpg?w=1024",
+          "width": 1024,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
+      "publishedDateTime": "2021-03-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation.md",
       "title": "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation",
       "excerpt": "NVIDIA is benefiting from the coronavirus-induced work-from-home and learn-at-home wave. Strong growth in GeForce desktop and notebook GPUs is boosting its gaming revenues. Moreover, a surge in the Hyperscale demand remains a tailwind for the company’s Data Center business.",
@@ -1120,49 +1171,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source.md",
-      "title": "Baidu’s AI Chip Unit Kunlun Completes New Funding, at $2 Billion Valuation: Source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

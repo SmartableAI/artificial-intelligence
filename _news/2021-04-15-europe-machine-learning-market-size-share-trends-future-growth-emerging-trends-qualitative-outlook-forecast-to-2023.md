@@ -141,22 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
-    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
-    publishedDateTime: 2021-04-12T04:02:00Z
-    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
-        width: 683
-        height: 419
-        isCached: true
   - title: "Artificial Intelligence Machines Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
     excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Machines"
     publishedDateTime: 2021-04-15T11:22:00Z

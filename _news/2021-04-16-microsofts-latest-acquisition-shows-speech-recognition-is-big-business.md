@@ -539,6 +539,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Microsoft Competes With Google, Amazon In Healthcare"
+    excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
+    publishedDateTime: 2021-04-16T19:02:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 76
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-nuance-healthcare-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Microsoft to buy AI firm Nuance Communications in $19.7 bln deal in healthcare push"
     excerpt: "Microsoft Corp MSFT.O said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc NUAN.O in a $19.7 billion deal including net debt, as it seeks to bolster its cloud strategy for healthcare."
     publishedDateTime: 2021-04-12T12:49:00Z
@@ -769,22 +785,6 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1618234626/widgetdocs/BAIVECTOR_Shutterstock_fukhvy_wc3dr2.jpg"
         width: 750
         height: 402
-        isCached: true
-  - title: "Microsoft makes big bet on health-care AI technology with Nuance deal, worth $16 billion"
-    excerpt: "Microsoft is buying Nuance Communications, which can help overhaul solutions that free doctors from note-taking and better predict a patient’s needs."
-    publishedDateTime: 2021-04-12T03:40:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/microsoft-makes-big-bet-on-health-care-ai-technology-with-nuance-7269746/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.indianexpress.com/2021/04/Microsoft_Reuters_NEW_1.jpeg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
     excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events"

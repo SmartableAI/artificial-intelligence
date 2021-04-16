@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
+      "title": "AI helps zap mosquito larvae before they become a problem",
+      "excerpt": "An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to demonstrate how humans can use powerful artificial intelligence technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "originalUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox11online.com/resources/media/9007fd1c-1781-4825-9617-4af26f7143e2-medium16x9_SprayingstagnantwatersourceskillsdiseasecarryingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898310418",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "cdnAmpWebUrl": "https://fox11online-com.cdn.ampproject.org/c/s/fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
+      "publishedDateTime": "2021-04-08T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 11 News",
+        "domain": "fox11online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
       "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
       "excerpt": "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found.",
@@ -875,19 +918,19 @@
     {
       "path": "_news/2021-04-08-appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to.md",
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
-      "excerpt": "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer",
+      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
-      "originalUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -897,11 +940,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T03:00:00-07:00",
+      "publishedDateTime": "2021-04-08T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1111,49 +1154,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
-      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
-      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "publishedDateTime": "2021-04-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

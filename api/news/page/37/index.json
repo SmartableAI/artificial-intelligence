@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-03-18-ibms-ai-debating-system-able-to-compete-with-expert-human-debaters.md",
+      "title": "IBM's AI debating system able to compete with expert human debaters",
+      "excerpt": "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
+      "publishedDateTime": "2021-03-18T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem.md",
       "title": "AI can be unintentionally biased: Data cleaning and awareness can help prevent the problem",
       "excerpt": "But how can organizations safeguard against systems so the AI doesn't inadvertently inject bias that affects the accuracy of results? Bias can be injected into AI by faulty algorithms, by lack of complete data on which the algorithms operate or even by ...",
@@ -1149,58 +1192,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies.md",
-      "title": "BrainChip Joins tinyML Summit 2021 for Ultra-Low Power Edge Machine Learning Technologies",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

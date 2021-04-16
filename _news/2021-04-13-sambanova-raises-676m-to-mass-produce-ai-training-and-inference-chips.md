@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
         width: 877
         height: 583
+        isCached: true
+  - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
+    excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
+    publishedDateTime: 2021-04-16T20:24:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/SambaNova-Systems-Secures-676-Million-in-Funding-Round-Vows-to-Shake-Up-the-AI-Space-146370.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 31
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
     excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."

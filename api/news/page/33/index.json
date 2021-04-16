@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
+      "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
+      "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058379c4bda76219b24bcfd%2F0x0.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021.md",
       "title": "Why Pinterest Is a Great Artificial Intelligence Stock to Buy in 2021",
       "excerpt": "A rtificial intelligence has the potential to dramatically change the world. As many as 70% of companies will adopt some type of AI technology by 2030, potentially boosting economic output by $13 trillion per year,",
@@ -1108,57 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring.md",
-      "title": "Cyberpunk 2077’s ‘Improved Police AI’ Video Is Not Terribly Reassuring",
-      "excerpt": "Cyberpunk 2077 is about to release its big 1.2 patch, and while it still doesn’t have a date, it should theoretically be out by the end of next week. This past week, CDPR shared some of the more prominent changes coming in the patch,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6057464874365ee1a9892f71%2F0x0.jpg",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
-      "publishedDateTime": "2021-03-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

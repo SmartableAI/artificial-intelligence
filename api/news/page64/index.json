@@ -2,6 +2,60 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
+      "title": "Why machine learning strategies fail",
+      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "publishedDateTime": "2021-02-26T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-review-hachi-infinite-m1-pro-interactive-ultra-short-throw-projector.md",
       "title": "Review: Hachi Infinite M1 Pro interactive ultra-short-throw projector",
       "excerpt": "China's Puppy Robot launched the puppy cube interactive projector on Indiegogo, and we got to review a unit. The company's next generation smart projector was showcased at CES 2020, and a higher spec version released toward the end of last year called the Hachi Infinite M1 Pro –",
@@ -1139,49 +1193,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-nano-coatings-robots-need-protection-too.md",
-      "title": "Nano Coatings: Robots Need Protection, Too",
-      "excerpt": "Robots rely on electrical circuits of varying complexity to control their parts ... The engineering team at Sarcos kept that requirement in mind when considering printed circuit board assemblies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
-      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/02/Promoo_nake_stairs.6037d647b1818.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

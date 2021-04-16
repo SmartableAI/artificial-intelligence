@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-15-how-keystonemab-is-using-watson-to-revolutionize-drug-discovery.md",
+      "title": "How Keystonemab is using Watson to revolutionize drug discovery",
+      "excerpt": "Tushar Satav was about to supplement his career in pharmaceutical research with an MBA in data analytics when he was diagnosed with a massive brain tumor. Using his relevant experience, he began to research every available treatment option for the relatively rare type of brain tumor, a vestibular schwannoma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/keystonemab-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-72_DesignCS_Keystone_Leadspace_v1.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:36:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-your-companys-ai-initiative-needs-to-be-a-model-implementation.md",
       "title": "Your Company’s AI Initiative Needs To Be A Model Implementation",
       "excerpt": "The models need to be kept in sync with reality and with the changing conditions so that real-time operations and the model reflect a changing reality.",
@@ -1137,57 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft.md",
-      "title": "EU plan for risk-based AI rules to set fines as high as 4% of global turnover, per leaked draft",
-      "excerpt": "European Union lawmakers who are drawing up rules for applying artificial intelligence are considering fines of up to 4% of global annual turnover (or €20M, if greater) for a set of prohibited use-cases,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "originalUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "publishedDateTime": "2021-04-14T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

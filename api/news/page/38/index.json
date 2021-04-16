@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-03-18-brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies.md",
+      "title": "BrainChip Joins tinyML Summit 2021 for Ultra-Low Power Edge Machine Learning Technologies",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-sonoma-county-to-add-artificial-intelligence-for-fires.md",
       "title": "Sonoma County to add artificial intelligence for fires",
       "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added",
@@ -1118,57 +1170,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-top-questions-to-ask-ai-vendors-in-2021-part-two.md",
-      "title": "Top Questions To Ask AI Vendors In 2021: Part Two",
-      "excerpt": "Sticking to a few hard-hitting questions can help you weed out fake AI solutions and help you refine your own requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

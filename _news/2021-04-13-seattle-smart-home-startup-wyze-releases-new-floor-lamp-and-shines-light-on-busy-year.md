@@ -28,6 +28,19 @@ images:
     height: 532
     isCached: true
 
+related:
+  - title: "Seattle startup sends laser-equipped robots to zap weeds on farmland"
+    excerpt: "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture."
+    publishedDateTime: 2021-04-16T19:56:00Z
+    webUrl: "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/"
+    ampWebUrl: "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+
 secured: "n9ZuH4hBEtTQziIJWOtU3KVdm9OAmKxCKE2+VG9Y68SzoTcD0K2L+quQFMrNUrTUt0kV5J2+t3eltJpyCq4FlbYFiZDupsXVVuj8b1bgxNt1rbo88TX3G79BulHpEjUx05ySfcS57rShrMw6JKLVgMDxexQnLWWKP5U2uHrIivxa+KDYI+RMEVXS6kc+GQvCjpTo/wwK8eWYJxZx1I0pp4NjPE+Hx+seYPlK3eXCtWHE7bzdsH6Uu6k0IxFbCjmCyYB/qEKcfxs3p7JHq6i4ng5saqZjzBU8JRl9gK/uoLy63mkhewi12yywN/B9uSZQpWE1B2kZkSkcUPZ2lftAfq5PXcVxK0IAB4A+iLUnkYhN3jZbj2n/u1kx5UxKkD0uHjjsZDtCT5rDgMd8wLsDl82pMDnl0cUrH3sT+iPEC8BMajVvFbavs8vUvYyi9T3G5rl/3UYOJfurubSROIFit7WDG756a9lEs8aHiDOKoXAxaA4uFBwu6eBvrynDXzocg5YrL9XvcNXBPQe8HzjShw==;SOE+eL7I2XR0NFtOaiP/cw=="
 ---
 

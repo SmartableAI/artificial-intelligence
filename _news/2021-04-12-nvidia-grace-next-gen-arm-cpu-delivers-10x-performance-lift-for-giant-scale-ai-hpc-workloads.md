@@ -226,6 +226,15 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
+    excerpt: "Leading-edge AI and data science are pushing today’ s computer architecture beyond its limits– processing unthinkable amounts of data,” said Jensen Huang, founder and CEO of NVIDIA.“ Using licensed Arm IP,"
+    publishedDateTime: 2021-04-12T16:19:00Z
+    webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-2021-04-12"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-13-deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life.md",
+      "title": "Deeplite Raises $6-million Series Seed to Enable AI for Everyday Life",
+      "excerpt": "Montreal-based AI startup Deeplite Inc. today announced the closing of a $6-million seed financing round led by the Boston-based venture capital firm PJC with participation from leading AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20210413005850/en/870815/4/Deeplite_team_-_main.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
+      "publishedDateTime": "2021-04-13T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-10-best-robotics-stocks-for-2021.md",
       "title": "10 Best Robotics Stocks For 2021",
       "excerpt": "In this article we will take a look at the 10 best robotics stocks for 2021. You can skip our detailed analysis of the robotics industry’s outlook",
@@ -754,7 +807,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1132,49 +1185,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-deep-learning-model-to-maximize-lifespan-after-liver-transplant.md",
-      "title": "Deep Learning model to maximize lifespan after liver transplant",
-      "excerpt": "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant. First of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-liver.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
-      "publishedDateTime": "2021-04-13T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

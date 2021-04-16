@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-07-predicting-regional-coastal-sea-level-changes-with-machine-learning.md",
-      "title": "Predicting regional coastal sea level changes with machine learning",
-      "excerpt": "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87460-z/MediaObjects/41598_2021_87460_Fig1_HTML.png",
-          "width": 685,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027",
       "excerpt": "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ...",
@@ -147,8 +104,8 @@
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
       "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -181,9 +138,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1445,6 +1401,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
+          "width": 750,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "publishedDateTime": "2021-03-29T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

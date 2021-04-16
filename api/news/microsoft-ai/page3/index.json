@@ -2,60 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-10-splice-machine-31-enhances-support-for-real-time-ai-deployments.md",
-      "title": "Splice Machine 3.1 enhances support for real-time AI deployments",
-      "excerpt": "Splice Machine introduced a new version of its platform -- 3.1 -- that introduces tools to support real-time AI system deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "publishedDateTime": "2021-03-09T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
       "title": "Microsoft Adds Ways for Customers on AI with Azure",
       "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space",
@@ -1436,6 +1382,60 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
+      "title": "Why machine learning strategies fail",
+      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "publishedDateTime": "2021-02-26T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
       ]
     }
   ],

@@ -1,27 +1,24 @@
 ---
 category: news
 title: "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High"
-excerpt: "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this"
-publishedDateTime: 2021-04-16T00:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863"
-webUrl: "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863"
+excerpt: "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18."
+publishedDateTime: 2021-04-15T22:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
+webUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
-secured: "083Fm0h74Wv5YZF868iEwfYPDXED8pq5aBLyXSZp66m+bqcN+SdA9NyMM18W592gmVEyGuGVGC8d9iIIujCsvnxJl/YrobrgiS8uLF2FmjUWmgjxl8BjFycvBaEgOD7ebWZX+zPHu0sSof1dJ9vD3mOSHD7/8w3T0DszPk459mJIkkWE57Ish1QsGJ4XxbbMP73YU4POzLQr//CcR1v77HZIuSkpXldS+uw6k7PcuIFi0a7P7BSafkngkRyhjxLlHPhHC2wbq3a9OTOGM94XpI1U0EV8qffswbQIYYQXpPT4weVmI9FrW6EyEOQEcLsF2qYmVJciNw9+pplJC3c+28CHmrD+qKeRtmr1ZExsSPs=;d3m0JAFQGOI3gSnkztQeAA=="
+secured: "thbsfA6vd7u3f7+658kQU527g/KJ1LFSRBiPJOIuH7E1zBFgVAST6+8geYTENgI4CZ2tF8ZoMhMpo2Ydz/tYExK1oZ1/tCeyh3/YtaB/Yueic/qXCSmv/lwaXv5DXmUgIU7OJ8ZE2o0YRINRWQMOCLZXp/fyZyyEJNN9BXFIOqLOpSWj8A5nNfvBoXfuLNrX4WoloT/G7yUebHj+HWdiVVYSVl+UaBdcrbw9471/2Ll4dAGUsnOPdQ9yEuQIp6bJ2wyf/FOnBPD91xwCbivW8u1ok4iXpcxCLddLOiu5Nok1wfwFscBGdNTVuIH7wfAEs7Am5u+XeJBkNb6UP8aaY5bKw+tWEN/WuwfhJwSo0iM=;fU9YM9FIDP17JTJMbLUxmA=="
 ---
 
