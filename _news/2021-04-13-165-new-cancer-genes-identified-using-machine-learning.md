@@ -50,22 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
-    excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
-    publishedDateTime: 2021-04-12T17:11:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg"
-        width: 1000
-        height: 1300
-        isCached: true
 
 secured: "JevnD/yEJlbJ8S8TZVAUiA+0K74qWLDFh8fD/4Zd9cTe6GSO9YXtI4R7PgRp4tBOcOMBVhghU2rFeyhnNknALY/xyKquFJa2PhJ3VU1iFNZskZNhkXK72YN5hL3MMvlT8PLgiY2rIt6GY3Cyu58MvZxI49ADPLpcV7UfW4dHAuu/mVZnGWN6MHPYBbvCCmuy53UaGNLVMFPncYIEm/ogb1AnoNZAAODP+CBS6S32yMeMIyOhGf20BRxXQYiawUfVibsGyLSImBip+b2/O/fbWjCZEgPOcQ0/3pyfv2TjxajIKZPKDORM/lRyPgENpdHaEWsww0NhFt8cqTgoBmb8ermxPCK581KOKiajzHH3BOqe8fh6mdVsjBsNIFcECifQCm0MojxIR594MLgS/tvoj3TDroYVkGBh+1yasx4YwYXXmuVMcq8b2IiuyuxE/uGmixL/si9Hqe2Hx64mZ6n0zdEHHazh434yU1+YFUU0mx91tMAwyGqqZ6GTNWnQNSDeaFT9wuJ8orAEMb7zVdJPGg==;WUzFfOBvCGVzrGQrFi+kXQ=="
 ---

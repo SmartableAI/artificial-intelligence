@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/business-innovation/the-impact-of
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,35 +25,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI"
-    excerpt: "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ..."
-    publishedDateTime: 2021-04-12T18:39:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517"
-        width: 876
-        height: 493
-        isCached: true
-  - title: "Financial Standards Setter To Focus On Use Of AI"
-    excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that its main focus for the year ahead will be on the role of artificial intelligence in the sector."
-    publishedDateTime: 2021-04-16T13:42:00Z
-    webUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai"
-    ampWebUrl: "https://www.law360.com/amp/articles/1375927"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
 
 secured: "h3ZU0Ap36Z6Lx7xgqyLrASn5OEropa1yQXWb7+V95oLGAtVVzErUoEZWqaRny8VKb828mP6a5w1/H8gljqWqlkSOqjzaBvrwzAhKY0gRNW1eV50YMpiW8iuzmATycbH0Z9u3McO9ruu+r28vOSAGCzJPMO+wBi0gmQkkzO4McG6HzBXJb6oSDNDNuxJLp+Y5a6FR5FFO1lZK/N/7Un082YL6o+Wvhr25lX3sb79fBYCbTlRAZqlC7ZusxbD+xjD4gQfSzfo6mUd+zVXlUTR7Ug/UdCJ0wY2wMzEUn5VMkeKJvcF9ABmjMvpmgXKIl4B3vjGGaQftZnkYqdBIOzTQqRoH0aOvj8orcE6gAbQST0gN6ZMzCYOUjCTY8V4/ogc2UYBYug6u+PJpwFRT+hJcEEsygzE68miJ/T6GZvvFZYTz3WcMmmGTFvCcR9WJYlO0dbwILG9pzKF3pTQWJxALeMaiYAFTezs9bej3drkMzLKME3toWBTYJ7OO6fhdRFG4emk0w2PJWW1/m92mOaq+TA==;oWemBwIcPXfqBS8uUgCDkQ=="
 ---

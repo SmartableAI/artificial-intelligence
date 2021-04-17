@@ -35,20 +35,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI, Supercomputing And More: NVIDIA Kickstarts GTC Spring 2021"
-    excerpt: "NVIDIA claimed that their Jarvis models offer highly accurate ASR, as well as superhuman language understanding, real-time translations for multiple languages."
-    publishedDateTime: 2021-04-12T17:15:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-gtc-spring-2021-ai-5g-supercomputing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/nvidia-gtc-2021.png"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Roundup Of AI & Supercomputing Products Unveiled At NVIDIA GTC 2021"
     excerpt: "Softwares will be written by software running on AI computers” Jensen Huang, CEO, NVIDIA. Dubbed as the first kitchen keynote, last year NVIDIA CEO announced DLSS, which revo"
     publishedDateTime: 2021-04-15T12:30:00Z

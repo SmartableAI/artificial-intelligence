@@ -59,38 +59,6 @@ related:
         width: 617
         height: 347
         isCached: true
-  - title: "Dubai to import self-driving cars"
-    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
-    publishedDateTime: 2021-04-12T18:34:00Z
-    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
-    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 59
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
-    publishedDateTime: 2021-04-12T18:40:00Z
-    webUrl: "https://www.wlwt.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "1jxJUo7ddxwOn4gjYqmjozy9guh90MpkBtUAza4OTGgE2tZ1W4IUXyKGvHrLM3QYJoYMTu5fpPdPtMSbULzH9alfvAgvQ9O1QabKGS/RJmwkWvLFh8fCtRs07cHXHvbVvgrvssKZalYecjWwzSei9ILaPeKYInWjqb8h4/s8XWzYzhZS7QiL0lyiQjLfZscQCmjidMfPiGLkj3Yauy1FfKrqJ7t9r1vuUDFzw5HO6JJzQsKVxBFujHG/K/RDKFiokT/a7cFr6OKNXo3Juiz3IdVWfvqtoNe8J85DQL7vpMdQc8zPIn6C2/YHIiehhmxQH6CVKUgqa80v7aGTz0gmEQ5Y0TOZCuAFn60HQLO0Rjg+2+wSON5w0AFTh/DGhDPsihme1IZc8+MBUM+l6NeLBvoqG8covBTdF0DQ4KCcNoMVq2vZmE+RRRfGb6ATLVgKTodu5h7Vp2NvqZOPOuH8fCBlNlbvOP8Jq6/QYfKbcP2GtQoq9JtFapU77l1pO+lvcfzdryJahxOJfMcLpYr1Yg==;sxW10LHNzKcB2lAZClkolg=="
 ---

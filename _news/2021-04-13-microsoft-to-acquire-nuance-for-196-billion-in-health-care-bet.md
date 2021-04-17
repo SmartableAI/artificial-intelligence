@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Microsoft to Acquire Nuance for $19.6 Billion in Health-Care Bet"
-excerpt: "Microsoft Corp. is buying speech-recognition pioneer Nuance Communications Inc. in an all-cash deal valued at $19.6 billion, gaining artificial-intelligence technology aimed at helping doctors predict patients’ needs and upgrading hospitals’ digital ..."
-publishedDateTime: 2021-04-12T18:28:00Z
-originalUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/microsoft-buys-nuance-for-19-7-billion-in-bet-on-health-care"
-webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/microsoft-buys-nuance-for-19-7-billion-in-bet-on-health-care"
+excerpt: "As AI software gets better at parsing language and predicting medical needs ... work and released tools customers can use to build applications that understand and translate speech, recognize images and detect anomalies. The company views AI as a key ..."
+publishedDateTime: 2021-04-12T22:20:00Z
+originalUrl: "https://www.bloombergquint.com/business/microsoft-buys-nuance-for-19-7-billion-in-bet-on-health-care"
+webUrl: "https://www.bloombergquint.com/business/microsoft-buys-nuance-for-19-7-billion-in-bet-on-health-care"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: news.bloomberglaw
-  domain: bloomberglaw.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0a6b4a2/2147483647/crop/3984x1531%2B4%2B462/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F28%2Fd9%2F384ce0f64fa182b2b68bd3dbe282%2Fmicrosoft.jpg"
-    width: 960
-    height: 369
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2021-01%2F9ded4b10-b0de-4f35-bd8f-36a619230392%2F363480256.jpg?rect=0%2C11%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -270,38 +270,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft to buy AI and speech technology firm Nuance for $16bn"
-    excerpt: "Deal comes as Microsoft builds up its cloud-computing operation for healthcare and business customers"
-    publishedDateTime: 2021-04-12T17:40:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/apr/12/microsoft-to-buy-ai-and-speech-technology-firm-nuance-for-16bn"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/12/microsoft-to-buy-ai-and-speech-technology-firm-nuance-for-16bn"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/12/microsoft-to-buy-ai-and-speech-technology-firm-nuance-for-16bn"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/a74f291984572e802ecd61b87baaa95c6cb9842b/0_0_2000_1201/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc2f9f01a8b32dbad454f7329605f486"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
-    excerpt: "There are other synergies. DAX, which already uses Microsoft’s cloud-computing service Azure and benefits from its AI technologies under a strategic partnership signed in 2019, can be further integrated into the technology giant's services to create an ..."
-    publishedDateTime: 2021-04-12T17:04:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/microsofts-20-billion-ai-deal-will-shake-up-how-we-work-11618243824299.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/microsofts-20-billion-ai-deal-will-shake-up-how-we-work/amp-11618243824299.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/microsofts-20-billion-ai-deal-will-shake-up-how-we-work/amp-11618243824299.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2021/04/12/600x338/2021-04-12T142330Z_487134973_RC2EUM9B03Z5_RTRMADP_3_NUANCE-COMMNS-M-A-MICROSOFT_1618246557413_1618246736680.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
     excerpt: "Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers. The deal comes after the companies partnered in 2019 to automate clinical administrative work such as documentation."
     publishedDateTime: 2021-04-12T23:38:00Z
@@ -500,20 +468,6 @@ related:
       - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
         width: 610
         height: 457
-        isCached: true
-  - title: "Doubling down on AI, Microsoft to acquire Nuance for $19.7B"
-    excerpt: "“AI is technology’s most important priority ... closer integration between Nuance software and Microsoft Corp.’s Azure public cloud. Nuance already uses the platform to power its products."
-    publishedDateTime: 2021-04-12T17:10:00Z
-    webUrl: "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png"
-        width: 768
-        height: 430
         isCached: true
   - title: "Microsoft Boosts Conversational AI with $19.7 Billion Nuance Deal"
     excerpt: "said Nuance’s technology will enable Microsoft to augment the conversational AI capabilities of its Azure cloud, Dynamics 365 and Teams. “We believe we’ll be able to deliver AI-driven digital engagement solutions for any industry scenario,” Guthrie ..."
@@ -775,6 +729,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "AM6vYKOBtiLaLSAHvMPJNn0ZxA2NQfIqQ8jnDtw24eeW8OUWdw0NMdxa0AZoPoujlf0ZDB0TbMOnzm0LHzMG9w4Tv3BigbtvW1N6TIB7MEB3oYZmgSd040H2i+5H0uvg/nJPzZrUImelOKbLMRdxCn1iKTRrum+uPDlZfZ9wAT5Se2bLUut+bbDrtLcAk6VHobDe8lZHvu3kp0ET7yTz16mVhv2KL5yLBtfVoZpfDwZmXO/8+2Pidqle6HrG1DKM4drkswdTEQn9i2nn8JKPgDseRo9gN7MCNlq0WvGZ3AuWzx5AyBDehwl4b/3uXQ2hHtiw2IANKnBORpy4qdy5XhPKm9mGdcZPuj7Rt7v2q5k=;MWkA9u5CIjDLfjb68kvQnA=="
+secured: "DDgse66rB1GXbvWz2/k6bgGMh91aqL9/Tt10Lfv59EQlWu+zscduZcI6Zn2k8Ue+TnE8DcBIhc4eeyBCiFvWZgLnECn7ycYsVKCoDIOSJI20siTOLIpu3Bu0/A2riWISnGq3LgajgUDzwiFiELrBvmAx1qHL3Mkr9KeW7nfNRuh0y0CJWVeBnkW5xVRxXy0HUNeUzW5nEUX2hChwm+tz/D/vO7/XDZ1olMx9rAHfwXyzpttBedFg3EdUGFNnZo/sRePqXqHH9bW3IjGWb2R5pdzqRS0HSn6faBuINYIV1zDz3qQdRx1FPvXThgnIXuYCBfVD8MNA7+/T8DiwVb7tNigwlEky/joi2R31gRNDet8=;uEYGGAQZ3B0nCSe6N/+pug=="
 ---
 

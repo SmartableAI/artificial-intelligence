@@ -57,19 +57,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Stock Picking Mutual Fund from IBM Watson"
-    excerpt: "He holds an MBA, B.S. and B.A. from UC Berkeley. In this 3,367 word interview, Mr. Natividad describes the AI based mutual fund powered by IBM’s Watson that he and his colleagues have created. “AIEQ is the ticker, and it is the first AI-powered equity ETF."
-    publishedDateTime: 2021-04-12T18:08:00Z
-    webUrl: "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/"
+  - title: "Blizzard, IBM use AI to find the best Overwatch players"
+    excerpt: "Blizzard and IBM have entered a multi-year deal to analyse data and rank the best Overwatch players in the world."
+    publishedDateTime: 2021-04-17T11:24:00Z
+    webUrl: "https://tech.hindustantimes.com/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
     type: article
     provider:
-      name: The Wall Street Transcript
-      domain: twst.com
-    quality: 54
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.twst.com/wp-content/uploads/2021/04/ChrisNatividad-1.jpg"
-        width: 1200
-        height: 1800
+      - url: "https://images.hindustantimes.com/tech/img/2021/04/17/1600x900/sombra-screenshot-002-fb6b4eea3c8822bf196065adc23a2e5f18d2b67a6ae3a91230e3e86e328f0956bc0c753996cd60e14011acde89eb0a981c8cda3884d084132b40a76d42320d0a_1618658492480_1618658501335.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Evonik Becomes a Member of the MIT-IBM Watson AI Lab to Accelerate Innovation with AI"
     excerpt: "Evonik expands cooperation with IBM in the field of digitization. The two companies extend their strategic partnership ahead of schedule until 2025. Taking this decision early creates more opportunities for longer-term projects."

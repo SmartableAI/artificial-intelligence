@@ -41,22 +41,6 @@ related:
         width: 620
         height: 347
         isCached: true
-  - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
-    excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
-    publishedDateTime: 2021-04-12T17:05:00Z
-    webUrl: "https://hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 48
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54797/content/nvidia_mercedes.jpg"
-        width: 708
-        height: 418
-        isCached: true
 
 secured: "B5colT0roGtieqdl7EcG9iuerXxh18lpAhORgE3B71vdJI3G64o+ZtQxIrnHewcv5U+QlBjQsZHzmWhEOfHpJ4WFYu575uwVfxtx3WMWfc2da36hF4rX2nQKVOTLODeRggJC4oAjLnheWgIkZgpxpZZcTikk7UkhGpvTVeF5Aa/S2+PzBe+0VT6tadZFjb9s9JzHjFlyNmWaMgnK0lkCqJH1VUsFhRR27R5Nu9NK8pbYOaxhhT25AXLV8P8ebRRnnj0me16v6X8YaPines5TopnnKPKuMhK97AUkAt93tffOFpd0DPITEmnQDkfAHFjE7LyT5wca+rUSGIad4gZWtWLJy/sZN7q4TEniUHmUtQZKopcRDake6d7yw8T6ZZWozDo4QLlRjiZIKi8k/JBB9EL8bqNU13EeSqX8meRZZOz7JNtgSQ/j+JojUxgCyZsMVvFVpw3Awy2WcuYCFxNb4uJ0jJSW+6fbmlzw9pkuxaZ1eTLuC7aACNJ9P4z4JPAq0V2hY8wY5ohZ2AuiwTp71g==;squtRQhwpMBqq2OgxZMVPA=="
 ---

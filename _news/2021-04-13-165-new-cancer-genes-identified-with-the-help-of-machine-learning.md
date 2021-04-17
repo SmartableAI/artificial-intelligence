@@ -40,22 +40,6 @@ related:
         width: 570
         height: 380
         isCached: true
-  - title: "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning"
-    excerpt: "analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ..."
-    publishedDateTime: 2021-04-12T17:11:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg"
-        width: 1000
-        height: 1300
-        isCached: true
   - title: "165 New Cancer Genes Identified Using Machine Learning"
     excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."
     publishedDateTime: 2021-04-13T07:26:00Z

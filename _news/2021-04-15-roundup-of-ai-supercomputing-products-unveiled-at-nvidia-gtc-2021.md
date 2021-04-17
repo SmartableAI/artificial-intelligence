@@ -41,20 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI, Supercomputing And More: NVIDIA Kickstarts GTC Spring 2021"
-    excerpt: "NVIDIA claimed that their Jarvis models offer highly accurate ASR, as well as superhuman language understanding, real-time translations for multiple languages."
-    publishedDateTime: 2021-04-12T17:15:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-gtc-spring-2021-ai-5g-supercomputing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/nvidia-gtc-2021.png"
-        width: 560
-        height: 373
-        isCached: true
   - title: "ETFs to Buy on Nvidia's Growth Story"
     excerpt: "Nvidia NVDA delighted investors following its Investor Day, wherein it projected better-than-expected revenues for fiscal Q1 and announced a host of advancements in artificial intelligence, computer graphics, robotics and data centers. The graphic maker ..."
     publishedDateTime: 2021-04-14T14:10:00Z

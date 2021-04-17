@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
 type: article
 quality: 176
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "Getting AI to Scale"
-    excerpt: "AI experts, such as data scientists and data engineers ... they will require and when, and then chip away at each piece as needed. In designing its customer-value- management system, the telecom ..."
-    publishedDateTime: 2021-04-12T18:00:00Z
-    webUrl: "https://hbr.org/2021/05/getting-ai-to-scale"
-    ampWebUrl: "https://hbr.org/amp/2021/05/getting-ai-to-scale"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/getting-ai-to-scale"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/03/R2103H_FRY.jpg"
-        width: 3000
-        height: 1410
-        isCached: true
 
 secured: "NL2fYpedGPlnQkCHsRK2TopaC4ZS3pqZL6HX/2J6ICkmL3fJaGYrqSgiLakhHNEf7ZB0xjLLYIW0u2yQd50QjrHxOxJMpaQHxhXLZnpLFjb60i4aQB1lZfsboj110OdXZI8jkdQd2sntYfz89CrZLv1Ar5NDsKoWtyOkF8gDSGt9l3KQSQGqD59Ukld5093JVdzvmQBv8H7Aj+eG4Dm+hAzR5ERFaPv36UhVl7yGSpmqjIZ2aNWRPmRfacMynG+rSafUa5c8pvBCpKw834Qkp7WDz4smn7VsVWnV6w5ceJfvx8shVfKc69MH+rfosHbXJFBvhwJ7Tp4ZoecZbMnGOBbJcC6oYMzqOFC6TfyuN9FFZnXxoKmJxD0Rh5lrIUh2TEx8S5FMjNPuq14mJwJbkruQYwWlKomm3Zumy8wB01vDA3SnT19m3AT0CXZpiznYGDFyTOoyDKsRWC60wz5MWS4iDW6lqu6/6pE52sWTRJxTsSGcDOSMburG1ZaUf7kYpsh4ayh+Ko4sZDBVP9bi1X4rXw1cYDNDdM5no1+N1zE=;kp6mLEQEeHVwsE5fyrfoeg=="
 ---

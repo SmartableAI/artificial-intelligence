@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-se
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
         isCached: true
 
 secured: "TmVM7YEACdiC3hun5WGY6+s7TWk9KhHETDD6Gd8izOcK29/K4I5cNJMy8JdBoPqv/ic3QZHwNuJCWm0J4VvncuKLKD7or/QxkqcnqQpiq33JZabArMG7DeTOCnawgiKlRcSSz9/FGhwoJ0Q18NuqXxkKQzsQFmgiSge0zg3peb3cDhTRR4vMMb9L6p9e1nzGUJKZmfkpCl1CI35DBHlghYHNF3WtSFP4SJvBr4iVEtue0EOJUi5bbtMZUpLB/KN7L3SlnUf95uMRrm9JQOiBZLt/WHjivAhGL1TDdH5isV5yZMvARevg4QqAw4FG8tEJR6/5jQBGHV6saxE4mOdYfelsaeHJWCUzloWPMx1xn5wsCi74n1poySKpk3SuRNdnziwQtNkb1s3T7OCG/PBCeHDGU6pDKrysAGaBVEt64fKUSS38maoYNYPe8RCBIgnOoegJ93wgPrT1efWVAWmBupdYS6IhEyEP8035PAJkyIH4ZNhMgQBaG1OGXtfldvrWfr7hL7J3VpoSH27WByZf/w==;lU555Vt9G7h0qzEuQLIHkg=="

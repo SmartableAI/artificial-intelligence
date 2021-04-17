@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
 type: article
 quality: 89
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     width: 2000
     height: 1250
     isCached: true
-
-related:
-  - title: "Nvidia Unveils a CPU Chip for Data Centers, Supercomputers"
-    excerpt: "the chip will deliver 10 times the performance over the leading x86 server chips when it comes to AI and large-scale data science workloads. The product may pose a competitive threat to Intel ..."
-    publishedDateTime: 2021-04-12T18:49:00Z
-    webUrl: "https://au.pcmag.com/graphics-cards/86582/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/n/nvidia-unv/nvidia-unveils-a-cpu-chip-for-data-centers-supercomputers_9gut.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs, GPUs and DGX Superpod for HPC and AI"
-    excerpt: "On the GPU front, the company announced the Nvidia A30 Tensor Core GPU, described as a “versatile mainstream compute GPU for AI inference and mainstream enterprise workloads.” Powered by Nvidia Ampere architecture Tensor Core technology, it supports ..."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-gpus-and-dgx-superpod-for-hpc-and-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "7uQsHhU76ZAjPkkjaY2nuI7jlBcL3uewgpKhMVzbnQSBjL4tkSkqxLpxIRQAWNjxDXgQOlqskZXzHxv1t/fkEYyW+MLPXZAG+EDQ0v43Gkf46ZPaMBqC/5/C/DjIlWIpHf4ZaKUqxvPrJW2Y5tmNzhr2h+n5uLaPC96W79sPXR0oFO6hnjXcWk8f/qVV3I3OpTZ78SjGuv2fq66xR1Yb2U2zuAck4B+8UpIc2HXDvzkdrN/wsIKNLIvZoiYhgcxOM18jgBZLgHX2HwE4jwKgMSrmGVqO3HP2ASy6P7YLURA5SxhWHLIxVXPVY2obDAlukTeYtVJhCH9hV/sCzdKyFSv4kYRcS/9iodovsYcqpXVw81OqlnxvdJcqHKl1VldFU33sVPpE6ytq+JfFmLF8iUKA+otZPUfVRNw0wTAMwB7rMqNg7rDo61TZyc00cHDj2MMPYzGgiuWituxIJ/nKUbRCVWoBJmDckXwL7SjjhuxZRMXlMppikKcN+TcKfiJQeqNe+2GyLa5nKQ8XFzsekA==;SB1XVSn68ojimQwaQgqOfw=="
 ---

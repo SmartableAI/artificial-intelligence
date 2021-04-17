@@ -120,20 +120,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
-        isCached: true
 
 secured: "JD6ptipyqMl8lbLcW82pGkOHvn7dE6LB8Izm35uAQaGyizGJcCmAe0eet+/+OTlIf1WewM2LXdRPsrwQn+C+AkLXmFyIQJ5i6wvVDi4l05S2TXEXFnxGz+GfVskAAQkiwbL42QG1zGkr5aK2WxElUNMu0lqyEI/l6HuDKBCc8BoJCTQ1Has+Xrvsnt4mfd5HJ2MWcu/aYlbvGy6cWz+ievE6EtdyJrNYeB839joIH4DV6SHtkPjTgG9ozsMj6IfS45RCXYhJHxXLaoxhdCituQ8oCyp5P0weGCPmoAoQAJwIlNIOiDA1v7CuZoWL0krM6FUpit4iHs4m/80JodBp9Vfndu53SQKIh/zWT5nb0eyGQ+atw/JaKJbM8Sgu4n8djaupKBEz4/dBxFzcmCeAwU9NBnlgWeoEqccMIHxoYDHU8WNJKm02tdl+ayDQR6MaAM6+1BPjkjwUU7Dt6T9GiYt/c9HWJyDiIUy0JDPFPIhRzstppeBDX7cFIYnySKZJtFkHpoQ+oX1ppO+J2ToTSQ==;CszCi7PVyxsrb12156vwBQ=="
 ---

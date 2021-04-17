@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
-publishedDateTime: 2021-04-16T21:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
-webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
+publishedDateTime: 2021-04-16T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
 type: article
-quality: 48
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
@@ -141,22 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027"
-    excerpt: "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the"
-    publishedDateTime: 2021-04-12T17:55:00Z
-    webUrl: "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    ampWebUrl: "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
-    images:
-      - url: "https://cdn.openpr.com/U/4/U412411471_g.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Global Facial Recognition Market - Company Profiles, Industry Trends, Global Segments, Landscape and Demand by Forecast to 2027"
     excerpt: "(MENAFN - Market Research Future) The Global Facial Recognition Market will witness a healthy growth from 2016 to 2022, a research report suggests. Growing at a CAGR of 19.68%, the market is ..."
     publishedDateTime: 2021-04-14T06:29:00Z
@@ -206,6 +193,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "927H4SP4Xwm2LGxVMmUpRWBordbRG+goxFz1Y+82LjirZtdz4QJ9z8RL97yvnkEznGv7TQj/5VHx7JK8vaYK1+tEOq+zRViwWKF8uxr8oioBIZBpKheJPW2dZdKCcB0j6WxS+cz0d2ggEF2HM0IIQsUmw+HjWPOGHwiKQyd8PCIg/ebjGLoYuWtorThe+1IC323FPkiDD3C6/RYJxjWtU2TG4oIcqv4fvmS8DIoPpnGsGEAx9+RfB94evaDOV5HWp/aRcS1/iuF7sHG9IRx66DX3z5Z5hTyNMbOBYrAeKBiYYv/fev7DWvG0evXEL81a2Pi6kCk3DCTYMOr/ibQK+5ONWcGDrKZEaXTUZE0Umdk=;zJWk4umvZAToWe1QUf25hw=="
+secured: "frCVxqLLlF/TB/O1IgXy+Z3wpfwrl+N/V3+Hhb9gpVKPmY+zsL4MS2NbYHh7WtbZfDOwXfWO1kOZrCHiKgvAOJf48a8nWvBDEKCzjEZT/gkMF9C+0DlUpiK7gqBM8w6k3pQi/C9WJiLXYWqK1AFpT30M+DNMwJJQuDYJzzQkuWI4ocJ2/dKe1Ff5mzNzTcX0YHLthE1n+4SyBAg3gAkkr1emzn/8HB5j8E1iLrle5cItxFdNihmSoA4DLonLdiQjSdLuXMnrKIxbq0sbyWWli3zOt6NOr6FhGZrJ7bRrlivNhMz6574tQYRi+fJrhefZpthXVIIb6PpSvPWZqLULttbsHtqUt0ag5jKy4KMlrYM=;NhCgwJ8LUZw8NuAEn4dWaw=="
 ---
 

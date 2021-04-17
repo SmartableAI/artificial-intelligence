@@ -61,22 +61,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Domino's starts self-driving pizza delivery service with Nuro autonomous cars"
-    excerpt: "Domino's customers can select the self-driving pizza delivery service when placing a prepaid order from Domino's in Woodland Heights, at 3209 Houston Ave, depending on the service's availability. Once ordered, customers will receive alerts informing them ..."
-    publishedDateTime: 2021-04-12T18:40:00Z
-    webUrl: "https://www.techspot.com/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-12-image-12.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "pUXkOO773+SJsU6PFzOXcwEMQ9ggVmdyQZYoKrHkiyiB1OI33d1VN6rxIR3cJH6Jqj10bNt+x6OiCo9BJpZicHzSiZ/7Rb7HVo0jOaxtcg1oyjITFaKzIFc/y4e17QsHQsXukRqrmREtnmetbVnKPzRHa9ZuN0NvZZ83xIyoIXrOYjqL2Who5FsoKJsJ7StDxk/ld/Zf+yCEDAJ4WWKfFOS+UG1MLLgyw23ej3VV2WkR4zpEq14Bs3JAjcIsNJ30yNsy/Ek/obufCU/lm9yhwSKg8Euza2ejj9RodG5dkbVJtuYwVO58LZ/tnjvr/nNcezrQwz6JaJ5wSZv+vFIDq30Hy++LJV4sq+kENk24+44wHXRj0JxI/eIm7IRnjWpiIddcMksRsXUDMfSXR5OfYW9AJkV3YK+Q2dSWNWFdYrz7UCtrvrfm+0qNeQREUBWGA4/HFkBi2UIqPnaCu8E3g7bKTpeeuvSLFahMGew3tfoqViQm0fh7hgZs34YGPunJE6LrEyfXuewwyGS8bFF5ww==;8co+93YdgjNJMq288dZOvg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-ho
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78705/nvidia-atlan-soc-combines-in-house-grace-cpu-next-gen-ampere-gpu/amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TweakTown
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA DRIVE Atlan Packs Ampere Next GPU, BlueField DPU To Power Next-Gen Autonomous Vehicles"
-    excerpt: "To this end, NVIDIA has announced the development of its DRIVE Atlan platform, which is its latest system on a chip (SoC). NVIDIA isn't providing many details on the architectural details behind Atlan other than the fact that it features next-generation Arm cores and GPU architecture ( Ampere -Next)."
-    publishedDateTime: 2021-04-12T17:05:00Z
-    webUrl: "https://hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-atlan-platform-to-power-next-gen-autonomous-vehicles"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 48
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54797/content/nvidia_mercedes.jpg"
-        width: 708
-        height: 418
-        isCached: true
   - title: "NVIDIA’s New Grace ARM/GPU Solution Puts X86 On Defense"
     excerpt: "Toned image double exposure mock up This week is NVIDIA’s GTC, or GPU Technology Conference, and they likely should have changed the name to ATC because this year – it is all about AI. To say this show was rich in big announcements and technology would ..."
     publishedDateTime: 2021-04-14T17:31:00Z

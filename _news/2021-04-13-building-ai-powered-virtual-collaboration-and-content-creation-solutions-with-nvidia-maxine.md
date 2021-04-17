@@ -153,34 +153,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Bulk Data Centers Accelerating AI and HPC with NVIDIA DGX-Ready Data Centers"
-    excerpt: "Bulk’s collaboration with NVIDIA brings the world’s most powerful AI system to 100% clean energy, state-of-the-art data center facilities in the Nordics. Bulk is fast becoming the leading provider of HPC and AI colocation services in the Nordics and ..."
-    publishedDateTime: 2021-04-12T17:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-europe-energy-industry-environment-and-nature-eco-friendly-practices-f079c03334aa4776bb66976bb3ff0716"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cloudera Collaborates with NVIDIA to Accelerate Data Analytics and AI in the Cloud"
-    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP, allowing organizations to support HPC, AI, and data science needs – from research to production – with a secure, scalable, and open platform for machine learning. “At a time when speed is ..."
-    publishedDateTime: 2021-04-12T17:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-scott-mcclellan-cloud-computing-artificial-intelligence-ed114562c94f5114121f68476cac32fc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
     excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
     publishedDateTime: 2021-04-13T10:43:00Z

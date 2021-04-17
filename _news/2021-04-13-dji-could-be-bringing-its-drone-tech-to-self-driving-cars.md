@@ -47,22 +47,6 @@ related:
         width: 1168
         height: 657
         isCached: true
-  - title: "Domino's starts self-driving pizza delivery service with Nuro autonomous cars"
-    excerpt: "Domino's customers can select the self-driving pizza delivery service when placing a prepaid order from Domino's in Woodland Heights, at 3209 Houston Ave, depending on the service's availability. Once ordered, customers will receive alerts informing them ..."
-    publishedDateTime: 2021-04-12T18:40:00Z
-    webUrl: "https://www.techspot.com/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89270-domino-starts-self-driving-pizza-delivery-service-nuro.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-12-image-12.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Hyperdrive Daily: Self-Driving’s Trough of Disillusionment Continues"
     excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. The year 2020 was supposed to herald the arrival of self-driving cars. Instead, we got a global pandemic and growing ..."
     publishedDateTime: 2021-04-14T11:18:00Z

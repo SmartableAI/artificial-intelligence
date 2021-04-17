@@ -121,20 +121,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "HUAWEI is investing $1 billion to ramp up self-driving and smart EV efforts"
-    excerpt: "HAUWEI notes that its self-driving vehicle technology can travel a 1,000 kilometers without human assistance, which is on par with Tesla."
-    publishedDateTime: 2021-04-12T18:15:00Z
-    webUrl: "https://pocketnow.com/huawei-is-investing-1-billion-to-ramp-up-self-driving-and-smart-ev-efforts"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 22
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/02/huawei-electric-car-1280x764.png"
-        width: 1280
-        height: 764
-        isCached: true
 
 secured: "5feVCJakVdSnIgKynhDPdFVUcFzIiwKa7vuh0ctzA1ZajWDjeMv0hYkVr1H6rGo1z0AY4WPOXABMUjuK6oJy2DJTd10lPcoQ4RwOakIauIZDN3c9ro6AcFukbyEWTTxYoVlNcvfWB8YwstVJe9gQPlinei5zaOGw+tq2UMD0GJyN9gFw2n5TcSA50h/eppbD77l9Xf7ipsItsf/LsW9z+CI4w6JhBn9NrU6rRl27YB/JjVrn4h3KVq0nylzpVdU9FDAif1fguZhLeOBk3b1xDHiP9P/J02wY+9fKQoyh1KscMQZZShTP5F5RZcTpL6r2gL8tWDd6hrVPP7pw4HBPr8sYsp7anXMeyy1OOf9cxMKSrsHtDsEP+TbdBa9vZdRWABgcUWwjpmf0v/oilra1o2wAdKYvXPiUTKiw4ts+bzCxFy96bQOWjStUprNBMwZKiqq4p+sYJ+9eNRiPXrD0d5gY4v2pZxcBLK8rteyKUZrOkZnLgbamoEcUXnSTea6Jd4m45cf96lzuQbjGXhiStg==;Toujn7aUFmNixCkT+uJEJw=="
 ---

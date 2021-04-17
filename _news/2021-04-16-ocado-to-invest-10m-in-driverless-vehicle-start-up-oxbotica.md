@@ -44,22 +44,6 @@ related:
         width: 995
         height: 636
         isCached: true
-  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
-    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-04-12T17:26:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 74
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
 
 secured: "vrpfDNFBbnrTnirNEbJLmHXnSIcznt2adQ88yfEYJnsi2SjY5I1bYHiFNqX0xQWQnUoJRNbvLpvRDyAhX3V86QWth3BDh3XZFPmyUq2X6STW7TWLPRruLKXBufnnLWKJ+V2ux86j4kwH1YJmYTmplDoqW0BfGSsus0efT8tTJwkN69Ji3UkbOBHPI++JG6N+8a7IZMfnBrGoV/h8N9WqlgjQoiEF0HnoIr4YCx+RT+X9iGwzBTW1dlg0scrJ1cA/zv43cNdfHhecLtPVTU+jVZu1W9qv26CQ8n0spwaBQydiMQSophD5zjtpBi5k+3BURE0Qub9nM2Xc7NvUDhzzKTSHZ8YI73GmibtY6VYraSs=;J23gV/y8n9h6rr46WlvRaA=="
 ---

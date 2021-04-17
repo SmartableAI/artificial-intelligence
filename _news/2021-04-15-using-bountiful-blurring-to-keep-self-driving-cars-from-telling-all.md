@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dubai to import self-driving cars"
-    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
-    publishedDateTime: 2021-04-12T18:34:00Z
-    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
-    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 59
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
     excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
     publishedDateTime: 2021-04-12T19:41:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Domino's is testing out its automated self-driving pizza delivery service"
-    excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
-    publishedDateTime: 2021-04-12T18:40:00Z
-    webUrl: "https://www.wlwt.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    ampWebUrl: "https://www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 43
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "XzKtmE0CGETlHapKiHfvzhLCESCmoj0AH/vF0iWaSBcLszXZU5yPGQRv13PrOOZR9qxEsuzyOk/tg297pVofBISc5knnbCurdwNPd4xwNH6XYBw4DkzbQTI+jtlqjpiCHe75zmTl/AbCOdGxxlu5S5yfAUnKoa6rmt0mScauKifKZ8mcZHjrilgWIhFzxdEe2Nlx+zsuAvCEUpDH3korK6pVOAMeuMeJr9c6GqOjhhuTz+TfTTBuXshDp7z/cmpOXd8iqrH4WQ87O8PUkb7/Rec/Y8G/YW+6kzibi6S7G/eH1UfjpEsAoJzCW7KlM+mxoMJq3LzfmxwZfcpvm02Z8DJAZz4HNTt4qUNGX5XsgBNaSX+sL/nGDPt9hL1mLCiQCCwLwKrTO5jqf8XxNabvXDls0+VBvhBftVu9xi63eYJfwTis3gTNThUmVBKwwNR8X2Vuz1T8GMuik2bJIUomOMLG2L0JccR6TFEqWOorYxQrp3p22fEoAeGXXBf3r2KINtfOagEpwuuWmsHWO9PVtA==;PebhwtsVp/VdPedWVee5tQ=="

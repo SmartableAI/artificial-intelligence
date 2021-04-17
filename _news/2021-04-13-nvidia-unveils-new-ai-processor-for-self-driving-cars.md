@@ -183,20 +183,6 @@ related:
         width: 1420
         height: 747
         isCached: true
-  - title: "ViON Discusses AI infrastructure as-a-Service at NVIDIA GTC 21"
-    excerpt: "ViON Corporation, a cloud service provider and market leader in the design, delivery and maintenance of mission-critical IT infrastructure solutions, reinforced today a strategic position with NVIDIA for bringing AI infrastructure as-a-Service (AIaaS ..."
-    publishedDateTime: 2021-04-12T18:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-cloud-computing-software-industry-c5cb0545517c47bbae71c558e92ee698"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Nvidia announces its first new Arm CPU for AI processing, the Nvidia Grace"
     excerpt: "Nvidia has announced their first CPU in several years – and first since making a big to acquire Arm – which is set to focus on the growing AI space."
     publishedDateTime: 2021-04-14T13:30:00Z
@@ -210,29 +196,6 @@ related:
       - url: "https://i0.wp.com/media.criticalhit.net//2021/04/nvidia_roadmap.jpg?fit=800%2C460&ssl=1"
         width: 800
         height: 460
-        isCached: true
-  - title: "NVIDIA Unveils NVIDIA DRIVE Atlan, an AI Data Center on Wheels for Next-Gen Autonomous Vehicles"
-    excerpt: "April 12, 2021 (GLOBE NEWSWIRE) -- GTC -- NVIDIA today revealed its next-generation AI-enabled processor for autonomous vehicles, NVIDIA DRIVE™ Atlan, which will deliver more than 1,000 ..."
-    publishedDateTime: 2021-04-12T17:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-unveils-nvidia-drive-atlan-an-ai-data-center-on-wheels-for-next-gen-autonomous-vehicles-1030294993"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "Touchcast Unveils World’s First AI-Powered Event Platform Boosted by NVIDIA Maxine Technology"
-    excerpt: "NEW YORK, April 12, 2021 /PRNewswire/ -- Touchcast today unveiled the world’s first AI-powered events platform. Incorporating NVIDIA Maxine, a GPU-accelerated SDK with state-of-the-art AI features, Touchcast is leading the transition to the next era of ..."
-    publishedDateTime: 2021-04-12T17:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-transportation-and-shipping-2c9a338a8c970c72c6e7157099ba2d92"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
     excerpt: "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A"
