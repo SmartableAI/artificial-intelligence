@@ -8,8 +8,8 @@ webUrl: "https://www.analyticsinsight.net/10-popular-must-read-free-ebooks-on-ma
 ampWebUrl: "https://www.analyticsinsight.net/10-popular-must-read-free-ebooks-on-machine-learning/?amp"
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/10-popular-must-read-free-ebooks-on-machine-learning/?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Machine-Learning-1.jpg"

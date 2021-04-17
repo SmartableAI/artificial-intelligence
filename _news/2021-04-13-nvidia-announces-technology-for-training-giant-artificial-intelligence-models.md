@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
 type: article
 quality: 99
-heat: 339
+heat: 309
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "NVIDIA unleashes Jarvis conversational AI framework"
-    excerpt: "real-time translations for multiple languages and new text-to-speech capabilities to create expressive conversational AI agents. The new offering was trained over several million GPU hours on over ..."
-    publishedDateTime: 2021-04-12T22:32:00Z
-    webUrl: "https://sdtimes.com/ai/nvidia-unleashes-jarvis-conversational-ai-framework/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "Nvidia triples revenue forecast for crypto mining GPU sales"
     excerpt: "Amazon's AI-powered cameras are a double-edged sword that could make drivers safer, but also force the company to sacrifice productivity, a transportation expert says » SHARE THIS POST NVIDIA ..."
     publishedDateTime: 2021-04-13T17:15:00Z
@@ -220,20 +206,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
-    excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
-    publishedDateTime: 2021-04-12T21:48:00Z
-    webUrl: "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
     excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
     publishedDateTime: 2021-04-13T16:32:00Z
@@ -329,20 +301,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/3-9.jpg"
         width: 1553
         height: 932
-        isCached: true
-  - title: "Nvidia Announces DRIVE Atlan, its Most Powerful Autonomous Vehicle Processor With 1,000 TOPS of Compute Power"
-    excerpt: "During today’s opening keynote of the annual GTC Technology Conference, NVIDIA founder and CEO Jensen Huang unveiled NVIDIA DRIVE Atlan, the upcoming generation of its AI-powered compute platform for autonomous vehicles."
-    publishedDateTime: 2021-04-12T23:00:00Z
-    webUrl: "https://www.futurecar.com/4545/Nvidia-Announces-DRIVE-Atlan,-its-Most-Powerful-Autonomous-Vehicle-Processor-With-1,000-TOPS-of-Compute-Power"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 3
-    images:
-      - url: "https://img.futurecar.com/202104/12/l_6074d5ab6894a.jpeg"
-        width: 700
-        height: 393
         isCached: true
 
 secured: "nhsa/T9tW7oBRZAlyQe4ZQgFvx1dL9Dbnv5CCiIhF8XUKBHzcCIb/1PbtEJNOyBuVHqGGoN/6zyMSbf+RdkBB2gfEdXiwXU1YfsJEU1ACE2yZZRsS6wLhpaoeamfwNby8PZ7Lk9eVFKYFCs3VE+TRuUpbK00aHllzdj0+15m6Jg8R3/qaqi46sitMgADgwxlLeGlkPDbnmOxrK79e1uy9OjYfMAgnvWcOi/h51R6TzxvGrzDChvY4B+aOfa5/syGfMk5B0LH8lR4ABqdrSlJKmgGoWyKM0zVRyaOQ/F1K5q9bO578Pr09cp2sK7T03BK9CTUbzsw/am3ESfXMSSetJEe4dptLJjpeVjMzn18ts72gjsc822eNC8xlALO6Io82TTwmuyzIeMRM9zEghrpsNo8K0ZTvttSsoVdrY8irNR4p50G1ABor+2wdtpC3iSAmEpFHMd7iL7/Z6ZdqcG3jIOmlFcMqkOgJ8WyDB2ptDPV6mwyFb8n2HUPFSOLwImuWTDShNAyPbgfpldW73Qfng==;TsuoN0nRlEt3JSLs1vSjuQ=="

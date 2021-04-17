@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/sports-business-execu
 webUrl: "https://apnews.com/press-release/pr-newswire/sports-business-executive-changes-products-and-services-sports-business-b0f5d507e767bafff1df38c1df7ae3c3"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Microsoft Jumps ‘Light Years’ In Health Care AI With Nuance Acquisition: Partners"
-    excerpt: "Microsoft’s Nuance acquisition will produce major new opportunities for the channel in health care AI and voice recognition, solution providers told CRN."
-    publishedDateTime: 2021-04-12T22:35:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-jumps-light-years-in-health-care-ai-with-nuance-acquisition-partners"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 51
-    images:
-      - url: "https://www.crn.com/resources/0268-12069f896813-36025a955139-1000/microsoft-nuance.jpg"
-        width: 609
-        height: 457
-        isCached: true
 
 secured: "zZ+TEQPo7wmmBF08l76NbaCHSJdd5MeUEovZni9N9f87SxmK3y6L8QT6VQfzXhsFNtEmIK8fEkhLfSBOOy5Ll7hbj/MVlNgrxRAZ9qxy2YvM9cNC2UFLotoce8om/muppT2ahRk0XS3smr2EwUKfrrGu95vsFQusGE/cfcBslrW8rLLJ8YyU7+hHMK9ML/TXyjpiKrvu94VyqOvxEPDIsYZ97dvLpuk2YEROFQAItLd+8HW/+xpPz/adm/0CDrxY6LvEHMWi7Nhoy2osWzcsh0vPtZi+6t4KSdrIF7wzB+tusrdQmlOUZGtQfikApVwWsIfqqHQHiA8ZiaMIwMEX4VRryB2BNDYEi7HiftR/3wE=;5PqjL7f660Ra9qjKkk3dTg=="
 ---

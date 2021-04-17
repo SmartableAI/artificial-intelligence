@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
         width: 1280
         height: 1066
-        isCached: true
-  - title: "Editorial: Ending use of facial recognition by police"
-    excerpt: "Eroding personal privacy by using facial recognition software is one problem for local law enforcement. Lying about it is another."
-    publishedDateTime: 2021-04-12T22:15:00Z
-    webUrl: "https://www.dailypress.com/opinion/vp-ed-editorial-facial-recognition-0413-20210412-udwa3ggxvvfwvkqlg3lgilf4qa-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/resizer/XdyCE5QDYV2OdeUdFg2sUq53_KM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "State panel studies use of facial recognition technology"
     excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."

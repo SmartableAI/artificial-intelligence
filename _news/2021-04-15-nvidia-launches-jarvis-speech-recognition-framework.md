@@ -7,7 +7,7 @@ originalUrl: "https://mobileidworld.com/nvidia-launches-jarvis-speech-recognitio
 webUrl: "https://mobileidworld.com/nvidia-launches-jarvis-speech-recognition-framework-041404/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 800
     height: 560
     isCached: true
-
-related:
-  - title: "Nvidia’s Jarvis Offers Real-Time Machine Translation"
-    excerpt: "Automated speech recognition services with improved accuracy for enterprise applications are the object of a new batch of pre-trained deep learning models"
-    publishedDateTime: 2021-04-12T22:29:00Z
-    webUrl: "https://www.datanami.com/2021/04/12/nvidias-jarvis-offers-real-time-machine-translation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png"
-        width: 492
-        height: 328
-        isCached: true
-  - title: "Building AI-Powered Virtual Collaboration and Content Creation Solutions with NVIDIA Maxine"
-    excerpt: "The SDK supports application features such as AI face codec ... be combines with NVIDIA Jarvis add language-based capabilities such as transcription, translation and virtual assistants."
-    publishedDateTime: 2021-04-13T00:58:00Z
-    webUrl: "https://www.electronicdesign.com/video/video/21161064/nvidia-building-aipowered-virtual-collaboration-and-content-creation-solutions-with-nvidia-maxine"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 29
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/maxresdefault.6074ebc565e9d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "R8x0YBEaY9PLcUSR3ir6TRBbVtYUbvNqpU8DnVogiXhqmIueE4xxgfgWU3uIPcD+BjsaG6rPrFc9ABhD837gbtNqRsiasyUFSCpO+LhqqNDoMf3JAw9/P/d21d2K3J8i/N0CKV1THH3rbyHtiuSkpIOl+SOMIFR6S121OA43f4uE5Bu75lxNdWA/dC+HZOBe8ALAuPw9xuyPe7CJVWuavUqbjSGV9VHSt6Kg17xloeGms0HpdTKfcKCjBv5uLckQyxzTIsiaDEkdOvHIfkIl9aITv+B5D1tTHW83nLbKgeHkIGLQ4xFwXmISx9T/Kr1hCFKOJCwThr7T0iUiZWDnTTSJa92Ipa6pjgehREjnPbY=;KktNSPIBHfJwuwQsSqh6yw=="
 ---

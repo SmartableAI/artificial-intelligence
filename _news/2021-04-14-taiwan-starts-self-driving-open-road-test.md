@@ -55,17 +55,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
-    excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
-    publishedDateTime: 2021-04-12T22:51:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/12/business/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
   - title: "Ford And Tesla’s EV Rivalry Heats Up"
     excerpt: "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech."
     publishedDateTime: 2021-04-16T12:10:00Z

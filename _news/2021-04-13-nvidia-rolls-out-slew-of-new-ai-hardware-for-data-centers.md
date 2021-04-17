@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "NVIDIA unleashes Jarvis conversational AI framework"
-    excerpt: "real-time translations for multiple languages and new text-to-speech capabilities to create expressive conversational AI agents. The new offering was trained over several million GPU hours on over ..."
-    publishedDateTime: 2021-04-12T22:32:00Z
-    webUrl: "https://sdtimes.com/ai/nvidia-unleashes-jarvis-conversational-ai-framework/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "Nvidia triples revenue forecast for crypto mining GPU sales"
     excerpt: "Amazon's AI-powered cameras are a double-edged sword that could make drivers safer, but also force the company to sacrifice productivity, a transportation expert says » SHARE THIS POST NVIDIA ..."
     publishedDateTime: 2021-04-13T17:15:00Z
@@ -231,20 +217,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
-    excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
-    publishedDateTime: 2021-04-12T21:48:00Z
-    webUrl: "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia announces its first new Arm CPU for AI processing, the Nvidia Grace"
     excerpt: "Nvidia has announced their first CPU in several years – and first since making a big to acquire Arm – which is set to focus on the growing AI space."
     publishedDateTime: 2021-04-14T13:30:00Z
@@ -326,20 +298,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/3-9.jpg"
         width: 1553
         height: 932
-        isCached: true
-  - title: "Nvidia Announces DRIVE Atlan, its Most Powerful Autonomous Vehicle Processor With 1,000 TOPS of Compute Power"
-    excerpt: "During today’s opening keynote of the annual GTC Technology Conference, NVIDIA founder and CEO Jensen Huang unveiled NVIDIA DRIVE Atlan, the upcoming generation of its AI-powered compute platform for autonomous vehicles."
-    publishedDateTime: 2021-04-12T23:00:00Z
-    webUrl: "https://www.futurecar.com/4545/Nvidia-Announces-DRIVE-Atlan,-its-Most-Powerful-Autonomous-Vehicle-Processor-With-1,000-TOPS-of-Compute-Power"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 3
-    images:
-      - url: "https://img.futurecar.com/202104/12/l_6074d5ab6894a.jpeg"
-        width: 700
-        height: 393
         isCached: true
 
 secured: "bxotbK3Ql8Amd9oNVZg22CkYtcZOj1/ciT0M1NMCCOqBunsvo7Yu/8fsyjCECvuHzsfuEr1L6BGX8Viu1cH2ebtrTyDsOBIL5rQ/JsfrwCxvLwaZ0nsgFOvkZCii1I4mSN7TEXsyv6nqI2J5AberLS1v9syMhoQrML6uCsf5iidwPhpyAif5TnRX5C+POya0aixk06cXnWAUze3kk3rnUDsTvinVrq/LtqOhovOQ5eLMVi4dkYTmtBqSQwneDYNR3eA5EMWA3a/AydO4g6yQQiCEZ69Njk9H+NVG08HN4y5HFusUwLN+YGSADZHzg9ZjCiKxhbsUv2ya73jud5DyD6eqQuvQujfcO1fuX/Th3I2ewAtccwIOs7JHvvZ987z16OkwzOUKuYlATrmk+JkzzlVb9FRImkgkjoYGPtW6VoUs/NIkcdljy3+WdEqQFI902sfUmoenE/9K58AxrHRebFrA2UQdQHQr0SjG/iHRnqv9lESavPoYFjFd9IUsYnudRI70h4L9STxuqGIY/bnWaw==;yhma0Vv8MRN8s8vOjkGX1A=="

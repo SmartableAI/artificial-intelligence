@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Strategy in the Artificial Age: Observations From Teaching an AI to Write a U.S. National Security Strategy"
+    excerpt: "In every iteration of the artificial strategy, the neural network deep writes that the strategic environment will have changed “significantly,” “markedly,” or “dramatically.” Likewise, prior national security strategies have had high levels of ..."
+    publishedDateTime: 2021-04-14T07:45:00Z
+    webUrl: "https://warontherocks.com/2021/04/strategy-in-the-artificial-age-observations-from-teaching-an-ai-to-write-a-u-s-national-security-strategy/"
+    type: article
+    provider:
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 38
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2021/04/210404-N-YA628-2309.jpg"
+        width: 1330
+        height: 850
+        isCached: true
   - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
     excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
     publishedDateTime: 2021-04-13T11:00:00Z
